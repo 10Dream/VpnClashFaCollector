@@ -465,20 +465,29 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅, server: 78.129.140.11, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: y3SowqUkrt1cbm487g74Ac, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪", server: 62.133.60.43, port: 36456, type: ss, cipher: chacha20-ietf-poly1305, password: ujVzCt42DoGMG0m24pzRaU, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇦🇪", server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇦🇪 2", server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇸🇪`", server: 91.186.217.246, port: 31764, type: ss, cipher: chacha20-ietf-poly1305, password: Ftc17VH9ZXQON5vslJCYmv, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸", server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NA1lIEGUEV9QZVp5TU3PRW, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱", server: 45.82.67.38, port: 16485, type: ss, cipher: aes-128-gcm, password: 9Ya5Q6xXako51EFZtOWDXmbEs4Gjw9IU, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 2", server: 173.225.106.117, port: 12484, type: ss, cipher: aes-128-gcm, password: F9fBiCNRgeA8yKBdsPVIkssLJzTQfbn0, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇫🇷", server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱 2", server: 45.82.67.252, port: 16484, type: ss, cipher: aes-128-gcm, password: ZB1VG0KEzX8AZf2DmLo8FAAiRD5QMqnf, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇫🇷 2", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱 3", server: 45.82.67.45, port: 16487, type: ss, cipher: aes-128-gcm, password: twoDiswqDsjyWvnAenf6DjmqFvPO53zY, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪 2", server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇹🇷", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
   - {name: "@proxy_vasel", server: 104.18.7.147, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: 🇷🇺 @FNETPRO 🇷🇺 Russia, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☢️93@unvisible_drops, server: 90.156.217.130, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@internet_azad2 gf", server: 185.18.250.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 31608862-5632-4985-a600-c41362380b8c, servername: cdn.graphapp.ir, network: ws, ws-opts: {path: "/ws?ed=2560", headers: {Host: cdn.graphapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@APPXA", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ➤ @netshekan99, server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura", server: ahura2.prodatabase.ir, port: 1900, type: vless, tls: true, packet-encoding: xudp, uuid: 7199244c-7e19-4fcb-bedf-490de18690ac, host: ahura2.prodatabase.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Channel : @FreeConfigForYou🏴🏳", server: 158.160.223.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☢️96@unvisible_drops, server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:", server: dl5-tr4-cdn.cloud-files-uploader.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 94697419-f8c4-4a38-9aa9-9e9f7d7c03f9, network: ws, ws-opts: {path: /, headers: {Host: dl5-tr4-cdn.cloud-files-uploader.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ☢️@unvisible_drops, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98d677be-b14b-4c14-a96b-4a39a3be645a, servername: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: llgy-@Fr33C0nfig / کانفیگ رایگان, server: pishj.afti1.sfhre2.lili1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205, servername: harro-likeh1.sdcards1.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: harro-likeh1.sdcards1.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: www.getasa.ir, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: www.getasa.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ➤ @netshekan99 2, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -496,20 +505,29 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -517,20 +535,29 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -538,20 +565,29 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: اتصال پایدار 🔗
     type: url-test
@@ -568,20 +604,29 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -589,20 +634,29 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -610,20 +664,29 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 | wifi ✅
+      - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - "@v2FreeHub 🇺🇸"
+      - "@v2FreeHub 🇳🇱"
+      - "@v2FreeHub 🇺🇸 2"
+      - "@v2FreeHub 🇫🇷"
+      - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇫🇷 2"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇩🇪 2"
+      - "@v2FreeHub 🇹🇷"
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
       - "@internet_azad2 gf"
       - "@APPXA"
       - ➤ @netshekan99
-      - "%F0%9F%87%AE%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%AE%20%E2%80%A2%20Ahura"
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
-      - "Telegram:"
-      - ☢️@unvisible_drops
-      - llgy-@Fr33C0nfig / کانفیگ رایگان
       - ⚡Telegram - @prrofile_purple
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99 2
   - name: دانلود منیجر 📥
     type: select

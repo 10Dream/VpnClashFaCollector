@@ -465,14 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 137.184.174.93:8080, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 146.70.61.37:8080, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 154.90.55.15:11201, server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
+  - {name: 176.125.240.167:9443, server: 176.125.240.167, port: 9443, type: trojan, password: 249454d267254a52ab3c8b7906bc12ab, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🔥Ğ20", server: 176.125.240.167, port: 9443, type: trojan, password: 249454d267254a52ab3c8b7906bc12ab, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 137.184.174.93:8080
-      - "***✅***@AR14N24b"
-      - 146.70.61.37:8080
-      - "***✅***@AR14N24b 2"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 176.125.240.167:9443
+      - "@configraygan 🔥Ğ20"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -472,13 +472,8 @@ proxies:
   - {name: NetAccount 3, server: safest.silentbreath.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 81425907-7721-4d6e-bd7e-4c2df08e9754, host: safest.silentbreath.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@dicodeir | موشک باشه...`", server: teamnim.ir, port: 3446, type: vless, tls: true, packet-encoding: xudp, uuid: 969dfc05-c0af-47d1-9fe1-4579569ba7c9, host: teamnim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Testing 🇫🇮 - موقت, server: 109.122.255.62, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: afbff11a-7db7-41de-9026-cb8cf2626d21, host: excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE-0- 🚀 | پرسرعت, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f6d99088-93d2-4836-b942-2551e2922883, network: ws, ws-opts: {path: /download, headers: {Host: sabzb.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 FR-1- ⚡ | پرسرعت, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f6d99088-93d2-4836-b942-2551e2922883, network: ws, ws-opts: {path: /download, headers: {Host: sabzb2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 4, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 5, server: 94.182.169.82, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: ff8ed07c-f05e-4343-9307-6dbb644d2ce5, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها, server: 81.12.33.180, port: 2022, type: vmess, uuid: f993b24a-015f-4127-9bb1-ad5272f81961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2, server: 81.12.33.180, port: 2028, type: vmess, uuid: f993b24a-015f-4127-9bb1-ad5272f81961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها, server: 81.12.33.180, port: 8595, type: vmess, uuid: f993b24a-015f-4127-9bb1-ad5272f81961, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -502,13 +497,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -522,13 +512,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -542,13 +527,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -571,13 +551,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -591,13 +566,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -611,13 +581,8 @@ proxy-groups:
       - NetAccount 3
       - "@dicodeir | موشک باشه...`"
       - Testing 🇫🇮 - موقت
-      - 🇩🇪 DE-0- 🚀 | پرسرعت
-      - 🇫🇷 FR-1- ⚡ | پرسرعت
       - NetAccount 4
       - NetAccount 5
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها
-      - 🇩🇪 ◖🇩🇪◗ DE🍺 | یک سوم بها 2
-      - 🇳🇱 ◖🇳🇱◗ NL🌹 | یک سوم بها
   - name: دانلود منیجر 📥
     type: select
     proxies:

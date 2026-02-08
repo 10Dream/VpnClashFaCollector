@@ -469,10 +469,8 @@ proxies:
   - {name: 🇫🇷 fr-hamedvpns, server: 54.37.77.201, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 70fa4568f0fce450, udp: true, tfo: false}
   - {name: 141.95.106.231:11201, server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
   - {name: 🇯🇵 jp-hamedp71, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇺🇸 us-hp71, server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 nl-hamedvpns, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇺🇸 us-hamedvpns, server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇪🇸 [hamedvpns] vless-ES", server: 79.137.175.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [hamedp71] vmess-DE", server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,10 +491,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -507,10 +503,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -521,10 +515,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,10 +536,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -558,10 +548,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -572,10 +560,8 @@ proxy-groups:
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
-      - 🇺🇸 us-hp71
+      - 🇳🇱 nl-hamedvpns
       - 🇺🇸 us-hamedvpns
-      - 🇪🇸 [hamedvpns] vless-ES
-      - 🇩🇪 [hamedp71] vmess-DE
   - name: دانلود منیجر 📥
     type: select
     proxies:
