@@ -465,6 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@hamedvpns", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr-hamedvpns, server: 54.37.77.201, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 70fa4568f0fce450, udp: true, tfo: false}
   - {name: 141.95.106.231:11201, server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
   - {name: 🇯🇵 jp-hamedp71, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
@@ -488,6 +489,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
@@ -501,6 +503,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
@@ -514,6 +517,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
@@ -536,6 +540,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
@@ -549,6 +554,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71
@@ -562,6 +568,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@hamedvpns"
       - 🇫🇷 fr-hamedvpns
       - 141.95.106.231:11201
       - 🇯🇵 jp-hamedp71

@@ -484,7 +484,10 @@ proxies:
   - {name: 45.82.67.252:16484, server: 45.82.67.252, port: 16484, type: ss, cipher: aes-128-gcm, password: ZB1VG0KEzX8AZf2DmLo8FAAiRD5QMqnf, udp: true, tfo: false}
   - {name: 51.159.103.137:18290, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
   - {name: 45.82.67.45:16487, server: 45.82.67.45, port: 16487, type: ss, cipher: aes-128-gcm, password: twoDiswqDsjyWvnAenf6DjmqFvPO53zY, udp: true, tfo: false}
+  - {name: 172.64.152.23:443, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com`, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com`}}, udp: true, tfo: false}
+  - {name: 188.114.96.3:443, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 167.82.92.159:80, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /`, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 nl-78w-c.southnetworks.cloud:80, server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.13.210:443, server: 104.21.13.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3ad86e-1818-49bb-949d-4e85d137a16d, servername: mianfeijiedianscp.buzz, network: ws, ws-opts: {path: /, headers: {Host: mianfeijiedianscp.buzz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 OV-France1.09vpn.com:80, server: OV-France1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0, network: ws, ws-opts: {path: /vless/, headers: {Host: OV-France1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 hk4.miyazono-kaori.com:443, server: hk4.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e82cda5-e020-4c63-8271-e58a00831447, servername: www.ikea.com.hk, host: www.ikea.com.hk, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6GIENB8z0Fpm9Yf7IFKqLhOBUFX3Qv8QbRK0XGl4NwE, short-id: de392136}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -492,13 +495,18 @@ proxies:
   - {name: 35.180.58.153:20096, server: 35.180.58.153, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.154.164:20096, server: 35.181.154.164, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.12.46.175:1218, server: 81.12.46.175, port: 1218, type: vless, tls: true, packet-encoding: xudp, uuid: 3c68a105-54a8-47e9-8a11-e6e633c48ff0, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.158.206.80:23576, server: 51.158.206.80, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.158.206.98:23576, server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.130.125.160:8443, server: 45.130.125.160, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5203102c-be94-4a73-b165-f19ce3cc2474, servername: cloud.vip-morteza.xyz, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: cloud.vip-morteza.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@BESTVPN_V2BOT`", server: 188.114.98.0, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 5e0b0c5d-7711-4ef7-866c-104a4e12c6c6, servername: hamrah.lenalizmy0ve.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiTVpzRU96MGhtWmJmSFIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: hamrah.lenalizmy0ve.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: africa.visa.com:8880, server: africa.visa.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40.160.14.104:8880, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40.160.4.20:8880, server: 40.160.4.20, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40.160.6.133:8880, server: 40.160.6.133, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:8880, server: 188.114.98.0, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 77a54d55-6622-4992-8c9d-bb02692954fd, network: ws, ws-opts: {path: /, headers: {Host: fuckthisRezhim.decoreland.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: istai-zo.izumii.ir:2091, server: istai-zo.izumii.ir, port: 2091, type: vless, tls: true, packet-encoding: xudp, uuid: 7954a88d-2e46-49e2-954b-c6a910fcffc1, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: rably-m.izumii.ir:2098, server: rably-m.izumii.ir, port: 2098, type: vless, tls: true, packet-encoding: xudp, uuid: 7954a88d-2e46-49e2-954b-c6a910fcffc1, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ywwq.izumii.ir:2091, server: ywwq.izumii.ir, port: 2091, type: vless, tls: true, packet-encoding: xudp, uuid: 7954a88d-2e46-49e2-954b-c6a910fcffc1, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 217.26.222.46:443, server: 217.26.222.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7bf33271-8846-4189-badf-4f246e44fc5b, servername: google.com, alpn: [http%2F1.1], host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: axJHL-4uQA5ZR2-hvZ46di7OMGcFHuFFXGmKaoG5B1A, short-id: 82b21d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.34.145:8443, server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.82.251.116:8880, server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -508,6 +516,7 @@ proxies:
   - {name: 45.82.251.208:8880 3, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, servername: "%2F%3F---%40Azarbayjab1_Net---%40Azarbayjab1_Net---%40azarbayjab1_Net---%40azarbayjab1_Net---%40Azarbayjab1_Net", network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: pqh29v4.globalfymain.com:8880, server: pqh29v4.globalfymain.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, servername: pqh29v4.globalfymain.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: yesok42v2.ip4exordir.shop:8880, server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: yesok42v2.ip4exordir.shop:8880 2, server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: rz.leoshop.pw:2086, server: rz.leoshop.pw, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 907d141f-28dd-41af-914d-8daed7905a06, host: "%40%2C%2C%40turbov2box", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: support-for-teachers.ir.new19server.ir:80, server: support-for-teachers.ir.new19server.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b2ca47b5-d8c1-4303-b2db-701f2ab2db00, host: support-for-teachers.ir.new19server.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: S2.FASTSPEEDS.IR:2083, server: S2.FASTSPEEDS.IR, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b3c4cdc3-7999-4e8f-a6a3-0151a64b1f4e, servername: bsun-ukv1.ip-venzo.com, network: ws, ws-opts: {path: /ws, headers: {Host: bsun-ukv1.ip-venzo.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -551,7 +560,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -559,13 +571,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -575,6 +592,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083
@@ -608,7 +626,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -616,13 +637,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -632,6 +658,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083
@@ -665,7 +692,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -673,13 +703,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -689,6 +724,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083
@@ -731,7 +767,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -739,13 +778,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -755,6 +799,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083
@@ -788,7 +833,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -796,13 +844,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -812,6 +865,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083
@@ -845,7 +899,10 @@ proxy-groups:
       - 45.82.67.252:16484
       - 51.159.103.137:18290
       - 45.82.67.45:16487
+      - 172.64.152.23:443
+      - 188.114.96.3:443
       - 167.82.92.159:80
+      - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 104.21.13.210:443
       - 🇫🇷 OV-France1.09vpn.com:80
       - 🇭🇰 hk4.miyazono-kaori.com:443
@@ -853,13 +910,18 @@ proxy-groups:
       - 35.180.58.153:20096
       - 35.181.154.164:20096
       - 81.12.46.175:1218
+      - 51.158.206.80:23576
       - 51.158.206.98:23576
       - 45.130.125.160:8443
+      - "@BESTVPN_V2BOT`"
       - africa.visa.com:8880
       - 40.160.14.104:8880
       - 40.160.4.20:8880
       - 40.160.6.133:8880
       - 188.114.98.0:8880
+      - istai-zo.izumii.ir:2091
+      - rably-m.izumii.ir:2098
+      - ywwq.izumii.ir:2091
       - 217.26.222.46:443
       - 37.139.34.145:8443
       - 45.82.251.116:8880
@@ -869,6 +931,7 @@ proxy-groups:
       - 45.82.251.208:8880 3
       - pqh29v4.globalfymain.com:8880
       - yesok42v2.ip4exordir.shop:8880
+      - yesok42v2.ip4exordir.shop:8880 2
       - rz.leoshop.pw:2086
       - support-for-teachers.ir.new19server.ir:80
       - S2.FASTSPEEDS.IR:2083

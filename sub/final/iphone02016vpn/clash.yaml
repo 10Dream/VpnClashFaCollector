@@ -466,13 +466,18 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@iphone02016vpn  آلمان`", server: 57.129.94.79, port: 11207, type: ss, cipher: chacha20-ietf-poly1305, password: d2853f9bb8777734, udp: true, tfo: false}
+  - {name: IP_CF, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: IP_CF 2, server: 104.21.89.126, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 042c7251-327e-4900-a937-d6d1be58c92d, network: ws, ws-opts: {path: /, headers: {Host: FND1adV2ray8.5.8.5.CoM.SitE.IR.SHop.RubiKa.xn--4kqx5ax2nlue523g.CoM.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: IP_CF 3, server: 104.18.198.131, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: IP_CF 4, server: 104.20.61.212, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 2", server: vip.aminvip.online, port: 5358, type: vless, tls: true, packet-encoding: xudp, uuid: 922d260b-1be5-4bdb-b2c9-a3be4de69bc5, servername: refersion.com, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 3", server: f2.springpaatogh8.store, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: cfd61569-b43e-4dd7-9bf0-c30db60049e4, servername: chess.sorza.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: chess.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn`", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: IP_CF 5, server: 104.19.121.110, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 4", server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: cdn.abcallcenter.com, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: cdn.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 5", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: cdn.abcallcenter.com, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: cdn.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: TM (@AZARBAYJAB1) vmess-ws, server: tr1-smart.adelping.com, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: TM_AZARBAYJAB1.new.99.workers.dev, network: ws, ws-opts: {path: "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560", headers: {Host: TM_AZARBAYJAB1.new.99.workers.dev}}, udp: true, tfo: false}
+  - {name: IP_CF 6, server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,13 +495,18 @@ proxy-groups:
     type: select
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -504,13 +514,18 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -518,13 +533,18 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -541,13 +561,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -555,13 +580,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -569,13 +599,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "@iphone02016vpn  آلمان`"
+      - IP_CF
+      - IP_CF 2
+      - IP_CF 3
+      - IP_CF 4
       - "***🆔***"
       - "***🆔*** 2"
       - "***🆔*** 3"
       - "@iphone02016vpn`"
+      - IP_CF 5
       - "***🆔*** 4"
       - "***🆔*** 5"
-      - TM (@AZARBAYJAB1) vmess-ws
+      - IP_CF 6
   - name: دانلود منیجر 📥
     type: select
     proxies:

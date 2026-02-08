@@ -465,36 +465,98 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms |", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b`", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 217.30.10.70, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 217.30.10.70, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 217.30.10.18, port: 9041, type: ss, cipher: aes-256-cfb, password: U6qnYRhfyDmn8sgn, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: 217.30.10.70, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 217.30.10.70, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: 103.186.154.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 103.186.154.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: 103.186.154.189, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 12", server: 103.186.154.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 13", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 13", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 14", server: 103.186.155.129, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 14", server: 103.186.155.129, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 15", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 15", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 16", server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 16", server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 17", server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b`", server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 18", server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 17", server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 19", server: 103.186.155.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 18", server: 103.186.155.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 20", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 19", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 21", server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 20", server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 22", server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 21", server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 23", server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 22", server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 24", server: 217.30.10.70, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 23", server: 217.30.10.70, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 25", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 24", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 26", server: 34.242.133.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 25", server: 34.242.133.144, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 27", server: 194.116.173.21, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 26", server: 194.116.173.21, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 28", server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 2", server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 29", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 3", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 30", server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 27", server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 31", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 28", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 32", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 29", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 4", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 0035dd32-344d-6083-debb-66b0a76b33ac, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 0035dd32-344d-6083-debb-66b0a76b33ac, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 54be5383-3179-4cd6-0760-e861785fc71d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 54be5383-3179-4cd6-0760-e861785fc71d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 33", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 30", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 34", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 31", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 35", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 32", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 36", server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 33", server: 217.30.10.70, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 37", server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 34", server: 217.30.10.70, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 38", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 0035dd32-344d-6083-debb-66b0a76b33ac, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 35", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 0035dd32-344d-6083-debb-66b0a76b33ac, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 39", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 54be5383-3179-4cd6-0760-e861785fc71d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 36", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: 54be5383-3179-4cd6-0760-e861785fc71d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @v2FreeHub 🇮🇪`", server: 45.141.234.86, port: 443, type: ss, cipher: aes-256-gcm, password: 8783d8f0-8658-4435-9524-e2f5814c66fe, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪, server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 12", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: a0f62000-f28e-f433-040c-cdd6c0ec331e, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: a0f62000-f28e-f433-040c-cdd6c0ec331e, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 13", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1791ms |, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1825ms | ***✅***@AR14N24b, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 40", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 4383ms |, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪, server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 41", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: a0f62000-f28e-f433-040c-cdd6c0ec331e, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 37", server: 54485959976494536718669871610532.international-ixp.com, port: 11310, type: ss, cipher: aes-256-gcm, password: a0f62000-f28e-f433-040c-cdd6c0ec331e, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 42", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 38", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan+🔥Ğ151", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| TR | 451ms | @v2FreeHub 🇹🇷", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
+  - {name: "| TR | 785ms | @v2FreeHub 🇹🇷", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -513,8 +575,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -529,18 +589,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -549,8 +673,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -565,18 +687,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -585,8 +771,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -601,18 +785,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -630,8 +878,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -646,18 +892,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -666,8 +976,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -682,18 +990,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -702,8 +1074,6 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | 3"
@@ -718,18 +1088,82 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
       - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇩🇪 | DE | 291ms | @v2FreeHub 🇩🇪
-      - "| null | 99999ms | 12"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
-      - "| null | 99999ms | 13"
+      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | 13"
+      - "| null | 99999ms | ***✅***@AR14N24b 13"
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 18"
+      - "| null | 99999ms | 20"
+      - "| null | 99999ms | ***✅***@AR14N24b 19"
+      - "| null | 99999ms | 21"
+      - "| null | 99999ms | ***✅***@AR14N24b 20"
+      - "| null | 99999ms | 22"
+      - "| null | 99999ms | ***✅***@AR14N24b 21"
+      - "| null | 99999ms | 23"
+      - "| null | 99999ms | ***✅***@AR14N24b 22"
+      - "| null | 99999ms | 24"
+      - "| null | 99999ms | ***✅***@AR14N24b 23"
+      - "| null | 99999ms | 25"
+      - "| null | 99999ms | ***✅***@AR14N24b 24"
+      - "| null | 99999ms | 26"
+      - "| null | 99999ms | ***✅***@AR14N24b 25"
+      - "| null | 99999ms | 27"
+      - "| null | 99999ms | ***✅***@AR14N24b 26"
+      - "| null | 99999ms | 28"
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | 30"
+      - "| null | 99999ms | ***✅***@AR14N24b 27"
+      - "| null | 99999ms | 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 28"
+      - "| null | 99999ms | 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 29"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - "| null | 99999ms | 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 30"
+      - "| null | 99999ms | 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | 35"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | 37"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | 38"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - "| null | 99999ms | 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | @v2FreeHub 🇮🇪`"
+      - 🇺🇸 | US | 1791ms |
+      - 🇺🇸 | US | 1825ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 40"
+      - 🇩🇪 | DE | 4383ms |
+      - 🇩🇪 | DE | 442ms | @v2FreeHub 🇩🇪
+      - "| null | 99999ms | 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - "| null | 99999ms | 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
       - "| null | 99999ms | @configraygan+🔥Ğ151"
-      - "| TR | 451ms | @v2FreeHub 🇹🇷"
+      - "| TR | 785ms | @v2FreeHub 🇹🇷"
   - name: دانلود منیجر 📥
     type: select
     proxies:
