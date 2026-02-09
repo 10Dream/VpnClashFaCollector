@@ -471,13 +471,13 @@ proxies:
   - {name: "@configraygan 🔥Ğ50", server: 159.69.162.184, port: 42622, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 159.69.162.184:43383, server: 159.69.162.184, port: 43383, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ60", server: 159.69.162.184, port: 43383, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💛 تلگرام", server: 159.69.162.184, port: 43383, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️91@oneclickvpnkeys, server: 159.69.162.184, port: 43393, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.104.141.73:39871, server: 172.104.141.73, port: 39871, type: vless, tls: true, packet-encoding: xudp, uuid: 00952108-bcfa-453c-94c4-e137082a45f1, host: divar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 172.104.141.73, port: 39871, type: vless, tls: true, packet-encoding: xudp, uuid: 00952108-bcfa-453c-94c4-e137082a45f1, host: divar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.111.84.82:8443, server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.111.84.82:8443 2, server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.111.84.82:8443 3, server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🇧🇪 تلگرام", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌈🍒1", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑31", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑8", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -486,8 +486,6 @@ proxies:
   - {name: "@vpnbaz ⚓", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: 212.111.84.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.169.128.105:443, server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: f4b4a6365558ea2e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.169.128.105:443 2, server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: f4b4a6365558ea2e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🌹 تلگرام", server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: f4b4a6365558ea2e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: f4b4a6365558ea2e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4, server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00c01f55-e31a-41cd-872b-938cda90afc3, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: f4b4a6365558ea2e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IP_CF, server: 104.21.89.126, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 042c7251-327e-4900-a937-d6d1be58c92d, network: ws, ws-opts: {path: /, headers: {Host: FND1adV2ray8.5.8.5.CoM.SitE.IR.SHop.RubiKa.xn--4kqx5ax2nlue523g.CoM.}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -496,8 +494,6 @@ proxies:
   - {name: "***✅***@AR14N24b 4", server: 13.37.8.71, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.127.100:22224, server: 13.39.127.100, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.127.100:22224 2, server: 13.39.127.100, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.246.81:22224, server: 13.39.246.81, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.246.81:22224 2, server: 13.39.246.81, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.63.241:22224, server: 13.39.63.241, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: 13.39.63.241, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.63.241:22224 2, server: 13.39.63.241, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -517,6 +513,8 @@ proxies:
   - {name: "***✅***@AR14N24b 9", server: 35.180.9.127, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.180.9.127:22224 2, server: 35.180.9.127, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: 35.180.9.127, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.179.223:22224, server: 35.181.179.223, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.179.223:22224 2, server: 35.181.179.223, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.43.148:22224, server: 51.44.43.148, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: 51.44.43.148, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.43.148:22224 2, server: 51.44.43.148, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -538,19 +536,16 @@ proxies:
   - {name: 63.182.112.185:22224, server: 63.182.112.185, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.182.112.185:22224 2, server: 63.182.112.185, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 167.82.92.159:80, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.82.92.159:80 2, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.82.92.159:80 3, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /`, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 167.82.92.159:80 2, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /`, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@freenet_vt (ملی شکن), server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.82.92.159:80 4, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 167.82.92.159:80 3, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌈🍒49", server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 16", server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.82.92.159:80 5, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: speedtest.net:80, server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 056d10f1-4ebd-40e1-9f78-c7e11fce5258, network: ws, ws-opts: {path: /download, headers: {Host: sabzb2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🌹 تلگرام 2", server: speedtest.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 056d10f1-4ebd-40e1-9f78-c7e11fce5258, network: ws, ws-opts: {path: /download, headers: {Host: sabzb2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 167.82.92.159:80 4, server: 167.82.92.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0569f3ce-447b-4ac5-aae3-b47ae55351f7, network: ws, ws-opts: {path: /, headers: {Host: dayous.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.89.105.56:80, server: 45.89.105.56, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 05b544a4-d479-4ba4-8208-950bd4411453, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 17", server: 45.89.105.56, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 05b544a4-d479-4ba4-8208-950bd4411453, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️2@oneclickvpnkeys, server: 144.31.165.5, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 05dc09d5-5c56-454b-a34e-6ef743d91e1a, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28, short-id: abc323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -607,55 +602,38 @@ proxies:
   - {name: "***✅***@AR14N24b 25", server: ip3.kakeroo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 06a2f75b-2ab3-4356-aa5e-18729e71c449, network: ws, ws-opts: {path: /, headers: {Host: kalamsi666.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: z1.n1server.org:443, server: z1.n1server.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌈🍒13", server: z1.n1server.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S2.FASTSPEEDS.IR:2087, server: S2.FASTSPEEDS.IR, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 075f9190-5341-4464-a538-0041193065b1, servername: amir.v2hous.shop, network: ws, ws-opts: {path: /, headers: {Host: amir.v2hous.shop}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: S3.FASTSPEEDS.IR:2083, server: S3.FASTSPEEDS.IR, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 075f9190-5341-4464-a538-0041193065b1, servername: amir.v2hous.shop, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip1.technogozar.top:44941, server: vip1.technogozar.top, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: 07618aa3-7882-41ab-82c5-642ec3ecd3ce, servername: journalofbigdata.springeropen.com, host: journalofbigdata.springeropen.com, path: /, reality-opts: {public-key: HBI5a8DxMGLE5t-9Siw0HUwm3woFK9G19aOXsWosV3g, short-id: b3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 26", server: vip1.technogozar.top, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: 07618aa3-7882-41ab-82c5-642ec3ecd3ce, servername: journalofbigdata.springeropen.com, host: journalofbigdata.springeropen.com, path: /, reality-opts: {public-key: HBI5a8DxMGLE5t-9Siw0HUwm3woFK9G19aOXsWosV3g, short-id: b3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 130.193.59.133:51101, server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 130.193.59.133:51101 2, server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🐳 تلگرام", server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ63", server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa, server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💚 تلگرام", server: 130.193.59.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️78@oneclickvpnkeys, server: 176.109.109.58, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️78@proxy_kafee, server: 176.109.109.58, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🐳 تلگرام 2", server: 176.109.109.58, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️80@oneclickvpnkeys, server: 176.109.109.58, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️80@proxy_kafee, server: 176.109.109.58, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.33.57:443, server: 37.139.33.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💘 تلگرام", server: 37.139.33.57, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.33.57:8443, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 @FNETPRO 🇷🇺 Russia, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.33.57:8443 2, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🐳 تلگرام 3", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37.139.33.57:8443, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌈🍒2", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑29", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ132", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🫟", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 27", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🇩🇪***All²", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 4", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☮️69@oneclickvpnkeys, server: 90.156.217.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: f32140952ba18e18}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☢️93@unvisible_drops, server: 90.156.217.130, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🐳 تلگرام 4", server: 90.156.217.130, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 217.114.40.164:2027, server: 217.114.40.164, port: 2027, type: vless, tls: true, packet-encoding: xudp, uuid: 092b7daa-260c-428e-b8fa-512686e18ee8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 28", server: 217.114.40.164, port: 2027, type: vless, tls: true, packet-encoding: xudp, uuid: 092b7daa-260c-428e-b8fa-512686e18ee8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-78w-c.southnetworks.cloud:80, server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-78w-c.southnetworks.cloud:80 2, server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-78w-c.southnetworks.cloud:80 3, server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-78w-c.southnetworks.cloud:80 4, server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🇧🇪 تلگرام 2", server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 29", server: nl-78w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 094e66a9-8d92-41fe-85ad-8e7bf9b5fcaa, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-78w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 38.244.137.198:443, server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 38.244.137.198:443 2, server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💛 تلگرام 2", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 🚇", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🚇", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Father_vpn`", server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 40 @Outline_Vpn, server: 38.244.137.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 09748875-9da3-440e-9809-9752e1dda1e4, servername: google.com, host: google.com, path: /, reality-opts: {public-key: QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o, short-id: 365c07ed}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 208.69.78.5:443, server: 208.69.78.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a21d713-6e6f-4274-8b84-464019325513, servername: www.microsoft.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ecb7f0f50489f81cd1983a56}, reality-opts: {public-key: vMBfs89AZ02R1ggA45SqOFLfe6rJQ0_mLBpsV97k3zA, short-id: 9c8d68d581a08ea5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.237.81.80:46012, server: 94.237.81.80, port: 46012, type: vless, tls: true, packet-encoding: xudp, uuid: 0a49b23a-3f96-4da3-915d-ad98ad2020a7, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.13.210:443, server: 104.21.13.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3ad86e-1818-49bb-949d-4e85d137a16d, servername: mianfeijiedianscp.buzz, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: mianfeijiedianscp.buzz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount`, server: 104.21.13.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3ad86e-1818-49bb-949d-4e85d137a16d, servername: mianfeijiedianscp.buzz, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: mianfeijiedianscp.buzz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit`", server: 62.60.196.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3da50c-9dba-469d-94b5-c5c400fce06a, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.196.148:443, server: 62.60.196.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3da50c-9dba-469d-94b5-c5c400fce06a, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 2", server: 62.60.196.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b3da50c-9dba-469d-94b5-c5c400fce06a, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -701,7 +679,7 @@ proxies:
   - {name: 188.121.100.120:2095, server: 188.121.100.120, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 1525110b-859e-446a-b0f3-bfefbad4e4a1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.100.120:2095 2, server: 188.121.100.120, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 1525110b-859e-446a-b0f3-bfefbad4e4a1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 3", server: 188.121.100.120, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 1525110b-859e-446a-b0f3-bfefbad4e4a1, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.237.81.80:35908, server: 94.237.81.80, port: 35908, type: vless, tls: true, packet-encoding: xudp, uuid: 16352455-c295-4cdd-b5f7-28b29c919389, servername: www.aparat.com, host: www.aparat.com, path: /, reality-opts: {public-key: pU_Qz5A2QWbZ0pGhSshgnmCSc_MM0PORAx1KkPsAg2Y, short-id: fce3c084cd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 188.121.100.120, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 1525110b-859e-446a-b0f3-bfefbad4e4a1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.225.9.164:4450, server: 46.225.9.164, port: 4450, type: vless, tls: true, packet-encoding: xudp, uuid: 16da1b90-2f32-4dc9-8bd2-08c642057654, servername: play.google.com, host: play.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥109", server: 46.225.9.164, port: 4450, type: vless, tls: true, packet-encoding: xudp, uuid: 16da1b90-2f32-4dc9-8bd2-08c642057654, servername: play.google.com, host: play.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 36", server: 46.225.9.164, port: 4450, type: vless, tls: true, packet-encoding: xudp, uuid: 16da1b90-2f32-4dc9-8bd2-08c642057654, servername: play.google.com, host: play.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -712,16 +690,16 @@ proxies:
   - {name: do.jadhap.ir:45595, server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 37", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: do.jadhap.ir:45595 2, server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran ✅️ تلگرام", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🌼 تلگرام", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vpnbaz 🌵", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 38", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 5", server: do.jadhap.ir, port: 45595, type: vless, tls: true, packet-encoding: xudp, uuid: 195ec880-d140-4265-aec7-47d0429407ed, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: kiarash.pouriau.com:2096, server: kiarash.pouriau.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: dll.pouriau.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: dll.pouriau.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s1.hesam-tbr.com:2096, server: s1.hesam-tbr.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: dll.hesam-tbr.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: dll.hesam-tbr.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1@freenet_vt (ملی شکن), server: s1.hesam-tbr.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: dll.hesam-tbr.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: dll.hesam-tbr.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s4.jockshenasi.ir:2096, server: s4.jockshenasi.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: steamdl.pou-ria.com, network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: steamdl.pou-ria.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ129", server: s4.jockshenasi.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: steamdl.pou-ria.com, network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: steamdl.pou-ria.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s4.jockshenasi.ir:2096 2, server: s4.jockshenasi.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: steamdl.pou-ria.com, network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: steamdl.pou-ria.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@freenet_vt (ملی شکن), server: s4.jockshenasi.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 19829bd4-b4d7-e329-85a3-4d6d1bef83d3, servername: steamdl.pou-ria.com, network: ws, ws-opts: {path: "telegram:@/www.net/www.telewbion.com/ws?ed=2560", headers: {Host: steamdl.pou-ria.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: tu3.bing-net.com, port: 3044, type: vless, tls: true, packet-encoding: xudp, uuid: 1a8c8452-acc1-486f-89e9-c5df80df823a, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.20.1.252:80, server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1a94fbd9-79d2-4aa7-bf1d-074f678d27ab, network: ws, ws-opts: {path: "/?ed", headers: {Host: EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -756,8 +734,6 @@ proxies:
   - {name: "***✅***@AR14N24b 45", server: fmsh4.movementvip.ir, port: 19656, type: vless, tls: true, packet-encoding: xudp, uuid: 21825049-840a-4299-84d7-01efe42bccff, host: fmsh4.movementvip.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fmsh4.movementvip.ir:19656 2, server: fmsh4.movementvip.ir, port: 19656, type: vless, tls: true, packet-encoding: xudp, uuid: 21825049-840a-4299-84d7-01efe42bccff, host: fmsh4.movementvip.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 46", server: fmsh4.movementvip.ir, port: 19656, type: vless, tls: true, packet-encoding: xudp, uuid: 21825049-840a-4299-84d7-01efe42bccff, host: fmsh4.movementvip.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 95.38.65.158:16437, server: 95.38.65.158, port: 16437, type: vless, tls: true, packet-encoding: xudp, uuid: 22104d4f-8426-4a72-b1aa-0c07690fc035, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: sv33.v2bit.com:2087, server: sv33.v2bit.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 221efdca-58cc-4179-bb23-9fb7d91aa72b, servername: sadjkg32jhgjhasd.chgfa.site, network: ws, ws-opts: {path: /, headers: {Host: sadjkg32jhgjhasd.chgfa.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: SpEeDtEsT.NeT:80, server: SpEeDtEsT.NeT, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 23149a69-8e1c-442a-8e86-3d8cc1dc7be9, host: SpEeDtEsT.NeT, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ81", server: SpEeDtEsT.NeT, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 23149a69-8e1c-442a-8e86-3d8cc1dc7be9, host: SpEeDtEsT.NeT, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.88.182.24:25380, server: 45.88.182.24, port: 25380, type: vless, tls: true, packet-encoding: xudp, uuid: 237120d4-6f8e-47de-b50c-2c8218a720df, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: G7LvWyxJWO4f-YKZM-Nf7n3hd3AHfThLX3aOIC2qKXg, short-id: d6cd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -766,17 +742,18 @@ proxies:
   - {name: g2liliadasosjjds.nationalldt.com:19667, server: g2liliadasosjjds.nationalldt.com, port: 19667, type: vless, tls: true, packet-encoding: xudp, uuid: 251c9e28-bde2-45c8-bbff-e26d8d06d236, host: igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ14", server: g2liliadasosjjds.nationalldt.com, port: 19667, type: vless, tls: true, packet-encoding: xudp, uuid: 251c9e28-bde2-45c8-bbff-e26d8d06d236, host: igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☺️60@oneclickvpnkeys, server: 188.114.98.224, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 25aa9915-8061-4a5d-8fd8-b26c222d5b4c, servername: vds.rahedarro.com, network: ws, ws-opts: {path: /block, headers: {Host: vds.rahedarro.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran ❤️ تلگرام", server: OV-France1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 25f86cb1-2140-4085-abcb-c3a0ea7a4be0, network: ws, ws-opts: {path: /vless/, headers: {Host: OV-France1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ns4.iran-mehrbu.ir:443, server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h2%2Ch3%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 47", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h2%2Ch3%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ns4.iran-mehrbu.ir:443 2, server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 48", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ns4.iran-mehrbu.ir:443 3, server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🤍 تلگرام", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 49", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ns4.iran-mehrbu.ir:443 4, server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan X54", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 50", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ns4.iran-mehrbu.ir:443 5, server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 💜 تلگرام", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 51", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 5", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 8", server: Ns4.iran-mehrbu.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: mostrabane.global.ssl.fastly.net, network: ws, ws-opts: {path: "/amir?ed=2048", headers: {Host: mostrabane.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -796,6 +773,10 @@ proxies:
   - {name: "***✅***@AR14N24b 56", server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: /, headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 2", server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: /, headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆`", server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: /, headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Rose8.lhpuniversity.online:41488, server: Rose8.lhpuniversity.online, port: 41488, type: vless, tls: true, packet-encoding: xudp, uuid: 27321d2d-1be0-4628-b45d-a24f95aba23a, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: Rose8.lhpuniversity.online, port: 41488, type: vless, tls: true, packet-encoding: xudp, uuid: 27321d2d-1be0-4628-b45d-a24f95aba23a, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22@oneclickvpnkeys, server: 217.154.254.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 278cdc8a-1c0c-4710-bc48-b8c6e5f36c24, servername: azure.com, host: azure.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22@proxy_kafee, server: 217.154.254.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 278cdc8a-1c0c-4710-bc48-b8c6e5f36c24, servername: azure.com, host: azure.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -818,13 +799,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -833,8 +814,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -843,8 +822,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -864,6 +841,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -885,19 +864,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -954,55 +930,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -1048,7 +1007,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -1059,16 +1018,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -1103,8 +1062,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -1113,17 +1070,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -1143,6 +1101,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1155,13 +1117,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -1170,8 +1132,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -1180,8 +1140,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -1201,6 +1159,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -1222,19 +1182,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -1291,55 +1248,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -1385,7 +1325,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -1396,16 +1336,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -1440,8 +1380,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -1450,17 +1388,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -1480,6 +1419,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1492,13 +1435,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -1507,8 +1450,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -1517,8 +1458,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -1538,6 +1477,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -1559,19 +1500,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -1628,55 +1566,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -1722,7 +1643,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -1733,16 +1654,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -1777,8 +1698,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -1787,17 +1706,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -1817,6 +1737,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1838,13 +1762,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -1853,8 +1777,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -1863,8 +1785,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -1884,6 +1804,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -1905,19 +1827,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -1974,55 +1893,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -2068,7 +1970,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -2079,16 +1981,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -2123,8 +2025,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -2133,17 +2033,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -2163,6 +2064,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -2175,13 +2080,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -2190,8 +2095,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -2200,8 +2103,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -2221,6 +2122,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -2242,19 +2145,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -2311,55 +2211,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -2405,7 +2288,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -2416,16 +2299,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -2460,8 +2343,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -2470,17 +2351,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -2500,6 +2382,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -2512,13 +2398,13 @@ proxy-groups:
       - "@configraygan 🔥Ğ50"
       - 159.69.162.184:43383
       - "@configraygan 🔥Ğ60"
-      - "@Vpn_Tehran 💛 تلگرام"
       - ☮️91@oneclickvpnkeys
       - 172.104.141.73:39871
       - "***✅***@AR14N24b"
       - 212.111.84.82:8443
       - 212.111.84.82:8443 2
       - 212.111.84.82:8443 3
+      - "@Vpn_Tehran 🇧🇪 تلگرام"
       - "@configraygan 🌈🍒1"
       - "@configraygan 🍑31"
       - "@configraygan 🍑8"
@@ -2527,8 +2413,6 @@ proxy-groups:
       - "@vpnbaz ⚓"
       - "***✅***@AR14N24b 2"
       - 89.169.128.105:443
-      - 89.169.128.105:443 2
-      - "@Vpn_Tehran 🌹 تلگرام"
       - "***✅***@AR14N24b 3"
       - 4
       - IP_CF
@@ -2537,8 +2421,6 @@ proxy-groups:
       - "***✅***@AR14N24b 4"
       - 13.39.127.100:22224
       - 13.39.127.100:22224 2
-      - 13.39.246.81:22224
-      - 13.39.246.81:22224 2
       - 13.39.63.241:22224
       - "***✅***@AR14N24b 5"
       - 13.39.63.241:22224 2
@@ -2558,6 +2440,8 @@ proxy-groups:
       - "***✅***@AR14N24b 9"
       - 35.180.9.127:22224 2
       - "***✅***@AR14N24b 10"
+      - 35.181.179.223:22224
+      - 35.181.179.223:22224 2
       - 51.44.43.148:22224
       - "***✅***@AR14N24b 11"
       - 51.44.43.148:22224 2
@@ -2579,19 +2463,16 @@ proxy-groups:
       - 63.182.112.185:22224
       - 63.182.112.185:22224 2
       - 167.82.92.159:80
-      - 167.82.92.159:80 2
       - "Telegram: @wiki_tajrobe"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - "@meliproxyy 2"
       - configraygan
-      - 167.82.92.159:80 3
+      - 167.82.92.159:80 2
       - 5@freenet_vt (ملی شکن)
-      - 167.82.92.159:80 4
+      - 167.82.92.159:80 3
       - "@configraygan 🌈🍒49"
       - "***✅***@AR14N24b 16"
-      - 167.82.92.159:80 5
-      - speedtest.net:80
-      - "@Vpn_Tehran 🌹 تلگرام 2"
+      - 167.82.92.159:80 4
       - 45.89.105.56:80
       - "***✅***@AR14N24b 17"
       - ☮️2@oneclickvpnkeys
@@ -2648,55 +2529,38 @@ proxy-groups:
       - "***✅***@AR14N24b 25"
       - z1.n1server.org:443
       - "@configraygan 🌈🍒13"
-      - S2.FASTSPEEDS.IR:2087
-      - S3.FASTSPEEDS.IR:2083
       - vip1.technogozar.top:44941
       - "***✅***@AR14N24b 26"
       - 130.193.59.133:51101
-      - 130.193.59.133:51101 2
-      - "@Vpn_Tehran 🐳 تلگرام"
       - "@configraygan 🔥Ğ63"
-      - lrnbymaa
-      - "@Vpn_Tehran 💚 تلگرام"
       - ☮️78@oneclickvpnkeys
       - ☮️78@proxy_kafee
-      - "@Vpn_Tehran 🐳 تلگرام 2"
       - ☮️80@oneclickvpnkeys
       - ☮️80@proxy_kafee
       - 37.139.33.57:443
-      - "@Vpn_Tehran 💘 تلگرام"
-      - 37.139.33.57:8443
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
-      - 37.139.33.57:8443 2
-      - "@Vpn_Tehran 🐳 تلگرام 3"
+      - 37.139.33.57:8443
       - "@configraygan 🌈🍒2"
       - "@configraygan 🍑29"
       - "@configraygan 🔥Ğ132"
       - "@vpnbaz 🫟"
       - "***✅***@AR14N24b 27"
       - "***🇩🇪***All²"
-      - "@meliproxyy 4"
       - ☮️69@oneclickvpnkeys
       - ☢️93@unvisible_drops
-      - "@Vpn_Tehran 🐳 تلگرام 4"
       - 217.114.40.164:2027
       - "***✅***@AR14N24b 28"
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 2
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 3
       - 🇳🇱 nl-78w-c.southnetworks.cloud:80 4
+      - "@Vpn_Tehran 🇧🇪 تلگرام 2"
       - "***✅***@AR14N24b 29"
-      - 38.244.137.198:443
-      - 38.244.137.198:443 2
-      - "@Vpn_Tehran 💛 تلگرام 2"
       - "@proxy_kafee 🚇"
       - "@vpnbaz 🚇"
       - "@Father_vpn`"
       - IR 40 @Outline_Vpn
       - 208.69.78.5:443
-      - 94.237.81.80:46012
-      - 104.21.13.210:443
-      - NetAccount`
       - "@Capoit`"
       - 62.60.196.148:443
       - "Telegram: @wiki_tajrobe 2"
@@ -2742,7 +2606,7 @@ proxy-groups:
       - 188.121.100.120:2095
       - 188.121.100.120:2095 2
       - "***✅***@AR14N24b` 3"
-      - 94.237.81.80:35908
+      - "@meliproxyy 4"
       - 46.225.9.164:4450
       - "@configraygan 🔥109"
       - "***✅***@AR14N24b 36"
@@ -2753,16 +2617,16 @@ proxy-groups:
       - do.jadhap.ir:45595
       - "***✅***@AR14N24b 37"
       - do.jadhap.ir:45595 2
+      - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🌼 تلگرام"
+      - "@vpnbaz 🌵"
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 5"
-      - kiarash.pouriau.com:2096
-      - s1.hesam-tbr.com:2096
       - 1@freenet_vt (ملی شکن)
       - s4.jockshenasi.ir:2096
       - "@configraygan 🔥Ğ129"
-      - s4.jockshenasi.ir:2096 2
       - 2@freenet_vt (ملی شکن)
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 104.20.1.252:80
@@ -2797,8 +2661,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - fmsh4.movementvip.ir:19656 2
       - "***✅***@AR14N24b 46"
-      - 95.38.65.158:16437
-      - sv33.v2bit.com:2087
       - SpEeDtEsT.NeT:80
       - "@configraygan 🔥Ğ81"
       - 45.88.182.24:25380
@@ -2807,17 +2669,18 @@ proxy-groups:
       - g2liliadasosjjds.nationalldt.com:19667
       - "@configraygan 🔥Ğ14"
       - ☺️60@oneclickvpnkeys
-      - "@Vpn_Tehran ❤️ تلگرام"
       - Ns4.iran-mehrbu.ir:443
       - "***✅***@AR14N24b 47"
       - Ns4.iran-mehrbu.ir:443 2
       - "***✅***@AR14N24b 48"
       - Ns4.iran-mehrbu.ir:443 3
+      - "@Vpn_Tehran 🤍 تلگرام"
       - "***✅***@AR14N24b 49"
       - Ns4.iran-mehrbu.ir:443 4
       - "@configraygan X54"
       - "***✅***@AR14N24b 50"
       - Ns4.iran-mehrbu.ir:443 5
+      - "@Vpn_Tehran 💜 تلگرام"
       - "***✅***@AR14N24b 51"
       - "***✅***@AR14N24b` 5"
       - "@meliproxyy 8"
@@ -2837,6 +2700,10 @@ proxy-groups:
       - "***✅***@AR14N24b 56"
       - "***🐦‍🔥***-@SPEEDS_VPN` 2"
       - "@SPEEDS_VPN1-🫆`"
+      - Rose8.lhpuniversity.online:41488
+      - "***✅***@AR14N24b 57"
+      - 22@oneclickvpnkeys
+      - 22@proxy_kafee
   - name: دانلود منیجر 📥
     type: select
     proxies:

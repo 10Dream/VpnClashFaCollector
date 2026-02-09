@@ -476,7 +476,6 @@ proxies:
   - {name: "@vpnbaz 🎳", server: 57.129.132.223, port: 80, type: vmess, uuid: a25cbf11-2908-4a1b-a3a8-9a571777dca3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: 2🔥, server: 57.129.132.223, port: 80, type: vmess, uuid: a25cbf11-2908-4a1b-a3a8-9a571777dca3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ148", server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: zula.ir, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
-  - {name: ☮️3@oneclickvpnkeys, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: zula.ir, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
   - {name: configraygan, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: zula.ir, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ102", server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ68", server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws}, udp: true, tfo: false}
@@ -486,6 +485,7 @@ proxies:
   - {name: "@configraygan 🔥Ğ79", server: 57.129.28.64, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ17", server: 57.129.59.199, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ19", server: 57.129.64.238, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws}, udp: true, tfo: false}
+  - {name: ♻️29@oneclickvpnkeys, server: 91.134.8.101, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws}, udp: true, tfo: false}
   - {name: IP_CF, server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
   - {name: 30, server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ147", server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
@@ -495,7 +495,8 @@ proxies:
   - {name: ☮️77@oneclickvpnkeys, server: 148.113.153.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ24", server: 148.113.176.192, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}, udp: true, tfo: false}
   - {name: ☮️74@oneclickvpnkeys, server: 15.235.83.228, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 157.173.206.47, port: 57449, type: vmess, uuid: 4f6d0ce6-0406-447c-f307-21a6aa7fe6b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: CR, server: 172.234.132.232, port: 10001, type: vmess, uuid: a6b99c05-8e0a-4f7e-bf7b-e4b9febb9589, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5🔥, server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 21, server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
@@ -508,6 +509,7 @@ proxies:
   - {name: "@configraygan 🍑18", server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑19", server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: 217.217.255.99, port: 8443, type: vmess, uuid: 83049bda-8d53-44bc-f71c-f6b03c1ca482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@Father_vpn", server: tgju.org, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-162191099.sharghdaily.co}}, udp: true, tfo: false}
   - {name: IR 45 @Outline_Vpn, server: tgju.org, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
   - {name: "@configraygan V61", server: test.zepshop.shop, port: 8080, type: vmess, uuid: bad0077d-c58b-497d-8fe2-e892b889622d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥102", server: test.zepshop.shop, port: 8080, type: vmess, uuid: bad0077d-c58b-497d-8fe2-e892b889622d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, udp: true, tfo: false}
@@ -518,22 +520,21 @@ proxies:
   - {name: "@configraygan 🔥Ğ-2", server: chatgpt.com, port: 443, type: vmess, uuid: c536cef5-0421-4021-a2cf-29e3759a7463, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: z.looloolooloo.com, network: ws, ws-opts: {path: "/ws-site?ed=2056", headers: {Host: z.looloolooloo.com}}, udp: true, tfo: false}
   - {name: 4🔥, server: chatgpt.com, port: 443, type: vmess, uuid: c536cef5-0421-4021-a2cf-29e3759a7463, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: z.looloolooloo.com, network: ws, ws-opts: {path: "/ws-site?ed=2056", headers: {Host: z.looloolooloo.com}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
-  - {name: ☮️29@oneclickvpnkeys, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @SOSkeyNET, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
   - {name: configraygan 3, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ149", server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: harper.sub-info.com, port: 33020, type: vmess, uuid: 76a837fa-a90f-4aee-9025-bc8d9d2943c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ♻️21@oneclickvpnkeys, server: frankfurt02.zgjok.com, port: 443, type: vmess, uuid: 90d50c62-13b4-4f9c-b5d8-0168d30b423a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: frankfurt02.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: frankfurt02.zgjok.com}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: harper.sub-info.com, port: 33020, type: vmess, uuid: 76a837fa-a90f-4aee-9025-bc8d9d2943c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3🔥, server: id-lb.vhax.net, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/Arsham85231/6347d08022b91/, headers: {Host: zoom.us}}, udp: true, tfo: false}
   - {name: configraygan 4, server: id-lb.vhax.net, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/Arsham85231/6347d08022b91/, headers: {Host: zoom.us}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ146", server: id-lb.vhax.net, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/Arsham85231/6347d08022b91/, headers: {Host: zoom.us}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ49", server: jjjk.191268.xyz, port: 443, type: vmess, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jjjk.191268.xyz, network: ws, ws-opts: {path: /AwUJyGh9Ym6vVzg35A6ueyyZnWd, headers: {Host: jjjk.191268.xyz}}, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: s1.fastly4wards.com, port: 2087, type: vmess, uuid: f69943c7-69b8-476c-b1ca-48c374c66a38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ88", server: s3.fastly4wards.com, port: 2089, type: vmess, uuid: 014c4671-b0f9-4419-0ff5-5e01647ce34f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan 5, server: seoul03.zgjok.com, port: 443, type: vmess, uuid: 72a0dac4-9689-4a57-b164-5c65bfa94772, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seoul03.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: seoul03.zgjok.com}}, udp: true, tfo: false}
   - {name: "@vpnbaz 🛸", server: servers.xvon.in, port: 2087, type: vmess, uuid: 43a7c6fd-c52d-4e1a-ba2b-b7a5d393bea0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: servers.xvon.in, udp: true, tfo: false}
   - {name: "@configraygan T7", server: servers.xvon.in, port: 2087, type: vmess, uuid: 43a7c6fd-c52d-4e1a-ba2b-b7a5d393bea0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: servers.xvon.in, udp: true, tfo: false}
   - {name: "@configraygan T9", server: servers.xvon.in, port: 2087, type: vmess, uuid: 43a7c6fd-c52d-4e1a-ba2b-b7a5d393bea0, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: servers.xvon.in, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE 3", server: sophia.sub-info.com, port: 33014, type: vmess, uuid: 76a837fa-a90f-4aee-9025-bc8d9d2943c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: sophia.sub-info.com, port: 33014, type: vmess, uuid: 76a837fa-a90f-4aee-9025-bc8d9d2943c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -561,7 +562,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -571,6 +571,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -581,6 +582,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -593,6 +595,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -603,22 +606,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -636,7 +638,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -646,6 +647,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -656,6 +658,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -668,6 +671,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -678,22 +682,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -711,7 +714,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -721,6 +723,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -731,6 +734,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -743,6 +747,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -753,22 +758,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -795,7 +799,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -805,6 +808,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -815,6 +819,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -827,6 +832,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -837,22 +843,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -870,7 +875,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -880,6 +884,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -890,6 +895,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -902,6 +908,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -912,22 +919,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -945,7 +951,6 @@ proxy-groups:
       - "@vpnbaz 🎳"
       - 2🔥
       - "@configraygan 🔥Ğ148"
-      - ☮️3@oneclickvpnkeys
       - configraygan
       - "@configraygan 🔥Ğ102"
       - "@configraygan 🔥Ğ68"
@@ -955,6 +960,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ79"
       - "@configraygan 🔥Ğ17"
       - "@configraygan 🔥Ğ19"
+      - ♻️29@oneclickvpnkeys
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
@@ -965,6 +971,7 @@ proxy-groups:
       - "@configraygan 🔥Ğ24"
       - ☮️74@oneclickvpnkeys
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
       - CR
       - 5🔥
       - 21
@@ -977,6 +984,7 @@ proxy-groups:
       - "@configraygan 🍑18"
       - "@configraygan 🍑19"
       - 🇸🇬 [openproxylist.com] vmess-SG
+      - "@Father_vpn"
       - IR 45 @Outline_Vpn
       - "@configraygan V61"
       - "@configraygan 🔥102"
@@ -987,22 +995,21 @@ proxy-groups:
       - "@configraygan 🔥Ğ-2"
       - 4🔥
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - ☮️29@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - configraygan 3
       - "@configraygan 🔥Ğ149"
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - ♻️21@oneclickvpnkeys
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - 3🔥
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
       - "@vpnbaz 🛸"
       - "@configraygan T7"
       - "@configraygan T9"
-      - 🇩🇪 [openproxylist.com] vmess-DE 3
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

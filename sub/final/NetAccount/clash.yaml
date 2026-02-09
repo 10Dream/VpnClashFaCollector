@@ -468,10 +468,17 @@ proxies:
   - {name: NetAccount`, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: NetAccount` 2, server: vip-80.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 3412c147-a0fe-4951-8a11-9a975cc6fec8, host: JouRNaloFbIgdATA.SpRinGeropEn.coM., path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 3, server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 51.158.206.103, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: safest.silentbreath.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 81425907-7721-4d6e-bd7e-4c2df08e9754, host: safest.silentbreath.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 94.182.169.82, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: ff8ed07c-f05e-4343-9307-6dbb644d2ce5, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 5.10.214.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 463877de-87e1-4188-8b71-e7f5fc56df62, servername: dl98.primenet3.shop, network: ws, ws-opts: {path: /ws, headers: {Host: dl98.primenet3.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 51.158.206.103, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 109.120.188.166, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: safest.silentbreath.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 81425907-7721-4d6e-bd7e-4c2df08e9754, host: safest.silentbreath.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: 146.185.208.206, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cede58e4-091f-4eb7-b9d5-9b892e85b291, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: 78.159.131.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77, servername: al.cdn.stun.su, host: al.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: dfb584388d2927f7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 188.253.26.39, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: e929f51d-5a95-5432-b66f-cfe725ea1f61, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0, short-id: 6ac998b514}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: 94.182.169.82, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: ff8ed07c-f05e-4343-9307-6dbb644d2ce5, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,8 +500,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -506,8 +520,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -519,8 +540,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -541,8 +569,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -554,8 +589,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -567,8 +609,15 @@ proxy-groups:
       - NetAccount` 3
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount
       - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount
+      - NetAccount 2
+      - NetAccount` 12
   - name: دانلود منیجر 📥
     type: select
     proxies:
