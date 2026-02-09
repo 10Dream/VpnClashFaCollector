@@ -481,13 +481,13 @@ proxies:
   - {name: "@proxy_vasel", server: 104.18.7.147, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: 🇷🇺 @FNETPRO 🇷🇺 Russia, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☢️93@unvisible_drops, server: 90.156.217.130, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 08d6280b-90c8-41e1-a809-3132cfb706f5, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@internet_azad2 gf", server: 185.18.250.179, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 31608862-5632-4985-a600-c41362380b8c, servername: cdn.graphapp.ir, network: ws, ws-opts: {path: "/ws?ed=2560", headers: {Host: cdn.graphapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@APPXA", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 3.124.209.11, port: 26197, type: vless, tls: true, packet-encoding: xudp, uuid: 627af99e-6326-430d-8a77-957cb5cc803e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ➤ @netshekan99, server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Channel : @FreeConfigForYou🏴🏳", server: 158.160.223.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ☢️96@unvisible_drops, server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8009bc13-0c64-4ae9-9a74-24ce12cc71e8, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: www.getasa.ir, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: www.getasa.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚫️ Telegram- @Canfing_VPN` 2, server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: www.getasa.ir, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: www.getasa.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ➤ @netshekan99 2, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -521,13 +521,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -551,13 +551,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -581,13 +581,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: اتصال پایدار 🔗
     type: url-test
@@ -620,13 +620,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -650,13 +650,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -680,13 +680,13 @@ proxy-groups:
       - "@proxy_vasel"
       - 🇷🇺 @FNETPRO 🇷🇺 Russia
       - ☢️93@unvisible_drops
-      - "@internet_azad2 gf"
       - "@APPXA"
+      - ⚫️ Telegram- @Canfing_VPN`
       - ➤ @netshekan99
       - "Channel : @FreeConfigForYou🏴🏳"
       - ☢️96@unvisible_drops
       - ⚡Telegram - @prrofile_purple
-      - ⚫️ Telegram- @Canfing_VPN`
+      - ⚫️ Telegram- @Canfing_VPN` 2
       - ➤ @netshekan99 2
   - name: دانلود منیجر 📥
     type: select

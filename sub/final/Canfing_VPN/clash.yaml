@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: www.getasa.ir, network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN, headers: {Host: www.getasa.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 3.124.209.11, port: 26197, type: vless, tls: true, packet-encoding: xudp, uuid: 627af99e-6326-430d-8a77-957cb5cc803e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select

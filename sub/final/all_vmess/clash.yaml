@@ -489,7 +489,6 @@ proxies:
   - {name: IP_CF, server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
   - {name: 30, server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ147", server: ::ffff:ac40:9bd1, port: 443, type: vmess, uuid: ffece2a9-0296-46a9-8db8-742d29d240ff, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: bedrid.denizhosting.me, network: ws, ws-opts: {path: ISwpYVR8SjxXcUZEUzVfNURTUC8lV29DXSgsKH1SN0g1JVpDHU1cWigKAC8QRltMCi86ABw4JV14HVMn, headers: {Host: bedrid.denizhosting.me}}, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💛 تلگرام", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: 6, server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ144", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: 1🔥, server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
@@ -502,6 +501,8 @@ proxies:
   - {name: 21, server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ145", server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
   - {name: configraygan 2, server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran ✨️ تلگرام", server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 💘 تلگرام", server: 172.64.149.182, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
   - {name: 20, server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑17", server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍑18", server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -526,7 +527,6 @@ proxies:
   - {name: configraygan 4, server: id-lb.vhax.net, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/Arsham85231/6347d08022b91/, headers: {Host: zoom.us}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ146", server: id-lb.vhax.net, port: 80, type: vmess, uuid: 6fea1649-425b-4092-bf53-29792152c925, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /sshkit/Arsham85231/6347d08022b91/, headers: {Host: zoom.us}}, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ49", server: jjjk.191268.xyz, port: 443, type: vmess, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jjjk.191268.xyz, network: ws, ws-opts: {path: /AwUJyGh9Ym6vVzg35A6ueyyZnWd, headers: {Host: jjjk.191268.xyz}}, udp: true, tfo: false}
-  - {name: "@vpnbaz 🎀", server: pq-Hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: s1.fastly4wards.com, port: 2087, type: vmess, uuid: f69943c7-69b8-476c-b1ca-48c374c66a38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥Ğ88", server: s3.fastly4wards.com, port: 2089, type: vmess, uuid: 014c4671-b0f9-4419-0ff5-5e01647ce34f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan 5, server: seoul03.zgjok.com, port: 443, type: vmess, uuid: 72a0dac4-9689-4a57-b164-5c65bfa94772, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: seoul03.zgjok.com, network: ws, ws-opts: {path: /, headers: {Host: seoul03.zgjok.com}}, udp: true, tfo: false}
@@ -574,7 +574,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -587,6 +586,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -611,7 +612,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
@@ -649,7 +649,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -662,6 +661,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -686,7 +687,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
@@ -724,7 +724,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -737,6 +736,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -761,7 +762,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
@@ -808,7 +808,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -821,6 +820,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -845,7 +846,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
@@ -883,7 +883,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -896,6 +895,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -920,7 +921,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
@@ -958,7 +958,6 @@ proxy-groups:
       - IP_CF
       - 30
       - "@configraygan 🔥Ğ147"
-      - "@Vpn_Tehran 💛 تلگرام"
       - 6
       - "@configraygan 🔥Ğ144"
       - 1🔥
@@ -971,6 +970,8 @@ proxy-groups:
       - 21
       - "@configraygan 🔥Ğ145"
       - configraygan 2
+      - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 💘 تلگرام"
       - 20
       - "@configraygan 🍑17"
       - "@configraygan 🍑18"
@@ -995,7 +996,6 @@ proxy-groups:
       - configraygan 4
       - "@configraygan 🔥Ğ146"
       - "@configraygan 🔥Ğ49"
-      - "@vpnbaz 🎀"
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - "@configraygan 🔥Ğ88"
       - configraygan 5
