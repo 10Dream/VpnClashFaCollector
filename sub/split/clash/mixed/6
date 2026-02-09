@@ -465,31 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 83.229.85.63:36637, server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇩🇪", server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
-  - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
-  - {name: 38.180.113.194:8119, server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
-  - {name: 185.193.49.88:989, server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "@configraygan 🔥Ğ151", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 185.123.101.64:2376, server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇹🇷", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
-  - {name: 156.244.8.155:5004, server: 156.244.8.155, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 156.244.8.155, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true, tfo: false}
-  - {name: "@configraygan 🔥133", server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-gcm, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
   - {name: 130.49.150.165:1080, server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: "@configraygan X49", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: 130.49.150.165:1080 2, server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
   - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: 154.90.55.15:11201, server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -506,93 +489,42 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -608,93 +540,42 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.128.214.100:12000
-      - 83.229.85.63:36637
-      - "@v2FreeHub 🇩🇪"
-      - 141.164.45.187:7001
       - "***✅***@AR14N24b"
-      - 38.180.113.194:8119
-      - "***✅***@AR14N24b 2"
-      - 185.193.49.88:989
-      - "@configraygan 🔥Ğ151"
-      - 185.123.101.64:2376
-      - "@v2FreeHub 🇹🇷"
-      - "***✅***@AR14N24b 3"
-      - 156.244.8.155:5004
-      - "***✅***@AR14N24b 4"
-      - "@configraygan 🔥133"
       - 130.49.150.165:1080
-      - "@configraygan X49"
-      - "***✅***@AR14N24b 5"
-      - 130.49.150.165:1080 2
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 3"
       - 154.90.55.15:11201
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

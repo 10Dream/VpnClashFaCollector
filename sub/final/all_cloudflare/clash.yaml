@@ -465,12 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 162.159.198.189:443, server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
   - {name: chatgpt.com:443/, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: config.rezacanal7.workers.dev:443, server: config.rezacanal7.workers.dev, port: 443, type: trojan, password: rezacanal, sni: config.rezacanal7.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: config.rezacanal7.workers.dev}}, udp: true, tfo: false}
   - {name: 104.21.32.1:443, server: 104.21.32.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0836463b-214f-4af6-aa85-85a56a62388e, servername: d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v3.dabache.top:443, server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v3.dabache.top:443 2, server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 59 @Outline_Vpn, server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan ♥4, server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v3.dabache.top:443 3, server: v3.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 25577310-a767-4b2c-90c6-9fcf4bb387f0, servername: fffb57cc.tacgne.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: fffb57cc.tacgne.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2083, server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥113", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🔥128", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -478,114 +482,102 @@ proxies:
   - {name: "***✅***@AR14N24b 2", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2083 3, server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 30acd2d9-59fd-4464-b844-cf2d6360f2ea, servername: rusiie.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: rusiie.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.60.241.79:443, server: 13.60.241.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.89.30.98:443, server: 3.89.30.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 3.89.30.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 3.89.30.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.89.30.98:443 2, server: 3.89.30.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: جوین چنل شید قط نشید@configraygan, server: 3.89.30.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:2096, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:2096 2, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5238a315-4427-4915-a1de-4978e3029a1c, servername: loNg-modE-2783.SEpna114.WOrkERs.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: loNg-modE-2783.SEpna114.WOrkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:443, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.dioxv004.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.dioxv004.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:443 2, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.dioxv007.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.dioxv007.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:443 3, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.qdio009.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.qdio009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:8443, server: chatgpt.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍒18", server: chatgpt.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: chatgpt.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 194.76.18.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5be777c2-38f7-44cd-b653-c93b19967887, servername: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 194.76.18.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5be777c2-38f7-44cd-b653-c93b19967887, servername: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 194.76.18.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5be777c2-38f7-44cd-b653-c93b19967887, servername: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: maxa08.azmoonf.ir:8080, server: maxa08.azmoonf.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5d0e6695-6c63-4168-b5e5-2a73ea86b1b1, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfa21.timevip.ir:8080, server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@confingraygan N00148-🇩🇪", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.144.74:443, server: 172.64.144.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 68c89f56-3a15-46f2-9901-8c00a2546b97, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🍒10", server: 172.64.144.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 68c89f56-3a15-46f2-9901-8c00a2546b97, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 172.64.144.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 68c89f56-3a15-46f2-9901-8c00a2546b97, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.16.61.222:443, server: 104.16.61.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ce77304-c948-4497-9a9d-934d79d56dfa, servername: vpn.robkavvv.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vpn.robkavvv.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 104.16.61.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ce77304-c948-4497-9a9d-934d79d56dfa, servername: vpn.robkavvv.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vpn.robkavvv.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2083 4, server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98d677be-b14b-4c14-a96b-4a39a3be645a, servername: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98d677be-b14b-4c14-a96b-4a39a3be645a, servername: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZHJmTGlJSmciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: t86y6leiyaph7tsvb170x7vfx0-3dvh3.vrezht08.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: broad-sky-9360.k7uztejf9ief.workers.dev:443, server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒50", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: x1.fusionx.top:4444, server: x1.fusionx.top, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: cd0ea7be-2f00-4e5e-8caa-9c1af3e384cf, host: chatgpt.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: x1.fusionx.top, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: cd0ea7be-2f00-4e5e-8caa-9c1af3e384cf, host: chatgpt.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 198.41.203.39:443, server: 198.41.203.39, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a227b9ad-9194-4b9b-9181-d1c95577763e, servername: XCODeSecreTWiTHddDULTra.SOBHanKmGANg-698.worKeRs.deV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoibTQ2ZThWYVBLY0ZLWUdCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: XCODeSecreTWiTHddDULTra.SOBHanKmGANg-698.worKeRs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: 198.41.203.39, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a227b9ad-9194-4b9b-9181-d1c95577763e, servername: XCODeSecreTWiTHddDULTra.SOBHanKmGANg-698.worKeRs.deV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoibTQ2ZThWYVBLY0ZLWUdCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: XCODeSecreTWiTHddDULTra.SOBHanKmGANg-698.worKeRs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:2053, server: www.speedtest.net, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: a65420e2-ba7d-4a9c-a15c-ef8cb4f4045f, servername: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoianJFeW1zeHpmNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 2", server: www.speedtest.net, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: a65420e2-ba7d-4a9c-a15c-ef8cb4f4045f, servername: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoianJFeW1zeHpmNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: www.speedtest.net, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: a65420e2-ba7d-4a9c-a15c-ef8cb4f4045f, servername: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoianJFeW1zeHpmNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: mAStERSErvER1-masteRserver1-MaStErseRVer1-MastERSeRver1-mAStErS.OKwXWMe.WOrKeRs.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn`", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#TELEGRAM-YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 2, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 3, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @prrofile_purple, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 4, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒9", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 60 @Outline_Vpn`, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy`", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan ♥6, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan x03, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 5, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒34", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan X32", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/fp=chrome#Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 6, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒30", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌹14", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🍑26", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🔥Ğ134", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan X3", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 58 @Outline_Vpn, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 10, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 29, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan ♥54, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.198.154:443 7, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🦋 تلگرام", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vpnbaz 🫜", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 2", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 6@freenet_vt (ملی شکن), server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 108.162.198.154:443 8, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 108.162.198.154:443 9, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 108.162.198.154:443 10, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: creativecommons.org:443, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 2", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 108.162.198.154:443 8, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 108.162.198.154:443 9, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: creativecommons.org:443, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 2, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒14", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🔥Ğ46", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌹46", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/assets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 3, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/assets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💙", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/assets#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌹47", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: "/assets#Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=2048", headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 4, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒8", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 🌹8", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 22, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 5, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🌈🍒11", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 🍑25", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan X29", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 6, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🤍 تلگرام", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vpnbaz 🌵", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🎩", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vpnbaz 🐍", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 7, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🤍 تلگرام 2", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn 2", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Father_vpn", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443 8, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan ♥58, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v1.dabache.top:443, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: IR 61 @Outline_Vpn, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 28, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v1.dabache.top:443 2, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vpnbaz 🏀", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: جوین چنل شید قط نشید@configraygan 2, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 9", server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IP_CF, server: 104.19.121.110, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.66.46.213:443, server: 172.66.46.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e71d08cf-7410-481f-b6d8-e7ef04015974, servername: BArarPOor.pAGES.DeV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/iD9iinktJHRPLLJu?ed=2560", headers: {Host: BArarPOor.pAGES.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 172.66.46.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e71d08cf-7410-481f-b6d8-e7ef04015974, servername: BArarPOor.pAGES.DeV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/iD9iinktJHRPLLJu?ed=2560", headers: {Host: BArarPOor.pAGES.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.66.46.213:443 2, server: 172.66.46.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e71d08cf-7410-481f-b6d8-e7ef04015979, servername: BArarPOor.pAGES.DeV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/iD9iinktJHRPLLJu?ed=2560", headers: {Host: BArarPOor.pAGES.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 172.66.46.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e71d08cf-7410-481f-b6d8-e7ef04015979, servername: BArarPOor.pAGES.DeV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/iD9iinktJHRPLLJu?ed=2560", headers: {Host: BArarPOor.pAGES.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 2", server: chatgpt.com, port: 443, type: vmess, uuid: c536cef5-0421-4021-a2cf-29e3759a7463, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: z.looloolooloo.com, network: ws, ws-opts: {path: "/ws-site?ed=2056", headers: {Host: z.looloolooloo.com}}, udp: true, tfo: false}
-  - {name: "@configraygan 🔥Ğ-2", server: chatgpt.com, port: 443, type: vmess, uuid: c536cef5-0421-4021-a2cf-29e3759a7463, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: z.looloolooloo.com, network: ws, ws-opts: {path: "/ws-site?ed=2056", headers: {Host: z.looloolooloo.com}}, udp: true, tfo: false}
+  - {name: va28.serverh1ub.ir:8080, server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4🔥, server: chatgpt.com, port: 443, type: vmess, uuid: c536cef5-0421-4021-a2cf-29e3759a7463, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: z.looloolooloo.com, network: ws, ws-opts: {path: "/ws-site?ed=2056", headers: {Host: z.looloolooloo.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -603,12 +595,16 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -616,114 +612,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -731,12 +715,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -744,114 +732,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -859,12 +835,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -872,114 +852,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: اتصال پایدار 🔗
     type: url-test
@@ -996,12 +964,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -1009,114 +981,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -1124,12 +1084,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -1137,114 +1101,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1252,12 +1204,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - chatgpt.com:443/
+      - 162.159.198.189:443
       - "***✅***@AR14N24b"
-      - config.rezacanal7.workers.dev:443
+      - chatgpt.com:443/
       - 104.21.32.1:443
       - v3.dabache.top:443
+      - v3.dabache.top:443 2
       - IR 59 @Outline_Vpn
+      - "@meliproxyy"
+      - configraygan ♥4
+      - v3.dabache.top:443 3
       - chatgpt.com:2083
       - "@configraygan 🔥113"
       - "@configraygan 🔥128"
@@ -1265,114 +1221,102 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - chatgpt.com:2083 3
       - "***✅***@AR14N24b 3"
+      - 13.60.241.79:443
+      - 3.89.30.98:443
+      - "***✅***@AR14N24b 4"
+      - "@meliproxyy 2"
+      - 3.89.30.98:443 2
+      - جوین چنل شید قط نشید@configraygan
+      - www.speedtest.net:2096
+      - "***✅***@AR14N24b 5"
+      - www.speedtest.net:2096 2
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b`"
       - 104.17.147.22:443
       - 104.17.147.22:443 2
       - 104.17.147.22:443 3
       - chatgpt.com:8443
       - "@configraygan 🍒18"
-      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount
+      - NetAccount`
+      - maxa08.azmoonf.ir:8080
+      - wolfa21.timevip.ir:8080
       - chatgpt.com:2096
-      - "@Father_vpn"
+      - "@confingraygan N00148-🇩🇪"
       - 172.64.144.74:443
       - "@configraygan 🍒10"
-      - "***✅***@AR14N24b 5"
-      - 104.16.61.222:443
-      - "***✅***@AR14N24b 6"
-      - chatgpt.com:2083 4
-      - "***✅***@AR14N24b 7"
       - www.speedtest.net:443
-      - "***✅***@AR14N24b 8"
-      - broad-sky-9360.k7uztejf9ief.workers.dev:443
-      - "@configraygan 🌈🍒50"
-      - x1.fusionx.top:4444
-      - "***✅***@AR14N24b 9"
+      - 198.41.203.39:443
+      - "Telegram: @wiki_tajrobe"
+      - www.speedtest.net:2053
+      - "***✅***@AR14N24b` 2"
+      - "@meliproxyy 3"
       - 108.162.198.154:443
-      - "***✅***@AR14N24b 10"
       - "@iphone02016vpn`"
       - 108.162.198.154:443 2
       - 108.162.198.154:443 3
-      - ⚡Telegram - @prrofile_purple
       - 108.162.198.154:443 4
-      - "Telegram: @wiki_tajrobe"
-      - "@configraygan 🌈🍒9"
       - IR 60 @Outline_Vpn`
+      - "@meliproxyy 4"
+      - "@meliproxyy`"
+      - configraygan ♥6
+      - configraygan x03
       - 108.162.198.154:443 5
-      - "@configraygan 🌈🍒34"
       - "@configraygan X32"
-      - "***✅***@AR14N24b 11"
       - 108.162.198.154:443 6
-      - "@configraygan 🌈🍒30"
       - "@configraygan 🌹14"
-      - "@configraygan 🍑26"
-      - "@configraygan 🔥Ğ134"
       - "@configraygan X3"
       - IR 58 @Outline_Vpn
       - 10
-      - "***✅***@AR14N24b 12"
-      - "***✅***@AR14N24b`"
       - 29
+      - "@meliproxyy 5"
+      - configraygan ♥54
       - 108.162.198.154:443 7
       - "@Vpn_Tehran 🦋 تلگرام"
-      - "@vpnbaz 🫜"
-      - "***✅***@AR14N24b 13"
-      - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 6@freenet_vt (ملی شکن)
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@meliproxyy"
+      - "@meliproxyy 6"
+      - "@meliproxyy` 2"
       - 108.162.198.154:443 8
-      - "***✅***@AR14N24b 14"
       - 108.162.198.154:443 9
-      - "***✅***@AR14N24b 15"
-      - 108.162.198.154:443 10
       - creativecommons.org:443
+      - "@meliproxyy 7"
       - creativecommons.org:443 2
-      - "@configraygan 🌈🍒14"
-      - "@configraygan 🔥Ğ46"
       - "@configraygan 🌹46"
       - creativecommons.org:443 3
       - "@MARAMBASHI 💙"
       - "@configraygan 🌹47"
       - creativecommons.org:443 4
-      - "@configraygan 🌈🍒8"
       - "@configraygan 🌹8"
-      - "***✅***@AR14N24b 16"
       - 22
       - 23
       - creativecommons.org:443 5
-      - "@configraygan 🌈🍒11"
-      - "@configraygan 🍑25"
       - "@configraygan X29"
-      - "***✅***@AR14N24b 17"
       - creativecommons.org:443 6
       - "@Vpn_Tehran 🤍 تلگرام"
-      - "@vpnbaz 🌵"
       - "@vpnbaz 🎩"
-      - "@vpnbaz 🐍"
       - 『  🌟@proxy_kafee 』عضو کانال تلگرامی بشین
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 6"
       - "***🆔***"
-      - "@meliproxyy 2"
+      - "@meliproxyy 8"
       - creativecommons.org:443 7
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@proxy_kafee"
-      - "@Father_vpn 2"
-      - "***✅***@AR14N24b 19"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@Father_vpn"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - creativecommons.org:443 8
-      - "***✅***@AR14N24b 20"
+      - configraygan ♥58
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 21"
+      - IR 61 @Outline_Vpn
       - 28
       - v1.dabache.top:443 2
-      - "@vpnbaz 🏀"
-      - "***✅***@AR14N24b 22"
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 7"
+      - "@meliproxyy 9"
       - IP_CF
-      - 172.66.46.213:443
-      - "***✅***@AR14N24b 23"
-      - 172.66.46.213:443 2
-      - "***✅***@AR14N24b 24"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 🔥Ğ-2"
+      - va28.serverh1ub.ir:8080
       - 4🔥
   - name: دانلود منیجر 📥
     type: select

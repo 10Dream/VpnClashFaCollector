@@ -466,12 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@hamedvpns", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "@JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 fr-hamedvpns, server: 54.37.77.201, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 70fa4568f0fce450, udp: true, tfo: false}
-  - {name: 141.95.106.231:11201, server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
-  - {name: 🇯🇵 jp-hamedp71, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 🇳🇱 nl-hamedvpns, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇺🇸 us-hamedvpns, server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 fr-hamedvpns 2, server: realbook.psg2fr.pdf2book4iran1art.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4583d428-8ff9-4000-bcbd-953fe8c8df17, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k, short-id: 2ad726e6b28daf57}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 fr-hamedvpns, server: realbook.psg2fr.pdf2book4iran1art.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4583d428-8ff9-4000-bcbd-953fe8c8df17, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k, short-id: 2ad726e6b28daf57}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: serveruwofl.samanidempire.org:443, server: serveruwofl.samanidempire.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee4b0561-450d-4f5b-a8e2-f84c95def9b2, servername: serveruwofl.samanidempire.org, alpn: [http%2F1.1], network: ws, ws-opts: {path: /1ab3537d, headers: {Host: serveruwofl.samanidempire.org}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -490,12 +486,8 @@ proxy-groups:
     type: select
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -504,12 +496,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -518,12 +506,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: اتصال پایدار 🔗
     type: url-test
@@ -541,12 +525,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -555,12 +535,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -569,12 +545,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@hamedvpns"
-      - 🇫🇷 fr-hamedvpns
-      - 141.95.106.231:11201
-      - 🇯🇵 jp-hamedp71
       - 🇳🇱 nl-hamedvpns
-      - 🇺🇸 us-hamedvpns
-      - 🇫🇷 fr-hamedvpns 2
+      - 🇫🇷 fr-hamedvpns
       - serveruwofl.samanidempire.org:443
   - name: دانلود منیجر 📥
     type: select
