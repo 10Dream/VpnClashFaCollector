@@ -465,16 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: ⚡Telegram - @, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: lrnbymaa`, server: 5.10.214.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 463877de-87e1-4188-8b71-e7f5fc56df62, servername: dl98.primenet3.shop, network: ws, ws-opts: {path: /ws, headers: {Host: dl98.primenet3.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 2, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 3, server: 109.120.188.166, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 4, server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: meli.dataxshop.ir:2095, server: meli.dataxshop.ir, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: c4a9c15c-2e49-44d5-b959-bf7e7d313054, network: ws, ws-opts: {path: /datax_proxy, headers: {Host: amsterdam.11.v.www.speedtest.net.nestle.ir.ftp.debian.org.tmo.docb.datax.click.dataxshop.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 5, server: 146.185.208.206, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cede58e4-091f-4eb7-b9d5-9b892e85b291, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 6, server: 78.159.131.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77, servername: al.cdn.stun.su, host: al.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: dfb584388d2927f7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa, server: 188.253.26.39, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: e929f51d-5a95-5432-b66f-cfe725ea1f61, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0, short-id: 6ac998b514}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @SOSkeyNET, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,48 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -548,48 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - ⚡Telegram - @
       - lrnbymaa`
       - lrnbymaa` 2
       - lrnbymaa` 3
       - lrnbymaa` 4
-      - meli.dataxshop.ir:2095
       - lrnbymaa` 5
       - lrnbymaa` 6
       - lrnbymaa
-      - ⚡️Telegram - @SOSkeyNET
   - name: دانلود منیجر 📥
     type: select
     proxies:

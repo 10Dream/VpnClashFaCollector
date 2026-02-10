@@ -473,8 +473,9 @@ proxies:
   - {name: "  6", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  7", server: 91.84.102.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a44e0875-210f-4941-9062-89b6361a14c6, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4, short-id: 8bcfe256cf216fd8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  8", server: 91.84.113.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a44e0875-210f-4941-9062-89b6361a14c6, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4, short-id: 8bcfe256cf216fd8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  9", server: 104.16.9.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  10", server: 172.67.249.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  9", server: 144.31.2.86, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ca569d6c-d206-4709-9ed9-8dda73932c22, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho, short-id: cbdfef7f3ede2072}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  10", server: 104.16.9.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  11", server: 172.67.249.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -501,6 +502,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -517,6 +519,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -533,6 +536,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -558,6 +562,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -574,6 +579,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -590,6 +596,7 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -466,7 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 🇳🇱 nl-hamedvpns, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 nl-hamedvpns 2, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇫🇷 fr-hamedvpns, server: realbook.psg2fr.pdf2book4iran1art.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 4583d428-8ff9-4000-bcbd-953fe8c8df17, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k, short-id: 2ad726e6b28daf57}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇵🇱 [By مخابرات] vless-PL 🔒", server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: serveruwofl.samanidempire.org:443, server: serveruwofl.samanidempire.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee4b0561-450d-4f5b-a8e2-f84c95def9b2, servername: serveruwofl.samanidempire.org, alpn: [http%2F1.1], network: ws, ws-opts: {path: /1ab3537d, headers: {Host: serveruwofl.samanidempire.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -487,7 +486,6 @@ proxy-groups:
     type: select
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443
@@ -498,7 +496,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443
@@ -509,7 +506,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443
@@ -529,7 +525,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443
@@ -540,7 +535,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443
@@ -551,7 +545,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇳🇱 nl-hamedvpns
-      - 🇳🇱 nl-hamedvpns 2
       - 🇫🇷 fr-hamedvpns
       - 🇵🇱 [By مخابرات] vless-PL 🔒
       - serveruwofl.samanidempire.org:443

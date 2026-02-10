@@ -465,33 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 103.186.155.15:38388, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.16:38388, server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.17:38388, server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.18:38388, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.19:38388, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.203:38388, server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.204:38388, server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.205:38388, server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.206:38388, server: 103.186.155.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.207:38388, server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.209:38388, server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.20:38388, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.213:38388, server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.214:38388, server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.218:38388, server: 103.186.155.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.21:38388, server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.223:38388, server: 103.186.155.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.224:38388, server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.226:38388, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.228:38388, server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.22:38388, server: 103.186.155.22, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.231:38388, server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.232:38388, server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.234:38388, server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.235:38388, server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.236:38388, server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.238:38388, server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.23:38388, server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.24:38388, server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -502,8 +475,7 @@ proxies:
   - {name: 103.186.155.30:38388, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.31:38388, server: 103.186.155.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.32:38388, server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.33:38388, server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.34:38388, server: 103.186.155.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.35:38388, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -572,16 +544,15 @@ proxies:
   - {name: 51.15.23.63:989, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
   - {name: 217.30.10.18:9040, server: 217.30.10.18, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
   - {name: 168.126.234.233:25879, server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 2", server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
   - {name: 217.30.10.18:9093, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
   - {name: 217.30.10.70:9060, server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
   - {name: 217.30.10.18:9008, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
   - {name: 57.129.121.229:8443, server: 57.129.121.229, port: 8443, type: ss, cipher: aes-256-gcm, password: 46d51/8QMy48k57CIfS1C5yx2IHsjoEnPJYb7zXDfAc=, udp: true, tfo: false}
-  - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: aes-256-gcm, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@confingraygan N00146-🇺🇸", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 83.229.85.63:36637, server: 83.229.85.63, port: 36637, type: ss, cipher: aes-256-gcm, password: Ovs2aPyBWtgpHnnW1qPufUGp3LQRlIvlQZD23l/Gv6c=, udp: true, tfo: false}
@@ -614,33 +585,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -651,8 +595,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -721,16 +664,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637
@@ -753,33 +695,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -790,8 +705,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -860,16 +774,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637
@@ -892,33 +805,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -929,8 +815,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -999,16 +884,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637
@@ -1040,33 +924,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -1077,8 +934,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -1147,16 +1003,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637
@@ -1179,33 +1034,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -1216,8 +1044,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -1286,16 +1113,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637
@@ -1318,33 +1144,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
-      - 103.186.155.17:38388
-      - 103.186.155.18:38388
-      - 103.186.155.19:38388
-      - 103.186.155.203:38388
-      - 103.186.155.204:38388
-      - 103.186.155.205:38388
-      - 103.186.155.206:38388
-      - 103.186.155.207:38388
-      - 103.186.155.209:38388
-      - 103.186.155.20:38388
-      - "***✅***@AR14N24b"
-      - 103.186.155.213:38388
-      - 103.186.155.214:38388
-      - 103.186.155.218:38388
-      - 103.186.155.21:38388
-      - 103.186.155.223:38388
-      - 103.186.155.224:38388
-      - 103.186.155.226:38388
-      - 103.186.155.228:38388
-      - 103.186.155.22:38388
-      - 103.186.155.231:38388
-      - 103.186.155.232:38388
-      - 103.186.155.234:38388
-      - 103.186.155.235:38388
-      - 103.186.155.236:38388
       - 103.186.155.238:38388
       - 103.186.155.23:38388
       - 103.186.155.24:38388
@@ -1355,8 +1154,7 @@ proxy-groups:
       - 103.186.155.30:38388
       - 103.186.155.31:38388
       - 103.186.155.32:38388
-      - "***✅***@AR14N24b 2"
-      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b"
       - 103.186.155.33:38388
       - 103.186.155.34:38388
       - 103.186.155.35:38388
@@ -1425,16 +1223,15 @@ proxy-groups:
       - 51.15.23.63:989
       - 217.30.10.18:9040
       - 168.126.234.233:25879
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b`"
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
       - 57.129.121.229:8443
-      - 78.38.246.150:8446
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 83.229.85.63:36637

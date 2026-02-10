@@ -466,6 +466,11 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: 2022-blake3-aes-128-gcm, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: 57.131.41.129:8390, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: 57.131.41.129:8390 2, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: 154.26.132.38:16922, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: 163.171.181.49:42933, server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +488,11 @@ proxy-groups:
     type: select
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +500,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +512,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +533,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +545,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +557,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 163.171.181.49:42933
   - name: دانلود منیجر 📥
     type: select
     proxies:

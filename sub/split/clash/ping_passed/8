@@ -466,189 +466,57 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "| null | 99999ms |", server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 1447ms |, server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 3624ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1968ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 176.125.240.167, port: 9443, type: trojan, password: 249454d267254a52ab3c8b7906bc12ab, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: Www.Speedtest.Net, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 176.125.240.167, port: 9443, type: trojan, password: 249454d267254a52ab3c8b7906bc12ab, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: Www.Speedtest.Net, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy", server: Www.Speedtest.Net, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: asrDE.nexavps.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: asrDE.nexavps.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy 2", server: asrDE.nexavps.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: jokerv.membergolabi.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: jokerv.membergolabi.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy 3", server: jokerv.membergolabi.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: salamsalamirancell.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: salamsalamirancell.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy 4", server: salamsalamirancell.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: salamsalamsalam.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: salamsalamsalam.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy`", server: salamsalamsalam.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1509ms |, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2089ms |, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1875ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 2c455b22-fde6-4fed-93da-56894a13a10c, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 2927ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1863ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 2343ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1769ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 3760ms |, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 2766ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1977ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 3355ms |, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1932ms |, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1862ms |, server: bbbnmkl.taiwan2028.indevs.in, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: bBbNmKl.TAIwAn2028.IndEvs.In, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: bBbNmKl.TAIwAn2028.IndEvs.In}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1184ms |, server: kkko9.191288.xyz, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: kKko9.191288.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: kKko9.191288.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1462ms |, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1444ms |, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1508ms |, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1429ms |, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1338ms |, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1265ms |, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2209ms |, server: nmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: nMk.288288.sHOP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: nMk.288288.sHOP}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 854ms |, server: 153.121.38.213, port: 276, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 844ms |, server: 153.121.45.139, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 608ms |, server: 160.16.116.227, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 589ms |, server: 160.16.124.55, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: 160.16.130.21, port: 544, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 872ms |, server: 160.16.138.24, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 610ms |, server: 160.16.138.24, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 755ms |, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 2c455b22-fde6-4fed-93da-56894a13a10c, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 | HK | 4822ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 13", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 | HK | 4625ms |, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 14", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 15", server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 16", server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 17", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 18", server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 19", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 405ms |, server: bbbnmkl.taiwan2028.indevs.in, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: bBbNmKl.TAIwAn2028.IndEvs.In, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: bBbNmKl.TAIwAn2028.IndEvs.In}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 225ms |, server: kkko9.191288.xyz, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: kKko9.191288.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: kKko9.191288.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 20", server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 21", server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 276ms |, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 277ms |, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 216ms |, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 218ms |, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 251ms |, server: nmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: nMk.288288.sHOP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: nMk.288288.sHOP}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 22", server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 23", server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 24", server: 153.121.38.213, port: 276, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 886ms |, server: 153.121.45.139, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 627ms |, server: 160.16.116.227, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 599ms |, server: 160.16.124.55, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 25", server: 160.16.130.21, port: 544, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 897ms |, server: 160.16.138.24, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 587ms |, server: 160.16.138.24, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 612ms |, server: 160.16.214.104, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇯🇵 | JP | 600ms |, server: 160.16.214.104, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 595ms |, server: 160.16.214.104, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 920ms |, server: 160.16.236.32, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 593ms |, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 584ms |, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 599ms |, server: 160.16.68.250, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 868ms |, server: 160.16.70.180, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 883ms |, server: 160.16.70.180, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: 160.16.89.176, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 12", server: 202.181.103.246, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 13", server: 202.181.103.246, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 602ms |, server: 202.181.103.246, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 591ms |, server: 202.181.103.246, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 836ms |, server: 38.180.107.76, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 832ms |, server: 38.180.107.76, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 830ms |, server: 38.180.190.13, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 838ms |, server: 38.180.190.13, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`, server: 54.250.24.198, port: 127, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 817ms |, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan+🌹22", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 14", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: "%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: "%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 807ms |, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧, server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, sni: hl-freedom-0.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-0.undef.network}}, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧, server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, sni: hl-freedom-0.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-0.undef.network}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 793ms |, server: yyyhhjki.taipei101.indevs.in, port: 443, type: trojan, password: 98b419ef-83a2-4d1b-a23d-566b7f24477b, sni: YyYhHjKI.TAIPEi101.INdEVs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fKlh0x8wtLpTGA5AqzZ2Mj", headers: {Host: YyYhHjKI.TAIPEi101.INdEVs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 791ms |, server: yyyhhjki.taipei101.indevs.in, port: 443, type: trojan, password: 98b419ef-83a2-4d1b-a23d-566b7f24477b, sni: YyYhHjKI.TAIPEi101.INdEVs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fKlh0x8wtLpTGA5AqzZ2Mj", headers: {Host: YyYhHjKI.TAIPEi101.INdEVs.in}}, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1064ms |, server: 43.198.233.56, port: 381, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 790ms |, server: 43.199.47.199, port: 3292, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 15", server: 5.75.205.170, port: 41608, type: trojan, password: OnNetXcY1F, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***🚀******🚀******✈️***`", server: 5.75.205.170, port: 41608, type: trojan, password: OnNetXcY1F, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @confingraygan+N001xo-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 31", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan+♥16", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan+Z1xıcf-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 16", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 17", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 18", server: 212.193.18.144, port: 36158, type: trojan, password: ZblhWr0mqMakCPg.N, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 19", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 510ms | ***✅***@AR14N24b, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 526ms |, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan+x05", server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 20", server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3390ms | configraygan+♥53, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3459ms | ⚡Telegram - @, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3460ms |, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3177ms | @meliproxyy, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3212ms | NetAccount, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3235ms |, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3426ms | NetAccount`, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1722ms |, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 21", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan+♥7", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1671ms | 16, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 22", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 5", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1565ms |, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 960ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 776ms | @configraygan+🍒9, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 843ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 743ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1447ms | @configraygan+X17, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1520ms | ***🚀***CR`, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1601ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com`, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com`}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 544ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 632ms | configraygan+♥52, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 4179ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 619ms | 14, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 4103ms | @meliproxyy`, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 816ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1027ms | @configraygan+🍒20, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1039ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 567ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 1226ms |, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 4148ms |, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 4096ms |, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 1718ms |, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3319ms | @configraygan+X18, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 2", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 1641ms |, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 23", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 1574ms | @Father_vpn, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 1496ms |, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ☺️91@oneclickvpnkeys", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 24", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3525ms |, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 1405ms |, server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3874ms | @vpnbaz 🛟, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 3449ms |, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2107ms |, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2031ms |, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan+🌹35", server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 25", server: 13.37.8.196, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 26", server: 13.37.8.196, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 27", server: 13.37.8.71, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 28", server: 13.37.8.71, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ☺️22@oneclickvpnkeys", server: 13.39.63.241, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 29", server: 13.39.63.241, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 30", server: 13.39.63.241, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan+X23", server: 13.39.63.241, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 32", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b`", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***🚀***configraygan`", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 33", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 15.224.3.139, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 34", server: 15.236.135.143, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 35", server: 15.236.135.143, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan+🔥131", server: 15.236.135.143, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 36", server: 18.196.199.216, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 930ms |, server: 160.16.236.32, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 596ms |, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 622ms |, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 594ms |, server: 160.16.68.250, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 903ms |, server: 160.16.70.180, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -666,189 +534,57 @@ proxy-groups:
     type: select
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -856,189 +592,57 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1046,189 +650,57 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1245,189 +717,57 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1435,189 +775,57 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1625,189 +833,57 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - 🇭🇰 | HK | 1447ms |
-      - 🇭🇰 | HK | 3624ms |
-      - 🇺🇸 | US | 1968ms |
       - "| null | 99999ms | 2"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | @meliproxyy 4"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | @meliproxyy`"
-      - 🇺🇸 | US | 1509ms |
-      - 🇺🇸 | US | 2089ms |
-      - 🇺🇸 | US | 1875ms |
-      - 🇭🇰 | HK | 2927ms |
-      - 🇺🇸 | US | 1863ms |
-      - 🇭🇰 | HK | 2343ms |
-      - 🇺🇸 | US | 1769ms |
-      - 🇭🇰 | HK | 3760ms |
-      - 🇭🇰 | HK | 2766ms |
-      - 🇺🇸 | US | 1977ms |
-      - 🇭🇰 | HK | 3355ms |
-      - 🇺🇸 | US | 1932ms |
-      - 🇺🇸 | US | 1862ms |
-      - 🇺🇸 | US | 1184ms |
-      - 🇺🇸 | US | 1462ms |
-      - 🇺🇸 | US | 1444ms |
-      - 🇺🇸 | US | 1508ms |
-      - 🇺🇸 | US | 1429ms |
-      - 🇺🇸 | US | 1338ms |
-      - 🇺🇸 | US | 1265ms |
-      - 🇺🇸 | US | 2209ms |
+      - "| null | 99999ms | @meliproxyy 2"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | @meliproxyy 3"
       - "| null | 99999ms | 9"
-      - 🇸🇬 | SG | 854ms |
-      - 🇸🇬 | SG | 844ms |
-      - 🇯🇵 | JP | 608ms |
-      - 🇯🇵 | JP | 589ms |
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | 10"
-      - 🇸🇬 | SG | 872ms |
-      - 🇯🇵 | JP | 610ms |
-      - 🇯🇵 | JP | 600ms |
-      - 🇯🇵 | JP | 595ms |
-      - 🇸🇬 | SG | 920ms |
-      - 🇯🇵 | JP | 593ms |
-      - 🇯🇵 | JP | 584ms |
-      - 🇯🇵 | JP | 599ms |
-      - 🇸🇬 | SG | 868ms |
-      - 🇸🇬 | SG | 883ms |
+      - "| null | 99999ms | @meliproxyy`"
       - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 755ms |
       - "| null | 99999ms | 12"
+      - 🇭🇰 | HK | 4822ms |
       - "| null | 99999ms | 13"
-      - 🇯🇵 | JP | 602ms |
-      - 🇯🇵 | JP | 591ms |
-      - 🇸🇬 | SG | 836ms |
-      - 🇸🇬 | SG | 832ms |
-      - 🇸🇬 | SG | 830ms |
-      - 🇸🇬 | SG | 838ms |
-      - 🇸🇬 | SG | 865ms | ***🐦‍🔥***-@SPEEDS_VPN`
-      - 🇭🇰 | HK | 817ms |
-      - "| null | 99999ms | @configraygan+🌹22"
+      - 🇭🇰 | HK | 4625ms |
       - "| null | 99999ms | 14"
-      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - 🇭🇰 | HK | 807ms |
-      - 🇭🇰 | HK | 816ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇭🇰 | HK | 820ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇬🇧 | GB | 664ms | configraygan+Z16767-🇬🇧
-      - 🇬🇧 | GB | 706ms | @confingraygan+B0012-🇬🇧
-      - 🇺🇸 | US | 793ms |
-      - 🇺🇸 | US | 791ms |
-      - 🇸🇬 | SG | 1064ms |
-      - 🇭🇰 | HK | 790ms |
       - "| null | 99999ms | 15"
-      - "| null | 99999ms | ***🚀******🚀******✈️***`"
-      - "| null | 99999ms | @confingraygan+N001fnfj-🇸🇪"
-      - "| null | 99999ms | @confingraygan+N001xo-🇸🇪"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | configraygan+♥16"
-      - "| null | 99999ms | configraygan+Z1xıcf-🇸🇪"
       - "| null | 99999ms | 16"
       - "| null | 99999ms | 17"
       - "| null | 99999ms | 18"
       - "| null | 99999ms | 19"
-      - 🇩🇪 | DE | 510ms | ***✅***@AR14N24b
-      - "🇩🇪 | DE | 524ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇩🇪 | DE | 526ms |
-      - "| null | 99999ms | configraygan+x05"
+      - 🇺🇸 | US | 405ms |
+      - 🇺🇸 | US | 225ms |
       - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇫🇷 | FR | 3236ms | ***🤞******😈******😈***`
-      - 🇫🇷 | FR | 3390ms | configraygan+♥53
-      - 🇫🇷 | FR | 3459ms | ⚡Telegram - @
-      - 🇫🇷 | FR | 3460ms |
-      - 🇫🇷 | FR | 3177ms | @meliproxyy
-      - 🇫🇷 | FR | 3212ms | NetAccount
-      - 🇫🇷 | FR | 3235ms |
-      - 🇫🇷 | FR | 3426ms | NetAccount`
-      - 🇫🇷 | FR | 808ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇫🇷 | FR | 933ms | @Vpn_Tehran 💚 تلگرام
-      - 🇳🇱 | NL | 1722ms |
       - "| null | 99999ms | 21"
-      - "| null | 99999ms | configraygan+♥7"
-      - 🇳🇱 | NL | 1671ms | 16
+      - 🇺🇸 | US | 276ms |
+      - 🇺🇸 | US | 277ms |
+      - 🇺🇸 | US | 216ms |
+      - 🇺🇸 | US | 218ms |
+      - 🇺🇸 | US | 251ms |
       - "| null | 99999ms | 22"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | @meliproxyy 5"
-      - 🇳🇱 | NL | 1565ms |
-      - 🇳🇱 | NL | 1705ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1656ms | @Vpn_Tehran 🫟 تلگرام
-      - 🇵🇱 | PL | 960ms |
-      - 🇵🇱 | PL | 776ms | @configraygan+🍒9
-      - 🇵🇱 | PL | 843ms |
-      - 🇵🇱 | PL | 743ms |
-      - 🇵🇱 | PL | 756ms | ***🇩🇪***All⁴
-      - 🇳🇱 | NL | 1447ms | @configraygan+X17
-      - 🇳🇱 | NL | 1520ms | ***🚀***CR`
-      - 🇳🇱 | NL | 1601ms |
-      - "| null | 99999ms | Server"
-      - 🇵🇱 | PL | 544ms |
-      - 🇵🇱 | PL | 632ms | configraygan+♥52
-      - 🇫🇷 | FR | 4179ms |
-      - 🇫🇷 | FR | 619ms | 14
-      - 🇫🇷 | FR | 4103ms | @meliproxyy`
-      - 🇫🇷 | FR | 816ms |
-      - "| null | 99999ms | 🇮🇷 IR 49 @Outline_Vpn"
-      - 🇳🇱 | NL | 1027ms | @configraygan+🍒20
-      - 🇳🇱 | NL | 1039ms |
-      - 🇵🇱 | PL | 597ms | @Vpn_Tehran 💘 تلگرام
-      - 🇳🇱 | NL | 1054ms | @Vpn_Tehran 🔰 تلگرام
-      - 🇫🇷 | FR | 426ms | @Vpn_Tehran 💚 تلگرام
-      - "| null | 99999ms | @Vpn_Tehran 🦋 تلگرام"
-      - 🇵🇱 | PL | 542ms | 🇵🇱@Father_vpn
-      - 🇵🇱 | PL | 567ms |
-      - 🇵🇱 | PL | 617ms | ***🐦‍🔥***-@SPEEDS_VPN
-      - 🇵🇱 | PL | 698ms | 🇵🇱@proxy_kafee
-      - 🇵🇱 | PL | 705ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇫🇷 | FR | 1226ms |
-      - 🇫🇷 | FR | 3911ms | ♻️48@oneclickvpnkeys
-      - 🇫🇷 | FR | 4148ms |
-      - 🇫🇷 | FR | 4096ms |
-      - 🇫🇷 | FR | 1718ms |
-      - 🇫🇷 | FR | 3319ms | @configraygan+X18
-      - "| null | 99999ms | Server 2"
-      - 🇫🇷 | FR | 1641ms |
-      - 🇫🇷 | FR | 3765ms | @Vpn_Tehran ✨️ تلگرام
       - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇵🇱 | PL | 1527ms | 🏴‍☠️@proxy_kafee
-      - 🇵🇱 | PL | 1574ms | @Father_vpn
-      - 🇫🇷 | FR | 1496ms |
-      - "| null | 99999ms | ☺️91@oneclickvpnkeys"
       - "| null | 99999ms | 24"
-      - 🇫🇷 | FR | 3525ms |
-      - 🇵🇱 | PL | 1405ms |
-      - 🇫🇷 | FR | 3874ms | @vpnbaz 🛟
-      - 🇫🇷 | FR | 3449ms |
-      - 🇳🇱 | NL | 802ms | ♻️50@oneclickvpnkeys
-      - 🇳🇱 | NL | 2107ms |
-      - 🇳🇱 | NL | 2022ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 2031ms |
-      - 🇳🇱 | NL | 2141ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - "| null | 99999ms | @configraygan+🌹35"
+      - 🇸🇬 | SG | 886ms |
+      - 🇯🇵 | JP | 627ms |
+      - 🇯🇵 | JP | 599ms |
       - "| null | 99999ms | 25"
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | 27"
-      - "| null | 99999ms | 28"
-      - "| null | 99999ms | ☺️22@oneclickvpnkeys"
-      - "| null | 99999ms | 29"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | @configraygan+X23"
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b`"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | 33"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | 34"
-      - "| null | 99999ms | 35"
-      - "| null | 99999ms | @configraygan+🔥131"
-      - "| null | 99999ms | 36"
+      - 🇸🇬 | SG | 897ms |
+      - 🇯🇵 | JP | 587ms |
+      - 🇯🇵 | JP | 612ms |
+      - 🇯🇵 | JP | 600ms |
+      - 🇸🇬 | SG | 930ms |
+      - 🇯🇵 | JP | 596ms |
+      - 🇯🇵 | JP | 622ms |
+      - 🇯🇵 | JP | 594ms |
+      - 🇸🇬 | SG | 903ms |
   - name: دانلود منیجر 📥
     type: select
     proxies:
