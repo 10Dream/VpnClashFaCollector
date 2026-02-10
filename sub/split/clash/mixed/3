@@ -1,0 +1,1683 @@
+global-client-fingerprint: chrome
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
+allow-lan: true
+tcp-concurrent: true
+enable-process: true
+find-process-mode: strict
+ipv6: true
+log-level: debug
+geo-auto-update: true
+geo-update-interval: 168
+secret: ""
+bind-address: "*"
+unified-delay: false
+disable-keep-alive: false
+keep-alive-idle: 30
+keep-alive-interval: 30
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: true
+  respect-rules: false
+  prefer-h3: true
+  cache-algorithm: arc
+  use-system-hosts: true
+  use-host: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - ntp.*.com
+    - "*.ir"
+  default-nameserver:
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.0.0.1
+    - 1.1.1.1
+    - 9.9.9.9
+    - 9.9.9.11
+    - 9.9.9.10
+    - 94.140.14.15
+    - 94.140.15.15
+    - 223.5.5.5
+    - 77.88.8.8
+  nameserver:
+    - https://sky.rethinkdns.com/1:-J8AGH8C7_2-___f3_vZ3f_z-f9KagBI
+    - tls://1-7cpqagd7alx73px777p5766z3x77h6p7jjvaasa.max.rethinkdns.com
+  direct-nameserver:
+    - 78.157.42.100
+    - 78.157.42.101
+  proxy-server-nameserver:
+    - 2606:4700:4700::1111
+    - 2606:4700:4700::1001
+    - 2001:4860:4860::8888
+    - 2001:4860:4860::8844
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 223.5.5.5
+    - 77.88.8.8
+    - 2400:3200::1
+    - 2a02:6b8::feed:0ff
+    - 2620:fe::fe
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+  sniff:
+    HTTP:
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
+    TLS:
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
+  auto-redir: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+rule-providers:
+  category_public_tracker:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-public-tracker.yaml
+    interval: 86400
+    path: ./ruleset/category_public_tracker.yaml
+  iran_ads:
+    type: http
+    behavior: domain
+    url: https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    interval: 86400
+    path: ./ruleset/iran_ads.yaml
+  PersianBlocker:
+    type: http
+    behavior: domain
+    url: https://github.com/MasterKia/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    path: ./ruleset/PersianBlocker.yaml
+    interval: 86400
+  youtube:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/youtube.yaml
+    interval: 86400
+    path: ./ruleset/youtube.yaml
+  telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/telegram.yaml
+    interval: 86400
+    path: ./ruleset/telegram.yaml
+  twitch:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/twitch.yaml
+    interval: 86400
+    path: ./ruleset/twitch.yaml
+  censor:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/censor.yaml
+    interval: 86400
+    path: ./ruleset/tahrim.yaml
+  local_ips:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/local-ips.yaml
+    interval: 86400
+    path: ./ruleset/local_ips.yaml
+  private:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/private.yaml
+    interval: 86400
+    path: ./ruleset/private.yaml
+  category_ir:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-ir.yaml
+    interval: 86400
+    path: ./ruleset/category_ir.yaml
+  iran:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/iran.yaml
+    interval: 86400
+    path: ./ruleset/iran.yaml
+  steam:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/steam.yaml
+    interval: 86400
+    path: ./ruleset/steam.yaml
+  game:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/game.yaml
+    interval: 86400
+    path: ./ruleset/game.yaml
+  category-games:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-games.yaml
+    interval: 86400
+    path: ./ruleset/category-games.yaml
+  ir:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.yaml
+    path: ./ruleset/ir.yaml
+    interval: 86400
+  apps:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
+    path: ./ruleset/apps.yaml
+    interval: 86400
+  ircidr:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ircidr.yaml
+    path: ./ruleset/ircidr.yaml
+    interval: 86400
+  irasn:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml
+    path: ./ruleset/irasn.yaml
+    interval: 86400
+  arvancloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.yaml
+    path: ./ruleset/arvancloud.yaml
+    interval: 86400
+  derakcloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.yaml
+    path: ./ruleset/derakcloud.yaml
+    interval: 86400
+  iranserver:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.yaml
+    path: ./ruleset/iranserver.yaml
+    interval: 86400
+  parspack:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.yaml
+    path: ./ruleset/parspack.yaml
+    interval: 86400
+  malware:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml
+    path: ./ruleset/malware.yaml
+    interval: 86400
+  phishing:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml
+    path: ./ruleset/phishing.yaml
+    interval: 86400
+  cryptominers:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml
+    path: ./ruleset/cryptominers.yaml
+    interval: 86400
+  ads:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.yaml
+    path: ./ruleset/ads.yaml
+    interval: 86400
+  DownloadManagers:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/DownloadManagers.yaml
+    interval: 86400
+    path: ./ruleset/DownloadManagers.yaml
+  BanProgramAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanProgramAD.yaml
+    interval: 86400
+    path: ./ruleset/BanProgramAD.yaml
+  BanAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanAD.yaml
+    interval: 86400
+    path: ./ruleset/BanAD.yaml
+  PrivateTracker:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/PrivateTracker.yaml
+    interval: 86400
+    path: ./ruleset/PrivateTracker.yaml
+  BanEasyList:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanEasyList.yaml
+    interval: 86400
+    path: ./ruleset/BanEasyList.yaml
+  Download:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Download.yaml
+    interval: 86400
+    path: ./ruleset/Download.yaml
+  GameDownload:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/GameDownload.yaml
+    interval: 86400
+    path: ./ruleset/GameDownload.yaml
+  SteamRegionCheck:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/SteamRegionCheck.yaml
+    interval: 86400
+    path: ./ruleset/SteamRegionCheck.yaml
+  Xbox:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Xbox.yaml
+    interval: 86400
+    path: ./ruleset/Xbox.yaml
+  YouTubeMusic:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTubeMusic.yaml
+    interval: 86400
+    path: ./ruleset/YouTubeMusic.yaml
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTube.yaml
+    interval: 86400
+    path: ./ruleset/YouTube.yaml
+  Ponzi:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/Ponzi.yaml
+    interval: 86400
+    path: ./ruleset/Ponzi.yaml
+  warninglist:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/warning-list.yaml
+    interval: 86400
+    path: ./ruleset/warninglist.yaml
+  google:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google.yaml
+    interval: 86400
+    path: ./ruleset/google.yaml
+  google-play:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google-play.yaml
+    interval: 86400
+    path: ./ruleset/google-play.yaml
+  xiaomi-ads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/xiaomi-ads.yaml
+    interval: 86400
+    path: ./ruleset/xiaomi-ads.yaml
+  xiaomi_block_list:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_block_list.yaml
+    path: ./ruleset/xiaomi_block_list.yaml
+    interval: 86400
+  xiaomi_white_list:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_white_list.yaml
+    path: ./ruleset/xiaomi_white_list.yaml
+    interval: 86400
+  cloudflare:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/cloudflare.yaml
+    interval: 86400
+    path: ./ruleset/cloudflare.yaml
+  github:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/github.yaml
+    interval: 86400
+    path: ./ruleset/xgithub.yaml
+  whatsapp:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/whatsapp.yaml
+    interval: 86400
+    path: ./ruleset/whatsapp.yaml
+  LiteAds:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/LiteAds.yaml
+    path: ./ruleset/LiteAds.yaml
+    interval: 86400
+  discord:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/discord.yaml
+    path: ./ruleset/discord.yaml
+    interval: 86400
+  instagram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/instagram.yaml
+    interval: 86400
+    path: ./ruleset/instagram.yaml
+  category-ai:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-ai-!cn.yaml
+    interval: 86400
+    path: ./ruleset/category-ai.yaml
+  stremio:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/stremio.yaml
+    path: ./ruleset/stremio.yaml
+    interval: 86400
+  windows:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/windows.yaml
+    path: ./ruleset/windows.yaml
+    interval: 86400
+  Chotwitter:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/twitter.yaml
+    path: ./ruleset/Chotwitter.yaml
+    interval: 86400
+  mihTwitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Twitter.yaml
+    path: ./ruleset/mihTwitter.yaml
+    interval: 86400
+  Domtwitter:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/twitter.yaml
+    interval: 86400
+    path: ./ruleset/Domtwitter.yaml
+  spotifyads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify-ads.yaml
+    interval: 86400
+    path: ./ruleset/spotifyads.yaml
+  DomainSpotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify.yaml
+    interval: 86400
+    path: ./ruleset/DomainSpotify.yaml
+  mihspotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Spotify.yaml
+    interval: 86400
+    path: ./ruleset/mihSpotify.yaml
+proxies:
+  - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: 2022-blake3-aes-128-gcm, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: 57.131.41.129:8390, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: 57.131.41.129:8390 2, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: 154.26.132.38:16922, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: 57.129.95.140:11201, server: 57.129.95.140, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6d75de740e3d5197, udp: true, tfo: false}
+  - {name: 25, server: 57.129.95.140, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6d75de740e3d5197, udp: true, tfo: false}
+  - {name: 163.171.181.49:42933, server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: 163.171.181.49:42936, server: 163.171.181.49, port: 42936, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: 148.113.143.102:11201, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
+  - {name: 154.90.62.145:46575, server: 154.90.62.145, port: 46575, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: 154.90.62.145:46576, server: 154.90.62.145, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: 154.90.62.145:46577, server: 154.90.62.145, port: 46577, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: 38.54.29.18:11201, server: 38.54.29.18, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 932a519c8147a998, udp: true, tfo: false}
+  - {name: 157.185.173.60:18424, server: 157.185.173.60, port: 18424, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
+  - {name: 157.185.173.60:18425, server: 157.185.173.60, port: 18425, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
+  - {name: 157.185.173.60:18426, server: 157.185.173.60, port: 18426, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
+  - {name: 157.185.173.60:18427, server: 157.185.173.60, port: 18427, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
+  - {name: "@confingraygan N0010239-🇩🇪", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: 163.171.206.24:44233, server: 163.171.206.24, port: 44233, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
+  - {name: 163.171.206.24:44234, server: 163.171.206.24, port: 44234, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
+  - {name: 163.171.206.24:44236, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
+  - {name: 154.90.62.145:16672, server: 154.90.62.145, port: 16672, type: ss, cipher: chacha20-ietf-poly1305, password: 0892b2ccccc012f6, udp: true, tfo: false}
+  - {name: 163.171.213.47:46281, server: 163.171.213.47, port: 46281, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
+  - {name: 163.171.213.47:46282, server: 163.171.213.47, port: 46282, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
+  - {name: 38.54.59.38:11201, server: 38.54.59.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: 38.54.59.38:11202, server: 38.54.59.38, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: 38.54.59.38:11203, server: 38.54.59.38, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: 38.54.59.38:11204, server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: 38.54.59.38:11205, server: 38.54.59.38, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: 91.106.109.17:41022, server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
+  - {name: 91.106.109.17:48210, server: 91.106.109.17, port: 48210, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
+  - {name: 91.106.109.17:48211, server: 91.106.109.17, port: 48211, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
+  - {name: 91.106.109.17:48212, server: 91.106.109.17, port: 48212, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
+  - {name: 91.106.109.17:48213, server: 91.106.109.17, port: 48213, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
+  - {name: 119.159.245.24:26736, server: 119.159.245.24, port: 26736, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
+  - {name: 119.159.245.24:26737, server: 119.159.245.24, port: 26737, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
+  - {name: 119.159.245.24:26738, server: 119.159.245.24, port: 26738, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
+  - {name: 119.159.245.24:26739, server: 119.159.245.24, port: 26739, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
+  - {name: 107.181.151.147:43669, server: 107.181.151.147, port: 43669, type: ss, cipher: chacha20-ietf-poly1305, password: 23sUrwRcTBEAvxLS6VM6Aay57KQbws1upDAxr7Btf4hXu4gaUQW4BPbComjJjStM2JqJLDwVkteXL8V33k8eWkZR4UB8intz, udp: true, tfo: false}
+  - {name: portal.ninemakeda.cfd:43669, server: portal.ninemakeda.cfd, port: 43669, type: ss, cipher: chacha20-ietf-poly1305, password: 23sUrwRcTBEAvxLS6VM6Aay57KQbws1upDAxr7Btf4hXu4gaUQW4BPbComjJjStM2JqJLDwVkteXL8V33k8eWkZR4UB8intz, udp: true, tfo: false}
+  - {name: 154.205.134.155:24852, server: 154.205.134.155, port: 24852, type: ss, cipher: chacha20-ietf-poly1305, password: 2916150efedd2d17, udp: true, tfo: false}
+  - {name: 154.205.134.155:24853, server: 154.205.134.155, port: 24853, type: ss, cipher: chacha20-ietf-poly1305, password: 2916150efedd2d17, udp: true, tfo: false}
+  - {name: 154.205.134.155:24854, server: 154.205.134.155, port: 24854, type: ss, cipher: chacha20-ietf-poly1305, password: 2916150efedd2d17, udp: true, tfo: false}
+  - {name: 163.171.213.47:19702, server: 163.171.213.47, port: 19702, type: ss, cipher: chacha20-ietf-poly1305, password: 2e5c75c35d7ee929, udp: true, tfo: false}
+  - {name: 87.228.9.43:1080, server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)`", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
+  - {name: "@SPEEDS_VPN1-🫆`", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
+  - {name: 154.205.139.9:11202, server: 154.205.139.9, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 303ac65e30f28b0b, udp: true, tfo: false}
+  - {name: 154.205.139.9:11203, server: 154.205.139.9, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 303ac65e30f28b0b, udp: true, tfo: false}
+  - {name: 154.205.139.9:11204, server: 154.205.139.9, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 303ac65e30f28b0b, udp: true, tfo: false}
+  - {name: 154.205.139.9:11205, server: 154.205.139.9, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: 303ac65e30f28b0b, udp: true, tfo: false}
+  - {name: 154.205.152.64:11201, server: 154.205.152.64, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 315eb3e160cf2432, udp: true, tfo: false}
+  - {name: 5.188.227.18:11202, server: 5.188.227.18, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 317f13c5c2ebdea3, udp: true, tfo: false}
+  - {name: 163.171.181.30:11201, server: 163.171.181.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 32a9a16d8a041c98, udp: true, tfo: false}
+  - {name: "@confingraygan B0010--🇩🇪", server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: "@confingraygan B00139-🇩🇪", server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: configraygan Z1mc-🇩🇪, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: configraygan Z1vlckc-🇩🇪, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: configraygan Z1xj-🇩🇪, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: 38.54.93.66:49696, server: 38.54.93.66, port: 49696, type: ss, cipher: chacha20-ietf-poly1305, password: 3b72ad57035835c7, udp: true, tfo: false}
+  - {name: 38.54.85.242:11201, server: 38.54.85.242, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 3ff6d2f0563891a4, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪", server: 62.133.60.43, port: 36456, type: ss, cipher: chacha20-ietf-poly1305, password: ujVzCt42DoGMG0m24pzRaU, udp: true, tfo: false}
+  - {name: 136.244.100.113:443, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
+  - {name: "***❤️******❤️******❤️***`", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
+  - {name: 103.106.228.247:990, server: 103.106.228.247, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 103.97.203.227:990, server: 103.97.203.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 138.186.142.80:990, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 138.186.142.81:990, server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 138.186.143.32:990, server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 147.78.0.182:990, server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 147.78.1.230:990, server: 147.78.1.230, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 156.59.243.6:990, server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 171.22.254.129:990, server: 171.22.254.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 176.123.1.175:990, server: 176.123.1.175, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 188.214.157.58:990, server: 188.214.157.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 37.143.130.203:990, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 38.54.59.107:990, server: 38.54.59.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 45.159.250.190:990, server: 45.159.250.190, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 46.183.217.204:990, server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇦🇪", server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇦🇪 2", server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇸🇪`", server: 91.186.217.246, port: 31764, type: ss, cipher: chacha20-ietf-poly1305, password: Ftc17VH9ZXQON5vslJCYmv, udp: true, tfo: false}
+  - {name: 107.181.151.241:49917, server: 107.181.151.241, port: 49917, type: ss, cipher: chacha20-ietf-poly1305, password: G9ZuLN5DE9qqouTZwYUcvYsDJx8gyL1nCu3N7yRZFjPmYKhzSi8GkpVuexmTHAz2uvcErKkex1K2ceR2GH3L444HRNnN1YpP, udp: true, tfo: false}
+  - {name: 31.3.209.106:46551, server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🧿 تلگرام", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: "@configraygan 🌹2", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: "@vpnbaz 🛸", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: kazakhstan21.clearorbitllc.com:46551, server: kazakhstan21.clearorbitllc.com, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: 141.98.4.67:52952, server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
+  - {name: exchange.gameaurela.click:52952, server: exchange.gameaurela.click, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
+  - {name: 62.133.63.21:1080, server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: N3yE7p8QL5U90BhzK0c_WA, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸", server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NA1lIEGUEV9QZVp5TU3PRW, udp: true, tfo: false}
+  - {name: 193.29.139.189:8080, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: 193.29.139.199:8080, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: 193.29.139.217:8080, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: 62.133.63.21:65262, server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: UnUUGZ0A4ihWFiDjp8X8ON, udp: true, tfo: false}
+  - {name: "@vpnbaz 👾", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: UnUUGZ0A4ihWFiDjp8X8ON, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: UnUUGZ0A4ihWFiDjp8X8ON, udp: true, tfo: false}
+  - {name: 89.223.93.176:41348, server: 89.223.93.176, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA, udp: true, tfo: false}
+  - {name: 213.109.147.242:62685, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
+  - {name: 95.174.68.33:443, server: 95.174.68.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8, udp: true, tfo: false}
+  - {name: 5.188.4.103:11203, server: 5.188.4.103, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
+  - {name: 5.188.4.103:11205, server: 5.188.4.103, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
+  - {name: 213.156.137.142:43659, server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
+  - {name: 38.54.14.156:11201, server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
+  - {name: 57.129.129.139:29183, server: 57.129.129.139, port: 29183, type: ss, cipher: chacha20-ietf-poly1305, password: ab0b81a5bff7ddea, udp: true, tfo: false}
+  - {name: "@configraygan 🌹1", server: 57.129.129.139, port: 29183, type: ss, cipher: chacha20-ietf-poly1305, password: ab0b81a5bff7ddea, udp: true, tfo: false}
+  - {name: "@configraygan 🔥116", server: 57.129.129.139, port: 29183, type: ss, cipher: chacha20-ietf-poly1305, password: ab0b81a5bff7ddea, udp: true, tfo: false}
+  - {name: 163.171.213.47:12025, server: 163.171.213.47, port: 12025, type: ss, cipher: chacha20-ietf-poly1305, password: abe595aeb7a6a035, udp: true, tfo: false}
+  - {name: 185.253.116.95:16673, server: 185.253.116.95, port: 16673, type: ss, cipher: chacha20-ietf-poly1305, password: aiXO0FnjYHg6ZKJAPohBVW, udp: true, tfo: false}
+  - {name: 5.181.2.73:43248, server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: bSFMvNLHapp4ZrcGIXy9Vt, udp: true, tfo: false}
+  - {name: "@configraygan X47", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: bSFMvNLHapp4ZrcGIXy9Vt, udp: true, tfo: false}
+  - {name: 5.181.2.73:43248 2, server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: bSFMvNLHapp4ZrcGIXy9Vt, udp: true, tfo: false}
+  - {name: mx2.drawnrisha.one:55988, server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true, tfo: false}
+  - {name: 141.95.106.231:11201, server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
+  - {name: "@configraygan 🌹29", server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
+  - {name: "@configraygan X39", server: 141.95.106.231, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: c8e2102ca3eee7ec, udp: true, tfo: false}
+  - {name: 38.54.29.57:11201, server: 38.54.29.57, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: cb955c8530320120, udp: true, tfo: false}
+  - {name: 213.156.137.142:43660, server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@confingraygan N00129", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: 213.156.137.142:43661, server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@configraygan 🌹49", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@configraygan X9", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@confingraygan B0018 #1", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@confingraygan N0030 #1", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "@vpnbaz 🚁", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+proxy-groups:
+  - name: نوع انتخاب پروکسی 🔀
+    type: select
+    proxies:
+      - اتصال پایدار 🔗
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - توزیع بار (پایدار) 🧲
+      - توزیع بار (موقت) ⏳
+      - توزیع بار (گردشی) 🔁
+      - قطع اینترنت ⛔
+      - بدون فیلترشکن 🛡️
+  - name: دستی 🤏🏻
+    type: select
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: خودکار (بهترین پینگ) 🤖
+    type: url-test
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    tolerance: 50
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: پشتیبان (در صورت قطعی) 🧯
+    type: fallback
+    url: https://www.gstatic.com/generate_204
+    interval: 600
+    tolerance: 50
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: اتصال پایدار 🔗
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 30
+    tolerance: 50
+    proxies:
+      - خودکار (بهترین پینگ) 🤖
+      - پشتیبان (در صورت قطعی) 🧯
+      - دستی 🤏🏻
+  - name: توزیع بار (پایدار) 🧲
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: توزیع بار (گردشی) 🔁
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: توزیع بار (موقت) ⏳
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - 78.38.246.150:8446
+      - 57.131.41.129:8390
+      - "@meliproxyy"
+      - 57.131.41.129:8390 2
+      - 154.26.132.38:16922
+      - 57.129.95.140:11201
+      - 25
+      - 163.171.181.49:42933
+      - 163.171.181.49:42936
+      - 148.113.143.102:11201
+      - برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 154.90.62.145:46575
+      - 154.90.62.145:46576
+      - 154.90.62.145:46577
+      - 38.54.29.18:11201
+      - 157.185.173.60:18424
+      - 157.185.173.60:18425
+      - 157.185.173.60:18426
+      - 157.185.173.60:18427
+      - "@confingraygan N0010239-🇩🇪"
+      - 163.171.206.24:44233
+      - 163.171.206.24:44234
+      - 163.171.206.24:44236
+      - 154.90.62.145:16672
+      - 163.171.213.47:46281
+      - 163.171.213.47:46282
+      - 38.54.59.38:11201
+      - 38.54.59.38:11202
+      - 38.54.59.38:11203
+      - 38.54.59.38:11204
+      - 38.54.59.38:11205
+      - 91.106.109.17:41022
+      - 91.106.109.17:48210
+      - 91.106.109.17:48211
+      - 91.106.109.17:48212
+      - 91.106.109.17:48213
+      - 119.159.245.24:26736
+      - 119.159.245.24:26737
+      - 119.159.245.24:26738
+      - 119.159.245.24:26739
+      - 107.181.151.147:43669
+      - portal.ninemakeda.cfd:43669
+      - 154.205.134.155:24852
+      - 154.205.134.155:24853
+      - 154.205.134.155:24854
+      - 163.171.213.47:19702
+      - 87.228.9.43:1080
+      - "@PewezaVPN (تلگرام)`"
+      - "***✅***@AR14N24b"
+      - "@SPEEDS_VPN1-🫆`"
+      - 154.205.139.9:11202
+      - 154.205.139.9:11203
+      - 154.205.139.9:11204
+      - 154.205.139.9:11205
+      - 154.205.152.64:11201
+      - 5.188.227.18:11202
+      - 163.171.181.30:11201
+      - "@confingraygan B0010--🇩🇪"
+      - "@confingraygan B00139-🇩🇪"
+      - configraygan Z1mc-🇩🇪
+      - configraygan Z1vlckc-🇩🇪
+      - configraygan Z1xj-🇩🇪
+      - 38.54.93.66:49696
+      - 38.54.85.242:11201
+      - "@v2FreeHub 🇩🇪"
+      - 136.244.100.113:443
+      - "***❤️******❤️******❤️***`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 103.106.228.247:990
+      - 103.97.203.227:990
+      - 138.186.142.80:990
+      - 138.186.142.81:990
+      - 138.186.143.32:990
+      - 147.78.0.182:990
+      - 147.78.1.230:990
+      - 156.59.243.6:990
+      - 171.22.254.129:990
+      - 176.123.1.175:990
+      - 188.214.157.58:990
+      - 193.135.174.135:990
+      - 37.143.130.203:990
+      - 38.54.59.107:990
+      - 45.159.250.190:990
+      - 46.183.217.204:990
+      - "@v2FreeHub 🇦🇪"
+      - "@v2FreeHub 🇦🇪 2"
+      - "@v2FreeHub 🇸🇪`"
+      - 107.181.151.241:49917
+      - 31.3.209.106:46551
+      - "@Vpn_Tehran 🧿 تلگرام"
+      - "@configraygan 🌹2"
+      - "@vpnbaz 🛸"
+      - "@meliproxyy 2"
+      - kazakhstan21.clearorbitllc.com:46551
+      - 141.98.4.67:52952
+      - exchange.gameaurela.click:52952
+      - 62.133.63.21:1080
+      - "@v2FreeHub 🇺🇸"
+      - 193.29.139.189:8080
+      - 193.29.139.199:8080
+      - 193.29.139.217:8080
+      - 62.133.63.21:65262
+      - "@vpnbaz 👾"
+      - "***✅***@AR14N24b 2"
+      - 89.223.93.176:41348
+      - 213.109.147.242:62685
+      - 95.174.68.33:443
+      - 5.188.4.103:11203
+      - 5.188.4.103:11205
+      - 213.156.137.142:43659
+      - 38.54.14.156:11201
+      - 57.129.129.139:29183
+      - "@configraygan 🌹1"
+      - "@configraygan 🔥116"
+      - 163.171.213.47:12025
+      - 185.253.116.95:16673
+      - 5.181.2.73:43248
+      - "@configraygan X47"
+      - 5.181.2.73:43248 2
+      - mx2.drawnrisha.one:55988
+      - 141.95.106.231:11201
+      - "@configraygan 🌹29"
+      - "@configraygan X39"
+      - 38.54.29.57:11201
+      - 213.156.137.142:43660
+      - "@confingraygan N00129"
+      - 213.156.137.142:43661
+      - "@configraygan 🌹49"
+      - "@configraygan X9"
+      - "@confingraygan B0018 #1"
+      - "@confingraygan N0030 #1"
+      - "@vpnbaz 🚁"
+  - name: دانلود منیجر 📥
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: تلگرام 💬
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: یوتیوب ▶️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: گوگل 🌍
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: واتس آپ 🟢
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: هوش مصنوعی 🤖
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییتر 🐦
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اسپاتیفای 🎵
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اینستاگرام 📸
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: تبلیغات 🆎
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: تبلیغات اپ ها 🍃
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: رهگیری جهانی 🛑
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: سایتای مخرب ⚠️
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: استیم 🖥️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیم 🎮
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییچ 📡
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: سایتای ایرانی 🇮🇷
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: ویندوز 🧊
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: کلودفلر ☁️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیتهاب 🐙
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: دیسکورد 🗣️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: انی‌دسک 🔴
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: استریمیو 🎬
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: سایتای سانسوری 🤬
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+  - name: بدون فیلترشکن 🛡️
+    type: select
+    proxies:
+      - DIRECT
+  - name: قطع اینترنت ⛔
+    type: select
+    proxies:
+      - REJECT
+  - name: اجازه ندادن 🚫
+    type: select
+    proxies:
+      - REJECT
+ntp:
+  enable: true
+  server: time.apple.com
+  port: 123
+  interval: 30
+rules:
+  - RULE-SET,DownloadManagers,دانلود منیجر 📥
+  - RULE-SET,Download,دانلود منیجر 📥
+  - RULE-SET,stremio,استریمیو 🎬
+  - RULE-SET,BanProgramAD,تبلیغات اپ ها 🍃
+  - RULE-SET,BanAD,رهگیری جهانی 🛑
+  - RULE-SET,PrivateTracker,رهگیری جهانی 🛑
+  - RULE-SET,category_public_tracker,رهگیری جهانی 🛑
+  - RULE-SET,malware,سایتای مخرب ⚠️
+  - RULE-SET,phishing,سایتای مخرب ⚠️
+  - RULE-SET,cryptominers,سایتای مخرب ⚠️
+  - RULE-SET,warninglist,سایتای مخرب ⚠️
+  - RULE-SET,Ponzi,سایتای مخرب ⚠️
+  - RULE-SET,LiteAds,تبلیغات 🆎
+  - RULE-SET,iran_ads,تبلیغات 🆎
+  - RULE-SET,PersianBlocker,تبلیغات 🆎
+  - RULE-SET,ads,تبلیغات 🆎
+  - RULE-SET,BanEasyList,تبلیغات 🆎
+  - RULE-SET,twitch,توییچ 📡
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
+  - RULE-SET,telegram,تلگرام 💬
+  - RULE-SET,YouTube,یوتیوب ▶️
+  - RULE-SET,youtube,یوتیوب ▶️
+  - RULE-SET,YouTubeMusic,یوتیوب ▶️
+  - PROCESS-NAME,com.anydesk.anydeskandroid,انی‌دسک 🔴
+  - PROCESS-NAME,AnyDesk.exe,انی‌دسک 🔴
+  - DOMAIN-SUFFIX,anydesk.com,انی‌دسک 🔴
+  - PROCESS-NAME,Twitter.exe,توییتر 🐦
+  - PROCESS-NAME,com.twitter.android,توییتر 🐦
+  - RULE-SET,Chotwitter,توییتر 🐦
+  - RULE-SET,mihTwitter,توییتر 🐦
+  - RULE-SET,Domtwitter,توییتر 🐦
+  - PROCESS-NAME,com.spotify.music,اسپاتیفای 🎵
+  - PROCESS-NAME,Spotify.exe,اسپاتیفای 🎵
+  - RULE-SET,DomainSpotify,اسپاتیفای 🎵
+  - RULE-SET,mihspotify,اسپاتیفای 🎵
+  - PROCESS-NAME,com.instagram.android,اینستاگرام 📸
+  - RULE-SET,instagram,اینستاگرام 📸
+  - DOMAIN-SUFFIX,deepseek.com,هوش مصنوعی 🤖
+  - DOMAIN-SUFFIX,qwen.ai,هوش مصنوعی 🤖
+  - RULE-SET,category-ai,هوش مصنوعی 🤖
+  - RULE-SET,censor,سایتای سانسوری 🤬
+  - RULE-SET,apps,سایتای ایرانی 🇮🇷
+  - RULE-SET,iran,سایتای ایرانی 🇮🇷
+  - RULE-SET,arvancloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,derakcloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,iranserver,سایتای ایرانی 🇮🇷
+  - RULE-SET,parspack,سایتای ایرانی 🇮🇷
+  - RULE-SET,irasn,سایتای ایرانی 🇮🇷
+  - RULE-SET,ircidr,سایتای ایرانی 🇮🇷
+  - RULE-SET,ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,category_ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,whatsapp,واتس آپ 🟢
+  - RULE-SET,steam,استیم 🖥️
+  - RULE-SET,SteamRegionCheck,استیم 🖥️
+  - RULE-SET,game,گیم 🎮
+  - RULE-SET,GameDownload,گیم 🎮
+  - RULE-SET,category-games,گیم 🎮
+  - RULE-SET,Xbox,گیم 🎮
+  - RULE-SET,discord,دیسکورد 🗣️
+  - RULE-SET,xiaomi_white_list,نوع انتخاب پروکسی 🔀
+  - RULE-SET,xiaomi-ads,تبلیغات اپ ها 🍃
+  - RULE-SET,xiaomi_block_list,تبلیغات اپ ها 🍃
+  - RULE-SET,windows,ویندوز 🧊
+  - RULE-SET,cloudflare,کلودفلر ☁️
+  - RULE-SET,github,گیتهاب 🐙
+  - PROCESS-NAME,com.android.vending,نوع انتخاب پروکسی 🔀
+  - PROCESS-NAME,com.google.android.gms,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google-play,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google,گوگل 🌍
+  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
+  - RULE-SET,local_ips,بدون فیلترشکن 🛡️
+  - RULE-SET,private,بدون فیلترشکن 🛡️
+  - MATCH,نوع انتخاب پروکسی 🔀

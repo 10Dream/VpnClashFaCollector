@@ -465,14 +465,100 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: 130.49.150.165:1080, server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 130.49.150.165, port: 1080, type: ss, cipher: aes-256-gcm, password: uoxTBT6hymnLOaYWgYqmXA, udp: true, tfo: false}
-  - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 154.90.55.15:11201, server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31101, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31102, server: green2.cdntencentmusic.com, port: 31102, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31103, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 155bc127-485a-44b2-8e38-3fbf711a6e25, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 176.125.240.167:9443, server: 176.125.240.167, port: 9443, type: trojan, password: 249454d267254a52ab3c8b7906bc12ab, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Www.Speedtest.Net:2052, server: Www.Speedtest.Net, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: Www.Speedtest.Net, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: asrDE.nexavps.ir:2052, server: asrDE.nexavps.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: asrDE.nexavps.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: jokerv.membergolabi.ir:2052, server: jokerv.membergolabi.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: jokerv.membergolabi.ir, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: salamsalamirancell.aattaash.com:2052, server: salamsalamirancell.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: salamsalamirancell.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: salamsalamsalam.aattaash.com:2052, server: salamsalamsalam.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy`", server: salamsalamsalam.aattaash.com, port: 2052, type: trojan, password: 2CDcZvNOas, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gggbnh.www890604.dpdns.org:443, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501 2, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 2c455b22-fde6-4fed-93da-56894a13a10c, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31103 2, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501 3, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 33f64b81-358b-467f-bc9f-8780090c88de, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31103 3, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501 4, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4755e7eb-1d68-4808-ab81-18de1e602290, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31101 2, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31103 4, server: green2.cdntencentmusic.com, port: 31103, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501 5, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4bed2818-3e4e-4d44-b8fb-c4b71544673a, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:31101 3, server: green2.cdntencentmusic.com, port: 31101, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: green2.cdntencentmusic.com:35501 6, server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 4df6304c-39f9-4cc2-9d64-e7cba3fc12e4, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443, server: bbbnmkl.taiwan2028.indevs.in, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: bBbNmKl.TAIwAn2028.IndEvs.In, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: bBbNmKl.TAIwAn2028.IndEvs.In}}, udp: true, tfo: false}
+  - {name: kkko9.191288.xyz:443, server: kkko9.191288.xyz, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: kKko9.191288.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: kKko9.191288.xyz}}, udp: true, tfo: false}
+  - {name: mmkk.www890604.dpdns.org:443, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: mmkk.www890604.dpdns.org:443 2, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: mmmhu.huangshang.online:443, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: mmmhu.huangshang.online:443 2, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: mmmk.288288.shop:443, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
+  - {name: mmmk.288288.shop:443 2, server: mmmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: Mmmk.288288.shoP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: Mmmk.288288.shoP}}, udp: true, tfo: false}
+  - {name: nmk.288288.shop:443, server: nmk.288288.shop, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: nMk.288288.sHOP, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: nMk.288288.sHOP}}, udp: true, tfo: false}
+  - {name: 13.231.53.184:3076, server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.231.53.184:3076 2, server: 13.231.53.184, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 153.121.38.213:276, server: 153.121.38.213, port: 276, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 153.121.45.139:3901, server: 153.121.45.139, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.116.227:3423, server: 160.16.116.227, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.124.55:3423, server: 160.16.124.55, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.130.21:544, server: 160.16.130.21, port: 544, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.138.24:3901, server: 160.16.138.24, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.138.24:4006, server: 160.16.138.24, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.214.104:3423, server: 160.16.214.104, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.214.104:3423 2, server: 160.16.214.104, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.236.32:3901, server: 160.16.236.32, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.63.16:3423, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.63.16:3423 2, server: 160.16.63.16, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.68.250:4006, server: 160.16.68.250, port: 4006, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.70.180:3901, server: 160.16.70.180, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.70.180:3901 2, server: 160.16.70.180, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.89.176:3076, server: 160.16.89.176, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 202.181.103.246:3076, server: 202.181.103.246, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 202.181.103.246:3076 2, server: 202.181.103.246, port: 3076, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 202.181.103.246:3423, server: 202.181.103.246, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 202.181.103.246:3423 2, server: 202.181.103.246, port: 3423, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 38.180.107.76:443, server: 38.180.107.76, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 38.180.107.76:443 2, server: 38.180.107.76, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 38.180.190.13:443, server: 38.180.190.13, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 38.180.190.13:443 2, server: 38.180.190.13, port: 443, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 54.250.24.198, port: 127, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54.95.118.21:3373, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🌹22", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54.95.118.21:3373 2, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: "%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: "%C3%B0%C2%9F%C2%94%C2%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54.95.118.21:3373 3, server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🫟 تلگرام", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 54.95.118.21, port: 3373, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@confingraygan B0012-🇬🇧", server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, sni: hl-freedom-0.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-0.undef.network}}, udp: true, tfo: false}
+  - {name: configraygan Z16767-🇬🇧, server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, sni: hl-freedom-0.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-0.undef.network}}, udp: true, tfo: false}
+  - {name: 🇮🇳 yyyhhjki.taipei101.indevs.in:443, server: yyyhhjki.taipei101.indevs.in, port: 443, type: trojan, password: 98b419ef-83a2-4d1b-a23d-566b7f24477b, sni: YyYhHjKI.TAIPEi101.INdEVs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fKlh0x8wtLpTGA5AqzZ2Mj", headers: {Host: YyYhHjKI.TAIPEi101.INdEVs.in}}, udp: true, tfo: false}
+  - {name: 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2, server: yyyhhjki.taipei101.indevs.in, port: 443, type: trojan, password: 98b419ef-83a2-4d1b-a23d-566b7f24477b, sni: YyYhHjKI.TAIPEi101.INdEVs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fKlh0x8wtLpTGA5AqzZ2Mj", headers: {Host: YyYhHjKI.TAIPEi101.INdEVs.in}}, udp: true, tfo: false}
+  - {name: 43.198.233.56:381, server: 43.198.233.56, port: 381, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 43.199.47.199:3292, server: 43.199.47.199, port: 3292, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.75.205.170:41608, server: 5.75.205.170, port: 41608, type: trojan, password: OnNetXcY1F, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🚀******🚀******✈️***`", server: 5.75.205.170, port: 41608, type: trojan, password: OnNetXcY1F, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@confingraygan N001fnfj-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: "@confingraygan N001xo-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: 31, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: configraygan ♥16, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: configraygan Z1xıcf-🇸🇪, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: v1.dabache.top:8443, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: v1.dabache.top:8443 2, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: 212.193.18.144:36158, server: 212.193.18.144, port: 36158, type: trojan, password: ZblhWr0mqMakCPg.N, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 80.173.230.196:26279, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: de2c.buzzon.shop:443, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
+  - {name: configraygan x05, server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.198.189:443, server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
+  - {name: 104.18.32.37:443, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +575,300 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +884,300 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - 130.49.150.165:1080
-      - "***✅***@AR14N24b 2"
+      - green2.cdntencentmusic.com:31101
+      - green2.cdntencentmusic.com:31102
+      - green2.cdntencentmusic.com:31103
+      - green2.cdntencentmusic.com:35501
+      - 176.125.240.167:9443
+      - Www.Speedtest.Net:2052
+      - "@meliproxyy"
+      - asrDE.nexavps.ir:2052
+      - "@meliproxyy 2"
+      - jokerv.membergolabi.ir:2052
+      - "@meliproxyy 3"
+      - salamsalamirancell.aattaash.com:2052
+      - "@meliproxyy 4"
+      - salamsalamsalam.aattaash.com:2052
+      - "@meliproxyy`"
+      - gggbnh.www890604.dpdns.org:443
+      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
+      - green2.cdntencentmusic.com:35501 2
+      - green2.cdntencentmusic.com:31103 2
+      - green2.cdntencentmusic.com:35501 3
+      - green2.cdntencentmusic.com:31103 3
+      - green2.cdntencentmusic.com:35501 4
+      - green2.cdntencentmusic.com:31101 2
+      - green2.cdntencentmusic.com:31103 4
+      - green2.cdntencentmusic.com:35501 5
+      - green2.cdntencentmusic.com:31101 3
+      - green2.cdntencentmusic.com:35501 6
+      - 🇨🇳 bbbnmkl.taiwan2028.indevs.in:443
+      - kkko9.191288.xyz:443
+      - mmkk.www890604.dpdns.org:443
+      - mmkk.www890604.dpdns.org:443 2
+      - mmmhu.huangshang.online:443
+      - mmmhu.huangshang.online:443 2
+      - mmmk.288288.shop:443
+      - mmmk.288288.shop:443 2
+      - nmk.288288.shop:443
+      - 13.231.53.184:3076
+      - 13.231.53.184:3076 2
+      - 153.121.38.213:276
+      - 153.121.45.139:3901
+      - 160.16.116.227:3423
+      - 160.16.124.55:3423
+      - 160.16.130.21:544
+      - 160.16.138.24:3901
+      - 160.16.138.24:4006
+      - 160.16.214.104:3423
+      - 160.16.214.104:3423 2
+      - 160.16.236.32:3901
+      - 160.16.63.16:3423
+      - 160.16.63.16:3423 2
+      - 160.16.68.250:4006
+      - 160.16.70.180:3901
+      - 160.16.70.180:3901 2
+      - 160.16.89.176:3076
+      - 202.181.103.246:3076
+      - 202.181.103.246:3076 2
+      - 202.181.103.246:3423
+      - 202.181.103.246:3423 2
+      - 38.180.107.76:443
+      - 38.180.107.76:443 2
+      - 38.180.190.13:443
+      - 38.180.190.13:443 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 54.95.118.21:3373
+      - "@configraygan 🌹22"
+      - 54.95.118.21:3373 2
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 3"
-      - 154.90.55.15:11201
-      - "***✅***@AR14N24b 4"
+      - 54.95.118.21:3373 3
+      - "@Vpn_Tehran 🫟 تلگرام"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "@confingraygan B0012-🇬🇧"
+      - configraygan Z16767-🇬🇧
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443
+      - 🇮🇳 yyyhhjki.taipei101.indevs.in:443 2
+      - 43.198.233.56:381
+      - 43.199.47.199:3292
+      - 5.75.205.170:41608
+      - "***🚀******🚀******✈️***`"
+      - "@confingraygan N001fnfj-🇸🇪"
+      - "@confingraygan N001xo-🇸🇪"
+      - 31
+      - configraygan ♥16
+      - configraygan Z1xıcf-🇸🇪
+      - v1.dabache.top:8443
+      - v1.dabache.top:8443 2
+      - 212.193.18.144:36158
+      - 80.173.230.196:26279
+      - de2c.buzzon.shop:443
+      - "Telegram: @wiki_tajrobe"
+      - "***✅***@AR14N24b"
+      - configraygan x05
+      - 162.159.198.189:443
+      - "***✅***@AR14N24b 2"
+      - 104.18.32.37:443
   - name: دانلود منیجر 📥
     type: select
     proxies:

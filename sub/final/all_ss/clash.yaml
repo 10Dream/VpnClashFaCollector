@@ -471,7 +471,6 @@ proxies:
   - {name: 57.131.41.129:8390 2, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
   - {name: 154.26.132.38:16922, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
   - {name: 57.129.95.140:11201, server: 57.129.95.140, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6d75de740e3d5197, udp: true, tfo: false}
-  - {name: 25, server: 57.129.95.140, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6d75de740e3d5197, udp: true, tfo: false}
   - {name: 163.171.181.49:42933, server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
   - {name: 163.171.181.49:42936, server: 163.171.181.49, port: 42936, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
   - {name: 148.113.143.102:11201, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
@@ -512,6 +511,7 @@ proxies:
   - {name: 154.205.134.155:24854, server: 154.205.134.155, port: 24854, type: ss, cipher: chacha20-ietf-poly1305, password: 2916150efedd2d17, udp: true, tfo: false}
   - {name: 163.171.213.47:19702, server: 163.171.213.47, port: 19702, type: ss, cipher: chacha20-ietf-poly1305, password: 2e5c75c35d7ee929, udp: true, tfo: false}
   - {name: 87.228.9.43:1080, server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
+  - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`, server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)`", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆`", server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
@@ -559,10 +559,14 @@ proxies:
   - {name: "@vpnbaz 🛸", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
   - {name: kazakhstan21.clearorbitllc.com:46551, server: kazakhstan21.clearorbitllc.com, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔥 تلگرام", server: kazakhstan21.clearorbitllc.com, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
   - {name: 141.98.4.67:52952, server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
   - {name: exchange.gameaurela.click:52952, server: exchange.gameaurela.click, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
+  - {name: "@@freenet_vt", server: 5.39.249.26, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: MWU4N, udp: true, tfo: false}
+  - {name: "@freenet_vt", server: 185.68.246.90, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: MThkN, udp: true, tfo: false}
   - {name: 62.133.63.21:1080, server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: N3yE7p8QL5U90BhzK0c_WA, udp: true, tfo: false}
   - {name: "@v2FreeHub 🇺🇸", server: 216.105.168.18, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: NA1lIEGUEV9QZVp5TU3PRW, udp: true, tfo: false}
+  - {name: "@freenet_vt 2", server: 185.120.59.59, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: OWEyZ, udp: true, tfo: false}
   - {name: 193.29.139.189:8080, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
   - {name: 193.29.139.199:8080, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
   - {name: 193.29.139.217:8080, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
@@ -571,7 +575,9 @@ proxies:
   - {name: "***✅***@AR14N24b 2", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: UnUUGZ0A4ihWFiDjp8X8ON, udp: true, tfo: false}
   - {name: 89.223.93.176:41348, server: 89.223.93.176, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA, udp: true, tfo: false}
   - {name: 213.109.147.242:62685, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
+  - {name: "@freenet_vt 3", server: 45.10.164.100, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: YjAwZ, udp: true, tfo: false}
   - {name: 95.174.68.33:443, server: 95.174.68.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8, udp: true, tfo: false}
+  - {name: "@freenet_vt 4", server: 185.88.101.68, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: ZjJjY, udp: true, tfo: false}
   - {name: 5.188.4.103:11203, server: 5.188.4.103, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 5.188.4.103:11205, server: 5.188.4.103, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 213.156.137.142:43659, server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
@@ -605,6 +611,7 @@ proxies:
   - {name: 163.171.213.46:11201, server: 163.171.213.46, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d121385f700a6915, udp: true, tfo: false}
   - {name: 57.129.95.198:11201, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: "@Vpn_Tehran ✨️ تلگرام", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔥 تلگرام 2", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🔮 تلگرام", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: جوین چنل شید قط نشید@configraygan, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: IR 115 @Outline_Vpn`, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
@@ -612,7 +619,6 @@ proxies:
   - {name: "***✅***@AR14N24b`", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: 157.185.130.3:49336, server: 157.185.130.3, port: 49336, type: ss, cipher: chacha20-ietf-poly1305, password: d98c9a6399064227, udp: true, tfo: false}
-  - {name: "@vpnbaz 🏓", server: 157.185.130.3, port: 49336, type: ss, cipher: chacha20-ietf-poly1305, password: d98c9a6399064227, udp: true, tfo: false}
   - {name: 157.185.130.3:49336 2, server: 157.185.130.3, port: 49336, type: ss, cipher: chacha20-ietf-poly1305, password: d98c9a6399064227, udp: true, tfo: false}
   - {name: 🇷🇺 promo18v.bystrivpn.ru:443, server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t, udp: true, tfo: false}
   - {name: 57.129.95.78:11201, server: 57.129.95.78, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e0e4014bb22f7329, udp: true, tfo: false}
@@ -681,8 +687,6 @@ proxies:
   - {name: configraygan Z14343-🇸🇬, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: configraygan Z1cfı-🇸🇬, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: configraygan Z1ri-🇸🇬, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 3.1.195.148:8316, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 24, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 3.1.195.148:8319, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 3.112.130.53:8313, server: 3.112.130.53, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 3.112.130.53:8316, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
@@ -693,6 +697,7 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 3.112.130.53:8316 2, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔥 تلگرام 3", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@vpnbaz ⛩️", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "***🚀***configraygan` 3", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@meliproxyy 4", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
@@ -707,10 +712,9 @@ proxies:
   - {name: 193.29.139.141:8080, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@Vpn_Tehran ✅️ تلگرام", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔮 تلگرام 2", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@confingraygan N001kd-🇳🇱", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 32, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: IP_CF, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.122:8080, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 تلگرام 2", server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -723,7 +727,7 @@ proxies:
   - {name: 🇳🇱 nl-hamedvpns, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.82:8080, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.89:8080, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🔮 تلگرام 2", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔮 تلگرام 3", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@configraygan 🍒21", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@confingraygan N0010--🇳🇱", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@confingraygan N001wnwn-🇳🇱", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -731,7 +735,7 @@ proxies:
   - {name: configraygan Z1dldo-🇳🇱, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: configraygan-26-🇳🇱, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.89:8080 2, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.101:8080 2, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 54.36.174.134:443, server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, udp: true, tfo: false}
   - {name: "@configraygan 🍒22", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, udp: true, tfo: false}
   - {name: "@Father_vpn", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, udp: true, tfo: false}
@@ -740,6 +744,8 @@ proxies:
   - {name: "***✅***@AR14N24b 11", server: 62.133.60.60, port: 7048, type: ss, cipher: chacha20-ietf-poly1305, password: rQ6tUaXT4uUFdB7ayeVynr, udp: true, tfo: false}
   - {name: 103.149.183.10:8388, server: 103.149.183.10, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
   - {name: 78.38.246.150:8446 2, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran ⚘️ تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🌸 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🌼 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🔰 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🦋 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
@@ -1056,6 +1062,7 @@ proxies:
   - {name: 217.30.10.18:9093, server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
   - {name: 217.30.10.70:9060, server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
   - {name: 217.30.10.18:9008, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: 57.129.121.229:8443, server: 57.129.121.229, port: 8443, type: ss, cipher: aes-256-gcm, password: 46d51/8QMy48k57CIfS1C5yx2IHsjoEnPJYb7zXDfAc=, udp: true, tfo: false}
   - {name: 78.38.246.150:8446 3, server: 78.38.246.150, port: 8446, type: ss, cipher: aes-256-gcm, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@confingraygan N00146-🇺🇸", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -1098,7 +1105,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -1139,6 +1145,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -1186,10 +1193,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -1198,7 +1209,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -1232,6 +1245,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -1239,7 +1253,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -1308,8 +1321,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -1320,6 +1331,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -1334,10 +1346,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -1350,7 +1361,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -1358,7 +1369,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -1367,6 +1378,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -1683,6 +1696,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
@@ -1715,7 +1729,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -1756,6 +1769,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -1803,10 +1817,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -1815,7 +1833,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -1849,6 +1869,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -1856,7 +1877,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -1925,8 +1945,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -1937,6 +1955,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -1951,10 +1970,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -1967,7 +1985,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -1975,7 +1993,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -1984,6 +2002,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -2300,6 +2320,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
@@ -2332,7 +2353,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -2373,6 +2393,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -2420,10 +2441,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -2432,7 +2457,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -2466,6 +2493,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -2473,7 +2501,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -2542,8 +2569,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -2554,6 +2579,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -2568,10 +2594,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -2584,7 +2609,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -2592,7 +2617,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -2601,6 +2626,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -2917,6 +2944,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
@@ -2958,7 +2986,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -2999,6 +3026,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -3046,10 +3074,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -3058,7 +3090,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -3092,6 +3126,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -3099,7 +3134,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -3168,8 +3202,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -3180,6 +3212,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -3194,10 +3227,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -3210,7 +3242,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -3218,7 +3250,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -3227,6 +3259,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -3543,6 +3577,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
@@ -3575,7 +3610,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -3616,6 +3650,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -3663,10 +3698,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -3675,7 +3714,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -3709,6 +3750,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -3716,7 +3758,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -3785,8 +3826,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -3797,6 +3836,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -3811,10 +3851,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -3827,7 +3866,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -3835,7 +3874,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -3844,6 +3883,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -4160,6 +4201,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
@@ -4192,7 +4234,6 @@ proxy-groups:
       - 57.131.41.129:8390 2
       - 154.26.132.38:16922
       - 57.129.95.140:11201
-      - 25
       - 163.171.181.49:42933
       - 163.171.181.49:42936
       - 148.113.143.102:11201
@@ -4233,6 +4274,7 @@ proxy-groups:
       - 154.205.134.155:24854
       - 163.171.213.47:19702
       - 87.228.9.43:1080
+      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "@PewezaVPN (تلگرام)`"
       - "***✅***@AR14N24b"
       - "@SPEEDS_VPN1-🫆`"
@@ -4280,10 +4322,14 @@ proxy-groups:
       - "@vpnbaz 🛸"
       - "@meliproxyy 2"
       - kazakhstan21.clearorbitllc.com:46551
+      - "@Vpn_Tehran 🔥 تلگرام"
       - 141.98.4.67:52952
       - exchange.gameaurela.click:52952
+      - "@@freenet_vt"
+      - "@freenet_vt"
       - 62.133.63.21:1080
       - "@v2FreeHub 🇺🇸"
+      - "@freenet_vt 2"
       - 193.29.139.189:8080
       - 193.29.139.199:8080
       - 193.29.139.217:8080
@@ -4292,7 +4338,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - 89.223.93.176:41348
       - 213.109.147.242:62685
+      - "@freenet_vt 3"
       - 95.174.68.33:443
+      - "@freenet_vt 4"
       - 5.188.4.103:11203
       - 5.188.4.103:11205
       - 213.156.137.142:43659
@@ -4326,6 +4374,7 @@ proxy-groups:
       - 163.171.213.46:11201
       - 57.129.95.198:11201
       - "@Vpn_Tehran ✨️ تلگرام"
+      - "@Vpn_Tehran 🔥 تلگرام 2"
       - "@Vpn_Tehran 🔮 تلگرام"
       - جوین چنل شید قط نشید@configraygan
       - IR 115 @Outline_Vpn`
@@ -4333,7 +4382,6 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - "@meliproxyy`"
       - 157.185.130.3:49336
-      - "@vpnbaz 🏓"
       - 157.185.130.3:49336 2
       - 🇷🇺 promo18v.bystrivpn.ru:443
       - 57.129.95.78:11201
@@ -4402,8 +4450,6 @@ proxy-groups:
       - configraygan Z14343-🇸🇬
       - configraygan Z1cfı-🇸🇬
       - configraygan Z1ri-🇸🇬
-      - 3.1.195.148:8316
-      - 24
       - 3.1.195.148:8319
       - 3.112.130.53:8313
       - 3.112.130.53:8316
@@ -4414,6 +4460,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 10"
       - 3.112.130.53:8316 2
+      - "@Vpn_Tehran 🔥 تلگرام 3"
       - "@vpnbaz ⛩️"
       - "***🚀***configraygan` 3"
       - "@meliproxyy 4"
@@ -4428,10 +4475,9 @@ proxy-groups:
       - 193.29.139.141:8080
       - 193.29.139.151:8080
       - 193.29.139.251:8080
-      - 82.38.31.101:8080
       - "@Vpn_Tehran ✅️ تلگرام"
+      - "@Vpn_Tehran 🔮 تلگرام 2"
       - "@confingraygan N001kd-🇳🇱"
-      - 32
       - IP_CF
       - 82.38.31.122:8080
       - "@Vpn_Tehran 💚 تلگرام 2"
@@ -4444,7 +4490,7 @@ proxy-groups:
       - 🇳🇱 nl-hamedvpns
       - 82.38.31.82:8080
       - 82.38.31.89:8080
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام 3"
       - "@configraygan 🍒21"
       - "@confingraygan N0010--🇳🇱"
       - "@confingraygan N001wnwn-🇳🇱"
@@ -4452,7 +4498,7 @@ proxy-groups:
       - configraygan Z1dldo-🇳🇱
       - configraygan-26-🇳🇱
       - 82.38.31.89:8080 2
-      - 82.38.31.101:8080 2
+      - 82.38.31.101:8080
       - 54.36.174.134:443
       - "@configraygan 🍒22"
       - "@Father_vpn"
@@ -4461,6 +4507,8 @@ proxy-groups:
       - "***✅***@AR14N24b 11"
       - 103.149.183.10:8388
       - 78.38.246.150:8446 2
+      - "@Vpn_Tehran ⚘️ تلگرام"
+      - "@Vpn_Tehran 🌸 تلگرام"
       - "@Vpn_Tehran 🌼 تلگرام"
       - "@Vpn_Tehran 🔰 تلگرام"
       - "@Vpn_Tehran 🦋 تلگرام"
@@ -4777,6 +4825,7 @@ proxy-groups:
       - 217.30.10.18:9093
       - 217.30.10.70:9060
       - 217.30.10.18:9008
+      - 57.129.121.229:8443
       - 78.38.246.150:8446 3
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
