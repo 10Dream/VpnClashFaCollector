@@ -466,9 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "| null | 99999ms |", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: "| null | 99999ms | 2", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,9 +484,7 @@ proxy-groups:
     type: select
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,9 +492,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -506,9 +500,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -525,9 +517,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -535,9 +525,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -545,9 +533,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "| null | 99999ms |"
-      - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:
