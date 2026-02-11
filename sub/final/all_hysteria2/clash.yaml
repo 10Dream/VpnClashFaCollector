@@ -472,7 +472,9 @@ proxies:
   - {name: 🇬🇧 yapc-1.adamhayward.co.uk:35200, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جوین چنل شید قط نشید@configraygan, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🚀***configraygan`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -501,7 +503,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"
@@ -520,7 +524,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"
@@ -539,7 +545,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"
@@ -567,7 +575,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"
@@ -586,7 +596,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"
@@ -605,7 +617,9 @@ proxy-groups:
       - 🇬🇧 yapc-1.adamhayward.co.uk:35200
       - 5.175.249.174:35000
       - "@YamYamProxy"
+      - "@proxy_kafee`"
       - جوین چنل شید قط نشید@configraygan
+      - "***🆔***"
       - "***🚀***configraygan`"
       - "@meliproxyy`"
       - "@proxy_kafee"

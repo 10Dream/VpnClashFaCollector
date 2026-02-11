@@ -466,16 +466,20 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@YamYamProxy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@YamYamProxy 3", server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: /, headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 4", server: ip3.neoservers.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 30e6fce7-2a13-4d8a-a641-3acb97c651b9, servername: P9lDnhqbAs9fMHkMc5tVkHPWIq9UW5qFhdzctCuJ.ViPClUbIrAn.Ir., alpn: [h3%2Ch2], network: ws, ws-opts: {path: /, headers: {Host: P9lDnhqbAs9fMHkMc5tVkHPWIq9UW5qFhdzctCuJ.ViPClUbIrAn.Ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔***", server: 5.78.146.131, port: 713, type: vless, tls: true, packet-encoding: xudp, uuid: 6e71e113-9cab-4604-81ac-330967a214ba, host: gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 2", server: 81.12.33.0, port: 713, type: vless, tls: true, packet-encoding: xudp, uuid: 6e71e113-9cab-4604-81ac-330967a214ba, host: igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 2", server: riali22.carpet-carpet-carped.ir, port: 2018, type: vless, tls: true, packet-encoding: xudp, uuid: 352f047c-3176-4271-9bc6-3f7d33ee03c7, servername: ub.com, host: ub.com, path: /, reality-opts: {public-key: pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc, short-id: 83f404}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 3", server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 505997ba-cbdb-466e-a3ad-69c6a4553b38, network: ws, ws-opts: {path: /containers/fi, headers: {Host: pizzabama.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 4", server: 5.78.146.131, port: 713, type: vless, tls: true, packet-encoding: xudp, uuid: 6e71e113-9cab-4604-81ac-330967a214ba, host: gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 5", server: 81.12.33.0, port: 713, type: vless, tls: true, packet-encoding: xudp, uuid: 6e71e113-9cab-4604-81ac-330967a214ba, host: igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: اسپانسر کانفیگ:🐧 @Birdsbeak`, server: 62.60.159.133, port: 13179, type: vless, tls: true, packet-encoding: xudp, uuid: cf1b548b-4ab0-43fe-b000-330d42ec2a95, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: یام‌یام پروکسی, server: 3.72.87.185, port: 41676, type: vless, tls: true, packet-encoding: xudp, uuid: d9917a89-14f6-4485-e8c5-1a2465a5996b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 5", server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 6", server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 7", server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: "Telegram-/-/-/-?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 6", server: ipbaz.ping-box.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e765eb5b-8442-40e3-9532-857ba5ececa7, servername: vbox.ping-box.com, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "`", server: serveruwofl.samanidempire.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ee4b0561-450d-4f5b-a8e2-f84c95def9b2, servername: serveruwofl.samanidempire.org, alpn: [http/1.1], network: ws, ws-opts: {path: /1ab3537d, headers: {Host: serveruwofl.samanidempire.org}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -494,16 +498,20 @@ proxy-groups:
     type: select
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -512,16 +520,20 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -530,16 +542,20 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -557,16 +573,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -575,16 +595,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -593,16 +617,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
-      - "***🆔***"
       - "***🆔*** 2"
+      - "***🆔*** 3"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
       - "@YamYamProxy 5"
       - "@YamYamProxy 6"
       - "@YamYamProxy 7"
+      - "***🆔*** 6"
       - "`"
   - name: دانلود منیجر 📥
     type: select

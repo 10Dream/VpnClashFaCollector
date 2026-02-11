@@ -465,18 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ♻️32@oneclickvpnkeys", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | ♻️32@proxy_kafee", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ☺️92@oneclickvpnkeys`", server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ☺️98@oneclickvpnkeys", server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ♻️53@oneclickvpnkeys", server: uk.spectrum.vu, port: 1935, type: hysteria2, ports: 1935, password: spectrumvpn:nMZwnqdrvnBfEzkQZxujWQk0iTUdwGK9, obfs: salamander, obfs-password: 3Lse3bDmcLLlEa77sdYZe0o6kywbTwII, sni: google.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys, server: uk.spectrum.vu, port: 1935, type: hysteria2, ports: 1935, password: spectrumvpn:nMZwnqdrvnBfEzkQZxujWQk0iTUdwGK9, obfs: salamander, obfs-password: 3Lse3bDmcLLlEa77sdYZe0o6kywbTwII, sni: google.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms |", server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 2", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1149ms | @meliproxyy`, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 1792ms | @YamYamProxy, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 3", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | جوین چنل شید قط نشید@configraygan", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 694ms |, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***🚀***configraygan`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 2184ms | @meliproxyy, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,54 +494,57 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -556,54 +560,57 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 | NL | 2164ms | ♻️32@oneclickvpnkeys
+      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
       - "| null | 99999ms | ♻️32@proxy_kafee"
-      - "| null | 99999ms | ☺️92@oneclickvpnkeys`"
-      - "| null | 99999ms | ☺️98@oneclickvpnkeys"
-      - "| null | 99999ms | ♻️53@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1268ms | ♻️53@oneclickvpnkeys
       - "| null | 99999ms |"
       - "| null | 99999ms | 2"
-      - 🇩🇪 | DE | 1149ms | @meliproxyy`
+      - 🇩🇪 | DE | 1792ms | @YamYamProxy
+      - 🇩🇪 | DE | 2067ms | جوین چنل شید قط نشید@configraygan
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | جوین چنل شید قط نشید@configraygan"
-      - 🇩🇪 | DE | 694ms |
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇩🇪 | DE | 2184ms | @meliproxyy
+      - "| null | 99999ms | 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

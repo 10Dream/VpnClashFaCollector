@@ -465,10 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@AzadNet***💋***", server: 57.128.190.194, port: 10013, type: ss, cipher: chacha20-ietf-poly1305, password: e5c3f903e81d5d4e, udp: true, tfo: false}
-  - {name: "@AzadNet***😍***", server: 172.64.144.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 68c89f56-3a15-46f2-9901-8c00a2546b97, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@AzadNet***😘***", server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a, network: ws, ws-opts: {path: "/?ed", headers: {Host: WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@AzadNet", server: 172.67.204.84, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
+  - {name: 🇩🇪 Azadnet Germany1`, server: l4m5usjr4x5.ab05ij.starwayvpn.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c82e532b-4569-45ef-afbf-c427a728c4ac, host: l4m5usjr4x5.ab05ij.starwayvpn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@AzadNet***💋***"
-      - "@AzadNet***😍***"
-      - "@AzadNet***😘***"
-      - "@AzadNet"
+      - 🇩🇪 Azadnet Germany1`
   - name: دانلود منیجر 📥
     type: select
     proxies:

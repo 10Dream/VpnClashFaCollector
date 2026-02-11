@@ -480,7 +480,6 @@ proxies:
   - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3, server: 3.123.254.74, port: 39781, type: vless, tls: true, packet-encoding: xudp, uuid: 5ffb4a1a-255c-4d51-93ce-ac731c8e94d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Proxy_sh 4101", server: 141.95.127.132, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @app_bedal", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4, server: 3.121.214.190, port: 28279, type: vless, tls: true, packet-encoding: xudp, uuid: 620e45f4-92f1-4be6-e118-3bc515509320, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 3.124.209.11, port: 26197, type: vless, tls: true, packet-encoding: xudp, uuid: 627af99e-6326-430d-8a77-957cb5cc803e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "سرورهای رایگان و پرسرعت : vpn_Sra@`", server: ip2-fast.tyryqyserver.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6da7b024-d51a-4b7f-a59f-e4edf0a7d85d, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: norbertde1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 2", server: 37.202.226.46, port: 20263, type: vless, tls: true, packet-encoding: xudp, uuid: 6ee16703-e23c-4247-b3fb-a5547e549089, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Proxy_sh`", server: cloud.infomusicirani.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 7a72a9f6-5ca5-40b3-88fc-7a620aca198c, servername: cdn.mostanadpersian.ir, network: ws, ws-opts: {path: /, headers: {Host: cdn.mostanadpersian.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -522,7 +521,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
@@ -554,7 +552,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
@@ -586,7 +583,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
@@ -627,7 +623,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
@@ -659,7 +654,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
@@ -691,7 +685,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 3
       - "@Proxy_sh 4101"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀 4
-      - ⚫️ Telegram- @Canfing_VPN`
       - "سرورهای رایگان و پرسرعت : vpn_Sra@`"
       - "Telegram: @wiki_tajrobe 2"
       - "@Proxy_sh`"
