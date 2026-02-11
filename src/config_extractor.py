@@ -48,12 +48,6 @@ SPLIT_SOURCES = [
         'name': 'ss',
         'chunk_size': 500
     },
-    # لینک‌های بیشتر را اینجا اضافه کنید
-    # {
-    #     'url': 'LINK_2',
-    #     'name': 'MyConfigCollection',
-    #     'chunk_size': 20
-    # },
 ]
 
 # ==========================================
@@ -94,14 +88,19 @@ def is_windows_compatible(link):
         return False
     
     secret = secret_match.group(1).lower()
+    # ویندوز کاراکترهای خاص را در سکرت نمی‌پذیرد
     if '%' in secret or '_' in secret or '-' in secret:
         return False
+    # ویندوز سکرت‌هایی که با ee شروع می‌شوند (obfuscated) را پشتیبانی نمی‌کند
     if secret.startswith('ee'):
         return False
+    # حذف پیشوند dd (در صورت وجود) برای چک کردن هگزادسیمال بودن باقی‌مانده
     if secret.startswith('dd'):
         actual_secret = secret[2:]
     else:
         actual_secret = secret
+    
+    # سکرت باید دقیقاً 32 کاراکتر هگزادسیمال باشد
     if not re.fullmatch(r'[0-9a-f]{32}', actual_secret):
         return False
     return True
@@ -134,14 +133,13 @@ def is_behind_cloudflare(link):
                 for field in ['add', 'host', 'sni']:
                     if check_domain(data.get(field)):
                         return True
-            except: return False
+                except: return False
     except: return False
     return False
 
 def save_content(directory, filename, content_list):
     """ذخیره محتوا به صورت فایل متنی و Base64 (نسخه استاندارد)"""
     if not content_list: return
-    # حذف دایرکتوری در صورت وجود فایل (برای جلوگیری از تداخل)
     os.makedirs(directory, exist_ok=True)
     
     content_sorted = sorted(list(set(content_list)))
@@ -180,15 +178,12 @@ def merge_hysteria(data_map):
     if 'hy2' in data_map: hy2_combined.update(data_map['hy2'])
     
     processed_map = copy.deepcopy(data_map)
-    # حذف کلید hy2
     if 'hy2' in processed_map: del processed_map['hy2']
-    # ذخیره همه در hysteria2
     processed_map['hysteria2'] = hy2_combined
     return processed_map
 
 def write_files_standard(data_map, output_dir):
-    """مدیریت نوشتن فایل‌های تفکیک شده (روش استاندارد قدیمی)"""
-    # ادغام هیستریا قبل از نوشتن
+    """مدیریت نوشتن فایل‌های تفکیک شده با جداسازی کامل ویندوز و اندروید برای تلگرام"""
     final_map = merge_hysteria(data_map)
     
     if not any(final_map.values()): return
@@ -200,19 +195,25 @@ def write_files_standard(data_map, output_dir):
     for proto, lines in final_map.items():
         if not lines: continue
         
+        # پردازش پروتکل‌های غیر تلگرام
         if proto != 'tg':
             mixed_content.update(lines)
             for line in lines:
                 if is_behind_cloudflare(line):
                     cloudflare_content.add(line)
-            
-        if proto == 'tg':
-            windows_tg = {l for l in lines if is_windows_compatible(l)}
-            save_content(output_dir, "tg", lines)
-            save_content(output_dir, "tg_windows", windows_tg)
-            save_content(output_dir, "tg_android", lines)
-        else:
             save_content(output_dir, proto, lines)
+            
+        # پردازش اختصاصی پروکسی‌های تلگرام
+        else:
+            # ۱. ویندوز: فقط آن‌هایی که با ویندوز سازگارند
+            windows_tg = {l for l in lines if is_windows_compatible(l)}
+            # ۲. اندروید: مواردی که در ویندوز کار نمی‌کنند (تفکیک کامل)
+            android_tg = {l for l in lines if l not in windows_tg}
+            # ۳. میکس (tg): شامل کل پروکسی‌ها (ویندوز + اندروید)
+            
+            save_content(output_dir, "tg", lines) # فایل میکس نهایی تلگرام
+            save_content(output_dir, "tg_windows", windows_tg)
+            save_content(output_dir, "tg_android", android_tg)
             
     if mixed_content:
         save_content(output_dir, "mixed", mixed_content)
@@ -252,7 +253,7 @@ def cleanup_legacy_hy2(directory):
                     logger.error(f"Error deleting {file}: {e}")
 
 # ==========================================
-# توابع جدید برای قابلیت Splitting
+# توابع مربوط به قابلیت Splitting
 # ==========================================
 
 def fetch_url_content(url):
@@ -270,33 +271,27 @@ def save_split_output(config_list, base_name, chunk_size):
     if not config_list:
         return
     
-    # مرتب‌سازی و حذف تکراری‌ها
     unique_configs = sorted(list(set(config_list)))
     total_configs = len(unique_configs)
     
-    # مسیرهای خروجی
     path_normal = os.path.join("sub", "split", "normal", base_name)
     path_base64 = os.path.join("sub", "split", "base64", base_name)
     
-    # ساخت دایرکتوری‌ها (اگر وجود دارند پاک نمی‌شوند، روی آن‌ها نوشته می‌شود)
     os.makedirs(path_normal, exist_ok=True)
     os.makedirs(path_base64, exist_ok=True)
     
-    # تقسیم‌بندی
     chunks = [unique_configs[i:i + chunk_size] for i in range(0, total_configs, chunk_size)]
     
     logger.info(f"Splitting '{base_name}': {total_configs} configs into {len(chunks)} files.")
     
     for idx, chunk in enumerate(chunks):
-        file_number = str(idx + 1) # نام فایل: 1, 2, 3 ...
+        file_number = str(idx + 1)
         content_str = "\n".join(chunk)
         b64_str = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
         
-        # 1. ذخیره نرمال: sub/split/normal/Name/1
         with open(os.path.join(path_normal, file_number), "w", encoding="utf-8") as f:
             f.write(content_str)
             
-        # 2. ذخیره بیس64: sub/split/base64/Name/1
         with open(os.path.join(path_base64, file_number), "w", encoding="utf-8") as f:
             f.write(b64_str)
 
@@ -318,19 +313,14 @@ def process_split_mode():
         content = fetch_url_content(url)
         
         if content:
-            # استخراج
             extracted = extract_configs_from_text(content)
-            
-            # ادغام هیستریا (مهم: hy2 و hysteria2 یکی می‌شوند)
             merged_data = merge_hysteria(extracted)
             
-            # جمع‌آوری تمام کانفیگ‌ها در یک لیست واحد برای تقسیم‌بندی
             all_configs = []
             for proto, lines in merged_data.items():
-                if proto != 'tg': # معمولاً پروکسی تلگرام در سابسکریپشن کلاینت‌ها استفاده نمی‌شود، اما اگر نیاز بود حذف شرط کنید
+                if proto != 'tg': 
                     all_configs.extend(lines)
             
-            # ذخیره نهایی
             save_split_output(all_configs, name, chunk_size)
 
 # ==========================================
@@ -338,7 +328,7 @@ def process_split_mode():
 # ==========================================
 
 def main():
-    # --- بخش 1: پردازش پوشه تلگرام (ویژگی قبلی) ---
+    # --- بخش 1: پردازش پوشه تلگرام ---
     src_dir = "src/telegram"
     out_dir = "sub"
     global_collection = {k: set() for k in PROTOCOLS}
@@ -355,21 +345,20 @@ def main():
                 
                 channel_data = extract_configs_from_text(content)
                 
-                # جمع‌آوری در گلوبال
                 for p, s in channel_data.items():
                     global_collection[p].update(s)
                 
-                # نوشتن فایل‌های هر کانال
+                # نوشتن فایل‌های هر کانال (با جداسازی جدید ویندوز/اندروید)
                 write_files_standard(channel_data, os.path.join(out_dir, channel_name))
                 
             except Exception as e:
                 logger.error(f"Error processing channel {channel_name}: {e}")
         
-        # نوشتن فایل All
+        # نوشتن فایل All نهایی
         if sum(len(v) for v in global_collection.values()) > 0:
             write_files_standard(global_collection, os.path.join(out_dir, "all"))
     
-    # --- بخش 2: پردازش لینک‌های اسپلیت (ویژگی جدید) ---
+    # --- بخش 2: پردازش لینک‌های اسپلیت ---
     process_split_mode()
 
     # --- بخش 3: نهایی‌سازی و پاکسازی ---
