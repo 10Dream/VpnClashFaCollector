@@ -476,10 +476,10 @@ proxies:
   - {name: جوین چنل شید قط نشید@configraygan, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🚀***configraygan`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -507,10 +507,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -528,10 +528,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -549,10 +549,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -579,10 +579,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -600,10 +600,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -621,10 +621,10 @@ proxy-groups:
       - جوین چنل شید قط نشید@configraygan
       - "***🆔***"
       - "***🚀***configraygan`"
-      - "@meliproxyy`"
+      - "@meliproxyy"
       - "@proxy_kafee"
       - 5.175.249.174:35000 2
-      - "@meliproxyy"
+      - "@meliproxyy 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

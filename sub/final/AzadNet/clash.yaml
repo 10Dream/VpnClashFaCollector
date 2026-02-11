@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇩🇪 Azadnet Germany1`, server: l4m5usjr4x5.ab05ij.starwayvpn.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c82e532b-4569-45ef-afbf-c427a728c4ac, host: l4m5usjr4x5.ab05ij.starwayvpn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 Azadnet Germany1, server: l4m5usjr4x5.ab05ij.starwayvpn.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c82e532b-4569-45ef-afbf-c427a728c4ac, host: l4m5usjr4x5.ab05ij.starwayvpn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇩🇪 Azadnet Germany1`
+      - 🇩🇪 Azadnet Germany1
   - name: دانلود منیجر 📥
     type: select
     proxies:
