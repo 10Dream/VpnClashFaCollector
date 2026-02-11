@@ -67,14 +67,14 @@ def test_process():
         return
 
     # --- Phase 1: Latency Test ---
-    # تغییر: Threads به 100 افزایش یافت
     logger.info("--- Phase 1: Latency Test (Threads: 100) ---")
     p_csv = os.path.join(raw_dir, "ping_raw.csv")
     subprocess.run(["./xray-knife", "http", "-f", input_file, "-t", "100", "-o", p_csv, "-x", "csv"], stdout=subprocess.DEVNULL)
 
     top_candidates = []
     if os.path.exists(p_csv):
-        with open(p_csv, "r", encoding="utf-8-sig") as f:
+        # اصلاح شده: اضافه کردن errors="ignore" برای جلوگیری از کراش در زمان خواندن بایت‌های غیرمجاز
+        with open(p_csv, "r", encoding="utf-8-sig", errors="ignore") as f:
             reader = list(csv.DictReader(f))
             valid_rows = [r for r in reader if r.get('delay') and str(r['delay']).isdigit() and int(r['delay']) > 0]
             valid_rows.sort(key=lambda x: int(x['delay']))
@@ -94,27 +94,28 @@ def test_process():
     # --- Phase 2: Speed Test ---
     if top_candidates:
         tmp_txt = "top_candidates_tmp.txt"
-        with open(tmp_txt, "w") as f: f.write("\n".join(filter(None, top_candidates)))
+        with open(tmp_txt, "w", encoding="utf-8") as f: f.write("\n".join(filter(None, top_candidates)))
         
-        # تغییر: Threads به 2 افزایش یافت
         logger.info("--- Phase 2: Speed Test (5MB - Threads: 2) ---")
         s_csv = os.path.join(raw_dir, "speed_raw.csv")
         speed_url = "https://speed.cloudflare.com/__down?bytes=5000000"
         
-        # پارامتر -t به 2 تغییر کرد
         subprocess.run(["./xray-knife", "http", "-f", tmp_txt, "-t", "2", "-o", s_csv, "-x", "csv", "-p", "-u", speed_url, "-a", "10000"], stdout=subprocess.DEVNULL)
 
         speed_results = []
         if os.path.exists(s_csv):
-            with open(s_csv, "r", encoding="utf-8-sig") as f:
+            # اصلاح شده: اضافه کردن errors="ignore" برای فایل تست سرعت
+            with open(s_csv, "r", encoding="utf-8-sig", errors="ignore") as f:
                 for row in csv.DictReader(f):
-                    raw_down = float(row.get('download') or 0)
-                    speed_results.append({
-                        'link': row.get('link') or row.get('Config'),
-                        'speed_val': raw_down,
-                        'delay': row.get('delay') or "0",
-                        'cc': row.get('location') or "UN"
-                    })
+                    try:
+                        raw_down = float(row.get('download') or 0)
+                        speed_results.append({
+                            'link': row.get('link') or row.get('Config'),
+                            'speed_val': raw_down,
+                            'delay': row.get('delay') or "0",
+                            'cc': row.get('location') or "UN"
+                        })
+                    except: continue
             
             speed_results.sort(key=lambda x: x['speed_val'], reverse=True)
 
@@ -136,7 +137,7 @@ def test_process():
             
             logger.info(f"Speed test complete. {len(speed_results)} configs ranked.")
 
-    if os.path.exists(tmp_txt): os.remove(tmp_txt)
+    if os.path.exists("top_candidates_tmp.txt"): os.remove("top_candidates_tmp.txt")
     logger.info("All tests finished successfully.")
 
 if __name__ == "__main__":
