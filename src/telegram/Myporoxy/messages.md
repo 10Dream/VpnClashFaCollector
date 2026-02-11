@@ -1,5 +1,19 @@
 # آرشیو کانال: @Myporoxy
-بروزرسانی: 2026-02-11 17:34:37 UTC
+بروزرسانی: 2026-02-11 18:13:25 UTC
+
+### 🕒 2026-02-11 17:51:15 UTC
+***☑️***
+ پروکسی ضد فیلتر و پر سرعت
+[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=cdn.yektanet.com.rashkapo.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+***🔘***
+لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
+***🙏***
+***🆔***
+ 
+[@MyPoroxy](https://t.me/MyPoroxy)
+ ☜
+
+---
 
 ### 🕒 2026-02-11 16:55:36 UTC
 ***☑️***

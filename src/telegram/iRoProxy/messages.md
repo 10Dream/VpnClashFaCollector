@@ -1,5 +1,5 @@
 # آرشیو کانال: @iRoProxy
-بروزرسانی: 2026-02-11 17:37:26 UTC
+بروزرسانی: 2026-02-11 18:16:18 UTC
 
 ### 🕒 2026-02-11 17:13:40 UTC
 مولانا توی یکی از داستان‌های مثنوی میگه که:
@@ -8,7 +8,10 @@
 [ایفون](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
  | 
 [ایفون](https://t.me/proxy?server=91.239.192.74&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
-[پروکسی](https://t.me/proxy?server=185.3.200.7&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=91.239.192.67&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kw63QFgMBAgABAAH8AxOG4kwFgMBAgABAAH8AxOG4kw63Q%3D)
+[پروکسی](https://t.me/proxy?server=185.3.200.9&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.5&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
  | 
 [پروکسی](https://t.me/proxy?server=185.3.200.6&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
  

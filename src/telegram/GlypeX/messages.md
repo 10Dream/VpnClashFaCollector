@@ -1,5 +1,21 @@
 # آرشیو کانال: @GlypeX
-بروزرسانی: 2026-02-11 17:34:25 UTC
+بروزرسانی: 2026-02-11 18:13:13 UTC
+
+### 🕒 2026-02-11 18:00:21 UTC
+**• New MTProto Proxies!**
+- February 11, 21:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-11 17:45:12 UTC
+**• New MTProto Proxies!**
+- February 11, 21:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
 
 ### 🕒 2026-02-11 17:30:21 UTC
 **• New MTProto Proxies!**
@@ -932,22 +948,6 @@
 ### 🕒 2026-02-10 18:15:07 UTC
 **• New MTProto Proxies!**
 - February 10, 21:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-10 18:00:27 UTC
-**• New MTProto Proxies!**
-- February 10, 21:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-10 17:45:07 UTC
-**• New MTProto Proxies!**
-- February 10, 21:15
 > 
 [@Glype](https://t.me/Glype)
 

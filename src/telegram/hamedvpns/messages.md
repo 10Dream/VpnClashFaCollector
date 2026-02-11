@@ -1,24 +1,5 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-11 17:37:19 UTC
-
-### 🕒 2026-02-11 17:32:46 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**Freedom-Guard/FG_MOBILE**
-:
-***🧪***
- 
-**v12.0.4**
- (v12.0.4) [Pre-release]
-توضیحی موجود نیست.
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/Freedom-Guard/FG_MOBILE/releases/tag/v12.0.4)
-[𓄂𓆃](https://t.me/update_releases)
-
----
+بروزرسانی: 2026-02-11 18:16:11 UTC
 
 ### 🕒 2026-02-11 17:21:44 UTC
 تنظیمات کلی ویتورای
@@ -515,68 +496,6 @@ PrivateKey = 0LscTErP+a+mrW5Fwu1ry2fpSSvXio+l5PJTMVnRC0s=
 AllowedIPs = 0.0.0.0/0, ::/0
 Endpoint = be-bru.azirevpn.net:51820
 PublicKey = 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM=
-**داخل 👈 نیکا 👉 هم بزنید کار می‌کنه 😎 حتی ویتو**
-رای نسخه جدیدش .
-داخل کلاینت 
-***👈***
- 
-[WG Tunnel](https://github.com/wgtunnel/wgtunnel/releases/tag/4.2.2)
- 
-***👉***
- بزنید و حالشو ببرید .
-..
-***🆑***
- ‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***✅***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-09 18:07:41 UTC
-کانفیگ وارپ نامحدود (آمنزیا) 
-***😎***
-**آیپی**
- کانادا 
-***🇨🇦***
-با گزینه + سپس گزینه 
-Add from Clipboard 
-***📋***
-کانفیگ را اضافه کنید
-**کد پایین رو کپی کنید و بزنید WG Tunnel**
-ا
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
- ا
-[Interface]
-Address = 10.0.137.185/32, 2a0e:1c80:1337:1:10:0:137:185/128
-DNS = 10.0.0.1, 2a0e:1c80:1337:1:10::1, 91.231.153.2
-Jc = 4
-Jmin = 40
-Jmax = 70
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-PrivateKey = 0LscTErP+a+mrW5Fwu1ry2fpSSvXio+l5PJTMVnRC0s=
-[Peer]
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = ca-van.azirevpn.net:51820
-PublicKey = rif6whh0lHjgLGLUjq94hEPbHSOar5Oqxlo5WCV7wFM=
 **داخل 👈 نیکا 👉 هم بزنید کار می‌کنه 😎 حتی ویتو**
 رای نسخه جدیدش .
 داخل کلاینت 

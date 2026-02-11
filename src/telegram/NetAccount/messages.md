@@ -1,5 +1,14 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-11 17:34:43 UTC
+بروزرسانی: 2026-02-11 18:13:31 UTC
+
+### 🕒 2026-02-11 17:39:37 UTC
+`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount`
+`vless://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#NetAccount`
+`vless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--CoOoW&mode=stream-up#NetAccount`
+`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#NetAccount`
+
+---
 
 ### 🕒 2026-02-11 16:30:42 UTC
 کانفیگ Npv Tunnel

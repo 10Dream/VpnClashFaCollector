@@ -1,5 +1,58 @@
 # آرشیو کانال: @ProxySkull
-بروزرسانی: 2026-02-11 17:35:16 UTC
+بروزرسانی: 2026-02-11 18:14:06 UTC
+
+### 🕒 2026-02-11 18:00:34 UTC
+**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+**🇮🇷**
+ 
+`1404/11/22`
+**🇬🇧**
+ 
+`2026/02/11`
+**🕒**
+ 
+`21:30:28`
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=418db.www.google.com.alphard.cfd&amp;port=2310&amp;secret=7jK5IN_7UWQwKOL2uHjU6sEgICAgICAgICAgICAgICA%F0%9F%92%A0[)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.222.28.6&amp;port=33&amp;secret=7HQighJPBNMYVRNB6tdkVw%F0%9F%9B%9C)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=72.56.102.104&amp;port=443&amp;secret=eed8223b129a62eafcdafc08c4513e6d0531632e7275)
+[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=fox.fire-foxes.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[***🇺🇸*** ᴘʀᴏxʏ](tg://proxy?server=144.202.69.201&amp;port=443&amp;secret=a2fb9b0daa5a45c2c52ec28deb687328)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=188.245.118.3&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.3.200.4&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=116.202.100.110&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=49.13.3.146&amp;port=8443&amp;secret=ProxyQavi)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.3.200.101&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[***🇬🇧*** ᴘʀᴏxʏ](tg://proxy?server=87.248.149.132&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=213.182.216.216&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=84.201.175.61&amp;port=443&amp;secret=eead24ce88888cf6231e908ca911628e)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=sudo.needhost.info&amp;port=4455&amp;secret=7nnjRIGHSb16xRkTAiDCXQk=)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=74.1.1.55&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=188.132.129.218&amp;port=2083&amp;secret=3ba455cff2ccbd9c823c1e3dac0d3dad)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=fox.fire-foxes.info&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+***🆔***
+ 
+[@ZPrxy](https://t.me/ZPrxy)
+
+---
 
 ### 🕒 2026-02-11 16:00:39 UTC
 **🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**

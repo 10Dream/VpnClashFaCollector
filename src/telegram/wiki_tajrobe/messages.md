@@ -1,5 +1,5 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-11 17:39:08 UTC
+بروزرسانی: 2026-02-11 18:18:08 UTC
 
 ### 🕒 2026-02-11 11:27:26 UTC
 ***💰***
@@ -181,36 +181,6 @@ vmess://eyJhZGQiOiJkZTJjLmJ1enpvbi5zaG9wIiwiYWlkIjoiMCIsImFscG4iOiJodHRwLzEuMSIs
 ***⚡️***
  
 [@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-09 17:56:57 UTC
-نسخه Pre-release v2rayNG رو نصب کنید.
-**سرعت و پینگ عالی شده. **
-تغییرات:
-هماهنگی با تنظیمات جدید Xray و نسخه
-xray-core v26.2.6
-در هسته Xray بخش TLS، گزینه‌ی پیکربندی allowInsecure حذف خواهد شد.
-به‌جای آن باید از pinnedPeerCertSha256 استفاده کنید.
-این مقدار قابلیت اشتراک‌گذاری دارد و در لاگ‌ها نیز هشدار و پیام واضحی نمایش داده خواهد شد.
-[https://github.com/2dust/v2rayNG/releases](https://github.com/2dust/v2rayNG/releases)
-
----
-
-### 🕒 2026-02-09 17:49:48 UTC
-همراه اول:
-vless://596d22e4-da5d-46ed-a211-f1d28d43a89c@152.53.141.146:29013?security=none&encryption=none&host=nobitex.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a227b9ad-9194-4b9b-9181-d1c95577763e@198.41.203.39:443?path=%2FeyJqdW5rIjoibTQ2ZThWYVBLY0ZLWUdCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=XCODeSecreTWiTHddDULTra.SOBHanKmGANg-698.worKeRs.deV#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bddcb397-6f52-458e-9937-dfbf69db1e48@de3c.buzzon.shop:443?path=%2Fsy5RZsmo3iYVIROnda&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de3c.buzzon.shop&fp=chrome&type=ws&allowInsecure=0&sni=de3c.buzzon.shop#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6ee16703-e23c-4247-b3fb-a5547e549089@37.202.226.46:20263?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-09 17:42:11 UTC
-نسخه جدید InviZible Pro رو نصب کنید.  خیلی سریع‌تر متصل می‌شه. قبلاً Bridge WebTunnel وصل نمی‌شد، ولی با این نسخه بدون مشکل وصل می‌شه و نسبت به Snowflake سرعت بهتری داره.  تغییرات: افزایش مقاومت در برابر سانسور در پل‌های WebTunnel. رفع مشکل استفاده از پل‌های…
 
 ---
 

@@ -465,39 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms |", server: 78.38.246.150, port: 8446, type: ss, cipher: 2022-blake3-aes-128-gcm, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 743ms |, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
-  - {name: "| GR | 725ms |", server: 38.54.29.130, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 4df2be7c6eef0ed6, udp: true, tfo: false}
-  - {name: 🇷🇺 | RU | 644ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
-  - {name: "| KW | 1032ms |", server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
-  - {name: "| KW | 1019ms |", server: 163.171.181.49, port: 42936, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 312ms |, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
-  - {name: 🇰🇷 | KR | 635ms |, server: 154.90.62.145, port: 46575, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
-  - {name: 🇰🇷 | KR | 631ms |, server: 154.90.62.145, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
-  - {name: 🇰🇷 | KR | 630ms |, server: 154.90.62.145, port: 46577, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
-  - {name: "| GR | 657ms |", server: 38.54.29.18, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 932a519c8147a998, udp: true, tfo: false}
-  - {name: "| BR | 564ms |", server: 157.185.173.60, port: 18424, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
-  - {name: "| BR | 726ms |", server: 157.185.173.60, port: 18425, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
-  - {name: "| BR | 581ms |", server: 157.185.173.60, port: 18426, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
-  - {name: "| BR | 566ms |", server: 157.185.173.60, port: 18427, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 530ms |, server: 51.89.117.154, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfee1388e960537, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 696ms |, server: 163.171.206.24, port: 44233, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 704ms |, server: 163.171.206.24, port: 44234, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 704ms | 2, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: 🇰🇷 | KR | 623ms |, server: 154.90.62.145, port: 16672, type: ss, cipher: chacha20-ietf-poly1305, password: 0892b2ccccc012f6, udp: true, tfo: false}
-  - {name: "| IL | 782ms |", server: 163.171.213.47, port: 46281, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
-  - {name: "| IL | 603ms |", server: 163.171.213.47, port: 46282, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
-  - {name: "| EG | 723ms |", server: 38.54.59.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "| EG | 728ms |", server: 38.54.59.38, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "| EG | 737ms |", server: 38.54.59.38, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "| EG | 750ms |", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "| EG | 755ms |", server: 38.54.59.38, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "| JO | 685ms |", server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
-  - {name: "| CZ | 490ms |", server: 45.15.162.92, port: 64351, type: ss, cipher: chacha20-ietf-poly1305, password: 1SlIjDKpIlpzZPgT33x6Eb, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 714ms |, server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 672ms |, server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 394ms | @meliproxyy", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "| IT | 396ms | Server", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "| IT | 403ms |", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 1255ms |, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: "| GR | 592ms |", server: 38.54.29.130, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 4df2be7c6eef0ed6, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 513ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: "| KW | 805ms |", server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: "| KW | 759ms |", server: 163.171.181.49, port: 42936, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: 🇨🇦 | CA | 209ms |, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
+  - {name: 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩, server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
+  - {name: 🇰🇷 | KR | 819ms |, server: 154.90.62.145, port: 46575, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: 🇰🇷 | KR | 634ms |, server: 154.90.62.145, port: 46576, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: 🇰🇷 | KR | 940ms |, server: 154.90.62.145, port: 46577, type: ss, cipher: chacha20-ietf-poly1305, password: 907e91edf84826c3, udp: true, tfo: false}
+  - {name: "| GR | 432ms |", server: 38.54.29.18, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 932a519c8147a998, udp: true, tfo: false}
+  - {name: "| BR | 409ms |", server: 157.185.173.60, port: 18424, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
+  - {name: "| BR | 421ms |", server: 157.185.173.60, port: 18425, type: ss, cipher: chacha20-ietf-poly1305, password: 97fe6b07cbfaf7e7, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -514,117 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -640,117 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | @meliproxyy"
-      - 🇸🇬 | SG | 743ms |
-      - "| GR | 725ms |"
-      - 🇷🇺 | RU | 644ms |
-      - "| KW | 1032ms |"
-      - "| KW | 1019ms |"
-      - 🇨🇦 | CA | 301ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
-      - 🇨🇦 | CA | 312ms |
-      - 🇰🇷 | KR | 635ms |
-      - 🇰🇷 | KR | 631ms |
-      - 🇰🇷 | KR | 630ms |
-      - "| GR | 657ms |"
-      - "| BR | 564ms |"
-      - "| BR | 726ms |"
-      - "| BR | 581ms |"
-      - "| BR | 566ms |"
-      - 🇩🇪 | DE | 1762ms | @confingraygan+N0010239-🇩🇪
-      - 🇩🇪 | DE | 530ms |
-      - 🇮🇳 | IN | 696ms |
-      - 🇮🇳 | IN | 704ms |
-      - 🇮🇳 | IN | 704ms | 2
-      - 🇰🇷 | KR | 623ms |
-      - "| IL | 782ms |"
-      - "| IL | 603ms |"
-      - "| EG | 723ms |"
-      - "| EG | 728ms |"
-      - "| EG | 737ms |"
-      - "| EG | 750ms |"
-      - "| EG | 755ms |"
-      - "| JO | 685ms |"
-      - "| CZ | 490ms |"
+      - 🇫🇷 | FR | 714ms |
+      - 🇫🇷 | FR | 672ms |
+      - "| IT | 394ms | @meliproxyy"
+      - "| IT | 396ms | Server"
+      - "| IT | 403ms |"
+      - 🇸🇬 | SG | 1255ms |
+      - "| GR | 592ms |"
+      - 🇷🇺 | RU | 513ms |
+      - "| KW | 805ms |"
+      - "| KW | 759ms |"
+      - 🇨🇦 | CA | 209ms |
+      - 🇨🇦 | CA | 209ms | برای اتصال دائمی جوین شو⚜️ TelegramID ⌲Express_freevpn 🪩
+      - 🇰🇷 | KR | 819ms |
+      - 🇰🇷 | KR | 634ms |
+      - 🇰🇷 | KR | 940ms |
+      - "| GR | 432ms |"
+      - "| BR | 409ms |"
+      - "| BR | 421ms |"
   - name: دانلود منیجر 📥
     type: select
     proxies:

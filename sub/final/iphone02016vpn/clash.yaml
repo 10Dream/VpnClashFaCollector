@@ -466,11 +466,19 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@YamYamProxy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram -, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@YamYamProxy 3", server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: /, headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@YamYamProxy 4", server: ip3.neoservers.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 30e6fce7-2a13-4d8a-a641-3acb97c651b9, servername: P9lDnhqbAs9fMHkMc5tVkHPWIq9UW5qFhdzctCuJ.ViPClUbIrAn.Ir., alpn: [h3%2Ch2], network: ws, ws-opts: {path: /, headers: {Host: P9lDnhqbAs9fMHkMc5tVkHPWIq9UW5qFhdzctCuJ.ViPClUbIrAn.Ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 2", server: riali22.carpet-carpet-carped.ir, port: 2018, type: vless, tls: true, packet-encoding: xudp, uuid: 352f047c-3176-4271-9bc6-3f7d33ee03c7, servername: ub.com, host: ub.com, path: /, reality-opts: {public-key: pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc, short-id: 83f404}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 2, server: ens.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, network: ws, ws-opts: {path: /ed=2560, headers: {Host: smk46ws16en.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 3, server: hope.zdshop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, network: ws, ws-opts: {path: "/?ed=2086", headers: {Host: new-itns.blackpapers.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 4, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 5, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: itns-2.blackpapers.ir, network: ws, ws-opts: {path: /, headers: {Host: itns-2.blackpapers.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 6, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: sens-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 7, server: strong.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - 8, server: strong.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: sens-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 3", server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 505997ba-cbdb-466e-a3ad-69c6a4553b38, network: ws, ws-opts: {path: /containers/fi, headers: {Host: pizzabama.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: اسپانسر کانفیگ:🐧 @Birdsbeak`, server: 62.60.159.133, port: 13179, type: vless, tls: true, packet-encoding: xudp, uuid: cf1b548b-4ab0-43fe-b000-330d42ec2a95, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: یام‌یام پروکسی, server: 3.72.87.185, port: 41676, type: vless, tls: true, packet-encoding: xudp, uuid: d9917a89-14f6-4485-e8c5-1a2465a5996b, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -495,11 +503,19 @@ proxy-groups:
     type: select
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
@@ -514,11 +530,19 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
@@ -533,11 +557,19 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
@@ -561,11 +593,19 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
@@ -580,11 +620,19 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی
@@ -599,11 +647,19 @@ proxy-groups:
     interval: 600
     proxies:
       - "@YamYamProxy"
+      - ⚡Telegram -
       - "***🆔***"
       - "@YamYamProxy 2"
       - "@YamYamProxy 3"
       - "@YamYamProxy 4"
       - "***🆔*** 2"
+      - ⚡Telegram - 2
+      - ⚡Telegram - 3
+      - ⚡Telegram - 4
+      - ⚡Telegram - 5
+      - ⚡Telegram - 6
+      - ⚡Telegram - 7
+      - ⚡Telegram - 8
       - "***🆔*** 3"
       - اسپانسر کانفیگ:🐧 @Birdsbeak`
       - یام‌یام پروکسی

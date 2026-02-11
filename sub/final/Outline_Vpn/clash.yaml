@@ -466,12 +466,17 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: IR 115 @Outline_Vpn`, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: V 14 @Outline_Vpn, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: V 12 @Outline_Vpn, server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 11e41a32-6672-48a0-b9cb-c8694242ecff, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 48fccabc158a4c22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 65 @Outline_Vpn`, server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 15 @Outline_Vpn`, server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 1 @Outline_Vpn, server: amir.behnamweb.fun, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: 308975b2-0c44-4bbc-be41-62b2f6fccfe3, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 4 @Outline_Vpn, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 11 @Outline_Vpn, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 10 @Outline_Vpn`, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 6 @Outline_Vpn, server: 212.111.84.187, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: c9246b70-3eca-4825-84b0-16c32e3124a7, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 8 @Outline_Vpn, server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 13 @Outline_Vpn, server: 47.82.6.36, port: 51164, type: vless, tls: true, packet-encoding: xudp, uuid: d29a7cee-acd1-4821-adbf-517f8681040e, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 5 @Outline_Vpn`, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 2 @Outline_Vpn, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: IR 61 @Outline_Vpn, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -498,12 +503,17 @@ proxy-groups:
     type: select
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn
@@ -520,12 +530,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn
@@ -542,12 +557,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn
@@ -573,12 +593,17 @@ proxy-groups:
     interval: 600
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn
@@ -595,12 +620,17 @@ proxy-groups:
     interval: 600
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn
@@ -617,12 +647,17 @@ proxy-groups:
     interval: 600
     proxies:
       - IR 115 @Outline_Vpn`
+      - V 14 @Outline_Vpn
+      - V 12 @Outline_Vpn
       - IR 65 @Outline_Vpn`
+      - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
+      - V 11 @Outline_Vpn
       - V 10 @Outline_Vpn`
       - V 6 @Outline_Vpn
       - V 8 @Outline_Vpn
+      - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
       - IR 61 @Outline_Vpn

@@ -1,5 +1,15 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-11 17:37:13 UTC
+بروزرسانی: 2026-02-11 18:16:05 UTC
+
+### 🕒 2026-02-11 17:44:40 UTC
+ایرانسل
+
+---
+
+### 🕒 2026-02-11 17:40:32 UTC
+نپستر ایرانسل
+
+---
 
 ### 🕒 2026-02-11 11:09:42 UTC
 `vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&host=blog.zanborak-shop.ir&path=%2F&security=none&type=ws#freenet_vt%20ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662#%F0%9F%86%94%20freenet_vt%20vless://51d7e784-d531-4756-a887-cb60b3069aa3@blog.zanbori.ir:4220?encryption=none&host=blog.zanborak-shop.ir&path=%2F&security=none&type=ws#%F0%9F%94%98%20freenet_vt%20%E2%9C%85%EF%B8%8Fss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43662#%F0%9F%86%94%20@freenet_vt%20%F0%9F%8C%A0%20%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86`

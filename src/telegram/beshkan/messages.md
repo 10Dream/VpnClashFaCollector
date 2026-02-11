@@ -1,5 +1,79 @@
 # آرشیو کانال: @beshkan
-بروزرسانی: 2026-02-11 17:36:41 UTC
+بروزرسانی: 2026-02-11 18:15:33 UTC
+
+### 🕒 2026-02-11 17:38:13 UTC
+**📶**
+ 
+**پروکسی‌های امن V2Ray **
+**📶**
+**  و شادوساکس برای عبور از سد فیلترینگ در تلگرام- چهارشنبه ۲۲ بهمن- ۱۴۰۴ **
+***🐬***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Netherlands
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20
+Poland
+vless://ca569d6c-d206-4709-9ed9-8dda73932c22@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072&type=tcp&headerType=none#%20
+Poland
+vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20
+Latvia
+vless://f79d200c-ac04-45a8-98a7-031d629f705c@45.43.79.73:443?encryption=none&security=reality&sni=google.com&fp=firefox&pbk=sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI&sid=cd620180&type=tcp&headerType=none#%20
+Germany
+vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&security=none&type=tcp&headerType=http&host=Excoino.com#%20
+Netherlands
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
+United States of America
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%20
+Canada
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
+United States of America
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-02-11 17:36:51 UTC
+***📸***
+ 
+**پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- چهار‌شنبه ۲۲ بهمن- ۱۴۰۴ **
+***🐬***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Malaysia
+[https://t.me/proxy?server=74.1.1.55&port=65535&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=74.1.1.55&port=65535&secret=dd79e344818749bd7ac519130220c25d09)
+Finland
+[https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09)
+Ireland
+[https://t.me/proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=www.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+Finland
+[https://t.me/proxy?server=dns.borcatsion.info&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d](https://t.me/proxy?server=dns.borcatsion.info&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
+Finland
+[https://t.me/proxy?server=65.108.9.49&port=9443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=65.108.9.49&port=9443&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+Russian Federation
+[https://t.me/proxy?server=31.130.150.195&port=443&secret=23ee19ed97d265c7d3e37b56be8deb07](https://t.me/proxy?server=31.130.150.195&port=443&secret=23ee19ed97d265c7d3e37b56be8deb07)
+Ireland
+[https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+Canada
+[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
+United States of America
+[https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09)
+Sweden
+[https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
+***📱***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
 
 ### 🕒 2026-02-11 14:43:19 UTC
 ***⚠️***
@@ -200,82 +274,6 @@ Sweden
 ***📱***
 [دانلود از گیت‌هاب](https://github.com/Gedsh/InviZible/releases)
  
-***📱***
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-09 17:50:41 UTC
-***📸***
- 
-**پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- دوشنبه ۲۰ بهمن- ۱۴۰۴ **
-***🐬***
-[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
-** برای دریافت پروکسی‌های شادوساکس،  **
-**📶**
-** و فیلترشکن و پاسخ به پرسش‌های شما**
-United States of America
-[https://t.me/proxy?server=185.215.247.60&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.215.247.60&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-France
-[https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-Malaysia
-[https://t.me/proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=74.1.1.53&port=65535&secret=dd79e344818749bd7ac519130220c25d09)
-United States
-[https://t.me/proxy?server=5.78.87.207&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=5.78.87.207&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-United Kingdom
-[https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-Germany
-[https://t.me/proxy?server=88.198.89.121&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=88.198.89.121&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-Spain
-[https://t.me/proxy?server=213.182.216.10&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=213.182.216.10&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-Ireland
-[https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-Finland
-[https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=65.21.28.60&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-United States of America
-[https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8](https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
-برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
-***📱***
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-09 17:45:04 UTC
-**📶**
- 
-**پروکسی‌های امن V2Ray **
-**📶**
-**  و شادوساکس برای عبور از سد فیلترینگ در تلگرام- دوشنبه ۲۰ بهمن- ۱۴۰۴ **
-***🐬***
-[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
-** برای دریافت پروکسی‌های شادوساکس،  **
-**📶**
-** و فیلترشکن و پاسخ به پرسش‌های شما**
-Germany
-vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Italy
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Netherlands (Kingdom of the)
-vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
-Poland
-vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20
-Netherlands (Kingdom of the)
-vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
-Germany
-vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Netherlands (Kingdom of the)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20
-Canada
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
-United States of America
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#%20
-Canada
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
-برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
 ***📱***
 ***✍***
  

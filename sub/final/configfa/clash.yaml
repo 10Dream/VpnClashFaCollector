@@ -468,6 +468,7 @@ proxies:
   - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`, server: 87.228.9.43, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 2y47yYOoHa7FgIsyqQ82tw, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
   - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
+  - {name: paqet-test., server: ir.powersport.forum, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0097fd86-4719-47f8-a006-58a877921986, host: ir.powersport.forum, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/Proxy_sh`, server: fi.zeepo.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1133aa0c-46e4-132a-1ec2-35cfd4e88228, servername: refersion.com, host: refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KkGxnE3A4EaG8C7JydHk46UMuCP-Hcpua6lna-TvIAI, short-id: eae3d03b0083f7af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Proxy_sh 5052`", server: sub.mobileamin.shop, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 11d7378f-7381-4b4f-9a15-7882fdca2c7d, network: ws, ws-opts: {path: /ws, headers: {Host: sub.mobileamin.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Proxy_sh", server: hk.griffon-guard.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 193c75c1-1af1-484a-84ec-14de4828d209, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -509,6 +510,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
@@ -540,6 +542,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
@@ -571,6 +574,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
@@ -611,6 +615,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
@@ -642,6 +647,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
@@ -673,6 +679,7 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀`
       - "Telegram: @wiki_tajrobe"
       - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
+      - paqet-test.
       - https://t.me/Proxy_sh`
       - "@Proxy_sh 5052`"
       - "@Proxy_sh"
