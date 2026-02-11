@@ -16,7 +16,6 @@ logger = logging.getLogger("Extractor")
 # ==========================================
 # بخش تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
 # ==========================================
-# فرمت: {'url': 'لینک', 'name': 'نام_پوشه', 'chunk_size': تعداد_در_هر_فایل}
 SPLIT_SOURCES = [
     {
         'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/tested/ping_passed.txt',
@@ -88,19 +87,15 @@ def is_windows_compatible(link):
         return False
     
     secret = secret_match.group(1).lower()
-    # ویندوز کاراکترهای خاص را در سکرت نمی‌پذیرد
     if '%' in secret or '_' in secret or '-' in secret:
         return False
-    # ویندوز سکرت‌هایی که با ee شروع می‌شوند (obfuscated) را پشتیبانی نمی‌کند
     if secret.startswith('ee'):
         return False
-    # حذف پیشوند dd (در صورت وجود) برای چک کردن هگزادسیمال بودن باقی‌مانده
     if secret.startswith('dd'):
         actual_secret = secret[2:]
     else:
         actual_secret = secret
     
-    # سکرت باید دقیقاً 32 کاراکتر هگزادسیمال باشد
     if not re.fullmatch(r'[0-9a-f]{32}', actual_secret):
         return False
     return True
@@ -133,24 +128,24 @@ def is_behind_cloudflare(link):
                 for field in ['add', 'host', 'sni']:
                     if check_domain(data.get(field)):
                         return True
-                except: return False
-    except: return False
+            except:
+                return False
+    except:
+        return False
     return False
 
 def save_content(directory, filename, content_list):
-    """ذخیره محتوا به صورت فایل متنی و Base64 (نسخه استاندارد)"""
+    """ذخیره محتوا به صورت فایل متنی و Base64"""
     if not content_list: return
     os.makedirs(directory, exist_ok=True)
     
     content_sorted = sorted(list(set(content_list)))
     content_str = "\n".join(content_sorted)
     
-    # ذخیره فایل معمولی
     file_path = os.path.join(directory, f"{filename}.txt")
     with open(file_path, "w", encoding="utf-8") as f:
         f.write(content_str)
     
-    # ذخیره فایل Base64
     b64_str = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
     b64_path = os.path.join(directory, f"{filename}_base64.txt")
     with open(b64_path, "w", encoding="utf-8") as f:
@@ -183,7 +178,7 @@ def merge_hysteria(data_map):
     return processed_map
 
 def write_files_standard(data_map, output_dir):
-    """مدیریت نوشتن فایل‌های تفکیک شده با جداسازی کامل ویندوز و اندروید برای تلگرام"""
+    """مدیریت نوشتن فایل‌های تفکیک شده با جداسازی کامل ویندوز و اندروید"""
     final_map = merge_hysteria(data_map)
     
     if not any(final_map.values()): return
@@ -195,23 +190,18 @@ def write_files_standard(data_map, output_dir):
     for proto, lines in final_map.items():
         if not lines: continue
         
-        # پردازش پروتکل‌های غیر تلگرام
         if proto != 'tg':
             mixed_content.update(lines)
             for line in lines:
                 if is_behind_cloudflare(line):
                     cloudflare_content.add(line)
             save_content(output_dir, proto, lines)
-            
-        # پردازش اختصاصی پروکسی‌های تلگرام
         else:
-            # ۱. ویندوز: فقط آن‌هایی که با ویندوز سازگارند
+            # جداسازی کامل پروکسی‌های تلگرام
             windows_tg = {l for l in lines if is_windows_compatible(l)}
-            # ۲. اندروید: مواردی که در ویندوز کار نمی‌کنند (تفکیک کامل)
             android_tg = {l for l in lines if l not in windows_tg}
-            # ۳. میکس (tg): شامل کل پروکسی‌ها (ویندوز + اندروید)
             
-            save_content(output_dir, "tg", lines) # فایل میکس نهایی تلگرام
+            save_content(output_dir, "tg", lines) # میکس کامل
             save_content(output_dir, "tg_windows", windows_tg)
             save_content(output_dir, "tg_android", android_tg)
             
@@ -251,10 +241,6 @@ def cleanup_legacy_hy2(directory):
                     logger.info(f"Deleted legacy file: {os.path.join(root, file)}")
                 except Exception as e:
                     logger.error(f"Error deleting {file}: {e}")
-
-# ==========================================
-# توابع مربوط به قابلیت Splitting
-# ==========================================
 
 def fetch_url_content(url):
     """دانلود محتوا از لینک"""
@@ -323,10 +309,6 @@ def process_split_mode():
             
             save_split_output(all_configs, name, chunk_size)
 
-# ==========================================
-# بدنه اصلی برنامه
-# ==========================================
-
 def main():
     # --- بخش 1: پردازش پوشه تلگرام ---
     src_dir = "src/telegram"
@@ -348,13 +330,11 @@ def main():
                 for p, s in channel_data.items():
                     global_collection[p].update(s)
                 
-                # نوشتن فایل‌های هر کانال (با جداسازی جدید ویندوز/اندروید)
                 write_files_standard(channel_data, os.path.join(out_dir, channel_name))
                 
             except Exception as e:
                 logger.error(f"Error processing channel {channel_name}: {e}")
         
-        # نوشتن فایل All نهایی
         if sum(len(v) for v in global_collection.values()) > 0:
             write_files_standard(global_collection, os.path.join(out_dir, "all"))
     
@@ -362,8 +342,8 @@ def main():
     process_split_mode()
 
     # --- بخش 3: نهایی‌سازی و پاکسازی ---
-    auto_base64_all(out_dir)     # ساخت بیس64 برای فایل‌هایی که ندارند
-    cleanup_legacy_hy2(out_dir)  # حذف hy2.txt و hy2_base64.txt از همه جا
+    auto_base64_all(out_dir)
+    cleanup_legacy_hy2(out_dir)
 
 if __name__ == "__main__":
     main()
