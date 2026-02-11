@@ -6,15 +6,43 @@ import html
 import json
 import copy
 import shutil
-import requests  # نیاز به نصب دارد: pip install requests
+import requests
 from urllib.parse import urlparse, parse_qs
-
-# --- تنظیمات لاگ ---
-logging.basicConfig(level=logging.INFO, format='%(message)s')
-logger = logging.getLogger("Extractor")
+from datetime import datetime
 
 # ==========================================
-# بخش تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
+# تنظیمات لاگ‌گیری حرفه‌ای (Professional Logging)
+# ==========================================
+class CustomFormatter(logging.Formatter):
+    grey = "\x1b[38;20m"
+    green = "\x1b[32;20m"
+    yellow = "\x1b[33;20m"
+    red = "\x1b[31;20m"
+    bold_red = "\x1b[31;1m"
+    reset = "\x1b[0m"
+    format_str = "%(asctime)s - [%(levelname)s] - %(message)s"
+
+    FORMATS = {
+        logging.DEBUG: grey + format_str + reset,
+        logging.INFO: green + format_str + reset,
+        logging.WARNING: yellow + format_str + reset,
+        logging.ERROR: red + format_str + reset,
+        logging.CRITICAL: bold_red + format_str + reset
+    }
+
+    def format(self, record):
+        log_fmt = self.FORMATS.get(record.levelno)
+        formatter = logging.Formatter(log_fmt, datefmt='%Y-%m-%d %H:%M:%S')
+        return formatter.format(record)
+
+logger = logging.getLogger("Extractor")
+logger.setLevel(logging.INFO)
+ch = logging.StreamHandler()
+ch.setFormatter(CustomFormatter())
+logger.addHandler(ch)
+
+# ==========================================
+# تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
 # ==========================================
 SPLIT_SOURCES = [
     {
@@ -50,9 +78,8 @@ SPLIT_SOURCES = [
 ]
 
 # ==========================================
-# تنظیمات عمومی و پروتکل‌ها
+# تنظیمات پروتکل‌ها و الگوها
 # ==========================================
-
 PROTOCOLS = [
     'vmess', 'vless', 'trojan', 'ss', 'ssr', 'tuic', 'hysteria', 'hysteria2', 
     'hy2', 'juicity', 'snell', 'anytls', 'ssh', 'wireguard', 'wg', 
@@ -75,33 +102,45 @@ def get_flexible_pattern(protocol_prefix):
     return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
 
 def clean_telegram_link(link):
-    """پاکسازی لینک تلگرام و تبدیل موجودیت‌های HTML"""
-    link = html.unescape(link)
-    link = re.sub(r'[()\[\]\s!.,;\'"]+$', '', link)
-    return link
+    """پاکسازی لینک تلگرام"""
+    try:
+        link = html.unescape(link)
+        link = re.sub(r'[()\[\]\s!.,;\'"]+$', '', link)
+        return link
+    except Exception as e:
+        logger.error(f"Error cleaning link: {e}")
+        return link
 
 def is_windows_compatible(link):
-    """اعمال فیلتر سخت‌گیرانه برای تلگرام دسکتاپ (ویندوز)"""
-    secret_match = re.search(r"secret=([a-zA-Z0-9%_\-]+)", link)
-    if not secret_match:
+    """فیلتر سخت‌گیرانه برای ویندوز (Secret Check)"""
+    try:
+        secret_match = re.search(r"secret=([a-zA-Z0-9%_\-]+)", link)
+        if not secret_match:
+            return False
+        
+        secret = secret_match.group(1).lower()
+        
+        # 1. ویندوز کاراکترهای خاص را نمی‌خپذیرد
+        if '%' in secret or '_' in secret or '-' in secret:
+            return False
+        # 2. ویندوز سکرت‌های obfuscated (شروع با ee) را پشتیبانی نمی‌کند
+        if secret.startswith('ee'):
+            return False
+        # 3. چک کردن هگزادسیمال بودن
+        if secret.startswith('dd'):
+            actual_secret = secret[2:]
+        else:
+            actual_secret = secret
+        
+        if not re.fullmatch(r'[0-9a-f]{32}', actual_secret):
+            return False
+            
+        return True
+    except Exception:
         return False
-    
-    secret = secret_match.group(1).lower()
-    if '%' in secret or '_' in secret or '-' in secret:
-        return False
-    if secret.startswith('ee'):
-        return False
-    if secret.startswith('dd'):
-        actual_secret = secret[2:]
-    else:
-        actual_secret = secret
-    
-    if not re.fullmatch(r'[0-9a-f]{32}', actual_secret):
-        return False
-    return True
 
 def is_behind_cloudflare(link):
-    """بررسی می‌کند که آیا کانفیگ از دامنه‌های کلادفلر استفاده می‌کند یا خیر"""
+    """تشخیص کانفیگ‌های پشت کلادفلر"""
     def check_domain(domain):
         if not domain: return False
         domain = domain.lower()
@@ -119,6 +158,7 @@ def is_behind_cloudflare(link):
                     return True
             return False
         else:
+            # دیکد کردن Vmess
             b64_str = link[8:]
             missing_padding = len(b64_str) % 4
             if missing_padding: b64_str += '=' * (4 - missing_padding)
@@ -135,27 +175,35 @@ def is_behind_cloudflare(link):
     return False
 
 def save_content(directory, filename, content_list):
-    """ذخیره محتوا به صورت فایل متنی و Base64"""
-    if not content_list: return
-    os.makedirs(directory, exist_ok=True)
+    """ذخیره محتوا در فایل متنی و Base64"""
+    if not content_list: 
+        return
     
-    content_sorted = sorted(list(set(content_list)))
-    content_str = "\n".join(content_sorted)
-    
-    file_path = os.path.join(directory, f"{filename}.txt")
-    with open(file_path, "w", encoding="utf-8") as f:
-        f.write(content_str)
-    
-    b64_str = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
-    b64_path = os.path.join(directory, f"{filename}_base64.txt")
-    with open(b64_path, "w", encoding="utf-8") as f:
-        f.write(b64_str)
+    try:
+        os.makedirs(directory, exist_ok=True)
+        content_sorted = sorted(list(set(content_list)))
+        content_str = "\n".join(content_sorted)
+        
+        # ذخیره فایل عادی
+        file_path = os.path.join(directory, f"{filename}.txt")
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(content_str)
+        
+        # ذخیره فایل Base64
+        b64_str = base64.b64encode(content_str.encode("utf-8")).decode("utf-8")
+        b64_path = os.path.join(directory, f"{filename}_base64.txt")
+        with open(b64_path, "w", encoding="utf-8") as f:
+            f.write(b64_str)
+            
+    except Exception as e:
+        logger.error(f"Failed to save {filename} in {directory}: {e}")
 
 def extract_configs_from_text(text):
-    """استخراج کانفیگ‌ها از یک متن خام"""
+    """استخراج تمام کانفیگ‌ها از متن"""
     patterns = {p: get_flexible_pattern(p) for p in PROTOCOLS}
     extracted_data = {k: set() for k in PROTOCOLS}
     
+    count = 0
     for proto, pattern in patterns.items():
         matches = re.finditer(pattern, text, re.MULTILINE | re.IGNORECASE)
         for match in matches:
@@ -163,11 +211,12 @@ def extract_configs_from_text(text):
             clean_link = clean_telegram_link(raw_link) if proto == 'tg' else raw_link
             if clean_link:
                 extracted_data[proto].add(clean_link)
+                count += 1
     
-    return extracted_data
+    return extracted_data, count
 
 def merge_hysteria(data_map):
-    """ترکیب hy2 و hysteria2 در یک کلید واحد"""
+    """ترکیب hy2 و hysteria2"""
     hy2_combined = set()
     if 'hysteria2' in data_map: hy2_combined.update(data_map['hysteria2'])
     if 'hy2' in data_map: hy2_combined.update(data_map['hy2'])
@@ -178,10 +227,18 @@ def merge_hysteria(data_map):
     return processed_map
 
 def write_files_standard(data_map, output_dir):
-    """مدیریت نوشتن فایل‌های تفکیک شده با جداسازی کامل ویندوز و اندروید"""
+    """
+    نوشتن فایل‌های خروجی با جداسازی دقیق تلگرام.
+    - tg_windows: فقط سازگار با دسکتاپ
+    - tg_android: فقط ناسازگار با دسکتاپ (بدون اشتراک با بالا)
+    - tg: همه موارد (میکس)
+    """
     final_map = merge_hysteria(data_map)
     
-    if not any(final_map.values()): return
+    if not any(final_map.values()): 
+        logger.debug(f"No configs to write for {output_dir}")
+        return
+
     os.makedirs(output_dir, exist_ok=True)
     
     mixed_content = set()
@@ -191,19 +248,30 @@ def write_files_standard(data_map, output_dir):
         if not lines: continue
         
         if proto != 'tg':
+            # پردازش عادی سایر پروتکل‌ها
             mixed_content.update(lines)
             for line in lines:
                 if is_behind_cloudflare(line):
                     cloudflare_content.add(line)
             save_content(output_dir, proto, lines)
+        
         else:
-            # جداسازی کامل پروکسی‌های تلگرام
-            windows_tg = {l for l in lines if is_windows_compatible(l)}
-            android_tg = {l for l in lines if l not in windows_tg}
+            # --- منطق جداسازی تلگرام ---
+            windows_tg = set()
+            android_tg = set()
             
-            save_content(output_dir, "tg", lines) # میکس کامل
-            save_content(output_dir, "tg_windows", windows_tg)
-            save_content(output_dir, "tg_android", android_tg)
+            for link in lines:
+                if is_windows_compatible(link):
+                    windows_tg.add(link)
+                else:
+                    android_tg.add(link)
+            
+            # ذخیره فایل‌ها
+            save_content(output_dir, "tg_windows", windows_tg) # فقط ویندوز
+            save_content(output_dir, "tg_android", android_tg) # فقط اندروید
+            save_content(output_dir, "tg", lines)              # میکس (شامل همه)
+            
+            logger.info(f"Telegram Configs in {output_dir}: Total={len(lines)}, Win={len(windows_tg)}, Android={len(android_tg)}")
             
     if mixed_content:
         save_content(output_dir, "mixed", mixed_content)
@@ -211,8 +279,11 @@ def write_files_standard(data_map, output_dir):
         save_content(output_dir, "cloudflare", cloudflare_content)
 
 def auto_base64_all(directory):
-    """تولید نسخه Base64 برای تمامی فایل‌های متنی"""
+    """تولید Base64 برای تمام فایل‌های متنی موجود"""
     if not os.path.exists(directory): return
+    logger.info(f"Running Auto-Base64 on: {directory}")
+    
+    count = 0
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file.endswith(".txt") and not file.endswith("_base64.txt"):
@@ -227,34 +298,41 @@ def auto_base64_all(directory):
                             b64_data = base64.b64encode(content.encode("utf-8")).decode("utf-8")
                             with open(os.path.join(root, base64_name), "w", encoding="utf-8") as f:
                                 f.write(b64_data)
+                            count += 1
                     except Exception as e:
                         logger.error(f"Auto-base64 error for {file}: {e}")
+    logger.info(f"Generated {count} missing base64 files.")
 
 def cleanup_legacy_hy2(directory):
-    """حذف فایل‌های hy2.txt و hy2_base64.txt در صورت وجود"""
+    """حذف فایل‌های قدیمی hy2"""
     if not os.path.exists(directory): return
+    deleted_count = 0
     for root, dirs, files in os.walk(directory):
         for file in files:
             if file == "hy2.txt" or file == "hy2_base64.txt":
                 try:
                     os.remove(os.path.join(root, file))
-                    logger.info(f"Deleted legacy file: {os.path.join(root, file)}")
+                    deleted_count += 1
                 except Exception as e:
                     logger.error(f"Error deleting {file}: {e}")
+    if deleted_count > 0:
+        logger.info(f"Cleaned up {deleted_count} legacy hy2 files.")
 
 def fetch_url_content(url):
-    """دانلود محتوا از لینک"""
+    """دانلود محتوا از اینترنت"""
     try:
-        response = requests.get(url, timeout=15)
+        logger.info(f"Fetching URL: {url}")
+        response = requests.get(url, timeout=20)
         response.raise_for_status()
         return response.text
     except Exception as e:
-        logger.error(f"Error fetching URL {url}: {e}")
+        logger.error(f"Failed to fetch {url}: {e}")
         return ""
 
 def save_split_output(config_list, base_name, chunk_size):
-    """ذخیره لیست کانفیگ‌ها به صورت فایل‌های خرد شده"""
+    """ذخیره فایل‌های تقسیم‌بندی شده"""
     if not config_list:
+        logger.warning(f"No configs found for split source: {base_name}")
         return
     
     unique_configs = sorted(list(set(config_list)))
@@ -268,7 +346,7 @@ def save_split_output(config_list, base_name, chunk_size):
     
     chunks = [unique_configs[i:i + chunk_size] for i in range(0, total_configs, chunk_size)]
     
-    logger.info(f"Splitting '{base_name}': {total_configs} configs into {len(chunks)} files.")
+    logger.info(f"Splitting '{base_name}': {total_configs} configs into {len(chunks)} parts.")
     
     for idx, chunk in enumerate(chunks):
         file_number = str(idx + 1)
@@ -282,11 +360,13 @@ def save_split_output(config_list, base_name, chunk_size):
             f.write(b64_str)
 
 def process_split_mode():
-    """اجرای منطق تقسیم‌بندی برای لینک‌های تعریف شده"""
+    """اجرای حالت تقسیم‌بندی"""
     if not SPLIT_SOURCES:
         return
 
-    logger.info("--- Starting Split Mode ---")
+    logger.info("==========================================")
+    logger.info("       STARTING SPLIT MODE PROCESS        ")
+    logger.info("==========================================")
     
     for item in SPLIT_SOURCES:
         url = item.get('url')
@@ -295,11 +375,9 @@ def process_split_mode():
         
         if not url or not name: continue
         
-        logger.info(f"Processing split for: {name}")
         content = fetch_url_content(url)
-        
         if content:
-            extracted = extract_configs_from_text(content)
+            extracted, count = extract_configs_from_text(content)
             merged_data = merge_hysteria(extracted)
             
             all_configs = []
@@ -310,40 +388,68 @@ def process_split_mode():
             save_split_output(all_configs, name, chunk_size)
 
 def main():
+    logger.info("Starting Config Extractor...")
+    
     # --- بخش 1: پردازش پوشه تلگرام ---
     src_dir = "src/telegram"
     out_dir = "sub"
     global_collection = {k: set() for k in PROTOCOLS}
     
+    logger.info("==========================================")
+    logger.info("      PROCESSING TELEGRAM DIRECTORY       ")
+    logger.info("==========================================")
+
     if os.path.exists(src_dir):
-        logger.info("--- Processing Telegram Directory ---")
-        for channel_name in os.listdir(src_dir):
+        channels = os.listdir(src_dir)
+        logger.info(f"Found {len(channels)} items in {src_dir}")
+        
+        for channel_name in channels:
             channel_path = os.path.join(src_dir, channel_name)
             md_file = os.path.join(channel_path, "messages.md")
-            if not os.path.isfile(md_file): continue
+            
+            if not os.path.isfile(md_file):
+                continue
+                
             try:
                 with open(md_file, "r", encoding="utf-8") as f:
                     content = f.read()
                 
-                channel_data = extract_configs_from_text(content)
+                channel_data, count = extract_configs_from_text(content)
+                logger.info(f"Channel: {channel_name} -> Found {count} configs")
                 
+                # اضافه کردن به کالکشن کلی
                 for p, s in channel_data.items():
                     global_collection[p].update(s)
                 
+                # نوشتن فایل کانال
                 write_files_standard(channel_data, os.path.join(out_dir, channel_name))
                 
             except Exception as e:
                 logger.error(f"Error processing channel {channel_name}: {e}")
         
-        if sum(len(v) for v in global_collection.values()) > 0:
+        # نوشتن فایل All نهایی
+        total_global = sum(len(v) for v in global_collection.values())
+        if total_global > 0:
+            logger.info(f"Writing Global Collection (Total: {total_global} configs)...")
             write_files_standard(global_collection, os.path.join(out_dir, "all"))
+        else:
+            logger.warning("Global collection is empty! No configs found in telegram folder.")
+            
+    else:
+        logger.error(f"Source directory not found: {src_dir}")
+        logger.error("Skipping Telegram processing. Check if 'src/telegram' exists.")
     
     # --- بخش 2: پردازش لینک‌های اسپلیت ---
     process_split_mode()
 
     # --- بخش 3: نهایی‌سازی و پاکسازی ---
+    logger.info("==========================================")
+    logger.info("           FINALIZING OUTPUTS             ")
+    logger.info("==========================================")
     auto_base64_all(out_dir)
     cleanup_legacy_hy2(out_dir)
+    
+    logger.info("Job Completed Successfully.")
 
 if __name__ == "__main__":
     main()
