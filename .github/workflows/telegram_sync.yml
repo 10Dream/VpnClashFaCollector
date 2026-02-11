@@ -2,7 +2,7 @@ name: Auto Proxy Update and Convert
 
 on:
   schedule:
-    - cron: '0 */10 * * *' # هر ۱۰ ساعت یکبار
+    - cron: '0 */10 * * *'
   workflow_dispatch:
     inputs:
       run_scraper:
@@ -12,6 +12,21 @@ on:
         default: true
       run_extractor:
         description: 'Run Config Extractor?'
+        required: true
+        type: boolean
+        default: true
+      run_tester:
+        description: 'Run Speed Tester?'
+        required: true
+        type: boolean
+        default: true
+      run_generator:
+        description: 'Run Sub Generator?'
+        required: true
+        type: boolean
+        default: true
+      run_web:
+        description: 'Run Web Panel Generator?'
         required: true
         type: boolean
         default: true
@@ -26,7 +41,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # دریافت کامل تاریخچه برای حفظ فایل‌های قبلی
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -40,7 +55,6 @@ jobs:
 
       - name: 1. Run Telegram Scraper
         if: github.event_name == 'schedule' || inputs.run_scraper == true
-        # اطمینان از اینکه اسکرپر اجرا شده و فایل‌ها را در src/telegram می‌سازد
         run: python src/telegram_scraper.py
 
       - name: 2. Run Config Extractor
@@ -62,10 +76,9 @@ jobs:
       - name: Sync and Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Archive(3-days) & Proxies [$(date)]"
-          # مهم: اضافه کردن src/telegram/** باعث می‌شود آرشیو تلگرام پاک نشود و برای دفعات بعد بماند
+          commit_message: "Auto-update: Archive(3-days), Proxies & Web Panel [$(date)]"
+          # اینجا src/telegram/** را اضافه کردیم تا آرشیو ۳ روزه شما حذف نشود و باقی بماند
           file_pattern: 'sub/** index.html src/telegram/**'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
-          # استفاده از --force برای اطمینان از ثبت تغییرات آرشیو در دفعات متوالی
           push_options: '--force'
