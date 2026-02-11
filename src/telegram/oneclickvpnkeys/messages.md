@@ -1,5 +1,5 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-02-11 18:16:49 UTC
+بروزرسانی: 2026-02-11 20:32:27 UTC
 
 ### 🕒 2026-02-11 17:35:01 UTC
 ***⭐️***
@@ -67,21 +67,6 @@ Above is subscription link for V2rayNG/ Streisand. Configs are updated.
 ***➡️***
 [Streisand (iOS)](https://apps.apple.com/us/app/streisand/id6450534064?platform=iphone)
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-
----
-
-### 🕒 2026-02-11 14:12:03 UTC
-По многочисленным просьбам подписчиков, мы будем давать прокси для телеграм в мессенджере 
-[МАХ](https://ogy.de/eq81)
-, чтобы вы могли зайти в телеграм.
-Вот ссылка на канал там:
-***➡️***
- 
-[Мы в МАХ](https://ogy.de/eq81)
-рады вас видеть там, не теряйте друг-друга и оставайтесь на связи!
-[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-***➡️***
-[мы в МАХ](https://ogy.de/eq81)
 
 ---
 

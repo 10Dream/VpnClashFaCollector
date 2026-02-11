@@ -1,5 +1,20 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-11 18:14:44 UTC
+بروزرسانی: 2026-02-11 20:30:23 UTC
+
+### 🕒 2026-02-11 19:17:43 UTC
+گویا تموم شده  باید منتظر نتایج و اخبار بود خواهیم دید چه خواهد شد
+
+---
+
+### 🕒 2026-02-11 18:54:55 UTC
+بی بی و ترامپ در حال صحبت.
+
+---
+
+### 🕒 2026-02-11 18:28:25 UTC
+`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccountvless://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#NetAccountvless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--CoOoW&mode=stream-up#NetAccountvless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#NetAccount`
+
+---
 
 ### 🕒 2026-02-11 18:13:06 UTC
 صالح محمدی، کشتی گیر 19 ساله تیم ملی، به اعدام در ملاء عام در میدان نبوت قم محکوم شده!
@@ -349,49 +364,6 @@ KHABAR
 ‏پیروزی از آن شماست.
 ‏پاینده ایران
 [@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
-
----
-
-### 🕒 2026-02-09 20:14:50 UTC
-[https://t.me/proxy?server=mtpx.CyberNigga2.com&port=9092&secret=dd4cdb8dbb13af3829a78f44de7bb26fc0](https://t.me/proxy?server=mtpx.CyberNigga2.com&port=9092&secret=dd4cdb8dbb13af3829a78f44de7bb26fc0)
-[https://t.me/proxy?server=185.121.234.156&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=185.121.234.156&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=91.84.125.25&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=91.84.125.25&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.117&port=8443&secret=79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=85.133.194.117&port=8443&secret=79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=85.133.194.117&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.117&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.16&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueW](https://t.me/proxy?server=85.133.194.16&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueW)
-
----
-
-### 🕒 2026-02-09 20:13:05 UTC
-`vless://5be777c2-38f7-44cd-b653-c93b19967887@194.76.18.222:443?encryption=none&security=tls&sni=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&insecure=1&type=ws&host=3b6Pv6fAQ5rpR3d5qCC33M8vNUhWzhdK.oHQliYx.WoRKeRs.DEV&path=%2FeyJqdW5rIjoiZlczclE4VDFFQnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#NetAccountvless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#NetAccountvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.1.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#NetAccounttrojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#NetAccountvless://6abc2840-25fd-4dd7-b1aa-0892fe98f2d9@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.&type=ws#NetAccountvless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#NetAccount`
-
----
-
-### 🕒 2026-02-09 19:10:01 UTC
-خواهیم دید چه میشود (بدون مناسبت)
-
----
-
-### 🕒 2026-02-09 18:51:14 UTC
-`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NetAccountvless://8ae40bd9-f769-4b1b-bf89-fde9d5afc4c5@fa.gamingserverstream.ir:443?path=%2F&security=tls&encryption=none&insecure=1&type=ws&allowInsecure=1&sni=pmeli.express-servers.ir#NetAccountvless://f8ae018b-b84d-4c9b-b03b-4642c3a25977@nodejs.org:2052?path=%2F%3Fed&security=none&encryption=none&host=ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.&type=ws#NetAccountvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&flow=xtls-rprx-vision&encryption=none#NetAccount`
-
----
-
-### 🕒 2026-02-09 18:50:52 UTC
-[https://t.me/proxy?server=188.212.98.28&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Data_proxy](https://t.me/proxy?server=188.212.98.28&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ&@Data_proxy)
-[https://t.me/proxy?server=185.84.157.28&port=444&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D&@Data_proxy](https://t.me/proxy?server=185.84.157.28&port=444&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D&@Data_proxy)
-[https://t.me/proxy?server=185.84.157.22&port=444&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D&@Data_proxy](https://t.me/proxy?server=185.84.157.22&port=444&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D&@Data_proxy)
-[https://t.me/proxy?server=91.239.192.250&port=7777&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t&@Data_proxy](https://t.me/proxy?server=91.239.192.250&port=7777&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t&@Data_proxy)
-[https://t.me/proxy?server=ssh.gamelande.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D&@Data_proxy](https://t.me/proxy?server=ssh.gamelande.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D&@Data_proxy)
-[https://t.me/proxy?server=mtproxy.nbdays.pw&port=9443&secret=44ae73e20c9614efbcb0cf87b4b31b41&@Data_proxy](https://t.me/proxy?server=mtproxy.nbdays.pw&port=9443&secret=44ae73e20c9614efbcb0cf87b4b31b41&@Data_proxy)
-[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@Data_proxy](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@Data_proxy)
-[https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Data_proxy](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Data_proxy)
-[https://t.me/proxy?server=172.65.48.76&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=172.65.48.76&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=78.47.212.146&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=78.47.212.146&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=142.132.245.184&port=443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=142.132.245.184&port=443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
 
 ---
 

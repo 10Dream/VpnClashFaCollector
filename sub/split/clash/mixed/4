@@ -736,6 +736,17 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "@meliproxyy 7", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: 194.59.183.134:46114, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, udp: true, tfo: false}
+  - {name: "***🚀***configraygan`", server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, udp: true, tfo: false}
+  - {name: 3.1.195.148:8313, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@configraygan 4", server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@confingraygan N00129-🇸🇬", server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@confingraygan N0014343-🇸🇬", server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 3.1.195.148:8319, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: configraygan_VPNN, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 3.112.130.53:8316, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 3.112.130.53:8319, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@confingraygan N001dk", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1023,6 +1034,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1300,6 +1322,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1577,6 +1610,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1863,6 +1907,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -2140,6 +2195,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -2417,6 +2483,17 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3
       - "@meliproxyy 7"
       - admin.c2.havij.co:443
+      - 194.59.183.134:46114
+      - "***🚀***configraygan`"
+      - 3.1.195.148:8313
+      - "@configraygan 4"
+      - "@confingraygan N00129-🇸🇬"
+      - "@confingraygan N0014343-🇸🇬"
+      - 3.1.195.148:8319
+      - configraygan_VPNN
+      - 3.112.130.53:8316
+      - 3.112.130.53:8319
+      - "@confingraygan N001dk"
   - name: دانلود منیجر 📥
     type: select
     proxies:

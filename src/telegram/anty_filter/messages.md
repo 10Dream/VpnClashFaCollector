@@ -1,5 +1,61 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-11 18:15:12 UTC
+بروزرسانی: 2026-02-11 20:30:51 UTC
+
+### 🕒 2026-02-11 19:59:06 UTC
+سرور ویتوری 
+vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#%40vpnbaz%20%E2%9B%B1%EF%B8%8F
+vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&insecure=1&type=grpc&allowInsecure=1&sni=filimo.com#%40vpnbaz%20%F0%9F%8E%B4
+vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff#%40vpnbaz%20%F0%9F%8D%AC
+vless://8fba6073-b989-47ad-bb2b-a2dca22bfca2@H6.FASTSPEEDS.IR:2083?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-locz2.ip-venzo.com#%40vpnbaz%20%F0%9F%8F%80
+vmess://eyJhZGQiOiI5MS4yMDYuMTcxLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MDY5MDdkZi05OTBjLTQ0NTUtODVhZi1iZDY3OTNmODFiMmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2cG5iYXog8J+boe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-11 19:58:18 UTC
+> ↪️ **Forwarded**
+
+***🚀***
+ اختلال و قطعی سرور؟ 
+**WIZARD**
+ 
+**VPN**
+ کم نمیاره! 
+***🎁***
+ 
+در شرایطی که، فیلترشکن‌ها 
+**اختلال**
+ دارند
+***🇮🇷***
+***🇮🇷***
+ 
+**اشتراک‌های WIZARD مثل همیشه**
+ …
+کاملا متصل با بهترین سرعت فعال هستند.
+***⭐️***
+***🎁***
+ رهایی کامل از فیلترینگ بدون ذره‌ای اختلال
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-11 18:43:19 UTC
+***🟢***
+ 
+**کانفیگ NPV Tunnel (نسپترنت)**
+***☑️***
+ تست شده و متصل 
+برنامه مورد نیاز :
+[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
+[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+ 
+[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/hewvo1swn78u/S-NPV3.npvt.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-11 16:43:13 UTC
 ***⚫️***
@@ -188,33 +244,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8E%B3
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%8E%83
 vless://d7c862e5-e507-4dc8-8506-43d5d9de7387@188.114.98.0:2053?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=1&host=azrping.melishekan.site&fp=chrome&type=ws&allowInsecure=1&sni=AzRPiNG1.mEliSHeKaN.SItE#%40vpnbaz%20%F0%9F%92%8E
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-09 19:38:44 UTC
-سرور ویتوری 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVblVVR1owQTRpaFdGaURqcDhYOE9O@62.133.63.21:65262#%40vpnbaz%20%F0%9F%91%BE
-vless://d0dc3e13-4f8a-41d7-8185-511aee4b3864@104.18.32.47:443?mode=auto&path=%2Felipii-bot&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=cf.elipii-bot.shop&fp=chrome&type=xhttp&allowInsecure=0&sni=cf.elipii-bot.shop#%40vpnbaz%20%F0%9F%8F%80
-vless://193c75c1-1af1-484a-84ec-14de4828d209@hk.griffon-guard.com:443?security=reality&encryption=none&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%40vpnbaz%20%F0%9F%8D%87
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%8E%88
-vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#%40vpnbaz%20%F0%9F%90%8D
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-09 19:05:43 UTC
-***🟢***
- 
-**کانفیگ NPV Tunnel (نسپترنت)**
-***☑️***
- تست شده و متصل برای نت ملی
-برنامه مورد نیاز :
-[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
-[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
- 
-[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/7q2alfzi5eu3/NetMeliCLER.npvt.html)
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

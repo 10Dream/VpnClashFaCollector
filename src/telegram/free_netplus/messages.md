@@ -1,5 +1,39 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-11 18:15:58 UTC
+بروزرسانی: 2026-02-11 20:31:36 UTC
+
+### 🕒 2026-02-11 19:49:47 UTC
+***🔴***
+ولنتاین نزدیکه با خرس و خنزل پنزل گولتون نزنن 
+عاشق واقعی برات کانفیگ میخره :)
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[@Free_Netplus](https://t.me/Free_Netplus)
+ 
+***🪽***
+
+---
 
 ### 🕒 2026-02-11 16:05:20 UTC
 بهِ‌خُودَم‌میاٰمِ 

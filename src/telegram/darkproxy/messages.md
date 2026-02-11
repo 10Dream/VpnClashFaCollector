@@ -1,5 +1,72 @@
 # آرشیو کانال: @darkproxy
-بروزرسانی: 2026-02-11 18:15:54 UTC
+بروزرسانی: 2026-02-11 20:31:32 UTC
+
+### 🕒 2026-02-11 20:30:06 UTC
+00:00
+***♥️***
+عه وا تو اسمون چیکار میکنی تو 
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+***☑️***
+ 
+[@DarkProxy](https://t.me/DarkProxy)
+
+---
+
+### 🕒 2026-02-11 19:43:58 UTC
+برم زن بگیرم زندگیم سرو سامون بگیره 
+زنم فردای روز ازدواج : 
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+***☑️***
+ 
+[@DarkProxy](https://t.me/DarkProxy)
+
+---
 
 ### 🕒 2026-02-11 18:02:36 UTC
 ***🔴***
@@ -506,76 +573,6 @@
 کافئین
 کورتیزول و آدرنالین را بالا می‌برد
 برای مغزِ مضطرب،قهوه مثل بنزین روی آتش است
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-***☑️***
- 
-[@DarkProxy](https://t.me/DarkProxy)
-
----
-
-### 🕒 2026-02-09 20:30:27 UTC
-قربون اون دوتا تیله‌ي تو چشمای
- خوشگلت برم!
-شبت بخیر جان جهان…
-دوستت دارم،دوستت دارم،دوستت دارمممم
-خوب بخوابی زندگیم : ) 
-***💛***
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-***☑️***
- 
-[@DarkProxy](https://t.me/DarkProxy)
-
----
-
-### 🕒 2026-02-09 19:36:22 UTC
-وای وای وای، تو بزرگ بشی چی میشی!
-(فقط اون هرهر خندیدنش)
 [پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)

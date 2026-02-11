@@ -1,10 +1,15 @@
 # آرشیو کانال: @Canfing_VPN
-بروزرسانی: 2026-02-11 18:12:43 UTC
+بروزرسانی: 2026-02-11 20:28:24 UTC
 
-### 🕒 2026-02-11 15:39:08 UTC
-چنل کانفینگ رایگان 
-***👇***
-[https://t.me/+kqrib5jkKZQ2ZDM0](https://t.me/+kqrib5jkKZQ2ZDM0)
+### 🕒 2026-02-11 19:26:47 UTC
+***🔴***
+سرور v2ray پرسرعت 
+`vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#%E2%9A%AB%EF%B8%8F%20Telegram%3D%20%40Canfing_VPN`
+***✔️***
+تمام نت ها متصله ، بفرستین دوستاتون وصل شن .
+***🌐***
+[@Canfing_VPN](https://t.me/Canfing_VPN)
+ | به اشتراک بگذارید
 
 ---
 
@@ -62,17 +67,6 @@
 ** کانفیگ **
 نپستر فول سرعت 
 ***✅***
-***🌐***
-[@VPN_SOLVE](https://t.me/VPN_SOLVE)
- | به اشتراک بگذارید
-
----
-
-### 🕒 2026-02-09 20:16:40 UTC
-***🤍***
-** کانفیگ ملی شکن نپستر ( npv ) **
-***🔴***
-متصل و پرسرعت.
 ***🌐***
 [@VPN_SOLVE](https://t.me/VPN_SOLVE)
  | به اشتراک بگذارید

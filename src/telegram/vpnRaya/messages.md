@@ -1,5 +1,159 @@
 # آرشیو کانال: @vpnRaya
-بروزرسانی: 2026-02-11 18:17:58 UTC
+بروزرسانی: 2026-02-11 20:33:34 UTC
+
+### 🕒 2026-02-11 20:30:02 UTC
+***💥***
+ 
+**جدیدترین آپدیت اپلیکیشن رسمی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+****
+***✅***
+ 
+[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ / 
+[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ 
+**از**
+ 
+**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🎖***
+**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
+
+---
+
+### 🕒 2026-02-11 20:30:02 UTC
+> ↪️ **Forwarded**
+
+بازی جذاب 
+***🔴***
+ برنتفورد  - آرسنال 
+***🔴***
+  را در 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ پیش‌بینی کنید. 
+***🔥***
+ بالاترین ضریب ها را در 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ پیش‌بینی کنید.
+***🏆***
+پخش زنده مسابقات در اپیکیشن رسمی 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🔺***
+ گستره ی وسیع از گزینه های قابل پیش بینی (قبل از شروع بازی و هم زمان با پخش زنده مسابقات) 
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🛑***
+ برای ورود به سایت از وی پی ان (فیلترشکن) کشورهای ترکیه یا کانادا استفاده کنید
+***🛑***
+
+---
+
+### 🕒 2026-02-11 20:16:26 UTC
+**💢🇺🇸🇮🇱🇮🇷سازمان رادیو و تلویزیون اسرائیل:**
+***💢***
+در دیدار نتانیاهو و ترامپ گزینه حمله به ایران منتفی نبود.
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[آیفون](https://t.me/proxy?server=91.239.192.152&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.153&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[آیفون](https://t.me/proxy?server=91.239.192.151&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.154&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.155&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-11 20:16:03 UTC
+**🇮🇱🇺🇸- دفتر نخست وزیر اسرائیل:**
+***💢***
+نخست وزیر بنیامین نتانیاهو به تازگی دیدار خود را با دونالد ترامپ رئیس جمهور آمریکا و تیمش در کاخ سفید به پایان رسانده است.
+***💢***
+در این دیدار مذاکرات با ایران، غزه و تحولات منطقه مورد بحث و بررسی قرار گرفت.
+***💢***
+نخست وزیر بر نیازهای امنیتی کشور اسرائیل در چارچوب مذاکرات تاکید کرد و دو طرف بر ادامه هماهنگی و تماس نزدیک بین خود توافق کردند.
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+[آیفون](https://t.me/proxy?server=91.239.192.152&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.153&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[آیفون](https://t.me/proxy?server=91.239.192.151&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.154&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.155&amp;port=858585&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
 
 ### 🕒 2026-02-11 16:24:17 UTC
 بنیامین نتانیاهو نخست وزیر اسرائیل برای دیدار با رئیس جمهور ترامپ وارد کاخ سفید شد.
@@ -905,294 +1059,6 @@ Link:
 [https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 [https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
 [https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:59:08 UTC
-***💥***
- 
-**جدیدترین آپدیت اپلیکیشن رسمی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-****
-***✅***
- 
-[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- / 
-[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- 
-**از**
- 
-**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🎖***
-**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
-
----
-
-### 🕒 2026-02-09 19:59:00 UTC
-> ↪️ **Forwarded**
-
-***✍️***
- قرارداد «PSG: Champions Contract» خودت رو امضا کن و با قهرمانان واقعی یعنی پاری سن ژرمن و 
-[1xBet](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- درآمد کسب کن!
-**💰 پیش بینی روی PSG — جوایز تو در انتظارت ⚽️**
-***🏅***
-شما در 
-**Level 1 **
-می‌تونین AirPods Pro، کیت خانگی PSG و جوایز دیگه رو ببرین، و در 
-**Level 3**
- نینتندو سوییچ 2 یا حتی iPhone 17 Pro Max در انتظارتون هست! 
-***😎***
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🔽***
-  از طریق اپیکیشن اندروید 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- ثبت نام کنید
-
----
-
-### 🕒 2026-02-09 19:58:39 UTC
-‏با سهمیه وارد دانشگاه شدین 
-بدون زحمت استخدام شدین
-بدون سربازی رفتن معاف شدین
-بدون فیلترشکن به اینترنت وصل شدین
-این وسط فقط ماها الکی بابت نشدنا و نرسیدنا به خودمون سرکوفت زدیم.
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:56:46 UTC
-***🇮🇷***
-  کانفیگ نپستر برای اینترنت ملی
-
----
-
-### 🕒 2026-02-09 19:55:44 UTC
-***🟢***
- 
-**کانفیگ NPV Tunnel (نسپترنت)**
-***☑️***
- تست شده و متصل برای نت ملی
-***🚦***
-[دانلود از گوگل پلی استوری](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***📲***
-[دانلود برای آیفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🖥***
-[دانلود اپلیکیشن Npv](https://t.me/v2ray_33/21788)
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:52:17 UTC
-***📌***
-**یک کاربر روی حمله امشب آمریکا به ایران 8.9 میلیون دلار شرط بست**
-***🔹***
-فقط 4٪ شانس حمله آمریکا به ایران تا امروز (9 فوریه) وجود دارد! 
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:51:33 UTC
-***🟢***
- 
-**فیلترشکن Man VPN (اندروید)**
-• نسخه 12
-نسخه مود شده و بدون محدودیت 
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-وصل نشد، مجدداً برای اتصال تلاش کنید.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](http://uploadb.me/ryrlk2xjig7y/Man_)
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:23:00 UTC
-***🔹***
-**فاکس‌نیوز: دونالد ترامپ چهارشنبه ( ۲۹ بهمن) با بنیامین نتانیاهو درباره مذاکرات ایران صحبت می‌کند و شروط آمریکا و اسرائیل برای توافق را با یکدیگر بررسی خواهند کرد**
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-09 19:22:29 UTC
-***💥***
- 
-**جدیدترین آپدیت اپلیکیشن رسمی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-****
-***✅***
- 
-[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- / 
-[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- 
-**از**
- 
-**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🎖***
-**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
-
----
-
-### 🕒 2026-02-09 19:20:45 UTC
-> ↪️ **Forwarded**
-
-***🕹***
- روی بهترین مسابقات ورزش های الکترونیک پیش بینی کنید و برنده شوید!
-***🎮***
- تنوع گسترده از بازی های انلاین  CSGO, DOTA , FIFA وMORTAL COMBAT ...
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🛑***
- برای ورود به سایت از وی پی ان (فیلترشکن) کشورهای ترکیه یا کانادا استفاده کنید
-***🛑***
-
----
-
-### 🕒 2026-02-09 19:18:00 UTC
-متنی که خبرگزاری فارس با عنوان نامه عذرخواهی ساعدی‌نیا منتشر کرد
-ساعدی‌نیا: خودم و پسرم اشتباه کردیم؛ از مردم می‌خواهم ما را ببخشند.
-فارس : قوه قضاییه علیه وی اعلام جرم کرده او و فرزندش به دستور دادستان بازداشت هستند؛ موضوع جبران خسارت‌ها و احتمال مصادره اموال همچنان در دست بررسی است
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.215.247.60&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.215.247.111&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
 ***🚀***
  
 [@v2ray_33](https://t.me/v2ray_33)

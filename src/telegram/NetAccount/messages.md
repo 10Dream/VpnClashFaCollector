@@ -1,5 +1,5 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-11 18:13:31 UTC
+بروزرسانی: 2026-02-11 20:29:12 UTC
 
 ### 🕒 2026-02-11 17:39:37 UTC
 `vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount`
@@ -210,15 +210,6 @@
 ‏پیروزی از آن شماست.
 ‏پاینده ایران
 [@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
-
----
-
-### 🕒 2026-02-09 18:57:17 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
 
 ---
 

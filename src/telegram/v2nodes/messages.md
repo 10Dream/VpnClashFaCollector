@@ -1,5 +1,411 @@
 # آرشیو کانال: @v2nodes
-بروزرسانی: 2026-02-11 18:17:51 UTC
+بروزرسانی: 2026-02-11 20:33:28 UTC
+
+### 🕒 2026-02-11 20:28:29 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[104.28.165.71](http://104.28.165.71/)
+***✈️***
+ Response : 156ms
+***🗺️***
+ Location : 
+***🇺🇸***
+ United States, New York, New York
+***🕘***
+ Timezone : America/New_York
+***💼***
+ ORG : Cloudflare WARP
+***🏣***
+ ISP : Cloudflare, Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#
+***🇺🇸***
+[openproxylist.com] vless-US
+
+---
+
+### 🕒 2026-02-11 20:22:18 UTC
+***🆕️***
+ V2Ray VMESS Server
+***🌍***
+ IP Address : 
+[156.233.232.175](http://156.233.232.175/)
+***✈️***
+ Response : 46ms
+***🗺️***
+ Location : 
+***🇺🇸***
+ United States, California, Los Angeles
+***🕘***
+ Timezone : America/Los_Angeles
+***💼***
+ ORG : cognetcloud INC
+***🏣***
+ ISP : cognetcloud INC
+vmess://eyJ2IjoiMiIsInBzIjoiXHVkODNjXHVkZGZhXHVkODNjXHVkZGY4W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1VUyIsImFkZCI6IjE1Ni4yMzMuMjMyLjE5MiIsInBvcnQiOiIyNDAwNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoiIiwiaWQiOiI1ODJmY2IzNS0yMGEwLTQ1MmMtZTE3OS00Yzc1OWM2MmM0OTQiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+
+---
+
+### 🕒 2026-02-11 20:10:03 UTC
+***🆕️***
+ Outline VPN Server
+***🌍***
+ IP Address : 
+[185.120.59.59](http://185.120.59.59/)
+***✈️***
+ Response : 99ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : Fortis
+***🏣***
+ ISP : Fortis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388?note=--Telegram--@NetifyVPN--#
+***🇫🇷***
+[openproxylist.com] ss-FR
+
+---
+
+### 🕒 2026-02-11 20:09:47 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[185.86.144.32](http://185.86.144.32/)
+***✈️***
+ Response : 212ms
+***🗺️***
+ Location : 
+***🇷🇺***
+ Russia, Moscow, Moscow
+***🕘***
+ Timezone : Europe/Moscow
+***💼***
+ ORG : VK Cloud Solutions
+***🏣***
+ ISP : LLC VK
+vless://895f94cb-5567-4731-bc2c-2f89a54bafe4@185.86.144.32:443?encryption=none&fp=chrome&pbk=4NjqiB_FliKff9bP2ASI3WWuhfuyviPeKoz1DyZJQDE&security=reality&serviceName=grpc&sid=574aa52c&sni=www.vk.com&type=grpc#
+***🇷🇺***
+[openproxylist.com] vless-RU
+
+---
+
+### 🕒 2026-02-11 20:08:19 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[81.226.168.227](http://81.226.168.227/)
+***✈️***
+ Response : 100ms
+***🗺️***
+ Location : 
+***🇸🇪***
+ Sweden, Södermanland County, Skogstorpet
+***🕘***
+ Timezone : Europe/Stockholm
+***💼***
+ ORG : Telia Network Services
+***🏣***
+ ISP : Telia Company AB
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50?security=&encryption=none&headerType=none&type=tcp#
+***🇸🇪***
+[openproxylist.com] vless-SE
+
+---
+
+### 🕒 2026-02-11 20:07:03 UTC
+***🆕️***
+ Outline VPN Server
+***🌍***
+ IP Address : 
+[185.120.59.59](http://185.120.59.59/)
+***✈️***
+ Response : 100ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : Fortis
+***🏣***
+ ISP : Fortis
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388?note=--Telegram--@NetifyVPN--#
+***🇫🇷***
+[openproxylist.com] ss-FR
+
+---
+
+### 🕒 2026-02-11 20:04:02 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[104.28.154.22](http://104.28.154.22/)
+***✈️***
+ Response : 289ms
+***🗺️***
+ Location : 
+***🇺🇸***
+ United States, New York, New York
+***🕘***
+ Timezone : America/New_York
+***💼***
+ ORG : Cloudflare WARP
+***🏣***
+ ISP : Cloudflare, Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#
+***🇺🇸***
+[openproxylist.com] vless-US
+
+---
+
+### 🕒 2026-02-11 19:50:14 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[138.124.79.8](http://138.124.79.8/)
+***✈️***
+ Response : 124ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : Host Telecom LTD
+***🏣***
+ ISP : Host Telecom LTD
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=sun6-21.userapi.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#
+***🇫🇷***
+[openproxylist.com] vless-FR
+
+---
+
+### 🕒 2026-02-11 19:44:32 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[185.39.206.226](http://185.39.206.226/)
+***✈️***
+ Response : 109ms
+***🗺️***
+ Location : 
+***🇷🇺***
+ Russia, Moscow, Moscow
+***🕘***
+ Timezone : Europe/Moscow
+***💼***
+ ORG : JSC "TIMEWEB"
+***🏣***
+ ISP : JSC "TIMEWEB"
+vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@185.39.206.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=chrome&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&sid=b8cf9578640a9edf&type=tcp&headerType=none#
+***🇷🇺***
+[openproxylist.com] vless-RU
+
+---
+
+### 🕒 2026-02-11 19:40:58 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[185.156.72.124](http://185.156.72.124/)
+***✈️***
+ Response : 500ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : Global Connectivity Solutions LLP
+***🏣***
+ ISP : Global Connectivity Solutions LLP
+vless://f557eadb-1715-4c0b-aaae-f9b9577d827d@185.156.72.124:52042?encryption=none&fp=chrome&pbk=Z23_1wSIy1CNUEB7YEJwPZzCEsMTmzTNGe_h5bzEMHY&security=reality&sid=8e8dcb9a67bf43f1&sni=yandex.ru&type=tcp#
+***🇫🇷***
+[openproxylist.com] vless-FR
+
+---
+
+### 🕒 2026-02-11 19:35:05 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[130.49.179.115](http://130.49.179.115/)
+***✈️***
+ Response : 149ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : Baykov Ilya Sergeevich
+***🏣***
+ ISP : Baykov Ilya Sergeevich
+vless://f7ddcea8-95e3-48de-909f-bb5d3c47696b@45.132.185.227:889?security=&encryption=none&headerType=none&type=tcp#
+***🇫🇷***
+[openproxylist.com] vless-FR
+
+---
+
+### 🕒 2026-02-11 19:06:07 UTC
+***🆕️***
+ Trojan VPN Server
+***🌍***
+ IP Address : 
+[13.39.0.222](http://13.39.0.222/)
+***✈️***
+ Response : 80ms
+***🗺️***
+ Location : 
+***🇫🇷***
+ France, Île-de-France, Paris
+***🕘***
+ Timezone : Europe/Paris
+***💼***
+ ORG : AWS EC2 (eu-west-3)
+***🏣***
+ ISP : Amazon Technologies Inc.
+trojan://telegram-id-directvpn@13.39.0.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+***🇫🇷***
+[openproxylist.com] trojan-FR
+
+---
+
+### 🕒 2026-02-11 18:57:00 UTC
+***🆕️***
+ Outline VPN Server
+***🌍***
+ IP Address : 
+[172.58.0.10](http://172.58.0.10/)
+***✈️***
+ Response : 500ms
+***🗺️***
+ Location : 
+***🇺🇸***
+ United States, Georgia, Atlanta
+***🕘***
+ Timezone : America/New_York
+***💼***
+ ORG : T-Mobile USA
+***🏣***
+ ISP : T-Mobile USA, Inc.
+ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@144.217.164.29:12000#
+***🇺🇸***
+[openproxylist.com] ss-US
+
+---
+
+### 🕒 2026-02-11 18:55:31 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[91.107.145.104](http://91.107.145.104/)
+***✈️***
+ Response : 70ms
+***🗺️***
+ Location : 
+***🇩🇪***
+ Germany, Hesse, Frankfurt Am Main
+***🕘***
+ Timezone : Europe/Berlin
+***💼***
+ ORG : Hetzner Online AG
+***🏣***
+ ISP : Hetzner Online AG
+vless://6bd7b446-acd2-4c69-a943-38fa67488b45@95.217.246.168:37128?security=none&encryption=none&headerType=none&type=tcp#
+***🇩🇪***
+[openproxylist.com] vless-DE
+
+---
+
+### 🕒 2026-02-11 18:36:12 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[104.28.155.85](http://104.28.155.85/)
+***✈️***
+ Response : 132ms
+***🗺️***
+ Location : 
+***🇮🇳***
+ India, National Capital Territory of Delhi, Gharroli
+***🕘***
+ Timezone : Asia/Kolkata
+***💼***
+ ORG : Cloudflare WARP
+***🏣***
+ ISP : Cloudflare, Inc.
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.84.163.149:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#
+***🇮🇳***
+[openproxylist.com] vless-IN
+
+---
+
+### 🕒 2026-02-11 18:35:52 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[47.74.6.60](http://47.74.6.60/)
+***✈️***
+ Response : 500ms
+***🗺️***
+ Location : 
+***🇯🇵***
+ Japan, Tokyo, Tokyo
+***🕘***
+ Timezone : Asia/Tokyo
+***💼***
+ ORG : Alibaba Cloud - JP
+***🏣***
+ ISP : Alibaba Cloud LLC
+vless://5c183802-747d-4d2f-a6f1-aff2d5d78401@47.74.6.60:443?security=reality&encryption=none&sni=cdn77.api.userway.org&fp=chrome&pbk=DNdTBHyztOVJOBJQX91YXEhNkWbSAntqUoTFBHc6Clw&sid=6ba85179e30d4fc2&type=tcp&path=/#
+***🇯🇵***
+[openproxylist.com] vless-JP
+
+---
+
+### 🕒 2026-02-11 18:20:42 UTC
+***🆕️***
+ V2Ray VLESS Server
+***🌍***
+ IP Address : 
+[62.141.42.201](http://62.141.42.201/)
+***✈️***
+ Response : 86ms
+***🗺️***
+ Location : 
+***🇩🇪***
+ Germany, North Rhine-Westphalia, Düsseldorf
+***🕘***
+ Timezone : Europe/Berlin
+***💼***
+ ORG : myLoc managed IT AG
+***🏣***
+ ISP : WIIT AG
+vless://cc976b15-418b-4f0b-89ce-cd685ffbaf20@vnn.vpnfreedom.tech:443?type=tcp&security=reality&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&fp=chrome&sni=google.com&sid=81&spx=/&flow=xtls-rprx-vision#
+***🇩🇪***
+[openproxylist.com] vless-DE
+
+---
 
 ### 🕒 2026-02-11 17:59:55 UTC
 ***🆕️***
@@ -4405,414 +4811,6 @@ https://openproxylist.com/openvpn/country/KR/
 **ISP**
  : Korea Telecom
 https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:35:18 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[219.100.37.60](http://219.100.37.60/)
-**Response**
- : 154ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Chiyoda City
-**Coordinates**
- : 35.6916,139.768
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : SoftEther Corporation
-**ISP**
- : SoftEther
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:35:06 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[221.167.213.174](http://221.167.213.174/)
-**Response**
- : 239ms
-**Location**
- : 
-***🇰🇷***
- South Korea, Seoul, Songpa-gu
-**Coordinates**
- : 37.5108,127.1048
-**Timezone**
- : Asia/Seoul
-**ORG**
- : 
-**ISP**
- : Korea Telecom
-https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:34:33 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[122.133.154.34](http://122.133.154.34/)
-**Response**
- : 107ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Tokyo
-**Coordinates**
- : 35.6837,139.6805
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : BIGLOBE
-**ISP**
- : NEC BIGLOBE Ltd.
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:33:52 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[49.228.108.169](http://49.228.108.169/)
-**Response**
- : 35ms
-**Location**
- : 
-***🇹🇭***
- Thailand, Bangkok, Bangkok
-**Coordinates**
- : 13.7101,100.4543
-**Timezone**
- : Asia/Bangkok
-**ORG**
- : 
-**ISP**
- : Advanced Wireless Network Company Limited
-https://openproxylist.com/openvpn/country/TH/
-
----
-
-### 🕒 2026-02-09 22:33:43 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[126.219.117.54](http://126.219.117.54/)
-**Response**
- : 107ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Minato
-**Coordinates**
- : 35.6552,139.761
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : SOFTBANK Corp
-**ISP**
- : SoftBank Corp.
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:33:33 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[121.109.224.163](http://121.109.224.163/)
-**Response**
- : 177ms
-**Location**
- : 
-***🇯🇵***
- Japan, Saitama, Misato, Saitama
-**Coordinates**
- : 35.8276,139.8887
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : KDDI
-**ISP**
- : Kddi Corporation
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:33:11 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[70.69.200.251](http://70.69.200.251/)
-**Response**
- : 245ms
-**Location**
- : 
-***🇨🇦***
- Canada, British Columbia, Abbotsford
-**Coordinates**
- : 49.041,-122.3423
-**Timezone**
- : America/Vancouver
-**ORG**
- : Shaw Communications
-**ISP**
- : Shaw Communications
-https://openproxylist.com/openvpn/country/CA/
-
----
-
-### 🕒 2026-02-09 22:32:58 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[223.204.248.36](http://223.204.248.36/)
-**Response**
- : 33ms
-**Location**
- : 
-***🇹🇭***
- Thailand, Chon Buri, Bang Lamung
-**Coordinates**
- : 13.0508,100.9367
-**Timezone**
- : Asia/Bangkok
-**ORG**
- : Triple T Broadband Public Company Limited
-**ISP**
- : Triple T Broadband Public Company Limited
-https://openproxylist.com/openvpn/country/TH/
-
----
-
-### 🕒 2026-02-09 22:32:39 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[131.147.59.94](http://131.147.59.94/)
-**Response**
- : 85ms
-**Location**
- : 
-***🇯🇵***
- Japan, Gunma, Takasaki
-**Coordinates**
- : 36.3347,139.001
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : Sony Network Communications Inc.
-**ISP**
- : Sony Network Communications Inc.
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:32:29 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[219.100.37.20](http://219.100.37.20/)
-**Response**
- : 190ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Chiyoda City
-**Coordinates**
- : 35.6916,139.768
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : SoftEther Corporation
-**ISP**
- : SoftEther
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:32:06 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[121.162.174.151](http://121.162.174.151/)
-**Response**
- : 174ms
-**Location**
- : 
-***🇰🇷***
- South Korea, Gyeonggi-do, Uijeongbu-si
-**Coordinates**
- : 37.7303,127.0672
-**Timezone**
- : Asia/Seoul
-**ORG**
- : Kornet
-**ISP**
- : Korea Telecom
-https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:31:54 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[220.72.40.110](http://220.72.40.110/)
-**Response**
- : 214ms
-**Location**
- : 
-***🇰🇷***
- South Korea, Seoul, Dobong-gu
-**Coordinates**
- : 37.675,127.0496
-**Timezone**
- : Asia/Seoul
-**ORG**
- : 
-**ISP**
- : Korea Telecom
-https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:31:42 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[220.79.235.251](http://220.79.235.251/)
-**Response**
- : 198ms
-**Location**
- : 
-***🇰🇷***
- South Korea, Gyeonggi-do, Goyang-si
-**Coordinates**
- : 37.6392,126.8375
-**Timezone**
- : Asia/Seoul
-**ORG**
- : KORNET
-**ISP**
- : Korea Telecom
-https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:31:30 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[219.100.37.185](http://219.100.37.185/)
-**Response**
- : 152ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Chiyoda City
-**Coordinates**
- : 35.6916,139.768
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : SoftEther Corporation
-**ISP**
- : SoftEther
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:31:18 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[60.91.40.164](http://60.91.40.164/)
-**Response**
- : 105ms
-**Location**
- : 
-***🇯🇵***
- Japan, Tokyo, Minato-ku
-**Coordinates**
- : 35.6629,139.761
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : Japan Nation-wide Network of Softbank Corp.
-**ISP**
- : SoftBank Corp.
-https://openproxylist.com/openvpn/country/JP/
-
----
-
-### 🕒 2026-02-09 22:31:02 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[220.84.90.140](http://220.84.90.140/)
-**Response**
- : 215ms
-**Location**
- : 
-***🇰🇷***
- South Korea, Busan, Busan
-**Coordinates**
- : 35.1659,129.0542
-**Timezone**
- : Asia/Seoul
-**ORG**
- : Korea Telecom
-**ISP**
- : Korea Telecom
-https://openproxylist.com/openvpn/country/KR/
-
----
-
-### 🕒 2026-02-09 22:30:50 UTC
-**New OpenVPN Server**
-**Server Info**
-**IP Address**
- : 
-[175.132.91.245](http://175.132.91.245/)
-**Response**
- : 141ms
-**Location**
- : 
-***🇯🇵***
- Japan, Saitama, Shiki
-**Coordinates**
- : 35.8498,139.5884
-**Timezone**
- : Asia/Tokyo
-**ORG**
- : KDDI
-**ISP**
- : Kddi Corporation
-https://openproxylist.com/openvpn/country/JP/
 
 ---
 

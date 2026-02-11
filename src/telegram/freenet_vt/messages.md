@@ -1,5 +1,43 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-11 18:16:05 UTC
+بروزرسانی: 2026-02-11 20:31:43 UTC
+
+### 🕒 2026-02-11 20:02:03 UTC
+پسورد ش زیر بکاپ همین و بر دارید
+
+---
+
+### 🕒 2026-02-11 20:01:13 UTC
+`freenet_vt`
+
+---
+
+### 🕒 2026-02-11 19:57:03 UTC
+الان یک لحظه تا یه اسن براش بزارم گیج نشید
+
+---
+
+### 🕒 2026-02-11 19:48:11 UTC
+.بکاپ توی نسخه مود لطفا وارد کنید
+
+---
+
+### 🕒 2026-02-11 19:44:45 UTC
+`freenet_vt`
+
+---
+
+### 🕒 2026-02-11 19:42:51 UTC
+پروفایل همراه نرسیم کامل کنم بکاپ اصلی کار داره این فعلا استفاده کنید تا اون آماده بشه
+
+---
+
+### 🕒 2026-02-11 19:40:00 UTC
+بکاپ کلاینت  پرو نسخه مود متصل روی همه اپراتورها
+`freenet_vt`
+پسوورد
+***👆***
+
+---
 
 ### 🕒 2026-02-11 17:44:40 UTC
 ایرانسل
@@ -251,33 +289,6 @@ Download
 ### 🕒 2026-02-09 20:56:04 UTC
 `vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.75.172.33:28027?security=none&encryption=none&headerType=none&type=tcp#%23freenet_vtvless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.71.111.91:19285?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://cbf69c40-f872-4cfb-858e-dd143468b272@3.123.34.191:443?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@18.153.80.0:48764?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1U0Tg@5.39.249.26:8388#%F0%9F%87%A9%F0%9F%87%AA%20%40%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#%F0%9F%87%B3%F0%9F%87%B1%20%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakpqWQ@185.88.101.68:8388#%F0%9F%87%AB%F0%9F%87%AE%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388#%F0%9F%87%A8%F0%9F%87%B5%20%40freenet_vtvless://627af99e-6326-430d-8a77-957cb5cc803e@3.127.203.18:26197?mode=gun&security=none&encryption=none&type=grpc#%40freenet_vtvless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=ws#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakF3Wg@45.10.164.100:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vtvless://509132bc-0d4a-43bd-b951-df3058987bbb@ip1.neoservers.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&type=ws&allowInsecure=0&sni=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vt`
 متصلوباوهمراه اول
-
----
-
-### 🕒 2026-02-09 18:44:36 UTC
-رمز 
-`bbvpn2023`
-
----
-
-### 🕒 2026-02-09 18:44:18 UTC
-کانفیگ open  سرعت توپ متصل با هنره اول
-
----
-
-### 🕒 2026-02-09 18:29:29 UTC
-با نت ایرانسل راحت وصل میشه
-
----
-
-### 🕒 2026-02-09 18:27:09 UTC
-اپ اندروید شیر و خورشید، یک نسخه غیررسمی و متن‌باز از فیلترشکن 
-[#سایفون](?q=%23%D8%B3%D8%A7%DB%8C%D9%81%D9%88%D9%86)
- هست که با هدف بهبود پایداری اتصال در شرایط فیلترینگ شدید ایران توسعه داده شده و تمرکز اصلیش روی مدیریت هوشمندتر پروتکل‌ها، به‌ویژه کاندوئیت قرار داره.
-این برنامه علاوه بر حفظ رفتار پیش‌فرض سایفون در انتخاب خودکار سریعترین مسیر، امکان کنترل دستی پروتکل رو هم در اختیار کاربر میذاره تا در مواقعی که اتصال سخت میشه، با انتخاب کاندوئیت شانس اتصال پایدارتر رو افزایش بده.
-یکی از تفاوت‌های مهم این کلاینت اینه که اگر کاربر داخل ایران باشه، بصورت خودکار از اتصال به کاندوئیت‌های داخل ایران، چین یا روسیه جلوگیری می‌کنه و تلاش می‌کنه اتصال رو از طریق کاندوئیت‌های کشورهای دیگه برقرار کنه تا احتمال ناپایداری کمتر بشه.
-***❤️***
-[github.com/shirokhorshid/shirokhorshid-android/releases/latest](http://github.com/shirokhorshid/shirokhorshid-android/releases/latest)
 
 ---
 

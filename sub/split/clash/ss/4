@@ -750,6 +750,17 @@ proxies:
   - {name: "@Vpn_Tehran 🔥 تلگرام 4", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: 3.112.130.53:8319 2, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💘 تلگرام", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 193.29.139.141:8080, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 193.29.139.152:8080, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 193.29.139.202:8080, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 193.29.139.204:8080, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔮 تلگرام", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@confingraygan N001kd-🇳🇱", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1051,6 +1062,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1342,6 +1364,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1633,6 +1666,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1933,6 +1977,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -2224,6 +2279,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -2515,6 +2581,17 @@ proxy-groups:
       - "@Vpn_Tehran 🔥 تلگرام 4"
       - 3.112.130.53:8319 2
       - "@Vpn_Tehran 💘 تلگرام"
+      - "@meliproxyy 8"
+      - 193.29.139.141:8080
+      - 193.29.139.151:8080
+      - 193.29.139.152:8080
+      - 193.29.139.202:8080
+      - 193.29.139.204:8080
+      - 193.29.139.251:8080
+      - 82.38.31.101:8080
+      - "@Vpn_Tehran 🔮 تلگرام"
+      - "@confingraygan N001kd-🇳🇱"
+      - "***✅***@AR14N24b 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -494,7 +494,6 @@ proxies:
   - {name: 43, server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@confingraygan N001", server: 217.217.255.99, port: 8443, type: vmess, uuid: 83049bda-8d53-44bc-f71c-f6b03c1ca482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@confingraygan N001oddo", server: 217.217.255.99, port: 8443, type: vmess, uuid: 83049bda-8d53-44bc-f71c-f6b03c1ca482, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: ♻️95@oneclickvpnkeys, server: vip3.kaixincloud.top, port: 2083, type: vmess, uuid: 698ba3c2-e501-42c3-8dc4-2d44e7099454, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: blog.dezh.store, network: ws, ws-opts: {path: /ws, headers: {Host: blog.dezh.store}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IR", server: adelmeli.com, port: 80, type: vmess, uuid: 89e25562-d0f1-4f54-8afb-6ee374e30fbb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: adelmeli.com}}, udp: true, tfo: false}
   - {name: "@confograygan 167", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 31701b5d-ca95-92f9-d684-dae3706161ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan V1, server: host-speed.net, port: 8080, type: vmess, uuid: c78b8650-1e1d-4122-9771-f73191011201, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -544,7 +543,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1
@@ -584,7 +582,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1
@@ -624,7 +621,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1
@@ -673,7 +669,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1
@@ -713,7 +708,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1
@@ -753,7 +747,6 @@ proxy-groups:
       - 43
       - "@confingraygan N001"
       - "@confingraygan N001oddo"
-      - ♻️95@oneclickvpnkeys
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
       - configraygan V1

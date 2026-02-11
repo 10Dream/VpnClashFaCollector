@@ -1,5 +1,86 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-11 18:13:52 UTC
+بروزرسانی: 2026-02-11 20:29:30 UTC
+
+### 🕒 2026-02-11 20:28:02 UTC
+Server: 
+`Hamrah.mci.ir.the-bests-servers.info.`
+ 
+Port: 
+`88`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-11 20:28:02 UTC
+Server: 
+`saborbash-vasle.minetor.co.uk`
+ 
+Port: 
+`443`
+Secret: 
+`3XnnAQIAAQAH8AMDhuJMOt0`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-11 19:40:01 UTC
+Server: 
+`ssh.gamelande.info.`
+ 
+Port: 
+`88`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-11 19:38:26 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`8443`
+Secret: 
+`3XnnAQIAAQAH8AMDhuJMOt0=`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-11 18:30:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`23`
+Secret: 
+`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-11 18:29:02 UTC
+> ↪️ **Forwarded**
+
+Russia is restricting access to Telegram in an attempt to force its citizens to switch to a state-controlled app built for surveillance and political censorship.
+8 years ago, Iran tried the same strategy — and failed. It banned Telegram on made-up pretexts, trying to force people onto a state-run alternative.
+Despite the ban, most Iranians still use Telegram (bypassing censorship) and prefer it to surveilled apps.
+Restricting citizens’ freedom is never the right answer. Telegram stands for freedom of speech and privacy, no matter the pressure.
+
+---
+
+### 🕒 2026-02-11 18:27:20 UTC
+Server: 
+`Unknown`
+Port: 
+`7443`
+Secret: 
+`AAAAAAAAAAAAAAAAAAAAABQ=`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-11 17:30:02 UTC
 Server: 
@@ -350,54 +431,6 @@ Secret:
 ### 🕒 2026-02-10 05:30:01 UTC
 Server: 
 `Unknown`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-09 20:28:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`443`
-Secret: 
-`7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-09 20:28:01 UTC
-Server: 
-`saborbash-vasle.minetor.co.uk`
- 
-Port: 
-`443`
-Secret: 
-`3XnnAQIAAQAH8AMDhuJMOt0`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-09 19:30:01 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`8443`
-Secret: 
-`3XnnAQIAAQAH8AMDhuJMOt0=`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-09 18:30:01 UTC
-Server: 
-`hamrah-aval-pq.omide-hasti.info.`
  
 Port: 
 `88`

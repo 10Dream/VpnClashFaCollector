@@ -465,17 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@meliproxyy", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 193.29.139.141:8080, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 193.29.139.152:8080, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 193.29.139.202:8080, server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 193.29.139.204:8080, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🔮 تلگرام", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@confingraygan N001kd-🇳🇱", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.122:8080, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.124:8080, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@configraygan", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -502,13 +491,13 @@ proxies:
   - {name: "@MARAMBASHI 💙", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran ⚘️ تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🌸 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🔮 تلگرام 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "@Vpn_Tehran 🔮 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🪽 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@YamYamProxy", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
@@ -665,7 +654,6 @@ proxies:
   - {name: 103.186.155.127:38388, server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.128:38388, server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.132:38388, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.134:38388, server: 103.186.155.134, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.137:38388, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.138:38388, server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.139:38388, server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -703,7 +691,6 @@ proxies:
   - {name: 103.186.155.27:38388, server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.28:38388, server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.30:38388, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.32:38388, server: 103.186.155.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.33:38388, server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.35:38388, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.39:38388, server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -747,16 +734,14 @@ proxies:
   - {name: 217.30.10.18:9088, server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
   - {name: 217.30.10.18:9018, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
   - {name: 217.30.10.70:9007, server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
-  - {name: 168.126.234.233:25879, server: 168.126.234.233, port: 25879, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
   - {name: 217.30.10.18:9094, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
   - {name: 217.30.10.70:9093, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
   - {name: 217.30.10.18:9008, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
   - {name: 38.244.209.215:443, server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
-  - {name: 57.129.121.229:8443, server: 57.129.121.229, port: 8443, type: ss, cipher: aes-256-gcm, password: 46d51/8QMy48k57CIfS1C5yx2IHsjoEnPJYb7zXDfAc=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@confingraygan N00146-🇺🇸", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 38.180.216.114:7307, server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
@@ -779,17 +764,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -816,13 +790,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -979,7 +953,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -1017,7 +990,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -1061,16 +1033,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
@@ -1083,17 +1053,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -1120,13 +1079,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -1283,7 +1242,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -1321,7 +1279,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -1365,16 +1322,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
@@ -1387,17 +1342,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -1424,13 +1368,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -1587,7 +1531,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -1625,7 +1568,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -1669,16 +1611,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
@@ -1700,17 +1640,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -1737,13 +1666,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -1900,7 +1829,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -1938,7 +1866,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -1982,16 +1909,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
@@ -2004,17 +1929,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -2041,13 +1955,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -2204,7 +2118,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -2242,7 +2155,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -2286,16 +2198,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
@@ -2308,17 +2218,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@meliproxyy"
-      - 193.29.139.141:8080
-      - 193.29.139.151:8080
-      - 193.29.139.152:8080
-      - 193.29.139.202:8080
-      - 193.29.139.204:8080
-      - 193.29.139.251:8080
-      - 82.38.31.101:8080
-      - "@Vpn_Tehran 🔮 تلگرام"
-      - "@confingraygan N001kd-🇳🇱"
-      - "***✅***@AR14N24b"
       - 82.38.31.122:8080
       - 82.38.31.124:8080
       - "@configraygan"
@@ -2345,13 +2244,13 @@ proxy-groups:
       - "@MARAMBASHI 💙"
       - "@Vpn_Tehran ⚘️ تلگرام"
       - "@Vpn_Tehran 🌸 تلگرام"
-      - "@Vpn_Tehran 🔮 تلگرام 2"
+      - "@Vpn_Tehran 🔮 تلگرام"
       - "@Vpn_Tehran 🪽 تلگرام"
       - "@YamYamProxy"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
-      - "@meliproxyy 2"
+      - "@meliproxyy"
       - "@meliproxyy`"
       - "@proxy_kafee 2"
       - "@proxy_kafee`"
@@ -2508,7 +2407,6 @@ proxy-groups:
       - 103.186.155.127:38388
       - 103.186.155.128:38388
       - 103.186.155.132:38388
-      - 103.186.155.134:38388
       - 103.186.155.137:38388
       - 103.186.155.138:38388
       - 103.186.155.139:38388
@@ -2546,7 +2444,6 @@ proxy-groups:
       - 103.186.155.27:38388
       - 103.186.155.28:38388
       - 103.186.155.30:38388
-      - 103.186.155.32:38388
       - 103.186.155.33:38388
       - 103.186.155.35:38388
       - 103.186.155.39:38388
@@ -2590,16 +2487,14 @@ proxy-groups:
       - 217.30.10.18:9088
       - 217.30.10.18:9018
       - 217.30.10.70:9007
-      - 168.126.234.233:25879
       - 217.30.10.18:9094
       - 217.30.10.70:9093
       - 217.30.10.18:9008
       - 38.244.209.215:443
-      - "***✅***@AR14N24b 3"
-      - 57.129.121.229:8443
+      - "***✅***@AR14N24b 2"
       - 144.217.164.29:12000
       - "@confingraygan N00146-🇺🇸"
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307

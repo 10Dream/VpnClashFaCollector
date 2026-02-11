@@ -1,5 +1,39 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-11 18:16:11 UTC
+بروزرسانی: 2026-02-11 20:31:49 UTC
+
+### 🕒 2026-02-11 20:12:52 UTC
+پروکسی : 
+`80.211.137.210`
+پورت : 
+`8088`
+کشور : ایتالیا (Italy)
+
+---
+
+### 🕒 2026-02-11 20:08:04 UTC
+سایفون بازا بیدارید یا نه ؟ 
+***🦦***
+
+---
+
+### 🕒 2026-02-11 18:54:13 UTC
+خب آماده بشیم برای معرفی یه چیز جدید .
+اینم بگم علی جان  از فردا فکر کنم یه ساب جالب برای کلش متا میخواد ساپورت کنه و هر روز بروزش کنه .
+خلاصه که همه دارند یه کارایی میکنند برای متصل بودن همه 
+***😎***
+
+---
+
+### 🕒 2026-02-11 18:45:05 UTC
+یه فوری بدم .
+***🚨***
+***🚨***
+ فوری !!
+***⭕️***
+ ایران به آمریکا از طریق کشور های خاورمیانه اعلام کرده که برنامه غنی سازی و موشکی خود را کنار نخواهد گذاشت.
+...
+
+---
 
 ### 🕒 2026-02-11 17:21:44 UTC
 تنظیمات کلی ویتورای
@@ -435,87 +469,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 [https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm64.apk](https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm64.apk)
 لینک دانلود Armv7 :
 [https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm7.apk](https://github.com/hiddify/hiddify-app/releases/download/draft/Hiddify-Android-arm7.apk)
-
----
-
-### 🕒 2026-02-09 18:50:31 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-09 18:46:19 UTC
-کانفیگ وارپ نامحدود (آمنزیا) 
-***😎***
-**آیپی**
- 
-***🇧🇲***
-***♾️***
-با گزینه + سپس گزینه 
-Add from Clipboard 
-***📋***
-کانفیگ را اضافه کنید
-**کد پایین رو کپی کنید و بزنید WG Tunnel**
-ا
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
-***👇***
- ا
-[Interface]
-Address = 10.0.137.185/32, 2a0e:1c80:1337:1:10:0:137:185/128
-DNS = 10.0.0.1, 2a0e:1c80:1337:1:10::1, 91.231.153.2
-Jc = 4
-Jmin = 40
-Jmax = 70
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-PrivateKey = 0LscTErP+a+mrW5Fwu1ry2fpSSvXio+l5PJTMVnRC0s=
-[Peer]
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = be-bru.azirevpn.net:51820
-PublicKey = 3Qd5oS67n2RYKQjsK6cIGmsqx2BcH5NMsFNQlvPqjBM=
-**داخل 👈 نیکا 👉 هم بزنید کار می‌کنه 😎 حتی ویتو**
-رای نسخه جدیدش .
-داخل کلاینت 
-***👈***
- 
-[WG Tunnel](https://github.com/wgtunnel/wgtunnel/releases/tag/4.2.2)
- 
-***👉***
- بزنید و حالشو ببرید .
-..
-***🆑***
- ‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***✅***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
 
 ---
 

@@ -1,7 +1,7 @@
 # آرشیو کانال: @irancpi_vpn
-بروزرسانی: 2026-02-11 18:16:27 UTC
+بروزرسانی: 2026-02-11 20:32:05 UTC
 
-### 🕒 2026-02-11 16:42:06 UTC
+### 🕒 2026-02-11 20:30:31 UTC
 ***🦁***
  
 **حزب مشروطه ایران (لیبرال دمکرات)**
@@ -16,11 +16,9 @@
  • 
 [سرور 2](https://t.me/proxy?server=45.76.33.204&amp;port=443&amp;secret=1639e5db5ab428d6d086081de64a830a)
  • 
-[سرور 3](https://t.me/proxy?server=95.179.246.185&amp;port=443&amp;secret=20f34b2d2a8c3e056fbb80925ed69fb4)
+[سرور 3](https://t.me/proxy?server=45.32.199.82&amp;port=443&amp;secret=2fb91f63ba98b4f9a39b0b3640a93eea)
  • 
-[سرور 4](https://t.me/proxy?server=45.32.199.82&amp;port=443&amp;secret=2fb91f63ba98b4f9a39b0b3640a93eea)
- • 
-[سرور 5](https://t.me/proxy?server=45.63.74.35&amp;port=443&amp;secret=b3b1909a7bb0c1997b106e579ae29329)
+[سرور 4](https://t.me/proxy?server=45.63.74.35&amp;port=443&amp;secret=b3b1909a7bb0c1997b106e579ae29329)
 ***📝***
  
 [ارسال گزارشات مردمی](https://t.me/Publicreports_bot)

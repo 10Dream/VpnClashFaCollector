@@ -1,5 +1,5 @@
 # آرشیو کانال: @Outline_Vpn
-بروزرسانی: 2026-02-11 18:13:35 UTC
+بروزرسانی: 2026-02-11 20:29:16 UTC
 
 ### 🕒 2026-02-11 16:01:12 UTC
 ***✨***
@@ -236,75 +236,6 @@
 **🤩**
 ** **
 [@Vip_Price_List](https://t.me/Vip_Price_List)
-
----
-
-### 🕒 2026-02-09 18:33:54 UTC
-***🧋***
-***🧋***
-***🧋***
-**Free Config**
-***🛡***
- 
-**کانفیگ رایگان**
-***🇺🇿***
-  
-**آموزش**
- 
-[**نحوه اتصال کلیک**](https://t.me/Outline_Vpn/10998?single)
-** کنید.**
-***🔥***
- 
-**با یک ضربه کانفیگ کپی می‌شود.**
-***🛡***
- 
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-``
-`vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@v1.dabache.top:443?path=%2Fassetsfp%3Dchrome&security=tls&encryption=none&host=DiprOX.pages.DEV&fp=chrome&type=ws&sni=DiprOX.pages.DEV#%F0%9F%87%AE%F0%9F%87%B7%20IR%2061%20%40Outline_Vpnvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%87%AE%F0%9F%87%B7%20IR%2062%20%40Outline_Vpnvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%87%AE%F0%9F%87%B7%20IR%2063%20%40Outline_Vpnvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%87%AE%F0%9F%87%B7%20IR%2064%20%40Outline_Vpnvless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%F0%9F%87%AE%F0%9F%87%B7%20IR%2065%20%40Outline_Vpn`
-***🤩***
- 
-**Outline**
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%F0%9F%87%AE%F0%9F%87%B7%20IR%20115%20%40Outline_Vpn`
-***🔥***
-***👍***
-***⚡️***
- 
-**اتصال پایدار**
- 
-***❤️***
- 
-**جهت**
- 
-**تهیه**
-  
-[**اشتراک اختصاصی VIP بدون قطعی اینجا کلیک**](https://t.me/ads_Central_net)
- 
-**کنید.**
-***⚡️***
- 
-**توجه : **
-کانال ما هیچ
-* ربات یا اکانتی*
- غیر از 
-سه نشانی
- زیر ندارد.
-***✅***
-** **
-[@Outline_Vpn](https://t.me/Outline_Vpn)
-***✅***
-** **
-[@Vip_Price_List](https://t.me/Vip_Price_List)
-***✅***
-** **
-[@Ads_Central_Net](https://t.me/Ads_Central_Net)
-***🛡***
- 
-*v2RayTun, v2rayNg, v2box, FoXray, NapsternetV, Streisand*
 
 ---
 

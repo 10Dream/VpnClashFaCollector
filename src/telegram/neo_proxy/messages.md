@@ -1,5 +1,71 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-11 18:16:43 UTC
+بروزرسانی: 2026-02-11 20:32:21 UTC
+
+### 🕒 2026-02-11 20:32:04 UTC
+بعد از مرگ‌ ابراهیم رئیسی و پیشگویی های عجیب سیمپسونها بشدت دنبال سری کامل این مجموعه بودم که ببینیم دیگه قراره چه اتفاقی تو ایران بیافته...  تا اینکه دیدم اینجا همه رو بدون سانسور گذاشته
+***👇***
+ 
+***🎥***
+ @SimpSons
+
+---
+
+### 🕒 2026-02-11 20:31:36 UTC
+**بعد از مرگ‌ ابراهیم رئیسی و پیشگویی های عجیب سیمپسونها بشدت دنبال سری کامل این مجموعه بودم که ببینیم دیگه قراره چه اتفاقی تو ایران بیافته...**
+تا اینکه دیدم اینجا همه رو بدون سانسور گذاشته
+***👇***
+***🎥***
+[ @SimpSons](https://t.me/+dQczfOVnNophNTg0)
+
+---
+
+### 🕒 2026-02-11 20:13:19 UTC
+اون قسمت از شب که از دوستات خداحافظی می‌کنی، قدم‌زنان به سمت خونه حرکت می‌کنی، خنده‌هات یهو خشک می‌شن و تمام بدبختیات و دلتنگیات دوباره شدت می‌گیرن، واقعا عجیبه...
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
+
+---
+
+### 🕒 2026-02-11 20:04:24 UTC
+***🎥***
+**دردسر عجیب آقای حیاتی گوینده سابق تلویزیون به خاطر یه تبلیغ😁😁**
+**واقعا حقش نبود😐😐**
+بااین چربی سوز گیاهی ماهانه 5 تا 7 کیلو بدون رژیم و ورزش لاغر میشید
+***😍***
+***☎️***
+ پس اگه میخواید به وزن ایده آلتون برسید روی لینک زیر کلیک کنید و توی جشنواره زمستانه این چربی سوز رو نیم بها تهیه کنید
+***👇🏻***
+***👇🏻***
+***👇🏻***
+***👇***
+[https://landing.saamim.com/A3IX2](https://landing.saamim.com/A3IX2)
+[https://landing.saamim.com/A3IX2](https://landing.saamim.com/A3IX2)
+
+---
 
 ### 🕒 2026-02-11 11:27:40 UTC
 دوستت دارم  مثل هیچکس که میگه :
@@ -273,26 +339,6 @@
  
 [@DarkProxy](https://t.me/DarkProxy)
 [@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-09 20:08:16 UTC
-**🌀کمتر غذا بخور/با انرژی باش/بیشتر لاغر شو**
-***🌀***
-یک بشقاب غذا=یک قاشق جلبک اسپرولینا   
-***💠***
-افزایش متابولیسم 
-***💯***
-***💠***
-کاهش وزن بدون عارضه 
-***💯***
-همین حالا وارد لینک زیر شده و از
-** تخفیف ویژه عید و ارسال رایگان**
-  این محصول بهره مند شوید
-***📲***
-***👇***
-[https://landing.saamim.com/vvtwe](https://landing.saamim.com/vvtwe)
-[https://landing.saamim.com/vvtwe](https://landing.saamim.com/vvtwe)
 
 ---
 

@@ -1,5 +1,20 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-11 18:13:41 UTC
+بروزرسانی: 2026-02-11 20:29:22 UTC
+
+### 🕒 2026-02-11 19:04:03 UTC
+**فیلترشکن OXVPN اندروید آخرین نسخه مود شده**
+، 
+**تبلیغات و محدودیت زمانی حذف شده و سرعت خوبی داره. بار اول 10-20 ثانیه منتظر باشید وصل**
+ 
+**بشه.**
+**آپلود کردم رباتمون از لینک زیر میتونید دانلود کنید:**
+[**t.me/Pewezabot?start=135725**](http://t.me/Pewezabot?start=135725)
+فقط کافیه بعد از ورود دکمه اتصال رو بزنید که خودش به بهترین سرور وصل بشه.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-11 16:51:52 UTC
 ***🔐***
@@ -224,51 +239,6 @@
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-09 20:17:42 UTC
-میگن اینویزیبل پرو قطع شده یا کند شده چیکار کنیم، الان روش جدید خدمتتون معرفی میکنم.
-
----
-
-### 🕒 2026-02-09 20:01:48 UTC
-***🔐***
-** فایل 4 کانفیگ جدید اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری 94 تا 97با وارد کردن این فایل داخل نپستر 4 کانفیگ جدید داخل برنامه اضافه میشود.مناسب نت ملی و شرایط سخت اینترنتی**
-برای اتصال چند ثانیه صبور باشید.
-با اکثر اینترنت ها تست شد.
-**لینک دانلود برنامه اندروید**
-:
-[t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
-**لینک دانلود برنامه آیفون : **
-[https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-09 19:47:26 UTC
-***✅***
- 
-**چند سرور جدید V2Ray اختصاصی برای دوستانی که اینترنت به شدت ضعیف ملی دارند. ممکنه اتصال چند ثانیه طول بکشه**
-.
-`vless://5238a315-4427-4915-a1de-4978e3029a1c@www.speedtest.net:2096?path=%2FeyJqdW5rIjoiZjBrTGJtaWQ2MSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&encryption=none&insecure=0&host=long-mode-2783.sepna114.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=loNg-modE-2783.SEpna114.WOrkERs.dEV#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyeTQ3eVlPb0hhN0ZnSXN5cVE4MnR3@87.228.9.43:1080#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vless://9f846e5c-56f9-4670-8be2-5b00d2a107c0@192.200.160.228:2083?path=%2Fapi03&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=de.elterido.ir&fp=chrome&type=ws&allowInsecure=0&sni=de.elterido.ir#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@dash.getasa.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=dash.getasa.ir&fp=chrome&type=ws&allowInsecure=0&sni=dash.getasa.ir#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-[**لینک تمامی برنامه های V2ray**](https://t.me/PewezaVPN/5269)
- 
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-09 19:38:06 UTC
-درود دوستان امروز کار پیش اومد و از صبح نشد پست بذارم، اما خوب شد، پیام های دیشب در مرکز توجه بود، و یه سری کانال ها هم رانت بگیر بودنشون (فروختن شرافتشون) مشخص شد. 
-ادامه فعالیت کانال رو از سر میگیریم.
 
 ---
 

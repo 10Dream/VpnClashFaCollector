@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: ⚫️ Telegram- @Canfing_VPN`, server: 3.124.209.11, port: 26197, type: vless, tls: true, packet-encoding: xudp, uuid: 627af99e-6326-430d-8a77-957cb5cc803e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚫️ Telegram- @Canfing_VPN`, server: curt235.cvbesty.ir, port: 2376, type: vless, tls: true, packet-encoding: xudp, uuid: 5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27, servername: filimo.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select

@@ -1,5 +1,5 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-11 18:16:31 UTC
+بروزرسانی: 2026-02-11 20:32:09 UTC
 
 ### 🕒 2026-02-11 17:43:01 UTC
 `vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#lrnbymaa`

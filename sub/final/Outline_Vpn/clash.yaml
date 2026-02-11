@@ -465,10 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: IR 115 @Outline_Vpn`, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: V 14 @Outline_Vpn, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: V 12 @Outline_Vpn, server: 37.139.34.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 11e41a32-6672-48a0-b9cb-c8694242ecff, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 48fccabc158a4c22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IR 65 @Outline_Vpn`, server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 15 @Outline_Vpn`, server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 1 @Outline_Vpn, server: amir.behnamweb.fun, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: 308975b2-0c44-4bbc-be41-62b2f6fccfe3, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 4 @Outline_Vpn, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,12 +477,8 @@ proxies:
   - {name: V 13 @Outline_Vpn, server: 47.82.6.36, port: 51164, type: vless, tls: true, packet-encoding: xudp, uuid: d29a7cee-acd1-4821-adbf-517f8681040e, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 5 @Outline_Vpn`, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /Tel-@V2rayAlpha, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 2 @Outline_Vpn, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IR 61 @Outline_Vpn, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 3 @Outline_Vpn, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 7 @Outline_Vpn, server: fit.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: feaf1d64-b44c-4cc8-b114-4001478c1fd0, servername: fit.jojack.ru, host: fit.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw, short-id: f8865ecbb9bc11a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IR 63 @Outline_Vpn, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IR 64 @Outline_Vpn, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: IR 62 @Outline_Vpn, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 9 @Outline_Vpn, server: lt-cherry-01.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff6fb512-147d-419a-9672-e131133f7189, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA, short-id: e0ef3d5c0aacb615}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -502,10 +496,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -516,12 +508,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -529,10 +517,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -543,12 +529,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -556,10 +538,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -570,12 +550,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: اتصال پایدار 🔗
     type: url-test
@@ -592,10 +568,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -606,12 +580,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -619,10 +589,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -633,12 +601,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -646,10 +610,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - IR 115 @Outline_Vpn`
       - V 14 @Outline_Vpn
       - V 12 @Outline_Vpn
-      - IR 65 @Outline_Vpn`
       - V 15 @Outline_Vpn`
       - V 1 @Outline_Vpn
       - V 4 @Outline_Vpn
@@ -660,12 +622,8 @@ proxy-groups:
       - V 13 @Outline_Vpn
       - V 5 @Outline_Vpn`
       - V 2 @Outline_Vpn
-      - IR 61 @Outline_Vpn
       - V 3 @Outline_Vpn
       - V 7 @Outline_Vpn
-      - IR 63 @Outline_Vpn
-      - IR 64 @Outline_Vpn
-      - IR 62 @Outline_Vpn
       - V 9 @Outline_Vpn
   - name: دانلود منیجر 📥
     type: select
