@@ -465,10 +465,105 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 154.90.55.15:11201, server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
+  - {name: 103.186.155.124:38388, server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.125:38388, server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.126:38388, server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.127:38388, server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.128:38388, server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.132:38388, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.137:38388, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.138:38388, server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.139:38388, server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.141:38388, server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.142:38388, server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.144:38388, server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.145:38388, server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.149:38388, server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.154:38388, server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.156:38388, server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.15:38388, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.16:38388, server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.17:38388, server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.18:38388, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.19:38388, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.204:38388, server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.205:38388, server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.207:38388, server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.209:38388, server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.20:38388, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.213:38388, server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.214:38388, server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.224:38388, server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.225:38388, server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.226:38388, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.227:38388, server: 103.186.155.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.228:38388, server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.230:38388, server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.231:38388, server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.232:38388, server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.234:38388, server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.235:38388, server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.236:38388, server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.237:38388, server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.27:38388, server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.28:38388, server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.30:38388, server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.33:38388, server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.35:38388, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.39:38388, server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.3:38388, server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.40:38388, server: 103.186.155.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.42:38388, server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.44:38388, server: 103.186.155.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.48:38388, server: 103.186.155.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.49:38388, server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.4:38388, server: 103.186.155.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.53:38388, server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.55:38388, server: 103.186.155.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.5:38388, server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.60:38388, server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.61:38388, server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.62:38388, server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.65:38388, server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.71:38388, server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.75:38388, server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.80:38388, server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.82:38388, server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.83:38388, server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.85:38388, server: 103.186.155.85, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.8:38388, server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 103.186.155.9:38388, server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 216.250.97.82:38388, server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 217.30.10.18:9000, server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: 217.30.10.18:9098, server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: 217.30.10.18:9038, server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: 154.223.16.212:989, server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 185.47.255.22:989, server: 185.47.255.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 192.71.249.78:989, server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 195.154.119.77:989, server: 195.154.119.77, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 223.165.4.173:989, server: 223.165.4.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 38.165.233.93:989, server: 38.165.233.93, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 51.15.17.169:989, server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 51.15.23.63:989, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 51.159.106.175:989, server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 79.127.227.53:989, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 79.127.233.170:989, server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 217.30.10.18:9088, server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: 217.30.10.18:9018, server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: 217.30.10.70:9007, server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
+  - {name: 217.30.10.18:9094, server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: 217.30.10.70:9093, server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
+  - {name: 217.30.10.18:9008, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: 38.244.209.215:443, server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
+  - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 38.180.216.114:7307, server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: 212.192.12.201:8388, server: 212.192.12.201, port: 8388, type: ss, cipher: aes-256-gcm, password: TjWj6hhm0XXkWvKL, udp: true, tfo: false}
+  - {name: 38.180.113.194:8119, server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
+  - {name: 38.180.152.210:8881, server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +580,315 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +904,315 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
+      - 103.186.155.124:38388
+      - 103.186.155.125:38388
+      - 103.186.155.126:38388
+      - 103.186.155.127:38388
+      - 103.186.155.128:38388
+      - 103.186.155.132:38388
+      - 103.186.155.137:38388
+      - 103.186.155.138:38388
+      - 103.186.155.139:38388
+      - 103.186.155.141:38388
+      - 103.186.155.142:38388
+      - 103.186.155.144:38388
+      - 103.186.155.145:38388
+      - 103.186.155.149:38388
+      - 103.186.155.154:38388
+      - 103.186.155.156:38388
+      - 103.186.155.15:38388
+      - 103.186.155.16:38388
+      - 103.186.155.17:38388
+      - 103.186.155.18:38388
+      - 103.186.155.19:38388
+      - 103.186.155.204:38388
+      - 103.186.155.205:38388
+      - 103.186.155.207:38388
+      - 103.186.155.209:38388
+      - 103.186.155.20:38388
+      - 103.186.155.213:38388
+      - 103.186.155.214:38388
+      - 103.186.155.224:38388
+      - 103.186.155.225:38388
+      - 103.186.155.226:38388
+      - 103.186.155.227:38388
+      - 103.186.155.228:38388
+      - 103.186.155.230:38388
+      - 103.186.155.231:38388
+      - 103.186.155.232:38388
+      - 103.186.155.234:38388
+      - 103.186.155.235:38388
+      - 103.186.155.236:38388
+      - 103.186.155.237:38388
+      - 103.186.155.27:38388
+      - 103.186.155.28:38388
+      - 103.186.155.30:38388
+      - 103.186.155.33:38388
+      - 103.186.155.35:38388
+      - 103.186.155.39:38388
+      - 103.186.155.3:38388
+      - 103.186.155.40:38388
+      - 103.186.155.42:38388
+      - 103.186.155.44:38388
+      - 103.186.155.48:38388
+      - 103.186.155.49:38388
+      - 103.186.155.4:38388
+      - 103.186.155.53:38388
+      - 103.186.155.55:38388
+      - 103.186.155.5:38388
+      - 103.186.155.60:38388
+      - 103.186.155.61:38388
+      - 103.186.155.62:38388
+      - 103.186.155.65:38388
+      - 103.186.155.71:38388
+      - 103.186.155.75:38388
+      - 103.186.155.80:38388
+      - 103.186.155.82:38388
+      - 103.186.155.83:38388
+      - 103.186.155.85:38388
+      - 103.186.155.8:38388
+      - 103.186.155.9:38388
+      - 216.250.97.82:38388
+      - 217.30.10.18:9000
+      - 217.30.10.18:9098
+      - 217.30.10.18:9038
+      - 154.223.16.212:989
+      - 185.47.255.22:989
+      - 192.71.249.78:989
+      - 195.154.119.77:989
+      - 223.165.4.173:989
+      - 38.165.233.93:989
+      - 51.15.17.169:989
+      - 51.15.23.63:989
+      - 51.159.106.175:989
+      - 79.127.227.53:989
+      - 79.127.233.170:989
+      - 217.30.10.18:9088
+      - 217.30.10.18:9018
+      - 217.30.10.70:9007
+      - 217.30.10.18:9094
+      - 217.30.10.70:9093
+      - 217.30.10.18:9008
+      - 38.244.209.215:443
       - "***✅***@AR14N24b"
-      - 154.90.55.15:11201
+      - 144.217.164.29:12000
       - "***✅***@AR14N24b 2"
+      - 15.204.247.49:12000
+      - 57.128.214.100:12000
+      - 38.180.216.114:7307
+      - 212.192.12.201:8388
+      - 38.180.113.194:8119
+      - 38.180.152.210:8881
   - name: دانلود منیجر 📥
     type: select
     proxies:

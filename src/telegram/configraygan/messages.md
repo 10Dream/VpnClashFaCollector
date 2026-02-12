@@ -1,5 +1,110 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-02-12 01:09:50 UTC
+بروزرسانی: 2026-02-12 10:37:39 UTC
+
+### 🕒 2026-02-12 10:32:07 UTC
+**ولی بازم جدیدشو میزارم**
+
+---
+
+### 🕒 2026-02-12 10:32:07 UTC
+200tayivip.txt
+
+---
+
+### 🕒 2026-02-12 10:32:07 UTC
+***🖥***
+ Username :  VPN-1225281 
+***🗝***
+ Password :  PUBHWTNS   سرور های openconnect :   ca-tor2-smart.serverlocation.co:1600 ca-mr3-smart.serverlocation.co:1600 nl-am-smart.serverlocation.co:1600 se-st-smart.serverlocation.co:1600 ch-zr3-smart.serverlocation.co:1600 at…
+
+---
+
+### 🕒 2026-02-12 10:30:13 UTC
+قبل از اینکه کانفیگ های جدید رو بزارم، چیزی بگم،  شروع کنیم
+
+---
+
+### 🕒 2026-02-12 10:26:49 UTC
+***😍***
+***😍***
+***😍***
+***😍***
+***😍***
+
+---
+
+### 🕒 2026-02-12 10:26:31 UTC
+**بریم برای پخت و پز پریمیوم دیگه...**
+
+---
+
+### 🕒 2026-02-12 09:52:20 UTC
+ا
+***⭕️***
+***⭕️***
+***⭕️***
+ا  برای اینکه کانفیگ ها بهترین جواب رو بهتون بده این کار هارو انجام بدین:   
+***🔴***
+ فیلترشکن v2ray و Npv رو حذف و نصب کنید یا برین از تنظیمات گوشی تون clear data بزنید.   
+***🟠***
+کانفیگ هارو ابتدا در v2ray کپی و پیست کنید.   
+***🟡***
+پینگ بگیرید و sort کنید تا بهترین کانفیگ…
+
+---
+
+### 🕒 2026-02-12 09:51:02 UTC
+ا
+***⭕️***
+***⭕️***
+***⭕️***
+ا
+**برای اینکه کانفیگ ها بهترین جواب رو بهتون بده این کار هارو انجام بدین: **
+***🔴***
+ فیلترشکن v2ray و Npv رو حذف و نصب کنید یا برین از تنظیمات گوشی تون clear data بزنید. 
+***🟠***
+کانفیگ هارو ابتدا در v2ray کپی و پیست کنید. 
+***🟡***
+پینگ بگیرید و sort کنید تا بهترین کانفیگ ها بیاد اول. 
+***🟢***
+ بعد چنتای اول رو کپی کنید و ادد بزنید داخل نپسترنت Npv. 
+***🔵***
+ بعد تست کنید هرکدوم downlink اومد در نپسترنت،  یعنی وصل شده و کار تمام است.
+
+---
+
+### 🕒 2026-02-12 07:52:46 UTC
+***📱***
+**خداحافظی با تبلیغ‌های بازی و اپلیکیشن (بدون نصب برنامه!) **
+دیدی دارید با یه برنامه کار می‌کنید یا بازی می‌کنید، یهو یه تبلیغ 30 ثانیه‌ای میاد روی صفحه...نیاز نیست فیلترشکن بزنید یا اپلیکیشنِ «ادبلاک» نصب کنید که باتریتون رو بخوره. 
+***✅***
+ 
+**با این کار میتونی مشکلو حل کنی :**
+***1️⃣***
+ برید توی Settings (تنظیمات) گوشیتون
+***2️⃣***
+ قسمت Connections یا Network & Internet رو باز کنید
+***3️⃣***
+ دنبال گزینه More Connection Settings یا Private DNS بگردید
+***4️⃣***
+ حالتش رو بذارید روی گزینه آخری یعنی :
+Private DNS provider hostname.
+***5️⃣***
+ توی کادری که باز میشه، این عبارت رو دقیقاً بنویسید:
+***👉***
+ 
+`dns.adguard.com`
+****
+***✅***
+ تمام! حالا ذخیره (Save) رو بزنید
+[#آموزشی](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4%DB%8C)
+
+---
+
+### 🕒 2026-02-12 07:52:28 UTC
+**صب بخیر**
+
+---
 
 ### 🕒 2026-02-11 23:32:23 UTC
 **این پک مون واقعا دیوانه کنندس.**
@@ -1624,128 +1729,6 @@ Warpi Free VPN.apk
 `vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=DiprOX.pages.DEV&fp=chrome&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#***🚀***configraygan`
 vless://d2248d81-2dc1-400b-ad79-59c05a5ed0ae@s1.sohrab172.ir:2089?type=tcp&encryption=none&path=%2F&headerType=http&security=none#configraygan
 vless://c22a48ae-9954-45f9-9bf4-5093c655f25e@91.98.91.239:54382?security=reality&encryption=none&pbk=ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM&headerType=none&fp=firefox&type=tcp&sni=www.filimo.com&sid=f4#configraygan
-
----
-
-### 🕒 2026-02-10 08:05:13 UTC
-بریم بزاریم لذتشو ببرید
-
----
-
-### 🕒 2026-02-10 08:05:05 UTC
-**امروز یه کانفیگ هایی اماده کردم براتون، عسله لامصب **
-**🚀**
-**🚀**
-**🚀**
-
----
-
-### 🕒 2026-02-10 08:03:23 UTC
-دارم دونه دونه مشکلات همه رو حل میکنم . فیلترشکن که دارید ، طلا و نقره رو هم برای همیشه کنترل کردم .
-
----
-
-### 🕒 2026-02-10 07:41:50 UTC
-**بریم برای پخت و پز امروز....**
-
----
-
-### 🕒 2026-02-10 07:41:23 UTC
-**جدیدا قیمت خونه ها رو تو دیوار چک کردین؟ **
-خونه چقدر گرون شده،  الان دیوار رو چک کردم، از سال پیش یه خونه بود گذاشته بودنش متری 44 میلیون،  الان شبیه همون شده متری 75.همون منطقه.
-
----
-
-### 🕒 2026-02-10 07:38:37 UTC
-**سیم کارت های ایرانسلی که به دلیل بدهی دیروز به گفته خودشون قطع شده بود، بعد از 24 ساعت وصل شد. خداروشکر سیمکارت منم واس خاطر همین بوده و دلیل دیگه ای نداشته.**
-
----
-
-### 🕒 2026-02-10 07:37:04 UTC
-***🚘***
- 
-**قیمت جدید محصولات ایران‌خودرو اعلام شد**
-
----
-
-### 🕒 2026-02-10 07:35:20 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/configraygan)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/configraygan)
-[https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=167.233.12.181&port=443&secret=ProxyQavi____Proxymelg](https://t.me/proxy?server=167.233.12.181&port=443&secret=ProxyQavi____Proxymelg)
-[https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=172.65.103.110&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=172.65.103.110&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=unknow-proxy.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=unknow-proxy.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ](https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ)
-[https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Hamrah.mci.ir.the-bests-servers.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Hamrah.mci.ir.the-bests-servers.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Home.ir.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Home.ir.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=internal-proxy.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=internal-proxy.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=www.sah-9p.info.&port=80&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.sah-9p.info.&port=80&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=safe-proxy.be-name-allah.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=safe-proxy.be-name-allah.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Ey-to.ir.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Ey-to.ir.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Qavi.Baryc6w.co.uk&port=443&secret=ProxyQavi____Proxymelg](https://t.me/proxy?server=Qavi.Baryc6w.co.uk&port=443&secret=ProxyQavi____Proxymelg)
-[https://t.me/proxy?server=88.198.89.121&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=88.198.89.121&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-[https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-[https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-10 07:32:50 UTC
-صبحتون بخیر 
-***🖤***
-***🖤***
-***🖤***
-***🖤***
-***🖤***
 
 ---
 

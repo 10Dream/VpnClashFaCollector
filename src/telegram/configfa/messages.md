@@ -1,5 +1,18 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-12 01:09:33 UTC
+بروزرسانی: 2026-02-12 10:37:19 UTC
+
+### 🕒 2026-02-12 01:10:54 UTC
+> ↪️ **Forwarded**
+
+همراه اول وصل بقیه اپراتور ها تست کنید 
+***✅***
+***✨***
+trojan://ey0YnM2wKw@162.159.36.115:443?security=tls&sni=www-holand-cc-2.ammirkbbir.site.&alpn=h2%2Chttp%2F1.1&type=grpc&authority=&serviceName=www-holand-cc-2.ammirkbbir.site.&mode=multi#C4%20%3A%20%40Xvpnplus_bot%20%7C%20MCI%20%E2%9C%85
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+
+---
 
 ### 🕒 2026-02-11 17:35:11 UTC
 > ↪️ **Forwarded**

@@ -1,5 +1,77 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-12 01:07:49 UTC
+بروزرسانی: 2026-02-12 10:35:25 UTC
+
+### 🕒 2026-02-12 10:30:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`23`
+Secret: 
+`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 09:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 08:30:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 07:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`8443`
+Secret: 
+`eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 06:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`8443`
+Secret: 
+`3XnnAQIAAQAH8AMDhuJMOt0=`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 05:30:01 UTC
+Server: 
+`77.93.136.252`
+ 
+Port: 
+`88888`
+Secret: 
+`dd10400103324995b07c030386e886e7f1`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-11 20:28:02 UTC
 Server: 
@@ -377,65 +449,6 @@ Port:
 `8443`
 Secret: 
 `3XnnAQIAAQAH8AMDhuJMOt0=`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 10:30:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`23`
-Secret: 
-`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 09:30:01 UTC
-Server: 
-`mac.gamesea.app.`
- 
-Port: 
-`41014`
-Secret: 
-`7nnjRIGHSb16xRkTAiDCXQlhcHAuemlnYXAuaXI=`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 08:30:02 UTC
-Server: 
-`android.gq.the-bests-servers.info`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 06:36:21 UTC
-Server: 
-`Unknown`
-Port: 
-`443`
-Secret: 
-`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 05:30:01 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

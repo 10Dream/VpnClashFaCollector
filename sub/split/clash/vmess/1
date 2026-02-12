@@ -478,9 +478,11 @@ proxies:
   - {name: "@Vpn_Tehran 🤍 تلگرام", server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee😊", server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ♻️29@oneclickvpnkeys, server: 91.134.8.101, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws}, udp: true, tfo: false}
   - {name: "@vpnbaz 🛡️", server: 91.206.171.169, port: 8080, type: vmess, uuid: 606907df-990c-4455-85af-bd6793f81b2e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee🤑", server: 95.217.25.69, port: 42152, type: vmess, uuid: 018f4459-056e-4c41-90ce-12cbc2c670b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: 95.217.25.69, port: 42152, type: vmess, uuid: 018f4459-056e-4c41-90ce-12cbc2c670b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "XX | VMESS | @@configraygan #1", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🔥 تلگرام 2", server: 147.135.211.61, port: 8080, type: vmess, uuid: cdc27880-ac2b-591f-b677-fcb02fcb428a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,7 +493,6 @@ proxies:
   - {name: 43, server: 20.193.153.19, port: 15834, type: vmess, uuid: 39a8c374-76b1-4e90-ab85-85cd9a42ded2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-IR", server: adelmeli.com, port: 80, type: vmess, uuid: 89e25562-d0f1-4f54-8afb-6ee374e30fbb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: adelmeli.com}}, udp: true, tfo: false}
   - {name: "@confograygan 167", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 31701b5d-ca95-92f9-d684-dae3706161ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan x04, server: pq-Hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -521,9 +522,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -534,7 +537,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -554,9 +556,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -567,7 +571,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -587,9 +590,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -600,7 +605,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -629,9 +633,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -642,7 +648,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -662,9 +667,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -675,7 +682,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -695,9 +701,11 @@ proxy-groups:
       - "@Vpn_Tehran 🤍 تلگرام"
       - "@proxy_kafee"
       - "@proxy_kafee😊"
+      - 🇳🇱 [openproxylist.com] vmess-NL
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
       - ♻️29@oneclickvpnkeys
       - "@vpnbaz 🛡️"
+      - "@proxy_kafee🤑"
       - "@proxy_kafee 2"
       - "XX | VMESS | @@configraygan #1"
       - "@Vpn_Tehran 🔥 تلگرام 2"
@@ -708,7 +716,6 @@ proxy-groups:
       - 43
       - "[openproxylist.com] vmess-IR"
       - "@confograygan 167"
-      - configraygan x04
   - name: دانلود منیجر 📥
     type: select
     proxies:

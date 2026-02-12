@@ -1,5 +1,15 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-12 01:09:08 UTC
+بروزرسانی: 2026-02-12 10:36:52 UTC
+
+### 🕒 2026-02-12 08:56:29 UTC
+سرور ویتوری 
+vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.18.185.26:2053?path=%2F&security=tls&encryption=none&insecure=1&host=ir1.airpanel.top&type=ws&allowInsecure=1&sni=ir1.airpanel.top#%40vpnbaz%20%F0%9F%8E%AF
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%40vpnbaz%20%F0%9F%90%8D
+vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJAdnBuYmF6IPCfjoAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI5NS4yMTYuMTgzLjExMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjQyMTUyIiwicHMiOiJAdnBuYmF6IPCfjLUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-11 22:12:25 UTC
 ***⚫️***

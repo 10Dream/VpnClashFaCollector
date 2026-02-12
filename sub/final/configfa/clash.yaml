@@ -466,6 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "Telegram: @wiki_tajrobe", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
+  - {name: "C4 : @Xvpnplus_bot | MCI ✅", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: paqet-test., server: ir.powersport.forum, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0097fd86-4719-47f8-a006-58a877921986, host: ir.powersport.forum, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 2", server: 37.202.226.46, port: 20263, type: vless, tls: true, packet-encoding: xudp, uuid: 6ee16703-e23c-4247-b3fb-a5547e549089, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 3", server: de3c.buzzon.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bddcb397-6f52-458e-9937-dfbf69db1e48, servername: de3c.buzzon.shop, alpn: [http%2F1.1], network: ws, ws-opts: {path: /sy5RZsmo3iYVIROnda, headers: {Host: de3c.buzzon.shop}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -486,6 +487,7 @@ proxy-groups:
     type: select
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
@@ -496,6 +498,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
@@ -506,6 +509,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
@@ -525,6 +529,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
@@ -535,6 +540,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
@@ -545,6 +551,7 @@ proxy-groups:
     interval: 600
     proxies:
       - "Telegram: @wiki_tajrobe"
+      - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"

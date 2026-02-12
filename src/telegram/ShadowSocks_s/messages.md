@@ -1,5 +1,54 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-12 01:08:42 UTC
+بروزرسانی: 2026-02-12 10:36:23 UTC
+
+### 🕒 2026-02-12 10:17:20 UTC
+`vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#https://t.me/ConfigX2rayvless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#https://t.me/ConfigX2ray`
+
+---
+
+### 🕒 2026-02-12 08:46:37 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-12 07:27:28 UTC
+[https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-12 07:27:13 UTC
+[https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=91.107.175.31&port=11&secret=EERighJJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.107.175.31&port=11&secret=EERighJJvXrFGRMCIMJdCQ)
+[t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949](http://t.me/proxy?server=185.130.113.138&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949)
+[tg://proxy?server=84.201.175.61&port=443&secret=eead24ce88888cf6231e908ca911628e](tg://proxy?server=84.201.175.61&port=443&secret=eead24ce88888cf6231e908ca911628e)
+[http://t.me/proxy?server=90.156.213.38&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949](http://t.me/proxy?server=90.156.213.38&port=443&secret=dd6b3fb02424dbac55fef2da67c8c949)
+[http://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275](http://t.me/proxy?server=proxy-dag.ru&port=443&secret=ee94fc2b484af6e1e1c87e6576b33c257579612e7275)
+
+---
+
+### 🕒 2026-02-12 01:12:13 UTC
+> ↪️ **Forwarded**
+
+**ماجرای مجسمه‌ای که جمهوری اسلامی امروز در راهپیمایی ۲۲ بهمن آتش زد، تبدیل شده به یکی از عجیب‌ترین حاشیه‌های فضای مجازی!**
+سوزوندن مجسمه‌ای به شکل «بعل» (Baal)، همون بت باستانی که تو روایات دینی نماد شرک، شیطان‌پرستی و حتی قربانی انسان (به‌خصوص بچه‌ها) بوده.
+ماجرا از این قراره: تو مسیر راهپیمایی تو تهران، جمهوری اسلامی یه مجسمه بزرگ گاوی‌شکل با شاخ‌های بلند ساخته و گذاشته، روش نوشته «Baal»، ستاره داوود (نماد اسرائیل)، عدد ۶۶۶، پرچم اسرائیل. مجسمه رو وسط جمعیت گذاشتن، عرازشه دورش جمع شدن، شعار «مرگ بر اسرائیل» و «مرگ بر آمریکا» دادن، بعد با بنزین و آتش زدنش به خاکستر تبدیل کردن.
+**حالا چرا اینقدر صدا کرده؟**
+برخی معتقدن مجسمه‌ای که امروز عرازشه آتش زدن یک سری طلسم، جادو و حرکات شیطانی پشتشه برای اینکه جمهوری اسلامی بیشتر سرکار بمونه! حتی چندسال. [توضیحات در دو توییت در تصاویر]
+ از طرف دیگه، یه ویدیوی قدیمی از مرحوم روح‌الله زم دوباره وایرال شده که توش درباره «طلسم» و «جادو» در ساختار جمهوری اسلامی افشاگری می‌کنه.
+اون زمان خیلی‌ها جدی نگرفتن و حتی مسخره‌اش می‌کردن؛ اما گویا هر چی میره جلوتر حرفاش داره بیشتر ثابت میشه!
+برخی میگن مجسمه قاسم سلیمانی و سازه‌های دیگه رو دیدیم چطور سرهم‌بندی و عجیب ساختن؛
+بعد حالا مجسمه‌ای که قرار بوده آتش بزنن رو چرا این‌همه دقیق و باجزئیات درآوردن؟ تصادفی نیست! 
+**❤️**
+**📰**
+** **
+[@IraneAzad_News](https://t.me/IraneAzad_News)
+
+---
 
 ### 🕒 2026-02-11 20:56:33 UTC
 [https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
@@ -363,25 +412,6 @@ KHABAR
 ***🗿***
 ***🗿***
 ***🗿***
-
----
-
-### 🕒 2026-02-10 07:56:02 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-10 06:33:09 UTC
-`vless://6e3d0d72-61d5-42c7-bb01-da2baee6540b@185.208.79.219:443?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#NetAccountvless://a13df940-020c-465f-bc89-ee5279b5cd6a@103.169.142.121:443?security=tls&sni=jpf.ylks01.eu.org&type=ws&path=%2Fblue#NetAccountvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.26.2.65:80?security=none&type=ws&host=us3.rtacg.com&path=/#NetAccountvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@104.18.32.47:8443?encryption=none&security=tls&sni=ovhwuxian.pai50288.uk&fp=chrome&insecure=1&type=ws&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#NetAccountvless://43c09824-e7fb-4b23-ae1e-8d26e6004de0@154.219.5.129:443?security=tls&sni=MOJ.Bklink.IR&type=grpc&serviceName=Telegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER%2Ctelegram-NUFiLTER&fp=chrome&alpn=http/1.1#NetAccount`
-
----
-
-### 🕒 2026-02-10 06:32:55 UTC
-[https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=log.romanssystem.store&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=log.romanssystem.store&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=95.179.211.47&port=80&secret=DD79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=95.179.211.47&port=80&secret=DD79e344818749bd7ac519130220c25d09)
 
 ---
 

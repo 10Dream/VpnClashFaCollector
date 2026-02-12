@@ -1,5 +1,57 @@
 # آرشیو کانال: @MARAMBASHI
-بروزرسانی: 2026-02-12 01:07:21 UTC
+بروزرسانی: 2026-02-12 10:34:54 UTC
+
+### 🕒 2026-02-12 07:57:12 UTC
+**فرو**
+ش سرور 
+***🔐***
+***🔐***
+ تانل
+لوکیشن  
+***🇩🇪***
+***🇳🇱***
+***🇫🇮***
+**  بدون قطعی **
+**✅**
+**پشتیبانی ۲۴ ساعته **
+**🟢**
+**همه اپراتورا**
+**🛜**
+**🛜**
+**🛜**
+**🛜**
+**🛜**
+**برای ایفون**
+**🍏**
+**اندروید**
+**🤖**
+**ویندوز**
+**💻**
+****
+**✅**
+**20 گیگ  80 تک کاربر**
+**✅**
+**30 گیگ 110 تک کاربر**
+**✅**
+**50 گیگ 150  تک کاربر**
+**✅**
+**20 گیگ  140 دو و سه کاربر**
+**✅**
+**30 گیگ 170   دو و سه کاربر**
+**✅**
+**50 گیگ 240   دو و سه کاربرتست رایگان بگیر بعدا بخر**
+**✅**
+****
+**🟢**
+**برای خرید به به پیوی مراجعه کنید**
+***🟢***
+***👩‍💻***
+ 
+[@CHOQONI](https://t.me/CHOQONI)
+ 
+***👩‍💻***
+
+---
 
 ### 🕒 2026-02-11 22:31:14 UTC
 ***🌊***
@@ -238,37 +290,6 @@
 ***🍏***
 [لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
 ***🍏***
-***🔐***
-[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
-***🔐***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-10 10:02:40 UTC
-***🔶***
-کانفیگ ویتوری همه اپراتورا
-***🔶***
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSUxQVDhuOHA5WVZWbDBvSnp5dWM3@62.133.63.21:65262#%40MARAMBASHI%20%F0%9F%90%B3ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#%40MARAMBASHI%20%F0%9F%92%99vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbs#%40MARAMBASHI%20%F0%9F%92%99vless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%40MARAMBASHI%20%F0%9F%92%99vless://c22a48ae-9954-45f9-9bf4-5093c655f25e@91.98.91.239:54382?security=reality&encryption=none&pbk=ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=www.filimo.com&sid=f4#%40MARAMBASHI%20%F0%9F%92%99vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#%40MARAMBASHI%20%F0%9F%92%99vless://a2368c08-527f-4af6-855a-1dc6e42fad35@188.114.98.0:2086?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=&encryption=none&host=nigclone.narkhesanj.ir&type=httpupgrade#%40MARAMBASHI%20%F0%9F%92%9C`
-منطقه ای
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***📶***
-همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
-[آموزش](https://t.me/MARAMBASHI/31359)
-)
-***🛜***
-***🛜***
-***🔶***
-[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
-***🔶***
 ***🔐***
 [برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
 ***🔐***

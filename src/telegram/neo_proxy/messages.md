@@ -1,57 +1,34 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-12 01:10:43 UTC
+بروزرسانی: 2026-02-12 10:38:36 UTC
 
-### 🕒 2026-02-12 01:06:09 UTC
-[**تمام پیشگویی‌ سیمپسون ها بدون سانسور**](https://t.me/+dQczfOVnNophNTg0)
+### 🕒 2026-02-12 09:30:25 UTC
+پاهام رو تند تکون میدم، پوست لب‌هام رو عمیق میکنم، ساعت‌های طولانی میخوابم، به نقطه‌ نامشخص مدت‌ها خیره میشم، زمان زیادی سکوت میکنم و تکون نمیخورم چون من اهل خاورمیانه‌ام :)
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
-***🚫***
-***🎥***
-
----
-
-### 🕒 2026-02-12 01:01:07 UTC
-***🔴***
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
-[**پیش‌بینی‌ عجیب سیمپسون ها از آینده روابط ایران و آمریکا!!**](https://t.me/+dQczfOVnNophNTg0)
- 
-***😱***
-
----
-
-### 🕒 2026-02-12 00:56:39 UTC
-[**آیا جنگ بین ایران و اسرائیل منجر به جنگ جهانی سوم میشود**](https://t.me/+dQczfOVnNophNTg0)
-***⁉️***
-
----
-
-### 🕒 2026-02-12 00:51:37 UTC
-[**پیشبینی جدید و عجیب سیمپسون ها از سرانجام جنگ ایران و اسرائیل**](https://t.me/+dQczfOVnNophNTg0)
- 
-***‼️***
-
----
-
-### 🕒 2026-02-12 00:46:04 UTC
-وای پزشکیان رو هم گفته 
-***😳***
-
----
-
-### 🕒 2026-02-12 00:41:03 UTC
-بعد از مرگ‌ ابراهیم رئیسی و پیشگویی های عجیب سیمپسونها بشدت دنبال سری کامل این مجموعه بودم که ببینیم دیگه قراره چه اتفاقی تو ایران بیافته...  تا اینکه دیدم اینجا همه رو بدون سانسور گذاشته
-***👇***
- 
-***🎥***
- @SimpSons
-
----
-
-### 🕒 2026-02-12 00:36:31 UTC
-**بعد از مرگ‌ ابراهیم رئیسی و پیشگویی های عجیب سیمپسونها بشدت دنبال سری کامل این مجموعه بودم که ببینیم دیگه قراره چه اتفاقی تو ایران بیافته...**
-تا اینکه دیدم اینجا همه رو بدون سانسور گذاشته
-***👇***
-***🎥***
-[ @SimpSons](https://t.me/+dQczfOVnNophNTg0)
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 
@@ -322,38 +299,6 @@
 ***👇🏻***
 [https://hamkadeh.com/landings/M9X2L](https://hamkadeh.com/landings/M9X2L)
 [https://hamkadeh.com/landings/M9X2L](https://hamkadeh.com/landings/M9X2L)
-
----
-
-### 🕒 2026-02-10 10:03:26 UTC
-چون میگذره غمی نیست
-ولی تا بگذره هم درد کمی نیست...
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 

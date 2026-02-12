@@ -1,5 +1,69 @@
 # آرشیو کانال: @Express_freevpn
-بروزرسانی: 2026-02-12 01:06:52 UTC
+بروزرسانی: 2026-02-12 10:34:22 UTC
+
+### 🕒 2026-02-12 08:32:32 UTC
+***➖***
+ 
+**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
+               ⌬⌬
+** **
+[**#V2RAY**‌**SERVER**](?q=%23V2RAY%E2%80%8CSERVER)
+ ⌬⌬
+ 
+◎ 
+**همه ی اپراتور ها**
+**◌ حجم نامحدود**
+◍ 
+**زمان نامشخص**
+ 
+◉ 
+**اختصاصی کانال**
+`vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@212.34.142.191:8443?security=reality&encryption=none&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=f7aa9e61197d3ac6#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?security=reality&encryption=none&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1a24af87#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://639355ae-d9ef-4470-aa8a-8154f637cf52@wolfa21.timevip.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%90%A6%E2%80%8D%F0%9F%94%A5%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9`
+[#نت_ملی](?q=%23%D9%86%D8%AA_%D9%85%D9%84%DB%8C)
+ 
+[#اینترنت_آزاد](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF)
+ 
+[#ملی](?q=%23%D9%85%D9%84%DB%8C)
+ 
+[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+ 
+[#فیلترشکن](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86)
+**▦ برنامه اندروید**
+ 
+[**V2rayng**](https://t.me/Express_freevpn/26923)
+ | 
+[**v2RayTun**](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+| 
+[**Happ**](https://play.google.com/store/apps/details?id=com.happproxy)
+**▦ برنامه آیفون**
+ 
+[**Happvpn**](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone)
+ | 
+[**Hiddify**](https://share.google/ngfn0hnVT8F3mrcwO)
+**▦ برای مک بوک**
+ 
+[**FoXray**](https://apps.apple.com/us/app/foxray/id6448898396)
+ | 
+[**V2box**](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
+**▦ برنامه ویندو‌ز**
+ 
+[**Happ**](https://github.com/Happ-proxy/happ-desktop/releases/download/untagged-95f2c68a69188bf66003/Happ.win.x86.7z)
+** | **
+[**Hiddify**](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
+ 
+***📽***
+** **
+[**آموزش فعال کردن Mux برای اتصال بهتر در اندروید**](https://t.me/Express_freevpn/13636)
+هـ
+**✜ ✜ برای خرید کانفیگ اختصاصی و پرسرعت به آیدی زیر پیام بدین ✓ ↓**
+[**@Express_freevpn_admin**](https://t.me/Express_freevpn_admin)
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ↓
+⌯ 
+[𝐓.𝐦𝐞/𝐄𝐱𝐩𝐫𝐞𝐬𝐬_𝐟𝐫𝐞𝐞𝐯𝐩𝐧](https://t.me/Express_freevpn)
+ | 
+[𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩](https://t.me/Express_freevpngroup)
+
+---
 
 ### 🕒 2026-02-11 21:21:20 UTC
 ***➖***
@@ -602,94 +666,6 @@ BPR13-DLWXR-GLUQD-PXALW
 [@Express_freevpn](https://t.me/Express_freevpn)
  
 ***🚀***
-
----
-
-### 🕒 2026-02-10 09:45:30 UTC
-اگه از قطع‌ و وصلی و کندی خسته شدی
-***😞***
-  وقتشه یه سرویس حرفه‌ای داشته باشی
-***🔝***
-  لوکیشن های المان
-***🇩🇪***
- سوئد
-***🇸🇪***
- فرانسه
-***🇫🇷***
- 
-***⚡***
- اتصال پایدار و سریع 
-***🛡️***
- امنیت بالا برای استفاده روزمره و کارهای حساس 
-***📱***
- قابل استفاده روی موبایل و لپ‌تاپ 
-***💬***
- پشتیبانی پاسخگو  
-***🎁***
- همین الان تهیه کن و تفاوت…
-
----
-
-### 🕒 2026-02-10 09:16:18 UTC
-***➖***
- 
-**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
-               ⌬⌬
-** **
-[**#V2RAY**‌**SERVER**](?q=%23V2RAY%E2%80%8CSERVER)
- ⌬⌬
- 
-◎ 
-**همه ی اپراتور ها**
-**◌ حجم نامحدود**
-◍ 
-**زمان نامشخص**
- 
-◉ 
-**اختصاصی کانال**
-`trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://d7c862e5-e507-4dc8-8506-43d5d9de7387@188.114.98.0:2053?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=1&host=azrping.melishekan.site&fp=chrome&type=ws&allowInsecure=1&sni=AzRPiNG1.mEliSHeKaN.SItE#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJbnYxMTRkcDJ6azlaYllGUHBkUWY0@31.3.209.106:46551#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://93741b49-1a11-4882-b02f-10fb78bf0d22@usa69.openbypass.org:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=usa69.openbypass.org#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9B%B8%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9`
-[#نت_ملی](?q=%23%D9%86%D8%AA_%D9%85%D9%84%DB%8C)
- 
-[#اینترنت_آزاد](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF)
- 
-[#ملی](?q=%23%D9%85%D9%84%DB%8C)
- 
-[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
- 
-[#فیلترشکن](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86)
-**▦ برنامه اندروید**
- 
-[**V2rayng**](https://t.me/Express_freevpn/26923)
- | 
-[**v2RayTun**](https://play.google.com/store/apps/details?id=com.v2raytun.android)
-| 
-[**Happ**](https://play.google.com/store/apps/details?id=com.happproxy)
-**▦ برنامه آیفون**
- 
-[**Happvpn**](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone)
- | 
-[**Hiddify**](https://share.google/ngfn0hnVT8F3mrcwO)
-**▦ برای مک بوک**
- 
-[**FoXray**](https://apps.apple.com/us/app/foxray/id6448898396)
- | 
-[**V2box**](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
-**▦ برنامه ویندو‌ز**
- 
-[**Happ**](https://github.com/Happ-proxy/happ-desktop/releases/download/untagged-95f2c68a69188bf66003/Happ.win.x86.7z)
-** | **
-[**Hiddify**](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
- 
-***📽***
-** **
-[**آموزش فعال کردن Mux برای اتصال بهتر در اندروید**](https://t.me/Express_freevpn/13636)
-**✜ ✜ برای خرید کانفیگ اختصاصی و پرسرعت به آیدی زیر پیام بدین ✓ ↓**
-[**@Express_freevpn_admin**](https://t.me/Express_freevpn_admin)
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ↓
-⌯ 
-[𝐓.𝐦𝐞/𝐄𝐱𝐩𝐫𝐞𝐬𝐬_𝐟𝐫𝐞𝐞𝐯𝐩𝐧](https://t.me/Express_freevpn)
- | 
-[𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩](https://t.me/Express_freevpngroup)
 
 ---
 
