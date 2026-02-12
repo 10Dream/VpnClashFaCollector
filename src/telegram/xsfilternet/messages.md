@@ -1,5 +1,24 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-12 10:40:06 UTC
+بروزرسانی: 2026-02-12 20:29:24 UTC
+
+### 🕒 2026-02-12 20:29:11 UTC
+به زودی 
+[#آموزش](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4)
+ متنی ترکیب cdn و ورکر رو میزارم تا پینگ تایم و محدودیت های توییتر و هوش مصنوعق براتون برداشته شه و 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ رایگان و پرسرعت داشته باشید این روش به کمک هوش مصنوعی پیدا شده!
+***☯️***
+***🥶***
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-12 17:57:20 UTC
+nm-vmess://CrxEwJ+XYqYOYI7sX2wn0diL5eaR8L698Ta4jNiIWGTvvX8lUshY3hTel8w+Ak/gEHAObpQQnP8ZNtk8FmDY3XPNQ9IwM8FCfOFPzbRSmlTS60O5uL6Xr+1OgQiD3diXDG2Za+orgJlXixPeCq2gAZ3Y31qxTlBqZMN3ysjTQghn9L0DgwSTfA3616NJshJEgvaqf5Je/iY2j0I8aCyVhtR/cpC+UgijXyB+u2MMOUx4a/kinyk4uxfdgbYcMNAHHCY8yTU/F9u4f2OP7yD/UQ9EobinkyexZIJLkxcvRN8frRdeQ9asB/6fW84WxQZY7Mb5nZvy/zBisTOFMdALag==
+نت مود
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-12 09:27:12 UTC
 vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#viranet%20%26%20%40dicodeir
@@ -111,103 +130,6 @@ vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&e
 [defyxvpn.com/download](http://defyxvpn.com/download)
 [@xsfilternet](https://t.me/xsfilternet)
 [@ircfspace](https://t.me/ircfspace)
-
----
-
-### 🕒 2026-02-10 20:21:28 UTC
-فایل دستورات لازم برای ساخت پنل رایگان su-i
-[فیلم آموزش ساخت پنل ***👉***](https://t.me/xsfilternet/2339)
-**👉**
-[**لینک سایت جهت ثبت نام **](https://run.claw.cloud/)
-***👉***
-***👉***
-[**لینک آموزش در یوتیوب 👉 ✅ **](https://youtu.be/I9qaILLt4c8?si=Nz6Yyhhssz2lKxRh)
-[@xsfilternet](https://t.me/xsfilternet)
-***❤️***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 20:21:28 UTC
-ساخت پنل su-i بصورت کاملا رایگان(کانفیگ 
-[#رایگان](?q=%23%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-)
-***🔥***
-***🥶***
-با فیلتر روشن حتماً انجام بدین .
-[**لینک آموزش در یوتیوب 👉 ✅ **](https://youtu.be/I9qaILLt4c8?si=Nz6Yyhhssz2lKxRh)
-[**لینک سایت کلود اصلی 👉**](https://run.claw.cloud/)
-**👉**
-[**لینک دستورات لازم 👉**](https://xiaohekeji.blogspot.com/2025/11/blog-post_27.html?m=1)
-**👉**
-***✅***
- همچنین فایل دستورات هم در زیر همین پست قرار میگیرد .
-آموزش توسط علی جان عزیز درست شده 
-با گوشی هم میتونید انجام بدین .
-با چند دقیقه وقت گذاشتن راحت برای خودتون کانفیگ بسازین داخل پنل خودتون و حتی برای 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- ها حجم و زمان هم تعیین کنید .
-چی از این بهتر دیگه چی میخواین ، فقط درست مطابق آموزش انجام بدین .
-***💚***
- اشتراک گذاری یادتون نره 
-***❤️***
-...
-[@xsfilternet](https://t.me/xsfilternet)
- 
-***💚***
-[@Shap2_Berother](https://t.me/Shap2_Berother)
- 
-***✅***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 17:20:33 UTC
-نسخه ۳ #هیدیفای در گوگل پلی قرار گرفته اگر واستون آپدیت نیومده قسمت پایین گوگل پلی بتا جوین که بزنید آپدیت براتون منتشر میشه!  لینک گوگل پلی:
-***🥶***
-***🔥***
- https://play.google.com/store/apps/details?id=app.hiddify.com    @xsfilternet
-
----
-
-### 🕒 2026-02-10 14:41:58 UTC
-بر اساس آزمایش های اپلیکیشن GNet Proxy که آخرین نسخه اون 1.0.4 در گیت هاب هست (بدون آپدیت جدید)، این اپلیکیشن روی اتصالات زیر اتصال VPN شما رو Share می‌کنه:  
-Hotspot
-Wifi (مودم مشترک)
-USB Tethering
-Router (روتر های پیشرفته)
-از اندروید 6 تا 16 بر اساس تست گوگل نصب میشه.
-بدون نیاز به دسترسی به موبایل یا بدون نیاز به روت بودن.
-[https://github.com/code3-dev/GNet/releases/tag/v1.0.4](https://github.com/code3-dev/GNet/releases/tag/v1.0.4)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-10 14:06:05 UTC
-نسخه ۳ 
-[#هیدیفای](?q=%23%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C)
- در گوگل پلی قرار گرفته اگر واستون آپدیت نیومده قسمت پایین گوگل پلی بتا جوین که بزنید آپدیت براتون منتشر میشه!
-لینک گوگل پلی:
-***🥶***
-***🔥***
-[https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
-[@xsfilternet](https://t.me/xsfilternet)
 
 ---
 

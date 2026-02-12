@@ -1,5 +1,17 @@
 # آرشیو کانال: @AzadNet
-بروزرسانی: 2026-02-12 10:34:07 UTC
+بروزرسانی: 2026-02-12 20:23:28 UTC
+
+### 🕒 2026-02-12 12:51:31 UTC
+`vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=yahoo.com#AzadNet-1vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=www.wikipedia.com#AzadNet-2vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=www.speedtest.com#AzadNet-3vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=soft98.ir#AzadNet-4`
+ کانفیگ های اختصاصی آزادنت
+تست شده بروی ایران فروش، رایتل
+برای مخابرات فرگمنت روشن کنید
+[#اینترنت_آزاد](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF)
+ 
+[#حق_همگان](?q=%23%D8%AD%D9%82_%D9%87%D9%85%DA%AF%D8%A7%D9%86)
+[@Azadnet](https://t.me/Azadnet)
+
+---
 
 ### 🕒 2026-02-11 19:50:25 UTC
 فایل را دانلود کنید.
@@ -124,13 +136,6 @@ vless://c82e532b-4569-45ef-afbf-c427a728c4ac@l4m5usjr4x5.ab05ij.starwayvpn.com:4
 [#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
  
 [#فیلترنت](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D9%86%D8%AA)
-
----
-
-### 🕒 2026-02-10 17:42:32 UTC
-فردا 22 بهمن است. به همین مناسبت:
-**مرگ بر جمهوری اسلامی و اصلاح‌طلبانش.**
-**نابود باد آخوند و حکومت مذهبی.**
 
 ---
 

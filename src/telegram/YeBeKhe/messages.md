@@ -1,5 +1,97 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-12 10:36:49 UTC
+بروزرسانی: 2026-02-12 20:26:05 UTC
+
+### 🕒 2026-02-12 19:04:12 UTC
+قسمت جدید کمدی های ج‌ا منتشر شد.
+
+---
+
+### 🕒 2026-02-12 18:27:48 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان دلاورم در ایران،
+شما با گردهمایی‌های‌تان در گرامی‌داشت یاد جاویدنامان، با شعارهای شبانه، و با دیوارنویسی‌های شجاعانه نشان داده‌اید که جمهوری اسلامی با کشتار وحشیانه نیز نتوانسته در اراده شما برای بازپس‌گیری ایران خللی وارد کند.
+بیست‌وپنجم بهمن، در «روز جهانی اقدام» ایرانیان خارج از کشور بار دیگر به خیابان‌ها می‌آیند تا صدای ملت بزرگ و متحد ایران را به گوش جهانیان برسانند و حمایت بین‌المللی گسترده‌تری برای انقلاب شیروخورشید ایران جلب کنند.
+در همین راستا، من از شما دعوت می‌کنم در روزهای ۲۵ و ۲۶ بهمن، ساعت ۸ شب، از خانه‌ها و پشت‌بام‌ها با سردادن شعار، صدای خود را بلند کنید؛ خواست خود را فریاد بزنید و اتحاد خود را به نمایش بگذارید.
+ما با اراده‌ای شکست‌ناپذیر بر این رژیم ضحاکی پیروز خواهیم شد.
+پیمان من با شما این است که تا پیروزی نهایی همراه شما بمانم.
+پاینده ایران،
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
+
+### 🕒 2026-02-12 16:36:42 UTC
+> ↪️ **Forwarded**
+
+در هر لحظه از این روزهای دشوار، اندوه مادران، پدران، خواهران، برادران و دوستان قربانیان و زخمی‌شدگان حوادث اخیر ایران با من بوده است. از صمیم قلب و با تمام وجود، خود را شریک غم و رنج آنان می‌دانم و برای تمامی مجروحان شفای عاجل و بازگشت به آغوش خانواده‌هایشان را آرزو 
+می‌کنم.
+هرگز فراموش نمی‌کنم که هزاران نفر از فرزندان این سرزمین همچنان در زندان‌ها به سر می‌برند و در رنج و بی‌عدالتی روزگار می‌گذرانند. اندیشه آنان نیز پیوسته با من است.
+گرچه دور از وطن و دور از شما هستم، اما به هر یک از ایرانیان آزادی‌خواه که با شجاعت و امید برای آینده‌ای روشن ایستادگی می‌کنند، افتخار می‌کنم. ایمان دارم که نور بر تاریکی پیروز خواهد شد و ایران ما روزی نه چندان دور به آزادی آرامش و سربلندی خواهد رسید.
+فرح پهلوی
+
+---
+
+### 🕒 2026-02-12 16:30:59 UTC
+Telegram Proxy   https://t.me/proxyahb?server=ttl.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D  https://t.me/proxyahb?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D  https://t.me/proxyahb?server=main.geodns.info.&port=4455&…
+
+---
+
+### 🕒 2026-02-12 16:30:51 UTC
+Telegram Proxy 
+[https://t.me/proxyahb?server=ttl.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D](https://t.me/proxyahb?server=ttl.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D)
+[https://t.me/proxyahb?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D](https://t.me/proxyahb?server=ui.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D)
+[https://t.me/proxyahb?server=main.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D](https://t.me/proxyahb?server=main.geodns.info.&port=4455&secret=7nnjRIGHSb16xRkTAiDCXQk%3D)
+[https://t.me/proxyahb?server=65.109.217.21&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxyahb?server=65.109.217.21&port=443&secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxyahb?server=web.revised-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxyahb?server=web.revised-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxyahb?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxyahb?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-12 16:30:51 UTC
+V2rayNg Hiddify Karing Happ 
+`vless://7d3a8052-09ee-48f7-8a19-3e24f30a7da1@104.27.25.72:443?path=%2FuqBYRQhpA2NzSIhejwuqjz%23&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=de001c.ketabv.ir&fp=chrome&type=ws&allowInsecure=0&sni=de001c.ketabv.irss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg@209.126.5.209:443ss://YWVzLTI1Ni1nY206a0VWS2oxeHZnemVFbjhBVg@209.126.5.209:80ss://YWVzLTI1Ni1nY206eVdJeXVxM0hjMndsc3YwaQ@155.138.158.179:80ss://YWVzLTI1Ni1nY206eVdJeXVxM0hjMndsc3YwaQ@155.138.158.179:443ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:443ss://YWVzLTI1Ni1nY206MHRXd09FcnF6NWZORWxpZA@62.146.172.134:80vless://dfe27fc3-cd77-447d-8845-d3b0c22d25f7@192.200.160.20:443?path=%2Fjoiiqpws%3Fed&security=tls&encryption=none&alpn=http/1.1&host=639065083944524400.mustang-perma.info&type=ws&sni=639065083944524400.mustang-perma.infovless://5e0c0c2a-d600-4dc8-9621-d293e935048d@192.200.160.20:443?path=%2Fhuwmciws%3Fed&security=tls&encryption=none&alpn=http/1.1&host=639065083958163454.corolla-perma.info&type=ws&sni=639065083958163454.corolla-perma.infovless://573e147f-c502-486f-b823-bafa0dd3c6c5@192.200.160.20:443?path=%2Fbzszqqws%3Fed&security=tls&encryption=none&alpn=http/1.1&host=639065083958016952.corolla-perma.info&type=ws&sni=639065083958016952.corolla-perma.infovless://2e27ac27-c360-489a-86ea-8b9659de6763@192.200.160.20:443?path=%2Fjztpmbws%3Fed&security=tls&encryption=none&alpn=http/1.1&host=639065083958064562.corolla-perma.info&type=ws&sni=639065083958064562.corolla-perma.infovless://134928ab-cbd9-4196-98ce-deef2be9fe09@192.200.160.20:443?path=%2Fyjdsyuws%3Fed&security=tls&encryption=none&alpn=http/1.1&host=639065083958087309.corolla-perma.info&type=ws&sni=639065083958087309.corolla-perma.infoss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:80ss://YWVzLTI1Ni1nY206bUs3ZU4zejI3NlRyMHZWQQ==@154.12.240.141:443ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA==@94.72.127.58:443ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA==@207.246.77.149:80ss://YWVzLTI1Ni1nY206ZUxOamNzenFzejFPZnZTbA==@207.246.77.149:443ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:80`
+
+---
+
+### 🕒 2026-02-12 15:21:58 UTC
+***🚨***
+ ‍چین سلاح مایکروویو ضدِ ماهواره ساخت؛ تهدیدی برای ارتباطات مردمی و نظارت بین‌المللی
+***🗞***
+ منبع: EADaily
+***📝***
+ تحلیل:
+***▪️***
+ابزار  TPG1000Cs دستگاهی جمع‌وجور با توان ادعایی ۲۰ گیگاوات در یک دقیقه است که می‌تواند ارتباط یا عملکرد ماهواره‌های مدار پایین زمین مانند استارلینک را مختل کند.
+***▪️***
+ این فناوری در صورتی که به دست متحدان رژیم بیفتد (از جمله چین که خود متحد رژیم است)، ابزار خاموش‌سازی ارتباطات مردمی و کور کردن نظارت بین‌المللی را فراهم می‌کند و ظرفیت سرکوب داخلی و غارت منابع را تقویت می‌کند.
+***▪️***
+ برای منافع ملی مردم ایران ضروری است به افزایش تاب‌آوری ارتباطی (متنوع‌سازی کانال‌ها، رمزنگاری، نسخه‌های آفلاین)، پیگیری و تحریم انتقال این فناوری‌ها و تقویت شبکه‌های پشتیبان اطلاعاتی در خارج از کشور اولویت داده شود.
+***🎯***
+ تأثیر: این فناوری به متحدان رژیم اجازه می‌دهد ارتباطات مردمی و نظارت خارجی را بی‌اثر کند و در نتیجه ظرفیت سرکوب داخلی و چپاول منابع را افزایش می‌دهد.
+
+---
 
 ### 🕒 2026-02-12 10:22:47 UTC
 تست کنید و نظرتون رو بگید
@@ -375,71 +467,6 @@ Telegram Proxy
 ### 🕒 2026-02-10 21:05:46 UTC
 V2rayNg Hiddify Karing Happ 
 `vless://d453b11a-5988-4b9a-9aca-5cfb9b336946@104.17.147.22:443?path=%2FV9RZyjTD5QiH08HK8A2L9XMg&security=tls&encryption=none&host=usc.ketabv.ir&fp=chrome&type=ws&sni=usc.ketabv.irvless://2130291f-50e9-43d4-d415-c85b34134d4f@193.242.125.18:80?security=none&encryption=none&headerType=none&type=tcpss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2FTelegram%40vpnbaz-Telegram%40vpnbaz-Telegram%40vpnbaz-Telegram%40vpnbaz-Telegram%40vpnbaz-Telegram%40vpnbaz-Telegram%40vpnbaz&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.comvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40%2F---%40%2F---%40%2F---%40%3Fed%3D2560&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.comvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@188.114.98.0:443?security=tls&encryption=none&host=cdn.abcallcenter.com&fp=chrome&type=ws&sni=cdn.abcallcenter.comvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=2560&security=tls&encryption=none&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.comvless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&encryption=none&host=o00o.snip.qzz.io&type=ws&sni=o00o.snip.qzz.iovless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=vless://352f047c-3176-4271-9bc6-3f7d33ee03c7@riali22.carpet-carpet-carped.ir:2018?security=reality&encryption=none&pbk=pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc&headerType=none&fp=firefox&type=tcp&sni=ub.com&sid=83f404vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?security=reality&encryption=none&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.comvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz-%40vpnbaz&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.comvless://d453b11a-5988-4b9a-9aca-5cfb9b336946@104.17.147.22:443?path=%2FV9RZyjTD5QiH08HK8A2L9XMg&security=tls&encryption=none&alpn=http/1.1&host=usc.ketabv.ir&fp=chrome&type=ws&sni=usc.ketabv.irvless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=wsvless://c59f075a-b3a1-44e3-9680-375d81e6d8f7@212.233.96.101:4443?security=reality&encryption=none&pbk=-BT-beTCZ_6dr1akzVJLsuXtD6GrvUeSnFw3qYnikQQ&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=f92954e2e710trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.comtrojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&alpn=h2,http/1.1&host=www.creationlong.org&fp=chrome&type=ws&sni=www.creationlong.orgvless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cffvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=web.abcallcenter.com&fp=chrome&type=ws&sni=web.abcallcenter.com`
-
----
-
-### 🕒 2026-02-10 18:06:07 UTC
-تقدیم به روح پاک تمام جاویدنامان وطن 
-***🖤***
-راهتان مانا و یادتان جاوید 
-***👑***
-***🖤***
-جاوید شاه و پاینده ایران 
-***👑***
-
----
-
-### 🕒 2026-02-10 15:10:41 UTC
-بی وطن چگونه زندگی کردن؟ چون وطن آیین است و کیش 
-***💚***
-
----
-
-### 🕒 2026-02-10 11:03:08 UTC
-Telegram Proxy
-[https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.31&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.31&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.34&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.34&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=Qavi.Baryc6w.co.uk&port=443&secret=ProxyQavi____Proxymelg](https://t.me/proxy?server=Qavi.Baryc6w.co.uk&port=443&secret=ProxyQavi____Proxymelg)
-[https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=Home.ir.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Home.ir.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=172.65.96.123&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=185.115.161.234&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D](https://t.me/proxy?server=185.115.161.234&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
-[https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-[https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی](https://t.me/proxy?server=85.133.194.120&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.121&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.106&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.109&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=85.133.194.108&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.115&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.116&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.117&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-
----
-
-### 🕒 2026-02-10 11:03:07 UTC
-V2rayNg Hiddify Karing Happ 
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqSUxQVDhuOHA5WVZWbDBvSnp5dWM3@62.133.63.21:65262#%40MARAMBASHI%20%F0%9F%90%B3ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446vless://2637679c-e2fe-45a2-9962-e2ddf8469c29@medium.com:2053?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=foucse1.goooooooozoooo.sbs&fp=chrome&type=ws&allowInsecure=0&sni=foucse1.goooooooozoooo.sbsvless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcpvless://c22a48ae-9954-45f9-9bf4-5093c655f25e@91.98.91.239:54382?security=reality&encryption=none&pbk=ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=firefox&type=tcp&sni=www.filimo.com&sid=f4vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.comvless://a2368c08-527f-4af6-855a-1dc6e42fad35@188.114.98.0:2086?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=&encryption=none&host=nigclone.narkhesanj.ir&type=httpupgrade`
 
 ---
 

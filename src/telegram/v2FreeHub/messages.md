@@ -1,101 +1,42 @@
 # آرشیو کانال: @v2FreeHub
-بروزرسانی: 2026-02-12 10:39:24 UTC
+بروزرسانی: 2026-02-12 20:28:39 UTC
 
-### 🕒 2026-02-10 18:55:35 UTC
-**⚡ کانفیگ پرسرعت Npvt ⚡**
-***📶***
+### 🕒 2026-02-12 19:49:59 UTC
+**🔥 New Global Pack Released! | SS ⚡🌐**
+***🌍***
  
-*مناسب همه اپراتورها – تست کنید و بهترینو انتخاب کنید.*
-***🔒***
+*Location:*
  
-**اتصال امن و بدون قطعی**
-***🚀***
- دانلود اپ موردنیاز:
-[تلگرام](https://t.me/v2FreeHub/58)
- | 
-[پلی‌استور](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- | 
-[از سایت](https://uploadb.me/lw8eds4j751l/Npvt(501).apk.html)
+**US🇺🇸 GR🇬🇷 TR🇹🇷 FI🇫🇮**
+━━━━━━━━━━━━━━━━━━
+`ss://YWVzLTI1Ni1nY206akpIcTgwN2JRN1RNMHlPaA@94.72.127.58:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206azZydUp1d2dBVXhJcmtIYg@154.53.63.32:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206d2xKU0YwZkM4dXFCNUdtNQ@94.72.127.55:80#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag@154.53.57.143:80#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUS2k5WXQ3bWU1RTlWWE4zdm5DY3BE@212.18.104.228:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.54.29.82:9090#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%B7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%40v2FreeHub%20%F0%9F%87%B9%F0%9F%87%B7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFNkdialczSVo0V29rdno0VllMajRv@38.244.137.202:45380#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%AE`
 ***🎁***
  
 [**کد اهدا مهسا:**](https://github.com/GFW-knocker/MahsaNG/releases/latest)
  
 `45ef057b`
-***📢***
- 
-**برای آپدیت‌های بیشتر کانال ما رو دنبال کنید.**
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
-** 👑**
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-
----
-
-### 🕒 2026-02-10 18:51:13 UTC
-**⚡ کانفیگ پرسرعت Npvt ⚡**
-***📶***
- 
-*مناسب همه اپراتورها – تست کنید و بهترینو انتخاب کنید.*
-***🔒***
- 
-**اتصال امن و بدون قطعی**
-***🚀***
- دانلود اپ موردنیاز:
-[تلگرام](https://t.me/v2FreeHub/58)
- | 
-[پلی‌استور](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- | 
-[از سایت](https://uploadb.me/lw8eds4j751l/Npvt(501).apk.html)
-***🎁***
- 
-[**کد اهدا مهسا:**](https://github.com/GFW-knocker/MahsaNG/releases/latest)
- 
-`45ef057b`
-***📢***
- 
-**برای آپدیت‌های بیشتر کانال ما رو دنبال کنید.**
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
-** 👑**
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-
----
-
-### 🕒 2026-02-10 18:42:32 UTC
-**🚀💥 آپدیت امروز سابلینک منتشر شد! | اتصال آزاد، سرعت بالا، بدون قطعی 🌍🔗**
-**🔗 لینک اتصال (کلیک کن):**
-`https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate`
+━━━━━━━━━━━━━━━━━━
+***📱***
+** آموزش استفاده از بکاپ ↓**
+[**v2RayNG → About → Restore configuration**](https://t.me/v2FreeHub/381)
+━━━━━━━━━━━━━━━━━━
 ***♻️***
  
-**Last Update: 2026,2,10 - 22:12**
-***📱***
+**آپدیت روزانه کانفیگ‌های رایگان و پرسرعت همه پروتکل ها (VLESS | VMESS | Trojan | Shadowsocks)**
+━━━━━━━━━━━━━━━━━━
+***👾***
  
-**بعدش هر روز برای آپدیت فقط این کارو بکن:v2RayNG → Subscription → Update**
-***📲***
-** آموزش استفاده در v2RayNG:**
-[**Subscription → Add → Paste → Update**](https://t.me/v2FreeHub/58)
-**❤️ برای دوستات هم بفرست**
-[**#پاینده_ایران**](?q=%23%D9%BE%D8%A7%DB%8C%D9%86%D8%AF%D9%87_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
-** **
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
- 
-***👑***
-[**#VPN**](?q=%23VPN)
-** **
-[**#v2RayNG**](?q=%23v2RayNG)
-** **
-[**#AutoUpdate**](?q=%23AutoUpdate)
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-** 🌐**
-
----
-
-### 🕒 2026-02-10 18:02:23 UTC
+**کانال رو دنبال کن تا همیشه وصل باشی**
 [**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
 ** 👑**
-
----
-
-### 🕒 2026-02-10 18:01:49 UTC
-**مرگ بر خامنه‌ای**
+**👉 **
+[**@v2FreeHub**](https://t.me/v2FreeHub)
+****
+[**#v2RayNG**](?q=%23v2RayNG)
+** **
+[**#VPN**](?q=%23VPN)
+** **
+[**#Config**](?q=%23Config)
 
 ---
 

@@ -1,5 +1,77 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-12 10:35:05 UTC
+بروزرسانی: 2026-02-12 20:24:24 UTC
+
+### 🕒 2026-02-12 19:56:50 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-12 19:44:46 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-12 19:42:19 UTC
+[https://t.me/proxy?server=91.239.192.153&port=858585&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.239.192.153&port=858585&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D](https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+[https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-02-12 19:29:07 UTC
+آژانس ایمنی هوانوردی اتحادیه اروپا (EASA) ممنوعیت پرواز بر آسمان ایران را تا 31 مارچ (11 فروردین) تمدید کرد لینک خبر از رویترز  چند تحلیلگر نظامی انگلستانی اعتقاد دارن اگر جمهوری اسلامی «موشک» رو در مذاکرات نده، احتمالا در همین بازه زمانی یعنی تا 11 فروردین…
+
+---
+
+### 🕒 2026-02-12 18:15:43 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان دلاورم در ایران،
+شما با گردهمایی‌های‌تان در گرامی‌داشت یاد جاویدنامان، با شعارهای شبانه، و با دیوارنویسی‌های شجاعانه نشان داده‌اید که جمهوری اسلامی با کشتار وحشیانه نیز نتوانسته در اراده شما برای بازپس‌گیری ایران خللی وارد کند.
+بیست‌وپنجم بهمن، در «روز جهانی اقدام» ایرانیان خارج از کشور بار دیگر به خیابان‌ها می‌آیند تا صدای ملت بزرگ و متحد ایران را به گوش جهانیان برسانند و حمایت بین‌المللی گسترده‌تری برای انقلاب شیروخورشید ایران جلب کنند.
+در همین راستا، من از شما دعوت می‌کنم در روزهای ۲۵ و ۲۶ بهمن، ساعت ۸ شب، از خانه‌ها و پشت‌بام‌ها با سردادن شعار، صدای خود را بلند کنید؛ خواست خود را فریاد بزنید و اتحاد خود را به نمایش بگذارید.
+ما با اراده‌ای شکست‌ناپذیر بر این رژیم ضحاکی پیروز خواهیم شد.
+پیمان من با شما این است که تا پیروزی نهایی همراه شما بمانم.
+پاینده ایران،
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
+
+### 🕒 2026-02-12 17:52:15 UTC
+آژانس ایمنی هوانوردی اتحادیه اروپا (EASA) ممنوعیت پرواز بر آسمان ایران را تا 31 مارچ (11 فروردین) تمدید کرد
+[لینک خبر از رویترز](https://www.reuters.com/world/middle-east/safety-body-urges-eu-airlines-avoid-iran-airspace-until-march-31-2026-02-12/)
+چند تحلیلگر نظامی انگلستانی اعتقاد دارن اگر جمهوری اسلامی «موشک» رو در مذاکرات نده، احتمالا در همین بازه زمانی یعنی تا 11 فروردین یک Mass-Strike (حمله سنگین) به جمهوری اسلامی انجام میشه
+به قول یکی از عزیزان: اگر جمهوری اسلامی موشک رو بده، نتانیاهو میزنه. اگه موشک رو نده، آمریکا میزنه! پس بمب رو از هرطرف بخونی، بمب عه
+البته خودم احتمال اینکه جمهوری اسلامی حاضر شه همون هسته ای رو هم تعطیل کنه نزدیک به صفر میدونم چه برسه به اینکه بخواد موشک بالستیکو بذاره کنار
+
+---
+
+### 🕒 2026-02-12 16:47:25 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-12 16:36:44 UTC
+`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount`
+`vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.193.109.3:443?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
+`vless://a56d76c1-02b9-4919-90f0-3ec7afa49a2a@45.138.25.84:17399?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
+
+---
 
 ### 🕒 2026-02-12 05:19:03 UTC
 [https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -161,21 +233,6 @@
 
 ### 🕒 2026-02-11 12:24:56 UTC
 `vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccountss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#NetAccountss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#NetAccounttrojan://humanity@www.gossipglove.com:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#NetAccountvless://9e4c954c-133f-4530-99f2-e2c102b3e414@dynamic.gogolilililili.shop:8888?security=none&encryption=none&host=Google.com&headerType=http&type=tcp#NetAccount`
-
----
-
-### 🕒 2026-02-10 18:48:04 UTC
-`vmess://eyJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6InNlcnZlciUyMC0lMjB0ZXN0NTAwR0IlRjAlOUYlODclQjMlRjAlOUYlODclQjEiLCJuZXQiOiJ0Y3AiLCJhZGQiOiI5NC4xODQuMTAuNDIiLCJpZCI6ImRkNGNmMDJmLTEzZDQtNDU4MS1iOTMwLTdjZDk5MzZkZWVlZSIsInBvcnQiOiI0NDMiLCJzY3kiOiJhdXRvIn0=`
-
----
-
-### 🕒 2026-02-10 14:34:41 UTC
-**یک طرفه شدن گسترده سیم‌کارت های دائمی ایرانسل**
-بر اساس گزارش‌های متعدد کاربران، سیم‌کارت دائمی بسیاری از مشترکان ایرانسل به‌صورت ناگهانی یک طرفه شده است
-کاربران اعلام کرده‌اند این مشکل حتی پس از پرداخت بدهی نیز برطرف نشده و در برخی موارد، افرادی بدون بدهی هم دچار یک‌طرفه شدن سیم کارت شده‌اند
-طبق گزارش‌ها، مشکل برای برخی کاربران به‌صورت محدود رفع شده، اما همچنان گروهی از مشترکان در شبکه‌های اجتماعی از ادامه این وضعیت خبر می‌دهند
-در 24 ساعت گذشته، تعداد زیادی از کاربران این مشکل را گزارش کرده‌اند.
-در حالی‌ که روابط عمومی ایرانسل اعلام کرده مشکل برطرف شده، بررسی‌ها نشان می‌دهد این اختلال به‌صورت سراسری حل نشده و همچنان بخشی از کاربران با سیم‌کارت یک‌طرفه مواجه‌اند
 
 ---
 

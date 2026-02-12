@@ -1,5 +1,68 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-12 10:36:23 UTC
+بروزرسانی: 2026-02-12 20:25:41 UTC
+
+### 🕒 2026-02-12 18:15:23 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان دلاورم در ایران،
+شما با گردهمایی‌های‌تان در گرامی‌داشت یاد جاویدنامان، با شعارهای شبانه، و با دیوارنویسی‌های شجاعانه نشان داده‌اید که جمهوری اسلامی با کشتار وحشیانه نیز نتوانسته در اراده شما برای بازپس‌گیری ایران خللی وارد کند.
+بیست‌وپنجم بهمن، در «روز جهانی اقدام» ایرانیان خارج از کشور بار دیگر به خیابان‌ها می‌آیند تا صدای ملت بزرگ و متحد ایران را به گوش جهانیان برسانند و حمایت بین‌المللی گسترده‌تری برای انقلاب شیروخورشید ایران جلب کنند.
+در همین راستا، من از شما دعوت می‌کنم در روزهای ۲۵ و ۲۶ بهمن، ساعت ۸ شب، از خانه‌ها و پشت‌بام‌ها با سردادن شعار، صدای خود را بلند کنید؛ خواست خود را فریاد بزنید و اتحاد خود را به نمایش بگذارید.
+ما با اراده‌ای شکست‌ناپذیر بر این رژیم ضحاکی پیروز خواهیم شد.
+پیمان من با شما این است که تا پیروزی نهایی همراه شما بمانم.
+پاینده ایران،
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
+
+### 🕒 2026-02-12 17:47:33 UTC
+علی کرمی:
+اگر من قبل از سگم مردم، لطفاً بگذارید جسدم را ببیند. او مرگ را می فهمد میتواند برایم سوگواری کند. اگر جسدم را نبیند فکر میکند که من رفته ام و منتظر بازگشتم خواهد ماند.
+***💔***
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-12 14:38:03 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-12 14:33:38 UTC
+[https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-12 14:33:19 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-12 13:06:09 UTC
+> ↪️ **Forwarded**
+
+**🔴سیرک ۲۲ بهمن ۱۴۰۴ دستمایه طنز شومن های خارجی شد**
+**Islamic Revolution Anniversary with Special Effects and Resurrection!**
+[**#کیان_ملی**](?q=%23%DA%A9%DB%8C%D8%A7%D9%86_%D9%85%D9%84%DB%8C)
+** **
+[**https://t.me/kianmeli1**](https://t.me/kianmeli1)
+
+---
+
+### 🕒 2026-02-12 13:00:19 UTC
+هیجان خاورمیانه کم شده حوصله آدم سر میره
+
+---
 
 ### 🕒 2026-02-12 10:17:20 UTC
 `vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#https://t.me/ConfigX2rayvless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#https://t.me/ConfigX2ray`
@@ -289,129 +352,6 @@ KHABAR
 روز نفرین شده‌ای که تروریست‌ها، ایران را اشغال کردند تا ویرانش کنند.
 در هر شهری که هستید، از حضور یا تردد در خیابان‌های حوالی راهپیمایی خونشورها و تروریست‌ها، خودداری کنید. 
 آنها در پروپاگاندای تلویزیونی، شما را هم جزو حامیان‌شان محاسبه می‌کنند. در خانه بمانید و به ریش این بی ریشه‌ها بخندید.
-
----
-
-### 🕒 2026-02-10 19:15:59 UTC
-**ایران‌اینترنشنال به اطلاعاتی اختصاصی از هویت شش دیپلمات جمهوری اسلامی دست یافته که صدها میلیون دلار پول را با چمدان و پاسپورت دیپلماتیک به بیروت برده و به حزب‌الله داده‌اند. عراقچی و لاریجانی هم در سفرهای خود به لبنان چمدان‌های پر از دلار همراه داشتند.**
-[#مجتبی_پور_محسن](?q=%23%D9%85%D8%AC%D8%AA%D8%A8%DB%8C_%D9%BE%D9%88%D8%B1_%D9%85%D8%AD%D8%B3%D9%86)
-
----
-
-### 🕒 2026-02-10 18:40:54 UTC
-> ↪️ **Forwarded**
-
-«با بلندگو‌ صدای ضبط‌شده الله و اکبر روتین ساعت ۹ شب قبل از ۲۲ بهمن رو پخش کردن از مساجد. صدای مرگ بر خامنه ای اینقدر زیاد بود که نذاشت شنیده شه. صدای الله و اکبر با بلندگوی عرزشی ها از مساجد vs صدای مردم»
-[X](https://x.com/mamlekate/status/2021282057905697116)
-***📞***
- باورم نمیشه برای اولین بار اینجا تو منطقه ۱۰ تهران فقط صدای بلندگو میومد. از بین مردم فقط ۲ نفر واقعا الله اکبر میگفتن. همه الله اکبر ها همش فقط ضبط شده بود 
-***📞***
- اگر یادت باشه خبرش اومد ده روز پیش که دارن همه جا بلندگو کار میذارن نیرو های جمهوری اسلامی. اول همه فکر کردیم برای آژیر جنگه ولی الان دلیلش مشخص شد برای چی بوده
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-10 17:46:31 UTC
-الان میتونم رکیک ترین الفاظ رو ارائه بدم
-***🦦***
-
----
-
-### 🕒 2026-02-10 17:36:10 UTC
-صداشون با تک تک سلولای بدنم داره بازی میکنه کاش خفه شن
-
----
-
-### 🕒 2026-02-10 17:35:14 UTC
-چقد میتونن کثافت و حروم باشن  که اینهمه جوونو کشتن و ترقه بازی هم راه میندازن چقدر؟
-
----
-
-### 🕒 2026-02-10 17:35:06 UTC
-داد بزن حرومی داد بزن آخراشه
-
----
-
-### 🕒 2026-02-10 17:27:05 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-10 13:22:16 UTC
-> ↪️ **Forwarded**
-
-داش ببین صلح حسن به مولا
-[@MemeBaazaar](https://t.me/MemeBaazaar)
-
----
-
-### 🕒 2026-02-10 12:18:34 UTC
-[https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=185.3.200.191&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.191&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=185.3.200.175&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.175&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-10 12:05:39 UTC
-[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.51&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwlf)
-[پروکسی](https://t.me/proxy?server=91.239.192.31&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.234&amp;port=9443&amp;secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- 
-[پروکسی](https://t.me/proxy?server=185.115.161.252&amp;port=9443&amp;secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
-|
-[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.176&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-|
-[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- 
- 
-[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.242&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-|
-[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- 
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.232&amp;port=9443&amp;secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
-|
-[پروکسی](https://t.me/proxy?server=185.3.200.18&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- 
- 
-[پروکسی](https://t.me/proxy?server=185.115.161.250&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.45&amp;port=9443&amp;secret=dd1603010200010001fc030386e24c3add)
-|
-[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-10 11:18:26 UTC
-بی بی رفت پیش این یارو کله زرده
-***🚶🏻‍♀***
-
----
-
-### 🕒 2026-02-10 11:05:52 UTC
-***🗿***
-***🗿***
-***🗿***
 
 ---
 

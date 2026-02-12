@@ -467,17 +467,16 @@ rule-providers:
 proxies:
   - {name: 15@oneclickvpnkeys, server: mlxy1.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy1.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8@oneclickvpnkeys`, server: mlxy2.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy2.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 62@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 60@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 9@oneclickvpnkeys, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: All⁷ | @freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@YamYamProxy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram -, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🚀***configraygan`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: •, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -497,17 +496,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -517,17 +515,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -537,17 +534,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: اتصال پایدار 🔗
     type: url-test
@@ -566,17 +562,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -586,17 +581,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -606,17 +600,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 62@oneclickvpnkeys
+      - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
       - All⁷ | @freenet_vt
       - 5.175.249.174:35000
-      - "@YamYamProxy"
       - "@proxy_kafee`"
       - ⚡Telegram -
       - "***🆔***"
-      - "***🚀***configraygan`"
       - "@meliproxyy"
-      - "@proxy_kafee 2"
       - •
   - name: دانلود منیجر 📥
     type: select

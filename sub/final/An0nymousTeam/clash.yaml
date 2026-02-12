@@ -465,18 +465,17 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@FREE2CONFIG  (22)", server: 85.192.34.4, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 231cd1b7-d0b0-49a7-ab7a-19aab29d036f, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uhbsWhNUi9ycReN9Z0aZ-GyrWwVCAHPtcTNin4fPDnw, short-id: d5d56217eb2f52db}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ‍☠️@FREE2CONFIG `, server: 194.113.226.197, port: 55555, type: vless, tls: true, packet-encoding: xudp, uuid: 49d97f86-4589-4570-8e4b-794b49556e42, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (3)", server: 144.31.169.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a5dd9b3-42b7-42b8-926d-f98f36f501c1, servername: fin.rakslinevpn.su, host: fin.rakslinevpn.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8eXAdBVOIqV-h2O-pHN2KeSnpGwxmQjOtJJcji0u0Rg, short-id: 185b5686fe5b13ce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (1)", server: 86.54.30.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5bb062fe-4bd8-4783-814b-d9a15435e2df, servername: aws.com, alpn: [h2], host: aws.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG", server: 144.31.0.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 71031aa1-067e-425e-97f5-37875f838a10, servername: google.com, host: google.com, path: /, reality-opts: {public-key: HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc, short-id: d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (3) 2", server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (2)", server: 46.226.167.138, port: 46248, type: vless, tls: true, packet-encoding: xudp, uuid: a571b94c-a9f3-407a-a8ef-da608dab5472, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (2) 2", server: 144.31.100.32, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a918d35f-14f2-4464-95e1-aee3bb69802e, servername: vpnspacev.com, host: vpnspacev.com, path: /, reality-opts: {public-key: zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE, short-id: 06bf5b24acb9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG 2", server: 144.31.130.98, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbed94d9-1120-4b54-8a9c-72d81e411fb8, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: grtFOGUrAtlH0xAPpkqkXTAnaCHALmEn7nsohxxx3iE, short-id: 729c8d42f7bb139a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (5)", server: 144.31.94.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbed94d9-1120-4b54-8a9c-72d81e411fb8, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZCm72HsnDwPnk-cWNncOFXkfGOTM3hmz5udd9Sqqwg0, short-id: be27c9ba40b5f476}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG 3", server: 144.31.94.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbed94d9-1120-4b54-8a9c-72d81e411fb8, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5HagS4nvr0CaCOv8SUfGTT0HyjarC0VqQ0JgPhmlgQg, short-id: 2adb11b6886a079a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@FREE2CONFIG  (9)", server: 95.163.208.119, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: bbed94d9-1120-4b54-8a9c-72d81e411fb8, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xc8CBkdFt4AYO_xP744z4V4RZsIQ0xJpyUKTsXaXp0I, short-id: bd4038d0ad4e11de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2_mod_shop🚀", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@chillguy_vpn`", server: 172.67.153.156, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Telegram:@config_proxy, server: 5.39.249.10, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_confiig", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: اتصال دائمی با سرور های چنل🍦@Outline_ir, server: best.pineappled.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64b5d863-81d6-48ea-9222-82030616fa63, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2_mod_shop🚀 2", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2_mod_shop🚀 3", server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "کانال تلگرام : Free_VPN_CH@", server: 18.185.66.239, port: 35424, type: vless, tls: true, packet-encoding: xudp, uuid: 9dff968d-c1ca-4482-a50d-bad221fd51fd, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2_mod_shop🚀 4", server: 155.212.37.10, port: 993, type: vless, tls: true, packet-encoding: xudp, uuid: c10999b4-7f93-5a50-3908-1467b1e52ae2, servername: speed.cloudflare.com, host: speed.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Telegram:@config_proxy 2, server: ru.connectv.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea808221-bb62-4a92-a6a9-f1941fe5d2d1, servername: ru.connectv.net, host: ru.connectv.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2_mod_shop🚀 5", server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.nestandneighbours.com, network: ws, ws-opts: {path: /, headers: {Host: dev.nestandneighbours.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,54 +492,51 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -556,54 +552,51 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@FREE2CONFIG  (22)"
-      - ‍☠️@FREE2CONFIG `
-      - "@FREE2CONFIG  (3)"
-      - "@FREE2CONFIG  (1)"
-      - "@FREE2CONFIG"
-      - "@FREE2CONFIG  (3) 2"
-      - "@FREE2CONFIG  (2)"
-      - "@FREE2CONFIG  (2) 2"
-      - "@FREE2CONFIG 2"
-      - "@FREE2CONFIG  (5)"
-      - "@FREE2CONFIG 3"
-      - "@FREE2CONFIG  (9)"
+      - "@v2_mod_shop🚀"
+      - "@chillguy_vpn`"
+      - Telegram:@config_proxy
+      - "@V2ray_confiig"
+      - اتصال دائمی با سرور های چنل🍦@Outline_ir
+      - "@v2_mod_shop🚀 2"
+      - "@v2_mod_shop🚀 3"
+      - "کانال تلگرام : Free_VPN_CH@"
+      - "@v2_mod_shop🚀 4"
+      - Telegram:@config_proxy 2
+      - "@v2_mod_shop🚀 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:

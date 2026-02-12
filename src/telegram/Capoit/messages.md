@@ -1,5 +1,60 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-12 10:34:18 UTC
+بروزرسانی: 2026-02-12 20:23:39 UTC
+
+### 🕒 2026-02-12 20:07:06 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-12 18:50:39 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-12 17:05:30 UTC
+New Proxy
+[https://t.me/proxy?server=91.239.192.18&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwkt](https://t.me/proxy?server=91.239.192.18&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+[https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[@Capoit](https://t.me/Capoit)
+
+---
+
+### 🕒 2026-02-12 16:49:42 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-12 15:34:09 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-12 13:24:02 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
 
 ### 🕒 2026-02-12 05:07:11 UTC
 کانفیگ NapsternetV
@@ -50,38 +105,6 @@ New V2Ray
 [آموزش وارد کردن](https://t.me/Capoit/31230)
 [@Capoit](https://t.me/Capoit)
 [@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-10 18:42:46 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-10 16:18:27 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-02-10 14:16:56 UTC
-**چندتا نکته مهم برای استوری تلگرام | افرادی که مشکل دارن بخونن**
-در توضیحات تلگرام ذکر شده که کاربران عادی فقط مجاز به گذاشتن 1 استوری در روز هستن و این محدودیت در هفته به 3 استوری و در هر ماه به 10 استوری میرسه. یعنی اگه شما 3 روز پشت سرهم استوری بذارید، روز چهارم امکان گذاشتن استوری ندارید و باید 1 هفته صبر کنید.
-[@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-02-10 13:13:43 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
 
 ---
 

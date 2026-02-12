@@ -465,24 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 103.186.155.124:38388, server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.125:38388, server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.126:38388, server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.127:38388, server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.128:38388, server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.132:38388, server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.137:38388, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.138:38388, server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.139:38388, server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.141:38388, server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.142:38388, server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.144:38388, server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.145:38388, server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.149:38388, server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.154:38388, server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.156:38388, server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.15:38388, server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 103.186.155.16:38388, server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.17:38388, server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.18:38388, server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.19:38388, server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -561,9 +543,12 @@ proxies:
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 38.180.216.114:7307, server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: "@V2rayMiner", server: 62.146.172.130, port: 443, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
   - {name: 212.192.12.201:8388, server: 212.192.12.201, port: 8388, type: ss, cipher: aes-256-gcm, password: TjWj6hhm0XXkWvKL, udp: true, tfo: false}
   - {name: 38.180.113.194:8119, server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
   - {name: 38.180.152.210:8881, server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
+  - {name: "@V2rayMiner 2", server: 62.146.171.57, port: 443, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
+  - {name: "@V2rayMiner 3", server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -580,24 +565,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -676,33 +643,18 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -781,33 +733,18 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -886,9 +823,12 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -904,24 +844,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -1000,33 +922,18 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -1105,33 +1012,18 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 103.186.155.124:38388
-      - 103.186.155.125:38388
-      - 103.186.155.126:38388
-      - 103.186.155.127:38388
-      - 103.186.155.128:38388
-      - 103.186.155.132:38388
-      - 103.186.155.137:38388
-      - 103.186.155.138:38388
-      - 103.186.155.139:38388
-      - 103.186.155.141:38388
-      - 103.186.155.142:38388
-      - 103.186.155.144:38388
-      - 103.186.155.145:38388
-      - 103.186.155.149:38388
-      - 103.186.155.154:38388
-      - 103.186.155.156:38388
-      - 103.186.155.15:38388
-      - 103.186.155.16:38388
       - 103.186.155.17:38388
       - 103.186.155.18:38388
       - 103.186.155.19:38388
@@ -1210,9 +1102,12 @@ proxy-groups:
       - 15.204.247.49:12000
       - 57.128.214.100:12000
       - 38.180.216.114:7307
+      - "@V2rayMiner"
       - 212.192.12.201:8388
       - 38.180.113.194:8119
       - 38.180.152.210:8881
+      - "@V2rayMiner 2"
+      - "@V2rayMiner 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,132 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-12 10:38:02 UTC
+بروزرسانی: 2026-02-12 20:27:16 UTC
+
+### 🕒 2026-02-12 20:24:33 UTC
+گوشی های خیلی قدیمی
+
+---
+
+### 🕒 2026-02-12 20:24:24 UTC
+گوشی های نسل جدید
+
+---
+
+### 🕒 2026-02-12 20:23:34 UTC
+[https://github.com/dyhkwong/Exclave/releases/download/0.17.14/Exclave-0.17.14-arm64-v8a.apk](https://github.com/dyhkwong/Exclave/releases/download/0.17.14/Exclave-0.17.14-arm64-v8a.apk)
+
+---
+
+### 🕒 2026-02-12 20:22:56 UTC
+الان هم لینک میذارم هم فایلشو
+
+---
+
+### 🕒 2026-02-12 20:22:47 UTC
+{   "dns": {     "fallbackStrategy": "disabledIfAnyMatch",     "servers": [       {         "address": "8.8.8.8",         "domains": [],         "fakedns": [           {             "ipPool": "198.18.0.0/15",             "poolSize": 65535           }     …
+
+---
+
+### 🕒 2026-02-12 20:21:59 UTC
+`{  "dns": {    "fallbackStrategy": "disabledIfAnyMatch",    "servers": [      {        "address": "8.8.8.8",        "domains": [],        "fakedns": [          {            "ipPool": "198.18.0.0/15",            "poolSize": 65535          }        ],        "queryStrategy": "UseIPv4"      }    ]  },  "inbounds": [    {      "listen": "0.0.0.0",      "port": 2080,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "socks"    },    {      "listen": "0.0.0.0",      "port": 9080,      "protocol": "http",      "settings": {        "allowTransparent": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "http"    }  ],  "log": {    "loglevel": "warning"  },  "outbounds": [    {      "protocol": "http",      "settings": {        "servers": [          {            "address": "45.154.96.217",            "port": 443,            "users": [              {                "pass": "fuckgfw123",                "user": "@Arshiacomplus"              }            ]          }        ]      },      "streamSettings": {        "network": "tcp",        "security": "tls",        "tcpSettings": {},        "tlsSettings": {          "serverName": "arshiacomplus.nscl.ir"        }      },      "tag": "proxy-global-368428"    },    {      "protocol": "freedom",      "tag": "direct"    },    {      "protocol": "freedom",      "tag": "bypass"    },    {      "protocol": "blackhole",      "tag": "block"    },    {      "protocol": "dns",      "settings": {        "userLevel": 1      },      "tag": "dns-out"    }  ],  "policy": {    "levels": {      "1": {        "connIdle": 30      }    },    "system": {      "statsOutboundDownlink": true,      "statsOutboundUplink": true    }  },  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      }    ]  },  "stats": {}}`
+
+---
+
+### 🕒 2026-02-12 20:14:41 UTC
+**چرا دیگه نمیتونم تو تلگرام استوری بذارم؟!کاربران عادی فقط مجاز به گذاشتن 1 استوری در روز هستن و این محدودیت در هفته به 3 استوری و در هر ماه به 10 استوری میرسه. یعنی اگه شما 3 روز پشت سرهم استوری بذارید، روز چهارم امکان گذاشتن استوری ندارید و باید صبر کنید تا یک هفته تموم بشه!**
+...
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+
+---
+
+### 🕒 2026-02-12 19:56:03 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-12 18:54:14 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-12 18:32:17 UTC
+خب دوستان ، اول از همه اوپن خواستن .
+سپس ویتورای و نپسترنت 
+و فردا فیلترشکن جدید معرفی میکنم براتون .
+امشب openvpn connect 
+سپس کانفیگ ویتورای و نپسترنت.
+با تشکر از همه رأی دهندگان عزیز 
+***💚***
+
+---
+
+### 🕒 2026-02-12 16:40:09 UTC
+تا ساعت ۱۰ رأی گیری ادامه دارد 
+***✔️***
+
+---
+
+### 🕒 2026-02-12 12:02:19 UTC
+متصل موشکی 
+***😎***
+ 
+***🔑***
+ 
+`hamedvpns`
+ 
+***👈***
+***👈***
+ رمز عبور 
+***✅***
+بزنید به نپسترنت و حالشو ببرید 
+***🔥***
+[لینک نصب نپسترنت ***👉******👉***](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+ 
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-12 11:27:58 UTC
+ای کسانی که ری اکشن نمی‌زنید ، میخوام براتون کانفیگ جدید نپستر بذارم
+
+---
 
 ### 🕒 2026-02-12 10:02:08 UTC
 صرفا برای تست ، لطفاً نتایج رو توی کامنت بگید به علاوه اپراتور 
@@ -470,175 +597,6 @@ vless://a22bff60-a40a-4250-bde2-4c660e363b47@198.41.208.203:80?path=%2Fmpmva3e8r
 کاملش 
 ***👇***
 ***👇***
-
----
-
-### 🕒 2026-02-10 19:14:16 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-10 19:07:29 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-10 19:00:31 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-10 17:07:01 UTC
-فایل دستورات لازم برای ساخت پنل رایگان su-i
-[**فیلم آموزش ساخت پنل 👉**](https://t.me/hamedvpns/17271)
-**👉**
-[**لینک سایت جهت ثبت نام **](https://run.claw.cloud/)
-***👉***
-***👉***
-[**لینک آموزش در یوتیوب 👉✅**](https://youtu.be/I9qaILLt4c8?si=Nz6Yyhhssz2lKxRh)
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 17:06:32 UTC
-ساخت پنل su-i بصورت کاملا رایگان 
-با فیلتر روشن حتماً انجام بدین .
-[**لینک آموزش در یوتیوب 👉 ✅ **](https://youtu.be/I9qaILLt4c8?si=Nz6Yyhhssz2lKxRh)
-[**لینک سایت کلود اصلی 👉**](https://run.claw.cloud/)
-**👉**
-[**لینک دستورات لازم 👉**](https://xiaohekeji.blogspot.com/2025/11/blog-post_27.html?m=1)
-**👉**
-***✅***
- همچنین فایل دستورات هم در زیر همین پست قرار میگیرد .
-آموزش توسط علی جان عزیز درست شده 
-با گوشی هم میتونید انجام بدین .
-**پورت ها رو هر چی دلتون میخواد بزنید ربطی نداره مانند ویدیو بزنید .**
-با چند دقیقه وقت گذاشتن راحت برای خودتون کانفیگ بسازین داخل پنل خودتون و حتی برای کانفیگ ها حجم و زمان هم تعیین کنید .
-چی از این بهتر دیگه چی میخواین ، فقط درست مطابق آموزش انجام بدین .
-***💚***
- اشتراک گذاری یادتون نره 
-***❤️***
-...
-[@Shap2_Berother](https://t.me/Shap2_Berother)
- 
-***✅***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 14:37:03 UTC
-آموزش ساخت کانفیگ نامحدود برای خودتون رو امشب ساعت ۹ در کانال قرار میدم .
-لایک ها رو بترکونید 
-***😁***
-***🫶***
-
----
-
-### 🕒 2026-02-10 11:02:41 UTC
-کاملا رایگان، VPN دائمی بساز برای خودت و خانوادت! آموزش پنل BPB
-***🔥***
-**ویدئو طولانی هستش چون تجربیات انواع ارورها که حاصل بیش از 70-80 بار اجرا کردن این روش هست رو داخلش تمام و کمال بهتون گفتم**
-فقط با یه ایمیل ساده، برای خودت و کل خانواده‌ات VPN رایگان و پرسرعت بساز! 
-***🚀***
-آموزش کامل و قدم‌به‌قدم پنل BPB روی کلودفلر (Worker/Pages)  
-• ضد فیلتر + فرگمنت  
-• VLESS، Trojan و Warp نامحدود  
-• بدون نیاز به سرور و هزینه  
-• امنیت بالا + سرعت عالی حتی تو شرایط سخت  
-***⏰***
- فقط در عرض چند دقیقه پنل شخصی خودت رو داشته باش!
-***✅***
-00:00 مقدمه و خلاصه روش
-***✅***
-01:20 روش ساخت ایمیل و اکانت کلودفلر
-***✅***
-04:30 ساخت کانفیگ با ویزارد(روش ساخت ویژه ویندوز)
-***✅***
-17:25 روش اتصال با ویندوز
-***✅***
-19:50 آموزش ساخت دستی(روش ساخت ویژه اندروید)
-***✅***
-24:37 شیوه مصرف حجم و دائمی بودن وی پی ان
-***⚠️***
- پیش‌نیازها و نکات مهم : 
-***1️⃣***
- فقط یه لپ تاپ یا گوشی اندروید. سرور نیازی نداریم 
-***😁***
-***✉️***
- 
-[تماشا در تلگرام ](https://t.me/MatinSenPaii/1965)
-***📹***
- 
-[تماشا در یوتوب](https://youtu.be/uCRKnrQEQYU)
-***💰***
- 
-[دونیت](https://nowpayments.io/donation/matinsenpai)
-[**لینک گیتهاب bpb 🫠👉**](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa/)
-***👉***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
 
 ---
 

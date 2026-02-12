@@ -1,5 +1,29 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-12 10:38:23 UTC
+بروزرسانی: 2026-02-12 20:27:38 UTC
+
+### 🕒 2026-02-12 14:45:54 UTC
+`vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff# lrnbymaavless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#lrnbymaavless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va16.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8# lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید .
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
 
 ### 🕒 2026-02-11 17:43:01 UTC
 `vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#lrnbymaa`
@@ -59,13 +83,6 @@
 ***🔸***
  
 [@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
-
----
-
-### 🕒 2026-02-10 12:02:01 UTC
-ادعای یه شرکت اروپایی درباره رفع فیلترینگ ایران 
-یه شرکت اروپایی VPN گفته یه پروتکل جدید ساخته که می‌تونه فیلترینگ ایران رو دور بزنه. این پروتکل ترافیک اینترنت رو شبیه حالت عادی نشون می‌ده و از فیلترینگ رد می‌شه و اول برای اندروید و ویندوزه و بعدا برای مک و iOS میاد.
-[@Lrnbymaa](https://t.me/Lrnbymaa)
 
 ---
 

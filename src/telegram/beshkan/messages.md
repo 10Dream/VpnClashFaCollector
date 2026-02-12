@@ -1,5 +1,151 @@
 # آرشیو کانال: @beshkan
-بروزرسانی: 2026-02-12 10:37:16 UTC
+بروزرسانی: 2026-02-12 20:26:34 UTC
+
+### 🕒 2026-02-12 18:47:25 UTC
+***📸***
+ 
+**پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- پنج‌شنبه ۲۳ بهمن- ۱۴۰۴ **
+***🐬***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Malaysia
+[https://t.me/proxy?server=74.1.1.52&port=2040&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=74.1.1.52&port=2040&secret=dd79e344818749bd7ac519130220c25d09)
+Sweden
+[https://t.me/proxy?server=www.humaontop.space&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.humaontop.space&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+Netherlands (Kingdom of the)
+[https://t.me/proxy?server=195.254.165.233&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.233&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+Finland
+[https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+Germany
+[https://t.me/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+Finland
+[https://t.me/proxy?server=130.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=130.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+United States of America
+[https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.244&port=9443&secret=dd104462821249bd7ac519130220c25d09)
+United Kingdom
+[https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d](https://t.me/proxy?server=www.roto-best.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+France
+[https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+Germany
+[https://t.me/proxy?server=91.107.172.155&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.107.172.155&port=443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
+***📱***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-02-12 17:35:55 UTC
+**📶**
+ 
+**پروکسی‌های امن V2Ray **
+**📶**
+**  و شادوساکس برای عبور از سد فیلترینگ در تلگرام- پنج‌شنبه ۲۳ بهمن- ۱۴۰۴ **
+***🐬***
+[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
+** برای دریافت پروکسی‌های شادوساکس،  **
+**📶**
+** و فیلترشکن و پاسخ به پرسش‌های شما**
+Italy
+vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
+Poland
+vless://ca569d6c-d206-4709-9ed9-8dda73932c22@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072&type=tcp&headerType=none#%20
+Netherlands (Kingdom of the)
+vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
+Germany
+vless://0d6716db-7e72-4a88-8eb5-2124011d6a5a@95.85.232.131:10182?encryption=none&security=none&type=tcp&headerType=http&host=Excoino.com#%20
+Germany
+vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
+Poland
+vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20
+Canada
+vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
+United States of America
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.154:23576?encryption=none&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&fp=chrome&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&type=tcp&headerType=none#%20
+Canada
+vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
+United States of America
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc#%20
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-02-12 16:35:13 UTC
+***📱***
+ 
+**دستگاه آیفون خود را آپدیت کنیداپل آپدیت نسخه‌ iOS 26.3 را با اصلاح ۳۹ حفره امنیتی منتشر کرد**
+ 
+***📱***
+اپل به‌روزرسانی iOS ۲۶.۳ را منتشر کرد؛ به‌روزرسانی‌ای که بنا بر اعلام رسمی، شامل اصلاح ۳۹ آسیب‌پذیری امنیتی در بخش‌های مختلف سیستم‌عامل آیفون است.
+بر اساس هشدار امنیتی اپل، حداقل یکی از این آسیب‌پذیری‌ها در شرایط واقعی مورد سواستفاده فعال قرار گرفته است؛ موضوعی که اهمیت نصب فوری این نسخه را دوچندان می‌کند. اپل در چنین مواردی معمولا از عبارت «ممکن است به‌طور فعال مورد حمله قرار گرفته باشد» استفاده می‌کند؛ عبارتی که نشان‌دهنده خطر عملی و نه صرفا نظری است.
+این به‌روزرسانی برای کاربران آیفون ۱۱ و مدل‌های جدیدتر در دسترس قرار گرفته و توصیه می‌شود دارندگان این دستگاه‌ها در سریع‌ترین زمان ممکن سیستم‌عامل خود را به نسخه جدید ارتقا دهند.
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-02-12 14:59:04 UTC
+***⚠️***
+** هشدار امنیتی؛بدافزار جاسوسی پیشرفته ZeroDayRAT در تلگرام با کنترل کامل گوشی!**
+ 
+به گزارش محققان شرکت iVerify، طی یک هفته گذشته در تلگرام تبلیغ و فروش یک بدافزار جاسوسی پیشرفته موبایلی با نام ZeroDayRAT آغاز شده است؛ بدافزاری که امکان کنترل کامل از راه دور دستگاه‌های آلوده اندرویدی و iOS را فراهم می‌کند.
+این بدافزار صرفا به سرقت داده‌ها محدود نیست و قابلیت نظارت گسترده و سرقت مالی را نیز در اختیار مهاجمان قرار می‌دهد. ZeroDayRAT از اندروید نسخه ۵ تا ۱۶ و iOS تا نسخه ۲۶ پشتیبانی می‌کند و همراه با یک پنل مدیریتی کامل برای کنترل دستگاه‌های آلوده عرضه می‌شود.
+قابلیت‌های این بدافزار شامل ثبت فعالیت برنامه‌ها، خواندن پیامک‌ها، ردیابی موقعیت مکانی، فعال‌سازی دوربین و میکروفون، ضبط صفحه نمایش و ثبت ورودی کیبورد است. ZeroDayRAT همچنین قادر به سرقت رمزهای یکبار مصرف (OTP) و دور زدن احراز هویت دومرحله‌ای است.
+در بخش مالی، این بدافزار ماژول‌های اختصاصی برای سرقت ارزهای دیجیتال و اطلاعات بانکی دارد و کیف‌پول‌هایی مانند MetaMask، Trust Wallet، Binance و Coinbase را هدف قرار می‌دهد. از جمله روش‌های آن، جایگزینی آدرس‌های کپی‌شده با آدرس مهاجم است که می‌تواند منجر به سرقت مستقیم دارایی شود.
+محققان امنیتی توصیه می‌کنند کاربران تنها اپلیکیشن‌های مورد نیاز خود را از فروشگاه‌های رسمی نصب کنند. همچنین برای کاربرانی که امنیت دیجیتال آنها حیاتی است، فعال‌سازی Lockdown Mode در iOS و Advanced Protection در اندروید به‌عنوان یک اقدام پیشگیرانه جدی توصیه شده است.
+[ ***📎*** لینک گزارش شرکت iVerify](https://iverify.io/blog/breaking-down-zerodayrat---new-spyware-targeting-android-and-ios)
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
+
+### 🕒 2026-02-12 12:51:12 UTC
+**راهنمای کامل راه‌اندازی Conduit؛ ابزاری برای حمایت از دسترسی آزاد به اینترنت**
+قابلیت Conduit یکی از پروژه‌های شرکت Psiphon Inc. است که هدفش کمک به دسترسی آزاد به اینترنت برای کاربران در کشورهایی با سانسور شدید و محدودیت اینترنت است.
+این پروژه به شما اجازه می‌دهد که از دستگاهتان به عنوان گره رابط (node) برای شبکه Psiphon استفاده کنید و به کاربران دیگری که در مکان‌هایی با محدودیت شدید اینترنت هستند کمک کنید تا بتوانند به اینترنت آزاد دسترسی پیدا کنند.
+این فعالیت مانند مشارکت داوطلبانه در یک شبکه توزیع‌شده است که باعث افزایش تعداد مسیرهای عبور ترافیک می‌شود و پایداری شبکه را بالا می‌برد.
+***◾️***
+**چطور Conduit کار می‌کند؟**
+برنامه Conduit را از سایت اصلی دانلود و اجرا کنید. پس از اجرا، برنامه به‌ طور خودکار به شبکه Psiphon متصل می‌شود. در تنظیمات تعداد  Max Peers (حداکثر همتایان) (عدد بالاتر = کمک بیش‌تر، اما مصرف بیش‌تر پهنای باند و منابع سیستم) و Max MB/s Per Peer (حداکثر سرعت برای هر Peer) را انتخاب کنید.
+این ابزار دستگاه شما را به عنوان گره واسطه (relay node) در شبکه Psiphon فعال می‌کند.
+وقتی Conduit فعال باشد:
+***✔***
+کاربران در مناطقی که اینترنت سانسور شده می‌توانند از طریق شبکه Psiphon به اینترنت وصل شوند.
+***✔***
+دستگاه شما بخشی از مسیر بین آن‌ها و اینترنت آزاد می‌شود.
+***✔***
+همهٔ داده‌ها به صورت رمزنگاری‌شده منتقل می‌شود و شما محتویات ترافیک آن‌ها را نمی‌بینید.
+نکته امنیتی: حتی اگر دستگاه شما چنین گره‌ای شود، شما به محتوای مرور یا استفاده آن‌ها دسترسی ندارید، زیرا داده‌ها رمزگذاری شده‌اند.
+***◾️***
+**آیا اجرای Conduit امن است؟**
+طبق توضیحات Psiphon:
+ داده‌های منتقل‌شده رمزگذاری‌شده هستند و به صورت مستقیم قابل مشاهده توسط شخص شما نخواهند بود.
+برنامه  Psiphon از سال‌ها پیش به عنوان یک پروژه منبع باز (Open Source) فعالیت می‌کند و کد آن در دسترس عموم است.
+ با این حال، همانند هر پروژه اینترنتیِ دیگر، امنیتِ کامل وجود ندارد و بهتر است نکات ایمنی عمومی را رعایت کنید، مثل:
+از نصب نسخه‌های غیررسمی خودداری کنید.
+دستگاهی را برای اجرای گره انتخاب کنید که اطلاعات حساس کم‌تری روی آن باشد.
+***◾️***
+**آیا وقتی Conduit کار می‌کند سرعت اینترنت کم می‌شود؟**
+بله، امکان دارد اجرای Conduit باعث تاخیر یا مصرف بخشی از پهنای باند اینترنت شما شود، چون دستگاه شما به عنوان مسیر انتقال داده عمل می‌کند.
+**◾️سرویس**
+ 
+**Conduit روی چه دستگاه‌هایی کار می‌کند؟**
+در اطلاعات رسمی گفته شده که این پروژه در حال پشتیبانی از سیستم عامل‌های اندروید، ویندوز و مک.او.اس است، اما پشتیبانی از سیستم عامل iOS هنوز کامل نشده.
+[  ادامه مطلب در وب‌سایت تواناتک](https://tech.tavaana.org/circumvention-tools/conduit-psiphon-iran/)
+ 
+***📱***
+***✍***
+ 
+[Beshkan](https://t.me/beshkan)
+
+---
 
 ### 🕒 2026-02-11 17:38:13 UTC
 **📶**
@@ -90,138 +236,6 @@ Sweden
 از سوی دیگر، به دلیل ممنوع بودن استارلینک در ایران، مال‌باختگان عملا امکان شکایت رسمی و پیگیری حقوقی را هم ندارند. همین خلأ قانونی، دست کلاهبرداران را باز گذاشته و باعث شده این افراد با اطمینان از بی‌پناهی قربانیان، فعالیت خود را ادامه دهند.
 محمد جرجندی، مدیر و موسس کانال وب‌آموز درباره این صفحه نوشته:
 «برای نمونه، یکی از این پیج‌ها تاکنون دست‌کم ۹ بار نام کاربری خود را تغییر داده و اکنون دوباره با عنوان فروش استارلینک مشغول کلاهبرداری از کاربران است.»
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-10 17:15:38 UTC
-**📶**
- 
-**پروکسی‌های امن V2Ray **
-**📶**
-**  و شادوساکس برای عبور از سد فیلترینگ در تلگرام- سه‌شنبه ۲۱ بهمن- ۱۴۰۴ **
-***🐬***
-[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
-** برای دریافت پروکسی‌های شادوساکس،  **
-**📶**
-** و فیلترشکن و پاسخ به پرسش‌های شما**
-Italy
-vless://4bdc57ea-b143-493b-9654-be66e049f81e@95.141.36.10:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=aws.com&alpn=h2&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Netherlands (Kingdom of the)
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%20
-Netherlands (Kingdom of the)
-vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.113.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
-Germany
-vless://278cdc8a-1c0c-4710-bc48-b8c6e5f36c24@217.154.254.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Poland
-vless://71031aa1-067e-425e-97f5-37875f838a10@144.31.0.58:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=HpsfKx7yMXjK6X2n5J8Z58MKBdq_od6trtPoWkcoZlc&sid=d1&type=tcp&headerType=none#%20
-Canada
-vless://e4824193-4f54-453b-d037-88368e85ef0e@104.16.9.20:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
-United States of America
-vless://e4824193-4f54-453b-d037-88368e85ef0e@172.67.249.36:443?encryption=none&security=tls&sni=pqh30v5.carwashipdir.shop&alpn=h2&type=grpc#%20
-Poland
-vless://ca569d6c-d206-4709-9ed9-8dda73932c22@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072&type=tcp&headerType=none#%20
-Germany
-vless://2db1793c-48c5-4cc7-b893-02292fd9400b@217.160.189.116:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=azure.com&fp=chrome&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&type=tcp&headerType=none#%20
-Netherlands (Kingdom of the)
-vless://a44e0875-210f-4941-9062-89b6361a14c6@91.84.102.30:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&fp=chrome&pbk=i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4&sid=8bcfe256cf216fd8&type=tcp&headerType=none#%20
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-10 17:14:08 UTC
-***📸***
- 
-**پروکسی‌های امن MTproto برای عبور از سد فیلترینگ در تلگرام- سه‌شنبه ۲۱ بهمن- ۱۴۰۴ **
-***🐬***
-[** بات تلگرامی بشکن**](https://t.me/beshkantechbot)
-** برای دریافت پروکسی‌های شادوساکس،  **
-**📶**
-** و فیلترشکن و پاسخ به پرسش‌های شما**
-France
-[https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=https.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-United States
-[https://t.me/proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-Ireland
-[https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
-Finland
-[https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=65.109.24.37&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-United States of America
-[https://t.me/proxy?server=5.78.41.13&port=4455&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=5.78.41.13&port=4455&secret=dd104462821249bd7ac519130220c25d09)
-United States of America
-[https://t.me/proxy?server=185.215.247.60&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.215.247.60&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-Sweden
-[https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=www.alo-alo.ink.&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-Canada
-[https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8](https://t.me/proxy?server=www.download-fast.co.uk&port=443&secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
-Germany
-[https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-Sweden
-[https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-برای استفاده سایر کاربران، دوستان و هم‌وطنان، این پروکسی‎‌ها را به اشتراک بگذارید 
-***📱***
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-10 15:10:43 UTC
-***⚠️***
-** هشدارهکرها از احساسات مردم و خانواده‌های داغدار به‌عنوان طعمه استفاده می‌کنند **
-در حالی که هزاران خانواده داغدار عزیزان‌شان هستند، هکرها تلاش می‌کنند از همین فضای احساسی سوءاستفاده کنند. کارشناسان امنیت سایبری از شناسایی یک کمپین مخرب جدید خبر داده‌اند که در آن، مهاجمان با تحریک احساسات و کنجکاوی کاربران، سراغ سرقت اطلاعات و جاسوسی از سیستم‌ها می‌روند.
-این حملات از مسیر ابزارهای کاملا روزمره مثل مایکروسافت اکسل، گوگل درایو و حتی تلگرام انجام می‌شود.
-سناریو معمولا با یک فایل فشرده (ZIP) شروع می‌شود که داخل آن یک فایل اکسل با پسوند XLSM قرار دارد. روی فایل نام‌هایی مثل «لیست اسامی» یا «جزئیات یک حادثه» می‌گذارند تا کاربر را به باز کردنش ترغیب کنند.
-فایل اکسل در ظاهر فقط چند جدول ساده دارد، اما در پشت پرده یک کد مخرب داخل آن پنهان شده است. به محض باز کردن فایل، اکسل از شما می‌خواهد برای نمایش یا اجرای صحیح محتوا، ماکروها (Macros) را فعال کنید و دقیقا همینجا تله عمل می‌کند.
-اگر ماکرو را فعال کنید، یک بدافزار پیشرفته به شکل مخفیانه روی سیستم نصب می‌شود. بررسی‌ها نشان می‌دهد اطلاعات داخل این فایل‌ها اغلب ساختگی است و فقط برای تحریک کنجکاوی و کشاندن کاربر به دام طراحی شده‌اند.
-نکته نگران‌کننده این کمپین، استفاده هوشمندانه از سرویس‌های عمومی برای پنهان کردن ردپاست:
-***1️⃣***
- 
-**گوگل درایو (Google Drive)**
- 
-***📱***
-بدافزار بعد از نصب به لینک‌هایی در گوگل درایو وصل می‌شود و دستورهای جدید می‌گیرد. این دستورها گاهی داخل فایل‌های تصویری پنهان می‌شوند (تکنیک پنهان‌نگاری / Steganography) تا شناسایی‌شان سخت‌تر شود.
-***2️⃣***
-** تلگرام **
-**📱**
-مهاجمان از طریق API ربات تلگرام، بدافزار را کنترل می‌کنند. اطلاعات سرقت‌شده (مثل فایل‌ها، اسناد و تصاویر) از همین مسیر برای هکر ارسال می‌شود و دستورهای تازه هم از تلگرام به سیستم آلوده می‌رسد.
-یعنی هکرها از همان زیرساخت‌هایی استفاده می‌کنند که میلیون‌ها نفر هر روز با آن کار می‌کنند، و همین موضوع ردیابی را سخت‌تر می‌کند.
-در این مدل حمله، مهاجم لزوما دنبال «حفره امنیتی» در نرم‌افزار نیست؛ مستقیم سراغ بزرگ‌ترین نقطه ضعف می‌رود: احساسات و کنجکاوی انسان. یک عنوان حساس و جنجالی کافی است تا خیلی‌ها فایل ناشناس را باز کنند.
-***◾️***
-**توصیه‌های مهم**
-***✔***
-هر چیزی که بیش از حد جنجالی و تحریک‌کننده است، می‌تواند تله باشد.
-***✔***
-هیچ وقت برای فایلی که کاملا به آن اعتماد ندارید، ماکرو یا دسترسی‌های اضافی را فعال نکنید.
-***✔***
-قبل از هر کلیک، چند ثانیه مکث کنید؛ گاهی امنیت شما به همان یک کلیک بستگی دارد.
-***✍***
- 
-[Beshkan](https://t.me/beshkan)
-
----
-
-### 🕒 2026-02-10 12:20:49 UTC
-**کنترل دائمی اینترنت؛طرح جدید جمهوری اسلامی برای زندگی دسترسی مردم به اینترنت**
-بر اساس گزارشی که وب‌سایت JNS منتشر کرده، اسناد افشاشده نشان می‌دهد قطعی اینترنت، فیلترینگ گسترده، کوچ اجباری کاربران به پلتفرم‌های داخلی و برخورد با فیلترشکن‌ها نه اقدامات مقطعی، بلکه بخشی از یک برنامه دائمی و از پیش‌طراحی‌شده است.
-***🔸***
-طبق این اسناد، جمهوری اسلامی در حال تدارک بازطراحی کامل اینترنت است؛ طرحی برای اعمال کنترل دائمی بر جریان اطلاعات و زندگی دیجیتال شهروندان. برخلاف روایت رسمی که این محدودیت‌ها را «امنیتی و موقت» می‌خواند، مدارک منتشرشده از برنامه‌ای بلندمدت حکایت دارد که هدفش مسدودسازی سرویس‌های خارجی، جرم‌انگاری استفاده از وی‌پی‌ان و وادار کردن کاربران به استفاده از خدمات مورد تأیید حکومت است.
-این طرح که به گفته اسناد با مشارکت مهندسان همسو با حاکمیت تدوین شده، حذف یا بی‌اثر کردن فناوری‌های موسوم به «غیربومی» را دنبال می‌کند. دامنه آن محدود به نهادهای دولتی نیست؛ پیام‌رسان‌ها و شبکه‌های اجتماعی پرکاربرد، از جمله تلگرام، واتس‎‌اپ، اینستاگرام، توییتر و یوتیوب، و حتی سرویس‌هایی مانند جیمیل و زوم نیز در فهرست هدف قرار دارند. رویکرد کلی یا جایگزینی اجباری این خدمات است یا اعمال کنترل‌هایی آن‌چنان سختگیرانه که عملا کارکردشان از بین برود؛ و هر جا حذف فوری ممکن نباشد، فیلترینگ شدید اعمال شود.
-نکته نگران‌کننده آن‌جاست که در این اسناد به «تدریجی اما غیرقابل بازگشت» بودن این فرآیند تأکید شده است؛ مسیری که بازگشت به اینترنت آزاد را ناممکن می‌کند و الگوهای کنترلی کشورهایی مانند چین و روسیه را بازتولید می‌کند. طراحان این پروژه، «اینترنت ملی» را برای بقای حکومت حیاتی می‌دانند.
-***🔸***
-برای جامعه‌ای که تجربه قطع سراسری اینترنت در جریان اعتراضات را دارد، پیام روشن است: آنچه قبلا به عنوان «اقدام اضطراری» نامیده می‌شد، حالا در حال تبدیل شدن به یک قاعده همیشگی است. هدف، محدود کردن امکان سازماندهی اعتراضات و مسدود کردن مسیر ارسال اطلاعات به خارج از کشور است.
-در این میان، نقش شرکت‌های خارجی چین و روسیه نیز محل بحث است. هرچند نامی به‌صراحت در اسناد نیامده، اما کارشناسان و خبرنگاران از نقش پررنگ هواوی سخن می‌گویند. به گفته یک کارشناس امنیت سایبری، این شرکت هم‌اکنون بخش بزرگی از زیرساخت مخابراتی ایران را در اختیار دارد و در تأمین ابزارهای نظارتی و فیلترینگ پیشرفته نقشی کلیدی ایفا می‌کند.
-***🔸***
-در واکنش، شماری از فعالان خارج از کشور کارزارهایی را برای تحریم و نخریدن محصولات هواوی آغاز کرده‌اند. استدلال آن‌ها این است که وقتی دولت ها اقدامی نمی‌کنند، فشار افکار عمومی و تحریم مصرف‌کننده می‌تواند تنها راه واداشتن شرکت‌ها به فاصله گرفتن از مشارکت در سرکوب باشد.
-جمع‌بندی اسناد روشن است: جمهوری اسلامی در پی ساختن دیوار دیجیتال پیرامون کشور است؛ دیواری که هم‌زمان ابزارهای سرکوب را مدرن می‌کند. موفقیت این پروژه، می‌تواند به الگویی برای سایر حکومت‌های اقتدارگرا تبدیل شود.
-خلاصه شده از گزارش JNS
-[لینک گزارش](https://www.jns.org/leaked-documents-from-regime-reveal-plan-to-reshape-irans-internet-permanently/)
- 
-***📱***
 ***✍***
  
 [Beshkan](https://t.me/beshkan)

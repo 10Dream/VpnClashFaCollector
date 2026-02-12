@@ -465,14 +465,17 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms | ♻️32@oneclickvpnkeys", server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt", server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💫15@oneclickvpnkeys", server: mlxy1.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy1.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💫8@oneclickvpnkeys`", server: mlxy2.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy2.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💫9@oneclickvpnkeys", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms |", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***🚀***configraygan`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @YamYamProxy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @proxy_kafee`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | •", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | ⚡Telegram -", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -492,14 +495,17 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"
@@ -509,14 +515,17 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"
@@ -526,14 +535,17 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"
@@ -552,14 +564,17 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"
@@ -569,14 +584,17 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"
@@ -586,14 +604,17 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | ♻️32@oneclickvpnkeys"
-      - "| null | 99999ms | 🇩🇪All⁷ | @freenet_vt"
+      - "| null | 99999ms | 💫15@oneclickvpnkeys"
+      - "| null | 99999ms | 💫8@oneclickvpnkeys`"
+      - "| null | 99999ms | 💫9@oneclickvpnkeys"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 1363ms | 🇩🇪All⁷ | @freenet_vt
       - "| null | 99999ms |"
       - "| null | 99999ms | ***🆔***"
       - "| null | 99999ms | ***🚀***configraygan`"
       - "| null | 99999ms | @YamYamProxy"
       - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | @proxy_kafee 2"
       - "| null | 99999ms | @proxy_kafee`"
       - "| null | 99999ms | •"
       - "| null | 99999ms | ⚡Telegram -"

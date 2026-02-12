@@ -1,7 +1,7 @@
 # آرشیو کانال: @MARAMBASHI
-بروزرسانی: 2026-02-12 10:34:54 UTC
+بروزرسانی: 2026-02-12 20:24:12 UTC
 
-### 🕒 2026-02-12 07:57:12 UTC
+### 🕒 2026-02-12 19:30:02 UTC
 **فرو**
 ش سرور 
 ***🔐***
@@ -50,6 +50,128 @@
 [@CHOQONI](https://t.me/CHOQONI)
  
 ***👩‍💻***
+
+---
+
+### 🕒 2026-02-12 19:20:31 UTC
+***🌊***
+کانفیگ NPV TUNNEL
+***🔐***
+کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🔐***
+[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
+***🔐***
+***▶***
+[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***▶***
+***🍏***
+[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+***🍏***
+***🔐***
+[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
+***🔐***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
+
+---
+
+### 🕒 2026-02-12 15:34:58 UTC
+***🌊***
+کانفیگ NPV TUNNEL
+***🔐***
+کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🔐***
+[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
+***🔐***
+***▶***
+[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***▶***
+***🍏***
+[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+***🍏***
+***🔐***
+[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
+***🔐***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
+
+---
+
+### 🕒 2026-02-12 12:49:56 UTC
+***🌊***
+کانفیگ NPV TUNNEL
+***🔐***
+کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🔐***
+[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
+***🔐***
+***▶***
+[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***▶***
+***🍏***
+[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+***🍏***
+***🔐***
+[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
+***🔐***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
+
+---
+
+### 🕒 2026-02-12 11:39:05 UTC
+***🔶***
+کانفیگ ویتوری همه اپراتورا
+***🔶***
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxNWIwNTczODMwMDgxZDAx@51.89.119.213:11201#%40MARAMBASHI%20%F0%9F%92%9Cvless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40MARAMBASHI%20%F0%9F%92%9Cvless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.37.10:993?security=reality&encryption=none&pbk=0xVsi6JYS-gJFUILwuePsB32jvWtxRT_okJSmcWEQEc&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40MARAMBASHI%20%F0%9F%92%9Cvless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#%40MARAMBASHI%20%F0%9F%92%9Cvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dev.nestandneighbours.com&type=ws&allowInsecure=0&sni=dev.nestandneighbours.com#%40MARAMBASHI%20%F0%9F%92%9Cvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40MARAMBASHI%20%F0%9F%92%9Cvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%40MARAMBASHI%20%F0%9F%92%9Cvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40MARAMBASHI%20%F0%9F%92%9C`
+منطقه ای
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***📶***
+همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
+[آموزش](https://t.me/MARAMBASHI/31359)
+)
+***🛜***
+***🛜***
+***🔶***
+[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
+***🔶***
+ 
+***⚪️***
+[خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
+***⚫️***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
 
 ---
 
@@ -210,68 +332,6 @@
 ---
 
 ### 🕒 2026-02-10 23:13:48 UTC
-***🌊***
-کانفیگ NPV TUNNEL
-***🔐***
-کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🔐***
-[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
-***🔐***
-***▶***
-[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***▶***
-***🍏***
-[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🍏***
-***🔐***
-[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
-***🔐***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-10 19:23:20 UTC
-***🔶***
-کانفیگ ویتوری همه اپراتورا
-***🔶***
-`vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=web.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=web.abcallcenter.com#%40MARAMBASHI%20%F0%9F%92%99vless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2048&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#%40MARAMBASHI%20%F0%9F%92%9Fvless://4ef2801b-c828-4de9-bd8e-a9b516e05dd2@188.0.247.19:1050?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp#%40MARAMBASHI%20%F0%9F%92%99vless://05bf8722-42e1-4fd5-8db7-bc7ad9912b21@t2.cesar2.click:443?security=none&encryption=none&host=divarcdn.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%40MARAMBASHI%20%F0%9F%92%9Fvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.18.247:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40MARAMBASHI%20%F0%9F%92%9Fvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%40MARAMBASHI%20%F0%9F%92%9Fvless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#%40MARAMBASHI%20%F0%9F%92%9F`
-منطقه ای
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***📶***
-همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
-[آموزش](https://t.me/MARAMBASHI/31359)
-)
-***🛜***
-***🛜***
-***🔶***
-[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
-***🔶***
- 
-***⚪️***
-[خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
-***⚫️***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-10 15:57:55 UTC
 ***🌊***
 کانفیگ NPV TUNNEL
 ***🔐***

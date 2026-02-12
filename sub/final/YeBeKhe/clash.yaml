@@ -470,51 +470,63 @@ proxies:
   - {name: 62.60.233.226:62763, server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
   - {name: 38.60.171.254:990, server: 38.60.171.254, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 57.129.95.198:11201, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🐳", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: jILPT8n8p9YVVl0oJzyuc7, udp: true, tfo: false}
   - {name: 82.38.31.184:8080, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: 173.244.56.9:443, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 62.146.172.134:443, server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
+  - {name: 62.146.172.134:80, server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
   - {name: "@V2rayMiner", server: 62.146.172.130, port: 443, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
+  - {name: 207.246.77.149:443, server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
+  - {name: 207.246.77.149:80, server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
+  - {name: 209.126.5.209:443, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: 94.72.127.58:443, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
+  - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: "@V2rayMiner 2", server: 62.146.171.57, port: 443, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
   - {name: "@V2rayMiner 3", server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
+  - {name: 154.12.240.141:443, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 155.138.158.179:443, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:80, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
   - {name: 185.18.250.252:443, server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: www.multiplydose.com:443, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 🇷🇺 netherland.boot-lee.ru:8443, server: netherland.boot-lee.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 05dc09d5-5c56-454b-a34e-6ef743d91e1a, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28, short-id: abc123}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 134928ab-cbd9-4196-98ce-deef2be9fe09, servername: 639065083958087309.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/yjdsyuws?ed", headers: {Host: 639065083958087309.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: av.nexconnx.com:8080, server: av.nexconnx.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 19a1e5b1-6289-4fe6-9aad-be285510942d, host: check-host.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.242.125.18:80, server: 193.242.125.18, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2130291f-50e9-43d4-d415-c85b34134d4f, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.34.145:443, server: 37.139.34.145, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21cc0396-c482-4f29-b1bf-90a9e60f1599, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 28047c78b3f5ee2c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: medium.com:2053, server: medium.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 2637679c-e2fe-45a2-9962-e2ddf8469c29, servername: foucse1.goooooooozoooo.sbs, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: foucse1.goooooooozoooo.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443 2, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e27ac27-c360-489a-86ea-8b9659de6763, servername: 639065083958064562.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/jztpmbws?ed", headers: {Host: 639065083958064562.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.195.132:199, server: 85.133.195.132, port: 199, type: vless, tls: true, packet-encoding: xudp, uuid: 32c5b858-ea45-4bb7-b474-042ea949241c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.129.137.56:443, server: 57.129.137.56, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3321a819-889d-40b3-b8fa-f34208827ef1, servername: o00o.snip.qzz.io, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: o00o.snip.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: riali22.carpet-carpet-carped.ir:2018, server: riali22.carpet-carpet-carped.ir, port: 2018, type: vless, tls: true, packet-encoding: xudp, uuid: 352f047c-3176-4271-9bc6-3f7d33ee03c7, servername: ub.com, host: ub.com, path: /, reality-opts: {public-key: pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc, short-id: 83f404}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.0.247.19:1050, server: 188.0.247.19, port: 1050, type: vless, tls: true, packet-encoding: xudp, uuid: 4ef2801b-c828-4de9-bd8e-a9b516e05dd2, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: atawich.global.ssl.fastly.net:443, server: atawich.global.ssl.fastly.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 505997ba-cbdb-466e-a3ad-69c6a4553b38, servername: atawich.global.ssl.fastly.net, alpn: [http/1.1], network: ws, ws-opts: {path: /containers/fi, headers: {Host: atawich.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.33.57:51101, server: 37.139.33.57, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: 52005493-6deb-4953-b63c-ffc719cb7ab7, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.20.1.252:80, server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f, network: ws, ws-opts: {path: "/?ed", headers: {Host: bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443 3, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 573e147f-c502-486f-b823-bafa0dd3c6c5, servername: 639065083958016952.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/bzszqqws?ed", headers: {Host: 639065083958016952.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.101.9.80:80, server: 151.101.9.80, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5a1d2c0c-abfa-4050-918f-bfab3eaee62a, network: ws, ws-opts: {path: "/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: adspeedx23.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443 4, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e0c0c2a-d600-4dc8-9621-d293e935048d, servername: 639065083958163454.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/huwmciws?ed", headers: {Host: 639065083958163454.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: reza.alphanet01.com:51349, server: reza.alphanet01.com, port: 51349, type: vless, tls: true, packet-encoding: xudp, uuid: 5f7e591c-97d4-4a51-a874-0e9d5665f9ed, network: ws, ws-opts: {path: "@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,", headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.153.231:2096, server: 162.159.153.231, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.74.24.127:443, server: 80.74.24.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40.160.14.104:8880, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.27.25.72:443, server: 104.27.25.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d3a8052-09ee-48f7-8a19-3e24f30a7da1, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /uqBYRQhpA2NzSIhejwuqjz#, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.159.131.76:443, server: 78.159.131.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8741e284-6199-4a8e-ace7-c9625b68ea64, servername: al.cdn.stun.su, host: al.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: 9f6a51680da312f6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.129.132.223:80, server: 57.129.132.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.188.104.168:40721, server: 64.188.104.168, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.98.91.239:54382, server: 91.98.91.239, port: 54382, type: vless, tls: true, packet-encoding: xudp, uuid: c22a48ae-9954-45f9-9bf4-5093c655f25e, servername: www.filimo.com, host: www.filimo.com, path: /, reality-opts: {public-key: ND4rW86TrsFd08jBWMVswXusm47oqWn8bmnEgUsZTWM, short-id: f4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.233.96.101:4443, server: 212.233.96.101, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: c59f075a-b3a1-44e3-9680-375d81e6d8f7, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: -BT-beTCZ_6dr1akzVJLsuXtD6GrvUeSnFw3qYnikQQ, short-id: f92954e2e710}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 137.184.218.169:36925, server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:443, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d453b11a-5988-4b9a-9aca-5cfb9b336946, servername: usc.ketabv.ir, alpn: [http/1.1], network: ws, ws-opts: {path: /V9RZyjTD5QiH08HK8A2L9XMg, headers: {Host: usc.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.147.22:443 2, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d453b11a-5988-4b9a-9aca-5cfb9b336946, servername: usc.ketabv.ir, network: ws, ws-opts: {path: /V9RZyjTD5QiH08HK8A2L9XMg, headers: {Host: usc.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 2, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 3, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 4, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 5, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com`, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: web.abcallcenter.com`}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 6, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: "/--Telegram---@/---@/---@/---@?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 7, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443 8, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, network: ws, ws-opts: {path: 2560, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 2, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz-@vpnbaz, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 3, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 4, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com`, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: web.abcallcenter.com`}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 5, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: "/--Telegram---@/---@/---@/---@?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 6, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http/1.1], network: ws, ws-opts: {path: /Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz-Telegram@vpnbaz, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.180.92:443 7, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, network: ws, ws-opts: {path: 2560, headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: cdn.abcallcenter.com, network: ws, ws-opts: {path: /--Telegram---@vpnbaz/---@vpnbaz/---vpnbaz/---@vpnbaz, headers: {Host: cdn.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:443 2, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: cdn.abcallcenter.com, network: ws, ws-opts: {path: /, headers: {Host: cdn.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 192.200.160.20:443 5, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dfe27fc3-cd77-447d-8845-d3b0c22d25f7, servername: 639065083944524400.mustang-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/joiiqpws?ed", headers: {Host: 639065083944524400.mustang-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh29v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: all.tellmethetrue.shop:443 2, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.33.57:8443, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eb4234b2-8083-4038-af1d-ae752b4ad6d4, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -541,37 +553,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -583,9 +607,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443
@@ -602,37 +626,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -644,9 +680,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443
@@ -663,37 +699,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -705,9 +753,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443
@@ -733,37 +781,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -775,9 +835,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443
@@ -794,37 +854,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -836,9 +908,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443
@@ -855,37 +927,49 @@ proxy-groups:
       - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
-      - "@MARAMBASHI 🐳"
       - 82.38.31.184:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
       - 173.244.56.9:443
+      - 62.146.172.134:443
+      - 62.146.172.134:80
       - "@V2rayMiner"
+      - 207.246.77.149:443
+      - 207.246.77.149:80
+      - 209.126.5.209:443
+      - 209.126.5.209:80
+      - 94.72.127.58:443
+      - 94.72.127.58:80
       - "@V2rayMiner 2"
       - "@V2rayMiner 3"
+      - 154.12.240.141:443
+      - 154.12.240.141:80
+      - 155.138.158.179:443
+      - 155.138.158.179:80
       - 185.18.250.252:443
       - www.multiplydose.com:443
       - 🇷🇺 netherland.boot-lee.ru:8443
+      - 192.200.160.20:443
       - av.nexconnx.com:8080
       - 193.242.125.18:80
       - 37.139.34.145:443
-      - medium.com:2053
+      - 192.200.160.20:443 2
       - 85.133.195.132:199
       - 57.129.137.56:443
       - riali22.carpet-carpet-carped.ir:2018
-      - 188.0.247.19:1050
       - atawich.global.ssl.fastly.net:443
       - 37.139.33.57:51101
       - 104.20.1.252:80
+      - 192.200.160.20:443 3
       - 151.101.9.80:80
+      - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
       - 162.159.153.231:2096
       - 80.74.24.127:443
       - 40.160.14.104:8880
+      - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
       - 64.188.104.168:40721
-      - 91.98.91.239:54382
       - 212.233.96.101:4443
       - 137.184.218.169:36925
       - 104.17.147.22:443
@@ -897,9 +981,9 @@ proxy-groups:
       - 172.67.180.92:443 5
       - 172.67.180.92:443 6
       - 172.67.180.92:443 7
-      - 172.67.180.92:443 8
       - 188.114.98.0:443
       - 188.114.98.0:443 2
+      - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
       - 37.139.33.57:8443

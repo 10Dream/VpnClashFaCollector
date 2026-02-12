@@ -476,11 +476,16 @@ proxies:
   - {name: lrnbymaa 5, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa 6, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: itns-2.blackpapers.ir, network: ws, ws-opts: {path: /, headers: {Host: itns-2.blackpapers.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 4, server: 199.119.137.95, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa 7, server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 7, server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 8, server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa` 5, server: dynamic.gogolilililili.shop, port: 8888, type: vless, tls: true, packet-encoding: xudp, uuid: 9e4c954c-133f-4530-99f2-e2c102b3e414, host: Google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.107.249.108:49749, server: 91.107.249.108, port: 49749, type: vless, tls: true, packet-encoding: xudp, uuid: d035704c-fe9c-4ed8-8106-effd398a7e87, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: va16.serverh1ub.ir:8080, server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @ lrnbymaa 🇩🇪`, server: amir.behnamweb.fun, port: 1234, type: vless, tls: true, packet-encoding: xudp, uuid: e49726ab-3438-4004-b351-dd9d6d9b0da5, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@lrnbymaa`", server: 79.137.175.56, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8accc46-c511-42fb-919b-9283799a88a1, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 8f222b3475800821}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37.139.33.57:8443, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eb4234b2-8083-4038-af1d-ae752b4ad6d4, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @, server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @ 2, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.nestandneighbours.com, network: ws, ws-opts: {path: /, headers: {Host: dev.nestandneighbours.com}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -509,10 +514,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -531,10 +541,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -553,10 +568,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -584,10 +604,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -606,10 +631,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -628,10 +658,15 @@ proxy-groups:
       - lrnbymaa 6
       - lrnbymaa` 4
       - lrnbymaa 7
+      - lrnbymaa 8
       - lrnbymaa` 5
       - 91.107.249.108:49749
+      - va16.serverh1ub.ir:8080
       - ⚡Telegram - @ lrnbymaa 🇩🇪`
       - "@lrnbymaa`"
+      - 37.139.33.57:8443
+      - ⚡Telegram - @
+      - ⚡Telegram - @ 2
   - name: دانلود منیجر 📥
     type: select
     proxies:
