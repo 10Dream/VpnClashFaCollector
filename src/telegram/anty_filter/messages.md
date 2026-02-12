@@ -1,5 +1,29 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-11 20:30:51 UTC
+بروزرسانی: 2026-02-12 01:09:08 UTC
+
+### 🕒 2026-02-11 22:12:25 UTC
+***⚫️***
+ 
+**فیلترشکن Eagle VPN (اندروید)**
+• نسخه 2.2
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+وصل نشد، مجدداً برای اتصال تلاش کنید.
+***📥***
+[دانلود EagleVPN از گوگل پلی ](https://play.google.com/store/apps/details?id=com.mig.app)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-11 21:41:04 UTC
+سرور ویتوری 
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206UGFDWGtnOTdrOWs5YTE4clM3OGtlOXdoZHFNQkNxbVhycFROZkVZTkpZZz0@51.178.85.208:8388#%40vpnbaz%20%F0%9F%AB%9F
+vless://ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a@104.20.1.252:80?path=%2F&security=none&encryption=none&host=WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.&type=ws#%40vpnbaz%20%F0%9F%A7%B8
+vless://75afff14-dad5-43d2-bd47-207b15978630@172.66.44.54:2083?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=abolcinfig1.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=abOLCInFIG1.PagES.dEv#%40vpnbaz%20%F0%9F%8E%88
+vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=%2F%3Fed%3D512&security=none&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#%40vpnbaz%20%F0%9F%8E%A8
+vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-11 19:59:06 UTC
 سرور ویتوری 
@@ -9,35 +33,6 @@ vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&
 vless://8fba6073-b989-47ad-bb2b-a2dca22bfca2@H6.FASTSPEEDS.IR:2083?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=aslan-locz2.ip-venzo.com#%40vpnbaz%20%F0%9F%8F%80
 vmess://eyJhZGQiOiI5MS4yMDYuMTcxLjE2OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2MDY5MDdkZi05OTBjLTQ0NTUtODVhZi1iZDY3OTNmODFiMmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODAiLCJwcyI6IkB2cG5iYXog8J+boe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-11 19:58:18 UTC
-> ↪️ **Forwarded**
-
-***🚀***
- اختلال و قطعی سرور؟ 
-**WIZARD**
- 
-**VPN**
- کم نمیاره! 
-***🎁***
- 
-در شرایطی که، فیلترشکن‌ها 
-**اختلال**
- دارند
-***🇮🇷***
-***🇮🇷***
- 
-**اشتراک‌های WIZARD مثل همیشه**
- …
-کاملا متصل با بهترین سرعت فعال هستند.
-***⭐️***
-***🎁***
- رهایی کامل از فیلترینگ بدون ذره‌ای اختلال
-***👇***
-***👇***
-***👇***
 
 ---
 
@@ -218,32 +213,6 @@ vless://7d680304-b026-48fd-d8bf-6aa209b424c5@3.122.204.84:19592?security=none&en
 vless://eea43b1a-4411-4ff7-f5b4-a860a81cad63@3.123.128.216:28706?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%9B%9F
 vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8E%AD
 vless://de524de8-06a2-4026-c602-651f0304151b@3.70.171.93:443?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%9A%87
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-09 21:45:42 UTC
-***🔴***
- 
-**نسخه جدید فیلترشکن BD NET VPN (اندروید)**
-• نسخه 103
-نسخه مود شده و بدون محدودیت 
-برای اینترنت ملی و بین‌الملل، عملکرد خوبی داره.
-← 
-[سرورهای پیشنهادی برای اتصال ](https://t.me/VPNSupportGroup/3787889?single)
-***📥***
-[لینک دانلود مستقیم این فیلترشکن   گزینه دانلود با سرعت محدود رو بزنید.](https://uploadb.me/m5afdplrt4k9/BDNET._)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-09 21:36:54 UTC
-سرور ویتوری 
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%9B%B8
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%8E%AF
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8E%B3
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%8E%83
-vless://d7c862e5-e507-4dc8-8506-43d5d9de7387@188.114.98.0:2053?path=%2FeyJqdW5rIjoidDZLaDRBMWhpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&insecure=1&host=azrping.melishekan.site&fp=chrome&type=ws&allowInsecure=1&sni=AzRPiNG1.mEliSHeKaN.SItE#%40vpnbaz%20%F0%9F%92%8E
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

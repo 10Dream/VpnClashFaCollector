@@ -1,5 +1,35 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-11 20:31:43 UTC
+بروزرسانی: 2026-02-12 01:10:06 UTC
+
+### 🕒 2026-02-11 21:31:19 UTC
+این بکاپ هست
+
+---
+
+### 🕒 2026-02-11 21:30:47 UTC
+‌.طبق تاریخ و ساعت نگاه کنید وارد کنید
+
+---
+
+### 🕒 2026-02-11 21:27:00 UTC
+بکاپ اصلی اینه چون  تکمیل نشده نزاشتم سرورهای همراه هم داره اعتبارش یکماهه
+
+---
+
+### 🕒 2026-02-11 21:21:47 UTC
+`freenet_vt`
+
+---
+
+### 🕒 2026-02-11 21:20:07 UTC
+باز  فک کتن رمزش اشتباه زدم
+
+---
+
+### 🕒 2026-02-11 21:18:53 UTC
+روی نسخه اصلی ف برای نت ایرانسل سرورهای Vip گذاشتم سرعت عالی
+
+---
 
 ### 🕒 2026-02-11 20:02:03 UTC
 پسورد ش زیر بکاپ همین و بر دارید
@@ -264,31 +294,6 @@ User:
 `VPN-1309843`
 Pass: 
 `barayehAzadi`
-
----
-
-### 🕒 2026-02-09 22:37:49 UTC
-۱
-***♻️***
- بکاپ  ,دهم  کلاینت پرو 
-***⚙️***
- سرورهای  openvpn
-متصل روی   همه امراتورها
-***🗝***
-پسورد بکاپ :
-`freenet_vt`
-***❗️***
-توجه کنید فقط باید از نسخه پریموم و مود کلاینت پرو استفاده کنید  :
-***📥***
-Download
-***🎦***
-آموزش وارد کردن بکاپ
-
----
-
-### 🕒 2026-02-09 20:56:04 UTC
-`vless://5070f55f-1666-4d55-8817-8200dd4f7ea1@3.75.172.33:28027?security=none&encryption=none&headerType=none&type=tcp#%23freenet_vtvless://68820b0d-b836-435c-e3d5-c4ce8b97f0ac@3.71.111.91:19285?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.123.254.74:39781?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://cbf69c40-f872-4cfb-858e-dd143468b272@3.123.34.191:443?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://3cadf249-13a2-413f-867a-a802964f914d@18.159.41.27:443?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtvless://f8f72d24-17a1-46a2-cb10-3a433bd6e831@18.153.80.0:48764?security=none&encryption=none&headerType=none&type=tcp#%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNV1U0Tg@5.39.249.26:8388#%F0%9F%87%A9%F0%9F%87%AA%20%40%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNVGhrTg@185.68.246.90:8388#%F0%9F%87%B3%F0%9F%87%B1%20%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaakpqWQ@185.88.101.68:8388#%F0%9F%87%AB%F0%9F%87%AE%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV0V5Wg@185.120.59.59:8388#%F0%9F%87%A8%F0%9F%87%B5%20%40freenet_vtvless://627af99e-6326-430d-8a77-957cb5cc803e@3.127.203.18:26197?mode=gun&security=none&encryption=none&type=grpc#%40freenet_vtvless://5a1d2c0c-abfa-4050-918f-bfab3eaee62a@151.101.9.80:80?path=%2F%3Fed%3D1049&security=none&encryption=none&host=adspeedx23.global.ssl.fastly.net&type=ws#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=ws#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.236:9828?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vtss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZakF3Wg@45.10.164.100:8388#%F0%9F%87%BA%F0%9F%87%B8%20%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vtvless://509132bc-0d4a-43bd-b951-df3058987bbb@ip1.neoservers.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.&type=ws&allowInsecure=0&sni=4mgCAd69VuNq7KzjNVDrkpVzvugByFBdg08tYcrY.ViPClUbIrAn.Ir.#%40freenet_vtvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#%40freenet_vt`
-متصلوباوهمراه اول
 
 ---
 

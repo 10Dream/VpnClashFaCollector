@@ -1,5 +1,25 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-11 20:30:47 UTC
+بروزرسانی: 2026-02-12 01:09:04 UTC
+
+### 🕒 2026-02-11 22:49:33 UTC
+> ↪️ **Forwarded**
+
+به یادتیم پسر...
+***💔***
+***💔***
+***💔***
+محمد جواد حضوری
+
+---
+
+### 🕒 2026-02-11 21:52:55 UTC
+ای خدااااا
+استندآپ کمدی براتون آوردم
+***😂***
+***😂***
+***😂***
+
+---
 
 ### 🕒 2026-02-11 20:05:44 UTC
 **🚨 این فقط آغازِ ماجراست…**
@@ -393,43 +413,6 @@ V2rayNg Hiddify Karing Happ
 [پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
  
 [پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-09 22:28:09 UTC
-> ↪️ **Forwarded**
-
-‏ایمان داشته باشید به پیروزی خودتان. ایمان داشته باشید به قدرت خودمان و باور داشته باشید که این بار جهانیان پشت سر شما خواهند ایستاد و از آزادی شما حمایت خواهند کرد. 
-‏دست در دست هم پیش خواهیم رفت و دشمن را شکست خواهیم داد.
-‏پیروزی از آن شماست.
-‏پاینده ایران
-[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
-
----
-
-### 🕒 2026-02-09 22:03:11 UTC
-V2rayNg Hiddify Karing Happ 
-`vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.238:9829?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcpvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@imgur.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=madar-benyamin-salavat.global.ssl.fastly.net&type=wsvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=&encryption=none&host=pro30afzar.com&headerType=http&type=tcpvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&type=wsvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.13.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.ukvless://a75cf6f3-10fb-461b-a5a5-a934f6039cce@cdn.halazzon.ir:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=afrcloud4.c01.kr&type=ws&sni=afrcloud4.c01.krvless://6876d09b-42d9-47a2-b2a0-d4a8a0399fc3@speedtest.net:80?security=none&encryption=none&headerType=none&type=tcpvless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@108.162.198.154:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=diprox.pages.dev&fp=chrome&type=ws&sni=DiprOX.pages.DEVtrojan://c1d83c0c7d57cead4379ba14a82df69b@38.180.137.196:443?security=tls&headerType=none&type=tcp&sni=www.nintendogames.netvless://627af99e-6326-430d-8a77-957cb5cc803e@3.127.203.18:26197?security=none&allowInsecure=0&encryption=none&type=grpc`
-
----
-
-### 🕒 2026-02-09 22:03:04 UTC
-[https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=78.46.217.208&port=8443&secret=fgScoaLSXQYtLCM8VHoNng)
-[https://t.me/proxy?server=185.115.161.234&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D](https://t.me/proxy?server=185.115.161.234&port=9443&secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
-[https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=mac.gamesea.app.&port=41014&secret=7nnjRIGHSb16xRkTAiDCXQlhcHAuemlnYXAuaXI%3D](https://t.me/proxy?server=mac.gamesea.app.&port=41014&secret=7nnjRIGHSb16xRkTAiDCXQlhcHAuemlnYXAuaXI%3D)
-[https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=victory.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-
----
-
-### 🕒 2026-02-09 21:12:40 UTC
-چو ایران ما مهد زیبایی است، مهین سرزمین اهورایی است 
-***🕊️***
 
 ---
 

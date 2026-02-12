@@ -1,5 +1,75 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-11 20:29:12 UTC
+بروزرسانی: 2026-02-12 01:07:32 UTC
+
+### 🕒 2026-02-12 01:01:20 UTC
+پست جدید شهبانو فرح پهلوی در شبکه های اجتماعی:
+به یاد جان باختگان اعتراضات ۴۰۴ ایران 
+در هر لحظه از این روزهای دشوار، اندوه مادران، پدران، خواهران، برادران و دوستان قربانیان و زخمی‌شدگان حوادث اخیر ایران با من بوده است. از صمیم قلب و با تمام وجود خود را شریک غم و رنج آنان می‌دانم و برای تمامی مجروحان شفای عاجل و بازگشت به آغوش خانواده‌هایشان را آرزو می‌کنم. 
+هرگز فراموش نمی‌کنم که هزاران نفر از فرزندان این سرزمین همچنان در زندان‌ها به سر می‌برند و در رنج و بی‌عدالتی روزگار می‌گذرانند. اندیشه آنان نیز پیوسته با من است.
+گرچه دور از وطن و دور از شما هستم، اما به هر یک از ایرانیان آزادی‌خواه که با شجاعت و امید برای آینده‌ای روشن ایستادگی می‌کنند، افتخار می‌کنم. ایمان دارم که نور بر تاریکی پیروز خواهد شد و ایران ما روزی نه چندان دور به آزادی آرامش و سربلندی خواهد رسید.
+ فرح پهلوی
+لینک کانال تلگرام رسمی شهبانو:
+[https://t.me/farahdibapahlavi](https://t.me/farahdibapahlavi)
+
+---
+
+### 🕒 2026-02-12 00:45:37 UTC
+**وال استریت ژورنال به نقل از سه مقام آمریکایی: اکنون پنتاگون دستور داده است که دومین گروه ناو هواپیمابر برای اعزام به خاورمیانه آماده شود و به زودی حرکت کند زیرا ارتش ایالات متحده برای احتمال حمله به جمهوری اسلامی آماده می‌شود**
+قسمتی از گزارش:
+رئیس‌جمهور ترامپ روز سه‌شنبه گفت در حال بررسی اعزام یک ناو هواپیمابر دوم به خاورمیانه است تا در صورت شکست مذاکرات با ایران، برای اقدام نظامی آماده باشد. یکی از مقامات گفت دستور اعزام می‌تواند ظرف چند ساعت صادر شود.
+یکی از مقامات گفت پنتاگون در حال آماده‌سازی یک ناو برای اعزام طی دو هفته آینده است، احتمالاً از ساحل شرقی آمریکا. ناو هواپیمابر «USS George H.W. Bush» در حال تکمیل یک سری تمرین‌های آموزشی در سواحل ویرجینیا است و به گفته مقامات، ممکن است این تمرین‌ها تسریع شود.
+آمریکا در هفته‌های اخیر توان نظامی خود را در منطقه افزایش داده و ناو هواپیمابر «USS Abraham Lincoln» را از دریای چین جنوبی به منطقه اعزام کرده، همچنین ناوهای جنگی بیشتر، سامانه‌های دفاع هوایی و اسکادران‌های جنگنده اضافی نیز اعزام شده‌اند.
+
+---
+
+### 🕒 2026-02-12 00:32:39 UTC
+سنتکام (ستاد فرماندهی مرکزی آمریکا) تصاویری از آماده شدن خلبانان ارتش آمریکا در خاورمیانه برای پرواز با بالگردهای تهاجمی آپاچی AH-64 منتشر کرد
+به گفته سنتکام، این بالگردها قادرند از نیروهای زمینی پشتیبانی هوایی انجام دهند و با استفاده از موشک های دوربرد، توانمندی تهاجمی فراهم کنند
+
+---
+
+### 🕒 2026-02-12 00:08:54 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-11 23:44:31 UTC
+`vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
+`vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
+`vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
+`vless://de524de8-06a2-4026-c602-651f0304151b@3.70.171.93:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
+`vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
+
+---
+
+### 🕒 2026-02-11 23:39:09 UTC
+[https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
+[https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+
+---
+
+### 🕒 2026-02-11 23:20:49 UTC
+ایزابلا توالیری، نماینده ایتالیا در پارلمان اروپا امروز عکس خامنه ای رو توی جلسه حین صحبتاش پاره کرد
+خانوم توالیری توی صحبت هاش از اتحاد چپ ها و مدعیان حقوق بشر با «بدترین دیکتاتوری مذهبی» و «اسلام رادیکال» در جهان انتقاد کرد که درهای اروپا رو به روی اونا باز کردن و اروپا رو به دنباله رو جمهوری اسلامی تبدیل کردن. با پاره کردن عکس خامنه ای گفت: «زنده باد غرب زنده باد دموکراسی»
+اون قبل تر هم عکس خامنه ای رو در مقابل ساختمان این نهاد آتیش زده بود
+
+---
+
+### 🕒 2026-02-11 21:45:50 UTC
+دادگاه کیفری یک استان قم، صالح محمدی، کشتی‌گیر 19 ساله، را به اتهام «قتل عمد» به «اعدام علنی در میدان نبوت قم از طریق چوبه دار» محکوم کرده است.
+در حکم اولیه دادگاه که به رویت ایران اینترنشنال رسیده است، آمده است که شب 18 دی 1404 در میدان نبوت قم، گروهی به سمت ماموران «کوکتل مولوتف» پرتاب کردند و محمد قاسمی هماپور، مامور یگان ویژه فراجا، پس از سقوط از موتورسیکلت با ضربات «چاقو و شمشیر» کشته شد.
+در این حکم آمده است که با توجه به گزارش پزشکی قانونی، 29 جراحت بر بدن مقتول ثبت شده و جراحت شماره 7 به عنوان آسیب موثر در کشته شدن مامور معرفی شده است.
+صالح محمدی اتهام قتل را انکار کرده و گفته است اقرارها تحت فشار اخذ شده‌اند. همچنین دوربین‌های مداربسته نیز چهره او را نشان نداده‌اند.
+این اتهامات در حالی مطرح شده که به گفته نزدیکان صالح محمدی، او هنگام وقوع حادثه در خانه عمویش بوده است، اما دادگاه از احضار شاهدان خودداری کرده. همچنین، به گواه ملی‌پوشان، مربیان و هم‌باشگاهی‌های او، صالح هرگز چاقو نداشته است.
+
+---
 
 ### 🕒 2026-02-11 17:39:37 UTC
 `vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount`
@@ -154,62 +224,6 @@
 [https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [https://t.me/proxy?server=log.romanssystem.store&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=log.romanssystem.store&port=4515&secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
 [https://t.me/proxy?server=95.179.211.47&port=80&secret=DD79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=95.179.211.47&port=80&secret=DD79e344818749bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-10 00:50:42 UTC
-چندتا ساب V2ray:
-توی برنامه هیدیفای Hiddify میتونید بزنید نیاز به تست پینگ هم نداره
-`https://raw.githubusercontent.com/expressalaki/ExpressVPN/refs/heads/main/configs.txt`
-`https://chat.tawana.online/sub/tawanaproxy.txt`
-`https://msk.vless-balancer.ru/sub/dXNlcl82Nzg4MzMxMjQ5LDE3Njk1MzUzMTkBqGm3A1STd#Subscription`
-`https://raw.githubusercontent.com/parvinxs/Submahsanetxsparvin/refs/heads/main/Sub.mahsa.xsparvin`
-
----
-
-### 🕒 2026-02-10 00:21:22 UTC
-`vless://f8157b85-ba98-436a-b868-e109947813fb@imgur.com:80?mode=auto&path=%2F&security=none&encryption=none&host=tonellmelig5.global.ssl.fastly.net&type=xhttp#NetAccount`
-`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?encryption=none&security=none&type=grpc&authority=%2F%3FBIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1&mode=gun#NetAccount`
-`vless://d89d6641-3b1a-4f51-a194-9c9109fd21b6@creativecommons.org:443?path=%2Fassets&security=tls&encryption=none&insecure=0&host=diprox.pages.dev&type=ws&allowInsecure=0&sni=DiprOX.pages.DEV#NetAccount`
-`vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&fp=chrome&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#NetAccount`
-
----
-
-### 🕒 2026-02-10 00:14:32 UTC
-کانفیگ Npv Tunnel
-(دارای 200 ترابایت حجم. درست خوندید 200 ترا)
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-10 00:10:00 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-09 23:52:56 UTC
-`vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.17.242.20:80?security=none&type=ws&host=us3.rtacg.com&path=/#NetAccount`
-`vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@198.41.212.136:80?security=none&type=ws&host=us3.rtacg.com&path=/#NetAccount`
-`vless://a22ab08f-7c86-45db-9e76-7bf0f8f6a227@172.67.71.160:8443?security=tls&sni=morq.asve.ir&type=ws&host=MORQ.asve.IR&fp=chrome&alpn=http/1.1#NetAccount`
-`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#NetAccount`
-
----
-
-### 🕒 2026-02-09 22:21:30 UTC
-> ↪️ **Forwarded**
-
-‏ایمان داشته باشید به پیروزی خودتان. ایمان داشته باشید به قدرت خودمان و باور داشته باشید که این بار جهانیان پشت سر شما خواهند ایستاد و از آزادی شما حمایت خواهند کرد. 
-‏دست در دست هم پیش خواهیم رفت و دشمن را شکست خواهیم داد.
-‏پیروزی از آن شماست.
-‏پاینده ایران
-[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
 
 ---
 

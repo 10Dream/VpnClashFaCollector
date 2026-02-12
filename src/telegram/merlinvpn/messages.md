@@ -1,5 +1,5 @@
 # آرشیو کانال: @merlinvpn
-بروزرسانی: 2026-02-11 20:32:18 UTC
+بروزرسانی: 2026-02-12 01:10:40 UTC
 
 ### 🕒 2026-02-11 11:45:20 UTC
 **🚨 یه نکته‌ای که لازم به ذکر بود🩵 سرویسامون از ۱۰۰ گیگ شروع میشه به بالا**
@@ -53,23 +53,6 @@
 فروشمون از فردا احتمالا باز شه.. خبرای خوبی تو راهه.. خواهیم دید چه خواهد شد..
 ***😂***
 ***❤️***
-
----
-
-### 🕒 2026-02-09 21:40:30 UTC
-**.**
-[**#پرامپت**](?q=%23%D9%BE%D8%B1%D8%A7%D9%85%D9%BE%D8%AA)
-** ＮＥＷ🪐🌻**
-`Black and white photography, a moody shot of a woman sitting in front of a vanity mirror with round light bulbs on the frame. The woman is facing away from the camera, huddled up with her head resting on her knees, silhouette visible. Her reflection in the mirror is clearly visible, showing a sad, teary-eyed expression, looking down with deep sorrow. High contrast, grainy film texture, emotional atmosphere, dark background, focus on the reflection's emotion.`
-**-  بزنی رو پرامپـت کپی میشه🥥🍬؛ **
-[**« آموزشِ استفاده از ربات🫱🏻‍🫲🏻»**](https://t.me/merlinvpn/7132)
-**-  🥨🤎آیدیِ رباتِـــــ تلـگرامی : **
-[**https://t.me/GPTooliBot?start=ref-744105058**](https://t.me/GPTooliBot?start=ref-744105058)
-
----
-
-### 🕒 2026-02-09 21:29:06 UTC
-**فروشمون از فردا احتمالا باز شه..خبرای خوبی تو راهه..خواهیم دید چه خواهد شد..😂❤️**
 
 ---
 

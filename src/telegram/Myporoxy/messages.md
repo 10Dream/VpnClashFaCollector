@@ -1,10 +1,35 @@
 # آرشیو کانال: @Myporoxy
-بروزرسانی: 2026-02-11 20:29:07 UTC
+بروزرسانی: 2026-02-12 01:07:26 UTC
+
+### 🕒 2026-02-11 20:36:41 UTC
+> ↪️ **Forwarded**
+
+**😳**
+**دنبال سيم كارت ٠٩١٢ ميگردي؟**
+**😍**
+**پــس زودعــضوِ قديمي ترين و معتبرترين  فروشگاه سيم كارت ٠٩١٢ درايران شو😍**
+[https://t.me/+-6gNqszvgxQ5ZDFk](https://t.me/+-6gNqszvgxQ5ZDFk)
+****
+**✅**
+**امور مشتركين همراه اول**
+**❤️**
+**فروش كد ١ تا ٨ صـفر**
+**🟡**
+**فروش خطوط ٠٩١٢رُنـــدُ معــمولي  **
+**🔴**
+**فروش خطوط اعتباري فوق رند**
+**❌**
+**بالاترين خريدار ٠٩١٢ **
+**❌**
+[https://t.me/+-6gNqszvgxQ5ZDFk](https://t.me/+-6gNqszvgxQ5ZDFk)
+[@simberger](https://t.me/simberger)
+
+---
 
 ### 🕒 2026-02-11 19:35:48 UTC
 ***☑️***
  پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=www.website-best.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
+[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=kalakbaz.kalakbazi-co.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 ***🔘***
 لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
 ***🙏***
@@ -272,34 +297,6 @@
 ***☑️***
  پروکسی ضد فیلتر و پر سرعت
 [https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=cdn.yektanet.com.rashkapo.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-09 23:10:01 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=cdn.yektanet.com.rashkapo.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-09 21:17:26 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=kabos.website-best.info&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQeeNEgYdJvXrFGRMCIMJdCQ)
 ***🔘***
 لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
 ***🙏***

@@ -465,264 +465,391 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "| SA | 869ms |", server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
+  - {name: "| GR | 502ms |", server: 38.54.29.57, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: cb955c8530320120, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| KZ | 3184ms | @meliproxyy", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| KZ | 4718ms | 🆔 freenet_vt", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan 2", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| KZ | 4831ms |", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 345ms |, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 346ms |, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 382ms |, server: 51.89.10.173, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d06a8bc0913e913c, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 374ms |, server: 51.178.114.83, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: d5b878cbb46f3e33, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt ✅️", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 453ms |, server: 54.37.78.130, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d954bd6dd74a7f48, udp: true, tfo: false}
+  - {name: "| FI | 549ms |", server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 395ms |, server: 51.89.10.151, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e406da50b334340e, udp: true, tfo: false}
+  - {name: 🇨🇦 | CA | 143ms |, server: 51.161.32.44, port: 13026, type: ss, cipher: chacha20-ietf-poly1305, password: e799b903a32fc1fe, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 376ms | ***✅***@AR14N24b, server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 380ms | @configraygan, server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 385ms | @meliproxyy, server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 411ms |, server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 275ms |, server: 85.239.232.127, port: 10026, type: ss, cipher: chacha20-ietf-poly1305, password: ef33c53f6e9e3c1b, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 379ms |, server: 54.37.77.212, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: ef720f5b791a60f7, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 393ms |, server: 54.36.118.33, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f0669fb16446e528, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 563ms |, server: 51.68.83.117, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f19e359a2f0c4f5f, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 910ms |, server: 57.129.95.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f54cdee10f8b25ce, udp: true, tfo: false}
+  - {name: 🇨🇦 | CA | 139ms |, server: 51.161.33.111, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: f6c4600d4d513857, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 358ms |, server: 198.244.149.86, port: 26115, type: ss, cipher: chacha20-ietf-poly1305, password: fa76d6f09c203a59, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 472ms |, server: 66.94.113.2, port: 27115, type: ss, cipher: chacha20-ietf-poly1305, password: fc343864d4064051, udp: true, tfo: false}
+  - {name: "| VN | 949ms |", server: 112.197.26.106, port: 26417, type: ss, cipher: chacha20-ietf-poly1305, password: fd7b0d14b590bceb, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 147.45.179.104, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: g9onqrSqx1_yEvMnxWHBTHMc_gwjTQKt, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 31.3.209.182, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy", server: 31.3.209.182, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan-🇰🇿", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys, server: 185.100.159.79, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i9lip2dJ8kV4wJQ0pJuRr6, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 598ms |, server: 185.100.159.79, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i9lip2dJ8kV4wJQ0pJuRr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @MARAMBASHI 🐳", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: jILPT8n8p9YVVl0oJzyuc7, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @MARAMBASHI 💟", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @confograygan+141", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy 2", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 2", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | Server", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt`", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 347ms |, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 354ms |, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 351ms |, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 344ms |, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1083ms | freenet_vt`, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1086ms |, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1348ms |, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 353ms |, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 344ms | 2, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @confograygan+129", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @confograygan+154", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 3", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee`", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt` 2", server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | null | 99999ms | nl-hamedvpns, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 435ms |, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 367ms |, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 350ms |, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy 3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 629ms | @configraygan, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 647ms |, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_VPNN", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 1188ms |, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 455ms |, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 744ms | ***✅***@AR14N24b, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 759ms |, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 446ms |, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 457ms | @proxy_kafee, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 458ms | @meliproxyy, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 342ms |, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 340ms |, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 345ms | 2, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 13", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 349ms |, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 345ms | 3, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 14", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 15", server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 16", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan 3", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 341ms |, server: 82.38.31.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 344ms | 3, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 17", server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 4", server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3", server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩", server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 333ms |, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 353ms | 2, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 18", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***🚀***configraygan`", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan-🇳🇱", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ♾️@freenet_vt برو تلگرام`", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 336ms |, server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 19", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @MARAMBASHI 💙", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @YamYamProxy", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy 4", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee`", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 5", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee` 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "| null | 99999ms | •", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 813ms |, server: 82.180.146.173, port: 30607, type: ss, cipher: aes-128-gcm, password: 162629d7-cb17-43b1-82c9-f9c7ae6cba70, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 4158ms |, server: 167.160.90.51, port: 11475, type: ss, cipher: aes-128-gcm, password: 523z2fgrd7jx0z5xv6o5, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 743ms |, server: 82.180.146.173, port: 35652, type: ss, cipher: aes-128-gcm, password: 93498539-7838-4836-b9b3-8311ffc79bcf, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 332ms |, server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 276ms |, server: dmitmalibu.szxcn.net, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 341ms |, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 370ms |, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 331ms |, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 327ms |, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 326ms |, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 446ms |, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 436ms |, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 442ms |, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 76ms |, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 86ms |, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 83ms |, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 75ms |, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 167ms |, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 72ms |, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 80ms |, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 78ms |, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 12", server: 217.30.10.70, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 13", server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 14", server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 15", server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 16", server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 17", server: 103.186.154.173, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 18", server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 19", server: 103.186.154.179, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 20", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 21", server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 22", server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 23", server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 24", server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 25", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 26", server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 27", server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 28", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 29", server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 30", server: 103.186.154.196, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 31", server: 103.186.154.199, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 32", server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 33", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 34", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 35", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 36", server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 37", server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 38", server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 39", server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 40", server: 103.186.154.210, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 41", server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 42", server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 43", server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 44", server: 103.186.154.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 45", server: 103.186.154.217, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 46", server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 47", server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 48", server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 49", server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 50", server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 51", server: 103.186.154.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 52", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 53", server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 54", server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 55", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 56", server: 103.186.154.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 57", server: 103.186.154.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 58", server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 59", server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 60", server: 103.186.154.244, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 61", server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 62", server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 63", server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 64", server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 65", server: 103.186.154.253, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 66", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 67", server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 68", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 69", server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 70", server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 71", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 72", server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 73", server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 74", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 75", server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 76", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 77", server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 78", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 79", server: 103.186.154.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 80", server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 81", server: 103.186.154.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 82", server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 83", server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 84", server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 85", server: 103.186.154.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 86", server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 87", server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 88", server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 89", server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 90", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 91", server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 92", server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 93", server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 94", server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 95", server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 96", server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 97", server: 103.186.154.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 98", server: 103.186.154.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 99", server: 103.186.154.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 100", server: 103.186.154.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 101", server: 103.186.154.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 102", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 103", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 104", server: 103.186.154.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 105", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 106", server: 103.186.154.74, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 107", server: 103.186.154.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 108", server: 103.186.154.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 109", server: 103.186.154.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 110", server: 103.186.154.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 111", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 112", server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 113", server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 114", server: 103.186.155.103, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 115", server: 103.186.155.104, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 116", server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 117", server: 103.186.155.108, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 118", server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 119", server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 120", server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 121", server: 103.186.155.116, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 122", server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 123", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 124", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 125", server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 126", server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 127", server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 128", server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 129", server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 130", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 131", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 132", server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 133", server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 134", server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 135", server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 136", server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 137", server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 138", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 139", server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 140", server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 141", server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 142", server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 143", server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 144", server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 145", server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 146", server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 147", server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 148", server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 149", server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 150", server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 151", server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 152", server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 153", server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 154", server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 155", server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 156", server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 157", server: 103.186.155.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 158", server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 159", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 160", server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 161", server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 162", server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 163", server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 164", server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 165", server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 166", server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 167", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 168", server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 169", server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 170", server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 171", server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 172", server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 173", server: 103.186.155.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 174", server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 175", server: 103.186.155.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 176", server: 103.186.155.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 177", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 178", server: 103.186.155.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 179", server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 180", server: 103.186.155.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 181", server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 182", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 183", server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 184", server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 185", server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 186", server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 187", server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 188", server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 189", server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 190", server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 191", server: 103.186.155.85, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 192", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 193", server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 194", server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 195", server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 196", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 197", server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 198", server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 199", server: 185.47.255.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 200", server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 201", server: 195.154.119.77, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 202", server: 223.165.4.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 203", server: 38.165.233.93, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 204", server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 205", server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 206", server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 207", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 208", server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 209", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 210", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 211", server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 212", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 213", server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 214", server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
-  - {name: "| FI | 425ms | ***✅***@AR14N24b", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
-  - {name: "| FI | 434ms |", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3121ms | ***✅***@AR14N24b, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3131ms |, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 215", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 216", server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| EE | 3687ms |", server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 217", server: 212.192.12.201, port: 8388, type: ss, cipher: aes-256-gcm, password: TjWj6hhm0XXkWvKL, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 218", server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
-  - {name: "| IE | 2980ms |", server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
+  - {name: "| null | 99999ms | Server 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 20", server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇮🇳 | IN | 678ms |, server: 82.180.146.173, port: 30607, type: ss, cipher: aes-128-gcm, password: 162629d7-cb17-43b1-82c9-f9c7ae6cba70, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4149ms |, server: 167.160.90.51, port: 11475, type: ss, cipher: aes-128-gcm, password: 523z2fgrd7jx0z5xv6o5, udp: true, tfo: false}
+  - {name: 🇮🇳 | IN | 685ms |, server: 82.180.146.173, port: 35652, type: ss, cipher: aes-128-gcm, password: 93498539-7838-4836-b9b3-8311ffc79bcf, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 336ms |, server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 227ms |, server: dmitmalibu.szxcn.net, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 343ms |, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 21", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 356ms |, server: 141.98.101.178, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 351ms |, server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 358ms | 2, server: 141.98.101.181, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 347ms |, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 428ms |, server: 149.22.87.204, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 444ms |, server: 149.22.87.240, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 434ms |, server: 149.22.87.241, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 78ms |, server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 84ms |, server: 156.146.38.168, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 84ms | 2, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 90ms |, server: 156.146.38.170, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 192ms |, server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 93ms |, server: 37.19.198.160, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 85ms |, server: 37.19.198.236, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 86ms |, server: 37.19.198.244, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 22", server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 23", server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 24", server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 25", server: 217.30.10.18, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 26", server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 27", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 28", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 29", server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 30", server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 31", server: 217.30.10.70, port: 9037, type: ss, cipher: aes-256-cfb, password: TN2YqghxeFDKZfLU, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 32", server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 33", server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 34", server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 35", server: 103.186.154.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 36", server: 103.186.154.173, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 37", server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 38", server: 103.186.154.179, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 39", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 40", server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 41", server: 103.186.154.182, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 42", server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 43", server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 44", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 45", server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 46", server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 47", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 48", server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 49", server: 103.186.154.196, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 50", server: 103.186.154.199, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 51", server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 52", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 53", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 54", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 55", server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 56", server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 57", server: 103.186.154.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 58", server: 103.186.154.210, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 59", server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 60", server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 61", server: 103.186.154.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 62", server: 103.186.154.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 63", server: 103.186.154.217, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 64", server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 65", server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 66", server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 67", server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 68", server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 69", server: 103.186.154.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 70", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 71", server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 72", server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 73", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 74", server: 103.186.154.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 75", server: 103.186.154.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 76", server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 77", server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 78", server: 103.186.154.244, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 79", server: 103.186.154.247, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 80", server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 81", server: 103.186.154.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 82", server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 83", server: 103.186.154.253, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 84", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 85", server: 103.186.154.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 86", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 87", server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 88", server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 89", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 90", server: 103.186.154.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 91", server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 92", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 93", server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 94", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 95", server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 96", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 97", server: 103.186.154.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 98", server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 99", server: 103.186.154.41, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 100", server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 101", server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 102", server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 103", server: 103.186.154.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 104", server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 105", server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 106", server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 107", server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 108", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 109", server: 103.186.154.54, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 110", server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 111", server: 103.186.154.56, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 112", server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 113", server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 114", server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 115", server: 103.186.154.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 116", server: 103.186.154.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 117", server: 103.186.154.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 118", server: 103.186.154.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 119", server: 103.186.154.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 120", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 121", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 122", server: 103.186.154.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 123", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 124", server: 103.186.154.74, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 125", server: 103.186.154.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 126", server: 103.186.154.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 127", server: 103.186.154.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 128", server: 103.186.154.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 129", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 130", server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 131", server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 132", server: 103.186.155.103, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 133", server: 103.186.155.104, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 134", server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 135", server: 103.186.155.108, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 136", server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 137", server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 138", server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 139", server: 103.186.155.116, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 140", server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 141", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 142", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 143", server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 144", server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 145", server: 103.186.155.125, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 146", server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 147", server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 148", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 149", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 150", server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 151", server: 103.186.155.138, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 152", server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 153", server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 154", server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 155", server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 156", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 157", server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 158", server: 103.186.155.154, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 159", server: 103.186.155.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 160", server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 161", server: 103.186.155.16, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 162", server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 163", server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 164", server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 165", server: 103.186.155.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 166", server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 167", server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 168", server: 103.186.155.209, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 169", server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 170", server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 171", server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 172", server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 173", server: 103.186.155.225, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 174", server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 175", server: 103.186.155.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 176", server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 177", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 178", server: 103.186.155.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 179", server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 180", server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 181", server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 182", server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 183", server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 184", server: 103.186.155.27, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 185", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 186", server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 187", server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 188", server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 189", server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 190", server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 191", server: 103.186.155.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 192", server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 193", server: 103.186.155.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 194", server: 103.186.155.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 195", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 196", server: 103.186.155.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 197", server: 103.186.155.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 198", server: 103.186.155.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 199", server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 200", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 201", server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 202", server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 203", server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 204", server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 205", server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 206", server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 207", server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 208", server: 103.186.155.83, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 209", server: 103.186.155.85, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 210", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 211", server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 212", server: 216.250.97.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 213", server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 214", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 215", server: 217.30.10.18, port: 9038, type: ss, cipher: aes-256-cfb, password: gYCYXfkUQEs2TaJQ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 216", server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 217", server: 185.47.255.22, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 218", server: 192.71.249.78, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 219", server: 195.154.119.77, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 220", server: 223.165.4.173, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 221", server: 38.165.233.93, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 222", server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 223", server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 224", server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 225", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 226", server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 227", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 228", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 229", server: 217.30.10.70, port: 9007, type: ss, cipher: aes-256-cfb, password: kSPmvwdFzGMMW5pY, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 230", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 231", server: 217.30.10.70, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 232", server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: "| FI | 444ms | ***✅***@AR14N24b", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
+  - {name: "| FI | 455ms |", server: 38.244.209.215, port: 443, type: ss, cipher: aes-256-gcm, password: 184fbec9-eebc-4246-930a-022328fd106d, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 233", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 234", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 235", server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "| EE | 695ms |", server: 38.180.216.114, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 236", server: 212.192.12.201, port: 8388, type: ss, cipher: aes-256-gcm, password: TjWj6hhm0XXkWvKL, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 237", server: 38.180.113.194, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN, udp: true, tfo: false}
+  - {name: "| IE | 643ms |", server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -739,60 +866,170 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -986,77 +1223,204 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -1250,77 +1614,204 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -1514,17 +2005,34 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1540,60 +2048,170 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -1787,77 +2405,204 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -2051,77 +2796,204 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| SA | 869ms |"
+      - "| GR | 502ms |"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | @configraygan"
+      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
+      - "| KZ | 3184ms | @meliproxyy"
+      - "| KZ | 3444ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| KZ | 4718ms | 🆔 freenet_vt"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | @configraygan 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
+      - "| KZ | 4831ms |"
+      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
+      - 🇳🇱 | NL | 345ms |
+      - 🇳🇱 | NL | 346ms |
+      - 🇩🇪 | DE | 382ms |
+      - 🇫🇷 | FR | 374ms |
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
+      - "| null | 99999ms | freenet_vt ✅️"
+      - 🇩🇪 | DE | 453ms |
+      - "| FI | 549ms |"
+      - 🇩🇪 | DE | 395ms |
+      - 🇨🇦 | CA | 143ms |
+      - 🇩🇪 | DE | 376ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 380ms | @configraygan
+      - 🇩🇪 | DE | 385ms | @meliproxyy
+      - 🇩🇪 | DE | 411ms |
+      - 🇺🇸 | US | 275ms |
+      - 🇩🇪 | DE | 379ms |
+      - 🇩🇪 | DE | 393ms |
+      - 🇫🇷 | FR | 563ms |
+      - 🇩🇪 | DE | 910ms |
+      - 🇨🇦 | CA | 139ms |
+      - 🇬🇧 | GB | 358ms |
+      - 🇺🇸 | US | 472ms |
+      - "| VN | 949ms |"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
+      - "| null | 99999ms | @configraygan-🇰🇿"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
+      - 🇩🇪 | DE | 576ms | ♻️4@oneclickvpnkeys
+      - 🇩🇪 | DE | 598ms |
+      - "| null | 99999ms | @MARAMBASHI 🐳"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | @MARAMBASHI 💟"
+      - "| null | 99999ms | @confograygan+141"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | Server"
+      - "| null | 99999ms | freenet_vt`"
+      - 🇳🇱 | NL | 347ms |
+      - 🇳🇱 | NL | 354ms |
+      - 🇳🇱 | NL | 351ms |
+      - 🇳🇱 | NL | 344ms |
+      - 🇳🇱 | NL | 1083ms | freenet_vt`
+      - 🇳🇱 | NL | 1086ms |
+      - 🇳🇱 | NL | 1086ms | @proxy_kafee👑🦁☀️6
+      - 🇳🇱 | NL | 1087ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 1089ms | 🇳🇱 @proxy_kafee
+      - 🇳🇱 | NL | 1348ms |
+      - 🇳🇱 | NL | 353ms |
+      - 🇳🇱 | NL | 344ms | 2
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | @confograygan+129"
+      - "| null | 99999ms | @confograygan+154"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | freenet_vt` 2"
+      - 🇳🇱 | null | 99999ms | nl-hamedvpns
+      - 🇳🇱 | NL | 435ms |
+      - 🇳🇱 | NL | 367ms |
+      - 🇳🇱 | NL | 350ms |
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
+      - "| null | 99999ms | 11"
+      - 🇸🇬 | SG | 629ms | @configraygan
+      - 🇸🇬 | SG | 647ms |
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | configraygan_VPNN"
+      - 🇯🇵 | JP | 1188ms |
+      - 🇯🇵 | JP | 455ms |
+      - 🇸🇬 | SG | 744ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 759ms |
+      - 🇯🇵 | JP | 1254ms | @Vpn_Tehran 🔥 تلگرام
+      - 🇯🇵 | JP | 446ms |
+      - 🇯🇵 | JP | 452ms | @Vpn_Tehran 💘 تلگرام
+      - 🇯🇵 | JP | 457ms | @proxy_kafee
+      - 🇯🇵 | JP | 458ms | @meliproxyy
+      - 🇳🇱 | NL | 342ms |
+      - 🇳🇱 | NL | 340ms |
+      - 🇳🇱 | NL | 345ms | 2
+      - "| null | 99999ms | 13"
+      - 🇳🇱 | NL | 349ms |
+      - 🇳🇱 | NL | 345ms | 3
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | @configraygan 3"
+      - 🇳🇱 | NL | 341ms |
+      - 🇳🇱 | NL | 344ms | 3
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | @proxy_kafee 4"
+      - "| null | 99999ms | @proxy_kafee✌️🇮🇱🇺🇸3"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇬🇧 | null | 99999ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
+      - 🇳🇱 | NL | 333ms |
+      - 🇳🇱 | NL | 353ms | 2
+      - "| null | 99999ms | 18"
+      - "| null | 99999ms | ***🚀***configraygan`"
+      - "| null | 99999ms | @configraygan-🇳🇱"
+      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2"
+      - "| null | 99999ms | ♾️@freenet_vt برو تلگرام`"
+      - 🇳🇱 | NL | 336ms |
+      - "| null | 99999ms | 19"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | ***🐦‍🔥***-@SPEEDS_VPN"
       - "| null | 99999ms | @MARAMBASHI 💙"
       - "| null | 99999ms | @Vpn_Tehran ⚘️ تلگرام"
       - "| null | 99999ms | @Vpn_Tehran 🌸 تلگرام"
-      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام"
+      - "| null | 99999ms | @Vpn_Tehran 🔮 تلگرام 2"
       - "| null | 99999ms | @Vpn_Tehran 🪽 تلگرام"
       - "| null | 99999ms | @YamYamProxy"
-      - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | @meliproxyy 4"
       - "| null | 99999ms | @meliproxyy`"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @proxy_kafee`"
+      - "| null | 99999ms | @proxy_kafee 5"
+      - "| null | 99999ms | @proxy_kafee` 2"
       - "| null | 99999ms | •"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms |"
-      - 🇮🇳 | IN | 813ms |
-      - 🇺🇸 | US | 4158ms |
-      - 🇮🇳 | IN | 743ms |
-      - 🇫🇷 | FR | 332ms |
-      - 🇺🇸 | US | 276ms |
-      - 🇫🇷 | FR | 341ms |
-      - "| null | 99999ms | 2"
-      - 🇬🇧 | GB | 370ms |
-      - 🇬🇧 | GB | 331ms |
-      - 🇬🇧 | GB | 327ms |
-      - 🇬🇧 | GB | 326ms |
-      - 🇯🇵 | JP | 446ms |
-      - 🇯🇵 | JP | 436ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇺🇸 | US | 76ms |
-      - 🇺🇸 | US | 86ms |
-      - 🇺🇸 | US | 83ms |
-      - 🇺🇸 | US | 75ms |
-      - 🇺🇸 | US | 167ms |
-      - 🇺🇸 | US | 72ms |
-      - 🇺🇸 | US | 80ms |
-      - 🇺🇸 | US | 78ms |
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | 4"
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | 6"
-      - "| null | 99999ms | 7"
-      - "| null | 99999ms | 8"
-      - "| null | 99999ms | 9"
-      - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | 13"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | 17"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | 19"
+      - "| null | 99999ms | Server 2"
       - "| null | 99999ms | 20"
+      - 🇮🇳 | IN | 678ms |
+      - 🇺🇸 | US | 4149ms |
+      - 🇮🇳 | IN | 685ms |
+      - 🇫🇷 | FR | 336ms |
+      - 🇺🇸 | US | 227ms |
+      - 🇫🇷 | FR | 343ms |
       - "| null | 99999ms | 21"
+      - 🇬🇧 | GB | 356ms |
+      - 🇬🇧 | GB | 351ms |
+      - 🇬🇧 | GB | 358ms | 2
+      - 🇬🇧 | GB | 347ms |
+      - 🇯🇵 | JP | 428ms |
+      - 🇯🇵 | JP | 444ms |
+      - 🇯🇵 | JP | 434ms |
+      - 🇺🇸 | US | 78ms |
+      - 🇺🇸 | US | 84ms |
+      - 🇺🇸 | US | 84ms | 2
+      - 🇺🇸 | US | 90ms |
+      - 🇺🇸 | US | 192ms |
+      - 🇺🇸 | US | 93ms |
+      - 🇺🇸 | US | 85ms |
+      - 🇺🇸 | US | 86ms |
       - "| null | 99999ms | 22"
       - "| null | 99999ms | 23"
       - "| null | 99999ms | 24"
@@ -2315,17 +3187,34 @@ proxy-groups:
       - "| null | 99999ms | 212"
       - "| null | 99999ms | 213"
       - "| null | 99999ms | 214"
-      - "| FI | 425ms | ***✅***@AR14N24b"
-      - "| FI | 434ms |"
-      - 🇺🇸 | US | 3108ms | @confingraygan+N00146-🇺🇸
-      - 🇺🇸 | US | 3121ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3131ms |
       - "| null | 99999ms | 215"
       - "| null | 99999ms | 216"
-      - "| EE | 3687ms |"
       - "| null | 99999ms | 217"
       - "| null | 99999ms | 218"
-      - "| IE | 2980ms |"
+      - "| null | 99999ms | 219"
+      - "| null | 99999ms | 220"
+      - "| null | 99999ms | 221"
+      - "| null | 99999ms | 222"
+      - "| null | 99999ms | 223"
+      - "| null | 99999ms | 224"
+      - "| null | 99999ms | 225"
+      - "| null | 99999ms | 226"
+      - "| null | 99999ms | 227"
+      - "| null | 99999ms | 228"
+      - "| null | 99999ms | 229"
+      - "| null | 99999ms | 230"
+      - "| null | 99999ms | 231"
+      - "| null | 99999ms | 232"
+      - "| FI | 444ms | ***✅***@AR14N24b"
+      - "| FI | 455ms |"
+      - "| null | 99999ms | 233"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | 234"
+      - "| null | 99999ms | 235"
+      - "| EE | 695ms |"
+      - "| null | 99999ms | 236"
+      - "| null | 99999ms | 237"
+      - "| IE | 643ms |"
   - name: دانلود منیجر 📥
     type: select
     proxies:
