@@ -1,5 +1,24 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-12 20:24:24 UTC
+بروزرسانی: 2026-02-13 01:10:51 UTC
+
+### 🕒 2026-02-13 00:32:01 UTC
+اینو یکی از دوستان فرستاده بود اگه براتون مقدوره انجام بدید  لینک امضا برای بازپس گیری دعوت سازمان ملل از جمهوری اسلامی:  https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council  جمهوری اسلامی به عنوان «نایب‌رئیس…
+
+---
+
+### 🕒 2026-02-12 21:08:53 UTC
+[https://t.me/proxy?server=https.abr-parvaz.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https.abr-parvaz.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-02-12 20:45:02 UTC
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#NetAccount`
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#NetAccount`
+`vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.241.30:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#NetAccount`
+`trojan://telegram-id-privatevpns@15.188.241.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#NetAccount`
+
+---
 
 ### 🕒 2026-02-12 19:56:50 UTC
 کانفیگ Npv Tunnel

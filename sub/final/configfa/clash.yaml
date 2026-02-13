@@ -467,6 +467,7 @@ rule-providers:
 proxies:
   - {name: "C4 : @Xvpnplus_bot | MCI ✅", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: paqet-test., server: ir.powersport.forum, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0097fd86-4719-47f8-a006-58a877921986, host: ir.powersport.forum, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Telegram:@config_proxy, server: ir.beta3.lowfamila.site, port: 4532, type: vless, tls: true, packet-encoding: xudp, uuid: d009862d-c813-4015-b84b-bb196b224c58, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,6 +486,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -493,6 +495,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -501,6 +504,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -518,6 +522,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -526,6 +531,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -534,6 +540,7 @@ proxy-groups:
     proxies:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
+      - Telegram:@config_proxy
   - name: دانلود منیجر 📥
     type: select
     proxies:

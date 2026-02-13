@@ -1,5 +1,63 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-12 20:24:34 UTC
+بروزرسانی: 2026-02-13 01:11:00 UTC
+
+### 🕒 2026-02-13 00:37:33 UTC
+@PewezaVPN(30).ovpn
+
+---
+
+### 🕒 2026-02-13 00:36:41 UTC
+***🌟***
+ 
+**کانفیگ های جدید اختصاصی OpenVPN**
+ 
+**با حجم و اعتبار نامحدود**
+**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
+برای اتصال از نام کاربری و پسورد زیر استفاده کنید:
+**Username**
+***👇***
+`goofi6580@gmail.com`
+**Password**
+***👇***
+[@pewezavpn](https://t.me/pewezavpn)
+***📍***
+ 
+**لینک دانلود برنامه**
+:
+***📥***
+ 
+[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+  |  
+[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
+  | 
+[Windows](https://t.me/PewezaVPN/6690?single)
+***📍***
+ 
+[آموزش اتصال تصویری](https://t.me/PewezaVPN/6688?single)
+برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
+
+### 🕒 2026-02-12 21:10:38 UTC
+***✅***
+ 
+**چند سرور جدید V2Ray نت ملی اختصاصی برای دوستانی که اینترنت به شدت ضعیف ملی دارند. ممکنه اتصال چند ثانیه طول بکشه**
+.
+`vless://b540bc90-daef-4392-b1af-d131e572acaf@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
+`vmess://eyJhZGQiOiI5NS4zOC4xMzIuNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjI3NWY4ZDljLTIzOTMtNGZhMy04NzA5LTk3ZDU1NjI5NTE0YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwODAwIiwicHMiOiLwn5KrIEBQZXdlemFWUE4gKNiq2YTar9ix2KfZhSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9`
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@in-yeki-vase-nika.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=in-yeki-vase-nika.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=in-yeki-vase-nika.global.ssl.fastly.net#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
+[**لینک تمامی برنامه های V2ray**](https://t.me/PewezaVPN/5269)
+ 
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-12 18:43:24 UTC
 ***🔐***
@@ -225,20 +283,6 @@
 
 ### 🕒 2026-02-11 01:34:14 UTC
 خب بازم یه چیزی داشت خوب عمل میکرد (سایفون) و اومدن که قشنگ یه طوری قطعش کنن که اون سرش ناپیدا ! بساط کاندوئیت رو میخوان جمع کنن به هر نحوی.  کلاینت شیر و خورشید چیه دیگه عزیز من؟ این اسم هارو هم میذارین که اعتماد مردمو بخرین؟ خود سایفون 25 میلیون نفرو وصل…
-
----
-
-### 🕒 2026-02-10 21:18:31 UTC
-**این پروکسی های جدید اختصاصی تلگرام هم داشته باشید برای تمامی اینترنت ها 👇**
-[**پروکسی سرور اول**](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[**پروکسی سرور دوم**](https://t.me/proxy?server=212.118.54.207&amp;port=54321&amp;secret=3VLIZ9x1mD-vS7N_kdUWTwk)
- 
-[**پروکسی سرور سوم**](https://t.me/proxy?server=89.124.70.195&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[**پروکسی سرور چهارم**](https://t.me/proxy?server=ai.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[**پروکسی سرور پنجم**](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
 
 ---
 

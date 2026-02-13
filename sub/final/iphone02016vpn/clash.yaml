@@ -466,11 +466,13 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: ⚡Telegram -, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔***", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 🆔 @iphone02016vpn France`, server: 51.75.168.50, port: 13031, type: ss, cipher: chacha20-ietf-poly1305, password: 25f8159be6c408fe, udp: true, tfo: false}
-  - {name: "***🆔*** 2", server: germany.socialxxmedia.online, port: 48305, type: vless, tls: true, packet-encoding: xudp, uuid: 1676cdfe-d73d-7883-d852-5a4379eee4af, servername: germany.socialxxmedia.online, host: germany.socialxxmedia.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 3", server: riali22.carpet-carpet-carped.ir, port: 2018, type: vless, tls: true, packet-encoding: xudp, uuid: 352f047c-3176-4271-9bc6-3f7d33ee03c7, servername: ub.com, host: ub.com, path: /, reality-opts: {public-key: pY4Vwx68IazGJq4BPHFVAXzmQhOz9DmKjpNM2CSxehc, short-id: 83f404}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 4", server: new.configyous.site, port: 11022, type: vless, tls: true, packet-encoding: xudp, uuid: 4bfc1e10-822f-47b6-932f-8d5bf3414b8b, host: new.configyous.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🆔 @iphone02016vpn`, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 9uzpt59s, server: 65.109.186.96, port: 48622, type: vless, tls: true, packet-encoding: xudp, uuid: 01ec5a9e-5f00-46e7-8697-5ba0a6bde23c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***", server: germany.socialxxmedia.online, port: 48305, type: vless, tls: true, packet-encoding: xudp, uuid: 1676cdfe-d73d-7883-d852-5a4379eee4af, servername: germany.socialxxmedia.online, host: germany.socialxxmedia.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nmnovfex, server: 65.109.220.223, port: 24542, type: vless, tls: true, packet-encoding: xudp, uuid: 1971ec0f-fa37-4112-9b4e-4952e84df2a9, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: o5ulfxm2, server: 65.109.188.104, port: 27759, type: vless, tls: true, packet-encoding: xudp, uuid: 25f828ef-fc93-446c-a7d5-e3fe6fe6a662, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 2", server: new.configyous.site, port: 11022, type: vless, tls: true, packet-encoding: xudp, uuid: 4bfc1e10-822f-47b6-932f-8d5bf3414b8b, host: new.configyous.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - 2, server: ens.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, network: ws, ws-opts: {path: /ed=2560, headers: {Host: smk46ws16en.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - 3, server: hope.zdshop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, network: ws, ws-opts: {path: "/?ed=2086", headers: {Host: new-itns.blackpapers.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - 4, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -478,8 +480,8 @@ proxies:
   - {name: ⚡Telegram - 6, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: sens-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - 7, server: strong.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - 8, server: strong.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: sens-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 5", server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 505997ba-cbdb-466e-a3ad-69c6a4553b38, network: ws, ws-opts: {path: /containers/fi, headers: {Host: pizzabama.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 6", server: ipbaz.ping-box.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e765eb5b-8442-40e3-9532-857ba5ececa7, servername: vbox.ping-box.com, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 92hj8bvu, server: 65.109.221.182, port: 46000, type: vless, tls: true, packet-encoding: xudp, uuid: b8773ac0-5d39-455d-a05b-a5f14d194049, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: qf3b0zck, server: 65.109.177.40, port: 25680, type: vless, tls: true, packet-encoding: xudp, uuid: e00cf9e6-b8fa-4f45-85db-d3dcee1f0d57, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,11 +499,13 @@ proxy-groups:
     type: select
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -509,8 +513,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -518,11 +522,13 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -530,8 +536,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -539,11 +545,13 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -551,8 +559,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -569,11 +577,13 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -581,8 +591,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -590,11 +600,13 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -602,8 +614,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -611,11 +623,13 @@ proxy-groups:
     interval: 600
     proxies:
       - ⚡Telegram -
-      - "***🆔***"
       - 🇫🇷 🆔 @iphone02016vpn France`
+      - 🆔 @iphone02016vpn`
+      - 9uzpt59s
+      - "***🆔***"
+      - nmnovfex
+      - o5ulfxm2
       - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "***🆔*** 4"
       - ⚡Telegram - 2
       - ⚡Telegram - 3
       - ⚡Telegram - 4
@@ -623,8 +637,8 @@ proxy-groups:
       - ⚡Telegram - 6
       - ⚡Telegram - 7
       - ⚡Telegram - 8
-      - "***🆔*** 5"
-      - "***🆔*** 6"
+      - 92hj8bvu
+      - qf3b0zck
   - name: دانلود منیجر 📥
     type: select
     proxies:

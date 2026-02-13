@@ -467,67 +467,72 @@ rule-providers:
 proxies:
   - {name: www.speedtest.net:8443, server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
+  - {name: 104.21.75.193:443, server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
+  - {name: configraygan_1194, server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
   - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇬🇧²』, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: workers.dev:443, server: workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c17306d-9a51-481b-91c9-79235cd21026, servername: cf-xray-proxy.t-me-forensic.workers.dev, alpn: [h2], network: ws, ws-opts: {path: /, headers: {Host: cf-xray-proxy.t-me-forensic.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷²⁶』", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@proxy_kafee👑🦁☀️1", server: 104.18.125.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: 104.18.15.19, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 41956a47-8432-4a3f-b70d-a54fc7efd6b8, network: ws, ws-opts: {path: /, headers: {Host: 0223.jq2ter91.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.218.55.148:443, server: 18.218.55.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 18.218.55.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷⁹⁵』", server: 18.218.55.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 18.218.55.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan132, server: 18.218.55.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.147.22:443, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.dioxv004.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.dioxv004.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.147.22:443 2, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.dioxv007.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.dioxv007.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.147.22:443 3, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56836323-a082-419d-af18-1343f31ea90f, servername: q.qdio009.workers.dev, alpn: [h3], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: q.qdio009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💘 تلگرام", server: maxa08.azmoonf.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5d0e6695-6c63-4168-b5e5-2a73ea86b1b1, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🤍 تلگرام", server: maxa08.azmoonf.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5d0e6695-6c63-4168-b5e5-2a73ea86b1b1, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wolfb02.serverp1anel.ir:8080, server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wolfb02.serverp1anel.ir:8080 2, server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfb02.serverp1anel.ir:8080, server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🤍 تلگرام 2", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee😈", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩, server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: wolfb02.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@freenet_vt", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt ✅️, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb03.serverp1anel.ir:8080, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wolfb03.serverp1anel.ir:8080 2, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 6", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfb03.serverp1anel.ir:8080 2, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb03.serverp1anel.ir:8080 3, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wolfb03.serverp1anel.ir:8080 4, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 8", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfb03.serverp1anel.ir:8080 4, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb03.serverp1anel.ir:8080 5, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 3", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[821] - Telegram : @configraygan", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪¹¹』, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wolfb03.serverp1anel.ir:8080 6, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfb03.serverp1anel.ir:8080 6, server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: wolfb03.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb04.serverp1anel.ir:8080, server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb04.serverp1anel.ir:8080 2, server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💛 تلگرام", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 3", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 3", server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_29, server: wolfb04.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb17.serverp1anel.ir:8080, server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb17.serverp1anel.ir:8080 2, server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfb17.serverp1anel.ir:8080 3, server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 4", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 4", server: wolfb17.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb23.serverp1anel.ir:8080, server: wolfb23.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: wolfb23.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: wolfb23.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_45, server: wolfb23.serverp1anel.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 61076cc8-6d63-4dbf-80b9-6c6d70f934ab, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@V2ray_confiig", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2053, server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3@oneclickvpnkeys, server: wolfa12.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚜️25@oneclickvpnkeys, server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -536,52 +541,62 @@ proxies:
   - {name: "@Vpn_Tehran 🪽 تلگرام", server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩, server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪⁵』, server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b`", server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 5", server: wolfa21.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfa24.timevip.ir:8080, server: wolfa24.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: wolfa24.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: wolfa24.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wolfa24.timevip.ir:8080 2, server: wolfa24.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: wolfa24.timevip.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 639355ae-d9ef-4470-aa8a-8154f637cf52, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 5", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 2, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 6", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 3, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 4, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 🎈", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🎈", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 5, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[862] - Telegram : @configraygan", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Telegram - @configraygan, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 6, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.54:2083 7, server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆 2", server: 172.66.44.54, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 75afff14-dad5-43d2-bd47-207b15978630, servername: abOLCInFIG1.PagES.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/qgIgE6AX11OVGyHW/dHVya2V5Lmpld2VsbGwuaXIsZ20xLmpwZ2Zvcm1hdC5pcg==?ed=2560", headers: {Host: abOLCInFIG1.PagES.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.61.222:443, server: 104.16.61.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ce77304-c948-4497-9a9d-934d79d56dfa, servername: vpn.robkavvv.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vpn.robkavvv.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2083, server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 25", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 7", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 96d9bcb0-9ad2-48be-85a2-a9ab3a005261, servername: ds1-mx-fn154-protection.iranlease.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ds1-mx-fn154-protection.iranlease.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.83.254:8880, server: 104.17.83.254, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, network: ws, ws-opts: {path: /0uhb7164djuh7uo0, headers: {Host: index.harmony715.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 198.41.208.203:80, server: 198.41.208.203, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, network: ws, ws-opts: {path: /mpmva3e8rtr6v7qq, headers: {Host: index.harmony715.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ChatGPT.com:443, server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.152.23:443, server: 172.64.152.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: acd18067-14d4-4c4b-83d7-5ef165051fea, servername: ancient-star-144e.sell003.workers.dev, alpn: ["h3,h2"], network: ws, ws-opts: {path: "/eyJleHAiOjE3NzA5MTI5MzA4MzV9?ed", headers: {Host: ancient-star-144e.sell003.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: 172.64.152.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: acd18067-14d4-4c4b-83d7-5ef165051fea, servername: ancient-star-144e.sell003.workers.dev, alpn: ["h3,h2"], network: ws, ws-opts: {path: "/eyJleHAiOjE3NzA5MTI5MzA4MzV9?ed", headers: {Host: ancient-star-144e.sell003.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1140, server: 172.64.152.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: acd18067-14d4-4c4b-83d7-5ef165051fea, servername: ancient-star-144e.sell003.workers.dev, alpn: ["h3,h2"], network: ws, ws-opts: {path: "/eyJleHAiOjE3NzA5MTI5MzA4MzV9?ed", headers: {Host: ancient-star-144e.sell003.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vb08.sibitc.ir:8080, server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 26", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vb08.sibitc.ir:8080 2, server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 4", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 27", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: vb08.sibitc.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aee46a49-c99e-4c58-b443-4fff31f10ff4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 108.162.198.154:443, server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 8", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: 108.162.198.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /fp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: creativecommons.org:443, server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[803] - Telegram : @configraygan", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 28", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 2", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: v1.dabache.top:443, server: v1.dabache.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assetsfp=chrome, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.19.13.183:443, server: 104.19.13.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: 104.19.13.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 3", server: 104.19.13.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1174, server: 104.19.13.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.247.211:443, server: 162.159.247.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: 162.159.247.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 4", server: 162.159.247.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1178, server: 162.159.247.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 6", server: 172.64.87.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9eb0df3-3190-4447-86b6-656fe5ff1119, servername: mmdv2.pages.dev, network: ws, ws-opts: {path: "/TELEGRAM-MARAMBASHI-MARAMBASHI/?ed=2048", headers: {Host: mmdv2.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va04.serverh1ub.ir:8080, server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va04.serverh1ub.ir:8080 2, server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -589,15 +604,17 @@ proxies:
   - {name: "@proxy_kafee☀️`", server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee✌️🇮🇱🇺🇸4`", server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪¹⁰⁹』, server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 29", server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_26, server: va04.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va16.serverh1ub.ir:8080, server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 30", server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 3", server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹⁰¹』", server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 5", server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan138, server: va16.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va25.serverh1ub.ir:8080, server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 31", server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 4", server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹⁰⁰』", server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 6", server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan137, server: va25.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43@oneclickvpnkeys, server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va28.serverh1ub.ir:8080, server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -605,25 +622,31 @@ proxies:
   - {name: "@Vpn_Tehran 💚 تلگرام", server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💜 تلگرام", server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2, server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 5", server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 7", server: va28.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va29.serverh1ub.ir:8080, server: va29.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: va29.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: va29.serverh1ub.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: e3682df7-e8ec-4705-b5ef-3bbaa7007c94, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:443 2, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷⁷¹』", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb06.server1home.ir:8080, server: maxb06.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb10.server1home.ir:8080, server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb10.server1home.ir:8080 2, server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @, server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 34", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 6", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹⁰⁹』", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 8", server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan125, server: maxb10.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb13.server1home.ir:8080, server: maxb13.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: maxb13.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: maxb13.server1home.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f55d25a5-3bb5-4209-a10f-729eb5482d95, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw, short-id: b7b70c104ad267b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: r.iranpoems.ir:25565, server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 7", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 9", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: r.iranpoems.ir:25565 2, server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 9", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 10", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan4, server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1121, server: r.iranpoems.ir, port: 25565, type: vless, tls: true, packet-encoding: xudp, uuid: fb16f2fa-8c7c-4190-b289-833d1b6e19f6, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l2Hif3lxW7Vx9BMrsoD75Fiqnk9qAKMskRQzVXSABwE, short-id: d69632}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -642,67 +665,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -711,52 +739,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -764,15 +802,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -780,25 +820,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -807,67 +853,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -876,52 +927,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -929,15 +990,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -945,25 +1008,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -972,67 +1041,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -1041,52 +1115,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -1094,15 +1178,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -1110,25 +1196,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1146,67 +1238,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -1215,52 +1312,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -1268,15 +1375,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -1284,25 +1393,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1311,67 +1426,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -1380,52 +1500,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -1433,15 +1563,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -1449,25 +1581,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1476,67 +1614,72 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
+      - 104.21.75.193:443
+      - "***✅***@AR14N24b 2"
+      - configraygan_1194
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 2"
-      - workers.dev:443
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 3"
       - "@proxy_kafee👑🦁☀️1"
       - "@configraygan"
       - 18.218.55.148:443
-      - "***✅***@AR14N24b 3"
+      - "| @configraygan『🇮🇷⁹⁵』"
+      - "***✅***@AR14N24b 4"
       - configraygan132
-      - 104.17.147.22:443
-      - 104.17.147.22:443 2
-      - 104.17.147.22:443 3
       - "@Vpn_Tehran 💘 تلگرام"
       - "@Vpn_Tehran 🤍 تلگرام"
-      - wolfb02.serverp1anel.ir:8080
       - "@proxy_kafee"
-      - wolfb02.serverp1anel.ir:8080 2
+      - wolfb02.serverp1anel.ir:8080
       - "@Vpn_Tehran 🤍 تلگرام 2"
       - "@configraygan 2"
       - "@proxy_kafee😈"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - "@meliproxyy"
       - "@proxy_kafee 2"
       - "@freenet_vt"
       - freenet_vt ✅️
       - wolfb03.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 5"
-      - wolfb03.serverp1anel.ir:8080 2
       - "***✅***@AR14N24b 6"
+      - wolfb03.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 7"
       - "@meliproxyy 2"
       - wolfb03.serverp1anel.ir:8080 3
-      - "***✅***@AR14N24b 7"
-      - wolfb03.serverp1anel.ir:8080 4
       - "***✅***@AR14N24b 8"
+      - wolfb03.serverp1anel.ir:8080 4
+      - "***✅***@AR14N24b 9"
       - wolfb03.serverp1anel.ir:8080 5
       - "@configraygan 3"
       - "[821] - Telegram : @configraygan"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`
       - ⚡️ | @configraygan『🇩🇪¹¹』
-      - "***✅***@AR14N24b 9"
-      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 10"
-      - wolfb04.serverp1anel.ir:8080
+      - wolfb03.serverp1anel.ir:8080 6
       - "***✅***@AR14N24b 11"
+      - wolfb04.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 12"
       - wolfb04.serverp1anel.ir:8080 2
       - "@Vpn_Tehran 💛 تلگرام"
       - "@proxy_kafee 3"
-      - "@meliproxyy 3"
-      - wolfb17.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 12"
-      - wolfb17.serverp1anel.ir:8080 2
-      - "@configraygan 4"
       - "***✅***@AR14N24b 13"
+      - "@meliproxyy 3"
+      - configraygan_29
+      - wolfb17.serverp1anel.ir:8080
+      - "***✅***@AR14N24b 14"
+      - wolfb17.serverp1anel.ir:8080 2
+      - "***✅***@AR14N24b 15"
+      - wolfb17.serverp1anel.ir:8080 3
+      - "@configraygan 4"
+      - "***✅***@AR14N24b 16"
       - "@meliproxyy 4"
       - wolfb23.serverp1anel.ir:8080
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 17"
+      - configraygan_45
       - "@V2ray_confiig"
       - chatgpt.com:2053
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 18"
       - "@SPEEDS_VPN1-🫆"
       - 3@oneclickvpnkeys
       - ⚜️25@oneclickvpnkeys
@@ -1545,52 +1688,62 @@ proxy-groups:
       - "@Vpn_Tehran 🪽 تلگرام"
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - ⚡️ | @configraygan『🇩🇪⁵』
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 19"
       - "***✅***@AR14N24b`"
-      - "@meliproxyy 5"
       - wolfa24.timevip.ir:8080
-      - "***✅***@AR14N24b 17"
-      - chatgpt.com:2096
+      - "***✅***@AR14N24b 20"
+      - wolfa24.timevip.ir:8080 2
+      - "***✅***@AR14N24b 21"
       - "@configraygan 5"
       - 172.66.44.54:2083
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.66.44.54:2083 2
-      - "***✅***@AR14N24b 19"
-      - "@meliproxyy 6"
+      - "***✅***@AR14N24b 23"
+      - "@meliproxyy 5"
       - 172.66.44.54:2083 3
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 24"
       - 172.66.44.54:2083 4
       - "@proxy_kafee 🎈"
       - "@vpnbaz 🎈"
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 25"
       - 172.66.44.54:2083 5
       - "[862] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 26"
       - Telegram - @configraygan
       - 172.66.44.54:2083 6
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 27"
       - 172.66.44.54:2083 7
-      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 28"
       - "@SPEEDS_VPN1-🫆 2"
       - 104.16.61.222:443
       - chatgpt.com:2083
-      - "***✅***@AR14N24b 25"
-      - "@meliproxyy 7"
+      - "***✅***@AR14N24b 29"
+      - "@meliproxyy 6"
       - 104.17.83.254:8880
-      - 198.41.208.203:80
+      - ChatGPT.com:443
+      - "***✅***@AR14N24b 30"
+      - 172.64.152.23:443
+      - "***✅***@AR14N24b 31"
+      - configraygan_1140
       - vb08.sibitc.ir:8080
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 32"
       - vb08.sibitc.ir:8080 2
       - "@proxy_kafee 4"
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 33"
       - "@proxy_kafee`"
-      - 108.162.198.154:443
-      - "@meliproxyy 8"
+      - "@meliproxyy 7"
       - creativecommons.org:443
       - "[803] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b` 2"
-      - v1.dabache.top:443
+      - 104.19.13.183:443
+      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b` 3"
+      - configraygan_1174
+      - 162.159.247.211:443
+      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b` 4"
+      - configraygan_1178
       - "@configraygan 6"
       - va04.serverh1ub.ir:8080
       - va04.serverh1ub.ir:8080 2
@@ -1598,15 +1751,17 @@ proxy-groups:
       - "@proxy_kafee☀️`"
       - "@proxy_kafee✌️🇮🇱🇺🇸4`"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁹』
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 37"
       - configraygan_26
       - va16.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 30"
-      - "***✅***@AR14N24b` 3"
+      - "| @configraygan『🇮🇷¹⁰¹』"
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b` 5"
       - configraygan138
       - va25.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 31"
-      - "***✅***@AR14N24b` 4"
+      - "| @configraygan『🇮🇷¹⁰⁰』"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b` 6"
       - configraygan137
       - 43@oneclickvpnkeys
       - va28.serverh1ub.ir:8080
@@ -1614,25 +1769,31 @@ proxy-groups:
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b` 7"
       - va29.serverh1ub.ir:8080
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 40"
+      - chatgpt.com:443 2
+      - "| @configraygan『🇮🇷⁷¹』"
+      - "***✅***@AR14N24b 41"
       - maxb06.server1home.ir:8080
       - maxb10.server1home.ir:8080
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 42"
       - maxb10.server1home.ir:8080 2
       - ⚡Telegram - @
-      - "***✅***@AR14N24b 34"
-      - "***✅***@AR14N24b` 6"
+      - "| @configraygan『🇮🇷¹⁰⁹』"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b` 8"
       - configraygan125
       - maxb13.server1home.ir:8080
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 44"
       - r.iranpoems.ir:25565
-      - "***✅***@AR14N24b` 7"
+      - "***✅***@AR14N24b` 9"
       - r.iranpoems.ir:25565 2
-      - "***✅***@AR14N24b 36"
-      - "@meliproxyy 9"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b` 10"
+      - "@meliproxyy 8"
       - configraygan4
+      - configraygan_1121
   - name: دانلود منیجر 📥
     type: select
     proxies:

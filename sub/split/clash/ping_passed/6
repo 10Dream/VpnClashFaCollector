@@ -465,322 +465,62 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇫🇷 | FR | 594ms |, server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 605ms |, server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 604ms |, server: 51.178.85.208, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 603ms | ***✅***@AR14N24b, server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 605ms | 2, server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 608ms | @vpnbaz 🫟, server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 629ms | @proxy_kafee 🫟, server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 609ms | ***✅***@AR14N24b, server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 618ms |, server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
-  - {name: "| IT | 531ms |", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 518ms |", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 517ms | lrnbymaa", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 527ms | NetAccount", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 541ms |", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 518ms | lrnbymaa", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 525ms | NetAccount", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| IT | 535ms |", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 51.195.110.193, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 51.195.110.193, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 51.195.110.193, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 51.195.110.193, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 51.195.110.193, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 51.195.110.193, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /J9wVeERWKeRMJjmYz3pIdkfvruFr1o0/0J3VL9MK4c=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: 51.178.85.208, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 🫟", server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @vpnbaz 🫟", server: 51.178.85.208, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 51.178.85.208, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: PaCXkg97k9k9a18rS78ke9whdqMBCqmXrpTNfEYNJYg=, udp: true, tfo: false}
+  - {name: "| IT | 530ms |", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 511ms |", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 517ms |", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 526ms | NetAccount", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 533ms | lrnbymaa", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩", server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 517ms | 2", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 524ms | NetAccount", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| IT | 658ms | lrnbymaa", server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
   - {name: "| null | 99999ms | Server", server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org, port: 14999, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org, port: 14999, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 593ms |, server: 185.244.208.150, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 41d6655d3625fd14, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 544ms |, server: 57.129.95.232, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 420946afc5918c49, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 526ms |, server: 141.95.102.29, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 431e88b038422867, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 530ms |, server: 135.125.219.2, port: 20082, type: ss, cipher: chacha20-ietf-poly1305, password: 46b4a8e835388ab5, udp: true, tfo: false}
-  - {name: "| PK | 850ms |", server: 154.205.145.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 47509ba3679b9df9, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 530ms |, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 549ms |, server: 193.29.139.162, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4285ms |, server: 193.29.139.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 485ms |, server: 193.29.139.173, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 493ms |, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 38.54.29.130, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 4df2be7c6eef0ed6, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 695ms |, server: 38.242.222.183, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 52671647af0cffa0, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 549ms |, server: 135.125.245.131, port: 19700, type: ss, cipher: chacha20-ietf-poly1305, password: 5568e4d946b62245, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 530ms | 2, server: 141.95.104.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 59fa5541d1d9ccce, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 346ms |, server: 154.53.34.27, port: 45234, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8680180abdb564, udp: true, tfo: false}
-  - {name: 🇷🇺 | RU | 687ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
-  - {name: 🇷🇺 | RU | 675ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
-  - {name: "| SA | 1406ms |", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: 154.205.134.155, port: 11651, type: ss, cipher: chacha20-ietf-poly1305, password: 691eafdffd9a81e0, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 614ms | ***✅***@AR14N24b, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 898ms |, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org, port: 14999, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: th1.07c06051-81fd-4aa4-a94e-a0860315df8f.org, port: 14999, type: ss, cipher: 2022-blake3-aes-256-gcm, password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:6YebGRecdqKoInRf4i8SZqlAevOV13VtNw+oNecrWPQ=, udp: true, tfo: false}
+  - {name: 🇭🇰 | HK | 619ms |, server: 185.244.208.150, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 41d6655d3625fd14, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 527ms |, server: 57.129.95.232, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 420946afc5918c49, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 512ms |, server: 141.95.102.29, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 431e88b038422867, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 514ms |, server: 135.125.219.2, port: 20082, type: ss, cipher: chacha20-ietf-poly1305, password: 46b4a8e835388ab5, udp: true, tfo: false}
+  - {name: "| PK | 808ms |", server: 154.205.145.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 47509ba3679b9df9, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 462ms |, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 476ms |, server: 193.29.139.162, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1202ms |, server: 193.29.139.164, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 462ms | 2, server: 193.29.139.173, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 455ms |, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 518ms |, server: 38.242.222.183, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 52671647af0cffa0, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 668ms |, server: 135.125.245.131, port: 19700, type: ss, cipher: chacha20-ietf-poly1305, password: 5568e4d946b62245, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 516ms |, server: 141.95.104.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 59fa5541d1d9ccce, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 382ms |, server: 154.53.34.27, port: 45234, type: ss, cipher: chacha20-ietf-poly1305, password: 5d8680180abdb564, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 830ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 560ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: "| SA | 1139ms |", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: 154.205.134.155, port: 11651, type: ss, cipher: chacha20-ietf-poly1305, password: 691eafdffd9a81e0, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 443ms |, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 452ms | ***✅***@AR14N24b, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』, server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 6OVeg18ylsOQMOvWVVfddO, udp: true, tfo: false}
   - {name: 🇩🇪 | DE | 513ms |, server: 57.129.95.218, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6b9737450ab7fc98, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: 🇺🇦 | UA | 2891ms |, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
   - {name: "| null | 99999ms | @freenet_vt 💙", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 1563ms |, server: 163.171.206.24, port: 28028, type: ss, cipher: chacha20-ietf-poly1305, password: 735582e51328af99, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 527ms |, server: 57.130.28.148, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 74918bc801d53a4b, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 532ms |, server: 195.7.6.160, port: 18550, type: ss, cipher: chacha20-ietf-poly1305, password: 75782921a8e70802, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 526ms | 2, server: 51.89.10.72, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 78c2e39121c820fb, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 481ms |, server: 51.89.216.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0c8cfe8540fdbe, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 565ms |, server: 51.89.118.58, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a63df1a001759bf, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 267ms |, server: 147.135.77.6, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7f9cb9aef317f096, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 553ms |, server: 135.125.247.224, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 87e0f9ec93704f25, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 542ms |, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 551ms |, server: 57.129.89.142, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 865bc80919a484a5, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: 148.113.143.102, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8d90009fa5023cfa, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 531ms |, server: 141.95.101.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 8e3c75581ade471d, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 647ms |, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 819ms | ***✅***@AR14N24b, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 123ms |, server: 66.94.121.161, port: 20207, type: ss, cipher: chacha20-ietf-poly1305, password: 9653c37eda1c0cca, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 528ms |, server: 135.125.219.2, port: 41237, type: ss, cipher: chacha20-ietf-poly1305, password: 9ab642148dabe978, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 535ms |, server: 51.89.117.154, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfee1388e960537, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 712ms |, server: 163.171.206.24, port: 44235, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 277ms |, server: 51.161.80.138, port: 27797, type: ss, cipher: chacha20-ietf-poly1305, password: 9f99180fc9211c40, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: basic-ru-1.undef.network, port: 33386, type: ss, cipher: chacha20-ietf-poly1305, password: 12qBKfsbd0RjO0vqEhgsaccwp, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 518ms |, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 523ms | ***✅***@AR14N24b, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 523ms | @configraygan, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 540ms | configraygan_9, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 542ms | @meliproxyy, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: "| CZ | 486ms |", server: 45.15.162.92, port: 64351, type: ss, cipher: chacha20-ietf-poly1305, password: 1SlIjDKpIlpzZPgT33x6Eb, udp: true, tfo: false}
-  - {name: "| CZ | 495ms |", server: 45.15.162.92, port: 64351, type: ss, cipher: chacha20-ietf-poly1305, password: 1SlIjDKpIlpzZPgT33x6Eb, udp: true, tfo: false}
-  - {name: "| CZ | 497ms |", server: 45.15.162.92, port: 64351, type: ss, cipher: chacha20-ietf-poly1305, password: 1SlIjDKpIlpzZPgT33x6Eb, udp: true, tfo: false}
-  - {name: "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: 1XSHFjXMLDedtMLJLGDIe8, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: 46.246.97.195, port: 23931, type: ss, cipher: chacha20-ietf-poly1305, password: 1XSHFjXMLDedtMLJLGDIe8, udp: true, tfo: false}
-  - {name: "| SA | 989ms |", server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 577ms |, server: 94.72.98.126, port: 26820, type: ss, cipher: chacha20-ietf-poly1305, password: 223835c4fcae4359, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 542ms | 2, server: 54.37.78.193, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 267514960a86907d, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: 154.205.134.155, port: 24851, type: ss, cipher: chacha20-ietf-poly1305, password: 2916150efedd2d17, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1434ms |, server: 208.67.106.73, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1607ms |, server: backup.fleetfoxi.link, port: 44884, type: ss, cipher: chacha20-ietf-poly1305, password: 2DGq3jvVRg5n3CcxmysGK2kmrgJeSNof12A76cZvVxqPpetyC1XEciCFufq5xKvRWGGnKVembpThuUSQhbZ7GMsZY4UVxEBw, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: 107.181.147.235, port: 40521, type: ss, cipher: chacha20-ietf-poly1305, password: 2WkRGh6tAv8UmsHh4i3F6zosj2dzA6sCzXbwq4TdXteztMfyA5aZcLy5jY5Z7FZ3QQMcTVwM7TvibdvzYircC7iDZafp2U6z, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: media.mothyleela.cfd, port: 40521, type: ss, cipher: chacha20-ietf-poly1305, password: 2WkRGh6tAv8UmsHh4i3F6zosj2dzA6sCzXbwq4TdXteztMfyA5aZcLy5jY5Z7FZ3QQMcTVwM7TvibdvzYircC7iDZafp2U6z, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 530ms |, server: 154.205.139.9, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 303ac65e30f28b0b, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1188ms |, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 545ms |, server: 149.102.150.98, port: 11704, type: ss, cipher: chacha20-ietf-poly1305, password: 3417f1d1c2e3958b, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 497ms |, server: 78.129.140.11, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: y3SowqUkrt1cbm487g74Ac, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3484ms |, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3845ms | Server, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4557ms | @configraygan, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| TR | 801ms | @meliproxyy", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 12", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 2", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: "| null | 99999ms | freenet_vt", server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 882ms |, server: 103.106.228.247, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| AE | 1681ms |", server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 1580ms |, server: 103.97.203.227, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| TH | 581ms |", server: 119.59.127.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| PA | 608ms |", server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| PA | 623ms |", server: 138.186.142.81, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| PE | 522ms |", server: 138.186.143.32, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| AE | 870ms |", server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| MX | 472ms |", server: 147.78.1.230, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| BH | 1510ms |", server: 154.205.146.153, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇳 | TW | 479ms |, server: 154.223.20.79, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| PK | 778ms |", server: 156.59.243.6, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 41ms |, server: 167.160.90.178, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 153ms |, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| MD | 670ms |", server: 176.123.1.175, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| LT | 572ms |", server: 185.237.185.89, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| NG | 1956ms |", server: 185.255.123.110, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| PR | 551ms |", server: 185.47.255.213, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇪🇸 | ES | 1255ms |, server: 188.214.157.58, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 13", server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b, server: 203.23.128.92, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 1905ms |, server: 203.23.128.92, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 230ms |, server: 23.95.76.147, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 231ms |, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| FI | 567ms |", server: 37.143.129.98, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇪🇸 | ES | 848ms |, server: 37.143.130.203, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇳 | TW | 868ms |, server: 38.54.107.101, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| BH | 812ms |", server: 38.54.2.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| ID | 633ms |", server: 38.60.171.254, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 718ms |, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 239ms |, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 509ms |, server: 45.82.252.109, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| MK | 779ms |", server: 46.183.185.37, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| LV | 1213ms |", server: 46.183.217.204, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 237ms |, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| ID | 592ms | Server", server: 38.60.171.254, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩", server: 31.3.209.106, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام", server: kazakhstan21.clearorbitllc.com, port: 46551, type: ss, cipher: chacha20-ietf-poly1305, password: Inv114dp2zk9ZbYFPpdQf4, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 456ms |, server: 91.216.155.20, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: J4iEGQCsfDUMvKSI8JL6pB6aT4neZEsIwmcWt1, udp: true, tfo: false}
-  - {name: "| FI | 663ms |", server: 141.98.4.67, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
-  - {name: "| FI | 843ms |", server: exchange.gameaurela.click, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
-  - {name: "| FI | 3882ms |", server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: NRKiRKbFdENKGAB1Dtk3asvtimbQnmDS4qVG8YQeeggj92VKDxejBu98VEcWn2DG6afNaYMBmQ36WruT9RUgqxWXx5VkwW3X, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 14", server: 185.120.59.59, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: OWEyZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 15", server: 185.120.59.59, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: OWEyZ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 481ms |, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 489ms |, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 501ms |, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3279ms |, server: 193.29.139.233, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 16", server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: SC32YrElPjQxnvA5QYGgZQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: SC32YrElPjQxnvA5QYGgZQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @SPEEDS_VPN1-🫆", server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: SC32YrElPjQxnvA5QYGgZQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_1", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: TPhO817nFXkz3oewf6wfNi, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 863ms |, server: 89.223.93.176, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: Vmsf06YTMqtAYdhwMqdSuGqgdVkm0yddi4kYaAEVQWYj9iHA, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 817ms |, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 17", server: 95.174.68.33, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: YzH4id7ZEyKpfy39F2YcOmzCsBklGwh8, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 535ms | 2, server: 135.125.219.2, port: 40266, type: ss, cipher: chacha20-ietf-poly1305, password: a10bd25b21995e56, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 628ms |, server: 51.83.249.182, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a1f740989a878073, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 690ms |, server: 57.129.69.122, port: 27130, type: ss, cipher: chacha20-ietf-poly1305, password: a3027c931ae07bce, udp: true, tfo: false}
-  - {name: "| BR | 586ms |", server: 5.188.4.103, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN", server: 5.188.4.103, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: "| BR | 755ms |", server: 5.188.4.103, port: 11205, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 261ms |, server: 147.135.78.88, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7f8d870c0ca04bc, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 506ms |, server: 38.60.203.155, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a46a7f1876472552, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 311ms |, server: 217.77.3.68, port: 28954, type: ss, cipher: chacha20-ietf-poly1305, password: a586ae8d773f250f, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 659ms |, server: nl2.bot-tg.shop, port: 29305, type: ss, cipher: chacha20-ietf-poly1305, password: a5870dda-48fc-43d3-bfa6-f99cf4958690, udp: true, tfo: false}
-  - {name: 🇵🇱 | PL | 635ms |, server: 51.68.146.248, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: a792ff4b517fdf1c, udp: true, tfo: false}
-  - {name: "| KZ | 2671ms | @proxy_kafee", server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 277ms | 2, server: 51.161.80.138, port: 12743, type: ss, cipher: chacha20-ietf-poly1305, password: ae1f6fea74b7391a, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 732ms |, server: 148.113.138.47, port: 48704, type: ss, cipher: chacha20-ietf-poly1305, password: b27bc0b4fad33e46, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 808ms |, server: 57.129.35.242, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: b2871db02e5f7e2f, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 563ms |, server: 141.95.101.9, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: bb33fe67a330b3ea, udp: true, tfo: false}
-  - {name: 🇮🇳 | IN | 693ms |, server: 185.67.125.109, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: be4a6fd2209f62a7, udp: true, tfo: false}
-  - {name: "| VN | 626ms |", server: 112.197.26.106, port: 45310, type: ss, cipher: chacha20-ietf-poly1305, password: ca5a5efae00a832b, udp: true, tfo: false}
-  - {name: "| VN | 606ms |", server: 112.197.26.106, port: 45311, type: ss, cipher: chacha20-ietf-poly1305, password: ca5a5efae00a832b, udp: true, tfo: false}
-  - {name: "| VN | 820ms |", server: 112.197.26.106, port: 45312, type: ss, cipher: chacha20-ietf-poly1305, password: ca5a5efae00a832b, udp: true, tfo: false}
-  - {name: "| VN | 609ms |", server: 112.197.26.106, port: 45313, type: ss, cipher: chacha20-ietf-poly1305, password: ca5a5efae00a832b, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 527ms |, server: 54.36.116.190, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: ca5efd5cf9e947ad, udp: true, tfo: false}
-  - {name: "| SA | 1133ms |", server: 163.171.207.11, port: 29461, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
-  - {name: "| SA | 1152ms |", server: 163.171.207.11, port: 29462, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
-  - {name: "| SA | 1056ms |", server: 163.171.207.11, port: 29463, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
-  - {name: "| SA | 1134ms |", server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
-  - {name: "| KZ | 2561ms |", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan 2", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1", server: 213.156.137.142, port: 43661, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 18", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan 3", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 2", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🆔 freenet_vt", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_23", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 19", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe", server: 213.156.137.142, port: 43662, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 491ms |, server: 193.29.139.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 498ms |, server: 193.29.139.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 544ms | 2, server: 51.89.10.173, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d06a8bc0913e913c, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 531ms |, server: 51.178.114.83, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: d5b878cbb46f3e33, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1283ms |, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1545ms | Server, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 967ms | freenet_vt ✅️, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 605ms |, server: 54.37.78.130, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d954bd6dd74a7f48, udp: true, tfo: false}
-  - {name: "| FI | 942ms |", server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 533ms |, server: 51.89.10.151, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e406da50b334340e, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 272ms |, server: 51.161.32.44, port: 13026, type: ss, cipher: chacha20-ietf-poly1305, password: e799b903a32fc1fe, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 20", server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan 4", server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 3", server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩", server: 141.95.105.163, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: edd359f594dea842, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 126ms |, server: 85.239.232.127, port: 10026, type: ss, cipher: chacha20-ietf-poly1305, password: ef33c53f6e9e3c1b, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 526ms | 3, server: 54.37.77.212, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: ef720f5b791a60f7, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 525ms |, server: 54.36.118.33, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f0669fb16446e528, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 570ms |, server: 51.68.83.117, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f19e359a2f0c4f5f, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1073ms |, server: 57.129.95.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: f54cdee10f8b25ce, udp: true, tfo: false}
-  - {name: 🇨🇦 | CA | 285ms |, server: 51.161.33.111, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: f6c4600d4d513857, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 471ms |, server: 198.244.149.86, port: 26115, type: ss, cipher: chacha20-ietf-poly1305, password: fa76d6f09c203a59, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 157ms |, server: 66.94.113.2, port: 27115, type: ss, cipher: chacha20-ietf-poly1305, password: fc343864d4064051, udp: true, tfo: false}
-  - {name: "| VN | 610ms |", server: 112.197.26.106, port: 26417, type: ss, cipher: chacha20-ietf-poly1305, password: fd7b0d14b590bceb, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 21", server: 147.45.179.104, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: g9onqrSqx1_yEvMnxWHBTHMc_gwjTQKt, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 22", server: 31.3.209.182, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 4", server: 31.3.209.182, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 23", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan-🇰🇿", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`", server: kazakhstan25.clearorbitllc.com, port: 52323, type: ss, cipher: chacha20-ietf-poly1305, password: gvaUC0IKACno8p05FYZLoM, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 467ms |, server: 185.100.159.79, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i9lip2dJ8kV4wJQ0pJuRr6, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys, server: 185.100.159.79, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: i9lip2dJ8kV4wJQ0pJuRr6, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @MARAMBASHI 🐳", server: 62.133.63.21, port: 65262, type: ss, cipher: chacha20-ietf-poly1305, password: jILPT8n8p9YVVl0oJzyuc7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 24", server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 25", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @MARAMBASHI 💟", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @confograygan+141", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 5", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee 2", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 3", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_8", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | freenet_vt`", server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 489ms | 2, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 514ms |, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 493ms | 2, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 522ms |, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4606ms | freenet_vt`, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 4800ms |, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 479ms |, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 506ms |, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 489ms | 3, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2807ms | freenet_vt`, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2847ms | @proxy_kafee, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 2849ms | @proxy_kafee`, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3048ms | @confograygan+154, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3109ms | @confograygan+129, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3139ms |, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 543ms |, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 515ms |, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 520ms |, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 26", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 6", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 27", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 520ms |, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 521ms | @configraygan, server: 3.1.195.148, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 519ms | configraygan_VPNN, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 522ms |, server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 442ms |, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 483ms | ***✅***@AR14N24b, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』, server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 1538ms |, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 522ms | ***✅***@AR14N24b, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 552ms |, server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 1379ms | @meliproxyy, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 1399ms | @proxy_kafee, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 1500ms |, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 482ms |, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 489ms | 4, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 478ms |, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 28", server: 193.29.139.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 476ms |, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1537ms |, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 29", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 30", server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 31", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan 5", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 479ms | 2, server: 82.38.31.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 479ms | 3, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1202ms | @proxy_kafee, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1208ms |, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1227ms | Server, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1270ms | @proxy_kafee, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 475ms |, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 498ms | 2, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 32", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***🚀***configraygan`", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan-🇳🇱", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -797,966 +537,186 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1772,966 +732,186 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇫🇷 | FR | 594ms |
-      - 🇫🇷 | FR | 605ms |
-      - 🇫🇷 | FR | 604ms |
-      - 🇫🇷 | FR | 603ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 605ms | 2
-      - 🇫🇷 | FR | 608ms | @vpnbaz 🫟
-      - 🇫🇷 | FR | 629ms | @proxy_kafee 🫟
-      - 🇫🇷 | FR | 609ms | ***✅***@AR14N24b
-      - 🇫🇷 | FR | 618ms |
-      - "| IT | 531ms |"
-      - "| IT | 518ms |"
-      - "| IT | 517ms | lrnbymaa"
-      - "| IT | 522ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 527ms | NetAccount"
-      - "| IT | 541ms |"
-      - "| IT | 518ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
-      - "| IT | 518ms | lrnbymaa"
-      - "| IT | 525ms | NetAccount"
-      - "| IT | 535ms |"
       - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | @proxy_kafee 🫟"
+      - "| null | 99999ms | @vpnbaz 🫟"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| IT | 530ms |"
+      - "| IT | 511ms |"
+      - "| IT | 517ms |"
+      - "| IT | 526ms | NetAccount"
+      - "| IT | 533ms | lrnbymaa"
+      - "| IT | 662ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 517ms | 2"
+      - "| IT | 524ms | NetAccount"
+      - "| IT | 533ms | برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩"
+      - "| IT | 658ms | lrnbymaa"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | Server"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇭🇰 | HK | 593ms |
-      - 🇩🇪 | DE | 544ms |
-      - 🇩🇪 | DE | 526ms |
-      - 🇩🇪 | DE | 530ms |
-      - "| PK | 850ms |"
-      - 🇳🇱 | NL | 530ms |
-      - 🇳🇱 | NL | 549ms |
-      - 🇳🇱 | NL | 4285ms |
-      - 🇳🇱 | NL | 485ms |
-      - 🇳🇱 | NL | 493ms |
-      - "| null | 99999ms | 3"
-      - 🇫🇷 | FR | 695ms |
-      - 🇩🇪 | DE | 549ms |
-      - 🇩🇪 | DE | 530ms | 2
-      - 🇺🇸 | US | 346ms |
-      - 🇷🇺 | RU | 687ms |
-      - 🇷🇺 | RU | 675ms |
-      - "| SA | 1406ms |"
-      - "| null | 99999ms | 4"
-      - 🇳🇱 | NL | 614ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 650ms | ⚡️+|+@configraygan『🇳🇱³』
-      - 🇳🇱 | NL | 898ms |
-      - 🇩🇪 | DE | 513ms |
-      - "| null | 99999ms | 5"
-      - "| null | 99999ms | @freenet_vt 💙"
-      - 🇮🇳 | IN | 1563ms |
-      - 🇫🇷 | FR | 527ms |
-      - 🇩🇪 | DE | 532ms |
-      - 🇩🇪 | DE | 526ms | 2
-      - 🇬🇧 | GB | 481ms |
-      - 🇩🇪 | DE | 565ms |
-      - 🇺🇸 | US | 267ms |
-      - 🇩🇪 | DE | 553ms |
-      - 🇩🇪 | DE | 542ms |
-      - 🇩🇪 | DE | 551ms |
-      - "| null | 99999ms | 6"
-      - 🇩🇪 | DE | 531ms |
-      - 🇩🇪 | DE | 647ms |
-      - 🇩🇪 | DE | 819ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 123ms |
-      - 🇩🇪 | DE | 528ms |
-      - 🇩🇪 | DE | 535ms |
-      - 🇮🇳 | IN | 712ms |
-      - 🇨🇦 | CA | 277ms |
-      - "| null | 99999ms | 7"
-      - 🇩🇪 | DE | 518ms |
-      - 🇩🇪 | DE | 523ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 523ms | @configraygan
-      - 🇩🇪 | DE | 540ms | configraygan_9
-      - 🇩🇪 | DE | 542ms | @meliproxyy
-      - "| CZ | 486ms |"
-      - "| CZ | 495ms |"
-      - "| CZ | 497ms |"
-      - "| SE | 501ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | 8"
-      - "| SA | 989ms |"
-      - 🇬🇧 | GB | 577ms |
-      - 🇩🇪 | DE | 542ms | 2
-      - "| null | 99999ms | 9"
-      - 🇳🇱 | NL | 1434ms |
-      - 🇳🇱 | NL | 1607ms |
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | 11"
-      - 🇯🇵 | JP | 530ms |
-      - 🇩🇪 | DE | 1188ms |
-      - 🇩🇪 | DE | 1424ms | @configraygan-🇩🇪
-      - 🇬🇧 | GB | 545ms |
-      - 🇬🇧 | GB | 497ms |
-      - 🇳🇱 | NL | 3484ms |
-      - 🇳🇱 | NL | 3845ms | Server
-      - 🇳🇱 | NL | 4254ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 4504ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4557ms | @configraygan
-      - "| TR | 716ms | ⚡️+|+@configraygan『🇹🇷¹』"
-      - "| TR | 779ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 791ms | ⚡️+|+@configraygan『🇩🇪⁴⁸』"
-      - "| TR | 794ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| TR | 801ms | @meliproxyy"
-      - "| null | 99999ms | 12"
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | Server 2"
-      - "| null | 99999ms | freenet_vt"
-      - 🇯🇵 | JP | 882ms |
-      - "| AE | 1681ms |"
-      - 🇮🇳 | IN | 1580ms |
-      - "| TH | 581ms |"
-      - "| PA | 608ms |"
-      - "| PA | 623ms |"
-      - "| PE | 522ms |"
-      - "| AE | 870ms |"
-      - "| MX | 472ms |"
-      - "| BH | 1510ms |"
-      - 🇨🇳 | TW | 479ms |
-      - "| PK | 778ms |"
-      - 🇺🇸 | US | 41ms |
-      - 🇺🇸 | US | 153ms |
-      - "| MD | 670ms |"
-      - "| LT | 572ms |"
-      - "| NG | 1956ms |"
-      - "| PR | 551ms |"
-      - 🇪🇸 | ES | 1255ms |
-      - "| null | 99999ms | 13"
-      - 🇭🇰 | HK | 1754ms | ***✅***@AR14N24b
-      - 🇭🇰 | HK | 1905ms |
-      - 🇨🇦 | CA | 230ms |
-      - 🇨🇦 | CA | 231ms |
-      - "| FI | 567ms |"
-      - 🇪🇸 | ES | 848ms |
-      - 🇨🇳 | TW | 868ms |
-      - "| BH | 812ms |"
-      - "| ID | 633ms |"
-      - 🇩🇪 | DE | 718ms |
-      - 🇨🇦 | CA | 239ms |
-      - 🇭🇰 | HK | 509ms |
-      - "| MK | 779ms |"
-      - "| LV | 1213ms |"
-      - 🇨🇦 | CA | 237ms |
-      - "| ID | 592ms | Server"
-      - "| null | 99999ms | @configraygan"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام"
-      - 🇬🇧 | GB | 456ms |
-      - "| FI | 663ms |"
-      - "| FI | 843ms |"
-      - "| FI | 3882ms |"
-      - "| null | 99999ms | 14"
-      - "| null | 99999ms | 15"
-      - 🇳🇱 | NL | 481ms |
-      - 🇳🇱 | NL | 489ms |
-      - 🇳🇱 | NL | 501ms |
-      - 🇳🇱 | NL | 3279ms |
-      - "| null | 99999ms | 16"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - "| null | 99999ms | @SPEEDS_VPN1-🫆"
-      - "| null | 99999ms | configraygan_1"
-      - 🇵🇱 | PL | 863ms |
-      - 🇳🇱 | NL | 817ms |
-      - "| null | 99999ms | 17"
-      - 🇩🇪 | DE | 535ms | 2
-      - 🇵🇱 | PL | 628ms |
-      - 🇩🇪 | DE | 690ms |
-      - "| BR | 586ms |"
-      - "| BR | 743ms | ***🐦‍🔥***-@SPEEDS_VPN"
-      - "| BR | 755ms |"
-      - 🇺🇸 | US | 261ms |
-      - 🇭🇰 | HK | 506ms |
-      - 🇺🇸 | US | 311ms |
-      - 🇳🇱 | NL | 659ms |
-      - 🇵🇱 | PL | 635ms |
-      - "| KZ | 2671ms | @proxy_kafee"
-      - 🇨🇦 | CA | 277ms | 2
-      - 🇨🇦 | CA | 732ms |
-      - 🇩🇪 | DE | 808ms |
-      - 🇩🇪 | DE | 563ms |
-      - 🇮🇳 | IN | 693ms |
-      - "| VN | 626ms |"
-      - "| VN | 606ms |"
-      - "| VN | 820ms |"
-      - "| VN | 609ms |"
-      - 🇩🇪 | DE | 527ms |
-      - "| SA | 1133ms |"
-      - "| SA | 1152ms |"
-      - "| SA | 1056ms |"
-      - "| SA | 1134ms |"
-      - "| KZ | 2561ms |"
-      - "| null | 99999ms | @configraygan 2"
-      - "| null | 99999ms | 🇰🇿+KZ+|+SS+|+@configraygan+#1"
-      - "| null | 99999ms | 18"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | @configraygan 3"
-      - "| null | 99999ms | @meliproxyy 2"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁶』"
-      - "| null | 99999ms | 🆔 @freenet_vt 🌠  کانفیگ رایگان`"
-      - "| null | 99999ms | 🆔 freenet_vt"
-      - "| null | 99999ms | configraygan_23"
-      - "| null | 99999ms | 19"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - 🇳🇱 | NL | 491ms |
-      - 🇳🇱 | NL | 498ms |
-      - 🇩🇪 | DE | 544ms | 2
-      - 🇫🇷 | FR | 531ms |
-      - 🇩🇪 | DE | 1283ms |
-      - 🇩🇪 | DE | 1545ms | Server
-      - 🇩🇪 | DE | 967ms | freenet_vt ✅️
-      - 🇩🇪 | DE | 605ms |
-      - "| FI | 942ms |"
-      - 🇩🇪 | DE | 533ms |
-      - 🇨🇦 | CA | 272ms |
-      - "| null | 99999ms | 20"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - "| null | 99999ms | @configraygan 4"
-      - "| null | 99999ms | @meliproxyy 3"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩"
-      - 🇺🇸 | US | 126ms |
-      - 🇩🇪 | DE | 526ms | 3
-      - 🇩🇪 | DE | 525ms |
-      - 🇫🇷 | FR | 570ms |
-      - 🇩🇪 | DE | 1073ms |
-      - 🇨🇦 | CA | 285ms |
-      - 🇬🇧 | GB | 471ms |
-      - 🇺🇸 | US | 157ms |
-      - "| VN | 610ms |"
-      - "| null | 99999ms | 21"
-      - "| null | 99999ms | 22"
-      - "| null | 99999ms | @meliproxyy 4"
-      - "| null | 99999ms | 23"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - "| null | 99999ms | @Vpn_Tehran 🔥 تلگرام 2"
-      - "| null | 99999ms | @configraygan-🇰🇿"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩`"
-      - 🇩🇪 | DE | 467ms |
-      - 🇩🇪 | DE | 497ms | ♻️4@oneclickvpnkeys
-      - "| null | 99999ms | @MARAMBASHI 🐳"
-      - "| null | 99999ms | 24"
-      - "| null | 99999ms | 25"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - "| null | 99999ms | @MARAMBASHI 💟"
-      - "| null | 99999ms | @confograygan+141"
-      - "| null | 99999ms | @meliproxyy 5"
-      - "| null | 99999ms | @proxy_kafee 2"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 2"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan_8"
-      - "| null | 99999ms | freenet_vt`"
-      - 🇳🇱 | NL | 489ms | 2
-      - 🇳🇱 | NL | 514ms |
-      - 🇳🇱 | NL | 493ms | 2
-      - 🇳🇱 | NL | 522ms |
-      - 🇳🇱 | NL | 4606ms | freenet_vt`
-      - 🇳🇱 | NL | 4647ms | ⚡️+|+@configraygan『🇩🇪⁶⁵』
-      - 🇳🇱 | NL | 4671ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 4678ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩`
-      - 🇳🇱 | NL | 4768ms | @proxy_kafee👑🦁☀️6
-      - 🇳🇱 | NL | 4800ms |
-      - 🇳🇱 | NL | 479ms |
-      - 🇳🇱 | NL | 506ms |
-      - 🇳🇱 | NL | 489ms | 3
-      - 🇳🇱 | NL | 2807ms | freenet_vt`
-      - 🇳🇱 | NL | 2847ms | @proxy_kafee
-      - 🇳🇱 | NL | 2849ms | @proxy_kafee`
-      - 🇳🇱 | NL | 3048ms | @confograygan+154
-      - 🇳🇱 | NL | 3109ms | @confograygan+129
-      - 🇳🇱 | NL | 3139ms |
-      - 🇳🇱 | NL | 543ms |
-      - 🇳🇱 | NL | 515ms |
-      - 🇳🇱 | NL | 520ms |
-      - "| null | 99999ms | 26"
-      - "| null | 99999ms | @meliproxyy 6"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩 3"
-      - "| null | 99999ms | 27"
-      - 🇸🇬 | SG | 520ms |
-      - 🇸🇬 | SG | 521ms | @configraygan
-      - 🇸🇬 | SG | 519ms | configraygan_VPNN
-      - 🇸🇬 | SG | 522ms |
-      - 🇯🇵 | JP | 442ms |
-      - 🇯🇵 | JP | 483ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 536ms | ⚡️+|+@configraygan『🇯🇵²』
-      - 🇯🇵 | JP | 1538ms |
-      - 🇸🇬 | SG | 522ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 552ms |
-      - 🇯🇵 | JP | 1379ms | @meliproxyy
-      - 🇯🇵 | JP | 1399ms | @proxy_kafee
-      - 🇯🇵 | JP | 1441ms | @Vpn_Tehran 💘 تلگرام
-      - 🇯🇵 | JP | 1500ms |
-      - 🇳🇱 | NL | 482ms |
-      - 🇳🇱 | NL | 489ms | 4
-      - 🇳🇱 | NL | 478ms |
-      - "| null | 99999ms | 28"
-      - 🇳🇱 | NL | 476ms |
-      - 🇳🇱 | NL | 1537ms |
-      - "| null | 99999ms | 29"
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 30"
-      - "| null | 99999ms | 31"
-      - "| null | 99999ms | @configraygan 5"
-      - 🇳🇱 | NL | 479ms | 2
-      - 🇳🇱 | NL | 479ms | 3
-      - 🇳🇱 | NL | 1202ms | @proxy_kafee
-      - 🇳🇱 | NL | 1208ms |
-      - 🇳🇱 | NL | 1227ms | Server
-      - 🇬🇧 | NL | 1245ms | 🇬🇧+GB+|+SS+|+@configraygan+#1
-      - 🇳🇱 | NL | 1270ms | @proxy_kafee
-      - 🇳🇱 | NL | 1273ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - 🇳🇱 | NL | 1347ms | @proxy_kafee✌️🇮🇱🇺🇸3
-      - 🇳🇱 | NL | 475ms |
-      - 🇳🇱 | NL | 498ms | 2
-      - "| null | 99999ms | 32"
-      - "| null | 99999ms | ***🚀***configraygan`"
-      - "| null | 99999ms | @configraygan-🇳🇱"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩"
+      - 🇭🇰 | HK | 619ms |
+      - 🇩🇪 | DE | 527ms |
+      - 🇩🇪 | DE | 512ms |
+      - 🇩🇪 | DE | 514ms |
+      - "| PK | 808ms |"
+      - 🇳🇱 | NL | 462ms |
+      - 🇳🇱 | NL | 476ms |
+      - 🇳🇱 | NL | 1202ms |
+      - 🇳🇱 | NL | 462ms | 2
+      - 🇳🇱 | NL | 455ms |
+      - 🇫🇷 | FR | 518ms |
+      - 🇩🇪 | DE | 668ms |
+      - 🇩🇪 | DE | 516ms |
+      - 🇺🇸 | US | 382ms |
+      - 🇷🇺 | RU | 830ms |
+      - 🇷🇺 | RU | 560ms |
+      - "| SA | 1139ms |"
+      - "| null | 99999ms | 11"
+      - 🇳🇱 | NL | 443ms |
+      - 🇳🇱 | NL | 452ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 456ms | ⚡️+|+@configraygan『🇳🇱³』
+      - 🇩🇪 | DE | 513ms |
+      - 🇺🇦 | UA | 2891ms |
+      - "| null | 99999ms | @freenet_vt 💙"
   - name: دانلود منیجر 📥
     type: select
     proxies:

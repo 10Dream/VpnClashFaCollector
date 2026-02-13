@@ -466,9 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 🇺🇸 hp71 - US - VLESS/WS - 80, server: nodejs.org, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f, network: ws, ws-opts: {path: "/?ed", headers: {Host: bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [hamedvpns] vless-RU", server: 109.120.188.166, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7bc30425-1c2f-4823-b629-90f599a4cbfe, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.17.83.254:8880, server: 104.17.83.254, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, network: ws, ws-opts: {path: /0uhb7164djuh7uo0, headers: {Host: index.harmony715.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 198.41.208.203:80, server: 198.41.208.203, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, network: ws, ws-opts: {path: /mpmva3e8rtr6v7qq, headers: {Host: index.harmony715.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,9 +484,7 @@ proxy-groups:
     type: select
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,9 +492,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -506,9 +500,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -525,9 +517,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -535,9 +525,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -545,9 +533,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 🇷🇺 [hamedvpns] vless-RU
       - 104.17.83.254:8880
-      - 198.41.208.203:80
   - name: دانلود منیجر 📥
     type: select
     proxies:

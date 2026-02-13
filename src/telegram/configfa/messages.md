@@ -1,5 +1,30 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-12 20:26:38 UTC
+بروزرسانی: 2026-02-13 01:12:59 UTC
+
+### 🕒 2026-02-12 20:31:58 UTC
+> ↪️ **Forwarded**
+
+***📂***
+ کانفیگ VLESS
+***📍***
+ لوکیشن: Iran 
+***🇮🇷***
+***📶***
+ پینگ: 206ms
+[#VLESS](?q=%23VLESS)
+ 
+[#VPN](?q=%23VPN)
+***🕒***
+ انتشار: 20:25 - 1404/11/23
+***💡***
+ منبع: 
+[@config_proxy](https://t.me/config_proxy)
+***🔍***
+ 
+[QRcode](https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;chs=200x200&amp;chl=vless%3A%2F%2Fd009862d-c813-4015-b84b-bb196b224c58%40ir.beta3.lowfamila.site%3A4532%3Fsecurity%3Dnone%26encryption%3Dnone%26host%3Dspeedtest.net%26headerType%3Dhttp%26type%3Dtcp%23Telegram%3A%40config_proxy)
+vless://d009862d-c813-4015-b84b-bb196b224c58@ir.beta3.lowfamila.site:4532?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy
+
+---
 
 ### 🕒 2026-02-12 01:10:54 UTC
 > ↪️ **Forwarded**

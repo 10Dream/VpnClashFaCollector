@@ -1,5 +1,31 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-12 20:25:41 UTC
+بروزرسانی: 2026-02-13 01:12:06 UTC
+
+### 🕒 2026-02-12 21:28:04 UTC
+`vless://3e6be719-189d-407c-928c-094a05045b39@rably-m.izumii.ir:2098?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40VPNSOL%201vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@18.156.73.211:443?security=none&encryption=none&headerType=none&type=tcp#%40VPNSOL%202vless://4bb175e9-436c-4449-a5db-3ccbfcb28022@3.67.11.160:29044?security=none&encryption=none&headerType=none&type=tcp#%40VPNSOL%203vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.193.109.3:443?security=none&encryption=none&headerType=none&type=tcp#%40VPNSOL%204`
+
+---
+
+### 🕒 2026-02-12 21:17:19 UTC
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#NetAccountvless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#NetAccountvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.241.30:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#NetAccounttrojan://telegram-id-privatevpns@15.188.241.30:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#NetAccount`
+
+---
+
+### 🕒 2026-02-12 21:17:04 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-12 21:16:54 UTC
+[https://t.me/proxy?server=91.239.192.153&port=858585&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.239.192.153&port=858585&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D](https://t.me/proxy?server=91.239.192.42&port=3443&secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+[https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+
+---
 
 ### 🕒 2026-02-12 18:15:23 UTC
 > ↪️ **Forwarded**
@@ -324,34 +350,6 @@ KHABAR
 [https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
 [https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09)
 [https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.174&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-10 22:43:15 UTC
-> ↪️ **Forwarded**
-
-***📞***
- پیام‌های که کانال اینترنت آزاد میذاره باید به کسانی که شک دارن نشون بده کی پشت این کاناله
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-10 21:22:00 UTC
-باراک راوید؛ خبرنگار آکسیوس بعد از تماس تلفنی با ترامپ: اون به من گفت اگر توافقی دیپلماتیک با ایران در مورد برنامه هسته‌ایش به دست نیاد آماده اقدام نظامی خواهد بود؛ ترامپ گفت: «یا توافق می‌کنیم، یا باید کار خیلی سختی انجام بدیم! مثل دفعه قبل.» به من گفت که…
-
----
-
-### 🕒 2026-02-10 21:21:38 UTC
-باراک راوید؛ خبرنگار آکسیوس بعد از تماس تلفنی با ترامپ: اون به من گفت اگر توافقی دیپلماتیک با ایران در مورد برنامه هسته‌ایش به دست نیاد آماده اقدام نظامی خواهد بود؛ ترامپ گفت: «یا توافق می‌کنیم، یا باید کار خیلی سختی انجام بدیم! مثل دفعه قبل.» به من گفت که در حال بررسی ارسال ناو هواپیمابر دوم به خاورمیانه هست، علاوه بر یواس‌اس لینکلن، به همراه کشتی‌های تهاجمی اضافی و جنگنده‌هاست. «ما یک ناوگروه اونجا داریم، و شاید یکی دیگه هم در راه باشه.» ترامپ گفت ایرانیا خیلی انعطاف بیشتری نسبت به قبل از جنگ 12 روزه نشون می‌دن: «این تماس‌ها کاملاً متفاوت از دفعه قبله.» رئیس‌جمهور به من گفت: «فکر نمیکنم نتانیاهو تحت فشار مذاکرات آمریکا با ایران باشه، اون هم میخواد توافق بشه، اون هم یه توافق خوب میخواد.» ترامپ اضافه کرد: «ما می‌تونیم یه توافق عالی با ایران داشته باشیم، اونا سلاح هسته‌ای نخواهند داشت؛ موشک هم نخواهند داشت.» به نظرش مسئله هسته‌ای یه چیز بدیهیه، یعنی حتماً باید بخشی از هر توافقی باشه، ترامپ گفت ایرانیا در دور اخیر مذاکرات که از جمعه شروع شده، انعطاف خیلی بیشتری نسبت به مذاکرات قبل از جنگ 12 روزه نشون دادن، ترامپ اشاره کرد که باور داره دور بعدی مذاکرات بین آمریکا و ایران حتی ممکنه هفته آینده شروع بشه
-
----
-
-### 🕒 2026-02-10 20:34:43 UTC
-توصیه آقا علی کریمی درباره روز تخمی 22 بهمن
-فردا روز شوم و نحس ۲۲ بهمن است. روزی ننگین و چرکین و خونین در تاریخ سرزمین عزیزمان.
-روز نفرین شده‌ای که تروریست‌ها، ایران را اشغال کردند تا ویرانش کنند.
-در هر شهری که هستید، از حضور یا تردد در خیابان‌های حوالی راهپیمایی خونشورها و تروریست‌ها، خودداری کنید. 
-آنها در پروپاگاندای تلویزیونی، شما را هم جزو حامیان‌شان محاسبه می‌کنند. در خانه بمانید و به ریش این بی ریشه‌ها بخندید.
 
 ---
 

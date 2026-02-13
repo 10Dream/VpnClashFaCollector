@@ -1,5 +1,28 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-12 20:27:08 UTC
+بروزرسانی: 2026-02-13 01:13:31 UTC
+
+### 🕒 2026-02-12 21:26:31 UTC
+`vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#%F0%9F%9F%A1freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?security=reality&encryption=none&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=a6f7168a7c3e2f77#%F0%9F%9F%A1%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://52d45a9f-4e5a-4d9a-93d0-486b7d740967@91.107.191.68:16126?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9F%A1%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%9F%A1%20%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@91.218.122.10:8443?mode=gun&security=reality&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&pbk=VxlbLM9ypmP8KyH65M6nPgArl19XOyREm9oNUlCN2yA&fp=chrome&type=grpc&serviceName=TunService&sni=www.microsoft.com#%F0%9F%9F%A1%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://c10999b4-7f93-5a50-3908-1467b1e52ae2@155.212.110.2:993?security=reality&encryption=none&pbk=GfTzhy59k9CXlAdF819OUVeBdrqIILaDIWa1bddjGnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%F0%9F%9F%A1%20%40freenet_vt%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://2e27ac27-c360-489a-86ea-8b9659de6763@192.200.160.20:443?path=%2Fjztpmbws%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=639065083958064562.corolla-perma.info&type=ws&allowInsecure=0&sni=639065083958064562.corolla-perma.info#%F0%9F%9F%A1%20%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.33.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%9F%A1%20%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9F%A1%40freenet_vt%20%28%D9%85%D9%84%DB%8C%20%D8%B4%DA%A9%D9%86%29`
+تعدادی کانفیگ v2ray  متصل با ایرانسل
+
+---
+
+### 🕒 2026-02-12 21:06:40 UTC
+ایرانسل فعلا به لوکیشن هلند وصل بشید  تامن یه  شام بخورم  درستش کنم
+
+---
+
+### 🕒 2026-02-12 20:53:20 UTC
+سرعت عالی شماره یک ايرانسل ۲ همراه
+
+---
+
+### 🕒 2026-02-12 20:52:03 UTC
+نسخه گوگل پلی 
+ رمز  ورود       
+`mohammad`
+
+---
 
 ### 🕒 2026-02-12 20:07:25 UTC
 گیر افتادم تازه رسیدم  تا نیم  ساعت گم تر یه کاب میزارم  سرعت فرفره جبران بشه 
@@ -135,56 +158,6 @@ openvp
 
 ### 🕒 2026-02-11 01:56:11 UTC
 ایرانسل حسابی لا داده
-
----
-
-### 🕒 2026-02-10 23:55:59 UTC
-البته روی ایرانسل تست کردم
-
----
-
-### 🕒 2026-02-10 23:55:37 UTC
-اینو توی apn گوشیتون وارد کنید همه چیز با سرعت نور باز میکنه
-
----
-
-### 🕒 2026-02-10 23:55:01 UTC
-`94.182.149.92`
-`2012`
-
----
-
-### 🕒 2026-02-10 23:00:41 UTC
-با سرعتوخوب رو ایرانسل وصله
-
----
-
-### 🕒 2026-02-10 23:00:24 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#freenet_vt`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#freenet_vt`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@`
-82.38.31.176:8080#freenet_vt
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#freenet_vt`
-کلید اوتلاین
-
----
-
-### 🕒 2026-02-10 21:07:50 UTC
-۱
-***♻️***
- بکاپ  ,دوازدهم  کلاینت پرو 
-***⚙️***
- سرورهای  openvpn
-متصل روی   همه امراتورها
-***🗝***
-پسورد بکاپ :
-`freenet_vt`
-***❗️***
-توجه کنید فقط باید از نسخه پریموم و مود کلاینت پرو استفاده کنید  :
-***📥***
-Download
-***🎦***
-آموزش وارد کردن بکاپ
 
 ---
 

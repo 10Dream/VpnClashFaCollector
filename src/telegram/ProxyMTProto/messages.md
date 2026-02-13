@@ -1,5 +1,41 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-12 20:24:43 UTC
+بروزرسانی: 2026-02-13 01:11:11 UTC
+
+### 🕒 2026-02-12 20:28:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 20:28:02 UTC
+Server: 
+`tcp.road-digger.info.`
+ 
+Port: 
+`61016`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-12 20:27:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`20721`
+Secret: 
+`647408c990b941e12beff9980c167929`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-12 19:30:02 UTC
 Server: 
@@ -436,30 +472,6 @@ Port:
 `443`
 Secret: 
 `3XnnAQIAAQAH8AMDhuJMOt0`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 20:28:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`443`
-Secret: 
-`7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-10 20:28:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`4515`
-Secret: 
-`eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

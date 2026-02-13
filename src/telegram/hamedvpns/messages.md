@@ -1,5 +1,104 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-12 20:27:16 UTC
+بروزرسانی: 2026-02-13 01:13:38 UTC
+
+### 🕒 2026-02-12 23:57:20 UTC
+فردا ساعت ۱۰ صبح یک فیلترشکن جدید دیگر معرفی میشه در کانال که نیاز به ثبت نام و چیز دیگری ندارد .
+تا اون موقع هر چقدر تونستین ری اکشن متفاوت بزنید به این پست ؛
+***❤️***
+***✅***
+***😎***
+***😁***
+***🫶***
+***🔥***
+***💯***
+***⭐***
+***⚡***
+***💋***
+***❤️‍🔥***
+...
+
+---
+
+### 🕒 2026-02-12 22:37:32 UTC
+فیلترشکن ExitVPN
+V0.5.2
+***🚨***
+ اختصاصی کانال خودمون 
+***🚨***
+هیچ جا معرفی نشده 
+***😎***
+فقط با یک ضربه متصل میشید به سرورهای قدرتمندی که داره .
+امنیتش از max vpn و غیره بهتره چون اونا حتی باعث خروج حساب تلگرامیم شدن اما این هیچ مشکلی نداشت .
+***🧩***
+**لینک دانلود از گوگل پلی:**
+[https://play.google.com/store/apps/details?id=com.exitvpn](https://play.google.com/store/apps/details?id=com.exitvpn)
+**باید براش یه جی‌میل اصلی یا فیک بدین با یه رمز تا ثبت نام کنید در قسمت sign up و سپس از قسمت Login وارد میشین و تمام .**
+..
+**💚 اشتراک گذاری یادتون نره ❤️**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-12 22:30:53 UTC
+نصف شبی میخوام یه فیلترشکن ساده و پرسرعت براتون معرفی کنم که مخصوص پدر و مادر بزرگ ها هست .
+با یک دکمه اتصال و سرعت خیلی بالایی داره .
+چند دقیقه بعد پست میشه ، نصب کنید و تست کنید و نتیجه رو بهم بگید .
+
+---
+
+### 🕒 2026-02-12 22:03:43 UTC
+من برگشتم ، از ساعت ۱۰ تا الان گروه و کانال در اختیار ادمین عزیزمون علی بود .
+از هم اکنون خودم هستم .
+برم ببینم چی هست چی نیست یکم بروزرسانی انجام بدیم برای روزهای پیش رو .
+
+---
+
+### 🕒 2026-02-12 21:43:24 UTC
+Exclave-0.17.14-arm64-v8a.apk
+
+---
+
+### 🕒 2026-02-12 21:39:22 UTC
+کانفیگ نپسترنت برای شما عزیزان 
+***❤️***
+مولتی لوکیشین 
+***🌏***
+برای راحتی شما رمز ندارد 
+***🔐***
+[دانلود نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-12 21:38:48 UTC
+خب بعد از پارگی فراوان بالاخره موفق شدم 
+***😑***
+
+---
+
+### 🕒 2026-02-12 20:30:24 UTC
+هر کی ری اکشن نزنه کانفیگ هام کوفتش شه 
+***🦦***
+ همینقدر من بدجنسم
+
+---
 
 ### 🕒 2026-02-12 20:24:33 UTC
 گوشی های خیلی قدیمی
@@ -8,16 +107,6 @@
 
 ### 🕒 2026-02-12 20:24:24 UTC
 گوشی های نسل جدید
-
----
-
-### 🕒 2026-02-12 20:23:34 UTC
-[https://github.com/dyhkwong/Exclave/releases/download/0.17.14/Exclave-0.17.14-arm64-v8a.apk](https://github.com/dyhkwong/Exclave/releases/download/0.17.14/Exclave-0.17.14-arm64-v8a.apk)
-
----
-
-### 🕒 2026-02-12 20:22:56 UTC
-الان هم لینک میذارم هم فایلشو
 
 ---
 
@@ -522,81 +611,6 @@ Url test :
 ***😂***
 ***😂***
 ***😂***
-
----
-
-### 🕒 2026-02-10 21:12:14 UTC
-کانفیگ فرگمنت 
-***🇸🇪***
- 
-تست شده در ایرانسل 
-***💚***
-{"dns":{"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"],"dns.403.online":["10.202.10.202","10.202.10.102"],"free.shecan.ir":["178.22.122.100","185.51.200.2"]},"servers":["https://94.140.14.14/dns-query","https://free.shecan.ir/dns-query","https://dns.403.online/dns-query","10.202.10.11","10.202.10.10","85.15.1.15","85.15.1.14","1.1.1.1"],"tag":"dns"},"inbounds":[{"listen":"127.0.0.1","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls"],"enabled":true,"routeOnly":true},"tag":"socks-in"},{"listen":"127.0.0.1","port":10809,"protocol":"http","settings":{"userLevel":8},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"chatgpt.com","network":"tcp,udp","port":53},"tag":"dns-in"}],"remarks":"[
-***🇸🇪***
-] [tr-tl-ws] [hamedvpns]","log":{"loglevel":"warning"},"outbounds":[{"mux":{"concurrency":-1,"enabled":false,"xudpConcurrency":8,"xudpProxyUDP443":""},"protocol":"trojan","settings":{"servers":[{"address":"chatgpt.com","port":8443,"password":"T9BpZIVMNv","level":8}]},"streamSettings":{"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"tcpNoDelay":true},"network":"ws","wsSettings":{"host":"sweden.vmaxpanel.com","path":"/amd"},"security":"tls","tlsSettings":{"allowInsecure":false,"alpn":[""],"fingerprint":"","serverName":"sweden.vmaxpanel.com","show":false}},"tag":"proxy"},{"protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":100,"TcpNoDelay":true}},"tag":"fragment"},{"protocol":"dns","sockopt":{"dialerProxy":"fragment"},"tag":"dns-out"},{"protocol":"freedom","settings":{"domainStrategy":"UseIP"},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out"},{"ip":["8.8.8.8"],"outboundTag":"direct","port":"53"},{"outboundTag":"proxy","network":"tcp,udp"}]}}
-داخل ویتورای باید پینگ زیر ۳۰۰ بده با سرعت عالی
-**🤕 اشتراک گذاری یادتون نره 🫶**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 21:00:45 UTC
-کانفیگ تست شده آیپی روسیه 
-با ایرانسل تست کردم 
-vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#%F0%9F%87%B7%F0%9F%87%BA%5Bhamedvpns%5D%20vless-RU
-**🫶 اشتراک گذاری یادتون نره ❤️**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 20:55:52 UTC
-کانفیگ ترکیه تست شده با ایرانسل 
-***🫠***
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@198.41.208.203:80?path=%2Fmpmva3e8rtr6v7qq&security=&encryption=none&host=index.harmony715.workers.dev&fp=chrome&type=ws#
-***🇹🇷***
- hamedvpns 
-**😎 اشتراک گذاری یادتون نره 💚**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-10 20:34:37 UTC
-**یه ریمیکس شبانه بشنوید 🦋🖤**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-
----
-
-### 🕒 2026-02-10 20:34:37 UTC
-کاملش 
-***👇***
-***👇***
 
 ---
 

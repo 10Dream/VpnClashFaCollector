@@ -1,5 +1,42 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-12 20:27:02 UTC
+بروزرسانی: 2026-02-13 01:13:25 UTC
+
+### 🕒 2026-02-12 23:17:17 UTC
+فوریییییی .!!!!!!
+تمام نت ها ملی شد 
+***‼️***
+تنها فیلترشکنی که وصله با شرایط نت ملی 
+***👇🏿***
+***🆔***
+ 
+[@SPDnetvpnbot](https://t.me/SPDnetvpnbot)
+***🆔***
+[@SPDnetvpnbot](https://t.me/SPDnetvpnbot)
+
+---
+
+### 🕒 2026-02-12 21:54:53 UTC
+وصله ؟
+[پروکسی](https://t.me/proxy?server=172.65.143.34&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.137.149&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.157.213&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=172.65.146.238&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.158.12&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.158.169&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=172.65.129.49&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.147.243&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[@Free_NetPlus](https://t.me/Free_NetPlus)
+ 
+***🪽***
+
+---
 
 ### 🕒 2026-02-12 19:46:41 UTC
 ‏یه کانال وی پی ان دارم هر ۴ ساعت نوتیف می ده:

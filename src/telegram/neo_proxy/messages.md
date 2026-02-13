@@ -1,5 +1,29 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-12 20:27:51 UTC
+بروزرسانی: 2026-02-13 01:14:12 UTC
+
+### 🕒 2026-02-13 01:12:02 UTC
+[**اگر متولد ماه زحل هستی رمز کارتتو بزار:**](https://t.me/+WWg_QAHDiVNmNTg0)
+
+---
+
+### 🕒 2026-02-13 01:07:03 UTC
+[**رو کارت بانکیت 7417417418898بنویس …..**](https://t.me/+WWg_QAHDiVNmNTg0)
+
+---
+
+### 🕒 2026-02-13 01:02:36 UTC
+**موجودی کارت دوستم بعد دو هفته**
+**😍**
+کد پولداری دوستم که رو کارتش نوشته
+***😐***
+بهش گفتم خر شدی؟ گفت بعد چندروز نتیجش رو میبینم و الان نتیجش شده نزدیک 
+**۲۰۰ میلیون**
+!!
+***💸***
+بهم گفت بیا این کانال آموزش میده : 
+[**@Fngshoyi**](https://t.me/+WWg_QAHDiVNmNTg0)
+
+---
 
 ### 🕒 2026-02-12 09:30:25 UTC
 پاهام رو تند تکون میدم، پوست لب‌هام رو عمیق میکنم، ساعت‌های طولانی میخوابم، به نقطه‌ نامشخص مدت‌ها خیره میشم، زمان زیادی سکوت میکنم و تکون نمیخورم چون من اهل خاورمیانه‌ام :)
@@ -167,85 +191,6 @@
 مرزِ...
 خودت این مرزها رو تعیین کن
 و همیشه یک قدم عقب‌تر بایست !
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-10 20:36:36 UTC
-شاملو چه زیبا میگه که :
-و چشمانت رازِ آتش است
-و عشقت پیروزیِ آدمی‌ست
-هنگامی که به جنگ تقدیر می‌شتابد
-و 
-**آغوشت**
-اندک جایی برای زیستن
-اندک جایی برای مردن ! 
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-10 20:29:42 UTC
-وقتی قهر میکنه بهش بگید :
-من ازت ناراحتم باشم باز پناهم تویی
-باز قلبم دنبال تو میگرده...
-هرکجا که باشم
-تکیه گاهم و امیدم تویی
-با من قهر نکن که جز تو پناهی ندارم
-من باهات قهرم کنم بازم باید
-به خودت زنگ بزنم تا حالم خوب بشه
-آخه تو هم دردی هم درمونی... 
-***👩‍❤️‍💋‍👨***
-***❤️***
 [پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)

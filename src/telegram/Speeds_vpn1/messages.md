@@ -1,5 +1,5 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-12 20:25:45 UTC
+بروزرسانی: 2026-02-13 01:12:10 UTC
 
 ### 🕒 2026-02-12 17:07:16 UTC
 ***🚨***
@@ -1051,58 +1051,6 @@
  24 ساعته: 
 [@VPNSHIT](https://t.me/VPNSHIT)
  
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-10 21:09:10 UTC
-***🚨***
-**مخصوص رایتل و ایرانسل **
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-‌
-`vless://505997ba-cbdb-466e-a3ad-69c6a4553b38@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=ahlekarbala.global.ssl.fastly.net&type=ws#@SPEEDS_VPN1-🫆vless://b40567e1-99da-4892-aa29-64008cd107e8@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#@SPEEDS_VPN1-🫆`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔄***
-زمان پایان سرویس حداکثر 12ساعت
-***🛜***
- در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
 ***🔤***
  
 [@speeds_vpn](https://t.me/speeds_vpn)

@@ -465,52 +465,90 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇮🇳 hhhnju.taipei102.indevs.in:443, server: hhhnju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 104.21.44.213, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
-  - {name: 160.16.106.99:3901, server: 160.16.106.99, port: 3901, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 160.16.72.33:1933, server: 160.16.72.33, port: 1933, type: trojan, password: 5fb072e0ddd631cf66cf752b09210480, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hl-freedom-0.undef.network:443, server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f}, udp: true, tfo: false}
-  - {name: ⚜️20@oneclickvpnkeys`, server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f}, udp: true, tfo: false}
-  - {name: "@confingraygan B0012-🇬🇧", server: hl-freedom-0.undef.network, port: 443, type: trojan, password: 76yTlnTIsjCTlmqnUJ5Tzc1rM, sni: hl-freedom-0.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-0.undef.network}}, udp: true, tfo: false}
-  - {name: 203.198.123.162:443, server: 203.198.123.162, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 58.152.18.130:443, server: 58.152.18.130, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 64@oneclickvpnkeys, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
-  - {name: sweden.vmaxpanel.com:8443, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
-  - {name: sweden.vmaxpanel.com:8443 2, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2famd", headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "@confingraygan N001fnfj-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "@confingraygan N001xo-🇸🇪", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: v1.dabache.top:8443, server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy`", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: creativecommons.org:2053, server: creativecommons.org, port: 2053, type: trojan, password: YwuvGJk36B, sni: kotlet.arshiacomplus.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /yamtekodasayahhh, headers: {Host: kotlet.arshiacomplus.dpdns.org}}, udp: true, tfo: false}
-  - {name: 80.173.230.196:26279, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89%20hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89%20hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91@oneclickvpnkeys, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: de2c.buzzon.shop:443, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe", server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /C7Uxy5S9pAi1VhW5NThds106, headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: de2c.buzzon.shop:443 2, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: de2c.buzzon.shop:443 3, server: de2c.buzzon.shop, port: 443, type: trojan, password: acadd87c-c8b4-4b6b-989b-64263e4d0329, sni: de2c.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fC7Uxy5S9pAi1VhW5NThds106", headers: {Host: de2c.buzzon.shop}}, udp: true, tfo: false}
-  - {name: fic.buzzon.shop:443, server: fic.buzzon.shop, port: 443, type: trojan, password: b3a73d16-5d6e-45ad-8a73-314583408ec1, sni: fic.buzzon.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /SpB9iu4m7MqdokB1leJ, headers: {Host: fic.buzzon.shop}}, udp: true, tfo: false}
-  - {name: 38.180.137.196:443, server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 38.180.137.196:443 2, server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan x05, server: 38.180.137.196, port: 443, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.138.232:443, server: 162.159.138.232, port: 443, type: trojan, password: dQDQCtns4R, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.138.232:443 2, server: 162.159.138.232, port: 443, type: trojan, password: dQDQCtns4R, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.138.232:443 3, server: 162.159.138.232, port: 443, type: trojan, password: dQDQCtns4R, sni: fadaei.movieland.top, skip-cert-verify: false, network: ws, ws-opts: {path: static34528, headers: {Host: fadaei.movieland.top}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 162.159.138.232, port: 443, type: trojan, password: dQDQCtns4R, sni: fadaei.movieland.top, skip-cert-verify: false, network: ws, ws-opts: {path: static34528, headers: {Host: fadaei.movieland.top}}, udp: true, tfo: false}
-  - {name: 162.159.198.189:443, server: 162.159.198.189, port: 443, type: trojan, password: hI70tn0ifx, sni: my-new-worker.khiarshorplus.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/hI70tn0ifx?ed=128", headers: {Host: my-new-worker.khiarshorplus.workers.dev}}, udp: true, tfo: false}
-  - {name: 104.11.86.252:443, server: 104.11.86.252, port: 443, type: trojan, password: hSA6YXe15O, sni: 104.11.86.252, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.18.32.37:443, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 104.18.32.37:443 2, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💚 تلگرام", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💜 تلگرام", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 🦋 تلگرام", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: NetAccount, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@Vpn_Tehran 💚 تلگرام 2", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 154.53.63.32:80, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: configraygan30, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: 154.53.63.32:443, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸", server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: 154.12.240.141:443, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 154.12.240.141:443 2, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: "@proxy_kafee", server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: configraygan106, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 154.12.240.141:80 2, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: configraygan112, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
+  - {name: 154.38.176.7:443, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: configraygan50, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: configraygan85, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: 94.72.127.55:443, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: configraygan86, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: configraygan17, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: 94.72.127.55:443 2, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 2", server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: 94.72.127.55:80 2, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 3", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "@`", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: 149.102.149.207:443, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: configraygan14, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: configraygan12, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: 154.53.57.143:443, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: configraygan6, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: 154.53.57.143:80, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: configraygan20, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: 154.53.57.143:443 2, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 4", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@proxy_kafee 3", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: 154.53.57.143:80 2, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 5", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "@proxy_kafee 4", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: 155.138.158.179:443, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: جوین چنل شید قط نشید@configraygan, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: configraygan109, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:80, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: جوین چنل شید قط نشید@configraygan 2, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: configraygan102, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:443 2, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:443 3, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:80 2, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 155.138.158.179:80 3, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
+  - {name: 45.77.253.107:443, server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: configraygan15, server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: 45.77.253.107:80, server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "[833] - Telegram : @configraygan", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: 45.77.253.107:80 2, server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "@proxy_kafee 5", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -527,156 +565,270 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -692,156 +844,270 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
-      - "***🐦‍🔥***-@SPEEDS_VPN"
-      - 160.16.106.99:3901
-      - 160.16.72.33:1933
-      - hl-freedom-0.undef.network:443
-      - ⚜️20@oneclickvpnkeys`
-      - "@confingraygan B0012-🇬🇧"
-      - 203.198.123.162:443
-      - 58.152.18.130:443
-      - 64@oneclickvpnkeys
-      - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@confingraygan N001fnfj-🇸🇪"
-      - "@confingraygan N001xo-🇸🇪"
-      - v1.dabache.top:8443
-      - "@meliproxyy`"
-      - creativecommons.org:2053
-      - 80.173.230.196:26279
+      - 154.53.63.32:80
       - "***✅***@AR14N24b"
-      - 91@oneclickvpnkeys
-      - de2c.buzzon.shop:443
-      - "Telegram: @wiki_tajrobe"
-      - 𝗝𝗼𝗶𝗻 ➠ @myseaproxy | کانال ما وصل شدی جوین شو 🚀
-      - de2c.buzzon.shop:443 2
-      - de2c.buzzon.shop:443 3
-      - fic.buzzon.shop:443
-      - 38.180.137.196:443
-      - 38.180.137.196:443 2
-      - "@proxy_kafee"
-      - configraygan x05
-      - 162.159.138.232:443
-      - 162.159.138.232:443 2
-      - 162.159.138.232:443 3
+      - configraygan30
+      - 154.53.63.32:443
+      - "@v2FreeHub 🇺🇸"
       - "***✅***@AR14N24b 2"
-      - 162.159.198.189:443
-      - 104.11.86.252:443
-      - 104.18.32.37:443
-      - 104.18.32.37:443 2
-      - "@Vpn_Tehran 💚 تلگرام"
-      - "@Vpn_Tehran 💜 تلگرام"
-      - "@Vpn_Tehran 🦋 تلگرام"
       - "@meliproxyy"
-      - NetAccount
-      - 104.18.32.47:443
-      - "@Vpn_Tehran 💚 تلگرام 2"
+      - 154.12.240.141:443
+      - 154.12.240.141:443 2
+      - "***✅***@AR14N24b 3"
+      - "@proxy_kafee"
+      - configraygan106
+      - 154.12.240.141:80
+      - 154.12.240.141:80 2
+      - "***✅***@AR14N24b 4"
+      - "@proxy_kafee 2"
+      - configraygan112
+      - 154.38.176.7:443
+      - "***✅***@AR14N24b 5"
+      - configraygan50
+      - 154.38.176.7:80
+      - "***✅***@AR14N24b 6"
+      - configraygan85
+      - 94.72.127.55:443
+      - "***✅***@AR14N24b 7"
+      - configraygan86
+      - 94.72.127.55:80
+      - "***✅***@AR14N24b 8"
+      - configraygan17
+      - 94.72.127.55:443 2
+      - "@v2FreeHub 🇺🇸 2"
+      - "***✅***@AR14N24b 9"
+      - "@meliproxyy 2"
+      - 94.72.127.55:80 2
+      - "@v2FreeHub 🇺🇸 3"
+      - "***✅***@AR14N24b 10"
+      - "@`"
+      - "@meliproxyy 3"
+      - 149.102.149.207:443
+      - "***✅***@AR14N24b 11"
+      - configraygan14
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b`"
+      - configraygan12
+      - 154.53.57.143:443
+      - "***✅***@AR14N24b 13"
+      - configraygan6
+      - 154.53.57.143:80
+      - "***✅***@AR14N24b 14"
+      - configraygan20
+      - 154.53.57.143:443 2
+      - "@v2FreeHub 🇺🇸 4"
+      - "***✅***@AR14N24b 15"
+      - "@meliproxyy 4"
+      - "@proxy_kafee 3"
+      - 154.53.57.143:80 2
+      - "@v2FreeHub 🇺🇸 5"
+      - "***✅***@AR14N24b 16"
+      - "@meliproxyy 5"
+      - "@proxy_kafee 4"
+      - 155.138.158.179:443
+      - جوین چنل شید قط نشید@configraygan
+      - "***✅***@AR14N24b 17"
+      - configraygan109
+      - 155.138.158.179:80
+      - جوین چنل شید قط نشید@configraygan 2
+      - "***✅***@AR14N24b 18"
+      - configraygan102
+      - 155.138.158.179:443 2
+      - 155.138.158.179:443 3
+      - "***✅***@AR14N24b 19"
+      - 155.138.158.179:80 2
+      - 155.138.158.179:80 3
+      - "***✅***@AR14N24b 20"
+      - 45.77.253.107:443
+      - "***✅***@AR14N24b 21"
+      - configraygan15
+      - 45.77.253.107:80
+      - "[833] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 22"
+      - 45.77.253.107:80 2
+      - "***✅***@AR14N24b 23"
+      - "@proxy_kafee 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:
