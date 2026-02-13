@@ -1,5 +1,86 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-13 10:34:02 UTC
+بروزرسانی: 2026-02-13 20:29:29 UTC
+
+### 🕒 2026-02-13 20:03:11 UTC
+**محدودیت مادام‌العمر استوری در تلگرام بدون پرمیوم**
+در برخی مناطق (مثل روسیه، اوکراین،ایران و تعدادی کشورهای اروپایی) کاربران بدون Telegram Premium فقط می‌تونن 
+**حداکثر ۳ استوری در کل عمر اکانت**
+ رایگان بذارن!
+نکات مهم:
+- این ۳ تا 
+**مادام‌العمر**
+ حساب میشه (حتی استوری‌های قدیمی، حذف‌شده، یا زمانی که پرمیوم داشتی).
+- اگه قبلاً بیشتر از ۳ تا استوری گذاشتی (حتی با پرمیوم یا وقتی رایگان بود)، دیگه نمی‌تونی بدون پرمیوم استوری جدید بذاری.
+- وقتی محدودیت پر بشه، اپ می‌گه: «ارسال استوری فقط برای مشترکین پرمیوم ممکنه» (نه پیام محدودیت روزانه).
+- 
+[توسعه‌دهنده‌ها](https://bugs.telegram.org/c/59147)
+ تأیید کردن این رفتار عمدیه، نه باگ!
+در کشورهای دیگه که از اول استوری رایگان بود، ظاهراً این محدودیت ۳ تایی اعمال نمی‌شه (یا کمتره).
+[@Lrnbymaa](https://t.me/Lrnbymaa)
+
+---
+
+### 🕒 2026-02-13 18:02:41 UTC
+`vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp# lrnbymaavless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir# lrnbymaavless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws# lrnbymaavless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?allowInsecure=0&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&insecure=0&path=%2F&security=tls&sni=beh1.salonemojallal.ir.&type=ws# lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
+
+### 🕒 2026-02-13 15:45:22 UTC
+***🚀***
+ اینترنت بدون مرز، بدون قطعی، بدون اعصاب‌خوردی! 
+***🚀***
+خسته شدی از فیلتر، پینگ بالا، وصل نشدن و قطع و وصل؟
+وقتشه خفن وصل شی 
+***😎***
+***⚡️***
+***🔥***
+ فیلترشکن پرسرعت و پایدار
+***💎***
+ مناسب گیم، تلگرام، اینستاگرام، یوتیوب و هرچی فکرشو بکنی
+***📶***
+ پینگ پایین | 
+***🚄***
+ سرعت بالا | 
+***🔒***
+ امنیت کامل
+***⏱***
+ بدون قطعی‌های اعصاب‌خردکن
+***🤖***
+ خرید سریع و اتوماتیک از ادمین‌لرن‌بای‌ما:
+***👉***
+ 
+[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
+ 
+***👉***
+ 
+[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
+***❌***
+ اینترنت لاک‌پشتی؟
+***✅***
+ با ما اینترنت توربویی بگیر!
+***💣***
+ یه بار تست کن، مشتری دائمی شو!
+
+---
 
 ### 🕒 2026-02-13 06:54:08 UTC
 `vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.25.180:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#lrnbymaa`
@@ -29,44 +110,6 @@
  
 [@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
   ‍
-
----
-
-### 🕒 2026-02-11 17:43:01 UTC
-`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#lrnbymaa`
-`vless://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#lrnbymaa`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#lrnbymaa`
-`vless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--CoOoW&mode=stream-up#lrnbymaa`
-`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#lrnbymaa`
-
----
-
-### 🕒 2026-02-11 15:59:25 UTC
-`vmess://eyJhZGQiOiAiOTUuMjE3LjI1LjY5IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImZwIjogIiIsICJob3N0IjogIiIsICJpZCI6ICIwMThmNDQ1OS0wNTZlLTRjNDEtOTBjZS0xMmNiYzJjNjcwYjIiLCAiaW5zZWN1cmUiOiAiMCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDIxNTIiLCAicHMiOiAi4pqh77iPVGVsZWdyYW0gPSBAU09Ta2V5TkVUIiwgInNjeSI6ICJhdXRvIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=@lrnbymaavless://d035704c-fe9c-4ed8-8106-effd398a7e87@91.107.249.108:49749?security=none&encryption=none&headerType=none&type=tcp# @lrnbymaavless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#@lrnbymaavless://e8accc46-c511-42fb-919b-9283799a88a1@79.137.175.56:443?security=reality&encryption=none&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=8f222b3475800821#@lrnbymaa`
-کانفینگ پرسرعت 
-***🚨***
-***🌔***
- یک بار بزنید روی کانفیگ‌ کپی میشه 
-  
-***💎***
-اگه ارور داد برنامه 
-***🖥***
- v2ray آپدیت کنید
-***🔹***
-جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-   
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-  ‍
-
----
-
-### 🕒 2026-02-11 12:48:00 UTC
-`vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#lrnbymaavless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#lrnbymaass://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#lrnbymaass://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#lrnbymaatrojan://humanity@www.gossipglove.com:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#lrnbymaavless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#lrnbymaavless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#lrnbymaavless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#lrnbymaavless://9e4c954c-133f-4530-99f2-e2c102b3e414@dynamic.gogolilililili.shop:8888?security=none&encryption=none&host=Google.com&headerType=http&type=tcp#lrnbymaa`
 
 ---
 

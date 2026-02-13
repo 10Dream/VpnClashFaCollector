@@ -1,17 +1,27 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-13 10:35:41 UTC
+بروزرسانی: 2026-02-13 20:31:03 UTC
 
-### 🕒 2026-02-11 11:27:26 UTC
+### 🕒 2026-02-13 20:17:11 UTC
+***🏢***
+ پروفایل: عمران آذرستان
+***✨***
+ نوع تجربه: تجربه کاری
 ***💰***
-‏حقوق ماهیانه در جهان (با دلار ۱۶۰ تومان)
-سوئیس: ۸۲۰۰ دلار (۱.۳۱۲ میلیون تومان)
-لوکزامبورگ: ۶۷۰۰ دلار (۱.۰۷۲ میلیون تومان)
-آمریکا: ۶۵۰۰ دلار (۱.۰۴۰ میلیون تومان)
-نروژ: ۵۷۰۰ دلار (۹۱۲ میلیون تومان)
-کانادا: ۵۲۰۰ دلار (۸۳۲ میلیون تومان)
-هلند: ۴۶۰۰ دلار (۷۳۶ میلیون تومان)
-سنگاپور: ۴۴۰۰ دلار (۷۰۴ میلیون تومان)
-ایران: ۱۳۰ دلار (۲۰.۸ میلیون تومان) در رتبه ۱۷۰ جهان
+ حقوق: 100 میلیون تومان
+میزان درآمد بسیار زیادی که صاحبان این شرکت خانواده زو*** از رانت خود با پروژه نیروگاه اتمی بوشهر بدست میارن و قراردادی که...
+[https://tajrobe.wiki/review/Oxokr](https://tajrobe.wiki/review/Oxokr)
+
+---
+
+### 🕒 2026-02-13 19:05:51 UTC
+همراه اول:
+vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://df8333c5-f35a-4007-aa21-54c705a8e17a@fip.lightningdns.ir:443?path=%2Fwst%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parsianmobilebank.ir&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@K10.FASTSPEEDS.IR:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl-node-m1.jadobet1.store#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@K10.FASTSPEEDS.IR:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-node-m1.jadobet1.store#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+***⚡️***
+ 
+[@wiki_tajrobe](https://t.me/wiki_tajrobe)
 
 ---
 

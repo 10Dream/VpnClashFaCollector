@@ -1,5 +1,80 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-13 10:30:04 UTC
+بروزرسانی: 2026-02-13 20:25:25 UTC
+
+### 🕒 2026-02-13 19:55:54 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-13 18:59:59 UTC
+**تعرفه سرور های v2ray پرسرعت و اختصاصی کانال **
+**⚡️**
+**☄️**
+** اول رایگان تست کنید بعد خرید کنید**
+ 
+***✔️***
+ 
+**تعرفه سرور های همه اپراتور ها (تانل) **
+**💩**
+**💜**
+**🔵**
+**🔵**
+**🟡**
+**🔵**
+**20 گیگ 75**
+ 
+**تومان30 گیگ 105 تومان50 گیگ 175 تومان70 گیگ 224 تومان100 گیگ 320 تومانهر کاربر اضافه 35 تومان**
+ 
+***✔️***
+**پشتیبانی 24/7 ساعته**
+ 
+***🌐***
+**خرید از ادمین**
+***⭐***
+ 
+[@CapoitAds](https://t.me/CapoitAds)
+
+---
+
+### 🕒 2026-02-13 17:02:05 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-13 15:57:11 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-13 13:51:26 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-13 13:50:13 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
 
 ### 🕒 2026-02-12 22:12:16 UTC
 کانفیگ NapsternetV
@@ -84,24 +159,6 @@ New Proxy
 ---
 
 ### 🕒 2026-02-12 05:07:11 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-11 16:58:49 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-11 14:05:58 UTC
 کانفیگ NapsternetV
 [برنامه NApsternetV](https://t.me/Capoit/31225)
 [آموزش وارد کردن](https://t.me/Capoit/31230)

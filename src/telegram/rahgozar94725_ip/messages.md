@@ -1,7 +1,53 @@
 # آرشیو کانال: @rahgozar94725_ip
-بروزرسانی: 2026-02-13 10:34:39 UTC
+بروزرسانی: 2026-02-13 20:30:02 UTC
 
-### 🕒 2026-02-13 06:07:03 UTC
+### 🕒 2026-02-13 20:16:46 UTC
+آقای شبکه کار قمار باز! حریف تو منم
+
+---
+
+### 🕒 2026-02-13 20:05:09 UTC
+لیست آیپی های رسمی و غیر رسمی کلاودفلر برای اسکن
+
+---
+
+### 🕒 2026-02-13 20:03:34 UTC
+***⚠️***
+ هشدار امنیتی بسیار مهم برای همکاران و کاربران 
+***⚠️***
+دوستان عزیز، طبق بررسی‌های فنی اخیر، ما با یک Botnet گسترده و تعداد زیادی Honeypot (تله امنیتی) در دیتاسنترهای مختلف روبرو هستیم.
+ماجرا از این قرار است که هکرها یا سیستم‌های فیلترینگ، سرورهای آلوده را در رنج‌های مختلف پخش کرده‌اند. اگر شما برای پیدا کردن "آی‌پی تمیز" (Clean IP) برای کانفیگ‌های CDN، رنج‌هایی غیر از رنج‌های رسمی کلادفلر را اسکن کنید، به احتمال ۹۹٪ در دام این هانی‌پات‌ها می‌افتید.
+***🔴***
+ خطر: در این صورت، ترافیک شما و کاربرانتان به جای کلادفلر، از سرور هکر عبور می‌کند که هم امنیت اطلاعات کاربر به خطر می‌افتد و هم سرور اصلی شما شناسایی و مورد حمله DDoS قرار می‌گیرد.
+***✅***
+ توصیه‌های فوری:
+***1️⃣***
+ فقط رنج رسمی: تنها از لیستی که در پست بعدی ارسال می‌کنم برای اسکن آی‌پی تمیز استفاده کنید (این‌ها رنج‌های رسمی Cloudflare هستند).
+***2️⃣***
+ الزام TLS: فعلاً اکیداً فقط از کانفیگ‌های دارای TLS استفاده کنید تا امنیت دیتا حفظ شود.
+***3️⃣***
+ بستن راه‌های نفوذ: اگر ادمین سرور هستید، سریعاً دو رنج زیر (که منشاء حملات اخیر هستند) را در فایروال سرورهای خود مسدود (Block) کنید:
+***⛔️***
+ 
+[31.171.0.0/16](http://31.171.0.0/16)
+ (مربوط به دیتاسنترهای باکو)
+***⛔️***
+ 
+[112.2.0.0/16](http://112.2.0.0/16)
+ (مربوط به چین)
+***🔄***
+ لطفاً این پیام را برای سایر همکاران هم بفرستید تا جلوی نشت اطلاعات و حملات گرفته شود.
+
+---
+
+### 🕒 2026-02-13 19:12:13 UTC
+***⚠️***
+***⛔️***
+ همگی توجه کنید! تا اطلاع ثانوی به هیچ عنوان از کانفیگ های بدون tls  استفاده نکنید. مخصوصا در حالت CDN.
+
+---
+
+### 🕒 2026-02-13 14:05:05 UTC
 ***🚀***
  لیست جدید و بروز شده پروکسی‌های تلگرام
 ***♻️***
@@ -26,37 +72,6 @@
 سرور ما با قدرت و سرعت خوبی پذیرای تعداد افراد خیلی بیشتری هم هست. با پخش کد اشتراک کانال توی اپ mahsaNG زمینه اتصال رایگان افراد بیشتری رو فراهم کنید.
 کد اشتراک:          
 `fcf82fcc`
-
----
-
-### 🕒 2026-02-11 15:28:23 UTC
-برای وارد کردن کد اشتراک اختصاصی کانال روی آیکون مشخص شده ضربه بزنید و کد fcf82fcc را وارد کنید
-
----
-
-### 🕒 2026-02-11 11:41:54 UTC
-دوستان بنابه درخواست شما من کانفیگ نت مود هم گذاشتم، اما توصیه میکنم که از کانفیگ اختصاصی کانال توی اپ mahsaNG استفاده کنید. اپ مهسا از تنظیمات فرگمنت متناسب با اینترنت شما استفاده میکنه و این باعث بهبود کیفیت اتصال در شرایط فعلی میشه
-
----
-
-### 🕒 2026-02-11 11:36:03 UTC
-nm-vless:///M7iyNuAMfxc1RiTVFKjji9fJu7lE3+kEssAtv/ziwYC3EfasRbLLFafLMrmYwRXKE6YYtcy15dji5gJn/z/9QEx+kZbzIRZk6zwiniNoL53s3nWGrQu83pOWcb55agJOLfhnlBBOw9BrBLGs+XTGn9PcdnzOb/RH2ternWXfhtvfIflm6XITzYFnARb7Qy6Hssn+hmgytRdy+nbbrdm8YjbNh3GHbNggjjwwi9KO0jn7JE4UMTCU7HVhguZvTiAhVK4PU0RCh/SacduVFNIx6WZAMEupmQb3brYQZ+C2VcNmeJ+1E/aQEvzgJwUgS08S31iPROahG4wpZYbvUbgVUAy8H94P1KMagQP+WXh+DQ=
-nm-vless:///M7iyNuAMfxc1RiTVFKjji9fJu7lE3+kEssAtv/ziwYMw5P9cuxcsw8d2QwcYKd7obHTcEr6qdedW5Chj8DdygEx+kZbzIRZk6zwiniNoL53s3nWGrQu83pOWcb55agJOLfhnlBBOw9BrBLGs+XTGn9PcdnzOb/RH2ternWXfhtvfIflm6XITzYFnARb7Qy6Hssn+hmgytRdy+nbbrdm8YjbNh3GHbNggjjwwi9KO0jn7JE4UMTCU7HVhguZvTiAhVK4PU0RCh/SacduVFNIx6WZAMEupmQb3brYQZ+C2VcNmeJ+1E/aQEvzgJwUgS08S31iPROahG4wpZYbvUbgVXDhZGpc/pXwJILxqv/zdlRQWk1JicFz/6palsV+yMYW
-nm-vless:///M7iyNuAMfxc1RiTVFKjji9fJu7lE3+kEssAtv/ziwbPAjvVceHp/6ff4ZD1Yaoz9ZPo8DEnvaJQ29hT4gC55XxFmrf/eV/7AJf3cfLIv3ekIyktWgcpnkDOH0lsAjE3b9ihkR8QnD/WcMTsrdqV4/14yQGFHukUKQyDafMDIew1mtE3jPiehDXz8mi6/6kBgfzKG73B4YmJx2SxYp7Fii1vvacZStyPK0rKaM59uBsLt8mb36Ij0rOZB286riGspuMV/coMNfgO04mNoTsYuLz9yB4822yopSVgT7CYDpT/isbs4YHPxQsZPrUnDmtIG9gXKudL9xg8y/5p1DNUMReYYFyfGNkP00GLiyE5qj8kc2ONWjWZM6dYjk4fiCTS
-کانفیگ NetMod 
-***🌹***
-
----
-
-### 🕒 2026-02-11 11:27:03 UTC
-برای وارد کردن کد اشتراک اختصاصی کانال روی آیکون مشخص شده ضربه بزنید و کد fcf82fcc را وارد کنید
-
----
-
-### 🕒 2026-02-11 10:48:18 UTC
-برای وارد کردن کد اشتراک اختصاصی کانال روی آیکون مشخص شده ضربه بزنید و کد 
-`fcf82fcc`
- را وارد کنید
 
 ---
 

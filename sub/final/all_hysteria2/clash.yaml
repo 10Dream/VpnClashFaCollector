@@ -467,15 +467,16 @@ rule-providers:
 proxies:
   - {name: 15@oneclickvpnkeys, server: mlxy1.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy1.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8@oneclickvpnkeys`, server: mlxy2.xiaoliyu.us, port: 2056, type: hysteria2, ports: 2056, password: 04c2a097-5ed8-49b6-9860-cb4667583745, sni: mlxy2.xiaoliyu.us, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84@oneclickvpnkeys, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys`, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 60@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 9@oneclickvpnkeys, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: All⁷ | @freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram -, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: •, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 206.71.158.37:36400, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: twneko.jjxcloud.xyz:8443, server: twneko.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: twneko.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: twneko.jjxcloud.xyz:8443 2, server: twneko.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: e4543370-0591-45c5-ba43-14f53fd58b4c, sni: twneko.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,15 +495,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -511,15 +513,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -528,15 +531,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -554,15 +558,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -571,15 +576,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -588,15 +594,16 @@ proxy-groups:
     proxies:
       - 15@oneclickvpnkeys
       - 8@oneclickvpnkeys`
+      - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
       - 62@oneclickvpnkeys
       - 60@oneclickvpnkeys
       - 9@oneclickvpnkeys
       - "@proxy_kafee"
-      - All⁷ | @freenet_vt
-      - 5.175.249.174:35000
-      - ⚡Telegram -
-      - •
+      - 206.71.158.37:36400
+      - "@meliproxyy"
+      - twneko.jjxcloud.xyz:8443
+      - twneko.jjxcloud.xyz:8443 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,114 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-13 10:35:47 UTC
+بروزرسانی: 2026-02-13 20:31:08 UTC
+
+### 🕒 2026-02-13 20:29:40 UTC
+مجدد 
+[#وارپ](?q=%23%D9%88%D8%A7%D8%B1%D9%BE)
+ روی بعضی اپراتور ها وصله به همین دلیل میتونید از اندپوینت ها داخل 
+[oblivion](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
+ استفاده کنید!
+***🚀***
+[162.159.192.4:500](http://162.159.192.4:500/)
+[162.159.192.2:878](http://162.159.192.2:878/)
+[162.159.192.6:864](http://162.159.192.6:864/)
+[162.159.192.1:2408](http://162.159.192.1:2408/)
+[162.159.195.8:3581](http://162.159.195.8:3581/)
+[162.159.192.1:2408](http://162.159.192.1:2408/)
+[162.159.195.1:4177](http://162.159.195.1:4177/)
+[162.159.195.3:878](http://162.159.195.3:878/)
+[162.159.192.8:903](http://162.159.192.8:903/)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-13 19:58:48 UTC
+آموزش دریافت #کانفیگ ۹۰ روزه نامحدود شادوساکس 
+***😎***
+  Get Free 90 Day's Shadowsocks Config   فقط کافیه لینک زیر رو باز کنید و مطابق تصاویر کانفیگ خودتون رو بصورت رایگان دریافت کنید .  لینک دریافت کانفیگ : https://freesocks.org/get  
+***👈***
+***👈***
+   یه چیز اضافه کنم ، میتونید…
+
+---
+
+### 🕒 2026-02-13 19:28:39 UTC
+آموزش دریافت 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ ۹۰ روزه نامحدود شادوساکس 
+***😎***
+Get Free 90 Day's Shadowsocks Config 
+فقط کافیه لینک زیر رو باز کنید و مطابق تصاویر کانفیگ خودتون رو بصورت رایگان دریافت کنید .
+**لینک دریافت کانفیگ :**
+[https://freesocks.org/get](https://freesocks.org/get)
+ 
+***👈***
+***👈***
+یه چیز اضافه کنم ، میتونید با هر بار با اتصال به یک فیلتر و آیپی دیگری ، ازش کانفیگ جدید بگیرید 
+***😁***
+..
+**❤️ اشتراک گذاری یادتون نره 💚**
+توجه:کلاینت های مختلف تست کنید
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***✅️***
+[@xsfilternet](https://t.me/xsfilternet)
+ 
+***☯️***
+
+---
+
+### 🕒 2026-02-13 19:25:32 UTC
+محدودیت ها از ۹ شب مجدد زیاد شده اما این بار با کاهش سرعت دانلود و آپلود این اختلال فردا ممکنه زیاد ترم بشه!
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+|
+[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+|
+[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-13 15:43:47 UTC
+کانفیگ نامحدود حجمی و زمانی
+***♻️***
+***🔥***
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-13 11:14:26 UTC
+کانفیگ نپسترنت مخصوص مخابرات 
+***❤️***
+لوکیشن 
+***🇵🇱***
+***🔐***
+ رمز : 
+`hamedvpns`
+ 
+***👉***
+***👉***
+[دانلود نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+ 
+***✅***
+..
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+[@xsfilternet](https://t.me/xsfilternet)
+ 
+***🧡***
+ 
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-02-13 08:25:54 UTC
 > ↪️ **Forwarded**
@@ -116,40 +225,6 @@ vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&e
 ***🔥***
 ***🥶***
    @xsfilternet
-
----
-
-### 🕒 2026-02-11 16:47:35 UTC
-[#امنیت](?q=%23%D8%A7%D9%85%D9%86%DB%8C%D8%AA)
- 
-معرفی 
-[#اپلیکیشن](?q=%23%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86)
- Duo mobile برای افزایش امنیت برنامه های شما
-***🥶***
-رفقا این اپلیکیشن که خود اینستاگرام هم 
-[#پشتیبانی](?q=%23%D9%BE%D8%B4%D8%AA%DB%8C%D8%A8%D8%A7%D9%86%DB%8C)
- میکنه ازش داخل اپ کمک میکنه امنیت پیج یا برنامه شما چند برابر شه و حتی ترس از بسته شدن پیجتون هم نداشته باشید چرا چون یه کد بکاپ بهتون میده و هیچ کس جز شما دسترسی نخواهد داشت!
-2FA (Two-Factor Authentication)
-این اپلیکیشن اپ های دیگه رو هم پشتیبانی میکنه که داخل خود اپ نام برده شده
-***🚀***
-[لینک دانلود اندروید](https://play.google.com/store/apps/details?id=com.duosecurity.duomobile)
-....
-[لینک دانلود اپ استور](https://apps.apple.com/us/app/duo-mobile/id422663827)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-11 10:44:03 UTC
-اگر اینقدر به 
-[#دینت](?q=%23%D8%AF%DB%8C%D9%86%D8%AA)
- یقین داری چرا تردید من اینقدر تو را آزار میدهد؟
-[ ژان لو رون دالامبر ]
-[پروکسی](https://t.me/proxy?server=85.133.194.109&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
-|
-[پروکسی](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-|
-[پروکسی](https://t.me/proxy?server=78.46.197.232&amp;port=8443&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[@xsfilternet](https://t.me/xsfilternet)
 
 ---
 

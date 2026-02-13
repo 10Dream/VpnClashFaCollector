@@ -1,5 +1,218 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-13 10:32:02 UTC
+بروزرسانی: 2026-02-13 20:27:30 UTC
+
+### 🕒 2026-02-13 20:00:21 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-13 19:58:54 UTC
+ترامپ: ایران مایل به رسیدن به توافق نیست و کار را برای رسیدن به‌ توافق بسیار سخت کردند.
+
+---
+
+### 🕒 2026-02-13 18:55:05 UTC
+سخنرانی کامل رضا پهلوی در مونیخ
+ما دیدیم که چه تعداد از مردم شعار می دهند و به خیابان ها آمدند، اما با سرکوب شدیدی مواجه شدند که متأسفانه به سطح نسل کشی منجر شد. 
+رژیم با شلیک به مردم در خیابان ها با تسلیحات نظامی، تعقیب مردم در بیمارستان ها، پایان دادن به آنها، می دانید، واکنش نشان داد - شلیک گلوله آخر به سر آنها روی تخت های بیمارستانی شان.
+در حال حاضر زنان در زندان مورد تجاوز جنسی قرار می گیرند. سربازان به دلیل امتناع از همکاری با رژیم در سرکوب مردم دستگیر و اعدام می شوند. 
+این واقعاً چیزی است که درست زیر چشمان ما اتفاق می افتد.
+دریای خونی است که امروز مردم ایران را با این رژیم جدا کرده است.‌‌
+بسیاری از ایرانیانی که در حال مبارزه با این دعوا بوده اند و در خیابان ها جان خود را از دست داده اند، از دنیا می خواهند که مداخله کند. 
+ما خواهان مداخله بشردوستانه هستیم تا از تلف شدن جان بیگناه بیشتری در این روند جلوگیری شود. 
+ما به آن حمایت و زمین بازی برابر نیاز داریم تا ما به عنوان شهروندان غیرمسلح، فرصتی واقعی برای غلبه بر این رژیم سرکوبگر داشته باشیم.‌‌
+ما تعدادی از افسران پلیس را می شناسیم که به دلیل امتناع از سرکوب توسط رژیم اعدام شدند. 
+ما تعدادی از افسران پلیس را می شناسیم که به دلیل امتناع از سرکوب توسط رژیم اعدام شدند. 
+ما به درستی می دانیم که رژیم برای انجام کار کثیف مجبور بود از افغانستان، از عراق و از لبنان عناصری را وارد کند که حتی شهروند ایرانی هم نبودند.‌‌
+همبستگی بی‌سابقه ایرانیان در چهار گوشه جهان را می‌بینید که حمایت خود را از آنها نشان می‌دهند. ما میلیون ها نفر را در خیابان های ایران دیده ایم که این کار را انجام می دهند.
+آیا آزادی بهایی دارد؟ البته این کار را می کند.
+آیا ما حاضریم برای این هدف بمیریم؟ البته که هستیم.
+تمام حرف ما این است که چاره ای جز مبارزه نداریم.‌‌
+من هیچ جاه طلبی شخصی ندارم. من دنبال قدرت نیستم من تاجی بر سرم یا عنوانی نمی خواهم. 
+اما من فکر می کنم آنها باید به من به عنوان پلی به آن مقصد نگاه کنند، نه خود مقصد.‌‌
+دو ملت در این سیاره وجود دارند که می توانند ادعای رابطه کتاب مقدس با یکدیگر را داشته باشند. یکی اسرائیل است. دیگری ایران است. 
+به زمان کوروش کبیر برمی گردد. کوروش کبیر که بردگان یهودی را در بابل آزاد کرد و به آنها کمک کرد تا معبد خود را در اورشلیم بازسازی کنند.‌‌
+ما در مورد بحران آب در ایران صحبت می کنیم. و حدس بزنید چه کسی بهترین متخصصان و متخصصان جهان را در زمینه رسیدگی به مسائل آب دارد؟ اسرائیل
+یکی از دلایلی که به اسرائیل رفتم این بود که در این مورد هم صحبت کنم.‌‌
+
+---
+
+### 🕒 2026-02-13 18:48:12 UTC
+تموم شد برین خونه هاتون 
+***❤️***
+***🚶🏻‍♀***
+
+---
+
+### 🕒 2026-02-13 18:47:44 UTC
+سناتور گراهام: اگر این رژیم بر سر قدرت بماند خاورمیانه رو نابود خواهد کرد و تاریخ خیلی به بدی از ما یاد میکند.
+
+---
+
+### 🕒 2026-02-13 18:46:52 UTC
+سناتور گراهام: احتمال صلح با آیت الله دقیقا به اندازه احتمال به صلح رسیدن با هیتلره. ما با تمام دنیا میتوانیم به نتیجه برسیم جز آیت الله ها.
+
+---
+
+### 🕒 2026-02-13 18:42:48 UTC
+خبرنگار: آیا آمریکا از شاهزاده رضا پهلوی حمایت میکند؟
+سناتور لینسی گراهام: من تحت تاثیر مواضع ایشون هستم، تنها کاری که ما میتونیم بکنیم اینه که این شانس رو به مردم ایران بدیم تا آزاد باشن
+
+---
+
+### 🕒 2026-02-13 18:41:52 UTC
+لیندسی گراهام : ما نمیخواهیم که آیت الله در قدرت بمانند ، ترامپ مردم ایران رو ترجیح داد ولی اروپا اژ مردم ایران حمایت نکردن 
+چرا برای آن ها اعتراضات نمیکنید ؟ چرا فقط برای غزه اعتراضات میکنید ؟
+
+---
+
+### 🕒 2026-02-13 18:37:28 UTC
+لیندسی گراهام: ترامپ معتقده زمان تغییر حکومت در ایران فرا رسیده
+
+---
+
+### 🕒 2026-02-13 18:35:46 UTC
+سناتور گراهام:
+بنظر من شانس ما برای همکاری با مردم ایران بیشتر از آیت الله هاست.
+ ترامپ در کنار مردم ایرانه. 
+چیزی بدتر از آیت الله در جهان وجود ندارد، مردم ایران خسته هستند و میخواهند که این ها بروند، ما کلی تجهیزات در منطقه داریم و امکان سرنگونی رژیم وجود دارد.
+ آمریکا و اسرائیل باید برای سرنگونی رژیم، نیروهای سرکوب را بکشند و تجهیزاتشون رو نابود کنند.
+ مردم با جان خودشان از شاهزاده رضا پهلوی حمایت کردند، و رژیم آن ها را کشت.
+
+---
+
+### 🕒 2026-02-13 18:27:46 UTC
+لیندسی گراهام : اگر ما به وعده ی خود عمل نکنیم جمهوری اسلامی تمامی معترضان رو خواهد کشت
+ لیندسی گراهام : اما اگر این رژیم را ساقط کنیم ، حزب الله و حماس هم نابود میشوند
+
+---
+
+### 🕒 2026-02-13 18:26:52 UTC
+خبرنگار به سناتور لینسی گراهام: شما طرفدار مردم ایران هستید، آیا شما باور دارید ترامپ به حرفی که زده عمل می‌کنه؟
+سناتور گراهام: این رژیم دستش به خون مردم آغشته هست و ممکنه به سلاح هسته ای دست پیدا کنه برای جنگ با اسرائیل و تمام جهان، بنظر من اونها نازی های مسلمون هستن. 
+آیت الله ها به نام خدا دروغ می گویند.
+
+---
+
+### 🕒 2026-02-13 18:26:41 UTC
+نازنین بنیادی: انقلابی که با خشم باشه به همون راه قبلی باز میگرده، چطوری این خشم رو به دموکراسی تبدیل کنیم؟
+شاهزاده رضا پهلوی: دموکراسی باید بخشی از فرهنگ ما باشه و ما نباید از حق مردم ایران که رسیدن به عدالت هست بگذریم. 
+مادران داغ دیده خواستار عدالت هستن اما پس از آن جامعه ای دموکراسی‌ محور خواهیم داشت.
+
+---
+
+### 🕒 2026-02-13 18:25:16 UTC
+شاهزاده رضا پهلوی: مردم ما مانند حکومتشان نیستند آن ها به تمام ملت ها احترام میگذارند.
+
+---
+
+### 🕒 2026-02-13 18:25:01 UTC
+سخنرانی تموم شده ادمین ما هنوز داره پوشش میده
+
+---
+
+### 🕒 2026-02-13 18:23:49 UTC
+سخنرانی تموم شده ادمین ما هنوز داره پوشش میده
+
+---
+
+### 🕒 2026-02-13 18:23:40 UTC
+شاهزاده رضا پهلوی: ما به چهار اصل بعد از گزار نیازمندیم
+۱  تمامیت ارضی 
+۲ نیازی به جدایی دین از سیاست 
+۳ برابری همه شهروندان در پیشگاه قانون 
+۴ حق مردم ایران برای تعیین نماینده های خود
+
+---
+
+### 🕒 2026-02-13 18:23:22 UTC
+شاهزاده رضا پهلوی: حکومت اسلامی ۲ میلیارد دلار پول دریافت کردند که همه را خرج گروهای نیباتی و‌ تروریستی کردند.
+
+---
+
+### 🕒 2026-02-13 18:22:56 UTC
+شاهزاده رضا پهلوی: ایران و اسرائیل دوست هستند، کوروش بزرگ یهودیان رو‌ آزاد کرد تمام یهودیان به کوروش بزرگ احترام میگذارند.
+
+---
+
+### 🕒 2026-02-13 18:22:37 UTC
+شاهزاده در پاسخ مجری که گفت میخوای پادشاه بشی: 
+خیر ، من به دنبال یک حکومت دموکراتیک هستم و هدف من این نیست که از الان تاج پادشاهی بر سر خود بگذارم، ما یک انتخابات آزاد برگزار میکنیم و مردم ایران خودشان انتخاب میکنند.
+
+---
+
+### 🕒 2026-02-13 18:22:17 UTC
+رضا پهلوی : من رهبری دوران گذر هستم و برنامه من به پیروز رساندن انقلاب و پیروزی و رهبری تا زمان انتخابات آزاد هست ما به دنبال یک حکومت آزاد هستیم
+
+---
+
+### 🕒 2026-02-13 18:21:08 UTC
+شاهزاده رضا پهلوی: مذهب جایی در سیاست نداره.
+
+---
+
+### 🕒 2026-02-13 18:20:25 UTC
+شاهزاده رضا پهلوی:
+میلیون ها نفر در کشورم نام من را فریاد زدند و من برای همین مسئولیت رهبری انقلاب را پذیرفته‌ام تا زمان سقوط.
+
+---
+
+### 🕒 2026-02-13 18:20:22 UTC
+شاهزاده رضا پهلوی: رژیم جمهوری اسلامی غیرقابل اصلاحه، جمهوری اسلامی در حال نسل کشی در ایرانه.
+
+---
+
+### 🕒 2026-02-13 18:13:02 UTC
+پوشش بدیم؟
+
+---
+
+### 🕒 2026-02-13 18:12:52 UTC
+شاهزاده رضا پهلوی امشب ساعت ۲۱:۱۵ تو کنفرانس امنیتی مونیخ سخنرانی می‌کنن.
+
+---
+
+### 🕒 2026-02-13 17:45:15 UTC
+[https://t.me/proxy?server=185.3.200.4&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.4&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=](https://t.me/proxy?server=app.x9q.pw&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0=)
+[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-13 14:28:50 UTC
+شاهزاده رضا پهلوی امشب ساعت ۲۱:۱۵ تو کنفرانس امنیتی مونیخ سخنرانی می‌کنن.
+
+---
+
+### 🕒 2026-02-13 14:22:22 UTC
+[https://t.me/proxy?server=167.235.242.119&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=167.235.242.119&port=8443&secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=45.82.138.81&port=443&secret=ddaf6c5f736e89cc6a51f683363335e5ae](https://t.me/proxy?server=45.82.138.81&port=443&secret=ddaf6c5f736e89cc6a51f683363335e5ae)
+
+---
+
+### 🕒 2026-02-13 14:21:43 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-13 11:55:08 UTC
+پزشکیان:
+مشکلات خودتون رو خودتون حل کنید. من که بلد نیستم
+***😐***
+ سیاستمدار هم نیستم؛ من عددی نیستم، من یه دکترم.
+
+---
+
+### 🕒 2026-02-13 11:54:46 UTC
+حرفای این روزای پزشکیان یچیزی تو مایه های همه ساکت بودند ناگهان خری گفت شده
+***🗿***
+
+---
 
 ### 🕒 2026-02-13 09:09:00 UTC
 ***🆔***
@@ -233,90 +446,6 @@ Où t'es, papaoutai ?
 ***🆔***
  
 [@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-11 19:17:43 UTC
-گویا تموم شده  باید منتظر نتایج و اخبار بود خواهیم دید چه خواهد شد
-
----
-
-### 🕒 2026-02-11 18:54:55 UTC
-بی بی و ترامپ در حال صحبت.
-
----
-
-### 🕒 2026-02-11 18:28:25 UTC
-`vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccountvless://39315072-17ec-4a53-bbdf-54e7d485e2ca@test.flutterdevs.click:2090?security=none&encryption=none&headerType=none&type=tcp#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.119.137.95:2053?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#NetAccountvless://MahsaNG-vpn-74777300@104.17.71.206:8443?encryption=none&security=tls&sni=h9-7.digicala.online&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=1&type=xhttp&host=h9-7.digicala.online&path=%2F%3FTELEGRAM--CoOoW&mode=stream-up#NetAccountvless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?encryption=none&security=tls&sni=master.red-cow.de&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2F#NetAccount`
-
----
-
-### 🕒 2026-02-11 18:13:06 UTC
-صالح محمدی، کشتی گیر 19 ساله تیم ملی، به اعدام در ملاء عام در میدان نبوت قم محکوم شده!
-[#صالح_محمدی](?q=%23%D8%B5%D8%A7%D9%84%D8%AD_%D9%85%D8%AD%D9%85%D8%AF%DB%8C)
-، ۱۹ ساله، کشتی‌گیر آزاد تیم ملی و دارنده مدال بین‌المللی،  بازداشت و با اتهام محاربه به اعدام محکوم شده است. نگرانی جامعه ورزشی و فعالان حقوق بشر درباره جان او جدی است.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-11 18:09:16 UTC
-[https://t.me/proxy?server=proxymtproto.telwbion.com.&port=25565&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=proxymtproto.telwbion.com.&port=25565&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=down.permiumdl.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=cdn.yektanet.com.ircompany.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=cdn.yektanet.com.ircompany.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=winner.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=winner.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=hamrah-aval.ir.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=hamrah-aval.ir.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=unknow-proxy.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=unknow-proxy.ou-miaiad.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.uptv443.shop.&port=8443&secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
-
----
-
-### 🕒 2026-02-11 16:41:21 UTC
-بی بی و ترامپ در حال صحبت.
-
----
-
-### 🕒 2026-02-11 14:05:48 UTC
-> ↪️ **Forwarded**
-
-KHABAR
-[@MemeBaazaar](https://t.me/MemeBaazaar)
-
----
-
-### 🕒 2026-02-11 14:00:35 UTC
-***🔴***
- پیتر نواک، ستاره‌شناس و طالع‌بین مسیحی:  حدود دو هفته پیش پیش‌بینی کردم که جنگ ایران و آمریکا در بازه‌ای بین ۱۰ تا ۲۰ فوریه آغاز خواهد شد. اکنون این پیش‌بینی را دقیق‌تر کرده و مشخص می‌کنم که این اتفاق در یک بازه زمانی محدود بین ساعت ۱۰ صبح تا ۱ بعدازظهر…
-
----
-
-### 🕒 2026-02-11 14:00:30 UTC
-***🔴***
- پیتر نواک، ستاره‌شناس و طالع‌بین مسیحی:
-حدود دو هفته پیش پیش‌بینی کردم که جنگ ایران و آمریکا در بازه‌ای بین ۱۰ تا ۲۰ فوریه آغاز خواهد شد.
-اکنون این پیش‌بینی را دقیق‌تر کرده و مشخص می‌کنم که این اتفاق در یک بازه زمانی محدود بین ساعت ۱۰ صبح تا ۱ بعدازظهر در روز چهارشنبه ۱۱ فوریه رخ خواهد داد.(یعنی امروز ساعت ۶:۳۰ عصر تا ۹:۳۰ شب)
-
----
-
-### 🕒 2026-02-11 13:58:42 UTC
-> ↪️ **Forwarded**
-
-در حالی که خود را برای برگزاری هرچه باشکوه‌تر گردهمایی‌های روز چهاردهم فوریه آماده می‌کنید از همه شما هم‌میهنانم در سراسر جهان می‌خواهم که به حاشیه‌ها توجه نکنید، و با یک‌‌صدایی و انضباط کامل، همچون هفته‌های گذشته، نماینده شایسته ملت ایران و انقلاب شیروخورشید باشید.
-
----
-
-### 🕒 2026-02-11 12:40:51 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-11 12:40:17 UTC
-`vless://914b0493-7094-4840-b94d-8ec3e92e9c43@146.185.208.206:443?security=reality&encryption=none&pbk=do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=5f22#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccountss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8390#NetAccountss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZXQxc2doMWlRYVd6c3cyMDFKWDJlZXhOMUFpNlFtSUdjWklsdmxDNUw1ND0@57.131.42.19:8389#NetAccounttrojan://humanity@www.gossipglove.com:443?path=%252Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@base.zdshop.ir:2086?path=%2F%3Fed%3D2086&security=none&encryption=none&host=new-frns.certhost.ir&type=ws#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=frns-2.certhost.ir&type=ws&allowInsecure=0&sni=frns-2.certhost.ir#NetAccountvless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@safe.zdshop.ir:2053?security=tls&encryption=none&insecure=0&host=itns-2.blackpapers.ir&type=ws&allowInsecure=0&sni=itns-2.blackpapers.ir#NetAccountvless://9e4c954c-133f-4530-99f2-e2c102b3e414@dynamic.gogolilililili.shop:8888?security=none&encryption=none&host=Google.com&headerType=http&type=tcp#NetAccount`
 
 ---
 

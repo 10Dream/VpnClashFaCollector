@@ -465,28 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: NetAccount 2, server: 57.131.42.19, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
-  - {name: NetAccount 3, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: NetAccount`, server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 4, server: 15.188.241.30, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 5, server: 162.159.25.180, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 06430296-e070-4048-ba38-3662c09e52bc, servername: finland.hiytocloud.ir, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 2sudo.winapp3.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f70e732-e72d-4535-b494-a595d4df4b0b, servername: master.red-cow.de, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: master.red-cow.de}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 6, server: 2sudo.winapp3.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f70e732-e72d-4535-b494-a595d4df4b0b, servername: master.red-cow.de, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: master.red-cow.de}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 7, server: test.flutterdevs.click, port: 2090, type: vless, tls: true, packet-encoding: xudp, uuid: 39315072-17ec-4a53-bbdf-54e7d485e2ca, host: test.flutterdevs.click, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 15.188.241.30, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 162.159.25.180, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 06430296-e070-4048-ba38-3662c09e52bc, servername: finland.hiytocloud.ir, alpn: ["h2,http/1.1"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@VPNSOL 1", server: rably-m.izumii.ir, port: 2098, type: vless, tls: true, packet-encoding: xudp, uuid: 3e6be719-189d-407c-928c-094a05045b39, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 104.18.44.24, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 104.18.44.24, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@VPNSOL 3", server: 3.67.11.160, port: 29044, type: vless, tls: true, packet-encoding: xudp, uuid: 4bb175e9-436c-4449-a5db-3ccbfcb28022, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 8, server: base.zdshop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, network: ws, ws-opts: {path: "/?ed=2086", headers: {Host: new-frns.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 9, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: frns-2.certhost.ir, network: ws, ws-opts: {path: /, headers: {Host: frns-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 10, server: safe.zdshop.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, servername: itns-2.blackpapers.ir, network: ws, ws-opts: {path: /, headers: {Host: itns-2.blackpapers.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 11, server: 199.119.137.95, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 12, server: 104.21.78.70, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5, servername: amirjk12.benyamin-bozorgi1379.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirjk12.benyamin-bozorgi1379.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 3, server: 104.21.78.70, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5, servername: amirjk12.benyamin-bozorgi1379.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirjk12.benyamin-bozorgi1379.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@VPNSOL 4`", server: 18.193.109.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 907ccc0f-bd56-4726-a877-d72a02125b6c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 13, server: 146.185.208.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 914b0493-7094-4840-b94d-8ec3e92e9c43, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: do22ES2nDjO0EggET4H9Gf8_tEY7PwZv76zVXPrDojQ, short-id: 5f22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 14, server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 98aaebaa-bf4f-4e25-96f2-844691440360, network: ws, ws-opts: {path: /containers/fi, headers: {Host: mohsenchavoshi.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 15, server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 98aaebaa-bf4f-4e25-96f2-844691440360, network: ws, ws-opts: {path: /containers/fi, headers: {Host: pizzabama.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: dynamic.gogolilililili.shop, port: 8888, type: vless, tls: true, packet-encoding: xudp, uuid: 9e4c954c-133f-4530-99f2-e2c102b3e414, host: Google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 4, server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 98aaebaa-bf4f-4e25-96f2-844691440360, network: ws, ws-opts: {path: /containers/fi, headers: {Host: mohsenchavoshi.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 5, server: 151.101.25.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 98aaebaa-bf4f-4e25-96f2-844691440360, network: ws, ws-opts: {path: /containers/fi, headers: {Host: pizzabama.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@VPNSOL 2", server: 18.156.73.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -504,28 +492,16 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -533,28 +509,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -562,28 +526,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -600,28 +552,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -629,28 +569,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -658,28 +586,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount`
       - NetAccount
       - NetAccount 2
+      - "@VPNSOL 1"
+      - NetAccount` 2
+      - "@VPNSOL 3"
       - NetAccount 3
-      - NetAccount`
+      - "@VPNSOL 4`"
       - NetAccount 4
       - NetAccount 5
-      - NetAccount` 2
-      - NetAccount 6
-      - NetAccount 7
-      - "@VPNSOL 1"
-      - NetAccount` 3
-      - "@VPNSOL 3"
-      - NetAccount 8
-      - NetAccount 9
-      - NetAccount 10
-      - NetAccount 11
-      - NetAccount 12
-      - "@VPNSOL 4`"
-      - NetAccount 13
-      - NetAccount 14
-      - NetAccount 15
-      - NetAccount` 4
       - "@VPNSOL 2"
   - name: دانلود منیجر 📥
     type: select

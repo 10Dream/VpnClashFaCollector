@@ -1,5 +1,16 @@
 # آرشیو کانال: @Canfing_VPN
-بروزرسانی: 2026-02-13 10:30:00 UTC
+بروزرسانی: 2026-02-13 20:25:19 UTC
+
+### 🕒 2026-02-13 19:13:36 UTC
+**پروکسی قوی تر از این نداریم**
+(
+**فعال**
+)
+***🚀***
+***✅***
+[tg://proxy?server=193.38.55.115&port=443&secret=ee22ebe47f2fc01540000000000000084b783657b82ddb69626434326e2e69](https://t.me/+9SNw5Jv9iHU3ZmE0)
+
+---
 
 ### 🕒 2026-02-12 12:33:56 UTC
 **🔹**
@@ -39,18 +50,6 @@
 ***🔗***
 لینک دانلود مستقیم Soren : 
 [کلیک کنید ](https://uploadb.me/5uawrq55hj6y/OX_Mod.apk.html)
-***🌐***
-[@Canfing_VPN](https://t.me/Canfing_VPN)
- | به اشتراک بگذارید
-
----
-
-### 🕒 2026-02-11 19:26:47 UTC
-***🔴***
-سرور v2ray پرسرعت 
-`vless://5bffc5cd-62cc-4e9d-b88e-32ad58c5cc27@curt235.cvbesty.ir:2376?mode=gun&security=tls&encryption=none&type=grpc&sni=filimo.com#%E2%9A%AB%EF%B8%8F%20Telegram%3D%20%40Canfing_VPN`
-***✔️***
-تمام نت ها متصله ، بفرستین دوستاتون وصل شن .
 ***🌐***
 [@Canfing_VPN](https://t.me/Canfing_VPN)
  | به اشتراک بگذارید
