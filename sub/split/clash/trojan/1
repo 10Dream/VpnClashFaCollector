@@ -467,8 +467,6 @@ rule-providers:
 proxies:
   - {name: www.speedtest.net:8443, server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
-  - {name: 🇮🇳 hhhnju.taipei102.indevs.in:443, server: hhhnju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
   - {name: ggbnh.7777198.xyz:443, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 104.21.44.213, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
@@ -476,119 +474,154 @@ proxies:
   - {name: "***✅***@AR14N24b 3", server: 95.40.77.248, port: 1196, type: trojan, password: BxceQaOe, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64@oneclickvpnkeys, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
   - {name: sweden.vmaxpanel.com:8443, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, skip-cert-verify: false, network: ws, ws-opts: {path: /amd}, udp: true, tfo: false}
-  - {name: sweden.vmaxpanel.com:8443 2, server: sweden.vmaxpanel.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2famd", headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy`", server: v1.dabache.top, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
   - {name: 45@oneclickvpnkeys, server: de.nnvpn.io, port: 443, type: trojan, password: YLd-Ktj6weDQXa64raSgPgPrdwggHxBW, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.nnvpn.io:443, server: de.nnvpn.io, port: 443, type: trojan, password: YLd-Ktj6weDQXa64raSgPgPrdwggHxBW, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 4", server: de.nnvpn.io, port: 443, type: trojan, password: YLd-Ktj6weDQXa64raSgPgPrdwggHxBW, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.173.230.196:26279, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89%20hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89%20hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91@oneclickvpnkeys, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE%3DJGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 80.173.230.196:26279 2, server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇵🇹⁹⁰』", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 80.173.230.196, port: 26279, type: trojan, password: a5inYFE=JGV89+hjxIqgDp1tcWBd6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇯🇵 jp10.jsyjiedian8.com:30003, server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹²⁰』", server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan99, server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇯🇵 jp10.jsyjiedian8.com:30003 2, server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: jp10.jsyjiedian8.com, port: 30003, type: trojan, password: a8f3baf4-0694-4f73-bebc-9e7f3ea01b95, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.21.75.193:443, server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
+  - {name: configraygan_1194, server: 104.21.75.193, port: 443, type: trojan, password: bpb-trojan, sni: mashdt.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tr?ed", headers: {Host: mashdt.pages.dev}}, udp: true, tfo: false}
   - {name: 162.159.36.115:443, server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.36.115:443 2, server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: "C4 : @Xvpnplus_bot | MCI ✅", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.11.110:443, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.18.11.110:443 2, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.18.32.37:443, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦¹』, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 تلگرام", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💜 تلگرام", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: 104.18.32.37:443 2, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 104.18.32.47:443, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: 104.18.32.47:443 2, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: configraygan_1144, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💚 تلگرام 2", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🔥 تلگرام", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.21.40.34:443, server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@confograygan 113", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇫🇷¹』, server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: 104.21.40.34, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: •@freenet_vt, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🛸 freenet_vt 🪩, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@configraygan@configraygan", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443 2, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹⁴⁵』", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: configraygan70, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: configraygan_10, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: configraygan_1119, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443 3, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪¹⁸』, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷¹⁶⁶』", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: configraygan91, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: configraygan_1142, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443 4, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: "@configraygan", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇵🇱⁴』, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: V 14 @Outline_Vpn, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 172.64.152.23:443 5, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 172.64.152.23:443 5, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: configraygan_1155, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: 172.64.152.23:443 6, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦⁴』, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: 172.64.152.23:443 7, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: configraygan_1134, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: configraygan_5, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 💛 تلگرام", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 172.64.152.23:443 6, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 172.64.152.23:443 8, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 172.64.152.23:443 7, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 172.64.152.23:443 9, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 172.67.180.92:443, server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦³』, server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 185.18.250.252:443, server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "@confograygan 157", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 188.114.96.3:443, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦⁷』, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 90@oneclickvpnkeys, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@confograygan 137", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 188.114.98.0:443 2, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 2, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷³⁹』", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 3, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷³⁴』", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 4, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷³²』", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 5, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷⁵⁶』", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 6, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷³⁸』", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 188.114.98.0:443 7, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇬🇧²』, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 25", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷²⁶』", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@configraygan@configraygan 2", server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: v1.dabache.top:443, server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 26", server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@proxy_kafee👑🦁☀️9", server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: www.calmlunch.com:443, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 27", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: configraygan_1200, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: www.calmlunch.com:443 2, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: www.creationlong.org:443, server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪⁴³』, server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 28", server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: www.creationlong.org:443 2, server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 29", server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: www.gossipglove.com:443, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: www.gossipglove.com:443 2, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦¹¹』, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 30", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: www.gossipglove.com:443 3, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "| @configraygan『🇮🇷³¹』", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: NetAccount, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: lrnbymaa, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: www.host-tracker.com:443, server: www.host-tracker.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: www.multiplydose.com:443, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: www.multiplydose.com:443 2, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "@confograygan 156", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇨🇦¹³』, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 31", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: www.multiplydose.com:443 2, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: www.multiplydose.com:443 3, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: www.multiplydose.com:443 4, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@configraygan 2", server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 205.185.115.223:19258, server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1215, server: 205.185.115.223, port: 19258, type: trojan, password: iWnFtzMiac, sni: cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 74@oneclickvpnkeys, server: de4.nnvpn.io, port: 443, type: trojan, password: mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de4.nnvpn.io:443, server: de4.nnvpn.io, port: 443, type: trojan, password: mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 55@oneclickvpnkeys, server: ee2.nnvpn.io, port: 443, type: trojan, password: mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo, skip-cert-verify: false, udp: true, tfo: false}
@@ -597,146 +630,133 @@ proxies:
   - {name: 🇷🇺 ru2.nnvpn.io:443, server: ru2.nnvpn.io, port: 443, type: trojan, password: mk7J60Z9VYojAL44EPfaUEfsdCt8KFKo, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys`, server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: free-de-2.undef.network}}, udp: true, tfo: false}
   - {name: 🇩🇪 free-de-2.undef.network:443, server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: free-de-2.undef.network}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 34", server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: free-de-2.undef.network}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: free-de-2.undef.network}}, udp: true, tfo: false}
   - {name: 13.36.104.238:22223, server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 48", server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.104.238:22223 2, server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇫🇷⁹⁴』", server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: 13.36.104.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.185.255:22223, server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 37", server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.185.255:22223 2, server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 38", server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.38.208.62:22223, server: 13.38.208.62, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.38.208.62:22223 2, server: 13.38.208.62, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: 13.38.185.255, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 3", server: 13.38.208.62, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.0.222:22223, server: 13.39.0.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.0.222:22223 2, server: 13.39.0.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 4", server: 13.49.112.160, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys, server: 15.188.162.81, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.162.81:22223, server: 15.188.162.81, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.188.162.81:22223 2, server: 15.188.162.81, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 39", server: 15.188.162.81, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: 15.188.162.81, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.241.30:22223, server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 40", server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 53", server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.241.30:22223 2, server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 3", server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1212, server: 15.188.241.30, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.71.56:22223, server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 41", server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.71.56:22223 2, server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 42", server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.91.205:22223, server: 18.195.91.205, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.122.189.42:22223, server: 3.122.189.42, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.122.189.42:22223 2, server: 3.122.189.42, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.68.128.188:22223, server: 3.68.128.188, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: 18.195.71.56, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 4", server: 3.68.128.188, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.68.128.188:22223 2, server: 3.68.128.188, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.188.159:22223, server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 43", server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.188.159:22223 2, server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 44", server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 58", server: 3.72.188.159, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.75.40.40:22223, server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 45", server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 59", server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.75.40.40:22223 2, server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 46", server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 60", server: 3.75.40.40, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.157.55.39:22223, server: 35.157.55.39, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 47", server: 35.157.55.39, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.157.55.39:22223 2, server: 35.157.55.39, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 48", server: 35.157.55.39, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys 2, server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.139.200:22223, server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 49", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 61", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.139.200:22223 2, server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 50", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 62", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.139.200:22223 3, server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 51", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 63", server: 35.181.139.200, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.228.222:22223, server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 52", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 64", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.228.222:22223 2, server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🛡️", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 53", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 65", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 5", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.228.222:22223 3, server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[815] - Telegram : @configraygan", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 54", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 66", server: 35.181.228.222, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.70.176:22223, server: 52.28.70.176, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 55", server: 52.28.70.176, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 67", server: 52.28.70.176, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.70.176:22223 2, server: 52.28.70.176, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 56", server: 52.28.70.176, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.59.174:22223, server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 57", server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 68", server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.59.174:22223 2, server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 58", server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 69", server: 52.47.59.174, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.198.97:22223, server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 59", server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 70", server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.198.97:22223 2, server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 60", server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 71", server: 52.57.198.97, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.104.238:22222, server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 61", server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 72", server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.104.238:22222 2, server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 62", server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 73", server: 13.36.104.238, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.185.255:22222, server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 63", server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 74", server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.185.255:22222 2, server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 64", server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.38.208.62:22222, server: 13.38.208.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.38.208.62:22222 2, server: 13.38.208.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 75", server: 13.38.185.255, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 5", server: 13.38.208.62, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.0.222:22222, server: 13.39.0.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.0.222:22222 2, server: 13.39.0.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.241.30:22222, server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 65", server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 76", server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.241.30:22222 2, server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| @configraygan『🇩🇪⁸』", server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 77", server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 6", server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1195, server: 15.188.241.30, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.71.56:22222, server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 66", server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 78", server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.71.56:22222 2, server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 67", server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.195.91.205:22222, server: 18.195.91.205, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 79", server: 18.195.71.56, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.122.189.42:22222, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.122.189.42:22222 2, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.122.189.42:22222 3, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.122.189.42:22222 2, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪⁶』, server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 68", server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.68.128.188:22222, server: 3.68.128.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 80", server: 3.122.189.42, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 7", server: 3.68.128.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.68.128.188:22222 2, server: 3.68.128.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.188.159:22222, server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 69", server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 81", server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.188.159:22222 2, server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 70", server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 82", server: 3.72.188.159, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.75.40.40:22222, server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 71", server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 83", server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.75.40.40:22222 2, server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 72", server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 84", server: 3.75.40.40, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.157.55.39:22222, server: 35.157.55.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 73", server: 35.157.55.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.157.55.39:22222 2, server: 35.157.55.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 74", server: 35.157.55.39, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.139.200:22222, server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 75", server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 85", server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.139.200:22222 2, server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 76", server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 86", server: 35.181.139.200, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.228.222:22222, server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 77", server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 87", server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.228.222:22222 2, server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[827] - Telegram : @configraygan", server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 78", server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 88", server: 35.181.228.222, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.70.176:22222, server: 52.28.70.176, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 79", server: 52.28.70.176, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 89", server: 52.28.70.176, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.70.176:22222 2, server: 52.28.70.176, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 80", server: 52.28.70.176, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.59.174:22222, server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 81", server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 90", server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.59.174:22222 2, server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 82", server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 91", server: 52.47.59.174, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.198.97:22222, server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 83", server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 92", server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.198.97:22222 2, server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 84", server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 93", server: 52.57.198.97, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 98@oneclickvpnkeys, server: tr-1.stunnel.cc, port: 8441, type: trojan, password: tunnel-jdybi, sni: creativecommons.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr-1.stunnel.cc:8441, server: tr-1.stunnel.cc, port: 8441, type: trojan, password: tunnel-jdybi, sni: creativecommons.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 85", server: tr-1.stunnel.cc, port: 8441, type: trojan, password: tunnel-jdybi, sni: creativecommons.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 94", server: tr-1.stunnel.cc, port: 8441, type: trojan, password: tunnel-jdybi, sni: creativecommons.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.173.231.254:12420, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 86", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 95", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -755,8 +775,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -764,119 +782,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -885,146 +938,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1033,8 +1073,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -1042,119 +1080,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -1163,146 +1236,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1311,8 +1371,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -1320,119 +1378,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -1441,146 +1534,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1598,8 +1678,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -1607,119 +1685,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -1728,146 +1841,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1876,8 +1976,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -1885,119 +1983,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -2006,146 +2139,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -2154,8 +2274,6 @@ proxy-groups:
     proxies:
       - www.speedtest.net:8443
       - "***✅***@AR14N24b"
-      - 🇮🇳 hhhnju.taipei102.indevs.in:443
-      - 🇮🇳 vvvbbbnhj.taipei102.indevs.in:443
       - ggbnh.7777198.xyz:443
       - "***✅***@AR14N24b 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
@@ -2163,119 +2281,154 @@ proxy-groups:
       - "***✅***@AR14N24b 3"
       - 64@oneclickvpnkeys
       - sweden.vmaxpanel.com:8443
-      - sweden.vmaxpanel.com:8443 2
-      - "@meliproxyy`"
       - 45@oneclickvpnkeys
       - 🇩🇪 de.nnvpn.io:443
       - "***✅***@AR14N24b 4"
       - 80.173.230.196:26279
       - "***✅***@AR14N24b 5"
       - 91@oneclickvpnkeys
-      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - 80.173.230.196:26279 2
+      - "| @configraygan『🇵🇹⁹⁰』"
       - "***✅***@AR14N24b 6"
+      - 🇯🇵 jp10.jsyjiedian8.com:30003
+      - "| @configraygan『🇮🇷¹²⁰』"
+      - "***✅***@AR14N24b 7"
       - configraygan99
       - 🇯🇵 jp10.jsyjiedian8.com:30003 2
-      - "***✅***@AR14N24b 7"
-      - 162.159.36.115:443
       - "***✅***@AR14N24b 8"
-      - 162.159.36.115:443 2
+      - 104.21.75.193:443
       - "***✅***@AR14N24b 9"
+      - configraygan_1194
+      - 162.159.36.115:443
+      - "***✅***@AR14N24b 10"
+      - 162.159.36.115:443 2
+      - "***✅***@AR14N24b 11"
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - 104.18.11.110:443
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 12"
       - 104.18.11.110:443 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 13"
       - 104.18.32.37:443
       - ⚡️ | @configraygan『🇨🇦¹』
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 14"
       - "@Vpn_Tehran 💚 تلگرام"
       - "@Vpn_Tehran 💜 تلگرام"
+      - 104.18.32.37:443 2
+      - "***✅***@AR14N24b 15"
       - 104.18.32.47:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 16"
+      - 104.18.32.47:443 2
+      - "***✅***@AR14N24b 17"
+      - configraygan_1144
       - "@Vpn_Tehran 💚 تلگرام 2"
       - "@Vpn_Tehran 🔥 تلگرام"
       - 104.21.40.34:443
-      - "@confograygan 113"
       - ⚡️ | @configraygan『🇫🇷¹』
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 18"
       - "@proxy_kafee"
       - 172.64.152.23:443
-      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 19"
       - •@freenet_vt
       - برای اتصال دائمی جوین شو🛸 freenet_vt 🪩
       - "@configraygan@configraygan"
       - 172.64.152.23:443 2
-      - "***✅***@AR14N24b 16"
+      - "| @configraygan『🇮🇷¹⁴⁵』"
+      - "***✅***@AR14N24b 20"
       - configraygan70
+      - configraygan_10
+      - configraygan_1119
       - 172.64.152.23:443 3
       - ⚡️ | @configraygan『🇩🇪¹⁸』
-      - "***✅***@AR14N24b 17"
+      - "| @configraygan『🇮🇷¹⁶⁶』"
+      - "***✅***@AR14N24b 21"
       - configraygan91
+      - configraygan_1142
       - 172.64.152.23:443 4
       - "@configraygan"
       - ⚡️ | @configraygan『🇵🇱⁴』
       - V 14 @Outline_Vpn
-      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 22"
       - 172.64.152.23:443 5
+      - "***✅***@AR14N24b 23"
+      - configraygan_1155
+      - 172.64.152.23:443 6
       - ⚡️ | @configraygan『🇨🇦⁴』
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 24"
+      - 172.64.152.23:443 7
+      - "***✅***@AR14N24b 25"
+      - configraygan_1134
       - configraygan_5
       - "@Vpn_Tehran 💛 تلگرام"
-      - 172.64.152.23:443 6
+      - 172.64.152.23:443 8
       - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 20"
-      - 172.64.152.23:443 7
-      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 26"
+      - 172.64.152.23:443 9
+      - "***✅***@AR14N24b 27"
       - "@proxy_kafee 2"
       - 172.67.180.92:443
       - ⚡️ | @configraygan『🇨🇦³』
-      - "***✅***@AR14N24b 22"
-      - 185.18.250.252:443
-      - "@confograygan 157"
+      - "***✅***@AR14N24b 28"
       - 188.114.96.3:443
       - ⚡️ | @configraygan『🇨🇦⁷』
-      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 29"
       - 90@oneclickvpnkeys
       - 188.114.98.0:443
-      - "***✅***@AR14N24b 24"
-      - "@confograygan 137"
+      - "***✅***@AR14N24b 30"
       - 188.114.98.0:443 2
+      - "| @configraygan『🇮🇷³⁹』"
+      - "***✅***@AR14N24b 31"
+      - 188.114.98.0:443 3
+      - "| @configraygan『🇮🇷³⁴』"
+      - "***✅***@AR14N24b 32"
+      - 188.114.98.0:443 4
+      - "| @configraygan『🇮🇷³²』"
+      - "***✅***@AR14N24b 33"
+      - 188.114.98.0:443 5
+      - "| @configraygan『🇮🇷⁵⁶』"
+      - "***✅***@AR14N24b 34"
+      - 188.114.98.0:443 6
+      - "| @configraygan『🇮🇷³⁸』"
+      - "***✅***@AR14N24b 35"
+      - 188.114.98.0:443 7
       - "@meliproxyy"
       - chatgpt.com:443
       - ⚡️ | @configraygan『🇬🇧²』
-      - "***✅***@AR14N24b 25"
+      - "| @configraygan『🇮🇷²⁶』"
+      - "***✅***@AR14N24b 36"
       - "@configraygan@configraygan 2"
       - v1.dabache.top:443
-      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 37"
       - "@proxy_kafee👑🦁☀️9"
       - www.calmlunch.com:443
-      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 38"
+      - configraygan_1200
+      - www.calmlunch.com:443 2
+      - "***✅***@AR14N24b 39"
       - www.creationlong.org:443
       - ⚡️ | @configraygan『🇩🇪⁴³』
-      - "***✅***@AR14N24b 28"
+      - "***✅***@AR14N24b 40"
       - www.creationlong.org:443 2
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 41"
       - www.gossipglove.com:443
       - www.gossipglove.com:443 2
       - ⚡️ | @configraygan『🇨🇦¹¹』
-      - "***✅***@AR14N24b 30"
-      - www.gossipglove.com:443 3
+      - "| @configraygan『🇮🇷³¹』"
+      - "***✅***@AR14N24b 42"
       - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩`
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "@meliproxyy 2"
       - NetAccount
       - lrnbymaa
-      - www.host-tracker.com:443
       - www.multiplydose.com:443
-      - www.multiplydose.com:443 2
-      - "@confograygan 156"
       - ⚡️ | @configraygan『🇨🇦¹³』
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 43"
+      - www.multiplydose.com:443 2
+      - "***✅***@AR14N24b 44"
       - www.multiplydose.com:443 3
-      - "***✅***@AR14N24b 32"
-      - www.multiplydose.com:443 4
-      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 45"
       - "@configraygan 2"
+      - 205.185.115.223:19258
+      - "***✅***@AR14N24b 46"
+      - configraygan_1215
       - 74@oneclickvpnkeys
       - 🇩🇪 de4.nnvpn.io:443
       - 55@oneclickvpnkeys
@@ -2284,146 +2437,133 @@ proxy-groups:
       - 🇷🇺 ru2.nnvpn.io:443
       - 24@oneclickvpnkeys`
       - 🇩🇪 free-de-2.undef.network:443
-      - "***✅***@AR14N24b 34"
+      - "***✅***@AR14N24b 47"
       - 13.36.104.238:22223
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 48"
       - 13.36.104.238:22223 2
-      - "***✅***@AR14N24b 36"
+      - "| @configraygan『🇫🇷⁹⁴』"
+      - "***✅***@AR14N24b 49"
       - 13.38.185.255:22223
-      - "***✅***@AR14N24b 37"
+      - "***✅***@AR14N24b 50"
       - 13.38.185.255:22223 2
-      - "***✅***@AR14N24b 38"
-      - 13.38.208.62:22223
-      - 13.38.208.62:22223 2
+      - "***✅***@AR14N24b 51"
       - "@configraygan 3"
       - 13.39.0.222:22223
-      - 13.39.0.222:22223 2
       - "@configraygan 4"
       - 25@oneclickvpnkeys
       - 15.188.162.81:22223
-      - 15.188.162.81:22223 2
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 52"
       - 15.188.241.30:22223
-      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 53"
+      - 15.188.241.30:22223 2
+      - "***✅***@AR14N24b 54"
       - "@proxy_kafee 3"
+      - configraygan_1212
       - 18.195.71.56:22223
-      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 55"
       - 18.195.71.56:22223 2
-      - "***✅***@AR14N24b 42"
-      - 18.195.91.205:22223
-      - 3.122.189.42:22223
-      - 3.122.189.42:22223 2
-      - 3.68.128.188:22223
+      - "***✅***@AR14N24b 56"
       - "@proxy_kafee 4"
-      - 3.68.128.188:22223 2
       - 3.72.188.159:22223
-      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 57"
       - 3.72.188.159:22223 2
-      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 58"
       - 3.75.40.40:22223
-      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 59"
       - 3.75.40.40:22223 2
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 60"
       - 35.157.55.39:22223
-      - "***✅***@AR14N24b 47"
       - 35.157.55.39:22223 2
-      - "***✅***@AR14N24b 48"
       - 25@oneclickvpnkeys 2
       - 35.181.139.200:22223
-      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 61"
       - 35.181.139.200:22223 2
-      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 62"
       - 35.181.139.200:22223 3
-      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 63"
       - 35.181.228.222:22223
-      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 64"
       - 35.181.228.222:22223 2
       - "@vpnbaz 🛡️"
-      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 65"
       - "@proxy_kafee 5"
       - 35.181.228.222:22223 3
       - "[815] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 66"
       - 52.28.70.176:22223
-      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 67"
       - 52.28.70.176:22223 2
-      - "***✅***@AR14N24b 56"
       - 52.47.59.174:22223
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 68"
       - 52.47.59.174:22223 2
-      - "***✅***@AR14N24b 58"
+      - "***✅***@AR14N24b 69"
       - 52.57.198.97:22223
-      - "***✅***@AR14N24b 59"
+      - "***✅***@AR14N24b 70"
       - 52.57.198.97:22223 2
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 71"
       - 13.36.104.238:22222
-      - "***✅***@AR14N24b 61"
+      - "***✅***@AR14N24b 72"
       - 13.36.104.238:22222 2
-      - "***✅***@AR14N24b 62"
+      - "***✅***@AR14N24b 73"
       - 13.38.185.255:22222
-      - "***✅***@AR14N24b 63"
+      - "***✅***@AR14N24b 74"
       - 13.38.185.255:22222 2
-      - "***✅***@AR14N24b 64"
-      - 13.38.208.62:22222
-      - 13.38.208.62:22222 2
+      - "***✅***@AR14N24b 75"
       - "@configraygan 5"
       - 13.39.0.222:22222
-      - 13.39.0.222:22222 2
       - 15.188.241.30:22222
-      - "***✅***@AR14N24b 65"
-      - "@proxy_kafee 6"
-      - 18.195.71.56:22222
-      - "***✅***@AR14N24b 66"
-      - 18.195.71.56:22222 2
-      - "***✅***@AR14N24b 67"
-      - 18.195.91.205:22222
-      - 3.122.189.42:22222
-      - 3.122.189.42:22222 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - 3.122.189.42:22222 3
-      - ⚡️ | @configraygan『🇩🇪⁶』
-      - "***✅***@AR14N24b 68"
-      - 3.68.128.188:22222
-      - "@proxy_kafee 7"
-      - 3.68.128.188:22222 2
-      - 3.72.188.159:22222
-      - "***✅***@AR14N24b 69"
-      - 3.72.188.159:22222 2
-      - "***✅***@AR14N24b 70"
-      - 3.75.40.40:22222
-      - "***✅***@AR14N24b 71"
-      - 3.75.40.40:22222 2
-      - "***✅***@AR14N24b 72"
-      - 35.157.55.39:22222
-      - "***✅***@AR14N24b 73"
-      - 35.157.55.39:22222 2
-      - "***✅***@AR14N24b 74"
-      - 35.181.139.200:22222
-      - "***✅***@AR14N24b 75"
-      - 35.181.139.200:22222 2
       - "***✅***@AR14N24b 76"
-      - 35.181.228.222:22222
+      - NetAccount`
+      - 15.188.241.30:22222 2
+      - "| @configraygan『🇩🇪⁸』"
       - "***✅***@AR14N24b 77"
+      - "@proxy_kafee 6"
+      - configraygan_1195
+      - 18.195.71.56:22222
+      - "***✅***@AR14N24b 78"
+      - 18.195.71.56:22222 2
+      - "***✅***@AR14N24b 79"
+      - 3.122.189.42:22222
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - 3.122.189.42:22222 2
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - "***✅***@AR14N24b 80"
+      - "@proxy_kafee 7"
+      - 3.72.188.159:22222
+      - "***✅***@AR14N24b 81"
+      - 3.72.188.159:22222 2
+      - "***✅***@AR14N24b 82"
+      - 3.75.40.40:22222
+      - "***✅***@AR14N24b 83"
+      - 3.75.40.40:22222 2
+      - "***✅***@AR14N24b 84"
+      - 35.157.55.39:22222
+      - 35.157.55.39:22222 2
+      - 35.181.139.200:22222
+      - "***✅***@AR14N24b 85"
+      - 35.181.139.200:22222 2
+      - "***✅***@AR14N24b 86"
+      - 35.181.228.222:22222
+      - "***✅***@AR14N24b 87"
       - 35.181.228.222:22222 2
       - "[827] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 78"
+      - "***✅***@AR14N24b 88"
       - 52.28.70.176:22222
-      - "***✅***@AR14N24b 79"
+      - "***✅***@AR14N24b 89"
       - 52.28.70.176:22222 2
-      - "***✅***@AR14N24b 80"
       - 52.47.59.174:22222
-      - "***✅***@AR14N24b 81"
+      - "***✅***@AR14N24b 90"
       - 52.47.59.174:22222 2
-      - "***✅***@AR14N24b 82"
+      - "***✅***@AR14N24b 91"
       - 52.57.198.97:22222
-      - "***✅***@AR14N24b 83"
+      - "***✅***@AR14N24b 92"
       - 52.57.198.97:22222 2
-      - "***✅***@AR14N24b 84"
+      - "***✅***@AR14N24b 93"
       - 98@oneclickvpnkeys
       - tr-1.stunnel.cc:8441
-      - "***✅***@AR14N24b 85"
+      - "***✅***@AR14N24b 94"
       - 80.173.231.254:12420
-      - "***✅***@AR14N24b 86"
+      - "***✅***@AR14N24b 95"
   - name: دانلود منیجر 📥
     type: select
     proxies:

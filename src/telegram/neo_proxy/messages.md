@@ -1,27 +1,112 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-13 01:14:12 UTC
+بروزرسانی: 2026-02-13 10:34:15 UTC
 
-### 🕒 2026-02-13 01:12:02 UTC
-[**اگر متولد ماه زحل هستی رمز کارتتو بزار:**](https://t.me/+WWg_QAHDiVNmNTg0)
+### 🕒 2026-02-13 10:32:21 UTC
+[**بکگراند bdsm :**](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***🍑***
+***🍑***
+***🍑***
 
 ---
 
-### 🕒 2026-02-13 01:07:03 UTC
-[**رو کارت بانکیت 7417417418898بنویس …..**](https://t.me/+WWg_QAHDiVNmNTg0)
+### 🕒 2026-02-13 10:29:03 UTC
+عکس کص دخترای ۱۴ ساله 
+***❌***
+***👇🏼***
+[مشاهده](https://t.me/+xQ18HhcjvxhlYWVk)
 
 ---
 
-### 🕒 2026-02-13 01:02:36 UTC
-**موجودی کارت دوستم بعد دو هفته**
-**😍**
-کد پولداری دوستم که رو کارتش نوشته
-***😐***
-بهش گفتم خر شدی؟ گفت بعد چندروز نتیجش رو میبینم و الان نتیجش شده نزدیک 
-**۲۰۰ میلیون**
-!!
-***💸***
-بهم گفت بیا این کانال آموزش میده : 
-[**@Fngshoyi**](https://t.me/+WWg_QAHDiVNmNTg0)
+### 🕒 2026-02-13 10:26:13 UTC
+[**چالش ارسال عکس نود**](https://t.me/+xQ18HhcjvxhlYWVk)
+***🔞***
+***🍑***
+***🍑***
+
+---
+
+### 🕒 2026-02-13 10:23:26 UTC
+[**چالش عکس نود دانشجویی**](https://t.me/+xQ18HhcjvxhlYWVk)
+***👙***
+
+---
+
+### 🕒 2026-02-13 10:20:07 UTC
+[**عکس کون سفید دخترا**](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***🍑***
+
+---
+
+### 🕒 2026-02-13 10:17:20 UTC
+[**عکس کص دخترا**](https://t.me/+xQ18HhcjvxhlYWVk)
+***🔞***
+
+---
+
+### 🕒 2026-02-13 10:14:35 UTC
+[**عکس نود کامل**](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***🔝***
+
+---
+
+### 🕒 2026-02-13 10:11:15 UTC
+[**عکس کص خیس دخترا**](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***🔞***
+***💦***
+
+---
+
+### 🕒 2026-02-13 10:08:29 UTC
+[نودای بدون سانسورمونو اینجا میزنیم](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***💖***
+***💦***
+[**مشاهده نود**](https://t.me/+xQ18HhcjvxhlYWVk)
+ 
+***⛔️***
+***🍑***
+
+---
+
+### 🕒 2026-02-13 09:44:48 UTC
+امیدوارم کسی رو پیدا کنید که شبها
+شما رو ناراحت نکنه و هر روز بهتون
+یادآوری کنه که چقدر دوستتون داره
+کسی که به جوکهاتون میخنده...
+کسی که میخواد بدونه روزتون چجوری گذشته
+کسی که واقعاً شما رو دوست داره
+و میخواد تا آخر دنیا با شما باشه...
+از ته دل آرزو میکنم که همچین کسی رو پیدا کنید
+[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ 
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 
@@ -152,45 +237,6 @@
 یا مثل تتلو میگه :
 "شدی قلب و تن و روحم
 شدی بال و پر و جونم شدی همه ی منظورم"
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-11 04:32:33 UTC
-به عنوان کسی که ارتباطِ اجتماعی خوبی داشته یک نصیحت برای تمام عمر بهتون بکنم ؟!
-برای آدم‌ها مرز بذار
-مرز صمیمیت 
-مرز گفتار
-مرز رفتار
-مرز تماس فیزیکی 
-مرزِ...
-خودت این مرزها رو تعیین کن
-و همیشه یک قدم عقب‌تر بایست !
 [پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)

@@ -1,5 +1,37 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-13 01:12:59 UTC
+بروزرسانی: 2026-02-13 10:32:58 UTC
+
+### 🕒 2026-02-13 10:32:27 UTC
+> ↪️ **Forwarded**
+
+همراه اول وصل 
+***✅***
+***✨***
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMxIDogQFh2cG5wbHVzX2JvdCB8IE1DSSBcdTI3MDUiLA0KICAiYWRkIjogIjEwNC4xNy43Ny43NyIsDQogICJwb3J0IjogIjg0NDMiLA0KICAiaWQiOiAiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJub25lIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIi0tLSIsDQogICJob3N0IjogInYycmF5MS5kb3phcHAueHl6IiwNCiAgInBhdGgiOiAiL2xNbnNaVU40LyIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICJ2MnJheTEuZG96YXBwLnh5eiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9
+***🍕***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍔***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍺***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+.
+
+---
+
+### 🕒 2026-02-13 10:26:59 UTC
+> ↪️ **Forwarded**
+
+در حال تدوین یک طرح حمایتی برای کسب کار های اینترنتی هستیم 
+هم خدمات فیلتر شکن هم خدمات انتقال زیر ساخت هاشون به زیر ساخت های داخلی 
+بزودی اطلاعات تکمیلی گذاشته میشه 
+صاحبین فروشگاه های اینستاگرامی و ....
+پروکسی متصل و رایگان 
+[https://t.me/proxy?server=94.237.51.140&port=443&secret=00112233445566778899aabbccddeeff](https://t.me/proxy?server=94.237.51.140&port=443&secret=00112233445566778899aabbccddeeff)
+
+---
 
 ### 🕒 2026-02-12 20:31:58 UTC
 > ↪️ **Forwarded**

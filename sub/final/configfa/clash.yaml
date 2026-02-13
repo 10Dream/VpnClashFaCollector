@@ -468,6 +468,7 @@ proxies:
   - {name: "C4 : @Xvpnplus_bot | MCI ✅", server: 162.159.36.115, port: 443, type: trojan, password: ey0YnM2wKw, sni: www-holand-cc-2.ammirkbbir.site., skip-cert-verify: false, udp: true, tfo: false}
   - {name: paqet-test., server: ir.powersport.forum, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0097fd86-4719-47f8-a006-58a877921986, host: ir.powersport.forum, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Telegram:@config_proxy, server: ir.beta3.lowfamila.site, port: 4532, type: vless, tls: true, packet-encoding: xudp, uuid: d009862d-c813-4015-b84b-bb196b224c58, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "C1 : @Xvpnplus_bot | MCI ✅", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -487,6 +488,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -496,6 +498,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -505,6 +508,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -523,6 +527,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -532,6 +537,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -541,6 +547,7 @@ proxy-groups:
       - "C4 : @Xvpnplus_bot | MCI ✅"
       - paqet-test.
       - Telegram:@config_proxy
+      - "C1 : @Xvpnplus_bot | MCI ✅"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,19 @@
 # آرشیو کانال: @Myporoxy
-بروزرسانی: 2026-02-13 01:10:46 UTC
+بروزرسانی: 2026-02-13 10:30:39 UTC
+
+### 🕒 2026-02-13 08:18:41 UTC
+***☑️***
+ پروکسی ضد فیلتر و پر سرعت
+[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=kalakbaz.kalakbazi-co.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+***🔘***
+لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
+***🙏***
+***🆔***
+ 
+[@MyPoroxy](https://t.me/MyPoroxy)
+ ☜
+
+---
 
 ### 🕒 2026-02-12 20:18:29 UTC
 ***☑️***
@@ -243,48 +257,6 @@
 ***☑️***
  پروکسی ضد فیلتر و پر سرعت
 [https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=dns.borcatsion.info&amp;port=9009&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-11 09:32:06 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=cdn.yektanet.com.rashkapo.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-11 08:33:43 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=www.borcatsion.info.&amp;port=9009&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-11 06:38:49 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=www.website-best.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
 ***🔘***
 لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
 ***🙏***

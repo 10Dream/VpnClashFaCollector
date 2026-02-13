@@ -1,5 +1,21 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-13 01:13:25 UTC
+بروزرسانی: 2026-02-13 10:33:26 UTC
+
+### 🕒 2026-02-13 07:17:09 UTC
+چند تا پروکسی جدید 
+***✅***
+[پروکسی](https://t.me/proxy?server=download.vivanet.info.&amp;port=25565&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=172.65.137.149&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[@Free_NetPlus](https://t.me/Free_NetPlus)
+ 
+***🪽***
+
+---
 
 ### 🕒 2026-02-12 23:17:17 UTC
 فوریییییی .!!!!!!
@@ -510,42 +526,6 @@
 ***⚜***
 [@Free_Netplus](https://t.me/Free_Netplus)
  | اینترنت آزاد
-
----
-
-### 🕒 2026-02-11 09:51:07 UTC
-***😂***
-***😂***
-***😂***
-***😂***
-***😂***
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@Free_Netplus](https://t.me/Free_Netplus)
- 
-***🪽***
 
 ---
 

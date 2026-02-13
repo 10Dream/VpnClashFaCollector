@@ -466,6 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 156.233.232.192, port: 24004, type: vmess, uuid: 582fcb35-20a0-452c-e179-4c759c62c494, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "| @configraygan8���🇮🇷²『", server: 51.79.103.76, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: 82@oneclickvpnkeys, server: 51.79.103.76, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 62.60.245.128, port: 24448, type: vmess, uuid: 25aaa1fa-e7f6-4af6-b393-c3d5c5a5d129, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Tehran 🔥 تلگرام", server: 85.17.192.110, port: 16623, type: vmess, uuid: ef984d19-4df7-4592-8ca8-a3f658b78c0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,9 +493,9 @@ proxies:
   - {name: "[819] - Telegram : @configraygan", server: 157.173.206.47, port: 57449, type: vmess, uuid: 4f6d0ce6-0406-447c-f307-21a6aa7fe6b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: 172.236.154.50, port: 443, type: vmess, uuid: a88a71fa-ed7c-48d3-89e0-74a00d605d88, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg.dalxy.eu.org, network: ws, ws-opts: {path: /, headers: {Host: sg.dalxy.eu.org}}, udp: true, tfo: false}
   - {name: "[840] - Telegram : @configriygean", server: tr1-smart.adelping.com, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tr1-smart.adelping.com}}, udp: true, tfo: false}
-  - {name: "@confograygan 167", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 31701b5d-ca95-92f9-d684-dae3706161ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: Cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 27@oneclickvpnkeys, server: digitalocean.com, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: hb.seacloudmachinery.com, port: 2086, type: vmess, uuid: rootface💀, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /telegram id @rootface, headers: {Host: hb.seacloudmachinery.com}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: hb.seacloudmachinery.com, port: 2086, type: vmess, uuid: rootface💀, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /telegram id @rootface, headers: {Host: hb.seacloudmachinery.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -511,6 +513,8 @@ proxy-groups:
     type: select
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -536,9 +540,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -546,6 +550,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -571,9 +577,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -581,6 +587,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -606,9 +614,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -625,6 +633,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -650,9 +660,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -660,6 +670,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -685,9 +697,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -695,6 +707,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇺🇸 [openproxylist.com] vmess-US
+      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "| @configraygan8���🇮🇷²『"
       - 82@oneclickvpnkeys
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@Vpn_Tehran 🔥 تلگرام"
@@ -720,9 +734,9 @@ proxy-groups:
       - "[819] - Telegram : @configraygan"
       - 🇸🇬 [openproxylist.com] vmess-SG
       - "[840] - Telegram : @configriygean"
-      - "@confograygan 167"
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - 27@oneclickvpnkeys
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: دانلود منیجر 📥
     type: select
     proxies:

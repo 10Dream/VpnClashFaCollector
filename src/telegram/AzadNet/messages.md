@@ -1,5 +1,5 @@
 # آرشیو کانال: @AzadNet
-بروزرسانی: 2026-02-13 01:10:00 UTC
+بروزرسانی: 2026-02-13 10:29:53 UTC
 
 ### 🕒 2026-02-12 12:51:31 UTC
 `vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=yahoo.com#AzadNet-1vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=www.wikipedia.com#AzadNet-2vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=www.speedtest.com#AzadNet-3vless://Tel:AzadNet@185.250.41.231:47421?mode=stream-one&path=%2Fjjhdfhhj&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&fp=firefox&type=xhttp&sni=soft98.ir#AzadNet-4`

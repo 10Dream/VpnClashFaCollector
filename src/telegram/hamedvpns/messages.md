@@ -1,5 +1,136 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-13 01:13:38 UTC
+بروزرسانی: 2026-02-13 10:33:39 UTC
+
+### 🕒 2026-02-13 10:18:17 UTC
+تنظیمات کلی نپسترنت خودم 
+***✔️***
+Npv Tunnel Settings 
+***✅***
+ 
+لینک تست داخل تنظیمات :
+`https://www.msftconnecttest.com/connecttest.txt`
+..
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-13 09:59:01 UTC
+کانفیگ نپسترنت مخصوص مخابرات 
+***❤️***
+لوکیشن 
+***🇵🇱***
+***🔐***
+ رمز : 
+`hamedvpns`
+ 
+***👉***
+***👉***
+[دانلود نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+ 
+***✅***
+..
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-13 09:32:58 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-13 08:02:23 UTC
+بچه ها هم نپستر ، هم پروکسی هایی که گذاشتم کماکان وصله 
+***❤️***
+خودم عوض کنم برای شما هم می‌ذارم.
+
+---
+
+### 🕒 2026-02-13 07:31:19 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-13 06:56:46 UTC
+سلام سلام ، صبحتون بخیر من اومدم 
+***🦦***
+بریم برای یه کانفیگ open ؟
+***🦦***
+
+---
+
+### 🕒 2026-02-13 06:34:10 UTC
+فیلترشکن قوی و همیشه متصل 
+***👇***
+ 
+Viro VPN
+یک فیلترشکن خوب بر پایه اتصال با انتخاب کانفیگ از قسمت لوکیشن بر روی دکمه اتصال.
+با دیدن تبلیغات میتوانید به سرورهای پر سرعت متصل بشید .
+**لینک دانلود گوگل پلی:**
+[https://play.google.com/store/apps/details?id=secure.viro.free.vpn](https://play.google.com/store/apps/details?id=secure.viro.free.vpn)
+بدون نیاز به ثبت نام و کاری اضافه 
+***🫠***
+..
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-02-12 23:57:20 UTC
 فردا ساعت ۱۰ صبح یک فیلترشکن جدید دیگر معرفی میشه در کانال که نیاز به ثبت نام و چیز دیگری ندارد .
@@ -117,6 +248,8 @@ Exclave-0.17.14-arm64-v8a.apk
 
 ### 🕒 2026-02-12 20:21:59 UTC
 `{  "dns": {    "fallbackStrategy": "disabledIfAnyMatch",    "servers": [      {        "address": "8.8.8.8",        "domains": [],        "fakedns": [          {            "ipPool": "198.18.0.0/15",            "poolSize": 65535          }        ],        "queryStrategy": "UseIPv4"      }    ]  },  "inbounds": [    {      "listen": "0.0.0.0",      "port": 2080,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "socks"    },    {      "listen": "0.0.0.0",      "port": 9080,      "protocol": "http",      "settings": {        "allowTransparent": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "http"    }  ],  "log": {    "loglevel": "warning"  },  "outbounds": [    {      "protocol": "http",      "settings": {        "servers": [          {            "address": "45.154.96.217",            "port": 443,            "users": [              {                "pass": "fuckgfw123",                "user": "@Arshiacomplus"              }            ]          }        ]      },      "streamSettings": {        "network": "tcp",        "security": "tls",        "tcpSettings": {},        "tlsSettings": {          "serverName": "arshiacomplus.nscl.ir"        }      },      "tag": "proxy-global-368428"    },    {      "protocol": "freedom",      "tag": "direct"    },    {      "protocol": "freedom",      "tag": "bypass"    },    {      "protocol": "blackhole",      "tag": "block"    },    {      "protocol": "dns",      "settings": {        "userLevel": 1      },      "tag": "dns-out"    }  ],  "policy": {    "levels": {      "1": {        "connIdle": 30      }    },    "system": {      "statsOutboundDownlink": true,      "statsOutboundUplink": true    }  },  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      }    ]  },  "stats": {}}`
+بزنید به exclave 
+***✅***
 
 ---
 
@@ -549,68 +682,6 @@ Url test :
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐️***
-
----
-
-### 🕒 2026-02-11 09:10:26 UTC
-چند تا فیلتر خوب دیگه هم هست باز معرفی خواهم کرد .
-
----
-
-### 🕒 2026-02-11 06:13:36 UTC
-گربه رو بیدار کنید تا براتون کار کنه 
-***😂***
-فیلترشکن cat thing
-فقط با یک ضربه روی گربه منتظر میمونید گربه از خواب بیدار بشه و تمام متصل هستید همین 
-***😂***
-***😎***
-**لینک دانلود از گوگل پلی:**
-[https://play.google.com/store/apps/details?id=com.teon.catthing](https://play.google.com/store/apps/details?id=com.teon.catthing)
-**🫶 اشتراک گذاری یادتون نره 💚**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-11 05:34:45 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-11 05:23:16 UTC
-امروز وقت باشه یکی دوتا فیلترشکن جدید و خوب معرفی میکنم 
-***😎***
-***🫶***
-...
-
----
-
-### 🕒 2026-02-11 04:35:53 UTC
-آب و هوا هم قاطی کرده ، تا صبح برف اومد یه ۴۰ سانتی شد ، الانم داره تگرگ میزنه 
-***😂***
-***😂***
-***😂***
 
 ---
 

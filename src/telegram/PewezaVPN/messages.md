@@ -1,5 +1,28 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-13 01:11:00 UTC
+بروزرسانی: 2026-02-13 10:30:57 UTC
+
+### 🕒 2026-02-13 07:05:16 UTC
+**این پروکسی های اختصاصی تلگرام جدید ساخته شدن مناسب نت ملی**
+ 
+**برای همه اپراتورها**
+[**پروکسی Peweza اول**](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+[**پروکسی Peweza دوم**](https://t.me/proxy?server=172.65.117.172&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[**پروکسی Peweza سوم**](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=1603010200010001fc031386e24c3add)
+[**پروکسی Peweza چهارم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی Peweza پنجم**](https://t.me/proxy?server=212.118.42.155&amp;port=9741&amp;secret=ProxyQavi____ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی Peweza ششم**](https://t.me/proxy?server=89.124.70.195&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی Peweza هفتم**](https://t.me/proxy?server=www.borcatsion.info.&amp;port=9009&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
+این لیست پروکسی رو با عزیزاتون به اشتراک بذارید، ظرفیت بالاست و محدودیتی ندارن.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
+
+### 🕒 2026-02-13 06:58:00 UTC
+اکانت سورفشارک که گذاشتیم متاسفانه به دلیل ظرفیت بالای کاربرها توسط خود شرکت غیرفعال شد به همین دلیل پستشو پاک کردیم، حتما سعی میکنیم راه حل جایگزین ارائه بدیم.
+
+---
 
 ### 🕒 2026-02-13 00:37:33 UTC
 @PewezaVPN(30).ovpn
@@ -254,35 +277,6 @@
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-11 02:31:09 UTC
-***💻***
- 
-**لینک ساب جدید سرور های اختصاصی کانال برای Hiddify**
- 
-**و تمامی کلاینت های دیگر**
- 
-**در تمام سیستم عامل هامتصل در شرایط اینترنت ملی**
-`https://raw.githubusercontent.com/peweza/PUBLICSUB/refs/heads/main/PewezaVPNPubSUB`
-با کلیک روی لینک بالا کپی میشه و طبق آموزش تصویری در Hiddify یا کلاینت های V2ray در هر سیستم عاملی وارد کنید و متصل بشید.
- 
-اگر مشکلی در وارد کردن لینک داشتید با VPN کمکی وارد Hiddify یا کلاینت خودتون کنید.
-***🔗***
- 
-[**لینک دانلود Hiddify نسخه پایدار**](https://t.me/PewezaVPN/20853?single)
-***🔸***
- اگر از هیدیفای استفاده میکنید طوری تنظیم شده که خودش اتوماتیک به بهترین سرور با توجه به اینترنت شما متصل بشه
-***✅***
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-11 01:34:14 UTC
-خب بازم یه چیزی داشت خوب عمل میکرد (سایفون) و اومدن که قشنگ یه طوری قطعش کنن که اون سرش ناپیدا ! بساط کاندوئیت رو میخوان جمع کنن به هر نحوی.  کلاینت شیر و خورشید چیه دیگه عزیز من؟ این اسم هارو هم میذارین که اعتماد مردمو بخرین؟ خود سایفون 25 میلیون نفرو وصل…
 
 ---
 

@@ -1,5 +1,41 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-13 01:15:39 UTC
+بروزرسانی: 2026-02-13 10:35:47 UTC
+
+### 🕒 2026-02-13 08:25:54 UTC
+> ↪️ **Forwarded**
+
+آموزش استفاده از اسکنر و ثابت کردن آیپی توی پنل رایگان BPB + معرفی کلاینت قدرتمند Karing 
+***🐳***
+***⚠️***
+ پیش‌نیازها و نکات مهم: 
+***1️⃣***
+ ویدئوی قبل رو دیده باشید: 
+[https://youtu.be/uCRKnrQEQYU](https://youtu.be/uCRKnrQEQYU)
+لینک‌های استفاده شده توی ویدئو:
+داکیومنت BPB: 
+[https://bia-pain-bache.github.io/BPB-Worker-Panel/fa](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa)
+دانلود karing لینوکس، مک، اندروید، ویندوز: 
+[https://github.com/KaringX/karing/releases](https://github.com/KaringX/karing/releases)
+دانلود karing روی ios: 
+[https://apps.apple.com/us/app/karing/id6472431552](https://apps.apple.com/us/app/karing/id6472431552)
+00:00 مقدمه
+00:48 توضیح تنظیمات بخش common
+02:30 توضیح تنظیمات بخش Vless و Trojan
+03:00 تنظیمات بخش آیپی تمیز و اسکنر
+07:28 ثابت کردن آیپی با پروکسی آیپی و NAT64
+10:28 ثابت کردن آیپی با Chain Proxy
+14:20 معرفی کلاینت قدرتمند Karing
+***✉️***
+ 
+[تماشا در تلگرام ](https://t.me/MatinSenPaii/1980)
+***📹***
+ 
+[تماشا در یوتوب](https://youtu.be/7G9Fjhe_NxM)
+***💰***
+ 
+[دونیت](https://nowpayments.io/donation/matinsenpai)
+
+---
 
 ### 🕒 2026-02-12 20:29:11 UTC
 به زودی 
@@ -114,22 +150,6 @@ vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&e
 |
 [پروکسی](https://t.me/proxy?server=78.46.197.232&amp;port=8443&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
 [@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-11 09:24:05 UTC
-دیفیکس در رابطه با آپدیت جدیدش اعلام کرده که هسته اپن‌سورس سایفون رو مستقیماً در 
-[#DefyxVPN](?q=%23DefyxVPN)
- ادغام کرده، تا امکان استفاده از پروتکل کاندوئیت برای کاربرانش فراهم بشه.
-در هفته‌های اخیر که میلیون‌ها نفر در ایران با محدودیت‌های شدید دسترسی به اینترنت آزاد مواجه بودن، کاربران از سراسر جهان با اشتراک‌گذاری اتصال اینترنت بدون محدودیت از طریق 
-[#Conduit](?q=%23Conduit)
-، به حفظ دسترسی مردم داخل ایران کمک کردن.
-این روش اتصال هم‌اکنون در بخش ترجیحات اپ اندروید برای دستگاه‌هایی که از طریق گوگل پلی بروزرسانی جدید رو گرفتن در دسترسه و برای سایر پلتفرم‌ها بزودی ارائه میشه.
-***👉***
- 
-[defyxvpn.com/download](http://defyxvpn.com/download)
-[@xsfilternet](https://t.me/xsfilternet)
-[@ircfspace](https://t.me/ircfspace)
 
 ---
 

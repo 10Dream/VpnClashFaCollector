@@ -465,9 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 57.131.41.129:8390, server: 57.131.41.129, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: etU8/fvCVPaqmKkXV6bX8v8ULI4Fch+EKvg19MoETLk=, udp: true, tfo: false}
   - {name: 136.244.100.113:443, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 62.60.233.226:62763, server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
   - {name: 38.60.171.254:990, server: 38.60.171.254, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 57.129.95.198:11201, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: 82.38.31.184:8080, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
@@ -488,11 +486,8 @@ proxies:
   - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
   - {name: 155.138.158.179:443, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
   - {name: 155.138.158.179:80, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: 🇷🇺 netherland.boot-lee.ru:8443, server: netherland.boot-lee.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 05dc09d5-5c56-454b-a34e-6ef743d91e1a, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28, short-id: abc123}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 134928ab-cbd9-4196-98ce-deef2be9fe09, servername: 639065083958087309.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/yjdsyuws?ed", headers: {Host: 639065083958087309.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: av.nexconnx.com:8080, server: av.nexconnx.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 19a1e5b1-6289-4fe6-9aad-be285510942d, host: check-host.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 2, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e27ac27-c360-489a-86ea-8b9659de6763, servername: 639065083958064562.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/jztpmbws?ed", headers: {Host: 639065083958064562.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 85.133.195.132:199, server: 85.133.195.132, port: 199, type: vless, tls: true, packet-encoding: xudp, uuid: 32c5b858-ea45-4bb7-b474-042ea949241c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 3, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 573e147f-c502-486f-b823-bafa0dd3c6c5, servername: 639065083958016952.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/bzszqqws?ed", headers: {Host: 639065083958016952.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 4, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e0c0c2a-d600-4dc8-9621-d293e935048d, servername: 639065083958163454.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/huwmciws?ed", headers: {Host: 639065083958163454.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: reza.alphanet01.com:51349, server: reza.alphanet01.com, port: 51349, type: vless, tls: true, packet-encoding: xudp, uuid: 5f7e591c-97d4-4a51-a874-0e9d5665f9ed, network: ws, ws-opts: {path: "@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,", headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -501,7 +496,6 @@ proxies:
   - {name: 104.27.25.72:443, server: 104.27.25.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d3a8052-09ee-48f7-8a19-3e24f30a7da1, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /uqBYRQhpA2NzSIhejwuqjz#, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.159.131.76:443, server: 78.159.131.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8741e284-6199-4a8e-ace7-c9625b68ea64, servername: al.cdn.stun.su, host: al.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: 9f6a51680da312f6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.129.132.223:80, server: 57.129.132.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 64.188.104.168:40721, server: 64.188.104.168, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 5, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dfe27fc3-cd77-447d-8845-d3b0c22d25f7, servername: 639065083944524400.mustang-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/joiiqpws?ed", headers: {Host: 639065083944524400.mustang-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh29v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: all.tellmethetrue.shop:443 2, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -523,9 +517,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -546,11 +538,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -559,7 +548,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
@@ -571,9 +559,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -594,11 +580,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -607,7 +590,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
@@ -619,9 +601,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -642,11 +622,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -655,7 +632,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
@@ -676,9 +652,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -699,11 +673,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -712,7 +683,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
@@ -724,9 +694,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -747,11 +715,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -760,7 +725,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2
@@ -772,9 +736,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.131.41.129:8390
       - 136.244.100.113:443
-      - 62.60.233.226:62763
       - 38.60.171.254:990
       - 57.129.95.198:11201
       - 82.38.31.184:8080
@@ -795,11 +757,8 @@ proxy-groups:
       - 154.12.240.141:80
       - 155.138.158.179:443
       - 155.138.158.179:80
-      - 🇷🇺 netherland.boot-lee.ru:8443
       - 192.200.160.20:443
-      - av.nexconnx.com:8080
       - 192.200.160.20:443 2
-      - 85.133.195.132:199
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
       - reza.alphanet01.com:51349
@@ -808,7 +767,6 @@ proxy-groups:
       - 104.27.25.72:443
       - 78.159.131.76:443
       - 57.129.132.223:80
-      - 64.188.104.168:40721
       - 192.200.160.20:443 5
       - all.tellmethetrue.shop:443
       - all.tellmethetrue.shop:443 2

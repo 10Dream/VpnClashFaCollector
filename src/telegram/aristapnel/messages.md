@@ -1,5 +1,5 @@
 # آرشیو کانال: @aristapnel
-بروزرسانی: 2026-02-13 01:12:48 UTC
+بروزرسانی: 2026-02-13 10:32:47 UTC
 
 ### 🕒 2026-02-12 17:30:54 UTC
 ارسالی اعضای کانال:
@@ -100,28 +100,6 @@
 ** | **
 [**پروکسی**](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
 ** |**
-[@aristapnel](https://t.me/aristapnel)
-
----
-
-### 🕒 2026-02-11 02:20:13 UTC
-***🔰***
- 
-**پروکسی**
-:
-[https://t.me/proxy?server=185.84.157.21&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.21&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.22&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.22&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.24&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.24&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.28&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.28&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.15&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.15&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.150&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.150&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.6&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.6&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.3&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.3&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.11&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.11&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.12&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.12&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.13&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.13&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.10&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.10&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
-[https://t.me/proxy?server=185.84.157.29&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.29&port=444&secret=FgMBAgABAAH8AxOG4kw63Q==)
 [@aristapnel](https://t.me/aristapnel)
 
 ---
