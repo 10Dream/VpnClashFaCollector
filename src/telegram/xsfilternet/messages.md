@@ -1,5 +1,5 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-14 10:21:51 UTC
+بروزرسانی: 2026-02-14 20:20:02 UTC
 
 ### 🕒 2026-02-14 09:20:44 UTC
 آقا امروز تولدمه ۱۸ سالم شد...
@@ -179,13 +179,6 @@ Get Free 90 Day's Shadowsocks Config
  رایگان و پرسرعت داشته باشید این روش به کمک هوش مصنوعی پیدا شده!
 ***☯️***
 ***🥶***
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-12 17:57:20 UTC
-nm-vmess://CrxEwJ+XYqYOYI7sX2wn0diL5eaR8L698Ta4jNiIWGTvvX8lUshY3hTel8w+Ak/gEHAObpQQnP8ZNtk8FmDY3XPNQ9IwM8FCfOFPzbRSmlTS60O5uL6Xr+1OgQiD3diXDG2Za+orgJlXixPeCq2gAZ3Y31qxTlBqZMN3ysjTQghn9L0DgwSTfA3616NJshJEgvaqf5Je/iY2j0I8aCyVhtR/cpC+UgijXyB+u2MMOUx4a/kinyk4uxfdgbYcMNAHHCY8yTU/F9u4f2OP7yD/UQ9EobinkyexZIJLkxcvRN8frRdeQ9asB/6fW84WxQZY7Mb5nZvy/zBisTOFMdALag==
-نت مود
 [@xsfilternet](https://t.me/xsfilternet)
 
 ---

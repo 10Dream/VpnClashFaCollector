@@ -465,9 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Capoit", server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit 2", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit`", server: 3.127.218.13, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit`", server: 85.192.40.174, port: 205, type: vless, tls: true, packet-encoding: xudp, uuid: d3b415a4-1cbe-487f-9831-4474583e26a9, servername: www.tgju.org, host: www.tgju.org, path: /, reality-opts: {public-key: huGtAltZpf011TYjX6b6-FNPxun34WNIp2paaOY1TG0, short-id: 76645510056dbfd1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -484,8 +482,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -493,8 +489,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -502,8 +496,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -520,8 +512,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -529,8 +519,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -538,8 +526,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
       - "@Capoit`"
   - name: دانلود منیجر 📥
     type: select

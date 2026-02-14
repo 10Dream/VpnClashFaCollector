@@ -465,6 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
+  - {name: 🇫🇷 fr, server: 45.95.233.75, port: 27389, type: ss, cipher: chacha20-ietf-poly1305, password: qYkmH2DU5LiiIzU8BKyZxo, udp: true, tfo: false}
+  - {name: 🇳🇱 NL, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
   - {name: 46.225.66.140:1310, server: 46.225.66.140, port: 1310, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -482,6 +485,9 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -489,6 +495,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -496,6 +505,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: اتصال پایدار 🔗
     type: url-test
@@ -512,6 +524,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -519,6 +534,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -526,6 +544,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 57.129.94.79:11206
+      - 🇫🇷 fr
+      - 🇳🇱 NL
       - 46.225.66.140:1310
   - name: دانلود منیجر 📥
     type: select

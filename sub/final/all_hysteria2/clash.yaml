@@ -467,14 +467,9 @@ rule-providers:
 proxies:
   - {name: 84@oneclickvpnkeys, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys`, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 60@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 130.61.50.75, port: 6443, type: hysteria2, ports: 6443, password: zhangyang, sni: dash.cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.103.3.40:2056, server: 94.103.3.40, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056 2, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: flkf2.mangshe.xyz:2056, server: flkf2.mangshe.xyz, port: 2056, type: hysteria2, ports: 2056, password: 7dd10318-28fd-413f-81f0-cd0a286e4779, sni: flkf2.mangshe.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mg5.mangshe.xyz:2056, server: mg5.mangshe.xyz, port: 2056, type: hysteria2, ports: 2056, password: 7dd10318-28fd-413f-81f0-cd0a286e4779, sni: mg5.mangshe.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gavazn.lnmarketplace.net:45000, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -494,14 +489,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -511,14 +501,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -528,14 +513,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -554,14 +534,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -571,14 +546,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -588,14 +558,9 @@ proxy-groups:
     proxies:
       - 84@oneclickvpnkeys
       - 24@oneclickvpnkeys`
-      - 62@oneclickvpnkeys
-      - 60@oneclickvpnkeys
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - flkf2.mangshe.xyz:2056
-      - mg5.mangshe.xyz:2056
+      - gavazn.lnmarketplace.net:45000
+      - "@proxy_kafee"
       - "@meliproxyy"
   - name: دانلود منیجر 📥
     type: select

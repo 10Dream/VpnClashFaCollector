@@ -1,5 +1,70 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-14 10:20:05 UTC
+بروزرسانی: 2026-02-14 20:18:18 UTC
+
+### 🕒 2026-02-14 17:28:07 UTC
+Solar VPN    سرویس SolarVPN یک VPN امن، سریع و بدون تبلیغاته که به شما امکان می‌ده بدون محدودیت سرعت به اینترنت آزاد دسترسی داشته باشید. 
+***✅***
+ ویژگی‌ها: • کاملاً رایگان و بدون تبلیغات • بدون محدودیت پهنای باند و سرعت • پشتیبانی از پروتکل‌های حرفه‌ای: WireGuard،…
+
+---
+
+### 🕒 2026-02-14 17:28:07 UTC
+**Solar VPN**
+سرویس 
+**SolarVPN**
+ یک VPN امن، سریع و بدون تبلیغاته که به شما امکان می‌ده بدون محدودیت سرعت به اینترنت آزاد دسترسی داشته باشید.
+***✅***
+ 
+**ویژگی‌ها:**
+• کاملاً رایگان و بدون تبلیغات
+• بدون محدودیت پهنای باند و سرعت
+• پشتیبانی از پروتکل‌های حرفه‌ای: 
+**WireGuard، OpenVPN**
+ و پروتکل اختصاصی 
+**Wrapper**
+ در اندروید
+از همین پروتکل wrapper استفاده کنید
+• قابلیت kill switch 
+• طراحی شده برای تجربه‌ای ساده و روان
+***📥***
+ 
+**لینک‌های دانلود مستقیم:**
+[دانلود برای اندروید](https://play.google.com/store/apps/details?id=com.solarvpn.client.android&amp;utm_source=chatgpt.com)
+[دانلود برای ویندوز](https://static.solarvpn-cd.net/download/latest/windows/solarvpn-windows.exe)
+[دانلود برای مک](https://apps.apple.com/app/id6535669314)
+***📱***
+ 
+[نسخه iOS ](https://apps.apple.com/us/app/solarvpn-elite-security/id6529538337)
+***🌐***
+ وب‌سایت رسمی: 
+[solarvpn.com](https://solarvpn.com/)
+[نتیجه دسترسی ها : مورد مشکوکی مشاهده نشد](https://reports.exodus-privacy.eu.org/en/reports/com.solarvpn.client.android/latest/#trackers)
+
+---
+
+### 🕒 2026-02-14 11:58:35 UTC
+`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%9B%A1%20V%2031%20%40 lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2032%20%40 lrnbymaavless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=%2F130.185.164.213%3D8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2033%20%40 lrnbymaavless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2034%20%40 lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.52:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2035%20%40 lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
 
 ### 🕒 2026-02-14 10:01:41 UTC
 [پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -108,30 +173,6 @@
 `vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.25.180:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#lrnbymaa`
 `vless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@104.21.78.70:443?security=tls&sni=amirjk12.benyamin-bozorgi1379.workers.dev&type=ws&host=amirjk12.benyamin-bozorgi1379.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#lrnbymaa`
 `vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#lrnbymaa`
-
----
-
-### 🕒 2026-02-12 14:45:54 UTC
-`vless://eb4234b2-8083-4038-af1d-ae752b4ad6d4@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff# lrnbymaavless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#lrnbymaavless://fef4a93d-eb4f-4657-b56b-32a0dc060045@nodejs.org:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://f55d25a5-3bb5-4209-a10f-729eb5482d95@maxb10.server1home.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://e3682df7-e8ec-4705-b5ef-3bbaa7007c94@va16.serverh1ub.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8# lrnbymaa`
-کانفینگ پرسرعت 
-***🚨***
-***🌔***
- یک بار بزنید روی کانفیگ‌ کپی میشه 
-  
-***💎***
-اگه ارور داد برنامه 
-***🖥***
- v2ray آپدیت کنید
-***🔹***
-جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید .
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-   
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-  ‍
 
 ---
 

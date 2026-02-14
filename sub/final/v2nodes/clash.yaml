@@ -465,15 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 37.60.250.243:20558, server: 37.60.250.243, port: 20558, type: ss, cipher: chacha20-ietf-poly1305, password: 455c15bc175b4d74, udp: true, tfo: false}
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 91.84.107.62:29305, server: 91.84.107.62, port: 29305, type: ss, cipher: chacha20-ietf-poly1305, password: a5870dda-48fc-43d3-bfa6-f99cf4958690, udp: true, tfo: false}
   - {name: 176.123.168.79:41056, server: 176.123.168.79, port: 41056, type: ss, cipher: chacha20-ietf-poly1305, password: awYDSj3KrIKEQ3RrpRCKDqVMX, udp: true, tfo: false}
   - {name: 94.131.123.86:35361, server: 94.131.123.86, port: 35361, type: ss, cipher: chacha20-ietf-poly1305, password: g0UgfsdXOhn8McpdHpWcmo, udp: true, tfo: false}
+  - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 212.192.14.73:65330, server: 212.192.14.73, port: 65330, type: ss, cipher: chacha20-ietf-poly1305, password: hyeRslWhyBanRDW6PyTiSC, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 57.131.38.151:8443, server: 57.131.38.151, port: 8443, type: ss, cipher: aes-256-gcm, password: +zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=, udp: true, tfo: false}
   - {name: 199.247.27.182:80, server: 199.247.27.182, port: 80, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -489,28 +490,37 @@ proxies:
   - {name: 112.120.31.135:443, server: 112.120.31.135, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.25.208:443, server: 58.152.25.208, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 free-de-2.undef.network:443, server: free-de-2.undef.network, port: 443, type: trojan, password: pYIoKUPGpWeTYXEx3HjR7s97B, sni: free-de-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Ff2fc2a1f", headers: {Host: free-de-2.undef.network}}, udp: true, tfo: false}
+  - {name: 13.37.147.199:22223, server: 13.37.147.199, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.96.190:22223, server: 15.188.96.190, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.88.193:22223, server: 52.47.88.193, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.59.144.4:22223, server: 52.59.144.4, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.58.242:22222, server: 13.36.58.242, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.192.246.137:22222, server: 18.192.246.137, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.65.60:22222, server: 18.194.65.60, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.106.89.112:2053, server: 89.106.89.112, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 usa.fastexte.pro:443, server: usa.fastexte.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 080c676a-c43f-4e73-aed9-db90ece9d4fb, servername: usa.fastexte.pro, host: usa.fastexte.pro, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 77.83.245.193:11777, server: 77.83.245.193, port: 11777, type: vless, tls: true, packet-encoding: xudp, uuid: 40a7f95c-f861-4f04-9a6e-55d624c7582c, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ, short-id: a6f7168a7c3e2f77}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 38.93.136.8:443, server: 38.93.136.8, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 426b17cf-400c-417f-8b36-459a01e57351, servername: miui.com, alpn: [h2], host: miui.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 176.98.186.5:443, server: 176.98.186.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bd80876-fc38-445a-9a32-3c7233e1bfb7, servername: srv21.towersflowerss.com, host: srv21.towersflowerss.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.146.90.3:443, server: 45.146.90.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bd80876-fc38-445a-9a32-3c7233e1bfb7, servername: srv124.towersflowerss.com, host: srv124.towersflowerss.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.79.57.168:443, server: 3.79.57.168, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl02-vlr01.tcp-reset-club.net:443, server: nl02-vlr01.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4604876a-0652-4835-88bd-4421ea5c40da, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: e499f276e7bd6420}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: l11.cesar2.click:443, server: l11.cesar2.click, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 480f6125-72c7-479a-bf7b-c1f97a77e3e4, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.141.36.10:443, server: 95.141.36.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bdc57ea-b143-493b-9654-be66e049f81e, servername: aws.com, alpn: [h2], host: aws.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.225.66.140:1310, server: 46.225.66.140, port: 1310, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fi.fasti.win:443, server: fi.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5757c746-9878-4cfd-874a-edd95485f26d, servername: fi.fasti.win, host: fi.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc, short-id: 2a8a7bb6036e8461}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ndt.fasti.win:443, server: ndt.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5757c746-9878-4cfd-874a-edd95485f26d, servername: ndt.fasti.win, host: ndt.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs, short-id: 992f3294e2336744}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.143.231.58:443, server: 94.143.231.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64b5d863-81d6-48ea-9222-82030616fa63, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: best.pineappled.org:443, server: best.pineappled.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64b5d863-81d6-48ea-9222-82030616fa63, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 103.27.158.56:443, server: 103.27.158.56, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6a175b1f-fcdf-4dd6-9303-c34875209bc6, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.75.243.13:40226, server: 5.75.243.13, port: 40226, type: vless, tls: true, packet-encoding: xudp, uuid: 6827c2be-6681-4278-933c-b81909137ff8, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: mow21VAUml9fjZdgREGXkrMtitL3dKSLgtNwB5uFUyI, short-id: a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.227.149.123:443, server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 93.115.25.177:443, server: 93.115.25.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: borik-crash.org:443, server: borik-crash.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 891300bc-11b2-4b24-8056-b329b098888b, servername: readthedocs.org, host: readthedocs.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8Bz3fNBZ5es7DVPlw8FRzufcncR6auyV_FJFFAKT-WE, short-id: a1590469acbe31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: yesok42v1.ip4exordir.shop:8880, server: yesok42v1.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.214.55.16:443, server: 95.214.55.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91cc050c-2866-4760-b72f-510f1a8a0165, servername: uspehudacha.com, host: uspehudacha.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L-7MZ5IB5uSmLn34BQsBOF8XaDN3B2as4ye-nWkJEzI, short-id: 4a6c2577ce53af9e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.zeepo.ir:443, server: de.zeepo.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 97cfc877-9d44-24c7-81c5-6180d4e4cecb, servername: miro.com, host: miro.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA, short-id: d9a8dad452a7644f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vip-80.f-sub.cfd:1517, server: vip-80.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 991519c1-3680-49b7-bb9f-9029a7a39067, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: grs.zdshop.ir:80, server: grs.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9c3c5a92-1018-49a4-a84d-af2dde3e618d, network: ws, ws-opts: {path: /ed=2560, headers: {Host: smk23ws74gr.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sps1.sbs:8443, server: sps1.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a0f40d0f-73b0-4765-8124-5b0687c6361e, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.54.48.238:443, server: 84.54.48.238, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a25806c0-0e09-46a2-bd27-a94e92285ce9, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0, short-id: 3cc8ceccd9de7f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.238.228.46:443, server: 185.238.228.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a992c7a6-832b-4243-a294-d34783d0294c, servername: hotchoclate.graphapp.ir, network: ws, ws-opts: {path: /v2rayroad, headers: {Host: hotchoclate.graphapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.98.235.137:12265, server: 91.98.235.137, port: 12265, type: vless, tls: true, packet-encoding: xudp, uuid: a9e655a1-b3ec-4b6f-9a81-0b23c60154da, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.165.60.92:443, server: 213.165.60.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b358dfad-0403-47f4-9eb6-2a2a9768c1c9, servername: ge.alpacalounge.com, host: ge.alpacalounge.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TtGqqsFCFZIPPnULMW6jGNZiZvObUc4smzRJJ-dpAhg, short-id: e54858300ed5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 155.212.37.10:993, server: 155.212.37.10, port: 993, type: vless, tls: true, packet-encoding: xudp, uuid: c10999b4-7f93-5a50-3908-1467b1e52ae2, servername: speed.cloudflare.com, host: speed.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -519,13 +529,21 @@ proxies:
   - {name: 91.218.122.10:8443 3, server: 91.218.122.10, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c10999b4-7f93-5a50-3908-1467b1e52ae2, servername: www.microsoft.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TunService}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: safari.nabxcsjghjs2004.shop:24574, server: safari.nabxcsjghjs2004.shop, port: 24574, type: vless, tls: true, packet-encoding: xudp, uuid: c6f4ce13-3ef5-47cf-e678-e7b79cbd00e6, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 germany.scroogethebest.com:443, server: germany.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de-dp-01.com:8443, server: de-dp-01.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d3501dfb-7eff-473b-995a-e47ace016c7e, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ISa-DZOI4LRRb9DHMFYm5oFqBXDjYzz0hVWUfWvzLmo, short-id: dc8109baf0f607ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.151.137.193:8443, server: 45.151.137.193, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d47344e7-d49f-46fd-bff2-fbb8ec449b56, servername: dns-shop.ru, host: dns-shop.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jydkvpm6P7x3p5Ueco8tMR9b3XrbwRSyr445QpWrjTo, short-id: ef4206bc9fae1a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 62.60.237.240:443, server: 62.60.237.240, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d4de1f64-bf3c-4d97-9663-0091f8c07359, servername: logggg.nammknammknammknammknammkb2.ir, host: logggg.nammknammknammknammknammkb2.ir, path: /, reality-opts: {public-key: RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk, short-id: b3d76d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:8443, server: www.speedtest.net, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e07c6a8b-f67d-4297-bc8f-31855eef57a8, servername: Tet.mehspeedtest.com, network: ws, ws-opts: {path: /, headers: {Host: Tet.mehspeedtest.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fi01.keyinvest.org:443, server: fi01.keyinvest.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e35dd2de-7a4c-4af4-b671-1592e286a040, servername: keyinvest.org, alpn: [networld_vpn-channel@], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: midorinote.online:8443, server: midorinote.online, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e39b2db3-ad43-48d5-8d57-22e4998702b7, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0, short-id: 808e2d36726ee97e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s31588.asancall.cloud:8443, server: s31588.asancall.cloud, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e550f63f-7975-455d-a5d8-e11a120a519d, network: ws, ws-opts: {path: /ws/apps/zoomit, headers: {Host: s31588.asancall.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: slide.driverabundant.info:43477, server: slide.driverabundant.info, port: 43477, type: vless, tls: true, packet-encoding: xudp, uuid: e8ecf744-2ff1-4560-bfab-024f7c69e3cb, host: slide.driverabundant.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 at.jojack.ru:443, server: at.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.cdn.stun.su:443, server: de.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 fr.cdn.stun.su:443, server: fr.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: fr.cdn.stun.su, alpn: [networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-], host: fr.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM, short-id: 3bdec72a5a0ffd84}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.242.234.252:14201, server: 185.242.234.252, port: 14201, type: vless, tls: true, packet-encoding: xudp, uuid: f1fc0a00-c9cc-45ef-97c3-7014d9f94b8a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇵🇱 pl.jojack.ru:443, server: pl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: pl.jojack.ru, host: pl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw, short-id: a7ab02dfcc1f2c04}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fi.fasti.win:443 2, server: fi.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6d382fa-3a53-4497-beb0-b285ac9bcf3a, servername: fi.fasti.win, host: fi.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc, short-id: 2a8a7bb6036e8461}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 103.35.189.83:443, server: 103.35.189.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-397456379-1771009078823820, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 45.13.227.118, port: 80, type: vmess, uuid: 8ce64662-f8b8-4955-bdf2-a55b821bc4aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: ......................................................................................()...........................................................................................................................................................................................................................................................}}, udp: true, tfo: false}
+  - {name: "🇳🇱 [openproxylist.com] vmess-NL 2", server: 109.104.153.12, port: 20104, type: vmess, uuid: 40e306a6-7cab-40ac-a085-a961895eb11b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
   - {name: "🇰🇷 [openproxylist.com] vmess-KR", server: dv4.789900.xyz, port: 2096, type: vmess, uuid: 0c8f3e29-4ec9-4ba6-a6ef-4487873f5d05, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dv4.789900.xyz, network: ws, ws-opts: {path: /, headers: {Host: dv4.789900.xyz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -543,15 +561,16 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -567,28 +586,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -597,13 +625,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -611,15 +647,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -635,28 +672,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -665,13 +711,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -679,15 +733,16 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -703,28 +758,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -733,13 +797,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: اتصال پایدار 🔗
     type: url-test
@@ -756,15 +828,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -780,28 +853,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -810,13 +892,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -824,15 +914,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -848,28 +939,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -878,13 +978,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -892,15 +1000,16 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 37.60.250.243:20558
       - 57.129.95.45:11201
       - 193.135.174.135:990
       - 91.84.107.62:29305
       - 176.123.168.79:41056
       - 94.131.123.86:35361
+      - tinkered-pennies-puppies.freesocks.work:443
       - 212.192.14.73:65330
       - admin.c2.havij.co:443
       - 82.38.31.62:8080
-      - 57.131.38.151:8443
       - 199.247.27.182:80
       - 144.217.164.29:12000
       - 15.204.247.49:12000
@@ -916,28 +1025,37 @@ proxy-groups:
       - 112.120.31.135:443
       - 58.152.25.208:443
       - 🇩🇪 free-de-2.undef.network:443
+      - 13.37.147.199:22223
       - 15.188.96.190:22223
       - 52.47.88.193:22223
       - 52.59.144.4:22223
+      - 13.36.58.242:22222
       - 18.192.246.137:22222
+      - 18.194.65.60:22222
       - 89.106.89.112:2053
       - 🇺🇸 usa.fastexte.pro:443
-      - 77.83.245.193:11777
-      - 38.93.136.8:443
+      - 176.98.186.5:443
+      - 45.146.90.3:443
+      - 3.79.57.168:443
       - 🇳🇱 nl02-vlr01.tcp-reset-club.net:443
       - l11.cesar2.click:443
       - 95.141.36.10:443
       - 46.225.66.140:1310
+      - fi.fasti.win:443
       - ndt.fasti.win:443
-      - 94.143.231.58:443
       - best.pineappled.org:443
-      - 103.27.158.56:443
+      - 5.75.243.13:40226
+      - 185.227.149.123:443
+      - 93.115.25.177:443
       - borik-crash.org:443
       - yesok42v1.ip4exordir.shop:8880
       - 95.214.55.16:443
       - 🇩🇪 de.zeepo.ir:443
+      - vip-80.f-sub.cfd:1517
       - grs.zdshop.ir:80
+      - sps1.sbs:8443
       - 84.54.48.238:443
+      - 185.238.228.46:443
       - 91.98.235.137:12265
       - 213.165.60.92:443
       - 155.212.37.10:993
@@ -946,13 +1064,21 @@ proxy-groups:
       - 91.218.122.10:8443 3
       - safari.nabxcsjghjs2004.shop:24574
       - 🇩🇪 germany.scroogethebest.com:443
+      - 🇩🇪 de-dp-01.com:8443
+      - 45.151.137.193:8443
+      - 62.60.237.240:443
+      - www.speedtest.net:8443
+      - fi01.keyinvest.org:443
       - midorinote.online:8443
       - s31588.asancall.cloud:8443
+      - slide.driverabundant.info:43477
       - 🇷🇺 at.jojack.ru:443
       - 🇩🇪 de.cdn.stun.su:443
-      - 🇫🇷 fr.cdn.stun.su:443
-      - 185.242.234.252:14201
+      - 🇵🇱 pl.jojack.ru:443
+      - fi.fasti.win:443 2
+      - 103.35.189.83:443
       - 🇳🇱 [openproxylist.com] vmess-NL
+      - 🇳🇱 [openproxylist.com] vmess-NL 2
       - 🇰🇷 [openproxylist.com] vmess-KR
   - name: دانلود منیجر 📥
     type: select

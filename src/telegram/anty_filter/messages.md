@@ -1,5 +1,115 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-14 10:18:30 UTC
+بروزرسانی: 2026-02-14 20:16:49 UTC
+
+### 🕒 2026-02-14 20:11:38 UTC
+سرور ویتوری 
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%9A%87
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40vpnbaz%20%F0%9F%8E%A8
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8E%B3
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 20:10:34 UTC
+> ↪️ **Forwarded**
+
+فروش سرویس نسل جدید V2ray تانل متصل حتی در اختلالات شدید اینترنت 
+سرورهای متصل با همه اپراتورها
+***✅***
+ نامحدود :
+یک ماهه تک کاربر : 250T
+یک ماهه دو کاربر : 300T
+دو ماهه تک کاربر : 500T
+دو ماهه دو کاربر : 600T
+***✅***
+ حجمی :
+40 گیگ : 180T
+50 گیگ : 200T
+60 گیگ : 210T 
+70 گیگ : 220T
+80 گیگ : 230T
+90گیگ : 240T
+با سرعت بالا و پشتیبانی ۲۴ ساعته  
+***🌙***
+با خرید همزمان دو سرور، یک سرور ۴۰ گیگ هدیه بگیرید 
+***🎁***
+برای خرید، مشاوره و دریافت سرور تست به آیدی زیر پیام بدید:
+[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
+[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
+**کیفیت را با ما تجربه کنید**
+[#رضایت_شما_افتخار_ماست](?q=%23%D8%B1%D8%B6%D8%A7%DB%8C%D8%AA_%D8%B4%D9%85%D8%A7_%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1_%D9%85%D8%A7%D8%B3%D8%AA)
+
+---
+
+### 🕒 2026-02-14 19:02:50 UTC
+***🟢***
+ 
+**کانفیگ NPV Tunnel (نسپترنت)**
+***☑️***
+ تست شده و متصل 
+برنامه مورد نیاز :
+[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
+[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+ 
+[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/9dps8askz43l/S-NPV9.npvt.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 16:02:23 UTC
+***🟢***
+ 
+**فیلترشکن Oxygen VPN (اندروید)**
+• نسخه 1.1.15
+نسخه مود شده و بدون محدودیت 
+****
+امکان اتصال خودکار به بهترین سرور.
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/6r7wskynh4oy/Oxygen_.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 13:56:10 UTC
+***🟢***
+ 
+**کانفیگ NPV Tunnel (نسپترنت)**
+***☑️***
+ تست شده و متصل 
+برنامه مورد نیاز :
+[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
+[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+ 
+[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/8a8fllewyl9i/S-NPV8.npvt.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 13:02:27 UTC
+سرور ویتوری 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#%40vpnbaz%20%F0%9F%97%A1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%40vpnbaz%20%F0%9F%8D%87
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%40vpnbaz%20%F0%9F%8E%B4
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40vpnbaz%20%F0%9F%91%BE
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 11:03:31 UTC
+سرور ویتوری 
+vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%40vpnbaz%20%F0%9F%92%8A
+vless://ed96b88e-cc12-4fad-8fcb-c0e3a56fc9d4@FASTLY4.FASTSPEEDS.IR:80?mode=auto&path=%2F&security=none&encryption=none&host=V2hous30.global.ssl.fastly.net&type=xhttp#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40vpnbaz%20%F0%9F%8E%B3
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@104.17.148.186:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ch.nping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#%40vpnbaz%20%F0%9F%8E%B4
+vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#%40vpnbaz%20%F0%9F%8E%AD
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-13 23:18:37 UTC
 ***🟢***
@@ -144,76 +254,6 @@ vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainer
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%F0%9F%A7%AD
 vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?path=%2F103.86.44.120%3D65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8E%AD
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%8E%A9
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 19:14:50 UTC
-سرور ویتوری 
-vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.193.109.3:443?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%90%8D
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%9A%87
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096?path=%2F&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%40vpnbaz%20%F0%9F%8E%B4
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40vpnbaz%20%F0%9F%91%BE
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 18:51:16 UTC
-***🟢***
- 
-**کانفیگ NPV Tunnel (نسپترنت)**
-***☑️***
- تست شده و متصل 
-برنامه مورد نیاز :
-[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
-[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
- 
-[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/yrsnfq1vweni/S-NPV5.npvt.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 16:20:03 UTC
-***🔴***
- 
-**فیلترشکن Milo VPN (اندروید)**
-• نسخه 2
-نسخه مود شده و بدون محدودیت 
-****
-امکان اتصال خودکار به بهترین سرور.
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/0fti17vatvsx/Milo_)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 15:14:59 UTC
-***🟢***
- 
-**کانفیگ NPV Tunnel (نسپترنت)**
-***☑️***
- تست شده و متصل 
-برنامه مورد نیاز :
-[دانلود NPV Tunnel از گوگل پلی (اندروید)](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-[دانلود NPV Tunnel به صورت فایل (اندروید)](https://t.me/V2rayBaaz/4434?single)
-[دانلود NPV Tunnel از اپ استور (آیفون)](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
- 
-[دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/p0hywu5w13pd/S-NPV4.npvt.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 12:39:13 UTC
-سرور ویتوری 
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#%40vpnbaz%20%E2%98%8E%EF%B8%8F
-vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#%40vpnbaz%20%F0%9F%8E%B1
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%9A%87
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#%40vpnbaz%20%F0%9F%8D%87
-trojan://telegram-id-directvpn@35.181.228.222:22223?security=tls&alpn=http%2F1.1&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=trojan.burgerip.co.uk#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
-vless://f84ab055-3ffe-4a90-aad3-30596550b03c@sad24.ahg6k.1k3dv.carvan3.mimkiscx.ir:2095?path=%2F%3Fed%3D2087&security=none&encryption=none&host=beh1.salonemojallal.ir.&type=httpupgrade#%40vpnbaz%20%F0%9F%9B%B8
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

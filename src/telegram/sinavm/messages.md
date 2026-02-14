@@ -1,5 +1,5 @@
 # آرشیو کانال: @sinavm
-بروزرسانی: 2026-02-14 10:20:45 UTC
+بروزرسانی: 2026-02-14 20:19:00 UTC
 
 ### 🕒 2026-02-14 07:38:06 UTC
 ***📱***
@@ -99,50 +99,6 @@
  
 ***👉🏻***
 [https://t.me/m/-QNf3c4uMWM8](https://t.me/m/-QNf3c4uMWM8)
-
----
-
-### 🕒 2026-02-12 17:03:27 UTC
-کانفیگ فیلترشکنNV 
-**🔐**
-** **
-***❤️***
-واسه همه مادرا
-***🤱🏻***
- 
-****
-نصب
-**:**
-***🛒***
- 
-[اندروید](https://t.me/sinavm/4110)
-**   **
-***📱***
- 
-[آیفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-****
-***📍***
-دانلود NPV Tunnel با نت ملی :
-[s1.mylinked.org/npv/Npv.apk](http://s1.mylinked.org/npv/Npv.apk)
- 
-***👈***
-[با Boost کردن (حمایت)کنید](https://t.me/boost/sinavm)
-[#napsternetv](?q=%23napsternetv)
- 
-[#npv](?q=%23npv)
- 
-**➖**
-**➖**
-**➖**
-**➖**
-**➖**
-**➖**
-**➖**
-**➖**
-***🚀***
- 
-[𝑪𝒉𝒂𝒏𝒏𝒆𝒍: @SINAVM](https://t.me/+hNaOuzlE51ZkMTU0)
-***🎉***
 
 ---
 

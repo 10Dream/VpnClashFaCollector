@@ -1,21 +1,56 @@
 # آرشیو کانال: @Outline_Vpn
-بروزرسانی: 2026-02-14 10:16:46 UTC
+بروزرسانی: 2026-02-14 20:15:09 UTC
 
-### 🕒 2026-02-14 10:10:08 UTC
-***⚡️***
- لذت اتصال پایدار با سرعت بالا «نسل جدید»  
-***🤖***
- همین حالا می‌توانید اشتراک‌ اختصاصی با پروتوکل جدید تهیه کنید و از قطعی و کندی راحت شوید .  
-***👍***
- تنها راه ارتباطی ما  
-***💠***
-***👉***
- @Ads_Central_net 
-***💠***
-***👉***
- @Ads_Central_net  
+### 🕒 2026-02-14 18:50:07 UTC
+***🎆***
+***🎆***
+ 
+**شرایط فروش ویژه مشتریان قدیمی و اعضای کانال**
+***🔖***
+ عزیزانی که در
+** دو ماه گذشته**
+ از ما خرید داشته اند یا 
+**عضو کانال زیر باشند **
+شامل این 
+**تخفیف ویژه**
+ خواهند شد :
+***✔️***
+ 
+[@Vip_Price_List](https://t.me/Vip_Price_List)
+***⭐️***
+ 
+**اشتراک ۲۰ گیگ**
+ 
+نسل جدید
+ 
+۱۲۵ هزار تومان
+   
+***✨***
+ پس از تخفیف
+** فقط ۹۰ هزار تومان**
+***✔️***
+ 
+[@Ads_Central_Net](https://t.me/Ads_Central_Net)
+***✔️***
+ 
+[@Ads_Central_Net](https://t.me/Ads_Central_Net)
+***🙂***
+ اگه دوست داری با این 
+**شرایط ویژه**
+ اشتراکتو تمدید یا دوباره خرید کنی، فقط کافیه از 
+**طریق آیدی**
+ بالا اقدام کنی
+***🎇***
+***📌***
+ 
+**زمان محدود**
+` تا ۲۸ بهمن `
 ***⚠️***
-  کانال ما هیچ اکانت یا ربات تلگرامی جهت فروش غیر از…
+  
+**کانال ما**
+ هیچ اکانت یا ربات تلگرامی جهت فروش 
+**غیر از آدرس بالا**
+ ندارد.
 
 ---
 
@@ -84,43 +119,6 @@
 
 ---
 
-### 🕒 2026-02-14 10:07:06 UTC
-***⚡️***
- 
-**لذت اتصال پایدار با سرعت بالا**
- «نسل جدید»
-***🤖***
- همین حالا می‌توانید اشتراک‌ اختصاصی با 
-**پروتوکل جدید**
- تهیه کنید و 
-**از قطعی و کندی راحت شوید**
- .
-***👍***
- 
-**تنها راه ارتباطی ما **
-***💠***
-***👉***
- 
-[@Ads_Central_net](https://t.me/Ads_Central_net)
-***💠***
-***👉***
- 
-[@Ads_Central_net](https://t.me/Ads_Central_net)
-***⚠️***
-  
-**کانال ما**
- هیچ اکانت یا ربات تلگرامی جهت فروش 
-**غیر از آدرس بالا**
- ندارد.
-***👍***
- عزیزانی که 
-**قبلاً**
- از ما خرید داشتند ؛ درصورتیکه حجم و زمان دارید با 
-**اولین اتصال**
- به « پروتوکل نسل جدید» متصل خواهید شد.
-
----
-
 ### 🕒 2026-02-13 10:44:18 UTC
 ***🎙***
 ***📻***
@@ -149,72 +147,6 @@
 ***🤩***
 ``
 `vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%9B%A1%20V%2026%20%40Outline_Vpnvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2027%20%40Outline_Vpnvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%F0%9F%9B%A1%20V%2028%20%40Outline_Vpnvless://e765eb5b-8442-40e3-9532-857ba5ececa7@ipbaz.ping-box.com:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#%F0%9F%9B%A1%20V%2029%20%40Outline_Vpnvless://4583d428-8ff9-4000-bcbd-953fe8c8df17@79.137.102.79:8880?security=reality&encryption=none&pbk=Pyq2phArGYw2shJNqNQ6f6pF_eb4AVo_lI6a7lgHd0k&headerType=none&fp=chrome&type=tcp&sni=max.ru&sid=2ad726e6b28daf57#%F0%9F%9B%A1%20V%2030%20%40Outline_Vpn`
-***🔥***
-***👍***
-***⚡️***
- 
-**اتصال پایدار**
- 
-***❤️***
- 
-**جهت**
- 
-**تهیه**
-  
-[**اشتراک اختصاصی VIP بدون قطعی اینجا کلیک**](https://t.me/ads_Central_net)
- 
-**کنید.**
-***⚡️***
- 
-**توجه : **
-کانال ما هیچ
-* ربات یا اکانتی*
- غیر از 
-سه نشانی
- زیر ندارد.
-***✅***
-** **
-[@Outline_Vpn](https://t.me/Outline_Vpn)
-***✅***
-** **
-[@Vip_Price_List](https://t.me/Vip_Price_List)
-***✅***
-** **
-[@Ads_Central_Net](https://t.me/Ads_Central_Net)
-***🛡***
- 
-*v2RayTun, v2rayNg, v2box, FoXray, NapsternetV, Streisand*
-
----
-
-### 🕒 2026-02-12 17:52:20 UTC
-***🌟***
-***🌟***
-***🌟***
- 
-**Free Config**
-***🛡***
- 
-**کانفیگ رایگان**
-***🇺🇿***
-  
-**آموزش**
- 
-[**نحوه اتصال کلیک**](https://t.me/Outline_Vpn/10998?single)
-** کنید.**
-***🔥***
- 
-**با یک ضربه کانفیگ کپی می‌شود.**
-***🛡***
- 
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-***🤩***
-``
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.77.213.238:8443?path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&security=tls&encryption=none&host=sni.111000.dynv6.net&type=ws&sni=sni.111000.dynv6.net#%F0%9F%9B%A1%20V%2021%20%40Outline_Vpnvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#%F0%9F%9B%A1%20V%2022%20%40Outline_Vpnvless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@37.218.247.35:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#%F0%9F%9B%A1%20V%2023%20%40Outline_Vpnvless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#%F0%9F%9B%A1%20V%2024%20%40Outline_Vpnvless://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&type=grpc&sni=vbox.ping-box.com#%F0%9F%9B%A1%20V%2025%20%40Outline_Vpn`
 ***🔥***
 ***👍***
 ***⚡️***

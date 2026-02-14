@@ -1,5 +1,240 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-14 10:19:38 UTC
+بروزرسانی: 2026-02-14 20:17:53 UTC
+
+### 🕒 2026-02-14 20:00:31 UTC
+لطفاً اینو هم تست کنید 
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#NL
+با چ نتی متصل میشین بگین .
+
+---
+
+### 🕒 2026-02-14 19:57:50 UTC
+https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   بابت اینکه چینیه معذرت میخوام از مبدل استفاده شده
+***🙏🏻***
+  تست کنید نتیجه رو بهم بگید
+
+---
+
+### 🕒 2026-02-14 19:29:27 UTC
+خب تست سریع شماره ۲ 
+فقط بگین متصل میشه یا نه و با چه نتی !
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#
+***🇩🇪***
+
+---
+
+### 🕒 2026-02-14 19:02:18 UTC
+اینو زود تست کنید :
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxWWttSDJEVTVMaWlJelU4Qkt5Wnhv@45.95.233.75:27389#fr
+نتیجه رو زود بگین 
+***😎***
+
+---
+
+### 🕒 2026-02-14 18:33:46 UTC
+پروکسی سایفون 🫆
+پروکسی :  
+`104.238.30.58`
+پورت :  
+`63744`
+موقعیت (لوکیشن) : ایتالیا (Italy)
+تنظیمات بالا به صورت کانفیگ (قابل استفاده در 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.4.2/NekoBox-1.4.2-arm64-v8a.apk)
+ و 
+[Exclave](https://github.com/dyhkwong/Exclave/releases/download/0.17.14/Exclave-0.17.14-arm64-v8a.apk)
+) :
+`http://104.238.30.58:63744#@hamedvpns`
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-14 18:32:12 UTC
+خب در حال آماده‌سازی یک ساب لینک دائمی هستم که هر چند ساعت یکبار بروز میشه و راحت همیشه متصل باشین .
+بدون دردسر و بدون نگرانی از تموم شدن حجم و زمان 
+***😎***
+
+---
+
+### 🕒 2026-02-14 18:02:09 UTC
+***🚨***
+ 
+**نصب Jump Jump؛ خداحافظی با اپل‌آیدی؟**
+این روزها با بیشتر شدن قطعی‌ها و اختلالات اینترنت، خیلی‌ها سراغ فیلترشکن‌های رایگان مثل Jump Jump و سایر رفتن. 
+***❌***
+اما یه نکته مهم رو نباید فراموش کنیم 
+***👇🏻***
+تغییر مداوم IP و نوسانات شدید اتصال می‌تونه از طرف سیستم‌های امنیتی به‌عنوان فعالیت مشکوک شناسایی بشه؛ نتیجه؟ غیرفعال شدن اپل‌آیدی یا حتی بسته شدن بعضی از حساب‌های شبکه‌های اجتماعی 
+حفظ امنیت اطلاعات شخصی شوخی‌بردار نیست. استفاده از ابزارهای رایگان و ناشناس شاید در لحظه راه‌حل به نظر بیاد، اما ممکنه هزینه‌ی سنگینی براتون داشته باشه.
+***🔐***
+ قبل از نصب هر اپلیکیشنی، مخصوصاً ابزارهای تغییر IP، حتماً درباره امنیت و اعتبارش تحقیق کنین.
+حساب‌هاتون ارزشمندتر از اونیه که به ریسک‌های ناشناخته سپرده بشه.
+
+---
+
+### 🕒 2026-02-14 17:55:24 UTC
+‍‌‌‎‌‌‌‌‌‎‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+
+---
+
+### 🕒 2026-02-14 17:55:24 UTC
+و ( ما ) روزی خواهیم رقصید ، رویِ
+ همان زمینی که به ما درد را یاد داد .
+
+---
+
+### 🕒 2026-02-14 17:23:30 UTC
+@hamedvpns 
+***♣️***
+.npvt
+
+---
+
+### 🕒 2026-02-14 16:44:13 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-14 13:36:22 UTC
+`https://zaya.io/C-Meta`
+ساب کلش متا برای تست اولیه 
+بابت اینکه چینیه معذرت میخوام از مبدل استفاده شده
+***🙏🏻***
+تست کنید نتیجه رو بهم بگید
+
+---
+
+### 🕒 2026-02-14 12:32:39 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-14 11:48:47 UTC
+پروکسی متصل تلگرام 
+***✅***
+Telegram Proxy 
+***✔️***
+همه اپراتور ها
+***🚨***
+[پروکسی ***1⃣***](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+[پروکسی ***2⃣***](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+[پروکسی ***3⃣***](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+[پروکسی ***4⃣***](https://t.me/proxy?server=185.84.157.34&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+[پروکسی ***5⃣***](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+***❤️***
+ اشتراک گذاری یادتون نره 
+***💚***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-14 10:54:50 UTC
+***🛡***
+ 
+**SolarVPN**
+***⚙️***
+ رایگان بدون نیاز به‌ ثبت نام
+***🌐***
+ 
+[سایت رسمی فیلترشکن](https://solarvpn.com/)
+ 
+***🔥***
+***🔗***
+ 
+[لینک صحفه دانلود](https://solarvpn.com/download/solar-for-android)
+ 
+***❤️***
+***❤️***
+ 
+[لینک دانلود از گوگل پلی](https://play.google.com/store/apps/details?id=com.solarvpn.client.android)
+ 
+***💚***
+ 
+***👉***
+***🤍***
+ 
+[لینک دانلود نسخه ایفون](https://apps.apple.com/ca/app/solarvpn-elite-security/id6529538337)
+ 
+***✅***
+***❤️***
+ 
+[لینک دانلود ویندوز](https://static.solarvpn-cd.net/download/latest/windows/solarvpn-windows.exe)
+ 
+***✔️***
+***💻***
+ 
+[لینک دانلود مک](https://apps.apple.com/app/id6535669314)
+ 
+***✔️***
+..
+بیش از 25 لوکیشن مختلف 
+***⚙***
+ دارای کیل‌سوئیچ
+***⚙️***
+ پروتکلهای فیلترشکن
+wireguard & UDP & TCP & warpper
+***📍***
+پروتکل رو warpper بذارید اکثر اپراتورها متصله
+..
+**💚 اشتراک گذاری یادتون نره ❤️**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-02-14 08:11:02 UTC
 جالبیش اینه تا دیروز کسی نمیدونست همچین سایتی هست که کانفیگ میده تا من گذاشتم تو کل نت پخش شد 
@@ -457,103 +692,6 @@ Exclave-0.17.14-arm64-v8a.apk
 `{  "dns": {    "fallbackStrategy": "disabledIfAnyMatch",    "servers": [      {        "address": "8.8.8.8",        "domains": [],        "fakedns": [          {            "ipPool": "198.18.0.0/15",            "poolSize": 65535          }        ],        "queryStrategy": "UseIPv4"      }    ]  },  "inbounds": [    {      "listen": "0.0.0.0",      "port": 2080,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "socks"    },    {      "listen": "0.0.0.0",      "port": 9080,      "protocol": "http",      "settings": {        "allowTransparent": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "http"    }  ],  "log": {    "loglevel": "warning"  },  "outbounds": [    {      "protocol": "http",      "settings": {        "servers": [          {            "address": "45.154.96.217",            "port": 443,            "users": [              {                "pass": "fuckgfw123",                "user": "@Arshiacomplus"              }            ]          }        ]      },      "streamSettings": {        "network": "tcp",        "security": "tls",        "tcpSettings": {},        "tlsSettings": {          "serverName": "arshiacomplus.nscl.ir"        }      },      "tag": "proxy-global-368428"    },    {      "protocol": "freedom",      "tag": "direct"    },    {      "protocol": "freedom",      "tag": "bypass"    },    {      "protocol": "blackhole",      "tag": "block"    },    {      "protocol": "dns",      "settings": {        "userLevel": 1      },      "tag": "dns-out"    }  ],  "policy": {    "levels": {      "1": {        "connIdle": 30      }    },    "system": {      "statsOutboundDownlink": true,      "statsOutboundUplink": true    }  },  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      }    ]  },  "stats": {}}`
 بزنید به exclave 
 ***✅***
-
----
-
-### 🕒 2026-02-12 20:14:41 UTC
-**چرا دیگه نمیتونم تو تلگرام استوری بذارم؟!کاربران عادی فقط مجاز به گذاشتن 1 استوری در روز هستن و این محدودیت در هفته به 3 استوری و در هر ماه به 10 استوری میرسه. یعنی اگه شما 3 روز پشت سرهم استوری بذارید، روز چهارم امکان گذاشتن استوری ندارید و باید صبر کنید تا یک هفته تموم بشه!**
-...
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-
----
-
-### 🕒 2026-02-12 19:56:03 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-12 18:54:14 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-12 18:32:17 UTC
-خب دوستان ، اول از همه اوپن خواستن .
-سپس ویتورای و نپسترنت 
-و فردا فیلترشکن جدید معرفی میکنم براتون .
-امشب openvpn connect 
-سپس کانفیگ ویتورای و نپسترنت.
-با تشکر از همه رأی دهندگان عزیز 
-***💚***
-
----
-
-### 🕒 2026-02-12 16:40:09 UTC
-تا ساعت ۱۰ رأی گیری ادامه دارد 
-***✔️***
-
----
-
-### 🕒 2026-02-12 12:02:19 UTC
-متصل موشکی 
-***😎***
- 
-***🔑***
- 
-`hamedvpns`
- 
-***👈***
-***👈***
- رمز عبور 
-***✅***
-بزنید به نپسترنت و حالشو ببرید 
-***🔥***
-[لینک نصب نپسترنت ***👉******👉***](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 11:27:58 UTC
-ای کسانی که ری اکشن نمی‌زنید ، میخوام براتون کانفیگ جدید نپستر بذارم
 
 ---
 

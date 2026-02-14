@@ -465,24 +465,32 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 62.146.172.134:443, server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: 62.146.172.134:80, server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: 207.246.77.149:443, server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: 207.246.77.149:80, server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: 209.126.5.209:443, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 94.72.127.58:443, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 154.12.240.141:443, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 155.138.158.179:443, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: 155.138.158.179:80, server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 134928ab-cbd9-4196-98ce-deef2be9fe09, servername: 639065083958087309.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/yjdsyuws?ed", headers: {Host: 639065083958087309.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.200.160.20:443 2, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e27ac27-c360-489a-86ea-8b9659de6763, servername: 639065083958064562.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/jztpmbws?ed", headers: {Host: 639065083958064562.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.200.160.20:443 3, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 573e147f-c502-486f-b823-bafa0dd3c6c5, servername: 639065083958016952.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/bzszqqws?ed", headers: {Host: 639065083958016952.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.200.160.20:443 4, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e0c0c2a-d600-4dc8-9621-d293e935048d, servername: 639065083958163454.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/huwmciws?ed", headers: {Host: 639065083958163454.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.27.25.72:443, server: 104.27.25.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d3a8052-09ee-48f7-8a19-3e24f30a7da1, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /uqBYRQhpA2NzSIhejwuqjz#, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.200.160.20:443 5, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dfe27fc3-cd77-447d-8845-d3b0c22d25f7, servername: 639065083944524400.mustang-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/joiiqpws?ed", headers: {Host: 639065083944524400.mustang-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mx2.drawnrisha.one:55988, server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 7jb7u4FLeToDBKdjWd18tteiuY9MRhpdmySzbDRGzhtRCH2JxshKFUjsBv6kY5sjGXPtD9wwCqJfSn4ee8JmUUrrmco3FFj2, udp: true, tfo: false}
+  - {name: 141.95.105.28:11201, server: 141.95.105.28, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 37ef4f029f1ac0ac, udp: true, tfo: false}
+  - {name: 62.60.233.226:62763, server: 62.60.233.226, port: 62763, type: ss, cipher: chacha20-ietf-poly1305, password: yRdxvK32gcKq8xxNguwU99, udp: true, tfo: false}
+  - {name: 213.156.137.142:43660, server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
+  - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.199:8080, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 193.29.139.141:8080, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.89:8080, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 149.102.149.207:443, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: 🇭🇰 hkt.xn--9kqp42aims.top:20519, server: hkt.xn--9kqp42aims.top, port: 20519, type: vless, tls: true, packet-encoding: xudp, uuid: 04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6, servername: buylite.music.apple.com, host: buylite.music.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI, short-id: 4b070735}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ip.hamrahto.com:8443, server: ip.hamrahto.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2725479c-60b6-4da9-8903-57d8a3342f00, servername: backup.f-sub.cfd, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: backup.f-sub.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vip-80.f-sub.cfd:1517, server: vip-80.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 2725479c-60b6-4da9-8903-57d8a3342f00, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 nl.connectv.net:443, server: nl.connectv.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3d285ec0-cde0-4d81-af2e-5f6b9adc3f35, servername: nl.connectv.net, host: nl.connectv.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57.129.53.182:23576, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.26.7.205:2096, server: 104.26.7.205, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 176.124.223.138:2096, server: 176.124.223.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳 @wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.130.125.138:2096, server: 45.130.125.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in`, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in`}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57.129.47.58:2053, server: 57.129.47.58, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Ng.shOpfoRkiDS.iR:2255, server: Ng.shOpfoRkiDS.iR, port: 2255, type: vless, tls: true, packet-encoding: xudp, uuid: 7bbae845-a902-4186-86e3-e45171d13f8b, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: RdhlZ8FX6D8znsqujb8fJ29mGJocrN2m8DEbdULkV0w, short-id: 3a622700e73c6642}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: grs.zdshop.ir:80, server: grs.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9c3c5a92-1018-49a4-a84d-af2dde3e618d, network: ws, ws-opts: {path: /ed=2560, headers: {Host: smk23ws74gr.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.16.2.90:443, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bbafc769-441b-4f06-9aae-9cc04ede1980, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /198.98.61.220=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.107.208.24:443, server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 190.93.245.94:443, server: 190.93.245.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e765eb5b-8442-40e3-9532-857ba5ececa7, servername: vbox.ping-box.com, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443 2, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr`, network: ws, ws-opts: {path: /130.185.164.213=8443, headers: {Host: afrcloud22.mmv.kr`}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,72 +507,96 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -580,72 +612,96 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 62.146.172.134:443
-      - 62.146.172.134:80
-      - 207.246.77.149:443
-      - 207.246.77.149:80
-      - 209.126.5.209:443
-      - 209.126.5.209:80
-      - 94.72.127.58:443
-      - 94.72.127.58:80
-      - 154.12.240.141:443
-      - 154.12.240.141:80
-      - 155.138.158.179:443
-      - 155.138.158.179:80
-      - 192.200.160.20:443
-      - 192.200.160.20:443 2
-      - 192.200.160.20:443 3
-      - 192.200.160.20:443 4
-      - 104.27.25.72:443
-      - 192.200.160.20:443 5
+      - mx2.drawnrisha.one:55988
+      - 141.95.105.28:11201
+      - 62.60.233.226:62763
+      - 213.156.137.142:43660
+      - 82.38.31.176:8080
+      - 82.38.31.199:8080
+      - 193.29.139.141:8080
+      - 82.38.31.89:8080
+      - 149.102.149.207:443
+      - 🇭🇰 hkt.xn--9kqp42aims.top:20519
+      - ip.hamrahto.com:8443
+      - vip-80.f-sub.cfd:1517
+      - 🇳🇱 nl.connectv.net:443
+      - 57.129.53.182:23576
+      - 104.26.7.205:2096
+      - 176.124.223.138:2096
+      - 45.130.125.138:2096
+      - 57.129.47.58:2053
+      - Ng.shOpfoRkiDS.iR:2255
+      - grs.zdshop.ir:80
+      - 104.16.2.90:443
+      - 🇰🇷 afrcloud22.mmv.kr:443
+      - 91.107.208.24:443
+      - 190.93.245.94:443
+      - 162.19.10.94:443
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
   - name: دانلود منیجر 📥
     type: select
     proxies:
