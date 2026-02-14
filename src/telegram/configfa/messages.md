@@ -1,5 +1,39 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-13 20:28:19 UTC
+بروزرسانی: 2026-02-14 01:06:16 UTC
+
+### 🕒 2026-02-13 21:17:52 UTC
+> ↪️ **Forwarded**
+
+***🔥***
+ 
+**کانفیگ جدید رسید!**
+***✅***
+ تست شده همراه اول
+***📍***
+ لوکیشن : 
+***🇬🇧***
+ انگلیس 
+(
+***🦊***
+روباه پیر  )
+***📶***
+ سرعت اتصال : 
+***🟡***
+ خوب
+trojan://7FjbPVzZX5ZD94fAUxVycSaahvz0Jr3a@node3.neovpn.store:8446?security=tls&sni=node3.neovpn.store&alpn=h2&fp=chrome&type=grpc&authority=&serviceName=trojan-grpc&mode=gun#%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%A4%9E%F0%9F%91%89%20%40Xvpnplus_bot%20%7C%20MCI%20%E2%9C%85
+ 
+[**@Xvpnplus_bot**](https://t.me/Xvpnplus_bot)
+***🍕***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍔***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍺***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+
+---
 
 ### 🕒 2026-02-13 10:32:27 UTC
 > ↪️ **Forwarded**

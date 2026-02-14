@@ -487,6 +487,7 @@ proxies:
   - {name: "` 2", server: de01.keyinvest.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e35dd2de-7a4c-4af4-b671-1592e286a040, servername: web.max.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 11", server: 68.183.228.227, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f291de93-b084-40b3-b4da-af90cd99de46, servername: zoom.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /LK/, headers: {Host: zoom.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔*** 12", server: lt-cherry-01.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff6fb512-147d-419a-9672-e131133f7189, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA, short-id: e0ef3d5c0aacb615}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn آلمان", server: 57.129.28.214, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -525,6 +526,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -553,6 +555,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -581,6 +584,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -618,6 +622,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -646,6 +651,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -674,6 +680,7 @@ proxy-groups:
       - "` 2"
       - "***🆔*** 11"
       - "***🆔*** 12"
+      - "@iphone02016vpn آلمان"
   - name: دانلود منیجر 📥
     type: select
     proxies:

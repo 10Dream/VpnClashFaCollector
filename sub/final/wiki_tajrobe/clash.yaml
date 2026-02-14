@@ -469,6 +469,7 @@ proxies:
   - {name: "Telegram: @wiki_tajrobe 2", server: K10.FASTSPEEDS.IR, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e03f417-ef7d-482f-b3f6-be7785b54c1e, servername: nl-node-m1.jadobet1.store, network: ws, ws-opts: {path: /, headers: {Host: nl-node-m1.jadobet1.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 3", server: 185.238.228.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a992c7a6-832b-4243-a294-d34783d0294c, servername: hotchoclate.graphapp.ir, network: ws, ws-opts: {path: /v2rayroad, headers: {Host: hotchoclate.graphapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 4", server: fip.lightningdns.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df8333c5-f35a-4007-aa21-54c705a8e17a, servername: default.ssl.fastly.net, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/wst?ed=2056", headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 @PayamServerbot - DE 🇩🇪`, server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,6 +490,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -499,6 +501,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -509,6 +512,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,6 +532,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -538,6 +543,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -548,6 +554,7 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
   - name: دانلود منیجر 📥
     type: select
     proxies:

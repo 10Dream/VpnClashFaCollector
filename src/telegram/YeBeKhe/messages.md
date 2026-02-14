@@ -1,5 +1,61 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-13 20:27:49 UTC
+بروزرسانی: 2026-02-14 01:05:46 UTC
+
+### 🕒 2026-02-13 23:34:29 UTC
+[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=195.254.165.15&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.15&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.131&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.131&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.207&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.207&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[proxy](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.122&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.124&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+
+---
 
 ### 🕒 2026-02-13 18:40:15 UTC
 فیلترچی رو بگیرم اون هارد و سیستمی که این همه سال باهاش دسترسی مونو قطع کرده رو میکنم تو کونش
@@ -583,26 +639,6 @@ V2rayNg Hiddify Karing Happ
 [@hamedvpns](https://t.me/hamedvpns)
  
 ***☑️***
-
----
-
-### 🕒 2026-02-11 22:49:33 UTC
-> ↪️ **Forwarded**
-
-به یادتیم پسر...
-***💔***
-***💔***
-***💔***
-محمد جواد حضوری
-
----
-
-### 🕒 2026-02-11 21:52:55 UTC
-ای خدااااا
-استندآپ کمدی براتون آوردم
-***😂***
-***😂***
-***😂***
 
 ---
 

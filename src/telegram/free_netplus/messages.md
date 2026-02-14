@@ -1,35 +1,17 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-13 20:28:48 UTC
+بروزرسانی: 2026-02-14 01:06:38 UTC
 
-### 🕒 2026-02-13 20:10:33 UTC
-***🔺***
-[ فقط 2 نفر دیگه !](https://t.me/+lo8abd1yuhg3Yzc0)
-
----
-
-### 🕒 2026-02-13 20:06:01 UTC
-[ظرفیت فقط 7 نفر دیگه](https://t.me/+lo8abd1yuhg3Yzc0)
- 
-***❗️***
-
----
-
-### 🕒 2026-02-13 20:03:40 UTC
-***🔵***
- 
-[فقط 11 نفر دیگه](https://t.me/+lo8abd1yuhg3Yzc0)
- 
-***🔵***
-
----
-
-### 🕒 2026-02-13 19:55:41 UTC
-**به مناسبت تولد **
-[ملیکا جون (ادمین)](https://t.me/+lo8abd1yuhg3Yzc0)
-** به مدت 20 دقیقه ورود به کانال **
-[ "vip "](https://t.me/+lo8abd1yuhg3Yzc0)
-** رایگانه :🥳👇👇**
-[@dramadd](https://t.me/+lo8abd1yuhg3Yzc0)
+### 🕒 2026-02-13 22:35:51 UTC
+**🎁**
+**سایت میلی گلد با ثبت نام بهتون 3.000.000 پول میده**
+***⬇️***
+***🪙***
+**فقط با یک کد ملی و شماره **
+***💸***
+***😀***
+[https://milli.gold/app/sign-up?referralCode=milli-y81td](https://milli.gold/app/sign-up?referralCode=milli-y81td)
+***🟠***
+    برای خود بانک ملی هستش و کاملا اطمینانیه با خیال راحت ثبت نام کنید.
 
 ---
 
@@ -51,8 +33,9 @@
 
 ### 🕒 2026-02-13 17:34:06 UTC
 وقتی به رفیقم زنگ میزنن میگن دونگتو بده 
-[پروکسی](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)

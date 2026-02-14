@@ -1,5 +1,51 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-13 20:27:30 UTC
+بروزرسانی: 2026-02-14 01:05:28 UTC
+
+### 🕒 2026-02-13 21:46:11 UTC
+ترامپ: فعلا نشانه‌ای از تمایل آنها برای توافق وجود ندارد، خواهیم دید چه خواهد شد اما فرصت کمه
+
+---
+
+### 🕒 2026-02-13 21:41:51 UTC
+ترامپ: یکبار برای همیشه مشکل ایران را حل خواهیم کرد
+
+---
+
+### 🕒 2026-02-13 21:38:08 UTC
+(طی ۲۴ ساعت گذشته در اتفاقی عجیب عسلویه ۳۰ بار لرزیده)
+
+---
+
+### 🕒 2026-02-13 21:35:49 UTC
+داره جالب میشه
+
+---
+
+### 🕒 2026-02-13 21:35:21 UTC
+خبرنگار: شما گفتین که سایت‌های هسته‌ای ایران کلاً نابود شدن. دیگه چی مونده که بخواین سراغش برین؟
+ترامپ: می‌شه هر چی گرد و خاک اونجا مونده رو جمع کرد. اگه این کار رو بکنیم، واقعاً کمترین بخش ماموریت ماست. ولی احتمالاً هر چی که باقی مونده رو می‌گیریم.
+
+---
+
+### 🕒 2026-02-13 21:35:06 UTC
+خبرنگار: ایران چیکار می‌تونه بکنه که بهش حمله نشه؟
+ رئیس‌جمهور ترامپ: همون توافقی رو با ما بکنن که باید دفعه اول می‌کردن. اگه توافق درستی با ما بکنن، ما اون کارو نمی‌کنیم. تاریخ نشون داده اونا تا حالا این کارو نکردن. اینم بگم که اونا می‌خوان حرف بزنن، ولی تا الان فقط زیاد حرف زدن و خبری از عمل نبوده.
+ ترامپ: ما هیچ غنی‌سازی نمی‌خواهیم، صفر مطلق!!
+
+---
+
+### 🕒 2026-02-13 21:34:25 UTC
+ترامپ: تغییر حکومت تو ایران رو می‌خوای؟ به نظر می‌رسه این بهترین اتفاقیه که می‌تونه بیفته. 47 ساله که دارن فقط حرف می‌زنن و حرف می‌زنن، این وسط هم در حالی که اونا حرف می‌زدن، ما کلی آدم از دست دادیم... حالا ببینیم چی میشه.
+
+---
+
+### 🕒 2026-02-13 21:30:50 UTC
+خبر فوری الجزیره 
+دونالد ترامپ: 
+تغییر رژیم در ایران ممکنه بهترین اتفاقی باشه که می‌تونه رخ بده.
+فعلا تابیده شدست!!
+
+---
 
 ### 🕒 2026-02-13 20:00:21 UTC
 ***🆔***
@@ -417,35 +463,6 @@ Où t'es, papaoutai ?
 **📰**
 ** **
 [@IraneAzad_News](https://t.me/IraneAzad_News)
-
----
-
-### 🕒 2026-02-11 20:56:33 UTC
-[https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=185.3.200.185&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.185&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-11 20:54:25 UTC
-[https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.185&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@Data_proxy](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&@Data_proxy)
-[https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Data_proxy](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.11&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.115&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=78.47.212.146&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=78.47.212.146&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-[https://t.me/proxy?server=172.65.48.76&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy](https://t.me/proxy?server=172.65.48.76&port=6443&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&@Data_proxy)
-
----
-
-### 🕒 2026-02-11 20:53:45 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
 
 ---
 

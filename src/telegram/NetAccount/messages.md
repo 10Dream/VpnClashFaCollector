@@ -1,5 +1,133 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-13 20:26:09 UTC
+بروزرسانی: 2026-02-14 01:04:07 UTC
+
+### 🕒 2026-02-14 00:31:55 UTC
+[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ |
+[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ 
+[پروکسی](https://t.me/proxy?server=185.3.200.6&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.4&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ 
+[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-02-14 00:10:24 UTC
+خبرگزاری رویترز به نقل از دو مقام آمریکایی: ارتش ایالات متحده در حال آماده سازی برای احتمال اجرای عملیات نظامی چند هفته‌ای و پایدار علیه جمهوری اسلامی است.
+اقدامی که در صورت صدور دستور از سوی دونالد ترامپ، رییس جمهوری آمریکا، می‌تواند به درگیری گسترده‌تری نسبت به تنش‌های پیشین میان دو کشور منجر شود.
+بر اساس این گزارش، پنتاگون سناریو هایی فراتر از حمله محدود به تاسیسات هسته‌ای را بررسی می‌کند و احتمال هدف قرار گرفتن مراکز دولتی و امنیتی نیز مطرح است. این مقام‌ها که نامشان فاش نشده، گفته‌اند واشنگتن انتظار دارد جمهوری اسلامی در صورت وقوع حمله، دست به اقدام متقابل بزند.
+[لینک منبع](https://www.reuters.com/world/middle-east/us-military-preparing-potentially-weeks-long-iran-operations-2026-02-13/)
+
+---
+
+### 🕒 2026-02-13 23:20:48 UTC
+> ↪️ **Forwarded**
+
+‏از دیدار امروز با رئیس‌جمهور زلنسکی در مونیخ بسیار خرسند شدم. ما، دو ملتی را نمایندگی می‌کنیم که با تهدیدها علیه آزادی و حاکمیت ملی خود مبارزه می‌کنند. تهدید علیه اوکراین خارجی است و تهدید علیه ایران داخلی. ملت‌های ما به‌واسطه همین واقعیت و نیز شجاعت کم‌نظیر مردم‌شان به هم پیوند خورده‌اند.
+‏در این دیدار درباره حمایت متقابل از تلاش‌ها برای رهایی کشورهای‌مان و نیز همکاری‌های ثمربخشی که می‌توانیم در مسیر مبارزه برای آزادی شکل دهیم گفت‌وگو کردیم.
+‏مشتاقم همکاری‌هایم با رئیس‌جمهور زلنسکی ادامه یابد و از حمایت ایشان از ملت ایران صمیمانه سپاسگزارم.
+I was pleased to meet with President Zelenskyy today in Munich. We each represent nations fighting threats to our freedom and sovereignty. The threat to Ukraine is foreign. The threat to Iran is domestic. Our nations and people are bonded by this and by their remarkable courage.
+We discussed our mutual support for the liberation of our respective nations and the fruitful collaboration we can build in the fight for freedom. 
+I look forward to continuing to work with President Zelenskyy and am thankful for his support of the people of Iran.
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
+
+### 🕒 2026-02-13 22:19:21 UTC
+خبرنگار: در صورت تغییر رژیم چه کسی کنترل ایران را به دست خواهد گرفت؟
+ترامپ: من نمی‌خواهم در مورد آن صحبت کنم. افرادی هستند!
+بسیار کار خوبی میکنه که اسم نمیاره چون خیلی از افراد نمیتونن این ایرادو بگیرن و بگن شاهزاده و.. دست نشانده آمریکا هستن و انگ های مسخره بچسبونن. و در آخر: این مردم خود ایران هستن که انتخاب میکنن چه کسی رو میخوان هیچ فرد دیگه ای نمیتونه
+
+---
+
+### 🕒 2026-02-13 22:06:54 UTC
+خبرنگار: جمهوری اسلامی برای جلوگیری از حمله چه کاری می‌تواند انجام دهد؟
+ترامپ: توافقی را که باید همان بار اول به ما می‌دادند، به ما بدهند. اگر توافق درست را ارائه کنند، ما چنین کاری نخواهیم کرد.
+آن‌ها می‌خواهند صحبت کنند، اما تا اینجا حرف زیاد زده‌اند و اقدامی انجام نداده‌اند.
+ما نمی خواهیم هیچ‌گونه غنی‌سازی داشته باشند.
+از اولشم مشخص بود که جمهوری اسلامی تسلیم نمیشه و شروطو نمیپذیره. این وقت تلف کردن ها و مذاکرات برای رسیدن تجهیزات آمریکا و مشروعیت برای حمله اس وگرنه هم ترامپ هم نتانیاهو هم بقیه میدونن جمهوری اسلامی کوتاه نمیاد و حمله قطعیه
+
+---
+
+### 🕒 2026-02-13 21:44:26 UTC
+**لحظاتی قبل دونالد ترامپ در مورد ایران:«به نظر می‌رسد تغییر رژیم در ایران بهترین اتفاقی باشد که می‌تواند رخ دهد»**
+47 سال است که آنها مدام حرف می‌زنند و حرف می‌زنند و حرف می‌زنند. در این میان، ما جان‌های زیادی را در حین حرف زدن آنها از دست داده‌ایم. پاها، بازوها و صورت‌ها از بین رفته‌اند.
+این مدت زیادی است که ادامه دارد. پس بیایید ببینیم چه اتفاقی می‌افتد.
+​در این بین، قدرت عظیمی [به منطقه] رسیده است و همان‌طور که می‌دانید، قدرت بیشتری هم در راه است و ناوهای دیگری هم به زودی اعزام می‌شوند. پس تا آخرش پیش می‌رویم. اگر بتوانیم این موضوع را یک بار برای همیشه حل کنیم، خیلی خوب خواهد بود.»
+اول باید ببینم با آنها توافق میشود یا خیر، البته آنها نشان داده اند که اهل توافق نیستند‌
+خبرنگار: شما گفتید تأسیسات هسته‌ای ایران «کاملاً نابود شده‌اند» دیگر چه چیزی باقی مانده که بخواهید هدف قرار دهید؟
+ترامپ: هرچه از آنجا فقط به شکل گرد و غبار باقی مانده باشد. اگر ما این کار را انجام دهیم، واقعاً این کم‌اهمیت‌ترین بخش مأموریت ماست. اما احتمالاً هرچه باقی مانده باشد را هم جمع‌آوری می‌کنیم!
+
+---
+
+### 🕒 2026-02-13 21:23:11 UTC
+[https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+[https://t.me/proxy?server=85.133.194.114&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.114&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-02-13 20:43:33 UTC
+14 فوریه روز عشق (ولنتاین) تقدیم به جاویدنامان عاشق عزیزمون
+***🕊***
+***❤️***
+
+---
+
+### 🕒 2026-02-13 20:42:55 UTC
+`vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#NetAccountvless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@numarz1.gptpersian.ir:2280?security=reality&encryption=none&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=faf804ddc2e49f6c#NetAccountvless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#NetAccountvless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#NetAccountvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#NetAccountvless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#NetAccountvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#NetAccountvless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?security=reality&encryption=none&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=42d7234d875308a2#NetAccountvless://nothing_88147cqsru@188.253.26.39:442?security=reality&encryption=none&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6ac998b514#NetAccountvless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v4.globalfymain.com#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#NetAccount`
+
+---
+
+### 🕒 2026-02-13 20:33:36 UTC
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](tg://proxy?server=185.3.200.99&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](tg://proxy?server=185.3.200.99&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+
+---
 
 ### 🕒 2026-02-13 19:48:46 UTC
 روبرتا متسولا رییس پارلمان اروپا در کنفرانس امنیتی مونیخ:
@@ -301,76 +429,6 @@
 اسکات بسنت در گفتگو با فاکس نیوز تاکید کرد که تحریم‌ها و فشار حداکثری علیه جمهوری اسلامی موثر بوده است.
 او با اشاره به ادامه تحریم‌ها و فشار حداکثری و اعزام ناوگان دریایی نظامی عظیم آمریکا به منطقه گفت که جمهوری اسلامی فقط زبان زور را می‌فهمد.
 او در ادامه گفت: ما مقامات و پول هایی را که رهبران جمهوری اسلامی به کشورهای دیگر می‌فرستند را زیرنظر داریم و اگر از ما خواسته شود این پول‌ها را برای مردم ایران پس می‌گیریم.
-
----
-
-### 🕒 2026-02-12 01:01:20 UTC
-پست جدید شهبانو فرح پهلوی در شبکه های اجتماعی:
-به یاد جان باختگان اعتراضات ۴۰۴ ایران 
-در هر لحظه از این روزهای دشوار، اندوه مادران، پدران، خواهران، برادران و دوستان قربانیان و زخمی‌شدگان حوادث اخیر ایران با من بوده است. از صمیم قلب و با تمام وجود خود را شریک غم و رنج آنان می‌دانم و برای تمامی مجروحان شفای عاجل و بازگشت به آغوش خانواده‌هایشان را آرزو می‌کنم. 
-هرگز فراموش نمی‌کنم که هزاران نفر از فرزندان این سرزمین همچنان در زندان‌ها به سر می‌برند و در رنج و بی‌عدالتی روزگار می‌گذرانند. اندیشه آنان نیز پیوسته با من است.
-گرچه دور از وطن و دور از شما هستم، اما به هر یک از ایرانیان آزادی‌خواه که با شجاعت و امید برای آینده‌ای روشن ایستادگی می‌کنند، افتخار می‌کنم. ایمان دارم که نور بر تاریکی پیروز خواهد شد و ایران ما روزی نه چندان دور به آزادی آرامش و سربلندی خواهد رسید.
- فرح پهلوی
-لینک کانال تلگرام رسمی شهبانو:
-[https://t.me/farahdibapahlavi](https://t.me/farahdibapahlavi)
-
----
-
-### 🕒 2026-02-12 00:45:37 UTC
-**وال استریت ژورنال به نقل از سه مقام آمریکایی: اکنون پنتاگون دستور داده که دومین گروه ناو هواپیمابر برای اعزام به خاورمیانه آماده شود و به زودی حرکت کند زیرا ارتش ایالات متحده برای احتمال حمله به جمهوری اسلامی آماده می‌شود**
-قسمتی از گزارش:
-رئیس‌جمهور ترامپ روز سه‌شنبه گفت در حال بررسی اعزام یک ناو هواپیمابر دوم به خاورمیانه است تا در صورت شکست مذاکرات با ایران، برای اقدام نظامی آماده باشد. یکی از مقامات گفت دستور اعزام میتواند ظرف چند ساعت صادر شود اما ترامپ هنوز دستور رسمی اعزام ناو دوم را صادر نکرده و برنامه‌ها میتواند تغییر کند.
-یکی از مقامات گفت پنتاگون در حال آماده‌سازی یک ناو برای اعزام طی دو هفته آینده است، احتمالاً از ساحل شرقی آمریکا. ناو هواپیمابر «USS George H.W. Bush» در حال تکمیل یک سری تمرین‌های آموزشی در سواحل ویرجینیا است و به گفته مقامات، ممکن است این تمرین‌ها تسریع شود.
-آمریکا در هفته‌های اخیر توان نظامی خود را در منطقه افزایش داده و ناو هواپیمابر لینکلن را از دریای چین جنوبی به منطقه اعزام کرده، همچنین ناوهای جنگی بیشتر، سامانه‌های دفاع هوایی و اسکادران‌های جنگنده اضافی نیز اعزام شده‌اند.
-
----
-
-### 🕒 2026-02-12 00:32:39 UTC
-سنتکام (ستاد فرماندهی مرکزی آمریکا) تصاویری از آماده شدن خلبانان ارتش آمریکا در خاورمیانه برای پرواز با بالگردهای تهاجمی آپاچی AH-64 منتشر کرد
-به گفته سنتکام، این بالگردها قادرند از نیروهای زمینی پشتیبانی هوایی انجام دهند و با استفاده از موشک های دوربرد، توانمندی تهاجمی فراهم کنند
-
----
-
-### 🕒 2026-02-12 00:08:54 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-11 23:44:31 UTC
-`vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.71.1.237:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
-`vless://0154d742-3233-4c61-f81c-7407fcf28b87@3.70.253.134:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
-`vless://dacb912c-39ef-4fe0-d720-fadaa53111c0@3.72.6.34:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
-`vless://de524de8-06a2-4026-c602-651f0304151b@3.70.171.93:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
-`vless://a0891e86-ce1f-4e1b-e47c-84c890f1b130@18.185.94.14:443?security=&encryption=none&headerType=&type=tcp#NetAccount`
-
----
-
-### 🕒 2026-02-11 23:39:09 UTC
-[https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=settings.appsettings.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.186&port=5566&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-11 23:20:49 UTC
-ایزابلا توالیری، نماینده ایتالیا در پارلمان اروپا امروز عکس خامنه ای رو توی جلسه حین صحبتاش پاره کرد
-خانوم توالیری توی صحبت هاش از اتحاد چپ ها و مدعیان حقوق بشر با «بدترین دیکتاتوری مذهبی» و «اسلام رادیکال» در جهان انتقاد کرد که درهای اروپا رو به روی اونا باز کردن و اروپا رو به دنباله رو جمهوری اسلامی تبدیل کردن. با پاره کردن عکس خامنه ای گفت: «زنده باد غرب زنده باد دموکراسی»
-اون قبل تر هم عکس خامنه ای رو در مقابل ساختمان این نهاد آتیش زده بود
-
----
-
-### 🕒 2026-02-11 21:45:50 UTC
-دادگاه کیفری یک استان قم، صالح محمدی، کشتی‌گیر 19 ساله، را به اتهام «قتل عمد» به «اعدام علنی در میدان نبوت قم از طریق چوبه دار» محکوم کرده است.
-در حکم اولیه دادگاه که به رویت ایران اینترنشنال رسیده است، آمده است که شب 18 دی 1404 در میدان نبوت قم، گروهی به سمت ماموران «کوکتل مولوتف» پرتاب کردند و محمد قاسمی هماپور، مامور یگان ویژه فراجا، پس از سقوط از موتورسیکلت با ضربات «چاقو و شمشیر» کشته شد.
-در این حکم آمده است که با توجه به گزارش پزشکی قانونی، 29 جراحت بر بدن مقتول ثبت شده و جراحت شماره 7 به عنوان آسیب موثر در کشته شدن مامور معرفی شده است.
-صالح محمدی اتهام قتل را انکار کرده و گفته است اقرارها تحت فشار اخذ شده‌اند. همچنین دوربین‌های مداربسته نیز چهره او را نشان نداده‌اند.
-این اتهامات در حالی مطرح شده که به گفته نزدیکان صالح محمدی، او هنگام وقوع حادثه در خانه عمویش بوده است، اما دادگاه از احضار شاهدان خودداری کرده. همچنین، به گواه ملی‌پوشان، مربیان و هم‌باشگاهی‌های او، صالح هرگز چاقو نداشته است.
 
 ---
 

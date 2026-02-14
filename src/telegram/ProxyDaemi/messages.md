@@ -1,5 +1,106 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-13 20:26:25 UTC
+بروزرسانی: 2026-02-14 01:04:23 UTC
+
+### 🕒 2026-02-13 21:54:03 UTC
+***⭕️***
+ انتظار می‌رود دور دوم مذاکرات ایران و آمریکا هفته آینده برگزار شود، اما تاریخ رسمی تعیین نشده 
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-13 21:35:25 UTC
+***⭕️***
+ترامپ: 
+تغییر رژیم در ایران ممکن است بهترین اتفاقی باشد که می‌تواند رخ دهد!
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-13 20:27:16 UTC
+***⭕️***
+ترامپ:
+ ایران مایل به رسیدن به توافق نیست و کار را برای رسیدن به‌ توافق بسیار سخت کردن
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-13 16:50:23 UTC
 ‏انگار از ۱۸ ام پرت شدیم تو یه جهان موازی دیگه

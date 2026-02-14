@@ -1,5 +1,29 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-13 20:26:30 UTC
+بروزرسانی: 2026-02-14 01:04:28 UTC
+
+### 🕒 2026-02-13 20:28:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`23`
+Secret: 
+`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-13 20:28:01 UTC
+Server: 
+`god.gamelande.info.`
+ 
+Port: 
+`88`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-13 19:30:01 UTC
 Server: 
@@ -425,30 +449,6 @@ Port:
 `88888`
 Secret: 
 `dd10400103324995b07c030386e886e7f1`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-11 20:28:02 UTC
-Server: 
-`Hamrah.mci.ir.the-bests-servers.info.`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-11 20:28:02 UTC
-Server: 
-`saborbash-vasle.minetor.co.uk`
- 
-Port: 
-`443`
-Secret: 
-`3XnnAQIAAQAH8AMDhuJMOt0`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: T.me/MerlinVpn ❤️‍🔥, server: ipv4-all-2.beraghsa1.sbs, port: 1325, type: vless, tls: true, packet-encoding: xudp, uuid: 5fc41f2c-8e78-4c7d-a572-cae85cb9b063, host: ipv4-all-2.beraghsa1.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: MerlinVpn 🪄🚀`", server: 144.31.165.5, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 05dc09d5-5c56-454b-a34e-6ef743d91e1a, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28, short-id: abc323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - T.me/MerlinVpn ❤️‍🔥
+      - "Telegram: MerlinVpn 🪄🚀`"
   - name: دانلود منیجر 📥
     type: select
     proxies:

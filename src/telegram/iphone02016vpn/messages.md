@@ -1,5 +1,50 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-13 20:29:21 UTC
+بروزرسانی: 2026-02-14 01:07:10 UTC
+
+### 🕒 2026-02-14 00:42:34 UTC
+`vmess://eyJhZGQiOiI1Ny4xMjkuMjguMjE0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfhpQgQGlwaG9uZTAyMDE2dnBuINii2YTZhdin2YYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=`
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-13 23:42:00 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-13 21:35:19 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-13 21:07:34 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
 
 ### 🕒 2026-02-13 20:06:29 UTC
 [https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -855,51 +900,6 @@ Telegram Proxy
 ***✅***
    ✓ 
 [Proxy10](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-11 22:15:24 UTC
-سایفون بازا بیدارید یا نه ؟ 
-***🦦***
-  پروکسی : 80.211.137.210  پورت : 8088  کشور : ایتالیا (Italy)  
-***🆔***
- @iphone02016vpn + نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-11 21:50:11 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-11 21:47:05 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-11 21:45:54 UTC
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)
