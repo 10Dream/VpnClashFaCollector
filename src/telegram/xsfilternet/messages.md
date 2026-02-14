@@ -1,5 +1,23 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-14 01:08:57 UTC
+بروزرسانی: 2026-02-14 10:21:51 UTC
+
+### 🕒 2026-02-14 09:20:44 UTC
+آقا امروز تولدمه ۱۸ سالم شد...
+اول به یاد اونایی که دیگه پیش ما نیستن و خیلی هاشون نتونستن جشن تولدشون رو بگیرن
+***💔***
+دوم فقط آرزو میکنم اونم چیزی جز سربلندی 
+[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+ و شادی مردم ایران و نابودی بدخواه های ایران!
+***☯️***
+امروز به عنوان 
+[#هدیه](?q=%23%D9%87%D8%AF%DB%8C%D9%87)
+ ساب های خودم رو با کانفیگ های پر سرعت آپدیت میکنم تا لذت ببرید رفقا(
+[مجموع ساب ها](https://t.me/xsfilternet/1765)
+)
+***🚀***
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-13 23:00:56 UTC
 از همه عذر میخوام...
@@ -169,49 +187,6 @@ Get Free 90 Day's Shadowsocks Config
 nm-vmess://CrxEwJ+XYqYOYI7sX2wn0diL5eaR8L698Ta4jNiIWGTvvX8lUshY3hTel8w+Ak/gEHAObpQQnP8ZNtk8FmDY3XPNQ9IwM8FCfOFPzbRSmlTS60O5uL6Xr+1OgQiD3diXDG2Za+orgJlXixPeCq2gAZ3Y31qxTlBqZMN3ysjTQghn9L0DgwSTfA3616NJshJEgvaqf5Je/iY2j0I8aCyVhtR/cpC+UgijXyB+u2MMOUx4a/kinyk4uxfdgbYcMNAHHCY8yTU/F9u4f2OP7yD/UQ9EobinkyexZIJLkxcvRN8frRdeQ9asB/6fW84WxQZY7Mb5nZvy/zBisTOFMdALag==
 نت مود
 [@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-12 09:27:12 UTC
-vless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&headerType=none&type=tcp#viranet%20%26%20%40dicodeir
-اختصاصی
-***🥶***
-***🔥***
-[@dicodeir](https://t.me/dicodeir)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-12 06:53:28 UTC
-متصل موشکی 
-***😎***
- 
-***🔑***
- 
-`hamedvpns`
- 
-***👈***
- رمز عبور 
-***✅***
-3 تا لوکیشن مختلف 
-***✅***
-بزنید به نپسترنت و حالشو ببرید .
-البته من با ایرانسل تست کردم ، باز نت دیگری بود تست میکنم و میزارم .
-[**لینک نصب نپسترنت 👉👉**](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- 
-[@xsfilternet](https://t.me/xsfilternet)
- 
-***😎***
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
 
 ---
 

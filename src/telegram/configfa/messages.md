@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-14 01:06:16 UTC
+بروزرسانی: 2026-02-14 10:18:57 UTC
 
 ### 🕒 2026-02-13 21:17:52 UTC
 > ↪️ **Forwarded**
@@ -89,19 +89,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMxIDogQFh2cG5wbHVzX2JvdCB8IE1DSSBcdTI3
  
 [QRcode](https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;chs=200x200&amp;chl=vless%3A%2F%2Fd009862d-c813-4015-b84b-bb196b224c58%40ir.beta3.lowfamila.site%3A4532%3Fsecurity%3Dnone%26encryption%3Dnone%26host%3Dspeedtest.net%26headerType%3Dhttp%26type%3Dtcp%23Telegram%3A%40config_proxy)
 vless://d009862d-c813-4015-b84b-bb196b224c58@ir.beta3.lowfamila.site:4532?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy
-
----
-
-### 🕒 2026-02-12 01:10:54 UTC
-> ↪️ **Forwarded**
-
-همراه اول وصل بقیه اپراتور ها تست کنید 
-***✅***
-***✨***
-trojan://ey0YnM2wKw@162.159.36.115:443?security=tls&sni=www-holand-cc-2.ammirkbbir.site.&alpn=h2%2Chttp%2F1.1&type=grpc&authority=&serviceName=www-holand-cc-2.ammirkbbir.site.&mode=multi#C4%20%3A%20%40Xvpnplus_bot%20%7C%20MCI%20%E2%9C%85
-[@xvpnplus_bot](https://t.me/xvpnplus_bot)
-[@xvpnplus_bot](https://t.me/xvpnplus_bot)
-[@xvpnplus_bot](https://t.me/xvpnplus_bot)
 
 ---
 

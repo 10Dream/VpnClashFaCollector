@@ -1,5 +1,162 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-14 01:04:23 UTC
+بروزرسانی: 2026-02-14 10:17:00 UTC
+
+### 🕒 2026-02-14 10:02:50 UTC
+***⭕️***
+رویترز و آکسیوس :
+دور بعدی مذاکرات هسته ای ایران و آمریکا قراره سه شنبه در ژنو برگزار شه
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-14 10:02:48 UTC
+**📱**
+** اپلیکیشن اندروید بدون فیلتر ریتزوبت **
+***🔹***
+ 
+**ثبت نام آسان**
+ 
+***✅***
+***🔹***
+ 
+**رابط کاربری بسیار راحت و سریع**
+ 
+***✅***
+***🔹***
+** درگاه پرداخت کارت به کارت**
+ 
+***✅***
+***🔹***
+** درگاه پرداخت دلاری سریع**
+ 
+***✅***
+***🔹***
+ 
+**بونوس ۱۰۰ درصدی اولین واریز**
+ 
+***✅***
+***🔹***
+ 
+**بونوس ۱۰۰ درصدی واریز یکشنبه‌ها**
+ 
+***✅***
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+***⚡️***
+ 
+[@RitzoBet_ir](https://t.me/RitzoBet_ir)
+
+---
+
+### 🕒 2026-02-14 10:02:48 UTC
+***⚡️***
+ بازی های متنوع کازینو را در سایت ریتزوبت
+** **
+پیشبینی کنید
+***👇***
+****
+***1️⃣***
+ بازی پولساز 
+**انفجار**
+ 
+***✅***
+***2️⃣***
+ بازی پولساز 
+**رولت زنده **
+***✅***
+***3️⃣***
+ بازی پولساز 
+**بلک جک ( ۲۱ )**
+ 
+***✅***
+***💰***
+ روش های متنوع شارژ و برداشت در ریتزوبت
+***🔥***
+ 
+****
+**⚠️**
+** نکته : برای دسترسی به ووچر و کارت به کارت ، واحد پول حسابتون در سایت رو ریالی بزارید**
+R25
+***🅰***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***🔹***
+***⚡️***
+ در ریتزوبت‌ ؛ بازی کن، پیش‌بینی کن، برنده شو!
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+***2️⃣***
+ 
+[@RitzoBet_ir](https://t.me/RitzoBet_ir)
+
+---
+
+### 🕒 2026-02-14 06:11:44 UTC
+امروز روز ولتاینه اما دیگه هیچ روزی مثل قدیم نیست هی ذوقی نمونده نه حتی برای جشن گرفتم بلکه حتی برای یاداوری ، چه زوج های نازنینی که تا یک ماه پیش بودند کنار ما اما الان نیستند …. 
+***💔***
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-13 21:54:03 UTC
 ***⭕️***

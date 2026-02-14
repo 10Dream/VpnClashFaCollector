@@ -465,8 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇺🇸 hp71 - US - VLESS/WS - 80, server: nodejs.org, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f, network: ws, ws-opts: {path: "/?ed", headers: {Host: bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.83.254:8880, server: 104.17.83.254, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: a22bff60-a40a-4250-bde2-4c660e363b47, network: ws, ws-opts: {path: /0uhb7164djuh7uo0, headers: {Host: index.harmony715.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46.225.66.140:1310, server: 46.225.66.140, port: 1310, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇺🇸 hp71 - US - VLESS/WS - 80
-      - 104.17.83.254:8880
+      - 46.225.66.140:1310
   - name: دانلود منیجر 📥
     type: select
     proxies:

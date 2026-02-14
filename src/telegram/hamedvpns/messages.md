@@ -1,5 +1,55 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-14 01:06:53 UTC
+بروزرسانی: 2026-02-14 10:19:38 UTC
+
+### 🕒 2026-02-14 08:11:02 UTC
+جالبیش اینه تا دیروز کسی نمیدونست همچین سایتی هست که کانفیگ میده تا من گذاشتم تو کل نت پخش شد 
+***🤣***
+***🤣***
+***🤣***
+ کانال های بزرگ تلگرامی دارن به اسم خودشون پست میزارن براش . 
+لامصب ها من چند ساله ازش خبر دارم و استفاده میکنم . 
+خیلی چیزای دیگر هست که حتی روحتون هم خبر نداره 
+***😎***
+***😎***
+***😎***
+ 
+حالا برین تو کانالهایی عضو باشین که کلا ممبراشون هم فیک زدن 
+***😂***
+***😂***
+
+---
+
+### 🕒 2026-02-14 06:38:22 UTC
+کانفیگ جدید آیپی 
+***🇩🇪***
+vless://4d961eae-b6a0-497c-98ee-ea5b70c6d71b@46.225.66.140:1310?encryption=none&headerType=http&host=play.google.com&security=none&type=tcp#
+***🇩🇪***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-14 06:10:36 UTC
+انگار همه رفتن برای خودشون یه کانفیگ ۳ ماهه ساختن و رفتن دنبال کارشون 
+***😐***
+هنوز من شروع ب فعالیت نکردما 
+***😁***
+***😂***
+
+---
+
+### 🕒 2026-02-14 05:42:03 UTC
+این سه شنبه میریم برای قت سندردی و اگر خوب پیش رفت هفته بعدش کبین کستی هست .
+هیچی دیگه مذاکرات این هفته سه شنبه در ژنو برگزار میشه .
+
+---
 
 ### 🕒 2026-02-13 19:15:49 UTC
 آموزش دریافت کانفیگ ۹۰ روزه نامحدود شادوساکس 
@@ -504,215 +554,6 @@ Exclave-0.17.14-arm64-v8a.apk
 
 ### 🕒 2026-02-12 11:27:58 UTC
 ای کسانی که ری اکشن نمی‌زنید ، میخوام براتون کانفیگ جدید نپستر بذارم
-
----
-
-### 🕒 2026-02-12 10:02:08 UTC
-صرفا برای تست ، لطفاً نتایج رو توی کامنت بگید به علاوه اپراتور 
-رمز : 
-`test71`
-
----
-
-### 🕒 2026-02-12 09:41:07 UTC
-پروکسی متصل تلگرام 
-***✅***
-Telegram Proxy 
-***✔️***
-پروکسی ملی تلگرام
-***🚨***
-[پروکسی ](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***1⃣***
-[پروکسی ](https://t.me/proxy?server=85.133.194.115&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***2⃣***
-[پروکسی ](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
-***3⃣***
-[پروکسی ](https://t.me/proxy?server=85.133.194.109&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***4⃣***
-[پروکسی ](https://t.me/proxy?server=85.133.194.111&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***5⃣***
-***❤️***
- اشتراک گذاری یادتون نره 
-***💚***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 07:10:57 UTC
-جهت دریافت کانفیگ DNSTT
-از قسمت dnstt configs و بعد سه نقطه و بعد گزینه import from json رو میزنید و کدی که پایین گذاشتم رو بهش بدین .
-***👇***
-***👇***
-***✔️***
-***✅***
-{
-  "version": "1.2",
-  "configs": [
-    {
-      "name": "DNSTT.XYZ Germany",
-      "publicKey": "023678bec148aaaae5e03d450a1d05917129b632ca24ce1bbbd1b42bf377c36e",
-      "tunnelDomain": "tunnel.dnstt.xyz",
-      "tunnelType": "socks5"
-    },
-    {
-      "name": "DNSTT.XYZ Finland",
-      "publicKey": "a5da2ba2da39ab7dd9dca5f639b4bf02acdf8f8da2ab2d4a373dbf5ff3e0563a",
-      "tunnelDomain": "rent.snapp.autos",
-      "tunnelType": "socks5"
-    },
-    {
-      "name": "DNSTT Donated by CappyT",
-      "publicKey": "5aedf20362805d266233b94200ef8e531f6181480ad36ca6781a7ca2154ddc7a",
-      "tunnelDomain": "a.ppyt.it",
-      "tunnelType": "socks5"
-    }
-  ]
-}
-[***🧩*** نصب برنامه DNSTT ***👉***](https://t.me/hamedvpns/17309)
-***👉***
-**❤️ اشتراک گذاری یادتون نره 💚**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 06:38:25 UTC
-[#معرفی](?q=%23%D9%85%D8%B9%D8%B1%D9%81%DB%8C)
-[DNSTT.XYZ](http://DNSTT.XYZ/)
-برنامه جدید بر پایه کانفیگ های ssh و dnstt 
-تنها برنامه در نت ملی که شما را می‌تونه وارد تلگرام بکنه .
-***📍***
-دارای ۳ کانفیگ رایگان و نامحدود
-***📍***
-دارای تستر dns
-***📍***
-سریع و آسان بودن برنامه
-***✅***
- قابل اتصال در تمامی اپراتورها 
-قابل اعتماد ، متن باز و در دسترس بودن پروژه داخل گیتهاب
-[**جهت دریافت کانفیگ های رایگان ✅**](https://t.me/hamedvpns/17311)
-..
-لینک دانلود از گیت هاب :
-[https://github.com/dnstt-xyz/dnstt_xyz_app/releases](https://github.com/dnstt-xyz/dnstt_xyz_app/releases)
-لینک سایت پروژه :
-[Dnstt.xyz](http://Dnstt.xyz/)
- 
-***👈***
-***👈***
-**👈 اشتراک گذاری یادتون نره ❤️**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 05:48:04 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**mirarr-app/network-checker**
-:
-***✅***
- 
-**0.5.0**
- (0.5.0)
-**Big Update**
-- Xray core is now bundled inside the app for Android
-- CDN Scanner is added on Android for arm64. This is currently the most accurate scanner for Android.
-- Change navigation layout for Android
-- Proper icon for Windows
-- Auto check for updates from Github api on app launch
-- Added about page #18 
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/mirarr-app/network-checker/releases/tag/0.5.0)
-[𓄂𓆃](https://t.me/update_releases)
-
----
-
-### 🕒 2026-02-12 05:34:51 UTC
-کانفیگ تست مخابرات 
-***✔️***
- 
-آیپی ترکیه 
-***🇹🇷***
-vless://a22bff60-a40a-4250-bde2-4c660e363b47@104.17.83.254:8880?path=%2F0uhb7164djuh7uo0&security=&encryption=none&host=index.harmony715.workers.dev&fp=chrome&type=ws#
-***🇹🇷***
--hamedvpns 
-**👈 اشتراک گذاری یادتون نره 🫶**
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 05:23:39 UTC
-کانفیگ تست مخابرات 
-***✔️***
-آیپی آمریکا 
-***🇺🇸***
-vless://546e91b5-c33e-4b04-b20c-c0fc8f6d9d7f@nodejs.org:80?path=%2F%3Fed&security=&encryption=none&host=bIZARRe-CEntEryZCvddNcfJ.spORtLand.COmPANY.&type=ws#%F0%9F%87%BA%F0%9F%87%B8%20hp71%20-%20US%20-%20VLESS%2FWS%20-%2080
-**💚 اشتراک گذاری یادتون ✅**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 03:31:54 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
 
 ---
 

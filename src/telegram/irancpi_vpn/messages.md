@@ -1,67 +1,35 @@
 # آرشیو کانال: @irancpi_vpn
-بروزرسانی: 2026-02-14 01:07:14 UTC
+بروزرسانی: 2026-02-14 10:20:01 UTC
 
-### 🕒 2026-02-13 22:26:48 UTC
-Live stream finished (13 minutes)
+### 🕒 2026-02-14 10:13:55 UTC
+این لینک استریم هستش
+برای دوستان و آشنایان ارسال کنید
+[https://t.me/irancpi_vpn?livestream=3e637aabc800a9df5b](https://t.me/irancpi_vpn?livestream=3e637aabc800a9df5b)
 
 ---
 
-### 🕒 2026-02-13 22:13:47 UTC
+### 🕒 2026-02-14 09:53:10 UTC
+تجمع مونيخ ساعت 15:30 به وقت ايران شروع ميشه
+از الان ميتوانيد بصورت زنده  در لايو استريم اين كانال ببينيد
+
+---
+
+### 🕒 2026-02-14 09:40:15 UTC
+تا شروع تجمع مونیخ 2 ساعت باقی مانده
+
+---
+
+### 🕒 2026-02-14 09:38:22 UTC
 Live stream started
 
 ---
 
-### 🕒 2026-02-13 22:13:27 UTC
-Live stream finished (4 minutes)
+### 🕒 2026-02-14 09:38:17 UTC
+Live stream finished (54 seconds)
 
 ---
 
-### 🕒 2026-02-13 22:08:36 UTC
-Live stream started
-
----
-
-### 🕒 2026-02-13 22:07:29 UTC
-Live stream finished (38 seconds)
-
----
-
-### 🕒 2026-02-13 22:06:51 UTC
-Live stream started
-
----
-
-### 🕒 2026-02-13 22:06:41 UTC
-Live stream finished (10 seconds)
-
----
-
-### 🕒 2026-02-13 22:06:31 UTC
-Live stream started
-
----
-
-### 🕒 2026-02-13 22:06:07 UTC
-Live stream finished (3 minutes)
-
----
-
-### 🕒 2026-02-13 22:02:45 UTC
-Live stream started
-
----
-
-### 🕒 2026-02-13 21:55:18 UTC
-Live stream finished (8 minutes)
-
----
-
-### 🕒 2026-02-13 21:47:14 UTC
-Live stream started
-
----
-
-### 🕒 2026-02-13 21:43:27 UTC
+### 🕒 2026-02-14 09:37:23 UTC
 Live stream started
 
 ---

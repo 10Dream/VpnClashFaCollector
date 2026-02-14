@@ -465,23 +465,14 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 136.244.100.113:443, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 38.60.171.254:990, server: 38.60.171.254, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 57.129.95.198:11201, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: 82.38.31.184:8080, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 173.244.56.9:443, server: 173.244.56.9, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 62.146.172.134:443, server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
   - {name: 62.146.172.134:80, server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "@V2rayMiner", server: 62.146.172.130, port: 443, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
   - {name: 207.246.77.149:443, server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
   - {name: 207.246.77.149:80, server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
   - {name: 209.126.5.209:443, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
   - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
   - {name: 94.72.127.58:443, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: "@V2rayMiner 2", server: 62.146.171.57, port: 443, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
-  - {name: "@V2rayMiner 3", server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
   - {name: 154.12.240.141:443, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
   - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
   - {name: 155.138.158.179:443, server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
@@ -490,17 +481,8 @@ proxies:
   - {name: 192.200.160.20:443 2, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2e27ac27-c360-489a-86ea-8b9659de6763, servername: 639065083958064562.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/jztpmbws?ed", headers: {Host: 639065083958064562.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 3, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 573e147f-c502-486f-b823-bafa0dd3c6c5, servername: 639065083958016952.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/bzszqqws?ed", headers: {Host: 639065083958016952.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 4, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e0c0c2a-d600-4dc8-9621-d293e935048d, servername: 639065083958163454.corolla-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/huwmciws?ed", headers: {Host: 639065083958163454.corolla-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: reza.alphanet01.com:51349, server: reza.alphanet01.com, port: 51349, type: vless, tls: true, packet-encoding: xudp, uuid: 5f7e591c-97d4-4a51-a874-0e9d5665f9ed, network: ws, ws-opts: {path: "@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,@PuLaFreeBOT,@PuLaVPN,", headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.153.231:2096, server: 162.159.153.231, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.74.24.127:443, server: 80.74.24.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.27.25.72:443, server: 104.27.25.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d3a8052-09ee-48f7-8a19-3e24f30a7da1, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /uqBYRQhpA2NzSIhejwuqjz#, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.159.131.76:443, server: 78.159.131.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8741e284-6199-4a8e-ace7-c9625b68ea64, servername: al.cdn.stun.su, host: al.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: 9f6a51680da312f6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 57.129.132.223:80, server: 57.129.132.223, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9e20b04d-5a81-4e16-b421-01e502f0aac6, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443 5, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dfe27fc3-cd77-447d-8845-d3b0c22d25f7, servername: 639065083944524400.mustang-perma.info, alpn: [http/1.1], network: ws, ws-opts: {path: "/joiiqpws?ed", headers: {Host: 639065083944524400.mustang-perma.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh29v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443 2, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.33.57:8443, server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eb4234b2-8083-4038-af1d-ae752b4ad6d4, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: https://t.me/proxiconfig, server: lt-cherry-01.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff6fb512-147d-419a-9672-e131133f7189, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA, short-id: e0ef3d5c0aacb615}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -517,23 +499,14 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -542,40 +515,22 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -584,40 +539,22 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -626,17 +563,8 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -652,23 +580,14 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -677,40 +596,22 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -719,40 +620,22 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 136.244.100.113:443
-      - 38.60.171.254:990
-      - 57.129.95.198:11201
-      - 82.38.31.184:8080
-      - 82.38.31.61:8080
-      - 173.244.56.9:443
       - 62.146.172.134:443
       - 62.146.172.134:80
-      - "@V2rayMiner"
       - 207.246.77.149:443
       - 207.246.77.149:80
       - 209.126.5.209:443
       - 209.126.5.209:80
       - 94.72.127.58:443
       - 94.72.127.58:80
-      - "@V2rayMiner 2"
-      - "@V2rayMiner 3"
       - 154.12.240.141:443
       - 154.12.240.141:80
       - 155.138.158.179:443
@@ -761,17 +644,8 @@ proxy-groups:
       - 192.200.160.20:443 2
       - 192.200.160.20:443 3
       - 192.200.160.20:443 4
-      - reza.alphanet01.com:51349
-      - 162.159.153.231:2096
-      - 80.74.24.127:443
       - 104.27.25.72:443
-      - 78.159.131.76:443
-      - 57.129.132.223:80
       - 192.200.160.20:443 5
-      - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - 37.139.33.57:8443
-      - https://t.me/proxiconfig
   - name: دانلود منیجر 📥
     type: select
     proxies:

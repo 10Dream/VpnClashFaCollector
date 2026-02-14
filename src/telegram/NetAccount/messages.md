@@ -1,5 +1,58 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-14 01:04:07 UTC
+بروزرسانی: 2026-02-14 10:16:42 UTC
+
+### 🕒 2026-02-14 10:00:11 UTC
+[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ |
+
+---
+
+### 🕒 2026-02-14 07:46:32 UTC
+کانفیگ برنامه Ha Tunnel
+
+---
+
+### 🕒 2026-02-14 04:11:56 UTC
+**نورپردازی دروازه براندنبورگ برلین با شعار «آزادی برای ایران»**
+در آستانه «روز جهانی اقدام» و همزمان با برنامه ریزی برای برگزاری تجمع گسترده ایرانیان به دعوت شاهزاده رضا پهلوی در شهرهایی چون مونیخ، تورنتو و لس آنجلس، دفتر شهردار برلین با انتشار تصویری از دروازه براندنبورگ که به همین مناسبت نورپردازی شده، از همبستگی با مردم ایران خبر داد.
+در این تصویر، روی دروازه براندنبورگ شعار «Freiheit für Iran / Freedom for Iran» نقش بسته که به معنای «آزادی برای ایران» است.
+شهردار برلین در پیامی در شبکه اجتماعی ایکس نوشت: «برلین امشب نشانه‌ای آشکار از همبستگی می‌فرستد: دروازه براندنبورگ با پیام «آزادی برای ایران» نورپردازی خواهد شد تا حمایت خود را از مردم ایران که علیه خشونت و برای حقوق بنیادین به خیابان‌ها آمده‌اند نشان دهد.»
+
+---
+
+### 🕒 2026-02-14 01:17:56 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-14 01:15:20 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
 
 ### 🕒 2026-02-14 00:31:55 UTC
 [پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
@@ -394,41 +447,6 @@ I look forward to continuing to work with President Zelenskyy and am thankful fo
 `vless://1f70e732-e72d-4535-b494-a595d4df4b0b@2sudo.winapp3.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=master.red-cow.de#NetAccount`
 `vless://907ccc0f-bd56-4726-a877-d72a02125b6c@18.193.109.3:443?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
 `vless://a56d76c1-02b9-4919-90f0-3ec7afa49a2a@45.138.25.84:17399?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
-
----
-
-### 🕒 2026-02-12 05:19:03 UTC
-[https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.5&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.6&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.8&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.12&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-
----
-
-### 🕒 2026-02-12 04:05:04 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-12 02:38:49 UTC
-اینو یکی از دوستان فرستاده بود اگه براتون مقدوره انجام بدید
-لینک امضا برای بازپس گیری دعوت سازمان ملل از جمهوری اسلامی:
-[https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council](https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council)
-جمهوری اسلامی به عنوان «نایب‌رئیس کمیسیون توسعه اجتماعی سازمان ملل متحد» انتخاب شده. کمیسیونی که اولویت اصلیش ترویج دموکراسی و حقوق بشر و پرهیز از خشونته!!! (چیزی که جمهوری اسلامی هیچوقت نداشته)
-حالا این پتیشن برای جلوگیری از دعوت جمهوری اسلامی درست شده و تا الان بیش از 28 هزار امضا داشته و تا رسیدن به هدف (طبق آمار سایت) به 23 هزار امضای دیگه نیاز داره که دست شمارو میبوسه
-***❤️***
-
----
-
-### 🕒 2026-02-12 01:17:18 UTC
-**اسکات بسنت، وزیر خزانه داری آمریکا: میتوانیم پول های خارج شده توسط مقامات جمهوری اسلامی را به مردم ایران بازگردانیم**
-اسکات بسنت در گفتگو با فاکس نیوز تاکید کرد که تحریم‌ها و فشار حداکثری علیه جمهوری اسلامی موثر بوده است.
-او با اشاره به ادامه تحریم‌ها و فشار حداکثری و اعزام ناوگان دریایی نظامی عظیم آمریکا به منطقه گفت که جمهوری اسلامی فقط زبان زور را می‌فهمد.
-او در ادامه گفت: ما مقامات و پول هایی را که رهبران جمهوری اسلامی به کشورهای دیگر می‌فرستند را زیرنظر داریم و اگر از ما خواسته شود این پول‌ها را برای مردم ایران پس می‌گیریم.
 
 ---
 
