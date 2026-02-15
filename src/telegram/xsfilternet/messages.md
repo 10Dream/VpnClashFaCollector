@@ -1,5 +1,36 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-15 10:22:20 UTC
+بروزرسانی: 2026-02-15 20:20:19 UTC
+
+### 🕒 2026-02-15 20:18:06 UTC
+[https://proxyclouds.vercel.app/get](https://proxyclouds.vercel.app/get)
+[https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/4.txt](https://raw.githubusercontent.com/AvenCores/goida-vpn-configs/refs/heads/main/githubmirror/4.txt)
+[https://raw.githubusercontent.com/MrBihal/Channel-Hddify/refs/heads/main/MeLi-Shekan](https://raw.githubusercontent.com/MrBihal/Channel-Hddify/refs/heads/main/MeLi-Shekan)
+سه ساب لینک جدید که به 
+[مجموع ساب ها](https://t.me/xsfilternet/1765)
+ اضافه شد
+***🥶***
+***🚀***
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-15 11:43:36 UTC
+اولین نسخه اپلیکیشن IRBox منتشر شد
+***🔥***
+***🥶***
+این 
+[#اپلیکیشن](?q=%23%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86)
+ یک کلاینت دسکتاپ xray و sing-box برای ویندوز، مک و لینوکس هست.
+این اپلیکیشن از پروتکل های VMess، VLESS، Shadowsocks، Trojan، Hysteria2، TUIC پشتیبانی می‌کند.
+هسته پیشفرض پروژه sing-box هست و شما از تنظیمات اپلیکیشن میتونید هسته پروژه را تغییر دهید. برای sing-box دو حالت proxy و tun تکمیل شده اما برای xray فقط حالت proxy تکمیل شده.
+شما می‌توانید در اپلیکیشن تم و انیمیشن دلخواه خود را انتخاب کنید، ترافیک عبوری از وبسایت ها را کنترل کنید. (عبور از VPN، دسترسی مستقیم با ip اصلی، بلاک کردن به صورت کامل)، و همچنین انتخاب خودکار انجام دهید.
+اپلیکیشن از انواع Subscription پشتیبانی می‌کند و همچنین امکان اضافه کردن تک کانفیگ نیز دارد. شما می‌توانید لیست اشتراک ها را بروزرسانی یا حذف کنید.
+دانلود:
+[https://github.com/frank-vpl/IRBox/releases/latest](https://github.com/frank-vpl/IRBox/releases/latest)
+[@Irdevs_dns](https://t.me/Irdevs_dns)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-14 21:21:48 UTC
 آموزش ساخت 
@@ -86,95 +117,6 @@
 [162.159.195.3:878](http://162.159.195.3:878/)
 [162.159.192.8:903](http://162.159.192.8:903/)
 [@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-13 19:58:48 UTC
-آموزش دریافت #کانفیگ ۹۰ روزه نامحدود شادوساکس 
-***😎***
-  Get Free 90 Day's Shadowsocks Config   فقط کافیه لینک زیر رو باز کنید و مطابق تصاویر کانفیگ خودتون رو بصورت رایگان دریافت کنید .  لینک دریافت کانفیگ : https://freesocks.org/get  
-***👈***
-***👈***
-   یه چیز اضافه کنم ، میتونید…
-
----
-
-### 🕒 2026-02-13 19:28:39 UTC
-آموزش دریافت 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- ۹۰ روزه نامحدود شادوساکس 
-***😎***
-Get Free 90 Day's Shadowsocks Config 
-فقط کافیه لینک زیر رو باز کنید و مطابق تصاویر کانفیگ خودتون رو بصورت رایگان دریافت کنید .
-**لینک دریافت کانفیگ :**
-[https://freesocks.org/get](https://freesocks.org/get)
- 
-***👈***
-***👈***
-یه چیز اضافه کنم ، میتونید با هر بار با اتصال به یک فیلتر و آیپی دیگری ، ازش کانفیگ جدید بگیرید 
-***😁***
-..
-**❤️ اشتراک گذاری یادتون نره 💚**
-توجه:کلاینت های مختلف تست کنید
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***✅️***
-[@xsfilternet](https://t.me/xsfilternet)
- 
-***☯️***
-
----
-
-### 🕒 2026-02-13 19:25:32 UTC
-محدودیت ها از ۹ شب مجدد زیاد شده اما این بار با کاهش سرعت دانلود و آپلود این اختلال فردا ممکنه زیاد ترم بشه!
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-|
-[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-|
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-13 15:43:47 UTC
-کانفیگ نامحدود حجمی و زمانی
-***♻️***
-***🔥***
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-13 11:14:26 UTC
-کانفیگ نپسترنت مخصوص مخابرات 
-***❤️***
-لوکیشن 
-***🇵🇱***
-***🔐***
- رمز : 
-`hamedvpns`
- 
-***👉***
-***👉***
-[دانلود نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- 
-***✅***
-..
-**❤️ اشتراک گذاری یادتون نره 💚**
-..
-[@xsfilternet](https://t.me/xsfilternet)
- 
-***🧡***
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
 
 ---
 

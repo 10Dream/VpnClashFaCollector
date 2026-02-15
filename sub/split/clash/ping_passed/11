@@ -465,284 +465,91 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms |", server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 51.15.17.169, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 79.127.233.170, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 154.223.16.212, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 171.22.254.17, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 51.159.106.175, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: 57.131.38.151, port: 8443, type: ss, cipher: aes-256-gcm, password: +zFL0Y7sYQ6BRrYIJ7dXG8sUqbv2HzbRt1ZDcsvUZFs=, udp: true, tfo: false}
-  - {name: "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan", server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』", server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan117", server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | [1744]+-+Telegram+:+@configraygan", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ⚡Telegram+-+@configraygan", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan115", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server", server: 62.146.172.134, port: 443, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 2", server: 62.146.172.134, port: 80, type: ss, cipher: aes-256-gcm, password: 0tWwOErqz5fNElid, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』, server: 66.94.125.178, port: 443, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 177ms | configraygan_7, server: 66.94.125.178, port: 443, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 195ms | ***✅***@AR14N24b, server: 66.94.125.178, port: 443, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 217ms | configraygan74, server: 66.94.125.178, port: 443, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 150ms | configraygan76, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 153ms | ***✅***@AR14N24b, server: 66.94.125.178, port: 443, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 451ms | ***✅***@AR14N24b, server: 199.247.27.182, port: 443, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱, server: 199.247.27.182, port: 443, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 467ms | @meliproxyy, server: 199.247.27.182, port: 443, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 456ms | ***✅***@AR14N24b, server: 199.247.27.182, port: 80, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 465ms | @meliproxyy, server: 199.247.27.182, port: 80, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 466ms |, server: 199.247.27.182, port: 80, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱, server: 199.247.27.182, port: 80, type: ss, cipher: aes-256-gcm, password: 24osAflSxGY13B6g, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 178ms | configraygan_22, server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 187ms | configraygan118, server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』, server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 164ms | configraygan121, server: 154.12.242.150, port: 80, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』, server: 154.12.242.150, port: 80, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: 192.142.18.127, port: 443, type: ss, cipher: aes-256-gcm, password: 779b8b39-f7a0-4788-97c5-9dea443a38e7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 192.142.18.127, port: 443, type: ss, cipher: aes-256-gcm, password: 779b8b39-f7a0-4788-97c5-9dea443a38e7, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2FreeHub 🇿🇦", server: 192.142.18.127, port: 443, type: ss, cipher: aes-256-gcm, password: 779b8b39-f7a0-4788-97c5-9dea443a38e7, udp: true, tfo: false}
-  - {name: "| IT | 590ms | ***✅***@AR14N24b", server: 194.165.59.93, port: 442, type: ss, cipher: aes-256-gcm, password: 8801339e-8ed3-4389-9d1d-2f211ccf07be, udp: true, tfo: false}
-  - {name: "| IT | 592ms |", server: 194.165.59.93, port: 442, type: ss, cipher: aes-256-gcm, password: 8801339e-8ed3-4389-9d1d-2f211ccf07be, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 75ms | configraygan108, server: 154.53.60.197, port: 443, type: ss, cipher: aes-256-gcm, password: 8rb580EBG4l7tO8K, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』, server: 154.53.60.197, port: 443, type: ss, cipher: aes-256-gcm, password: 8rb580EBG4l7tO8K, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 100ms | configraygan119, server: 154.53.60.197, port: 80, type: ss, cipher: aes-256-gcm, password: 8rb580EBG4l7tO8K, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』, server: 154.53.60.197, port: 80, type: ss, cipher: aes-256-gcm, password: 8rb580EBG4l7tO8K, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1086ms | configraygan5, server: 194.233.94.119, port: 443, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1074ms | configraygan49, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1086ms | configraygan_21, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1127ms | configraygan_1127, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: "| null | 99999ms | [832]+-+Telegram+:+@configraygan", server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1068ms | @meliproxyy, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1557ms | @proxy_kafee, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b, server: 194.233.94.119, port: 80, type: ss, cipher: aes-256-gcm, password: 8t2xeemUtyui4zAv, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b, server: 2.58.81.221, port: 80, type: ss, cipher: aes-256-gcm, password: 9dQS3geeylyrRth9, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 327ms | ***✅***@AR14N24b, server: 46.250.254.170, port: 443, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 328ms | configraygan3, server: 46.250.254.170, port: 443, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 329ms | configraygan116, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 328ms | @meliproxyy, server: 46.250.254.170, port: 443, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧, server: 46.250.254.170, port: 443, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 334ms | ***✅***@AR14N24b, server: 46.250.254.170, port: 443, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 329ms |, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 346ms | ***✅***@AR14N24b, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 427ms | @meliproxyy, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
-  - {name: "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』", server: 216.238.75.111, port: 443, type: ss, cipher: aes-256-gcm, password: JhB5ado8enBhkaOe, udp: true, tfo: false}
-  - {name: "| MX | 160ms | configraygan98", server: 216.238.75.111, port: 443, type: ss, cipher: aes-256-gcm, password: JhB5ado8enBhkaOe, udp: true, tfo: false}
-  - {name: "| MX | 158ms |", server: 216.238.75.111, port: 443, type: ss, cipher: aes-256-gcm, password: JhB5ado8enBhkaOe, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 107ms | configraygan44, server: 62.146.172.130, port: 443, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 106ms | configraygan47, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: "🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan", server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 192ms | configraygan_1126, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 145ms | @p`, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 155ms | @meliproxyy, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 161ms | ***✅***@AR14N24b, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 104ms | ***✅***@AR14N24b, server: 62.146.171.59, port: 443, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』, server: 62.146.171.59, port: 443, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 95ms | configraygan114, server: 62.146.171.59, port: 443, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 124ms | configraygan113, server: 62.146.171.59, port: 80, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』, server: 62.146.171.59, port: 80, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』", server: 202.182.125.75, port: 443, type: ss, cipher: aes-256-gcm, password: NEMa1YsKzc8adFy4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan77", server: 202.182.125.75, port: 443, type: ss, cipher: aes-256-gcm, password: NEMa1YsKzc8adFy4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』", server: 202.182.125.75, port: 80, type: ss, cipher: aes-256-gcm, password: NEMa1YsKzc8adFy4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan78", server: 202.182.125.75, port: 80, type: ss, cipher: aes-256-gcm, password: NEMa1YsKzc8adFy4, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 82ms | configraygan75, server: 154.53.63.42, port: 443, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』, server: 154.53.63.42, port: 443, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 83ms | configraygan122, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 🇦🇺 | AU | 514ms |, server: 154.26.155.172, port: 80, type: ss, cipher: aes-256-gcm, password: SL4vzcvhBHhTWivD, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 327ms | configraygan1, server: 46.250.254.174, port: 443, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 343ms | ***✅***@AR14N24b, server: 46.250.254.174, port: 443, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 329ms | configraygan52, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧, server: 46.250.254.174, port: 443, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 337ms | @meliproxyy, server: 46.250.254.174, port: 443, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 338ms | ***✅***@AR14N24b, server: 46.250.254.174, port: 443, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 327ms |, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 328ms | @meliproxyy 2, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 336ms | ***✅***@AR14N24b, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 332ms | ***✅***@AR14N24b, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』", server: 38.54.29.82, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: "| GR | 711ms | @v2FreeHub 🇬🇷", server: 38.54.29.82, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: "| GR | 723ms | @meliproxyy", server: 38.54.29.82, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: "| GR | 755ms | @proxy_kafee", server: 38.54.29.82, port: 9090, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 1036ms |, server: 149.102.132.186, port: 80, type: ss, cipher: aes-256-gcm, password: YhzqOeJsfuZ9rkkc, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧, server: 149.102.132.180, port: 443, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 709ms | @meliproxyy, server: 149.102.132.180, port: 443, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 754ms | ***✅***@AR14N24b, server: 149.102.132.180, port: 443, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 700ms | @meliproxyy, server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧, server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 723ms |, server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 723ms | ***✅***@AR14N24b, server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 4863ms | configraygan110, server: 154.53.60.212, port: 443, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』", server: 154.53.60.212, port: 443, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1418ms | configraygan2, server: 154.53.60.212, port: 80, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: ss.020.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: b0c9d775-32f7-459a-b24d-ecda7c9f3720, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: ss.020.node-for-bigairport.win, port: 11688, type: ss, cipher: aes-256-gcm, password: b0c9d775-32f7-459a-b24d-ecda7c9f3720, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @`", server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』", server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 3", server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan107", server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_19", server: 207.246.77.149, port: 443, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』", server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 4", server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan104", server: 207.246.77.149, port: 80, type: ss, cipher: aes-256-gcm, password: eLNjcszqsz1OfvSl, udp: true, tfo: false}
-  - {name: "| SA | 1069ms | configraygan_1170", server: 156.244.8.155, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true, tfo: false}
-  - {name: "| SA | 1080ms | configraygan_1168", server: 156.244.8.155, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 12", server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 12", server: 38.54.20.59, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 13", server: 38.54.20.59, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 264ms | configraygan_18, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 331ms | configraygan111, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 351ms | configraygan120, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 394ms | configraygan_20, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 419ms | configraygan_11, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 422ms | ***✅***@AR14N24b, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 402ms | Server, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 325ms | Server, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 311ms | ***✅***@AR14N24b, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3190ms | configraygan101, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3991ms | configraygan100, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3992ms |, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 4004ms | ***✅***@AR14N24b, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 3195ms |, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 553ms | configraygan7, server: 46.250.234.115, port: 443, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: "🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan", server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 525ms | configraygan42, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 537ms | configraygan_9, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 551ms | ***✅***@AR14N24b, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 555ms | configraygan_1129, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 539ms | @proxy_kafee, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 567ms | ***✅***@AR14N24b, server: 46.250.234.115, port: 80, type: ss, cipher: aes-256-gcm, password: jMogNXXk08l2JK0N, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 754ms | @proxy_kafee, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 770ms | configraygan103, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 821ms | Server, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 693ms | configraygan105, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 714ms | @meliproxyy, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 685ms | ***✅***@AR14N24b, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 663ms | ***✅***@AR14N24b, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 5", server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 359ms | configraygan_6, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 361ms | configraygan_1209, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 367ms | configraygan45, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 372ms | ***✅***@AR14N24b, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 348ms | configraygan30, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 360ms | ***✅***@AR14N24b, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 355ms | @meliproxyy, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 349ms | ***✅***@AR14N24b, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 466ms | @meliproxyy, server: 149.102.132.184, port: 443, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 473ms | ***✅***@AR14N24b, server: 149.102.132.184, port: 443, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 491ms |, server: 149.102.132.184, port: 443, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧, server: 149.102.132.184, port: 443, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 455ms | @meliproxyy, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 469ms | ***✅***@AR14N24b, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 488ms |, server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 160ms | configraygan_1123, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 169ms | @proxy_kafee, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 192ms | Server, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 207ms | configraygan106, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 140ms | configraygan112, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 168ms | Server, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 174ms | @proxy_kafee, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 189ms | configraygan_1124, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 230ms | ***✅***@AR14N24b, server: 154.12.240.141, port: 443, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 365ms | configraygan_5, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 377ms | configraygan50, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 383ms | ***✅***@AR14N24b, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 372ms | configraygan85, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 382ms | ***✅***@AR14N24b, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 130ms | configraygan_1208, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 134ms | configraygan86, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 109ms | ***✅***@AR14N24b, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 128ms | configraygan_1207, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 140ms | configraygan_10, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 142ms | configraygan17, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 134ms | @meliproxyy, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 111ms | @`, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 118ms | @meliproxyy, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 102ms | ***✅***@AR14N24b, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 481ms | configraygan14, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 494ms | configraygan12, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 473ms |, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 490ms | ***✅***@AR14N24b, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 475ms | @proxy_kafee🙂1, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 77ms | ***✅***@AR14N24b, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 77ms | configraygan6, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 81ms | configraygan_1206, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 82ms | configraygan_8, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 76ms | configraygan20, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 88ms | configraygan_1205, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 90ms | @meliproxyy, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 91ms | @proxy_kafee, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 89ms | ***✅***@AR14N24b, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 86ms | @meliproxyy, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 86ms | @proxy_kafee, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan109", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_9", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan102", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_17", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 6", server: 155.138.158.179, port: 443, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Server 7", server: 155.138.158.179, port: 80, type: ss, cipher: aes-256-gcm, password: yWIyuq3Hc2wlsv0i, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1074ms | configraygan15, server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b, server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 1078ms |, server: 45.77.253.107, port: 443, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
-  - {name: "| null | 99999ms | [833]+-+Telegram+:+@configraygan", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
-  - {name: "| null | 99999ms | configraygan_1128", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee 2", server: 45.77.253.107, port: 80, type: ss, cipher: aes-256-gcm, password: zwjlU97tBKtPJPB5, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 506ms |, server: 37.60.250.243, port: 20558, type: ss, cipher: chacha20-ietf-poly1305, password: 455c15bc175b4d74, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 494ms |, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 523ms | ***✅***@AR14N24b, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: "| KH | 832ms | ***✅***@AR14N24b", server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
+  - {name: "| KH | 848ms | ⚡Telegram+-+@configraygan", server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
+  - {name: "| KH | 853ms |", server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 666ms |, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 667ms | @meliproxyy, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 676ms | configraygan_36, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 692ms | ***✅***@AR14N24b, server: 95.142.47.40, port: 62238, type: ss, cipher: chacha20-ietf-poly1305, password: 5y5cwrCR8Iun5nlMSFS8uJ, udp: true, tfo: false}
+  - {name: "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| SA | 1205ms | ***✅***@AR14N24b", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| SA | 1206ms |", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 38.60.224.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 651df5dc8fd08d0c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 38.60.224.37, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 651df5dc8fd08d0c, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 551ms |, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 625ms | ***✅***@AR14N24b, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: 🇬🇧 | GB | 628ms |, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: "🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan", server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: "| EG | 730ms |", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| EG | 730ms | ***✅***@AR14N24b", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| EG | 752ms | ⚡Telegram+-+@configraygan", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| EG | 759ms | configraygan_40", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 528ms | ***✅***@AR14N24b, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan", server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 547ms |, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan", server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
+  - {name: 🇮🇳 | IN | 685ms | ***✅***@AR14N24b, server: 163.171.206.24, port: 28028, type: ss, cipher: chacha20-ietf-poly1305, password: 735582e51328af99, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 480ms | ***✅***@AR14N24b, server: 57.130.28.148, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 74918bc801d53a4b, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: 194.233.73.51, port: 14453, type: ss, cipher: chacha20-ietf-poly1305, password: 764a4d8c1c76eb50, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 194.233.73.51, port: 14453, type: ss, cipher: chacha20-ietf-poly1305, password: 764a4d8c1c76eb50, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 568ms | ***✅***@AR14N24b, server: 154.26.156.99, port: 47385, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 559ms | ***✅***@AR14N24b, server: 154.26.156.99, port: 47386, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 564ms | ***✅***@AR14N24b, server: 154.26.156.99, port: 47387, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 560ms | ***✅***@AR14N24b, server: 154.26.156.99, port: 47388, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: 154.26.156.99, port: 47385, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 154.26.156.99, port: 47385, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: 154.26.156.99, port: 47386, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 154.26.156.99, port: 47386, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: 154.26.156.99, port: 47387, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: 154.26.156.99, port: 47387, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: 154.26.156.99, port: 47388, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: 154.26.156.99, port: 47388, type: ss, cipher: chacha20-ietf-poly1305, password: 78322e4b934870b6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: 51.89.216.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0c8cfe8540fdbe, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: 51.89.216.184, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a0c8cfe8540fdbe, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: 51.89.118.58, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a63df1a001759bf, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 12", server: 51.89.118.58, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7a63df1a001759bf, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b, server: 194.233.73.51, port: 48801, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 620ms | ***✅***@AR14N24b, server: 194.233.73.51, port: 48802, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b, server: 194.233.73.51, port: 48803, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 13", server: 194.233.73.51, port: 48801, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 13", server: 194.233.73.51, port: 48801, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 14", server: 194.233.73.51, port: 48802, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 14", server: 194.233.73.51, port: 48802, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 15", server: 194.233.73.51, port: 48803, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 15", server: 194.233.73.51, port: 48803, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 16", server: 194.233.73.51, port: 48804, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 16", server: 194.233.73.51, port: 48804, type: ss, cipher: chacha20-ietf-poly1305, password: 7afa39016d5a409c, udp: true, tfo: false}
+  - {name: "| MX | 246ms |", server: 89.223.88.33, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7c31a67b41b18c26, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 311ms | ***✅***@AR14N24b, server: 147.135.77.6, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7f9cb9aef317f096, udp: true, tfo: false}
+  - {name: "| FI | 1908ms | ***✅***@AR14N24b", server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 7jb7u4FLeToDBKdjWd18tteiuY9MRhpdmySzbDRGzhtRCH2JxshKFUjsBv6kY5sjGXPtD9wwCqJfSn4ee8JmUUrrmco3FFj2, udp: true, tfo: false}
+  - {name: "| FI | 2183ms | Server", server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 7jb7u4FLeToDBKdjWd18tteiuY9MRhpdmySzbDRGzhtRCH2JxshKFUjsBv6kY5sjGXPtD9wwCqJfSn4ee8JmUUrrmco3FFj2, udp: true, tfo: false}
+  - {name: "| FI | 2184ms |", server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 7jb7u4FLeToDBKdjWd18tteiuY9MRhpdmySzbDRGzhtRCH2JxshKFUjsBv6kY5sjGXPtD9wwCqJfSn4ee8JmUUrrmco3FFj2, udp: true, tfo: false}
+  - {name: "| KH | 831ms | ***✅***@AR14N24b", server: 38.54.93.205, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 80bcc0874d39c391, udp: true, tfo: false}
+  - {name: "| KH | 837ms |", server: 38.54.93.205, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 80bcc0874d39c391, udp: true, tfo: false}
+  - {name: "| KH | 851ms | ⚡Telegram+-+@configraygan", server: 38.54.93.205, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 80bcc0874d39c391, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 17", server: 38.54.93.205, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 80bcc0874d39c391, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 17", server: 38.54.93.205, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 80bcc0874d39c391, udp: true, tfo: false}
+  - {name: "| KW | 1024ms | ⚡Telegram+-+@configraygan", server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: "| KW | 990ms | ***✅***@AR14N24b", server: 163.171.181.49, port: 42933, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: "| KW | 1011ms | ***✅***@AR14N24b", server: 163.171.181.49, port: 42934, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: "| KW | 757ms | ⚡Telegram+-+@configraygan", server: 163.171.181.49, port: 42934, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
+  - {name: "| KW | 1031ms | ***✅***@AR14N24b", server: 163.171.181.49, port: 42935, type: ss, cipher: chacha20-ietf-poly1305, password: 877c3b069c335ffc, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -761,282 +568,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1045,282 +659,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1329,282 +750,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1622,282 +850,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1906,282 +941,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -2190,282 +1032,89 @@ proxy-groups:
     proxies:
       - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
+      - 🇫🇷 | FR | 506ms |
+      - 🇳🇱 | NL | 494ms |
+      - 🇳🇱 | NL | 523ms | ***✅***@AR14N24b
+      - "| KH | 832ms | ***✅***@AR14N24b"
+      - "| KH | 848ms | ⚡Telegram+-+@configraygan"
+      - "| KH | 853ms |"
       - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - 🇷🇺 | RU | 666ms |
+      - 🇷🇺 | RU | 667ms | @meliproxyy
+      - 🇷🇺 | RU | 673ms | @v2FreeHub 🇷🇺
+      - 🇷🇺 | RU | 676ms | configraygan_36
+      - 🇷🇺 | RU | 692ms | ***✅***@AR14N24b
+      - "| SA | 1073ms | [2964]+-+Telegram+:+@configraygan"
+      - "| SA | 1173ms | [1791]+-+Telegram+:+@configraygan"
+      - "| SA | 1205ms | ***✅***@AR14N24b"
+      - "| SA | 1206ms |"
       - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
       - "| null | 99999ms | 4"
-      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - 🇩🇪 | DE | 551ms |
+      - 🇬🇧 | GB | 625ms | ***✅***@AR14N24b
+      - 🇬🇧 | GB | 628ms |
+      - 🇬🇧 | GB | 811ms | [2955]+-+Telegram+:+@configraygan
+      - 🇺🇦 | UA | 2401ms | ***✅***@AR14N24b
+      - "| EG | 730ms |"
+      - "| EG | 730ms | ***✅***@AR14N24b"
+      - "| EG | 741ms | 💎+|+@configraygan『🇩🇪⁹³』"
+      - "| EG | 752ms | ⚡Telegram+-+@configraygan"
+      - "| EG | 759ms | configraygan_40"
       - "| null | 99999ms | 5"
-      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - 🇩🇪 | DE | 528ms | ***✅***@AR14N24b
+      - 🇩🇪 | DE | 529ms | [1768]+-+Telegram+:+@configraygan
+      - 🇩🇪 | DE | 547ms |
+      - 🇩🇪 | DE | 558ms | [1767]+-+Telegram+:+@configraygan
+      - 🇮🇳 | IN | 685ms | ***✅***@AR14N24b
+      - 🇫🇷 | FR | 480ms | ***✅***@AR14N24b
       - "| null | 99999ms | 6"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁸』"
-      - "| null | 99999ms | configraygan117"
-      - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | [1744]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 2"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁶』"
-      - "| null | 99999ms | configraygan115"
-      - "| null | 99999ms | Server"
-      - "| null | 99999ms | Server 2"
-      - 🇺🇸 | US | 144ms | 🚀+|+@configraygan『🇮🇷¹⁴⁹』
-      - 🇺🇸 | US | 177ms | configraygan_7
-      - 🇺🇸 | US | 195ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 217ms | configraygan74
-      - 🇺🇸 | US | 150ms | configraygan76
-      - 🇺🇸 | US | 182ms | 🚀+|+@configraygan『🇮🇷¹⁵¹』
-      - 🇺🇸 | US | 153ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 451ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 457ms | @v2FreeHub 🇳🇱
-      - 🇳🇱 | NL | 467ms | @meliproxyy
-      - 🇳🇱 | NL | 456ms | ***✅***@AR14N24b
-      - 🇳🇱 | NL | 465ms | @meliproxyy
-      - 🇳🇱 | NL | 466ms |
-      - 🇳🇱 | NL | 476ms | @v2FreeHub 🇳🇱
-      - 🇺🇸 | US | 178ms | configraygan_22
-      - 🇺🇸 | US | 187ms | configraygan118
-      - 🇺🇸 | US | 188ms | 🚀+|+@configraygan『🇮🇷¹³⁹』
-      - 🇺🇸 | US | 164ms | configraygan121
-      - 🇺🇸 | US | 165ms | 🚀+|+@configraygan『🇮🇷¹⁰⁵』
-      - "| null | 99999ms | ***✅***@AR14N24b 9"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @v2FreeHub 🇿🇦"
-      - "| IT | 590ms | ***✅***@AR14N24b"
-      - "| IT | 592ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - 🇦🇺 | AU | 568ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 559ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 564ms | ***✅***@AR14N24b
+      - 🇦🇺 | AU | 560ms | ***✅***@AR14N24b
       - "| null | 99999ms | 7"
-      - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
       - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
       - "| null | 99999ms | 9"
-      - 🇺🇸 | US | 75ms | configraygan108
-      - 🇺🇸 | US | 79ms | 🚀+|+@configraygan『🇮🇷¹²⁹』
-      - 🇺🇸 | US | 100ms | configraygan119
-      - 🇺🇸 | US | 81ms | 🚀+|+@configraygan『🇮🇷¹⁴⁰』
-      - 🇸🇬 | SG | 1086ms | configraygan5
-      - 🇸🇬 | SG | 1074ms | configraygan49
-      - 🇸🇬 | SG | 1076ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1086ms | configraygan_21
-      - 🇸🇬 | SG | 1106ms | 🚀+|+@configraygan『🇮🇷¹⁷¹』
-      - 🇸🇬 | SG | 1127ms | configraygan_1127
-      - "| null | 99999ms | [832]+-+Telegram+:+@configraygan"
-      - 🇸🇬 | SG | 1068ms | @meliproxyy
-      - 🇸🇬 | SG | 1205ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1557ms | @proxy_kafee
-      - 🇸🇬 | SG | 1034ms | ***✅***@AR14N24b
-      - 🇩🇪 | DE | 1077ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 328ms | configraygan3
-      - 🇯🇵 | JP | 329ms | 🚀+|+@configraygan『🇮🇷¹³⁷』
-      - 🇯🇵 | JP | 329ms | configraygan116
-      - 🇯🇵 | JP | 328ms | @meliproxyy
-      - 🇯🇵 | JP | 328ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 334ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms |
-      - 🇯🇵 | JP | 343ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 346ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 427ms | @meliproxyy
-      - "| MX | 156ms | 🚀+|+@configraygan『🇮🇷¹¹⁹』"
-      - "| MX | 160ms | configraygan98"
-      - "| MX | 158ms |"
-      - 🇺🇸 | US | 107ms | configraygan44
-      - 🇺🇸 | US | 106ms | configraygan47
-      - 🇺🇸 | US | 114ms | [831]+-+Telegram+:+@configraygan
-      - 🇺🇸 | US | 192ms | configraygan_1126
-      - 🇺🇸 | US | 145ms | @p`
-      - 🇺🇸 | US | 155ms | @meliproxyy
-      - 🇺🇸 | US | 161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 211ms | 🚀+|+@configraygan『🇮🇷¹³⁵』
-      - 🇺🇸 | US | 95ms | configraygan114
-      - 🇺🇸 | US | 124ms | configraygan113
-      - 🇺🇸 | US | 93ms | 🚀+|+@configraygan『🇮🇷¹³⁴』
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵²』"
-      - "| null | 99999ms | configraygan77"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹⁵³』"
-      - "| null | 99999ms | configraygan78"
-      - 🇺🇸 | US | 82ms | configraygan75
-      - 🇺🇸 | US | 95ms | 🚀+|+@configraygan『🇮🇷¹⁵⁰』
-      - 🇺🇸 | US | 83ms | configraygan122
-      - 🇺🇸 | US | 92ms | 🚀+|+@configraygan『🇮🇷¹⁰⁶』
-      - 🇦🇺 | AU | 514ms |
-      - 🇯🇵 | JP | 327ms | configraygan1
-      - 🇯🇵 | JP | 343ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 329ms | configraygan52
-      - 🇯🇵 | JP | 330ms | 🚀+|+@configraygan『🇮🇷¹⁷⁴』
-      - 🇯🇵 | JP | 336ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 337ms | @meliproxyy
-      - 🇯🇵 | JP | 338ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 327ms |
-      - 🇯🇵 | JP | 327ms | @v2FreeHub 🇬🇧
-      - 🇯🇵 | JP | 328ms | @meliproxyy 2
-      - 🇯🇵 | JP | 336ms | ***✅***@AR14N24b
-      - 🇯🇵 | JP | 332ms | ***✅***@AR14N24b
-      - "| GR | 738ms | 🚀+|+@configraygan『🇩🇪¹⁸』"
-      - "| GR | 711ms | @v2FreeHub 🇬🇷"
-      - "| GR | 723ms | @meliproxyy"
-      - "| GR | 755ms | @proxy_kafee"
-      - 🇬🇧 | GB | 1036ms |
-      - 🇬🇧 | GB | 696ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 709ms | @meliproxyy
-      - 🇬🇧 | GB | 754ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 700ms | @meliproxyy
-      - 🇬🇧 | GB | 718ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 723ms |
-      - 🇬🇧 | GB | 723ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4863ms | configraygan110
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³¹』"
-      - 🇺🇸 | US | 1418ms | configraygan2
+      - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | 10"
-      - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | @`"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁸』"
-      - "| null | 99999ms | Server 3"
-      - "| null | 99999ms | configraygan107"
-      - "| null | 99999ms | configraygan_19"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²⁵』"
-      - "| null | 99999ms | Server 4"
-      - "| null | 99999ms | configraygan104"
-      - "| SA | 1069ms | configraygan_1170"
-      - "| SA | 1080ms | configraygan_1168"
+      - "| null | 99999ms | ***✅***@AR14N24b 10"
       - "| null | 99999ms | 11"
-      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 11"
       - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇸🇬 | SG | 2094ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 620ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 4747ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 13"
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - 🇺🇸 | US | 228ms | 🚀+|+@configraygan『🇮🇷¹³²』
-      - 🇺🇸 | US | 234ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 264ms | configraygan_18
-      - 🇺🇸 | US | 331ms | configraygan111
-      - 🇺🇸 | US | 318ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 336ms | 🚀+|+@configraygan『🇮🇷¹⁴¹』
-      - 🇺🇸 | US | 351ms | configraygan120
-      - 🇺🇸 | US | 394ms | configraygan_20
-      - 🇺🇸 | US | 419ms | configraygan_11
-      - 🇺🇸 | US | 422ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 402ms | Server
-      - 🇺🇸 | US | 325ms | Server
+      - "| null | 99999ms | 14"
+      - "| null | 99999ms | ***✅***@AR14N24b 14"
+      - "| null | 99999ms | 15"
+      - "| null | 99999ms | ***✅***@AR14N24b 15"
+      - "| null | 99999ms | 16"
+      - "| null | 99999ms | ***✅***@AR14N24b 16"
+      - "| MX | 246ms |"
       - 🇺🇸 | US | 311ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3190ms | configraygan101
-      - 🇺🇸 | US | 3202ms | 🚀+|+@configraygan『🇮🇷¹²²』
-      - 🇺🇸 | US | 3979ms | 🚀+|+@configraygan『🇮🇷¹²¹』
-      - 🇺🇸 | US | 3991ms | configraygan100
-      - 🇺🇸 | US | 3992ms |
-      - 🇺🇸 | US | 4004ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 3195ms |
-      - 🇸🇬 | SG | 553ms | configraygan7
-      - 🇸🇬 | SG | 513ms | [834]+-+Telegram+:+@configraygan
-      - 🇸🇬 | SG | 525ms | configraygan42
-      - 🇸🇬 | SG | 537ms | 🚀+|+@configraygan『🇷🇺²⁰¹』
-      - 🇸🇬 | SG | 537ms | configraygan_9
-      - 🇸🇬 | SG | 551ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 555ms | configraygan_1129
-      - 🇸🇬 | SG | 539ms | @proxy_kafee
-      - 🇸🇬 | SG | 567ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 754ms | @proxy_kafee
-      - 🇺🇸 | US | 756ms | 🚀+|+@configraygan『🇮🇷¹²⁴』
-      - 🇺🇸 | US | 770ms | configraygan103
-      - 🇺🇸 | US | 776ms | 🚀+|+@configraygan『🇩🇪¹¹』
-      - 🇺🇸 | US | 821ms | Server
-      - 🇺🇸 | US | 693ms | configraygan105
-      - 🇺🇸 | US | 710ms | جوین+چنل+شید+قط+نشید@configraygan
-      - 🇺🇸 | US | 714ms | 🚀+|+@configraygan『🇮🇷¹²⁶』
-      - 🇺🇸 | US | 163ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 714ms | @meliproxyy
-      - 🇺🇸 | US | 685ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 663ms | ***✅***@AR14N24b
-      - "| null | 99999ms | Server 5"
-      - 🇺🇸 | US | 359ms | configraygan_6
-      - 🇺🇸 | US | 361ms | configraygan_1209
-      - 🇺🇸 | US | 367ms | configraygan45
-      - 🇺🇸 | US | 372ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 376ms | 🚀+|+@configraygan『🇩🇪¹²』
-      - 🇺🇸 | US | 348ms | configraygan30
-      - 🇺🇸 | US | 357ms | 🚀+|+@configraygan『🇷🇺¹⁸⁹』
-      - 🇺🇸 | US | 360ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 354ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 355ms | @meliproxyy
-      - 🇺🇸 | US | 349ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 466ms | @meliproxyy
-      - 🇬🇧 | GB | 473ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 491ms |
-      - 🇬🇧 | GB | 492ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 455ms | @meliproxyy
-      - 🇬🇧 | GB | 461ms | @v2FreeHub 🇬🇧
-      - 🇬🇧 | GB | 462ms | ***✅***@AR14N24b`
-      - 🇬🇧 | GB | 469ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 488ms |
-      - 🇺🇸 | US | 160ms | configraygan_1123
-      - 🇺🇸 | US | 169ms | @proxy_kafee
-      - 🇺🇸 | US | 192ms | Server
-      - 🇺🇸 | US | 207ms | configraygan106
-      - 🇺🇸 | US | 225ms | 🚀+|+@configraygan『🇮🇷¹²⁷』
-      - 🇺🇸 | US | 140ms | configraygan112
-      - 🇺🇸 | US | 168ms | 🚀+|+@configraygan『🇮🇷¹³³』
-      - 🇺🇸 | US | 168ms | Server
-      - 🇺🇸 | US | 174ms | @proxy_kafee
-      - 🇺🇸 | US | 189ms | configraygan_1124
-      - 🇺🇸 | US | 230ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 365ms | configraygan_5
-      - 🇺🇸 | US | 377ms | configraygan50
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 387ms | 🚀+|+@configraygan『🇮🇷¹⁷²』
-      - 🇺🇸 | US | 372ms | configraygan85
-      - 🇺🇸 | US | 378ms | 🚀+|+@configraygan『🇮🇷¹⁶⁰』
-      - 🇺🇸 | US | 382ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 115ms | 🚀+|+@configraygan『🇩🇪¹³』
-      - 🇺🇸 | US | 130ms | configraygan_1208
-      - 🇺🇸 | US | 134ms | configraygan86
-      - 🇺🇸 | US | 138ms | 🚀+|+@configraygan『🇮🇷¹⁶¹』
-      - 🇺🇸 | US | 109ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 128ms | configraygan_1207
-      - 🇺🇸 | US | 140ms | configraygan_10
-      - 🇺🇸 | US | 142ms | configraygan17
-      - 🇺🇸 | US | 98ms | 🚀+|+@configraygan『🇩🇪¹⁴』
-      - 🇺🇸 | US | 125ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 134ms | @meliproxyy
-      - 🇺🇸 | US | 111ms | @`
-      - 🇺🇸 | US | 118ms | @meliproxyy
-      - 🇺🇸 | US | 118ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 102ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 481ms | configraygan14
-      - 🇬🇧 | GB | 494ms | configraygan12
-      - 🇬🇧 | GB | 473ms |
-      - 🇬🇧 | GB | 490ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 475ms | @proxy_kafee🙂1
-      - 🇺🇸 | US | 77ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 77ms | 🚀+|+@configraygan『🇩🇪¹⁵』
-      - 🇺🇸 | US | 77ms | configraygan6
-      - 🇺🇸 | US | 81ms | configraygan_1206
-      - 🇺🇸 | US | 82ms | configraygan_8
-      - 🇺🇸 | US | 76ms | configraygan20
-      - 🇺🇸 | US | 84ms | 🚀+|+@configraygan『🇩🇪¹⁶』
-      - 🇺🇸 | US | 88ms | configraygan_1205
-      - 🇺🇸 | US | 82ms | @v2FreeHub 🇺🇸
-      - 🇺🇸 | US | 90ms | @meliproxyy
-      - 🇺🇸 | US | 91ms | @proxy_kafee
-      - 🇺🇸 | US | 89ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 86ms | @meliproxyy
-      - 🇺🇸 | US | 86ms | @proxy_kafee
-      - 🇺🇸 | US | 86ms | @v2FreeHub 🇺🇸
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 3"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹³⁰』"
-      - "| null | 99999ms | configraygan109"
-      - "| null | 99999ms | configraygan_9"
-      - "| null | 99999ms | جوین+چنل+شید+قط+نشید@configraygan 4"
-      - "| null | 99999ms | 🚀+|+@configraygan『🇮🇷¹²³』"
-      - "| null | 99999ms | configraygan102"
-      - "| null | 99999ms | configraygan_17"
-      - "| null | 99999ms | Server 6"
-      - "| null | 99999ms | Server 7"
-      - 🇸🇬 | SG | 1074ms | configraygan15
-      - 🇸🇬 | SG | 1075ms | ***✅***@AR14N24b
-      - 🇸🇬 | SG | 1078ms |
-      - "| null | 99999ms | [833]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | configraygan_1128"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - "| FI | 1908ms | ***✅***@AR14N24b"
+      - "| FI | 2183ms | Server"
+      - "| FI | 2184ms |"
+      - "| KH | 831ms | ***✅***@AR14N24b"
+      - "| KH | 837ms |"
+      - "| KH | 851ms | ⚡Telegram+-+@configraygan"
+      - "| null | 99999ms | 17"
+      - "| null | 99999ms | ***✅***@AR14N24b 17"
+      - "| KW | 1024ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 990ms | ***✅***@AR14N24b"
+      - "| KW | 1011ms | ***✅***@AR14N24b"
+      - "| KW | 757ms | ⚡Telegram+-+@configraygan"
+      - "| KW | 1031ms | ***✅***@AR14N24b"
   - name: دانلود منیجر 📥
     type: select
     proxies:

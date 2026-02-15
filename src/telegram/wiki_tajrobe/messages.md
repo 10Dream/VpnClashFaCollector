@@ -1,5 +1,5 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-15 10:22:14 UTC
+بروزرسانی: 2026-02-15 20:20:16 UTC
 
 ### 🕒 2026-02-15 05:12:58 UTC
 مخابرات:
@@ -98,30 +98,6 @@ vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?security=r
 ***🚀***
  
 [@PayamServerbot](https://t.me/PayamServerbot)
-
----
-
-### 🕒 2026-02-13 20:17:11 UTC
-***🏢***
- پروفایل: عمران آذرستان
-***✨***
- نوع تجربه: تجربه کاری
-***💰***
- حقوق: 100 میلیون تومان
-میزان درآمد بسیار زیادی که صاحبان این شرکت خانواده زو*** از رانت خود با پروژه نیروگاه اتمی بوشهر بدست میارن و قراردادی که...
-[https://tajrobe.wiki/review/Oxokr](https://tajrobe.wiki/review/Oxokr)
-
----
-
-### 🕒 2026-02-13 19:05:51 UTC
-همراه اول:
-vless://a992c7a6-832b-4243-a294-d34783d0294c@185.238.228.46:443?path=%2Fv2rayroad&security=tls&encryption=none&insecure=0&host=hotchoclate.graphapp.ir&fp=chrome&type=ws&allowInsecure=0&sni=hotchoclate.graphapp.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://df8333c5-f35a-4007-aa21-54c705a8e17a@fip.lightningdns.ir:443?path=%2Fwst%3Fed%3D2056&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=parsianmobilebank.ir&fp=chrome&type=ws&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@K10.FASTSPEEDS.IR:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=nl-node-m1.jadobet1.store#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@K10.FASTSPEEDS.IR:8443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=de-node-m1.jadobet1.store#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
 
 ---
 

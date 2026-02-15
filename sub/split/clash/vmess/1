@@ -477,24 +477,6 @@ proxies:
   - {name: configraygan_12, server: 57.128.216.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws#TM (@AZARBAYJAB1)TM (@AZARBAYJAB1)TM (@AZARBAYJAB1), headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: "[3010] - Telegram : @configraygan", server: 57.129.132.223, port: 80, type: vmess, uuid: a25cbf11-2908-4a1b-a3a8-9a571777dca3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: configraygan 17, server: 57.129.132.223, port: 80, type: vmess, uuid: a25cbf11-2908-4a1b-a3a8-9a571777dca3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: google.com}}, udp: true, tfo: false}
-  - {name: configraygan_7, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: aveiror.com, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: "[2923] - Telegram : @configraygan", server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: configraygan_3, server: 57.129.24.132, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: serkat.org, network: ws, ws-opts: {path: linkvws, headers: {Host: serkat.org}}, udp: true, tfo: false}
-  - {name: "| @configraygan‎🇩🇪¹�⁹』", server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 57.129.25.20, network: ws, ws-opts: {path: linkvws, headers: {Host: 57.129.25.20}}, udp: true, tfo: false}
-  - {name: configraygan_4, server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
-  - {name: configraygan_6, server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c3kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}, udp: true, tfo: false}
-  - {name: configraygan_2, server: 57.129.25.23, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws}, udp: true, tfo: false}
-  - {name: configraygan_1, server: 57.129.25.24, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
-  - {name: configraygan_9, server: 57.129.25.26, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
-  - {name: "@iphone02016vpn آلمان", server: 57.129.28.214, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: "[1769] - Telegram : @configraygan", server: 57.129.28.214, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2, server: 57.129.28.63, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}, udp: true, tfo: false}
-  - {name: configraygan_11, server: 57.129.59.199, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws#TM (@AZARBAYJAB1)TM (@AZARBAYJAB1)TM (@AZARBAYJAB1), headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: "[1818] - Telegram : @configraygan", server: 91.134.8.101, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}, udp: true, tfo: false}
-  - {name: "[2967] - Telegram : @configraygan", server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan_10, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @SOSkeyNET 3, server: 104.19.174.68, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -523,24 +505,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -559,24 +523,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -595,24 +541,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -640,24 +568,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -676,24 +586,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -712,24 +604,6 @@ proxy-groups:
       - configraygan_12
       - "[3010] - Telegram : @configraygan"
       - configraygan 17
-      - configraygan_7
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
-      - "[2923] - Telegram : @configraygan"
-      - configraygan_3
-      - "| @configraygan‎🇩🇪¹�⁹』"
-      - configraygan_4
-      - configraygan_6
-      - configraygan_2
-      - configraygan_1
-      - configraygan_9
-      - "@iphone02016vpn آلمان"
-      - "[1769] - Telegram : @configraygan"
-      - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
-      - configraygan_11
-      - "[1818] - Telegram : @configraygan"
-      - "[2967] - Telegram : @configraygan"
-      - configraygan_10
-      - ⚡️Telegram - @SOSkeyNET 3
   - name: دانلود منیجر 📥
     type: select
     proxies:

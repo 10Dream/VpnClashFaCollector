@@ -465,44 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms |", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 165.154.112.107, port: 12000, type: trojan, password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 165.154.112.107, port: 12000, type: trojan, password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | [1750]+-+Telegram+:+@configraygan", server: 165.154.112.107, port: 12000, type: trojan, password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ⚡Telegram+-+@configraygan", server: 165.154.112.107, port: 12000, type: trojan, password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: wangcai.cf.877774.xyz, port: 443, type: trojan, password: 19877587-ed94-4033-88cd-4ac50a5e8718, sni: dimskiee.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /WangCai-8, headers: {Host: dimskiee.biz.id}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: wangcai.cf.877774.xyz, port: 443, type: trojan, password: 19877587-ed94-4033-88cd-4ac50a5e8718, sni: dimskiee.biz.id, skip-cert-verify: false, network: ws, ws-opts: {path: /WangCai-8, headers: {Host: dimskiee.biz.id}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 577ms | ***✅***@AR14N24b, server: bbbnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: bbbnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 698ms |, server: bbbnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: bbbnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 415ms | ***✅***@AR14N24b, server: bbbnmju.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmju.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: bbbnmju.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 619ms |, server: bbbnmju.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmju.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: bbbnmju.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 556ms |, server: dddfghyju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: dddfghyju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: dddfghyju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 563ms | ***✅***@AR14N24b, server: dddfghyju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: dddfghyju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: dddfghyju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 729ms | ***✅***@AR14N24b, server: ffvvbnhju.2030.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: ffvvbnhju.2030.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: ffvvbnhju.2030.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 810ms |, server: ffvvbnhju.2030.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: ffvvbnhju.2030.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: ffvvbnhju.2030.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 340ms | ***✅***@AR14N24b, server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 364ms |, server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 579ms | ***✅***@AR14N24b, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 610ms |, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 279ms | ***✅***@AR14N24b, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 409ms |, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 4582ms | ***✅***@AR14N24b, server: gggbnh7.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh7.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh7.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 4697ms |, server: gggbnh7.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh7.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: gggbnh7.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 373ms | ***✅***@AR14N24b, server: hhhhhhhhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhhhhhhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhhhhhhj.191266.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 393ms |, server: hhhhhhhhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhhhhhhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhhhhhhj.191266.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 662ms |, server: hhhnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 680ms | ***✅***@AR14N24b, server: hhhnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 538ms |, server: hhhnmju.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmju.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnmju.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 584ms | ***✅***@AR14N24b, server: hhhnmju.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmju.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhhnmju.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 359ms |, server: hhynnmki.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhynnmki.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhynnmki.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 371ms | ***✅***@AR14N24b, server: hhynnmki.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhynnmki.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: hhynnmki.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 336ms | ***✅***@AR14N24b, server: nnnmjk.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjk.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: nnnmjk.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 366ms |, server: nnnmjk.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjk.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: nnnmjk.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 687ms | ***✅***@AR14N24b, server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 745ms |, server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 659ms |, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f2cO5FH0xUmT9oqnbBhmKb8nOkg", headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 154.90.55.15, port: 11201, type: ss, cipher: rc4-md5, password: b13c4c021cec2c0b, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -519,132 +486,33 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -660,132 +528,33 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | [1750]+-+Telegram+:+@configraygan"
-      - "| null | 99999ms | ⚡Telegram+-+@configraygan"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 698ms |
-      - 🇺🇸 | US | 415ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 619ms |
-      - 🇺🇸 | US | 556ms |
-      - 🇺🇸 | US | 563ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 810ms |
-      - 🇺🇸 | US | 340ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 364ms |
-      - 🇺🇸 | US | 579ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 610ms |
-      - 🇺🇸 | US | 279ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 409ms |
-      - 🇺🇸 | US | 4582ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 4697ms |
-      - 🇺🇸 | US | 373ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 393ms |
-      - 🇺🇸 | US | 662ms |
-      - 🇺🇸 | US | 680ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 538ms |
-      - 🇺🇸 | US | 584ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 359ms |
-      - 🇺🇸 | US | 371ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 366ms |
-      - 🇺🇸 | US | 687ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 745ms |
-      - 🇺🇸 | US | 659ms |
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

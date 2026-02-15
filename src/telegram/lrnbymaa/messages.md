@@ -1,5 +1,61 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-15 10:20:31 UTC
+بروزرسانی: 2026-02-15 20:18:37 UTC
+
+### 🕒 2026-02-15 17:57:42 UTC
+`trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40 lrnbymaavless://636dac2e-9a58-49a6-84f5-313a03761131@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=48fccabc158a4c22# lrnbymaavless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&security=reality&sid=a7ab02dfcc1f2c04&sni=pl.jojack.ru&type=tcp# lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=04bf0403f96e5b4b#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&sni=yandex.ru# lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
+
+### 🕒 2026-02-15 12:50:59 UTC
+`vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%2036%20%40 lrnbymaavless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#%F0%9F%9B%A1%20V%2037%20%40 lrnbymaavless://4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6@172.67.173.29:443?path=%2FpLmdwS3fSrE9WwdgE3LdG2&security=tls&encryption=none&host=cdn-nodes.maviks.eu&type=ws&sni=cdn-nodes.maviks.eu#%F0%9F%9B%A1%20V%2038%20%40 lrnbymaavless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#%F0%9F%9B%A1%20V%2039%20%40 lrnbymaavless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%9B%A1%20V%2040%20%40 lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید .
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
+
+### 🕒 2026-02-15 12:19:58 UTC
+حدود ۵ سال شد که کنار همدیگه ایم.
+مرسی از حمایت شما 
+***♥️***
+به امید رفع فیلترینگ تلگرام و روزای بهتر برای هممون.
+
+---
 
 ### 🕒 2026-02-15 03:48:18 UTC
 ***📢***
@@ -127,87 +183,6 @@ Solar VPN    سرویس SolarVPN یک VPN امن، سریع و بدون تبلی
  | 
 [پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
  |
-
----
-
-### 🕒 2026-02-13 20:03:11 UTC
-**محدودیت مادام‌العمر استوری در تلگرام بدون پرمیوم**
-در برخی مناطق (مثل روسیه، اوکراین،ایران و تعدادی کشورهای اروپایی) کاربران بدون Telegram Premium فقط می‌تونن 
-**حداکثر ۳ استوری در کل عمر اکانت**
- رایگان بذارن!
-نکات مهم:
-- این ۳ تا 
-**مادام‌العمر**
- حساب میشه (حتی استوری‌های قدیمی، حذف‌شده، یا زمانی که پرمیوم داشتی).
-- اگه قبلاً بیشتر از ۳ تا استوری گذاشتی (حتی با پرمیوم یا وقتی رایگان بود)، دیگه نمی‌تونی بدون پرمیوم استوری جدید بذاری.
-- وقتی محدودیت پر بشه، اپ می‌گه: «ارسال استوری فقط برای مشترکین پرمیوم ممکنه» (نه پیام محدودیت روزانه).
-- 
-[توسعه‌دهنده‌ها](https://bugs.telegram.org/c/59147)
- تأیید کردن این رفتار عمدیه، نه باگ!
-در کشورهای دیگه که از اول استوری رایگان بود، ظاهراً این محدودیت ۳ تایی اعمال نمی‌شه (یا کمتره).
-[@Lrnbymaa](https://t.me/Lrnbymaa)
-
----
-
-### 🕒 2026-02-13 18:02:41 UTC
-`vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp# lrnbymaavless://1e7215d7-3d4c-471b-8034-7fd953db251c@103.160.204.191:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdnuser.wrongguy.ir# lrnbymaavless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws# lrnbymaavless://f84ab055-3ffe-4a90-aad3-30596550b03c@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?allowInsecure=0&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&insecure=0&path=%2F&security=tls&sni=beh1.salonemojallal.ir.&type=ws# lrnbymaa`
-کانفینگ پرسرعت 
-***🚨***
-***🌔***
- یک بار بزنید روی کانفیگ‌ کپی میشه 
-  
-***💎***
-اگه ارور داد برنامه 
-***🖥***
- v2ray آپدیت کنید
-***🔹***
-جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-   
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-  ‍
-
----
-
-### 🕒 2026-02-13 15:45:22 UTC
-***🚀***
- اینترنت بدون مرز، بدون قطعی، بدون اعصاب‌خوردی! 
-***🚀***
-خسته شدی از فیلتر، پینگ بالا، وصل نشدن و قطع و وصل؟
-وقتشه خفن وصل شی 
-***😎***
-***⚡️***
-***🔥***
- فیلترشکن پرسرعت و پایدار
-***💎***
- مناسب گیم، تلگرام، اینستاگرام، یوتیوب و هرچی فکرشو بکنی
-***📶***
- پینگ پایین | 
-***🚄***
- سرعت بالا | 
-***🔒***
- امنیت کامل
-***⏱***
- بدون قطعی‌های اعصاب‌خردکن
-***🤖***
- خرید سریع و اتوماتیک از ادمین‌لرن‌بای‌ما:
-***👉***
- 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
- 
-***👉***
- 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
-***❌***
- اینترنت لاک‌پشتی؟
-***✅***
- با ما اینترنت توربویی بگیر!
-***💣***
- یه بار تست کن، مشتری دائمی شو!
 
 ---
 

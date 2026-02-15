@@ -465,15 +465,21 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 65.109.220.223:24542, server: 65.109.220.223, port: 24542, type: vless, tls: true, packet-encoding: xudp, uuid: 1971ec0f-fa37-4112-9b4e-4952e84df2a9, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 103.160.204.191:2083, server: 103.160.204.191, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 1e7215d7-3d4c-471b-8034-7fd953db251c, servername: cdnuser.wrongguy.ir, network: ws, ws-opts: {path: /, headers: {Host: cdnuser.wrongguy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.20.1.252:80, server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 33e1a095-1e25-4198-bfe7-ec312e4f98ee, network: ws, ws-opts: {path: "/?ed", headers: {Host: CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 45 @, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: V 31 @, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 40 @, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 38 @, server: 172.67.173.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6, servername: cdn-nodes.maviks.eu, network: ws, ws-opts: {path: /pLmdwS3fSrE9WwdgE3LdG2, headers: {Host: cdn-nodes.maviks.eu}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 35 @, server: 162.19.254.52, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 32 @, server: 176.124.223.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158.160.223.36:8443, server: 158.160.223.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 636dac2e-9a58-49a6-84f5-313a03761131, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 48fccabc158a4c22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 158.160.223.36:443, server: 158.160.223.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fb3bd4-75dd-488a-9af7-c391321ecfcc, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @, server: 158.160.223.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fb3bd4-75dd-488a-9af7-c391321ecfcc, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 34 @, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443, server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 39 @, server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 36 @, server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.3.223.6:443, server: 195.3.223.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: pl.jojack.ru, host: pl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw, short-id: a7ab02dfcc1f2c04}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 33 @, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /130.185.164.213=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 37 @, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +496,63 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +568,63 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 65.109.220.223:24542
-      - 103.160.204.191:2083
-      - 104.20.1.252:80
+      - V 45 @
       - V 31 @
+      - V 40 @
+      - V 38 @
       - V 35 @
       - V 32 @
+      - 158.160.223.36:8443
+      - 158.160.223.36:443
+      - ⚡Telegram - @
       - V 34 @
-      - dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443
+      - V 39 @
+      - V 36 @
+      - 195.3.223.6:443
       - V 33 @
+      - V 37 @
   - name: دانلود منیجر 📥
     type: select
     proxies:
