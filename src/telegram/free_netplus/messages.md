@@ -1,5 +1,22 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-15 01:12:38 UTC
+بروزرسانی: 2026-02-15 10:19:47 UTC
+
+### 🕒 2026-02-15 07:16:14 UTC
+از قبل میلاد مسیح تا الان هیچ پادشاهی مثل اقا شاهان پادشاهی نکرده 
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
 
 ### 🕒 2026-02-14 21:28:14 UTC
 همه چی جدیدش خوبه رفیق قدیمیش
@@ -302,22 +319,6 @@
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  
-[@Free_NetPlus](https://t.me/Free_NetPlus)
- 
-***🪽***
-
----
-
-### 🕒 2026-02-13 07:17:09 UTC
-چند تا پروکسی جدید 
-***✅***
-[پروکسی](https://t.me/proxy?server=download.vivanet.info.&amp;port=25565&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=172.65.137.149&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 [@Free_NetPlus](https://t.me/Free_NetPlus)
  
 ***🪽***

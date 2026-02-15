@@ -1,5 +1,148 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-15 01:10:21 UTC
+بروزرسانی: 2026-02-15 10:17:31 UTC
+
+### 🕒 2026-02-15 09:41:04 UTC
+یه بسته پوشک شده یه میلیون.
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-15 09:41:02 UTC
+***💰***
+ریتزوبت تنها سایت بین المللی میباشد ، که به صورت هفتگی پرومو کد ثابت دریافت میکنید
+****
+**🙏**
+** **
+[آموزش شارژ حساب با کریپتو](https://t.me/Ritzobet_ir/2587)
+****
+**🙏**
+** **
+[آموزش شارژ حساب  ریالی در ریتزوبت](https://t.me/Ritzobet_ir/2588)
+***✅***
+ریتزوبت برندی با لایسنس معتبر در صنعت 
+[شرطبندی](https://t.me/Ritzobet_ir/3104)
+ و 
+[پیشبینی](https://t.me/Ritzobet_ir/3104)
+ مسابقات ورزشی و کازینویی 
+***👇***
+[https://t.me/+LB508WZyIr8xNmY0](https://t.me/+LB508WZyIr8xNmY0)
+
+---
+
+### 🕒 2026-02-15 09:41:01 UTC
+***🏴󠁧󠁢󠁥󠁮󠁧󠁿***
+**پیش بینی مهم ترین مسابقات فوتبال در سایت بین المللی**
+ 
+[**ریتزوبت**](https://RitzoBet.com/)
+ 
+***💯***
+****
+***🤝***
+ 
+[**رایووایکانو**](https://RitzoBet.com/)
+ 
+***🆚***
+ 
+[**اتلتیکو مادرید**](https://RitzoBet.com/)
+***🤝***
+ 
+[**ناپولی**](https://RitzoBet.com/)
+ 
+***🆚***
+ 
+[**آاس رم**](https://RitzoBet.com/)
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+ 
+***1️⃣***
+***2️⃣***
+***3️⃣***
+ 
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+***⚡️***
+ بونوس 100% بونوس اولین واریز 
+***⚡️***
+ بونوس 100% ورزشی یکشنبه‌ ها 
+***⚡️***
+ آپشن های متنوع با ضریب بالا
+***📲***
+[**اپلیکیشن موبایل برای اندروید**](https://t.me/Ritzobet_ir/3141)
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+***⚡️***
+پشتیبان فارسی سایت ریتزوبت 
+***👇***
+***🅰***
+r26
+***⚡️***
+[@RitzoBetsupports](https://t.me/RitzoBetsupports)
+
+---
+
+### 🕒 2026-02-15 08:50:40 UTC
+برای جاوید‌ نام مهرداد مشتاقی که آروزش دیدن بازی رئال از نزدیک بود 
+***🖤***
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-14 23:06:44 UTC
 ● برد لن 
@@ -428,90 +571,6 @@ Sponsored by
 [@rainbetcom](https://t.me/rainbetcom)
  - 
 [rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-13 08:10:15 UTC
-محمدمهدی صدیقی فرزند کاظم صدیقی امام جمعه سابق تهران که فوت کرده بود و براش با حضور مقامهای حکومتی تشییع جنازه هم گرفته بودند، در هتلی در لندن دیده شده
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-13 08:10:14 UTC
-***🥇***
- 
-**اپلیکیشن MelBet**
- 
-***🔄***
-***🎁***
- کد هدیه 100 دلاری: 
-**Sport100**
-***🔒***
- برای تعیین رمز ورود حداقل از 8 کاراکتر و حروف بزرگ و کوچک انگلیسی و اعداد انگلیسی استفاده کنید، مانند Hamid120
-***🇮🇷***
- برای تغییر زبان برنامه، زبان موبایل خود را تغییر دهید.r24
-***🅰***
-***✅***
- 
-**ورود به اپلیکیشن بدون فیلترشکن**
-
----
-
-### 🕒 2026-02-13 08:10:14 UTC
-***⚠️***
- 
-**خیلیا نمیدونن که اگه ثبت‌نامشون رو با لینک زیر انجام بدن... **
-***⁉️***
-***💥***
- بونوس خوش‌آمد گویی تا %220 بیشتر میگیرن!
-فقط کافیه به لینک زیر مراجعه کنید و وارد ملبت بشید و به راحتی ثبتنام کنید! 
-***👌***
-***🌐***
- لینک بدون فیلتر سایت معتبر ملبت 
-***👇***
-***🌐***
- 
-[**www.MelBet1.com**](http://iklopqazws.pro/registration?tag=d_699225m_33771c_Registration)
-***🎁***
- بعد از ثبتنام، وارد حسابت شو و توی بخش "بونوس‌ها" فعالش کن 
-***🎚️***
-**نکته:**
- فقط این هفته فعاله، پس از دستش نده 
-***🙂***
-***🎁***
- کد هدیه 100 دلاری فراموش نشه: 
-**Sport100**
-***✅***
- 
-[**معرفی سایت و اپلیکیشن مل‌بت**](https://t.me/MelBet_Iran1/880)
-***💯***
-[** ورود به سایت مل‌بت (فیلترشکن خاموش)**](http://iklopqazws.pro/registration?tag=d_699225m_33771c_Registration)
 
 ---
 

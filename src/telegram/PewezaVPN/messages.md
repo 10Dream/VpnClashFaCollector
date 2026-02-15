@@ -1,5 +1,18 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-15 01:10:17 UTC
+بروزرسانی: 2026-02-15 10:17:27 UTC
+
+### 🕒 2026-02-15 10:10:12 UTC
+**فیلترشکن Clovert اندروید آخرین نسخه مود شده**
+، 
+**سرعت و سرور های خوبی داره پیشنهاد میکنم تست کنید.**
+**آپلود کردم رباتمون از لینک زیر میتونید دانلودش کنید:**
+[**t.me/Pewezabot?start=136166**](http://t.me/Pewezabot?start=136166)
+از لیست سرور ها یک سرور رو انتخاب کنید و منتظر باشید وصل میشه.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-14 20:56:22 UTC
 ***🔰***
@@ -324,29 +337,6 @@
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-13 07:05:16 UTC
-**این پروکسی های اختصاصی تلگرام جدید ساخته شدن مناسب نت ملی**
- 
-**برای همه اپراتورها**
-[**پروکسی Peweza اول**](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
-[**پروکسی Peweza دوم**](https://t.me/proxy?server=172.65.117.172&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[**پروکسی Peweza سوم**](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=1603010200010001fc031386e24c3add)
-[**پروکسی Peweza چهارم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[**پروکسی Peweza پنجم**](https://t.me/proxy?server=212.118.42.155&amp;port=9741&amp;secret=ProxyQavi____ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[**پروکسی Peweza ششم**](https://t.me/proxy?server=89.124.70.195&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[**پروکسی Peweza هفتم**](https://t.me/proxy?server=www.borcatsion.info.&amp;port=9009&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-این لیست پروکسی رو با عزیزاتون به اشتراک بذارید، ظرفیت بالاست و محدودیتی ندارن.
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-13 06:58:00 UTC
-اکانت سورفشارک که گذاشتیم متاسفانه به دلیل ظرفیت بالای کاربرها توسط خود شرکت غیرفعال شد به همین دلیل پستشو پاک کردیم، حتما سعی میکنیم راه حل جایگزین ارائه بدیم.
 
 ---
 

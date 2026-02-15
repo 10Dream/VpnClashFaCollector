@@ -465,12 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🪝24@oneclickvpnkeys`", server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys, server: 130.61.50.75, port: 6443, type: hysteria2, ports: 6443, password: zhangyang, sni: dash.cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💞2@oneclickvpnkeys", server: 130.61.50.75, port: 6443, type: hysteria2, ports: 6443, password: zhangyang, sni: dash.cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms |", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @proxy_kafee", server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 3691ms | @meliproxyy, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy", server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -487,36 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -532,36 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 | RU | 1207ms | 🪝84@oneclickvpnkeys
+      - 🇷🇺 | RU | 1115ms | 🪝84@oneclickvpnkeys
       - "| null | 99999ms | 🪝24@oneclickvpnkeys`"
-      - 🇩🇪 | DE | 563ms | 💞2@oneclickvpnkeys
+      - "| null | 99999ms | 💞2@oneclickvpnkeys"
       - "| null | 99999ms |"
       - "| null | 99999ms | @proxy_kafee"
-      - 🇳🇱 | NL | 3691ms | @meliproxyy
+      - "| null | 99999ms | @meliproxyy"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,5 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-15 01:11:52 UTC
+بروزرسانی: 2026-02-15 10:19:02 UTC
 
 ### 🕒 2026-02-14 22:46:01 UTC
 ***🟠***
@@ -197,18 +197,6 @@ vless://bf37aea5-57da-48ec-9f46-eb40809d69e8@my-o11.tungates.com:1717?security=n
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2082?path=%2F%3Fed%3D1024&security=none&encryption=none&host=Pishgam.mehrsazi.ir&type=httpupgrade#%40vpnbaz%20%F0%9F%9B%B8
 vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#%40vpnbaz%20%F0%9F%8E%83
 vless://dcf0b94b-3d1a-4486-a8c8-edb04976e9f6@43.163.241.110:39112?security=none&encryption=none&host=Varzesh3.com&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%92%8E
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-13 10:09:59 UTC
-سرور ویتوری 
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8E%B3
-vless://19a1e5b1-6289-4fe6-9aad-be285510942d@av.nexconnx.com:8080?security=none&encryption=none&host=check-host.net&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8E%B1
-vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#%40vpnbaz%20%F0%9F%90%8D
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
-vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#%40vpnbaz%20%F0%9F%9B%9F
-vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#%40vpnbaz%20%F0%9F%8E%AF
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

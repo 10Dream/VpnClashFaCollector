@@ -1,5 +1,5 @@
 # آرشیو کانال: @v2FreeHub
-بروزرسانی: 2026-02-15 01:14:27 UTC
+بروزرسانی: 2026-02-15 10:21:37 UTC
 
 ### 🕒 2026-02-13 11:42:47 UTC
 **🔥 New Global Pack Released! | SS ⚡🌐**
@@ -37,20 +37,6 @@
 [**#VPN**](?q=%23VPN)
 ** **
 [**#Config**](?q=%23Config)
-
----
-
-### 🕒 2026-02-13 07:18:13 UTC
-**رفع فیلتر یوتیوب با DNS**
-`https://sky.rethinkdns.com/`
-داخل برنامه 
-[intra](https://play.google.com/store/apps/details?id=app.intra)
- بزنید
-[#dns](?q=%23dns)
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
-** 👑**
-**👉 **
-[**@v2FreeHub**](https://t.me/v2FreeHub)
 
 ---
 

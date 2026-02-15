@@ -1,5 +1,152 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-15 01:10:06 UTC
+بروزرسانی: 2026-02-15 10:17:15 UTC
+
+### 🕒 2026-02-15 08:50:02 UTC
+بکاپ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-15 08:40:31 UTC
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+|
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ |
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+|
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ |
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+|
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ |
+
+---
+
+### 🕒 2026-02-15 06:06:49 UTC
+تجمع دیروز ایرانیان در توکیو ژاپن
+***❤️***
+
+---
+
+### 🕒 2026-02-15 05:58:12 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-15 05:38:48 UTC
+دیروز حتی جمعی از ایرانیان ساکن پروتریای آفریقای جنوبی هم تجمع کردن و شعار «از همه جا تا ایران، جانم فدای ایران» سر دادن
+اتحاد ملی در سرتاسر جهان
+***❤️***
+
+---
+
+### 🕒 2026-02-15 05:21:38 UTC
+تایم لپس تجمع در تورنتو
+***🔥***
+
+---
+
+### 🕒 2026-02-15 05:09:23 UTC
+قربون جاوید شاه گفتنت عزیز دلم
+***🥹***
+***😍***
+به جا مونده از دیروز در تورنتو
+
+---
+
+### 🕒 2026-02-15 04:22:27 UTC
+طول این پرچم که مزین به تصاویر موجود از جاویدنامان است، 50 متر بوده که دیروز روی دست های ایرانیان ملبورن در استرالیا چرخیده
+***❤️***
+
+---
+
+### 🕒 2026-02-15 03:52:07 UTC
+پلیس ونکوور اعلام کرد در تظاهرات ایرانیان در روز شنبه در حمایت از انقلاب ملی مردم ایران 45 هزار نفر شرکت کردند.
+(عزیزان این ونکووره با تورنتو فرق داره اشتباه نگیرید)
+شنبه بیش از یک میلیون نفر در پاسخ به فراخوان شاهزاده پهلوی برای «روز جهانی اقدام» در شهرهای مختلف جهان در حمایت از مردم ایران تجمع کردند.
+
+---
+
+### 🕒 2026-02-15 03:42:33 UTC
+`vless://3b1e55af-cb72-4e57-83b8-be4e69b57376@tun1-norbert1.norbertvip-conf.site:9900?security=none&encryption=none&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet%3Fed%3D2560&headerType=http&type=tcp#NetAccount`
+`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v1.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#NetAccount`
+`vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
+`vless://40b125e3-4c2a-4664-a5aa-fcd09e6ff299@Panel.AhmadMomeni.ir:44088?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
+`vless://476f651c-43dd-432a-9fdb-cf4cd65de9a9@snii2.totalwarseriesgameserver.ir:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir#NetAccount`
+
+---
+
+### 🕒 2026-02-15 03:32:22 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+ تجمع امروز ایرانیان در هلیفکس کانادا
+
+---
+
+### 🕒 2026-02-15 03:28:37 UTC
+[https://t.me/proxy?server=www.koukicohost2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.koukicohost2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-15 02:59:25 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-15 02:36:00 UTC
+تجمع امروز ایرانیان در شهر هیوستون از ایالت تگزاس آمریکا
+***🔥***
+
+---
+
+### 🕒 2026-02-15 01:55:27 UTC
+تجمع ایرانیان در لس آنجلس امروز
+
+---
+
+### 🕒 2026-02-15 01:16:03 UTC
+مراد ویسی عزیز هم امروز توی تجمعات واشنگتن در آمریکا شرکت کرد
+بسیار دوستت داریم عمو مراد
+***❤️***
+
+---
+
+### 🕒 2026-02-15 01:13:29 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+ داداش رفیق ماست. جاویدنام آرش عسگری. 18 دی تو آریاشهر کشتنش
+اینجا هم الان تورنتوس
+
+---
 
 ### 🕒 2026-02-15 01:07:13 UTC
 [#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
@@ -1008,86 +1155,6 @@ I look forward to continuing to work with President Zelenskyy and am thankful fo
 **حضور شاهزاده رضا پهلوی در محل برگزاری کنفرانس امنیتی مونیخ**
 شاهزاه رضا پهلوی قرار است در نخستین روز این کنفرانس در نشست «شکستن یا تکرار چرخه؟ فصل آینده ایران»، حاضر شوند.
 اگه اشتباه نکنم امشب ساعت 9:15 سخنرانی شاهزاده شروع میشه
-
----
-
-### 🕒 2026-02-13 07:07:45 UTC
-[https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=91.239.192.21&port=65535&secret=10446282fffffffffff80000fff80000)
-[https://t.me/proxy?server=185.84.157.230&port=443&secret=1603010200010001fc031386e24c3add](https://t.me/proxy?server=185.84.157.230&port=443&secret=1603010200010001fc031386e24c3add)
-[https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=www.borcatsion.info.&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d](https://t.me/proxy?server=www.borcatsion.info.&port=9009&secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-
----
-
-### 🕒 2026-02-13 06:53:40 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-13 06:53:12 UTC
-`vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.25.180:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#NetAccount`
-`vless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@104.21.78.70:443?security=tls&sni=amirjk12.benyamin-bozorgi1379.workers.dev&type=ws&host=amirjk12.benyamin-bozorgi1379.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#NetAccount`
-`vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#NetAccount`
-
----
-
-### 🕒 2026-02-13 06:51:53 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-13 04:43:40 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-13 04:13:58 UTC
-**روزنامه نیویورک تایمز به نقل از چهار مقام آمریکایی: ناو هواپیمابر «یواس‌اس جرالد آر. فورد» و ناوهای اسکورت همراه آن به خاورمیانه فرستاده خواهند شد**
-به نوشته این رسانه خدمه ناو فورد پنجشنبه 23 بهمن از این اعزام مطلع شدند و انتظار نمی‌رود تا نیمه یا اواخر اردیبهشت به بنادر اصلی خود بازگردند.
-دونالد ترامپ در روزهای گذشته اعلام کرده بود که در راستای افزایش فشار بر جمهوری اسلامی ناو دیگری را به منطقه خواهد فرستاد.
-جنگنده‌های مستقر بر ناو فورد در حمله سوم ژانویه به پایتخت ونزوئلا و بازداشت نیکولاس مادورو، رییس‌جمهور پیشین این کشور مشارکت داشتند.
-[Link](https://www.nytimes.com/2026/02/12/us/politics/uss-ford-venezuela-oil.html)
-ابتدا حدس میزدیم ناوی که راهی خاورمیانه شه جورج بوش باشه ولی انگار جرالد فورده. جرالد فورد قدرتمندترین، بزرگترین و پیشرفته ترین ناو هواپیمابر جهانه
-
----
-
-### 🕒 2026-02-13 03:44:02 UTC
-این یه پلنه که از قبل چیده شده و آمریکا به ترتیب تک تک متحدای چین رو از چنگ چین در میاره تا خودشو توی جنگ اقتصادیش با چین خیلی ببره بالاتر
-
----
-
-### 🕒 2026-02-13 02:34:37 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#NetAccount`
-`vless://e35dd2de-7a4c-4af4-b671-1592e286a040@de01.keyinvest.org:443?mode=gun&security=reality&encryption=none&pbk=c6RlqzTVSTJa22lCVX3u8jvZXXbWEsYGSX4kjo3ffkk&fp=chrome&type=grpc&sni=web.max.ru#NetAccount`
-`vless://61076cc8-6d63-4dbf-80b9-6c6d70f934ab@wolfb02.serverp1anel.ir:8080?security=reality&encryption=none&pbk=D8uvi--0Aq7Hjc7cYnfcJGY0h4SSBCrPh7wEp1mvFlw&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=b7b70c104ad267b8#NetAccount`
-`vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@3.126.153.43:18694?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
-
----
-
-### 🕒 2026-02-13 02:21:17 UTC
-دادگاه کیفری یک استان قم، صالح محمدی، کشتی‌گیر 19 ساله، را به اتهام «قتل عمد» به «اعدام علنی در میدان نبوت قم از طریق چوبه دار» محکوم کرده است.  در حکم اولیه دادگاه که به رویت ایران اینترنشنال رسیده است، آمده است که شب 18 دی 1404 در میدان نبوت قم، گروهی به…
-
----
-
-### 🕒 2026-02-13 02:04:46 UTC
-[https://t.me/proxy?server=195.254.165.6&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.6&port=65535&secret=10446282fffffffffff80000fff80000)
-[https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 
 ---
 

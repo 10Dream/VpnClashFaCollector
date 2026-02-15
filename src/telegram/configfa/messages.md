@@ -1,5 +1,56 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-15 01:12:16 UTC
+بروزرسانی: 2026-02-15 10:19:25 UTC
+
+### 🕒 2026-02-15 05:15:47 UTC
+> ↪️ **Forwarded**
+
+ssh://b:123456789@116.203.151.210:2222?LCHepgjuVVy6UQRcXWdT8MFUMaAm31Xu8huIC93UZkorBtwkUw3IBDG1ZtfWMqAIOpOkjz5ulpXMq5exBiJl38b2AHQQokvpAFeOfXwqboY=
+[#SSH](?q=%23SSH)
+%20b
+
+---
+
+### 🕒 2026-02-15 05:04:35 UTC
+> ↪️ **Forwarded**
+
+ssh://moshali:123456789@116.203.151.210:2222?LCHepgjuVVy6UQRcXWdT8MFUMaAm31Xu8huIC93UZkorBtwkUw3IBDG1ZtfWMqAIOpOkjz5ulpXMq5exBiJl38b2AHQQokvpAFeOfXwqboY=
+[#SSH](?q=%23SSH)
+%20moshali
+
+---
+
+### 🕒 2026-02-15 05:04:30 UTC
+> ↪️ **Forwarded**
+
+***🔥***
+ 
+**کانفیگ لوتی با مرام رسید!**
+***✅***
+ تست شده 
+***📍***
+ لوکیشن : 
+***🪐***
+***📶***
+ سرعت اتصال : 
+***🟢***
+ خوب
+vless://3b1e55af-cb72-4e57-83b8-be4e69b57376@tun1-norbert1.norbertvip-conf.site:9900?encryption=none&security=none&type=tcp&headerType=http&host=%2FJOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip%3Fed%3D2560#%F0%9F%8C%8E%20%7C%20%F0%9F%91%89%F0%9F%91%89%20%40%F0%9D%97%AB%F0%9D%98%83%F0%9D%97%BD%F0%9D%97%BB%F0%9D%97%BD%F0%9D%97%B9%F0%9D%98%82%F0%9D%98%80_%F0%9D%97%AF%F0%9D%97%BC%F0%9D%98%81%20%F0%9F%91%88%F0%9F%91%88%20%7C%F0%9F%93%B6%20%F0%9D%9A%83%F0%9D%99%B4%F0%9D%9A%82%F0%9D%9A%83%F0%9D%99%B4%F0%9D%99%B3
+جهت دریافت کانفیگ دائمی به لینک زیر مراجعه کنید.
+***👉***
+ 
+[**@Xvpnplus_bot**](https://t.me/Xvpnplus_bot)
+ 
+***🍕***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍔***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍺***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+
+---
 
 ### 🕒 2026-02-14 21:09:41 UTC
 > ↪️ **Forwarded**

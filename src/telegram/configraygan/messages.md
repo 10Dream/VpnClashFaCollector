@@ -1,5 +1,32 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-02-15 01:12:29 UTC
+بروزرسانی: 2026-02-15 10:19:38 UTC
+
+### 🕒 2026-02-15 08:56:40 UTC
+**صب همگی بخیر**
+
+---
+
+### 🕒 2026-02-15 08:48:18 UTC
+[#ExpressVpn](?q=%23ExpressVpn)
+اکانت پریمیوم اکسپرس وی پی ان 
+email: david.adam.hearne@gmail.com
+password: Kamehameha1!
+email: kristinvielma@gmail.com
+password: Gabriel.29
+email: soundmnd@gmail.com
+password: DT$Rfv21jd
+email: frosales2000@gmail.com
+password: Snickers16!
+email: kayagreenland@gmail.com
+password: Johnny123!
+email: tjaeschke7@gmail.com
+password: Redwood2!
+- دقت داشته باشید فقط برای sign in از یک فیلترشکن استفاده کنید .
+-درصورتی که به محض متصل شدن ارور Connection Limited Reached دریافت کردید یعنی ظرفیت اکانت پر شده و از اکانت دیگری استفاده کنید ۰( با چند بار قطع و وصل سریع از حالت Limited خارج شوید)
+- رمزشو عوض نکنید 
+- کشور ٫ پروتکل  و سرعت اتصال بستگی به فیلترینگ منطقه و اپراتور متفاوت است .
+
+---
 
 ### 🕒 2026-02-14 22:04:25 UTC
 999.npvt

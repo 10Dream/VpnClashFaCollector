@@ -1,5 +1,18 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-15 01:11:29 UTC
+بروزرسانی: 2026-02-15 10:18:41 UTC
+
+### 🕒 2026-02-15 03:28:06 UTC
+Join @Patriot_meme
+
+---
+
+### 🕒 2026-02-15 03:28:01 UTC
+> ↪️ **Forwarded**
+
+**Join **
+[**@Patriot_meme**](https://t.me/Patriot_meme)
+
+---
 
 ### 🕒 2026-02-14 21:58:02 UTC
 ***🆔***
@@ -589,65 +602,6 @@
 ### 🕒 2026-02-13 11:54:46 UTC
 حرفای این روزای پزشکیان یچیزی تو مایه های همه ساکت بودند ناگهان خری گفت شده
 ***🗿***
-
----
-
-### 🕒 2026-02-13 09:09:00 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-13 07:58:55 UTC
-> ↪️ **Forwarded**
-
-***🔻***
- 
-[**بزرگترین ناو هواپیمابر جهان از دریای کارائیب به سمت خاورمیانه به راه افتاد**](https://www.bbc.co.uk/persian/live/c20l5r0pldwt)
-خبرگزاری آسوشیتد پرس و شبکه سی‌بی‌اس آمریکا گزارش کرده‌اند که به «بزرگترین ناو هواپیمابر جهان دستور داده شده تا از دریای کارائیب به سمت خاورمیانه حرکت کند» و یک منبع در وزارت جنگ آمریکا به آسوشیتد پرس گفته که حرکت ناو یو‌اس‌اس جرالد آر. فورد به سمت خاورمیانه در راستای «بررسی‌های دونالد ترامپ برای احتمال اقدام نظامی علیه ایران است.»
-+ 
-[عضو کمیسیون امنیت ملی مجلس گفت ](https://www.iranintl.com/202602133113)
-که آمریکا برای مذاکره درخواست داده و شروط ایران از جمله مذاکره فقط درباره هسته ای، به رسمیت شناختن حق غنی سازی و برگزاری گفتگو در عمان را پذیرفته است. او اضافه کرد: ایران بر مذاکره غیرمستقیم پافشاری دارد و دستش روی ماشه است.
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-13 07:50:00 UTC
-`vless://06430296-e070-4048-ba38-3662c09e52bc@162.159.25.180:2087?security=tls&sni=finland.hiytocloud.ir&type=grpc&alpn=h2,http/1.1#NetAccountvless://69e9d5cc-2c54-41fc-a8cf-f0aef3c69ea5@104.21.78.70:443?security=tls&sni=amirjk12.benyamin-bozorgi1379.workers.dev&type=ws&host=amirjk12.benyamin-bozorgi1379.workers.dev&path=%2F%3Fed%3D2048&fp=randomized#NetAccountvless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.44.24:80?security=none&type=ws&host=us3.rtacg.com&path=/#NetAccount`
-
----
-
-### 🕒 2026-02-13 07:49:19 UTC
-[https://t.me/proxy?server=195.254.165.6&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.6&port=65535&secret=10446282fffffffffff80000fff80000)
-[https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=188.212.98.30&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-
----
-
-### 🕒 2026-02-13 05:45:23 UTC
-> ↪️ **Forwarded**
-
-**مستند «قتل‌ عام ایران، قسم بقراط» **
-این مستند حاوی تصاویر و روایت‌هایی از تیرخلاص به معترضان مجروح در بیمارستان‌ها، هجوم نیروهای امنیتی به مراکز درمانی، و درمان خانگی مجروحان به دلیل ترس از بازداشت است. بسیاری از پزشکان، پرستاران و کادر درمان در روزهای پس از فراخوان، به قسم خود وفادار ماندند و وقتی بیمارستان‌ها ناامن و خطرناک شدند، برای کمک به معترضان زخمی شتافتند.
-***⚠️***
-   
-**هشدار: این فیلم مستند حاوی تصاویری به‌شدت دلخراش است و تماشای آن برای همه و به‌خصوص کودکان و افراد با ناراحتی قلبی مناسب نیست.**
-**❤️**
-**📰**
-** **
-[@IraneAzad_News](https://t.me/IraneAzad_News)
-
----
-
-### 🕒 2026-02-13 02:51:11 UTC
-Où t'es, papaoutai ? 
-***😢***
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
 
 ---
 

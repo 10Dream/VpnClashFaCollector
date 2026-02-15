@@ -1,5 +1,5 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-15 01:15:10 UTC
+بروزرسانی: 2026-02-15 10:22:20 UTC
 
 ### 🕒 2026-02-14 21:21:48 UTC
 آموزش ساخت 
@@ -175,42 +175,6 @@ Get Free 90 Day's Shadowsocks Config
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐***
-
----
-
-### 🕒 2026-02-13 08:25:54 UTC
-> ↪️ **Forwarded**
-
-آموزش استفاده از اسکنر و ثابت کردن آیپی توی پنل رایگان BPB + معرفی کلاینت قدرتمند Karing 
-***🐳***
-***⚠️***
- پیش‌نیازها و نکات مهم: 
-***1️⃣***
- ویدئوی قبل رو دیده باشید: 
-[https://youtu.be/uCRKnrQEQYU](https://youtu.be/uCRKnrQEQYU)
-لینک‌های استفاده شده توی ویدئو:
-داکیومنت BPB: 
-[https://bia-pain-bache.github.io/BPB-Worker-Panel/fa](https://bia-pain-bache.github.io/BPB-Worker-Panel/fa)
-دانلود karing لینوکس، مک، اندروید، ویندوز: 
-[https://github.com/KaringX/karing/releases](https://github.com/KaringX/karing/releases)
-دانلود karing روی ios: 
-[https://apps.apple.com/us/app/karing/id6472431552](https://apps.apple.com/us/app/karing/id6472431552)
-00:00 مقدمه
-00:48 توضیح تنظیمات بخش common
-02:30 توضیح تنظیمات بخش Vless و Trojan
-03:00 تنظیمات بخش آیپی تمیز و اسکنر
-07:28 ثابت کردن آیپی با پروکسی آیپی و NAT64
-10:28 ثابت کردن آیپی با Chain Proxy
-14:20 معرفی کلاینت قدرتمند Karing
-***✉️***
- 
-[تماشا در تلگرام ](https://t.me/MatinSenPaii/1980)
-***📹***
- 
-[تماشا در یوتوب](https://youtu.be/7G9Fjhe_NxM)
-***💰***
- 
-[دونیت](https://nowpayments.io/donation/matinsenpai)
 
 ---
 
