@@ -1,5 +1,11 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-14 20:17:53 UTC
+بروزرسانی: 2026-02-15 01:12:56 UTC
+
+### 🕒 2026-02-14 20:52:53 UTC
+این ترکیه رو هم تست کنید :
+vmess://43dcdce1-3cea-4193-bc8d-90b92071d779@tr1-smart.adelping.com:80?encryption=auto&host=imdb.com&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1%2F%3Fde%3D2560&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR
+
+---
 
 ### 🕒 2026-02-14 20:00:31 UTC
 لطفاً اینو هم تست کنید 
@@ -571,127 +577,6 @@ Viro VPN
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐***
-
----
-
-### 🕒 2026-02-12 23:57:20 UTC
-فردا ساعت ۱۰ صبح یک فیلترشکن جدید دیگر معرفی میشه در کانال که نیاز به ثبت نام و چیز دیگری ندارد .
-تا اون موقع هر چقدر تونستین ری اکشن متفاوت بزنید به این پست ؛
-***❤️***
-***✅***
-***😎***
-***😁***
-***🫶***
-***🔥***
-***💯***
-***⭐***
-***⚡***
-***💋***
-***❤️‍🔥***
-...
-
----
-
-### 🕒 2026-02-12 22:37:32 UTC
-فیلترشکن ExitVPN
-V0.5.2
-***🚨***
- اختصاصی کانال خودمون 
-***🚨***
-هیچ جا معرفی نشده 
-***😎***
-فقط با یک ضربه متصل میشید به سرورهای قدرتمندی که داره .
-امنیتش از max vpn و غیره بهتره چون اونا حتی باعث خروج حساب تلگرامیم شدن اما این هیچ مشکلی نداشت .
-***🧩***
-**لینک دانلود از گوگل پلی:**
-[https://play.google.com/store/apps/details?id=com.exitvpn](https://play.google.com/store/apps/details?id=com.exitvpn)
-**باید براش یه جی‌میل اصلی یا فیک بدین با یه رمز تا ثبت نام کنید در قسمت sign up و سپس از قسمت Login وارد میشین و تمام .**
-..
-**💚 اشتراک گذاری یادتون نره ❤️**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 22:30:53 UTC
-نصف شبی میخوام یه فیلترشکن ساده و پرسرعت براتون معرفی کنم که مخصوص پدر و مادر بزرگ ها هست .
-با یک دکمه اتصال و سرعت خیلی بالایی داره .
-چند دقیقه بعد پست میشه ، نصب کنید و تست کنید و نتیجه رو بهم بگید .
-
----
-
-### 🕒 2026-02-12 22:03:43 UTC
-من برگشتم ، از ساعت ۱۰ تا الان گروه و کانال در اختیار ادمین عزیزمون علی بود .
-از هم اکنون خودم هستم .
-برم ببینم چی هست چی نیست یکم بروزرسانی انجام بدیم برای روزهای پیش رو .
-
----
-
-### 🕒 2026-02-12 21:43:24 UTC
-Exclave-0.17.14-arm64-v8a.apk
-
----
-
-### 🕒 2026-02-12 21:39:22 UTC
-کانفیگ نپسترنت برای شما عزیزان 
-***❤️***
-مولتی لوکیشین 
-***🌏***
-برای راحتی شما رمز ندارد 
-***🔐***
-[دانلود نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-12 21:38:48 UTC
-خب بعد از پارگی فراوان بالاخره موفق شدم 
-***😑***
-
----
-
-### 🕒 2026-02-12 20:30:24 UTC
-هر کی ری اکشن نزنه کانفیگ هام کوفتش شه 
-***🦦***
- همینقدر من بدجنسم
-
----
-
-### 🕒 2026-02-12 20:24:33 UTC
-گوشی های خیلی قدیمی
-
----
-
-### 🕒 2026-02-12 20:24:24 UTC
-گوشی های نسل جدید
-
----
-
-### 🕒 2026-02-12 20:22:47 UTC
-{   "dns": {     "fallbackStrategy": "disabledIfAnyMatch",     "servers": [       {         "address": "8.8.8.8",         "domains": [],         "fakedns": [           {             "ipPool": "198.18.0.0/15",             "poolSize": 65535           }     …
-
----
-
-### 🕒 2026-02-12 20:21:59 UTC
-`{  "dns": {    "fallbackStrategy": "disabledIfAnyMatch",    "servers": [      {        "address": "8.8.8.8",        "domains": [],        "fakedns": [          {            "ipPool": "198.18.0.0/15",            "poolSize": 65535          }        ],        "queryStrategy": "UseIPv4"      }    ]  },  "inbounds": [    {      "listen": "0.0.0.0",      "port": 2080,      "protocol": "socks",      "settings": {        "auth": "noauth",        "udp": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "socks"    },    {      "listen": "0.0.0.0",      "port": 9080,      "protocol": "http",      "settings": {        "allowTransparent": true      },      "sniffing": {        "destOverride": [          "fakedns"        ],        "enabled": true,        "metadataOnly": true,        "routeOnly": true      },      "tag": "http"    }  ],  "log": {    "loglevel": "warning"  },  "outbounds": [    {      "protocol": "http",      "settings": {        "servers": [          {            "address": "45.154.96.217",            "port": 443,            "users": [              {                "pass": "fuckgfw123",                "user": "@Arshiacomplus"              }            ]          }        ]      },      "streamSettings": {        "network": "tcp",        "security": "tls",        "tcpSettings": {},        "tlsSettings": {          "serverName": "arshiacomplus.nscl.ir"        }      },      "tag": "proxy-global-368428"    },    {      "protocol": "freedom",      "tag": "direct"    },    {      "protocol": "freedom",      "tag": "bypass"    },    {      "protocol": "blackhole",      "tag": "block"    },    {      "protocol": "dns",      "settings": {        "userLevel": 1      },      "tag": "dns-out"    }  ],  "policy": {    "levels": {      "1": {        "connIdle": 30      }    },    "system": {      "statsOutboundDownlink": true,      "statsOutboundUplink": true    }  },  "routing": {    "domainStrategy": "IPIfNonMatch",    "rules": [      {        "inboundTag": [          "dns-in"        ],        "outboundTag": "dns-out",        "type": "field"      }    ]  },  "stats": {}}`
-بزنید به exclave 
-***✅***
 
 ---
 

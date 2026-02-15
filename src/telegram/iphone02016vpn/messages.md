@@ -1,5 +1,79 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-14 20:18:11 UTC
+بروزرسانی: 2026-02-15 01:13:13 UTC
+
+### 🕒 2026-02-14 20:55:26 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-14 20:23:27 UTC
+کانفیگ ویژه نپسترنت از ۱تا۶
+***🔥***
+**رایگان**
+برای استفاده از کانفیگ نپستر باید برنامه npv tunnel رو 
+از 
+[play store](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+یا 
+[app store (ios) ](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+یا 
+[فایل تلگرامی](https://t.me/iphone02016vpn/24699)
+ 
+دانلود کنید.
+اگه فیلترشکنت برای دانلود برنامه npv tunnel نسخه اندروید وصل نمیشه، برای راهنمایی نصب برنامه بدون نیاز به فیلترشکن 
+[روی من کلیک کن](https://t.me/iphone02016vpn/25081)
+.
+**🔺فایل رو دانلود و **
+در فایل منیجر و files 
+**ذخیره کنید**
+وارد اپ بشین قسمت کانفیگ +
+Impoet npvt config file 
+بزنید 
+کانفیگو انتخاب کنید خودکار وارد اپ میشه سپس اتصال بزنید 
+***✋***
+****
+[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
+** **
+[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
+** **
+[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+****
+[#npesternet](?q=%23npesternet)
+**  **
+[#MTProto](?q=%23MTProto)
+**  **
+[#npvTunnel](?q=%23npvTunnel)
+****
+[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
+** **
+[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
+** **
+[#vpn](?q=%23vpn)
+** **
+[#singbox](?q=%23singbox)
+** **
+[#proxy](?q=%23proxy)
+** **
+[#v2ray](?q=%23v2ray)
+** **
+[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
+** **
+[#NapsternetV](?q=%23NapsternetV)
+** **
+[#iOS](?q=%23iOS)
+** **
+[#Config](?q=%23Config)
+** ❤️**
+**🆔 **
+[@iphone02016vpn](https://t.me/iphone02016vpn)
+**+ نظرتون  ؟! 👍 OR 👎**
+
+---
 
 ### 🕒 2026-02-14 20:15:43 UTC
 ***🆔***
@@ -705,308 +779,6 @@ vless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@metrix.taklady.com:47042?security=&
 
 ### 🕒 2026-02-13 01:43:57 UTC
 `ss://YWVzLTI1Ni1nY206dXdtUlVPVk01bGpOQXRQag%3D%3D@154.53.57.143:80#***🆔*** @iphone02016vpnvless://2030e5bc-c538-4551-a98a-61f9eef76d82@185.201.50.149:8443?path=%2F%3Fed%3D2048&security=none&encryption=none&host=telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com&type=ws#***🆔*** @iphone02016vpnvless://80e8309c-8235-47b2-b99f-d235cf2d46a4@91.198.77.216:42206?security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp#***🆔*** @iphone02016vpnvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#***🆔*** @iphone02016vpnvless://a9417401-981c-4abd-9254-28061afc3703@87.107.83.19:4040?security=none&encryption=none&headerType=none&type=tcp#***🆔*** @iphone02016vpnvless://b061ca55-518b-4648-bec8-3ee97b0ea8b4@87.107.83.19:5002?security=none&encryption=none&headerType=none&type=tcp#***🆔*** @iphone02016vpnvless://b197b4f9-0c3b-aaa7-ba41-939c6dd5967f@2.189.255.3:8080?path=%2FIVApi%2FUS%2F3&security=none&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&type=ws#***🆔*** @iphone02016vpnvless://f291de93-b084-40b3-b4da-af90cd99de46@68.183.228.227:443?path=%2FLK%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&fp=chrome&type=ws&allowInsecure=1&sni=zoom.com#***🆔*** @iphone02016vpnvless://ff6fb512-147d-419a-9672-e131133f7189@lt-cherry-01.com:8443?security=reality&encryption=none&pbk=L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=e0ef3d5c0aacb615#***🆔*** @iphone02016vpn`
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-13 00:56:24 UTC
-کانفیگ V2ray 
-vless://b8773ac0-5d39-455d-a05b-a5f14d194049@65.109.221.182:46000?security=&encryption=none&headerType=&type=tcp#92hj8bvu
-vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=&encryption=none&headerType=&type=tcp#nmnovfex
-vless://25f828ef-fc93-446c-a7d5-e3fe6fe6a662@65.109.188.104:27759?security=&encryption=none&headerType=&type=tcp#o5ulfxm2
-vless://01ec5a9e-5f00-46e7-8697-5ba0a6bde23c@65.109.186.96:48622?security=&encryption=none&headerType=&type=tcp#9uzpt59s
-vless://e00cf9e6-b8fa-4f45-85db-d3dcee1f0d57@65.109.177.40:25680?security=&encryption=none&headerType=&type=tcp#qf3b0zck
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-13 00:55:37 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-13 00:55:17 UTC
-[https://t.me/proxy?server=195.254.165.216&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.216&port=65535&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-13 00:54:10 UTC
-***🌟***
- 
-**کانفیگ های جدید اختصاصی OpenVPN**
- 
-**با حجم و اعتبار نامحدود**
-**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
-برای اتصال از نام کاربری و پسورد زیر استفاده کنید:
-**Username**
-***👇***
-goofi6580@gmail.com
-**Password**
-***👇***
-`@pewezavpn`
-***📍***
- 
-**لینک دانلود برنامه**
-:
-***📥***
- 
-[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
-  |  
-[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
-  | 
-[Windows](https://t.me/PewezaVPN/6690?single)
-برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-13 00:31:01 UTC
-[https://t.me/proxy?server=https.abr-parvaz.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=https.abr-parvaz.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.146.238&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-12 23:28:43 UTC
-[پروکسی تستی](https://t.me/proxy?server=195.254.165.227&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-12 22:56:37 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-12 20:54:01 UTC
-{
-  "dns": {
-    "fallbackStrategy": "disabledIfAnyMatch",
-    "servers": [
-      {
-        "address": "
-[8.8.8.8](http://8.8.8.8/)
-",
-        "domains": [],
-        "fakedns": [
-          {
-            "ipPool": "
-[198.18.0.0/15](http://198.18.0.0/15)
-",
-            "poolSize": 65535
-          }
-        ],
-        "queryStrategy": "UseIPv4"
-      }
-    ]
-  },
-  "inbounds": [
-    {
-      "listen": "
-[0.0.0.0](http://0.0.0.0/)
-",
-      "port": 2080,
-      "protocol": "socks",
-      "settings": {
-        "auth": "noauth",
-        "udp": true
-      },
-      "sniffing": {
-        "destOverride": [
-          "fakedns"
-        ],
-        "enabled": true,
-        "metadataOnly": true,
-        "routeOnly": true
-      },
-      "tag": "socks"
-    },
-    {
-      "listen": "
-[0.0.0.0](http://0.0.0.0/)
-",
-      "port": 9080,
-      "protocol": "http",
-      "settings": {
-        "allowTransparent": true
-      },
-      "sniffing": {
-        "destOverride": [
-          "fakedns"
-        ],
-        "enabled": true,
-        "metadataOnly": true,
-        "routeOnly": true
-      },
-      "tag": "http"
-    }
-  ],
-  "log": {
-    "loglevel": "warning"
-  },
-  "outbounds": [
-    {
-      "protocol": "http",
-      "settings": {
-        "servers": [
-          {
-            "address": "
-[45.154.96.217](http://45.154.96.217/)
-",
-            "port": 443,
-            "users": [
-              {
-                "pass": "fuckgfw123",
-                "user": "
-[@Arshiacomplus](https://t.me/Arshiacomplus)
-"
-              }
-            ]
-          }
-        ]
-      },
-      "streamSettings": {
-        "network": "tcp",
-        "security": "tls",
-        "tcpSettings": {},
-        "tlsSettings": {
-          "serverName": "
-[arshiacomplus.nscl.ir](http://arshiacomplus.nscl.ir/)
-"
-        }
-      },
-      "tag": "proxy-global-368428"
-    },
-    {
-      "protocol": "freedom",
-      "tag": "direct"
-    },
-    {
-      "protocol": "freedom",
-      "tag": "bypass"
-    },
-    {
-      "protocol": "blackhole",
-      "tag": "block"
-    },
-    {
-      "protocol": "dns",
-      "settings": {
-        "userLevel": 1
-      },
-      "tag": "dns-out"
-    }
-  ],
-  "policy": {
-    "levels": {
-      "1": {
-        "connIdle": 30
-      }
-    },
-    "system": {
-      "statsOutboundDownlink": true,
-      "statsOutboundUplink": true
-    }
-  },
-  "routing": {
-    "domainStrategy": "IPIfNonMatch",
-    "rules": [
-      {
-        "inboundTag": [
-          "dns-in"
-        ],
-        "outboundTag": "dns-out",
-        "type": "field"
-      }
-    ]
-  },
-  "stats": {}
-}
-
----
-
-### 🕒 2026-02-12 20:45:33 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%87%B3%F0%9F%87%B1%20%20%F0%9F%86%94%20@iphone02016vpn`
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-12 20:18:52 UTC
-***🔥***
-**کانفیگ‌ OpenVpn ( استخراجی ) 🔥کشور: هلند 🇳🇱برای Android | IOS | Windows**
-**Android**
-: 
-[Openvpn-connect](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
-**IOS**
-: 
-[Openvpn-connect](https://apps.apple.com/us/app/openvpn-connect/id590379981)
-**Windows**
-: 
-[Openvpn-connect](https://openvpn.net/client/)
-***🔥***
-**متصل با همه اپراتور ها🔥**
-Username:bc059e4@nodrama.ndr
-Password:72b535%B
- 
-****
-**زمان : نامحدودحجم : نامحدود**
-**💥ری اکشن و⭐️ فراموش نشه دوستان💥**
-[#openvpn](?q=%23openvpn)
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)

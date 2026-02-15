@@ -1,5 +1,27 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-14 20:15:16 UTC
+بروزرسانی: 2026-02-15 01:10:17 UTC
+
+### 🕒 2026-02-14 20:56:22 UTC
+***🔰***
+@PewezaVPN(VIP).npvt
+
+---
+
+### 🕒 2026-02-14 20:53:38 UTC
+***🔐***
+** فایل 13 کانفیگ جدید نت ملی اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری VIP ویژهبا وارد کردن این فایل داخل نپستر 13 کانفیگ جدید VIP داخل برنامه اضافه میشود.مناسب نت ملی و شرایط سخت اینترنتی**
+برای اتصال چند ثانیه صبور باشید.
+با اکثر اینترنت ها تست شد.
+**لینک دانلود برنامه اندروید**
+:
+[t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
+**لینک دانلود برنامه آیفون : **
+[https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-14 20:11:32 UTC
 ***✅***
@@ -325,64 +347,6 @@
 
 ### 🕒 2026-02-13 06:58:00 UTC
 اکانت سورفشارک که گذاشتیم متاسفانه به دلیل ظرفیت بالای کاربرها توسط خود شرکت غیرفعال شد به همین دلیل پستشو پاک کردیم، حتما سعی میکنیم راه حل جایگزین ارائه بدیم.
-
----
-
-### 🕒 2026-02-13 00:37:33 UTC
-@PewezaVPN(30).ovpn
-
----
-
-### 🕒 2026-02-13 00:36:41 UTC
-***🌟***
- 
-**کانفیگ های جدید اختصاصی OpenVPN**
- 
-**با حجم و اعتبار نامحدود**
-**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
-برای اتصال از نام کاربری و پسورد زیر استفاده کنید:
-**Username**
-***👇***
-`goofi6580@gmail.com`
-**Password**
-***👇***
-[@pewezavpn](https://t.me/pewezavpn)
-***📍***
- 
-**لینک دانلود برنامه**
-:
-***📥***
- 
-[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
-  |  
-[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
-  | 
-[Windows](https://t.me/PewezaVPN/6690?single)
-***📍***
- 
-[آموزش اتصال تصویری](https://t.me/PewezaVPN/6688?single)
-برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-12 21:10:38 UTC
-***✅***
- 
-**چند سرور جدید V2Ray نت ملی اختصاصی برای دوستانی که اینترنت به شدت ضعیف ملی دارند. ممکنه اتصال چند ثانیه طول بکشه**
-.
-`vless://b540bc90-daef-4392-b1af-d131e572acaf@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vmess://eyJhZGQiOiI5NS4zOC4xMzIuNjgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNwZWVkdGVzdC5uZXQiLCJpZCI6IjI3NWY4ZDljLTIzOTMtNGZhMy04NzA5LTk3ZDU1NjI5NTE0YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwODAwIiwicHMiOiLwn5KrIEBQZXdlemFWUE4gKNiq2YTar9ix2KfZhSkiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9`
-`vless://98aaebaa-bf4f-4e25-96f2-844691440360@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=helimeligodi.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vless://98aaebaa-bf4f-4e25-96f2-844691440360@in-yeki-vase-nika.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=in-yeki-vase-nika.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=0&sni=in-yeki-vase-nika.global.ssl.fastly.net#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-`vless://98aaebaa-bf4f-4e25-96f2-844691440360@theverge.com:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=declanrice.global.ssl.fastly.net&type=ws#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29`
-[**لینک تمامی برنامه های V2ray**](https://t.me/PewezaVPN/5269)
- 
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
 
 ---
 

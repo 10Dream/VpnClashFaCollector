@@ -1,5 +1,48 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-14 20:20:02 UTC
+بروزرسانی: 2026-02-15 01:15:10 UTC
+
+### 🕒 2026-02-14 21:21:48 UTC
+آموزش ساخت 
+[#کانفینگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%D9%86%DA%AF)
+ رایگان و پرسرعت
+***🔥***
+***🥶***
+(ورکر کلودفلر)
+نکته:
+برای اطلاعات تکمیلی یا لینک های گفته شده داخل ویدیو از یوتوب مشاهده کنید و لینک های مربوطه کلیک کنید!
+لینک یوتوب:
+[https://www.youtube.com/playlist?list=PLhHJV7J7TK7-t36HwKt5IcoMLiDqMjZ6m](https://www.youtube.com/playlist?list=PLhHJV7J7TK7-t36HwKt5IcoMLiDqMjZ6m)
+مرسی از آقا مهدی صدقی نسب
+***🫰***
+[@xsfilternet](https://t.me/xsfilternet)
+[@mehdisedighinasab](https://t.me/mehdisedighinasab)
+
+---
+
+### 🕒 2026-02-14 20:51:26 UTC
+ساختم:))) بزنید تو 
+[Mahsang](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
+ یا 
+[v2rayng](https://t.me/xszapass/45)
+ رفقا
+***☯️***
+***🥶***
+`wireguard://uPnOVvknUik9L6CCbwL0ilNxlgKLaLC9EC2FVcoGF28%3D@162.159.192.4:500?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=115%2C35%2C212&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%A5%B6wireguard://uPnOVvknUik9L6CCbwL0ilNxlgKLaLC9EC2FVcoGF28%3D@162.159.195.8:3581?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=115%2C35%2C212&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%A5%B6wireguard://uPnOVvknUik9L6CCbwL0ilNxlgKLaLC9EC2FVcoGF28%3D@162.159.192.2:878?wnoise=quic&presharedkey=&address=172.16.0.2%2F32&reserved=115%2C35%2C212&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-2&wnoisecount=15&mtu=1280#%F0%9F%A5%B6`
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-14 20:33:42 UTC
+مجدد #وارپ روی بعضی اپراتور ها وصله به همین دلیل میتونید از اندپوینت ها داخل oblivion استفاده کنید!
+***🚀***
+  162.159.192.4:500 162.159.192.2:878 162.159.192.6:864 162.159.192.1:2408 162.159.195.8:3581 162.159.192.1:2408 162.159.195.1:4177 162.159.195.3:878 162.159.192.8:903…
+
+---
+
+### 🕒 2026-02-14 19:18:30 UTC
+رمز:Irdevs_Dns
+
+---
 
 ### 🕒 2026-02-14 09:20:44 UTC
 آقا امروز تولدمه ۱۸ سالم شد...
@@ -168,18 +211,6 @@ Get Free 90 Day's Shadowsocks Config
 ***💰***
  
 [دونیت](https://nowpayments.io/donation/matinsenpai)
-
----
-
-### 🕒 2026-02-12 20:29:11 UTC
-به زودی 
-[#آموزش](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4)
- متنی ترکیب cdn و ورکر رو میزارم تا پینگ تایم و محدودیت های توییتر و هوش مصنوعی براتون برداشته شه و 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- رایگان و پرسرعت داشته باشید این روش به کمک هوش مصنوعی پیدا شده!
-***☯️***
-***🥶***
-[@xsfilternet](https://t.me/xsfilternet)
 
 ---
 

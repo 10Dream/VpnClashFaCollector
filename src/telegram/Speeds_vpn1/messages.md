@@ -1,5 +1,135 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-14 20:16:31 UTC
+بروزرسانی: 2026-02-15 01:11:33 UTC
+
+### 🕒 2026-02-14 21:52:12 UTC
+***🚨***
+**مخصوص رایتل و ایرانسل **
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+‌
+`vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#@SPEEDS_VPN1-🫆vless://38f448b9-0c34-4eb2-b42d-e32b745e719d@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆vless://dfbb104b-120f-4a5a-b8c3-e0cfaadbbf93@mla.allonetworks.ru:443?mode=auto&path=%2Findex.html%2F&security=tls&encryption=none&insecure=0&host=mla.allonetworks.ru&fp=random&type=xhttp&allowInsecure=0&sni=mla.allonetworks.ru#@SPEEDS_VPN1-🫆`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔄***
+زمان پایان سرویس حداکثر 12ساعت
+***🛜***
+ در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-14 20:32:37 UTC
+**برای رصد ترافیک هوایی و دریایی در لحظه، می‌تونید از این سایت‌ها استفاده کنید:**
+سایت 
+[Flightradar24](https://www.flightradar24.com/)
+: ردیابی آنلاین پروازها و نمایش موقعیت لحظه‌ای هواپیماها روی نقشه.
+سایت 
+[ADSBExchange](https://www.adsbexchange.com/)
+: اطلاعات پروازهای تجاری و غیرتجاری از طریق داده‌های ADS-B برای ردیابی هواپیماها.
+سایت 
+[MarineTraffic](https://www.marinetraffic.com/)
+: ردیابی و مشاهده کشتی‌ها و ناوگان دریایی در لحظه بر روی نقشه.
+سایت 
+[VesselFinder](https://www.vesselfinder.com/)
+: ردیابی موقعیت کشتی‌ها و قایق‌ها در دریا با استفاده از داده‌های AIS.
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-14 20:27:26 UTC
+***🚨***
+**مخصوص رایتل و ایرانسل **
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+‌
+`vless://38f448b9-0c34-4eb2-b42d-e32b745e719d@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#@SPEEDS_VPN1-🫆vless://c8c57027-17a2-4bff-9510-c2b14aaf0251@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔄***
+زمان پایان سرویس حداکثر 12ساعت
+***🛜***
+ در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
 
 ### 🕒 2026-02-14 11:24:07 UTC
 ***🚨***

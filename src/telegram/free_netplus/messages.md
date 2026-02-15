@@ -1,5 +1,23 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-14 20:17:35 UTC
+بروزرسانی: 2026-02-15 01:12:38 UTC
+
+### 🕒 2026-02-14 21:28:14 UTC
+همه چی جدیدش خوبه رفیق قدیمیش
+***❤️***
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[@Free_Netplus](https://t.me/Free_Netplus)
+ 
+***🪽***
+
+---
 
 ### 🕒 2026-02-14 14:47:01 UTC
 اینو واسه مامانت نفرست 
@@ -299,29 +317,6 @@
  
 [پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
  | 
-[پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[@Free_NetPlus](https://t.me/Free_NetPlus)
- 
-***🪽***
-
----
-
-### 🕒 2026-02-12 21:54:53 UTC
-وصله ؟
-[پروکسی](https://t.me/proxy?server=172.65.143.34&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.137.149&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.157.213&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی](https://t.me/proxy?server=172.65.146.238&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.158.12&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.158.169&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی](https://t.me/proxy?server=172.65.129.49&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=172.65.147.243&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
 [پروکسی](https://t.me/proxy?server=172.65.155.129&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 [@Free_NetPlus](https://t.me/Free_NetPlus)
  

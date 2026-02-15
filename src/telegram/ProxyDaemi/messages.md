@@ -1,5 +1,54 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-14 20:15:22 UTC
+بروزرسانی: 2026-02-15 01:10:21 UTC
+
+### 🕒 2026-02-14 23:06:44 UTC
+● برد لن 
+● ضریب 1.90
+***🆔***
+[@best_form](https://t.me/best_form)
+***🫵***
+ میخوای یاد بگیری چطوری با همین گوشی تو دستت از پیش بینی فوتبال میلیونی سود کنی؟ سیگنال ضریب بالا و مطمئن میخوای؟ فرصتو از دست نده همین الان عضو کانال VIP زیر شو
+***👇***
+a25
+***🅰***
+[Join            Join            JoinJoin            Join            Join](https://t.me/+LLvtgDfsZzs1ZjRk)
+
+---
+
+### 🕒 2026-02-14 21:14:40 UTC
+خبر بد: 
+هيچ چيز هميشگى نيست...
+خبر خوب:
+هيچ چيز هميشگى نيست...
+[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-14 17:17:53 UTC
 دردی به وسعت ایران ….
@@ -113,96 +162,6 @@ Sponsored by
 [@rainbetcom](https://t.me/rainbetcom)
  - 
 [rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-14 10:02:48 UTC
-**📱**
-** اپلیکیشن اندروید بدون فیلتر ریتزوبت **
-***🔹***
- 
-**ثبت نام آسان**
- 
-***✅***
-***🔹***
- 
-**رابط کاربری بسیار راحت و سریع**
- 
-***✅***
-***🔹***
-** درگاه پرداخت کارت به کارت**
- 
-***✅***
-***🔹***
-** درگاه پرداخت دلاری سریع**
- 
-***✅***
-***🔹***
- 
-**بونوس ۱۰۰ درصدی اولین واریز**
- 
-***✅***
-***🔹***
- 
-**بونوس ۱۰۰ درصدی واریز یکشنبه‌ها**
- 
-***✅***
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***⚡️***
- 
-[@RitzoBet_ir](https://t.me/RitzoBet_ir)
-
----
-
-### 🕒 2026-02-14 10:02:48 UTC
-***⚡️***
- بازی های متنوع کازینو را در سایت ریتزوبت
-** **
-پیشبینی کنید
-***👇***
-****
-***1️⃣***
- بازی پولساز 
-**انفجار**
- 
-***✅***
-***2️⃣***
- بازی پولساز 
-**رولت زنده **
-***✅***
-***3️⃣***
- بازی پولساز 
-**بلک جک ( ۲۱ )**
- 
-***✅***
-***💰***
- روش های متنوع شارژ و برداشت در ریتزوبت
-***🔥***
- 
-****
-**⚠️**
-** نکته : برای دسترسی به ووچر و کارت به کارت ، واحد پول حسابتون در سایت رو ریالی بزارید**
-R25
-***🅰***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***⚡️***
- در ریتزوبت‌ ؛ بازی کن، پیش‌بینی کن، برنده شو!
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***2️⃣***
- 
-[@RitzoBet_ir](https://t.me/RitzoBet_ir)
 
 ---
 
@@ -553,49 +512,6 @@ Sponsored by
 [**معرفی سایت و اپلیکیشن مل‌بت**](https://t.me/MelBet_Iran1/880)
 ***💯***
 [** ورود به سایت مل‌بت (فیلترشکن خاموش)**](http://iklopqazws.pro/registration?tag=d_699225m_33771c_Registration)
-
----
-
-### 🕒 2026-02-12 20:27:15 UTC
-***🔴***
-ترامپ : تا ماه آینده همه چی مشخص میشه فرصت دیگه ای نیست  آیفون | آیفون | آیفون پروکسی | پروکسی | پروکسی | پروکسی پروکسی | پروکسی | پروکسی | پروکسی  @ProxyDaemi 
-***🔵***
- 
-***💧***
-Sponsored by @rainbetcom - rainbet.com
-
----
-
-### 🕒 2026-02-12 20:26:18 UTC
-***🔴***
-ترامپ : تا ماه آینده همه چی مشخص میشه فرصت دیگه ای نیست
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
 
 ---
 

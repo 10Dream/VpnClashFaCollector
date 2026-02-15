@@ -1,5 +1,69 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-14 20:17:12 UTC
+بروزرسانی: 2026-02-15 01:12:16 UTC
+
+### 🕒 2026-02-14 21:09:41 UTC
+> ↪️ **Forwarded**
+
+***🔥***
+ 
+**کانفیگ جدید رسید!**
+***✅***
+ تست شده همراه اول
+***📍***
+ لوکیشن : آمریکا 
+***📶***
+ سرعت اتصال : 
+***🟢***
+ خیلی خوب
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIlx1RDgzQ1x1RERGQVx1RDgzQ1x1RERGOCB8IFx1RDgzRFx1REM0OVx1RDgzRFx1REM0OSBAXHVEODM1XHVEREVCXHVEODM1XHVERTAzXHVEODM1XHVEREZEXHVEODM1XHVEREZCXHVEODM1XHVEREZEXHVEODM1XHVEREY5XHVEODM1XHVERTAyXHVEODM1XHVERTAwX1x1RDgzNVx1RERFRlx1RDgzNVx1RERGQ1x1RDgzNVx1REUwMSBcdUQ4M0RcdURDNDhcdUQ4M0RcdURDNDggfFx1RDgzRFx1RENGNiBcdUQ4MzVcdURFN0NcdUQ4MzVcdURFNzJcdUQ4MzVcdURFNzgiLA0KICAiYWRkIjogImNmbmV3LmF2YWFhYWwuaXIiLA0KICAicG9ydCI6ICI4NDQzIiwNCiAgImlkIjogIjA0N2Y1ZDU3LTI2ZTAtNDE4MC1iZjAzLWNmMmM3NWU2MGZlNSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICItLS0iLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogImNkZ2UuYXZhYWFhbC5pciIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICJjaHJvbWUiDQp9
+جهت دریافت کانفیگ دائمی به لینک زیر مراجعه کنید.
+***👉***
+ 
+[**@Xvpnplus_bot**](https://t.me/Xvpnplus_bot)
+ 
+***🍕***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍔***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍺***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+
+---
+
+### 🕒 2026-02-14 21:09:41 UTC
+> ↪️ **Forwarded**
+
+***🔥***
+ 
+**کانفیگ جدید رسید!**
+***✅***
+ تست شده
+***📍***
+ لوکیشن : 
+***🌏***
+***📶***
+ سرعت اتصال : 
+***🟡***
+ خوب
+vless://a3beb4ef-d875-409f-b8f2-d4025f096e1d@gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com:33431?encryption=none&security=reality&sni=www.icloud.com&fp=chrome&pbk=DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk&sid=cceca309a6cd013a&type=tcp&headerType=none#C4%20%3A%20%40Xvpnplus_bot%20%7C%20%E2%9C%85
+***👉***
+ 
+[**@Xvpnplus_bot**](https://t.me/Xvpnplus_bot)
+ 
+***🍕***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍔***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+***🍺***
+ 
+[@xvpnplus_bot](https://t.me/xvpnplus_bot)
+
+---
 
 ### 🕒 2026-02-13 21:17:52 UTC
 > ↪️ **Forwarded**
@@ -64,31 +128,6 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkMxIDogQFh2cG5wbHVzX2JvdCB8IE1DSSBcdTI3
 صاحبین فروشگاه های اینستاگرامی و ....
 پروکسی متصل و رایگان 
 [https://t.me/proxy?server=94.237.51.140&port=443&secret=00112233445566778899aabbccddeeff](https://t.me/proxy?server=94.237.51.140&port=443&secret=00112233445566778899aabbccddeeff)
-
----
-
-### 🕒 2026-02-12 20:31:58 UTC
-> ↪️ **Forwarded**
-
-***📂***
- کانفیگ VLESS
-***📍***
- لوکیشن: Iran 
-***🇮🇷***
-***📶***
- پینگ: 206ms
-[#VLESS](?q=%23VLESS)
- 
-[#VPN](?q=%23VPN)
-***🕒***
- انتشار: 20:25 - 1404/11/23
-***💡***
- منبع: 
-[@config_proxy](https://t.me/config_proxy)
-***🔍***
- 
-[QRcode](https://kissapi-qrcode.vercel.app/api/qrcode?cht=qr&amp;chs=200x200&amp;chl=vless%3A%2F%2Fd009862d-c813-4015-b84b-bb196b224c58%40ir.beta3.lowfamila.site%3A4532%3Fsecurity%3Dnone%26encryption%3Dnone%26host%3Dspeedtest.net%26headerType%3Dhttp%26type%3Dtcp%23Telegram%3A%40config_proxy)
-vless://d009862d-c813-4015-b84b-bb196b224c58@ir.beta3.lowfamila.site:4532?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#Telegram:@config_proxy
 
 ---
 

@@ -466,8 +466,9 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 🤞👉 @Xvpnplus_bot | MCI ✅, server: node3.neovpn.store, port: 8446, type: trojan, password: 7FjbPVzZX5ZD94fAUxVycSaahvz0Jr3a, sni: node3.neovpn.store, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Telegram:@config_proxy, server: ir.beta3.lowfamila.site, port: 4532, type: vless, tls: true, packet-encoding: xudp, uuid: d009862d-c813-4015-b84b-bb196b224c58, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "C4 : @Xvpnplus_bot | ✅", server: gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com, port: 33431, type: vless, tls: true, packet-encoding: xudp, uuid: a3beb4ef-d875-409f-b8f2-d4025f096e1d, servername: www.icloud.com, host: www.icloud.com, path: /, reality-opts: {public-key: DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk, short-id: cceca309a6cd013a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "C1 : @Xvpnplus_bot | MCI ✅", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸", server: cfnew.avaaaal.ir, port: 8443, type: vmess, uuid: 047f5d57-26e0-4180-bf03-cf2c75e60fe5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cdge.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cfnew.avaaaal.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,8 +486,9 @@ proxy-groups:
     type: select
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -494,8 +496,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -503,8 +506,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -521,8 +525,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -530,8 +535,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -539,8 +545,9 @@ proxy-groups:
     interval: 600
     proxies:
       - 🤞👉 @Xvpnplus_bot | MCI ✅
-      - Telegram:@config_proxy
+      - "C4 : @Xvpnplus_bot | ✅"
       - "C1 : @Xvpnplus_bot | MCI ✅"
+      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,33 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-14 20:16:49 UTC
+بروزرسانی: 2026-02-15 01:11:52 UTC
+
+### 🕒 2026-02-14 22:46:01 UTC
+***🟠***
+ 
+**نسخه جدید**
+ 
+**فیلترشکن Warpi VPN (اندروید)**
+• نسخه 1.10.49
+نسخه مود شده و بدون محدودیت 
+****
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+برای مشاهده سرورها، بدون فیلترشکن (با فیلتر خاموش) وارد برنامه شوید و به سرورهای دارای پینگ متصل شوید.
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/bz1wrcx3z8rd/Warpi.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-14 21:26:15 UTC
+سرور ویتوری 
+ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#%40vpnbaz%20%F0%9F%8E%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40vpnbaz%20%F0%9F%9B%B8
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%97%BD
+vless://9f5cc587-bdaf-4421-9d72-00e0b651a8de@c43.f9020.fun:17462?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=H95D-kMI_GBUwrxTptZEAx3nS5trIUQEpYf9pJiJkFU&host=s1.t12066.lat&fp=random&spx=%2F&type=xhttp&sni=newstate.pubg.com&sid=a7a337b92582e98a#%40vpnbaz%20%F0%9F%A7%B8
+vless://47cf837f-6372-4dc2-858c-11e13066d164@c43.f9020.fun:28461?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=ySSyiOVRLSSUML6HSJDEJT83wtVzOdOyhmjIH7WIxjw&host=s1.t12066.lat&fp=random&spx=%2F&type=xhttp&sni=newstate.pubg.com&sid=16803a8dd9232813#%40vpnbaz%20%F0%9F%8D%87
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-14 20:11:38 UTC
 سرور ویتوری 
@@ -8,37 +36,6 @@ vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=Pulavpn11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8E%B3
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-14 20:10:34 UTC
-> ↪️ **Forwarded**
-
-فروش سرویس نسل جدید V2ray تانل متصل حتی در اختلالات شدید اینترنت 
-سرورهای متصل با همه اپراتورها
-***✅***
- نامحدود :
-یک ماهه تک کاربر : 250T
-یک ماهه دو کاربر : 300T
-دو ماهه تک کاربر : 500T
-دو ماهه دو کاربر : 600T
-***✅***
- حجمی :
-40 گیگ : 180T
-50 گیگ : 200T
-60 گیگ : 210T 
-70 گیگ : 220T
-80 گیگ : 230T
-90گیگ : 240T
-با سرعت بالا و پشتیبانی ۲۴ ساعته  
-***🌙***
-با خرید همزمان دو سرور، یک سرور ۴۰ گیگ هدیه بگیرید 
-***🎁***
-برای خرید، مشاوره و دریافت سرور تست به آیدی زیر پیام بدید:
-[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
-[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
-**کیفیت را با ما تجربه کنید**
-[#رضایت_شما_افتخار_ماست](?q=%23%D8%B1%D8%B6%D8%A7%DB%8C%D8%AA_%D8%B4%D9%85%D8%A7_%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1_%D9%85%D8%A7%D8%B3%D8%AA)
 
 ---
 
@@ -212,48 +209,6 @@ vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=
 vless://e765eb5b-8442-40e3-9532-857ba5ececa7@66.81.247.155:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
 vless://e07c6a8b-f67d-4297-bc8f-31855eef57a8@www.speedtest.net:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=Tet.mehspeedtest.com#%40vpnbaz%20%F0%9F%9B%9F
 vless://3d285ec0-cde0-4d81-af2e-5f6b9adc3f35@nl.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl.connectv.net#%40vpnbaz%20%F0%9F%8E%AF
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 21:18:03 UTC
-***📌***
-**لیستی از فیلترشکن‌های متصل برای شرایط فعلی اینترنت**
-→ 
-[BinWis VPN](https://t.me/anty_filter/22320?single)
-→‌‌ 
-[Viva VPN](https://t.me/anty_filter/22321?single)
-→ 
-[Psiphon VPN](https://t.me/anty_filter/22375)
-→ 
-[Defyx VPN](https://t.me/anty_filter/22510)
-→ 
-[Argo VPN](https://t.me/anty_filter/22342)
-→ 
-[Free VPN](https://t.me/anty_filter/22327?single)
-→ 
-[GoFly VPN ](https://t.me/anty_filter/22416)
-→ 
-[Warpi VPN](https://t.me/anty_filter/22442)
-→ 
-[Super VPN](https://t.me/anty_filter/22366?single)
-→ 
-[BD NET VPN](https://t.me/anty_filter/22501)
-← 
-[لیست فیلترشکن های پیشنهادی آیفون ](https://t.me/anty_filter/22494)
-وضعیت اتصال به دلیل فیلترینگ منطقه‌ای برای هر شخص متفاوت است؛ اگر موردی برای شما وصل نشد، گزینه‌های دیگر لیست را تست کنید.
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-12 21:06:34 UTC
-سرور ویتوری 
-vless://4a6330e2-da93-44a6-aca2-a0f533fe8921@157.230.97.64:2030?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%92%8A
-vless://b540bc90-daef-4392-b1af-d131e572acaf@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%40vpnbaz%20%F0%9F%A7%B6
-vless://98aaebaa-bf4f-4e25-96f2-844691440360@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=mohsenchavoshi.global.ssl.fastly.net&type=ws#%40vpnbaz%20%F0%9F%8D%AC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@139.59.161.217:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%F0%9F%A7%AD
-vless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?path=%2F103.86.44.120%3D65432&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8E%AD
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%8E%A9
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

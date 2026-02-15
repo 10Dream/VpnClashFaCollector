@@ -1,5 +1,5 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-02-14 20:18:36 UTC
+بروزرسانی: 2026-02-15 01:13:39 UTC
 
 ### 🕒 2026-02-14 20:08:20 UTC
 ***🌙***
@@ -736,31 +736,6 @@ for apps:
 [proxy](https://t.me/oneclickvpnkeys)
 | 
 ***💎***
-[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-
----
-
-### 🕒 2026-02-12 21:19:17 UTC
-***🌙***
-
----
-
-### 🕒 2026-02-12 21:19:12 UTC
-***✔️***
- В подписку : 
-***➡️***
-[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
-Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
-***➡️***
-[Subscription](https://t.me/oneclickvpnkeys/22590)
- is updated!
-Run the test and find the optimal configuration for you.
-***👈***
-[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
-!
-تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
-***🤩***
- 
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
 
 ---
