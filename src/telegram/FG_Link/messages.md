@@ -1,5 +1,5 @@
 # آرشیو کانال: @FG_Link
-بروزرسانی: 2026-02-15 20:14:44 UTC
+بروزرسانی: 2026-02-16 01:07:01 UTC
 
 ### 🕒 2026-02-15 14:34:31 UTC
 vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.microsoft.com&fp=chrome&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2&type=tcp&headerType=none#%E2%98%A2%EF%B8%8F35%40unvisible_drops

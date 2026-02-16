@@ -1,5 +1,38 @@
 # آرشیو کانال: @Myporoxy
-بروزرسانی: 2026-02-15 20:15:17 UTC
+بروزرسانی: 2026-02-16 01:07:31 UTC
+
+### 🕒 2026-02-15 20:43:57 UTC
+***✅***
+ از شما مهندسین عزیز دعوت میشه عضو کانال "
+**گروه مهندسی ۲۸۰۰**
+" شوید و از آرشیو رایگان آن استفاده نمائید
+***👇***
+***👇***
+[https://t.me/joinchat/BnNo-jz2xkN9vKdimlmA0Q](https://t.me/joinchat/BnNo-jz2xkN9vKdimlmA0Q)
+***❌***
+ عضویت به شدددت توصیه میشه
+***👆***
+***👆***
+***🔻***
+آرشیو مورد نیاز هر مهندس
+***👌***
+***💯***
+
+---
+
+### 🕒 2026-02-15 20:23:42 UTC
+***☑️***
+ پروکسی ضد فیلتر و پر سرعت
+[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=www.karako.co.uk&amp;port=600&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+***🔘***
+لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
+***🙏***
+***🆔***
+ 
+[@MyPoroxy](https://t.me/MyPoroxy)
+ ☜
+
+---
 
 ### 🕒 2026-02-15 19:31:21 UTC
 ***☑️***
@@ -183,22 +216,6 @@
 
 ---
 
-### 🕒 2026-02-14 20:32:45 UTC
-> ↪️ **Forwarded**
-
-**میدونستی**
- اگه روزی ۱۴ جمله انگلیسی یاد بگیری، پایان سال بیشتر از کتاب ۵۰۴ جمله مهم تو مکالمه بلدی؟
-پس اگه شما هم زیاد میای تلگرام
-حداقل 
-[**چنل آموزش رایگان انگلیسی**](https://t.me/+BD62hhdR2HU2NDg0)
- رو برای تقویت لغت و مکالمه داشته باش، الکی وقتتو هدر نده، هر روز یک مکالمه انگلیسی یاد بگیر.
-+
-**بفرمایید اینم آدرس کانال**
-:
-[@Englishier ***👈🏻***@Englishier ***👈🏻***](https://t.me/+BD62hhdR2HU2NDg0)
-
----
-
 ### 🕒 2026-02-14 20:14:56 UTC
 ***☑️***
  پروکسی ضد فیلتر و پر سرعت
@@ -329,20 +346,6 @@
 ***☑️***
  پروکسی ضد فیلتر و پر سرعت
 [https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=kalakbaz.kalakbazi-co.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🔘***
-لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
-***🙏***
-***🆔***
- 
-[@MyPoroxy](https://t.me/MyPoroxy)
- ☜
-
----
-
-### 🕒 2026-02-13 21:17:15 UTC
-***☑️***
- پروکسی ضد فیلتر و پر سرعت
-[https://t.me/proxy?server=Berke.Wikimoon.sale&port=443&secret=7jK5IN_7UWQwKOL2uHjU6sFkbXl3ZWIuY2xvdWRmcm9udC5uZXQ](https://t.me/proxy?server=www.karako.co.uk&amp;port=600&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 ***🔘***
 لطفا پروکسی ها را برای دوستان خود هم ارسال کنید تا استفاده کنند
 ***🙏***

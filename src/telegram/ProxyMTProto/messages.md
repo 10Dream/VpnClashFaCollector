@@ -1,5 +1,29 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-15 20:16:00 UTC
+بروزرسانی: 2026-02-16 01:08:13 UTC
+
+### 🕒 2026-02-15 20:28:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`8443`
+Secret: 
+`dd79e7010200010007f0030386e24c3add`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-15 20:28:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`dd10dadd1e7c27a20098abb5bf53ca26a8`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-15 19:30:02 UTC
 Server: 
@@ -424,30 +448,6 @@ Port:
 `22`
 Secret: 
 `fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-13 20:28:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`23`
-Secret: 
-`eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-13 20:28:01 UTC
-Server: 
-`god.gamelande.info.`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

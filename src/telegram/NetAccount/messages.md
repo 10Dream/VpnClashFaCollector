@@ -1,5 +1,42 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-15 20:15:40 UTC
+بروزرسانی: 2026-02-16 01:07:53 UTC
+
+### 🕒 2026-02-15 23:26:23 UTC
+[پروکسی](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q)
+ | 
+[پروکسی](https://t.me/proxy?server=195.254.165.13&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=116.203.242.112&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی](https://t.me/proxy?server=snap.huijsen.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=www.alibaba1409.org&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+
+---
+
+### 🕒 2026-02-15 22:41:28 UTC
+عشقا برید اینو امضا کنید تا از سخنرانی کاظم خودکار دزد و اون زنه که سالها درخدمت جمهوری اسلامی بوده هم جلوگیری شه توی سازمان ملل:
+[https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council](https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council)
+
+---
+
+### 🕒 2026-02-15 20:33:44 UTC
+شاهزاده رضا پهلوی امشب در گفتگو با فاکس نیوز با اشاره به حضور گسترده ایرانیان در مونیخ و شهرهای مختلف جهان گفت حضور صدها هزار نفر از ایرانیان داخل و خارج کشور نشان دهنده همبستگی بی سابقه و حمایت گسترده از اعتراضات مردمی است. او تاکید کرد با وجود کشتارهای اخیر، مردم ایران همچنان به اعتراض ادامه می دهند و میلیون ها نفر از آن ها از این اعتراضات پشتیبانی می کنند.
+شاهزاده با اشاره به اظهارات رئیس‌جمهوری ایالات متحده درباره تغییر حکومت افزود خواست مردم ایران بسیار روشن است و آن آزادی و رهایی است.
+او همچنین با بیان این که کشتن، اعدام، بازداشت و شکنجه در ایران متوقف نشده است، خواستار مداخله انسانی از سوی جامعه جهانی شد و گفت چنین اقدامی می تواند جان انسان های بیشتری را نجات دهد و به پایان دادن به حکومتی که آن را ناخواسته خواند کمک کند.
+
+---
 
 ### 🕒 2026-02-15 19:42:58 UTC
 پسر کو ندارد نشان از پدر
@@ -103,12 +140,6 @@
 ### 🕒 2026-02-15 17:10:21 UTC
 [#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
  تهران جنت آباد
-
----
-
-### 🕒 2026-02-15 17:09:43 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- پردیس فاز 9
 
 ---
 
@@ -1184,134 +1215,6 @@ Password:
 [لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
  | 
 [لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-14 00:31:55 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- |
-[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- 
-[پروکسی](https://t.me/proxy?server=185.3.200.6&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.4&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- 
-[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-14 00:10:24 UTC
-خبرگزاری رویترز به نقل از دو مقام آمریکایی: ارتش ایالات متحده در حال آماده سازی برای احتمال اجرای عملیات نظامی چند هفته‌ای و پایدار علیه جمهوری اسلامی است.
-اقدامی که در صورت صدور دستور از سوی دونالد ترامپ، رییس جمهوری آمریکا، می‌تواند به درگیری گسترده‌تری نسبت به تنش‌های پیشین میان دو کشور منجر شود.
-بر اساس این گزارش، پنتاگون سناریو هایی فراتر از حمله محدود به تاسیسات هسته‌ای را بررسی می‌کند و احتمال هدف قرار گرفتن مراکز دولتی و امنیتی نیز مطرح است. این مقام‌ها که نامشان فاش نشده، گفته‌اند واشنگتن انتظار دارد جمهوری اسلامی در صورت وقوع حمله، دست به اقدام متقابل بزند.
-[لینک منبع](https://www.reuters.com/world/middle-east/us-military-preparing-potentially-weeks-long-iran-operations-2026-02-13/)
-
----
-
-### 🕒 2026-02-13 23:20:48 UTC
-> ↪️ **Forwarded**
-
-‏از دیدار امروز با رئیس‌جمهور زلنسکی در مونیخ بسیار خرسند شدم. ما، دو ملتی را نمایندگی می‌کنیم که با تهدیدها علیه آزادی و حاکمیت ملی خود مبارزه می‌کنند. تهدید علیه اوکراین خارجی است و تهدید علیه ایران داخلی. ملت‌های ما به‌واسطه همین واقعیت و نیز شجاعت کم‌نظیر مردم‌شان به هم پیوند خورده‌اند.
-‏در این دیدار درباره حمایت متقابل از تلاش‌ها برای رهایی کشورهای‌مان و نیز همکاری‌های ثمربخشی که می‌توانیم در مسیر مبارزه برای آزادی شکل دهیم گفت‌وگو کردیم.
-‏مشتاقم همکاری‌هایم با رئیس‌جمهور زلنسکی ادامه یابد و از حمایت ایشان از ملت ایران صمیمانه سپاسگزارم.
-I was pleased to meet with President Zelenskyy today in Munich. We each represent nations fighting threats to our freedom and sovereignty. The threat to Ukraine is foreign. The threat to Iran is domestic. Our nations and people are bonded by this and by their remarkable courage.
-We discussed our mutual support for the liberation of our respective nations and the fruitful collaboration we can build in the fight for freedom. 
-I look forward to continuing to work with President Zelenskyy and am thankful for his support of the people of Iran.
-[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
-
----
-
-### 🕒 2026-02-13 22:19:21 UTC
-خبرنگار: در صورت تغییر رژیم چه کسی کنترل ایران را به دست خواهد گرفت؟
-ترامپ: من نمی‌خواهم در مورد آن صحبت کنم. افرادی هستند!
-بسیار کار خوبی میکنه که اسم نمیاره چون خیلی از افراد نمیتونن این ایرادو بگیرن و بگن شاهزاده و.. دست نشانده آمریکا هستن و انگ های مسخره بچسبونن. و در آخر: این مردم خود ایران هستن که انتخاب میکنن چه کسی رو میخوان هیچ فرد دیگه ای نمیتونه
-
----
-
-### 🕒 2026-02-13 22:06:54 UTC
-خبرنگار: جمهوری اسلامی برای جلوگیری از حمله چه کاری می‌تواند انجام دهد؟
-ترامپ: توافقی را که باید همان بار اول به ما می‌دادند، به ما بدهند. اگر توافق درست را ارائه کنند، ما چنین کاری نخواهیم کرد.
-آن‌ها می‌خواهند صحبت کنند، اما تا اینجا حرف زیاد زده‌اند و اقدامی انجام نداده‌اند.
-ما نمی خواهیم هیچ‌گونه غنی‌سازی داشته باشند.
-از اولشم مشخص بود که جمهوری اسلامی تسلیم نمیشه و شروطو نمیپذیره. این وقت تلف کردن ها و مذاکرات برای رسیدن تجهیزات آمریکا و مشروعیت برای حمله اس وگرنه هم ترامپ هم نتانیاهو هم بقیه میدونن جمهوری اسلامی کوتاه نمیاد و حمله قطعیه
-
----
-
-### 🕒 2026-02-13 21:44:26 UTC
-**لحظاتی قبل دونالد ترامپ در مورد ایران:«به نظر می‌رسد تغییر رژیم در ایران بهترین اتفاقی باشد که می‌تواند رخ دهد»**
-47 سال است که آنها مدام حرف می‌زنند و حرف می‌زنند و حرف می‌زنند. در این میان، ما جان‌های زیادی را در حین حرف زدن آنها از دست داده‌ایم. پاها، بازوها و صورت‌ها از بین رفته‌اند.
-این مدت زیادی است که ادامه دارد. پس بیایید ببینیم چه اتفاقی می‌افتد.
-​در این بین، قدرت عظیمی [به منطقه] رسیده است و همان‌طور که می‌دانید، قدرت بیشتری هم در راه است و ناوهای دیگری هم به زودی اعزام می‌شوند. پس تا آخرش پیش می‌رویم. اگر بتوانیم این موضوع را یک بار برای همیشه حل کنیم، خیلی خوب خواهد بود.»
-اول باید ببینم با آنها توافق میشود یا خیر، البته آنها نشان داده اند که اهل توافق نیستند‌
-خبرنگار: شما گفتید تأسیسات هسته‌ای ایران «کاملاً نابود شده‌اند» دیگر چه چیزی باقی مانده که بخواهید هدف قرار دهید؟
-ترامپ: هرچه از آنجا فقط به شکل گرد و غبار باقی مانده باشد. اگر ما این کار را انجام دهیم، واقعاً این کم‌اهمیت‌ترین بخش مأموریت ماست. اما احتمالاً هرچه باقی مانده باشد را هم جمع‌آوری می‌کنیم!
-
----
-
-### 🕒 2026-02-13 21:23:11 UTC
-[https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=3.3pita.com&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=85.133.194.114&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.114&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=darknamikonina.my&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-13 20:43:33 UTC
-14 فوریه روز عشق (ولنتاین) تقدیم به جاویدنامان عاشق عزیزمون
-***🕊***
-***❤️***
-
----
-
-### 🕒 2026-02-13 20:42:55 UTC
-`vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#NetAccountvless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@numarz1.gptpersian.ir:2280?security=reality&encryption=none&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=faf804ddc2e49f6c#NetAccountvless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#NetAccountvless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?path=%2Fvless%2F&security=none&encryption=none&host=akamaized.net&type=ws#NetAccountvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#NetAccountvless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#NetAccountvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#NetAccountvless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?security=reality&encryption=none&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=www.microsoft.com&sid=42d7234d875308a2#NetAccountvless://nothing_88147cqsru@188.253.26.39:442?security=reality&encryption=none&pbk=T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=6ac998b514#NetAccountvless://bfc78cd8-5951-4803-8d6c-4cedef8cd420@95.164.85.109:59374?security=reality&encryption=none&pbk=ZsswZuBV8bEGQWFrpShCilSytnDUj0kwHFhTSLXzOwc&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=d21e7c#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v4.globalfymain.com:8880?mode=gun&security=none&encryption=none&type=grpc&sni=pqh29v4.globalfymain.com#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#NetAccount`
-
----
-
-### 🕒 2026-02-13 20:33:36 UTC
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](tg://proxy?server=185.3.200.99&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.99&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
 
 ---
 

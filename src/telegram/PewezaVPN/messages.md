@@ -1,5 +1,52 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-15 20:15:51 UTC
+بروزرسانی: 2026-02-16 01:08:04 UTC
+
+### 🕒 2026-02-15 21:22:49 UTC
+***🌟***
+ 
+**کانفیگ های جدید اختصاصی OpenVPN**
+ 
+**با حجم و اعتبار نامحدود**
+**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
+**بدون نیاز به یوزر پسورد**
+***📍***
+ 
+**لینک دانلود برنامه**
+:
+***📥***
+ 
+[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+  |  
+[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
+  | 
+[Windows](https://t.me/PewezaVPN/6690?single)
+***📍***
+ 
+[آموزش اتصال تصویری](https://t.me/PewezaVPN/6688?single)
+برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
+
+### 🕒 2026-02-15 21:10:03 UTC
+**این پروکسی های اختصاصی تلگرام جدید ساخته شدن مناسب نت ملی**
+ 
+**برای همه اپراتورها**
+[**پروکسی Peweza اول**](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**پروکسی Peweza دوم**](https://t.me/proxy?server=web.websecc.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[**پروکسی Peweza سوم**](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[**پروکسی Peweza چهارم**](https://t.me/proxy?server=185.157.214.176&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی Peweza پنجم**](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[**پروکسی Peweza ششم**](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[**پروکسی Peweza هفتم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+این لیست پروکسی رو با عزیزاتون به اشتراک بذارید، ظرفیت بالاست و محدودیتی ندارن.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-15 19:24:44 UTC
 پاول دروف داداش چطوری خوبی؟
@@ -261,64 +308,6 @@
 [t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
 **لینک دانلود برنامه آیفون : **
 [https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-14 00:02:29 UTC
-#مود_اختصاصی 
-***🟢***
- آپدیت مود MovieLix اندروید مود شده اختصاصی کانال  
-***🟡***
- دانلود و تماشای آنلاین جدیدترین فیلم ها و سریال های روز دنیا بدون سانسور با زیرنویس یا دوبله فارسی  نسخه: 1.7.5 ارزش نسخه مود: 1,200,000 تومان  
-***✔️***
-توضیحات مهم: بعد از ورود نیازی به لاگین نیست…
-
----
-
-### 🕒 2026-02-13 22:07:04 UTC
-[#مود_اختصاصی](?q=%23%D9%85%D9%88%D8%AF_%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C)
-***🟢***
- 
-**آپدیت مود MovieLix اندرویدمود شده اختصاصی کانال**
-***🟡***
-** دانلود و تماشای آنلاین جدیدترین فیلم ها و سریال های روز دنیا بدون سانسور**
- 
-**با زیرنویس یا دوبله فارسی**
-نسخه: 1.7.5
-ارزش نسخه مود: 1,200,000 تومان
-***✔️***
-**توضیحات مهم:**
-بعد از ورود نیازی به لاگین نیست و "شروع کنیم" رو بزنید. با اینترنت عادی بدون فیلترشکن پیشنهاد میشه از برنامه استفاده کنید.
-***🟢***
-**ویژگی های نسخه مود شده:**
-● افزایش اعتبار به 99999 روز
-● قابلیت دانلود و تماشای آفلاین
-● باز بودن تمامی بخش ها
-● بدون نیاز به لاگین
-● قابل نصب برای تمام پردازنده ها
-● حذف فایل های اضافی
-***⬇️***
-**برای دانلود روی لینک زیر کلیک کنید**
-***🔗***
-《
-[**لینک دانلود**](http://t.me/Pewezabot?start=136068)
-》
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-13 21:56:21 UTC
-***✅***
- 
-**تعداد 9 سرور جدید V2Ray متصل در شرایط سخت حتی نت ملیاختصاصی، کل سرور ها الان تست شد**
-فایل را‌‌ باز‌ کنید و همه سرور ها را‌ با گزینه select all کپی‌ کنید و وارد برنامه مربوطه کنید.
-[**لینک برنامه های V2ray**](https://t.me/PewezaVPN/5269)
-اگر خواستید تست پینگ url test بگیرید، حتما دقت کنید با اینترنت عادی تست بگیرید بدون روشن بودن فیلترشکن.
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)

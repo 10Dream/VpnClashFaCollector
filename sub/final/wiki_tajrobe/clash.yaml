@@ -490,7 +490,6 @@ proxies:
   - {name: "Telegram: @wiki_tajrobe 23", server: zone.sp.flicknet.ir, port: 33563, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad", server: tun1.karunwebco.com, port: 1020, type: vless, tls: true, packet-encoding: xudp, uuid: d747e76d-7e3a-46f9-99ef-ed543042b75f, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM, short-id: 4374d295a4f9dd83}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 24", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d85ea913-7dfa-44b0-bd66-33414e897991, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /35.230.79.26=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 @PayamServerbot - DE 🇩🇪`, server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 25", server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 26", server: vip-76.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 27", server: vip-77.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,7 +541,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"
@@ -584,7 +582,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"
@@ -626,7 +623,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"
@@ -677,7 +673,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"
@@ -719,7 +714,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"
@@ -761,7 +755,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 23"
       - "@filembad"
       - "Telegram: @wiki_tajrobe 24"
-      - 🇩🇪 @PayamServerbot - DE 🇩🇪`
       - "Telegram: @wiki_tajrobe 25"
       - "Telegram: @wiki_tajrobe 26"
       - "Telegram: @wiki_tajrobe 27"

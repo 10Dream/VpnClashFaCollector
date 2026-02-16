@@ -1,5 +1,38 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-15 20:17:20 UTC
+بروزرسانی: 2026-02-16 01:09:32 UTC
+
+### 🕒 2026-02-15 22:03:31 UTC
+***🔴***
+ 
+**نسخه جدید فیلترشکن سایفون (اندروید)**
+• نسخه 450
+نسخه مود شده و بدون محدودیت
+← نسخه
+[ آیفون ](https://apps.apple.com/us/app/psiphon-vpn-freedom-online/id1276263909)
+|
+[ ویندوز](https://t.me/anty_filter/22278?single)
+ 
+← 
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/pigsitlkf0av/Psiphon.apk.html)
+برای اتصال با سایفون نیازی به تنظیمات خاصی نیست.
+برنامه را اجرا کنید، روی اتصال بزنید و کمی صبر کنید.
+اگر مسیر مستقیم در دسترس نباشد، سایفون به‌صورت خودکار شما را از طریق کاندوئیت‌ها متصل می‌کند.
+﻿
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-15 21:38:50 UTC
+سرور ویتوری 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#%40vpnbaz%20%F0%9F%8E%83
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%8E%AD
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%40vpnbaz%20%F0%9F%9B%9F
+vless://416bf752-1181-4733-945a-3403d7ff54dc@85.133.250.174:443?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8F%B3%EF%B8%8F
+vless://d35308d7-2541-42bd-a0ab-a840cb98f54b@213.176.1.48:1027?note=Telegram---@vpnbaz&security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vpnbaz%20%E2%9B%A9%EF%B8%8F
+vmess://eyJhZGQiOiIyMC4xOTMuMTUzLjE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM5YThjMzc0LTc2YjEtNGU5MC1hYjg1LTg1Y2Q5YTQyZGVkMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTU4MzQiLCJwcyI6IkB2cG5iYXog8J+OryIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-15 19:20:22 UTC
 سرور ویتوری 
@@ -184,31 +217,6 @@ vless://ed96b88e-cc12-4fad-8fcb-c0e3a56fc9d4@FASTLY4.FASTSPEEDS.IR:80?mode=auto&
 vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%40vpnbaz%20%F0%9F%8E%B3
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@104.17.148.186:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ch.nping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ch.nping.ir#%40vpnbaz%20%F0%9F%8E%B4
 vless://dd6af632-e4bb-400a-922f-43f75ec89d64@190.93.245.94:443?mode=auto&path=%2Fv1%2Fapi%2Fsync%2Ff47ac10b58cc4372a5670e02b2c3d479&security=tls&alpn=h2&encryption=none&insecure=0&host=api-ws-de.nxping.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=api-ws-de.nxping.ir#%40vpnbaz%20%F0%9F%8E%AD
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-13 23:18:37 UTC
-***🟢***
- 
-**فیلترشکن Netrino VPN (اندروید)**
-• نسخه 8.0
-نسخه مود شده و بدون محدودیت 
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-وصل نشد، سرورهای دیگه رو تست کنید.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/dfkqpnnkjb0r/Netrino_.apk.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-13 22:07:55 UTC
-سرور ویتوری
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%40vpnbaz%20%F0%9F%94%AE
-vless://2029f593-b286-4cfa-9e66-a32911ead107@5.75.196.213:16544?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8D%AC
-vless://1971ec0f-fa37-4112-9b4e-4952e84df2a9@65.109.220.223:24542?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8E%A8
-vless://9c3c5a92-1018-49a4-a84d-af2dde3e618d@grs.zdshop.ir:80?path=%2Fed%3D2560&security=none&encryption=none&host=smk23ws74gr.global.ssl.fastly.net&type=ws#%40vpnbaz%20%F0%9F%8D%87
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8E%B1
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

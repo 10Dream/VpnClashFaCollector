@@ -1,5 +1,5 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-15 20:18:37 UTC
+بروزرسانی: 2026-02-16 01:10:51 UTC
 
 ### 🕒 2026-02-15 17:57:42 UTC
 `trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40 lrnbymaavless://636dac2e-9a58-49a6-84f5-313a03761131@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=48fccabc158a4c22# lrnbymaavless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&security=reality&sid=a7ab02dfcc1f2c04&sni=pl.jojack.ru&type=tcp# lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=04bf0403f96e5b4b#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&sni=yandex.ru# lrnbymaa`

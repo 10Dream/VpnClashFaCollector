@@ -1,5 +1,24 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-15 20:20:19 UTC
+بروزرسانی: 2026-02-16 01:12:35 UTC
+
+### 🕒 2026-02-15 22:13:36 UTC
+دانشجو بازداشتی...
+[#سهند_طاهری](?q=%23%D8%B3%D9%87%D9%86%D8%AF_%D8%B7%D8%A7%D9%87%D8%B1%DB%8C)
+ از ایشون هیچ گونه خبری نیست و دوستانش نگرانش هستند!
+این پست رو گذاشتم تا صدا به گوش برسه و حق یک دانشجو یا نخبه در زندان یا حتی ۱ روز بازداشت هم نیست!
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-15 21:53:03 UTC
+`nm-vless://5EEgQT8vJx376ESzAf9Lrs4FmdALGzHxg4UaPlDmCG+stiQ9gNqM4947HUQdcN5IWpPlyCp5uWULXDEN53BXjWARBI1vLGca0lCOOnVP3Vpz/CjWiUdHvVKG0iMUNj2Uk3W2b4jrBd/YUtqXGn3o8ly49Ra40mY8I0JCfgiJhv9h6udaitpcm5TQmmuP1sV6cYtKpfx2j/7skUYIThUqU6j8nooXZcXLcdQTiQjBEFCdZsUSBbmkzgihV6bd/fWKQokw2WcmQbbsjCw6nrqkGutDdoLLkpeGx/Wp7r2cxr+9Zy8lFf0q4ChLRT2U36BUzFia4mXDMSrtUeZRI4mc3g==nm-vless://5EEgQT8vJx376ESzAf9Lrs4FmdALGzHxg4UaPlDmCG+stiQ9gNqM4947HUQdcN5IWpPlyCp5uWULXDEN53BXjWARBI1vLGca0lCOOnVP3Vpz/CjWiUdHvVKG0iMUNj2Uk3W2b4jrBd/YUtqXGn3o8ly49Ra40mY8I0JCfgiJhv9h6udaitpcm5TQmmuP1sV6cYtKpfx2j/7skUYIThUqU83PfewiyUPjLQFo7fQpPm2OL8GjDqTnFS6O+twu2A3bNlhOJj5xV/++rcsawU1B5oN81B3x3XVs35N1i0necPisVghj8wGkeruo4NYPbqLzJbRkuxHlwCV2OYfqpKYLQFV20P3XvvCgbBRGD1ycIDU=nm-vless://5EEgQT8vJx376ESzAf9Lrs4FmdALGzHxg4UaPlDmCG+stiQ9gNqM4947HUQdcN5IWpPlyCp5uWULXDEN53BXjWARBI1vLGca0lCOOnVP3Vpz/CjWiUdHvVKG0iMUNj2Uk3W2b4jrBd/YUtqXGn3o8ly49Ra40mY8I0JCfgiJhv9h6udaitpcm5TQmmuP1sV6cYtKpfx2j/7skUYIThUqU9OQFf9atcnehS+41qO2ZOMtUfe/GAGDC2bnJoGj9uTYQokw2WcmQbbsjCw6nrqkGmSS7tyzv+zU1JlauY/v5Wi9Zy8lFf0q4ChLRT2U36BUzFia4mXDMSrtUeZRI4mc3g==nm-vless://5EEgQT8vJx376ESzAf9Lrs4FmdALGzHxg4UaPlDmCG+stiQ9gNqM4947HUQdcN5IWpPlyCp5uWULXDEN53BXjWARBI1vLGca0lCOOnVP3Vpz/CjWiUdHvVKG0iMUNj2Uk3W2b4jrBd/YUtqXGn3o8ly49Ra40mY8I0JCfgiJhv9h6udaitpcm5TQmmuP1sV6cYtKpfx2j/7skUYIThUqU83PfewiyUPjLQFo7fQpPm0c71i6YHWWv79llw26luhVNlhOJj5xV/++rcsawU1B5oN81B3x3XVs35N1i0necPg0cNeUo7slMWfaZJjRMSlVJbRkuxHlwCV2OYfqpKYLQFV20P3XvvCgbBRGD1ycIDU=`
+نت مود
+***🔥***
+***🥶***
+[@xsfilternet](https://t.me/xsfilternet)
+[@arshiacomplus](https://t.me/arshiacomplus)
+
+---
 
 ### 🕒 2026-02-15 20:18:06 UTC
 [https://proxyclouds.vercel.app/get](https://proxyclouds.vercel.app/get)
@@ -89,33 +108,6 @@
 [مجموع ساب ها](https://t.me/xsfilternet/1765)
 )
 ***🚀***
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-13 23:00:56 UTC
-از همه عذر میخوام...
-کیرم تو مجاهدین خلق(مزاحمین خلق)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-13 20:29:40 UTC
-مجدد 
-[#وارپ](?q=%23%D9%88%D8%A7%D8%B1%D9%BE)
- روی بعضی اپراتور ها وصله به همین دلیل میتونید از اندپوینت ها داخل 
-[oblivion](https://play.google.com/store/apps/details?id=org.bepass.oblivion)
- استفاده کنید!
-***🚀***
-[162.159.192.4:500](http://162.159.192.4:500/)
-[162.159.192.2:878](http://162.159.192.2:878/)
-[162.159.192.6:864](http://162.159.192.6:864/)
-[162.159.192.1:2408](http://162.159.192.1:2408/)
-[162.159.195.8:3581](http://162.159.195.8:3581/)
-[162.159.192.1:2408](http://162.159.192.1:2408/)
-[162.159.195.1:4177](http://162.159.195.1:4177/)
-[162.159.195.3:878](http://162.159.195.3:878/)
-[162.159.192.8:903](http://162.159.192.8:903/)
 [@xsfilternet](https://t.me/xsfilternet)
 
 ---
