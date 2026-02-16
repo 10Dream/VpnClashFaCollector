@@ -1,5 +1,83 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-16 01:07:53 UTC
+بروزرسانی: 2026-02-16 10:40:17 UTC
+
+### 🕒 2026-02-16 09:31:51 UTC
+کانفیگ برنامه Ha Tunnel
+
+---
+
+### 🕒 2026-02-16 09:12:28 UTC
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+
+---
+
+### 🕒 2026-02-16 07:04:34 UTC
+***🦁***
+ Iran’s Lion & Sun: 2,500 Years
+***🌙***
+ Islam: 1,400 Years
+***🦀***
+ Islamic Republic: 47 Years
+You are just a blink in our history. We are returning to our roots. 
+***🦁***
+***☀️***
+
+---
+
+### 🕒 2026-02-16 06:24:30 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+ داداش این رفیقمونو میتونی یه خبری ازش بزاری
+ستار گوهری فر دانشجوی بیوتکنولوژی ورودی 1403 دانشگاه بهشتی
+اصالتا یاسوجیه و رفیقای یاسوجیم از 19 دی که بازداشت شده ازش خبر ندارن
+
+---
+
+### 🕒 2026-02-16 05:42:32 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-16 05:00:18 UTC
+عمو محسن هم توی تجمع مونیخ حضور داشته و ما هم به اندازه خودش خوشحالیم که دیگه تنها نیست
+***❤️***
+
+---
+
+### 🕒 2026-02-16 01:54:35 UTC
+**بنیامین نتانیاهو: جمهوری اسلامی فقط در یک مورد قابل اعتماد است و آن دروغ گفتن است**
+.
+نتانیاهو پیش‌تر گفته بود نسبت به هر نوع توافقی با جمهوری اسلامی بدبین است و در سخنرانی امروز تاکید کرد که جمهوری اسلامی فقط در یک مورد قابل اعتماد است و آن این است که دروغ می‌گوید.
+او در این سخنرانی تاکید کرد که توافق با جمهوری اسلامی باید شامل هیچگونه غنی سازی نباشد و زیرساخت هسته‌ای آن برچیده شود و همچنین برد موشک‌های بالستیک به 300 کیلومتر محدود شود.
+
+---
+
+### 🕒 2026-02-16 01:36:43 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+ اینو برای بچه های کانادا پخش میکنی؟
+فقط باید رزیدنت یا شهروند باشن بتونن امضا کنن (نیاز نیست الان توی کانادا باشن تا وضعیت اقامت دارن کافیه) و بعد از امضا ایمیل تایید میاد چون روند تایید دستیه طول میکشه ایمیل بیاد
+[https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7152](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7152)
+اگه رزیدنت یا شهروند کانادا هستین اینو هم امضا کنین. برای به رسمیت شناختن شاهزاده رضا پهلوی برای دوره گذار توسط دولت کاناداس
+
+---
+
+### 🕒 2026-02-16 01:32:51 UTC
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.138:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.181:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#NetAccount`
+`vless://eb905045-5eeb-45ac-b9de-424f18047ecc@212.109.197.85:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dropbox.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#NetAccount`
+
+---
 
 ### 🕒 2026-02-15 23:26:23 UTC
 [پروکسی](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q)
@@ -1162,59 +1240,6 @@ Password:
 
 ### 🕒 2026-02-14 11:33:32 UTC
 پرچم زیبای شیر و خورشید در مونیخ در حال بر افراشته شدن
-
----
-
-### 🕒 2026-02-14 10:00:11 UTC
-[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- |
-
----
-
-### 🕒 2026-02-14 07:46:32 UTC
-کانفیگ برنامه Ha Tunnel
-
----
-
-### 🕒 2026-02-14 04:11:56 UTC
-**نورپردازی دروازه براندنبورگ برلین با شعار «آزادی برای ایران»**
-در آستانه «روز جهانی اقدام» و همزمان با برنامه ریزی برای برگزاری تجمع گسترده ایرانیان به دعوت شاهزاده رضا پهلوی در شهرهایی چون مونیخ، تورنتو و لس آنجلس، دفتر شهردار برلین با انتشار تصویری از دروازه براندنبورگ که به همین مناسبت نورپردازی شده، از همبستگی با مردم ایران خبر داد.
-در این تصویر، روی دروازه براندنبورگ شعار «Freiheit für Iran / Freedom for Iran» نقش بسته که به معنای «آزادی برای ایران» است.
-شهردار برلین در پیامی در شبکه اجتماعی ایکس نوشت: «برلین امشب نشانه‌ای آشکار از همبستگی می‌فرستد: دروازه براندنبورگ با پیام «آزادی برای ایران» نورپردازی خواهد شد تا حمایت خود را از مردم ایران که علیه خشونت و برای حقوق بنیادین به خیابان‌ها آمده‌اند نشان دهد.»
-
----
-
-### 🕒 2026-02-14 01:17:56 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-14 01:15:20 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
 
 ---
 

@@ -1,5 +1,269 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-16 01:09:14 UTC
+بروزرسانی: 2026-02-16 10:41:39 UTC
+
+### 🕒 2026-02-16 09:27:47 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***🐦‍🔥***-@SPEEDS_VPNvless://853d23ee-38c6-41bb-a51c-8aea6a25b0bd@tes1.api-tel.xyz:50855?security=reality&encryption=none&pbk=3iQ5QX52pIjouDXoPSfrQRvpqaOTqG26IJLctU7McAY&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=ea.com&sid=02#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-16 08:45:47 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@128.140.64.14:990?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3%40wangcai2#***🐦‍🔥***-@SPEEDS_VPNvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&sni=ipv4.yasharteam.com&type=ws&host=ipv4.yasharteam.com&path=%2f#***🐦‍🔥***-@SPEEDS_VPNvless://9fb89911-315d-46b3-9d9a-720a46bedde9@85.133.202.88:8880?encryption=none&security=none&type=tcp&headerType=http&host=varzesh3.com#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-16 07:24:54 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3+%40wangcai2#***🐦‍🔥***-@SPEEDS_VPNvless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.12.31:80?encryption=none&security=none&type=ws&host=floral-term-d21f.wafajax493.workers.dev&path=%2f#***🐦‍🔥***-@SPEEDS_VPNvless://6202b230-417c-4d8e-b624-0f71afa9c75d@128.140.64.14:990?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3%40wangcai2#***🐦‍🔥***-@SPEEDS_VPNvless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?encryption=none&security=none&type=ws&host=diarasup2.global.ssl.fastly.net&path=%2fdownload#***🐦‍🔥***-@SPEEDS_VPNvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&security=tls&sni=ipv4.yasharteam.com&type=ws&host=ipv4.yasharteam.com&path=%2f#***🐦‍🔥***-@SPEEDS_VPNvless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@162.159.36.20:443?encryption=none&security=tls&sni=apii.onlineshoppingez.ir&type=ws&host=apii.onlineshoppingez.ir&path=%2fO1w0n3vYgFKYs7EzNAvLPvOp#***🐦‍🔥***-@SPEEDS_VPNvless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.99.80.91:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-16 06:01:52 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://db444bee-8212-5ff5-be40-47e1a7509eb8@195.26.224.112:8443?mode=auto&security=reality&encryption=none&pbk=HE-fVd73NsTheypCLSyeNxgkg2EJOfXWGxjUOcvPZyQ&fp=chrome&type=xhttp&sni=vk.com&sid=938f14cf6757a249#***🐦‍🔥***-@SPEEDS_VPNvless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#***🐦‍🔥***-@SPEEDS_VPNvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
 
 ### 🕒 2026-02-15 20:31:08 UTC
 ***🚨***
@@ -941,58 +1205,6 @@
 ***➿***
 ‌
 `vless://3ffb5c28-97b3-4056-c72e-ba0de6272c05@3.79.57.168:443?security=none&encryption=none&headerType=none&type=tcp#@SPEEDS_VPN1-🫆vless://991519c1-3680-49b7-bb9f-9029a7a39067@c2.s-sub.org:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=backup.f-sub.cfd&fp=chrome&type=ws&allowInsecure=0&sni=backup.f-sub.cfd#@SPEEDS_VPN1-🫆`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔄***
-زمان پایان سرویس حداکثر 12ساعت
-***🛜***
- در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-14 08:52:11 UTC
-***🚨***
-**مخصوص رایتل و ایرانسل **
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-‌
-`vless://8bbca00c-aaf5-4dac-b45c-65d04f126b5d@37.32.43.104:34963?security=none&encryption=none&headerType=none&type=tcp#@SPEEDS_VPN1-🫆vless://fe430457-84e1-49ec-a21f-4c5505015aea@na4.outbout.shop:8081?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#@SPEEDS_VPN1-🫆`
 ***➿***
 ***➿***
 ***➿***

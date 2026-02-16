@@ -467,7 +467,13 @@ rule-providers:
 proxies:
   - {name: 🇩🇪 DE |  🆔 @iphone02016vpn`, server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
   - {name: 🇬🇧 GB | 🆔 @iphone02016vpn`, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***🆔***@iphone02016vpn`", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: یام‌یام پروکسی, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "***🆔***@iphone02016vpn", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "***🆔***@iphone02016vpn` 2", server: 205.233.181.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn. frans`", server: 85.133.249.38, port: 58128, type: vless, tls: true, packet-encoding: xudp, uuid: a98dfd2a-b021-607c-af2d-362ae38c9478, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***@iphone02016vpn 2", server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***@iphone02016vpn 3", server: 94.232.247.168, port: 41360, type: vless, tls: true, packet-encoding: xudp, uuid: e16a35ea-6715-4e75-9845-d20358bd0876, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU, short-id: 1aab45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,7 +492,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -495,7 +507,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -504,7 +522,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -522,7 +546,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -531,7 +561,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -540,7 +576,13 @@ proxy-groups:
     proxies:
       - 🇩🇪 DE |  🆔 @iphone02016vpn`
       - 🇬🇧 GB | 🆔 @iphone02016vpn`
+      - "***🆔***@iphone02016vpn`"
+      - یام‌یام پروکسی
+      - "***🆔***@iphone02016vpn"
+      - "***🆔***@iphone02016vpn` 2"
       - "@iphone02016vpn. frans`"
+      - "***🆔***@iphone02016vpn 2"
+      - "***🆔***@iphone02016vpn 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:

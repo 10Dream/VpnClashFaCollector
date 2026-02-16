@@ -1,5 +1,58 @@
 # آرشیو کانال: @Express_freevpn
-بروزرسانی: 2026-02-16 01:06:58 UTC
+بروزرسانی: 2026-02-16 10:39:20 UTC
+
+### 🕒 2026-02-16 07:26:50 UTC
+***🎁***
+**مشترکین همراه اول **
+***📶***
+** تا ساعت 12 امشب فرصت دارند هدیه رایگان دوشنبه سوری خود را از طریق کد دستوری زیر فعال کنند**
+***📞***
+`*100*64#`
+**اين هدایا از ساعت 5 صبح تا ساعت 17 سه شنبه (فردا) قابل استفاده خواهد بود و چنانچه بسته فعالی دارید الویت استفاده از بسته هدیه است.**
+⌲ 
+[@Express_freevpn](https://t.me/Express_freevpn)
+ 
+***🚀***
+
+---
+
+### 🕒 2026-02-16 05:47:56 UTC
+[#ExpressVpn](?q=%23ExpressVpn)
+** **
+***🔴***
+** Keys 🔑**
+[دریافت یوزر و پسورد](https://t.me/Express_freevpngroup/69153)
+🫆
+irancell ✓Expressvpn
+***🇺🇸***
+usa_brooklyn
+***🇺🇸***
+ los Angeles 5
+***🇯🇵***
+Japan Yokohama 
+***🇯🇵***
+Japan osaka
+***🇺🇸***
+Usa _ seattle. _lightway tcp
+***🇱🇹***
+Lithuania _lightway tcp
+***🇦🇱***
+Albania _lightway tcp
+**🔗 Download links : **
+⊡ 
+[**Windows**](https://www.expressvpn.com/clients/latest/windows)
+ ⊡ 
+[**Mac**](https://www.expressvpn.com/clients/latest/mac)
+ ⊡ 
+[**ios**](https://itunes.apple.com/app/express-vpn-protect-your-web/id886492891)
+ ⊡ 
+[**Android**](https://www.expressvpn.com/download-android-apk)
+⌲ 
+[@Express_freevpn](https://t.me/Express_freevpn)
+ 
+***🚀***
+
+---
 
 ### 🕒 2026-02-15 19:11:26 UTC
 ***➖***

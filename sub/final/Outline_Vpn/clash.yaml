@@ -467,16 +467,11 @@ rule-providers:
 proxies:
   - {name: V 45 @Outline_Vpn`, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: V 42 @Outline_Vpn, server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 31 @Outline_Vpn, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 40 @Outline_Vpn`, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 38 @Outline_Vpn, server: 172.67.173.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6, servername: cdn-nodes.maviks.eu, network: ws, ws-opts: {path: /pLmdwS3fSrE9WwdgE3LdG2, headers: {Host: cdn-nodes.maviks.eu}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 35 @Outline_Vpn`, server: 162.19.254.52, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 32 @Outline_Vpn, server: 176.124.223.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 34 @Outline_Vpn, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 43 @Outline_Vpn, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 39 @Outline_Vpn, server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 36 @Outline_Vpn, server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 33 @Outline_Vpn, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /130.185.164.213=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 41 @Outline_Vpn, server: 104.17.162.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 44 @Outline_Vpn, server: 104.21.40.34, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 37 @Outline_Vpn, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -498,16 +493,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn
@@ -519,16 +509,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn
@@ -540,16 +525,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn
@@ -570,16 +550,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn
@@ -591,16 +566,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn
@@ -612,16 +582,11 @@ proxy-groups:
     proxies:
       - V 45 @Outline_Vpn`
       - V 42 @Outline_Vpn
-      - V 31 @Outline_Vpn
       - V 40 @Outline_Vpn`
       - V 38 @Outline_Vpn
-      - V 35 @Outline_Vpn`
-      - V 32 @Outline_Vpn
-      - V 34 @Outline_Vpn
       - V 43 @Outline_Vpn
       - V 39 @Outline_Vpn
       - V 36 @Outline_Vpn
-      - V 33 @Outline_Vpn
       - V 41 @Outline_Vpn
       - V 44 @Outline_Vpn
       - V 37 @Outline_Vpn

@@ -472,7 +472,6 @@ proxies:
   - {name: 🇬🇧 gb, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 🇫🇷 fr, server: 45.95.233.75, port: 27389, type: ss, cipher: chacha20-ietf-poly1305, password: qYkmH2DU5LiiIzU8BKyZxo, udp: true, tfo: false}
   - {name: 🇳🇱 NL, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
-  - {name: 46.225.66.140:1310, server: 46.225.66.140, port: 1310, type: vless, tls: true, packet-encoding: xudp, uuid: 4d961eae-b6a0-497c-98ee-ea5b70c6d71b, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -496,7 +495,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -510,7 +508,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -524,7 +521,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -547,7 +543,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -561,7 +556,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -575,7 +569,6 @@ proxy-groups:
       - 🇬🇧 gb
       - 🇫🇷 fr
       - 🇳🇱 NL
-      - 46.225.66.140:1310
   - name: دانلود منیجر 📥
     type: select
     proxies:

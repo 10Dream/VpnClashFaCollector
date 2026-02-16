@@ -1,5 +1,137 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-16 01:10:51 UTC
+بروزرسانی: 2026-02-16 10:43:12 UTC
+
+### 🕒 2026-02-16 09:16:20 UTC
+***📌***
+ 
+**کلاینت‌های اجرای پروکسی (Clash, V2Ray, Sing-Box) برای سیستم‌عامل‌های مختلف**
+این برنامه‌ها به شما اجازه میدن کانفیگ‌های مختلف مثل 
+**Clash, V2Ray و Sing-box**
+ رو روی دستگاه خودتون اجرا کنید. 
+***👇***
+**📱 Android (موبایل اندروید)**
+***🔹***
+ بیشترین تنوع کلاینت‌ها و پشتیبانی از همه پروتکل‌ها.
+**Mihomo:**
+ 
+[Clash Meta for Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+ | 
+[FlClash](https://github.com/chen08209/FlClash/releases)
+ | 
+[Clash Mi](https://github.com/KaringX/karing/releases)
+**X-Ray:**
+ 
+[Happ](https://play.google.com/store/apps/details?id=com.happproxy)
+ | 
+[V2rayNG](https://github.com/2dust/v2rayNG/releases)
+ | 
+[Exclave](https://github.com/dyhkwong/Exclave/releases)
+ | 
+[V2Box](https://play.google.com/store/apps/details?id=dev.hexasoftware.v2box)
+**Sing-Box:**
+ 
+[sing-box](https://play.google.com/store/apps/details?id=io.nekohasekai.sfa)
+ | 
+[Husi](https://github.com/xchacha20-poly1305/husi/releases)
+ | 
+[NekoBox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+ | 
+[Karing](https://github.com/KaringX/karing/releases)
+ | 
+[Hiddify](https://play.google.com/store/apps/details?id=app.hiddify.com)
+**💻 Windows (کامپیوتر ویندوز)**
+***🔹***
+ بهترین گزینه برای استفاده روی PC و لپ‌تاپ.
+**Mihomo:**
+ 
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+ | 
+[FlClash](https://github.com/chen08209/FlClash/releases)
+**X-Ray:**
+ 
+[V2rayN](https://github.com/2dust/v2rayN/releases)
+ | 
+[Happ](https://github.com/Happ-proxy/happ-desktop/releases)
+**Sing-Box:**
+ 
+[Karing](https://github.com/KaringX/karing/releases)
+ | 
+[Throne](https://github.com/throneproj/Throne/releases/tag/1.0.0-beta.5)
+ | 
+[Hiddify](https://github.com/hiddify/hiddify-app/releases)
+**🍏 iOS (آیفون و آیپد)**
+***🔹***
+ کلاینت‌ها کمتر هستن، ولی گزینه‌های پایدار خوبی وجود داره.
+**Mihomo:**
+ 
+[Clash Mi](https://apps.apple.com/ru/app/clash-mi/id6744321968)
+**X-Ray:**
+ 
+[Happ](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+ | 
+[Streisand](https://apps.apple.com/ru/app/streisand/id6450534064)
+ | 
+[V2rayTun](https://apps.apple.com/ru/app/v2raytun/id6476628951)
+ | 
+[V2Box](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+**Sing-Box:**
+ 
+[sing-box](https://apps.apple.com/ru/app/sing-box-vt/id6673731168)
+ | 
+[Hiddify](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)
+ | 
+[Karing](https://apps.apple.com/ru/app/karing/id6472431552)
+**🍎 macOS (مک‌بوک و مک)**
+***🔹***
+ انتخاب مناسب برای کاربران مک با پشتیبانی از همه پروتکل‌ها.
+**Mihomo:**
+ 
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+ | 
+[FlClash](https://github.com/chen08209/FlClash/releases)
+**X-Ray:**
+ 
+[V2rayN](https://github.com/2dust/v2rayN/releases)
+ | 
+[Happ](https://apps.apple.com/ru/app/happ-proxy-utility-plus/id6746188973)
+ | 
+[Streisand](https://apps.apple.com/ru/app/streisand/id6450534064)
+ | 
+[V2rayTun](https://apps.apple.com/ru/app/v2raytun/id6476628951)
+ | 
+[V2Box](https://apps.apple.com/ru/app/v2box-v2ray-client/id6446814690)
+**Sing-Box:**
+ 
+[sing-box](https://apps.apple.com/ru/app/sing-box-vt/id6673731168)
+ | 
+[Karing](https://apps.apple.com/ru/app/karing/id6472431552)
+ | 
+[Throne](https://github.com/throneproj/Throne/releases)
+ | 
+[Hiddify](https://github.com/hiddify/hiddify-app/releases)
+**🐧 Linux (لینوکس)**
+***🔹***
+ برای کاربرای حرفه‌ای‌تر و سیستم‌های آزاد.
+**Mihomo:**
+ 
+[FlClash](https://github.com/chen08209/FlClash/releases)
+ | 
+[Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev/releases)
+**X-Ray:**
+ 
+[V2rayN](https://github.com/2dust/v2rayN/releases)
+**Sing-Box:**
+ 
+[Throne](https://github.com/throneproj/Throne/releases)
+ | 
+[NekoRay (Matsuri)](https://github.com/MatsuriDayo/nekoray/releases)
+ | 
+[Hiddify](https://github.com/hiddify/hiddify-app/releases)
+[@Lrnbymaa](https://t.me/Lrnbymaa)
+ 
+***✔️***
+
+---
 
 ### 🕒 2026-02-15 17:57:42 UTC
 `trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%9B%A1%20V%2045%20%40 lrnbymaavless://636dac2e-9a58-49a6-84f5-313a03761131@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=48fccabc158a4c22# lrnbymaavless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&security=reality&sid=a7ab02dfcc1f2c04&sni=pl.jojack.ru&type=tcp# lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:8443?security=reality&encryption=none&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=04bf0403f96e5b4b#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://72fb3bd4-75dd-488a-9af7-c391321ecfcc@158.160.223.36:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b&sni=yandex.ru# lrnbymaa`
@@ -161,28 +293,6 @@ Solar VPN    سرویس SolarVPN یک VPN امن، سریع و بدون تبلی
  
 [@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
   ‍
-
----
-
-### 🕒 2026-02-14 10:01:41 UTC
-[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- |
 
 ---
 
