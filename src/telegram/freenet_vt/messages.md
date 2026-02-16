@@ -1,5 +1,15 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-16 10:42:47 UTC
+بروزرسانی: 2026-02-16 20:22:12 UTC
+
+### 🕒 2026-02-16 13:49:34 UTC
+ایران ول
+
+---
+
+### 🕒 2026-02-16 13:49:34 UTC
+`vless://429af73b-c1bd-4c46-8f8e-6accdbdcf628@fl-modx.webedg.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fl-modx.webedg.net&fp=chrome&security=reality&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&sid=#%F0%9F%9F%A1freenet_vt%20vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052/?type=tcp&encryption=none&flow=#%F0%9F%9F%A1freenet_vt%20vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@104.16.121.147:2052/?type=tcp&encryption=none&flow=#%F0%9F%9F%A1freenet_vt%20vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=ipv4.yasharteam.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%9F%A1freenet_vt%20vless://6fc2e094-daf5-4848-b539-dd2fb18de3a6@94.182.149.197:52952/?type=tcp&encryption=none&flow=&sni=www.varzesh3.com&fp=chrome&security=reality&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6#%F0%9F%9F%A1freenet_vt%20vless://1ad30723-7772-4d8b-855e-933650f6906b@94.182.149.197:52952/?type=tcp&encryption=none&flow=&sni=www.varzesh3.com&fp=chrome&security=reality&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6#%F0%9F%9F%A1freenet_vt%20trojan://humanity@172.64.152.23:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%F0%9F%9F%A1freenet_vt%20vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+foWZyZWVuZXRfdnQgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?type=ws&encryption=none&flow=&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz#%F0%9F%9F%A1freenet_vt%20ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%9F%A1freenet_vt%20vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=dev.twistsparrow.xyz#%F0%9F%9F%A1freenet_vt%20`
+
+---
 
 ### 🕒 2026-02-16 10:01:13 UTC
 ***❤️***
@@ -218,42 +228,6 @@ PASS:
 
 ### 🕒 2026-02-14 20:25:22 UTC
 بکاپ نپستر همراه اول
-
----
-
-### 🕒 2026-02-14 20:11:34 UTC
-هیدیفای همراه اول فایل باز کنید کپی کنید وارد  نرم افزار hidden کنید
-
----
-
-### 🕒 2026-02-14 13:39:44 UTC
-گوشی متن  پیشگو فعاله  من چیزی دیگه تایپ میکنم اون هرچی دلش خواست جای گذاری میکنه
-
----
-
-### 🕒 2026-02-14 13:33:54 UTC
-کد و  کامل  کپی کنید چیزی جا نزارید یه حروف از کد کم بشه خطا میده
-
----
-
-### 🕒 2026-02-14 13:25:40 UTC
-tls  fragment 
-هم اگه کسی فعاله off کنه
-
----
-
-### 🕒 2026-02-14 13:24:49 UTC
-مسیر دقیق  توی تنطیمات هیدیفای حتما خاموش کنید
-
----
-
-### 🕒 2026-02-14 13:24:19 UTC
-خواستم بزنم روی ساب کند بود مرور گر بی خیال شدم فایل باز کنید سرورا کپی کنید وارد هیدیفای کنید
-
----
-
-### 🕒 2026-02-14 13:23:11 UTC
-هیدیفای فقط ایرانسل
 
 ---
 

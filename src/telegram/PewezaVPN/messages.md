@@ -1,5 +1,53 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-16 10:40:26 UTC
+بروزرسانی: 2026-02-16 20:19:55 UTC
+
+### 🕒 2026-02-16 20:15:59 UTC
+**این پروکسی های جدید تلگرام متصل در اختلالات شدید هست رو داشته باشید👇**
+[**پروکسی سرور اول **](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[**پروکسی سرور دوم**](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[**پروکسی سرور سوم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی سرور چهارم**](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
+[**پروکسی سرور پنجم**](https://t.me/proxy?server=collider.web-yektanet-com.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[**پروکسی سرور ششم**](https://t.me/proxy?server=194.113.37.141&amp;port=443&amp;secret=ee1a2b3c4d5e6f7890abcdef12345678)
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
+
+### 🕒 2026-02-16 20:10:28 UTC
+**وضع اینترنت ها بدتر از همیشه‌ هست...**
+
+---
+
+### 🕒 2026-02-16 17:11:28 UTC
+**دوستان اندرویدی فیلترشکن MenaVPN آخرین نسخه اختصاصی مود شده و سرعت و اتصال خوبی داره پیشنهاد میکنم، تمامی سرور ها هم آنلاک هست**
+.
+**لینک دانلودش از ربات :**
+[**t.me/Pewezabot?start=136424**](http://t.me/Pewezabot?start=136424)
+بعد از ورود پیشنهاد میشه سرور هارو تست کنید اکثر سرور ها متصله.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
+
+### 🕒 2026-02-16 12:01:19 UTC
+***🔐***
+** مجموعه 22 کانفیگ جدید نت ملی اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری VIP - 3با وارد کردن این فایل داخل نپستر 22 کانفیگ جدید VIP داخل برنامه اضافه میشود.**
+بعد از وارد کردن فایل با اینترنت عادی PING رو بزنید و Confirm کنید که یه تست گرفته بشه و به سرور هایی که پینگ بهتری دارن متصل بشید.
+برای اتصال چند ثانیه صبور باشید.
+با اکثر اینترنت ها تست شد.
+**لینک دانلود برنامه اندروید**
+:
+[t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
+**لینک دانلود برنامه آیفون : **
+[https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-16 08:36:05 UTC
 ***💻***
@@ -211,49 +259,6 @@ wf.msc
 [t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
 **لینک دانلود برنامه آیفون : **
 [https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-14 20:11:32 UTC
-***✅***
- 
-**کانفیگ‌های جدید و اختصاصی Singbox**
- 
-**متصل در نت ملی و شرایط سخت اینترنتی**
-برای همه اپراتورها حجم نامحدود
-اتصال ممکنه چند ثانیه طول بکشه
-برای اتصال در اندروید روی فایل کلیک کنید و برنامه Singbox را انتخاب کنید که به برنامه ایمپورت بشه و در آیفون هم فایل رو سیو کنید و با گزینه import from file وارد کنید
-***🔗***
-[لینک دانلود برنامه اندروید](https://play.google.com/store/apps/details?id=io.nekohasekai.sfa)
-***🔗***
-[لینک دانلود آیفون](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
-***🔗***
-[لینک دانلود ویندوز](https://github.com/SagerNet/sing-box/releases/download/v1.12.17/sing-box-1.12.17-windows-amd64-legacy-windows-7.zip)
-[آموزش وارد کردن فایل](https://t.me/PewezaVPN/19258?single)
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-14 13:40:30 UTC
-***✅***
- 
-**کلیدهای میانبر کامپیوتر در یک نگاه **
-**تو این تصویر، مهم‌ترین شورتکات‌های ویندوز رو یکجا داری:**
-***▪️***
- کلیدهای Ctrl (کپی، پیست، ذخیره، جستجو و...)
-***▪️***
- کلیدهای F1 تا F12
-***▪️***
- ترکیب‌های حرفه‌ای مثل Alt + Tab
-***▪️***
- میانبرهای کلید Win
-***▪️***
- شورتکات‌های Shift برای انتخاب و مدیریت سریع‌تر
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)

@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "viranet & @dicodeir", server: 91.198.77.216, port: 42206, type: vless, tls: true, packet-encoding: xudp, uuid: 80e8309c-8235-47b2-b99f-d235cf2d46a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: آلمان - ویژه 🔥`, server: entekhabat.iran.asiatech.numthree.iranvatanam.com, port: 813, type: vless, tls: true, packet-encoding: xudp, uuid: 10b7917c-515d-4634-adbe-1b44242c6d07, host: skyroom.online%2Cigap.net%2Cgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "viranet & @dicodeir"
+      - آلمان - ویژه 🔥`
   - name: دانلود منیجر 📥
     type: select
     proxies:

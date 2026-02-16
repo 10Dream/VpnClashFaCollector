@@ -465,13 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
   - {name: ro, server: bogging-eyeteeth-fly.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, udp: true, tfo: false}
   - {name: 🇬🇧 GB, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 🇬🇧 GB-1, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 🇬🇧 gb, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: 🇫🇷 fr, server: 45.95.233.75, port: 27389, type: ss, cipher: chacha20-ietf-poly1305, password: qYkmH2DU5LiiIzU8BKyZxo, udp: true, tfo: false}
-  - {name: 🇳🇱 NL, server: 109.201.152.181, port: 443, type: ss, cipher: aes-128-cfb, password: shadowsocks, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,39 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -536,39 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 57.129.94.79:11206
       - ro
       - 🇬🇧 GB
       - 🇬🇧 GB-1
       - 🇬🇧 gb
-      - 🇫🇷 fr
-      - 🇳🇱 NL
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,101 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-16 10:43:12 UTC
+بروزرسانی: 2026-02-16 20:22:41 UTC
+
+### 🕒 2026-02-16 17:44:35 UTC
+vless://4d77a5d2-51ed-4494-b38a-87f340591db6@152.89.244.61:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#lrnbymaa  vless://b823aaa4…
+
+---
+
+### 🕒 2026-02-16 17:44:12 UTC
+`vless://4d77a5d2-51ed-4494-b38a-87f340591db6@152.89.244.61:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#lrnbymaavless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?security=reality&encryption=none&pbk=N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=f6ae0c7beb#lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#lrnbymaavless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#lrnbymaavless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa`
+کانفینگ رایگان
+***⚡️***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
+
+### 🕒 2026-02-16 17:32:31 UTC
+**ابلاغ دستور آماده‌باش برای قطع اینترنت به دیتاسنترها**
+بر اساس اطلاعات دریافتی، دستور آماده‌باش برای قطع ترافیک اینترنت دیتاسنترهای کشور در صورت بروز رخدادهای امنیتی ابلاغ شده است.
+با توجه به احتمال تشدید تنش‌ها پس از مذاکرات پیش‌رو، اینترنت کشور در وضعیت آماده‌باش برای اعمال قطع یا محدودیت‌های گسترده قرار دارد. این شرایط می‌تواند منجر به اختلال ناگهانی، کاهش شدید دسترسی بین‌الملل، قطع ارتباط دیتاسنترها و در سناریوی حادتر، قطع کامل یا حرکت مجدد به سمت اینترنت ملی شود.
+***✔️***
+ 
+[@lrnbymaa](https://t.me/lrnbymaa)
+
+---
+
+### 🕒 2026-02-16 16:10:58 UTC
+> ↪️ **Forwarded**
+
+***⚠️***
+**قویترین اکانت نامحدود**
+***📛***
+قابل استفاده برای :
+***📱***
+آیفون
+***📱***
+اندروید
+***💻***
+ ویندوز
+***👨‍💻***
+ مک
+ 
+***🔹***
+دارای آیپی (IP) ثابت 
+***📍***
+اتصال سریع بر روی تمامی اپراتورها
+***📶***
+***📶***
+***📶***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🥷***
+**فقط **
+تضمینی و با تست
+***✅***
+جهت خرید و مشاوره پیام بدین 
+[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
+ 
+***🛒***
+
+---
+
+### 🕒 2026-02-16 15:00:45 UTC
+`vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?security=none&encryption=none&headerType=none&type=tcp#lrnbymaa`
+`vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#lrnbymaa`
+`vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:8880?path=%2FPHPmyADMIN%3FQ%3D%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net-chatgpt.com-chatgpt.com-chatgpt.com-www.openai.com-www.openai.com-www.openai.com%3Fed%3D443&security=none&encryption=none&host=sw-node-m2.ip-venzo.com.&type=httpupgrade#lrnbymaa`
+`vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ServerDL-FrankM2.NetSnap.ir#lrnbymaa`
+
+---
+
+### 🕒 2026-02-16 14:19:32 UTC
+شبکه اجتماعی توییتر (ایکس) از دسترس خارج شد
+از دقایقی پیش عملکرد شبکه اجتماعی ایکس برای بسیاری از کاربران در سطح جهان مختل شده است. براساس نمودار وب‌سایت Down Detector، کاربران در دسترسی به ایکس مشکل دارند و نمی‌توانند آن را باز کنند.
+[@lrnbymaa](https://t.me/lrnbymaa)
+ 
+***✔️***
+
+---
 
 ### 🕒 2026-02-16 09:16:20 UTC
 ***📌***
@@ -228,71 +324,6 @@
 این کار کاملاً داوطلبانه است و نقش مهمی در حفظ دسترسی آزاد به اطلاعات دارد.
 ***🌍***
  هر گوشی می‌تواند یک پل باشد.
-
----
-
-### 🕒 2026-02-14 17:28:07 UTC
-Solar VPN    سرویس SolarVPN یک VPN امن، سریع و بدون تبلیغاته که به شما امکان می‌ده بدون محدودیت سرعت به اینترنت آزاد دسترسی داشته باشید. 
-***✅***
- ویژگی‌ها: • کاملاً رایگان و بدون تبلیغات • بدون محدودیت پهنای باند و سرعت • پشتیبانی از پروتکل‌های حرفه‌ای: WireGuard،…
-
----
-
-### 🕒 2026-02-14 17:28:07 UTC
-**Solar VPN**
-سرویس 
-**SolarVPN**
- یک VPN امن، سریع و بدون تبلیغاته که به شما امکان می‌ده بدون محدودیت سرعت به اینترنت آزاد دسترسی داشته باشید.
-***✅***
- 
-**ویژگی‌ها:**
-• کاملاً رایگان و بدون تبلیغات
-• بدون محدودیت پهنای باند و سرعت
-• پشتیبانی از پروتکل‌های حرفه‌ای: 
-**WireGuard، OpenVPN**
- و پروتکل اختصاصی 
-**Wrapper**
- در اندروید
-از همین پروتکل wrapper استفاده کنید
-• قابلیت kill switch 
-• طراحی شده برای تجربه‌ای ساده و روان
-***📥***
- 
-**لینک‌های دانلود مستقیم:**
-[دانلود برای اندروید](https://play.google.com/store/apps/details?id=com.solarvpn.client.android&amp;utm_source=chatgpt.com)
-[دانلود برای ویندوز](https://static.solarvpn-cd.net/download/latest/windows/solarvpn-windows.exe)
-[دانلود برای مک](https://apps.apple.com/app/id6535669314)
-***📱***
- 
-[نسخه iOS ](https://apps.apple.com/us/app/solarvpn-elite-security/id6529538337)
-***🌐***
- وب‌سایت رسمی: 
-[solarvpn.com](https://solarvpn.com/)
-[نتیجه دسترسی ها : مورد مشکوکی مشاهده نشد](https://reports.exodus-privacy.eu.org/en/reports/com.solarvpn.client.android/latest/#trackers)
-
----
-
-### 🕒 2026-02-14 11:58:35 UTC
-`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%F0%9F%9B%A1%20V%2031%20%40 lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.124.223.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2032%20%40 lrnbymaavless://fa335d1c-e6d1-48bb-99a3-f06710a29043@afrcloud22.mmv.kr:443?path=%2F130.185.164.213%3D8443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2033%20%40 lrnbymaavless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#%F0%9F%9B%A1%20V%2034%20%40 lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.254.52:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%F0%9F%9B%A1%20V%2035%20%40 lrnbymaa`
-کانفینگ پرسرعت 
-***🚨***
-***🌔***
- یک بار بزنید روی کانفیگ‌ کپی میشه 
-  
-***💎***
-اگه ارور داد برنامه 
-***🖥***
- v2ray آپدیت کنید
-***🔹***
-جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-   
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-  ‍
 
 ---
 

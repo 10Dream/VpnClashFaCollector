@@ -1,5 +1,80 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-16 10:39:16 UTC
+بروزرسانی: 2026-02-16 20:18:51 UTC
+
+### 🕒 2026-02-16 19:57:05 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-16 19:56:09 UTC
+سرورای بات فیکس هستن
+سرورای دستی یه تغیرر ایپی میدیم چون یه سریا تو وای فای مشکل داشتن 
+***❤️***
+تا نیم الی یک ساعت فیکس میشه
+
+---
+
+### 🕒 2026-02-16 19:25:14 UTC
+سرورای بات فیکس هستن
+سرورای دستی یه تغیرر ایپی میدیم چون یه سریا تو وای فای مشکل داشتن 
+***❤️***
+تا نیم الی یک ساعت فیکس میشه
+
+---
+
+### 🕒 2026-02-16 17:07:05 UTC
+New V2Ray
+`vless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@Capoitvless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#@Capoitvless://fa-397456379-1771019066252887@67.159.24.166:8443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#@Capoitvless://084dac85-a82a-4462-9c43-13f0dcf7467c@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@Capoitvless://084dac85-a82a-4462-9c43-13f0dcf7467c@mail.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#@Capoitvless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=.....jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store......&type=ws#@Capoitvless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.60:43800?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#@Capoitvless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@195.234.80.178:26480?security=none&encryption=none&headerType=none&type=tcp#@Capoit`
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-16 16:33:47 UTC
+سرعت اینترنت مقداری اومده پایین انگار
+درسته؟
+با لایک و دیسلایک مشخص کنید
+
+---
+
+### 🕒 2026-02-16 15:37:12 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-16 13:55:14 UTC
+ایکس از دسترس خارج شد
+***🔹***
+ از دقایقی پیش عملکرد شبکه اجتماعی ایکس برای بسیاری از کاربران در سطح جهان مختل شده است. براساس نمودار وب‌سایت Down Detector، کاربران در دسترسی به ایکس مشکل دارند و نمی‌توانند آن را باز کنند.
+[@Capoit](https://t.me/Capoit)
+
+---
+
+### 🕒 2026-02-16 11:54:48 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-16 11:48:32 UTC
+کانفیگ NapsternetV
+[برنامه NApsternetV](https://t.me/Capoit/31225)
+[آموزش وارد کردن](https://t.me/Capoit/31230)
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
 
 ### 🕒 2026-02-15 18:44:54 UTC
 کانفیگ NapsternetV
@@ -38,80 +113,6 @@
 ---
 
 ### 🕒 2026-02-15 11:57:37 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-14 19:15:28 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-14 18:37:48 UTC
-**تعرفه سرور های v2ray پرسرعت و اختصاصی کانال **
-**⚡️**
-**☄️**
-** اول رایگان تست کنید بعد خرید کنید**
- 
-***✔️***
- 
-**تعرفه سرور های همه اپراتور ها (تانل) **
-**💩**
-**💜**
-**🔵**
-**🔵**
-**🟡**
-**🔵**
-**20 گیگ 75**
- 
-**تومان30 گیگ 105 تومان50 گیگ 175 تومان70 گیگ 224 تومان100 گیگ 320 تومانهر کاربر اضافه 35 تومان**
- 
-***✔️***
-**پشتیبانی 24/7 ساعته**
- 
-***🌐***
-[نکات قبل خرید](https://t.me/Capoit/31803)
-**خرید از ادمین**
-***⭐***
- 
-[@CapoitAds](https://t.me/CapoitAds)
-
----
-
-### 🕒 2026-02-14 17:50:14 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-14 15:02:08 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-14 14:02:19 UTC
-New V2Ray
-`vless://d3b415a4-1cbe-487f-9831-4474583e26a9@85.192.40.174:205?security=reality&encryption=none&pbk=huGtAltZpf011TYjX6b6-FNPxun34WNIp2paaOY1TG0&headerType=none&fp=firefox&type=tcp&sni=www.tgju.org&sid=76645510056dbfd1#@Capoit`
-[@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-02-14 13:17:57 UTC
 کانفیگ NapsternetV
 [برنامه NApsternetV](https://t.me/Capoit/31225)
 [آموزش وارد کردن](https://t.me/Capoit/31230)
