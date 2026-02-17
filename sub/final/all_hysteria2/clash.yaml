@@ -466,17 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 2@oneclickvpnkeys, server: 130.61.50.75, port: 6443, type: hysteria2, ports: 6443, password: zhangyang, sni: dash.cloudflare.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.103.3.40:2056, server: 94.103.3.40, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.103.3.40:2056 2, server: 94.103.3.40, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056 2, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056 3, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.eyucdn.xyz:2056 4, server: ru.eyucdn.xyz, port: 2056, type: hysteria2, ports: 2056, password: 41aec03d-4345-4bff-9bab-69d36d80033c, sni: ru.eyucdn.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: flkf2.mangshe.xyz:2056, server: flkf2.mangshe.xyz, port: 2056, type: hysteria2, ports: 2056, password: 7dd10318-28fd-413f-81f0-cd0a286e4779, sni: flkf2.mangshe.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: flkf2.mangshe.xyz:2056 2, server: flkf2.mangshe.xyz, port: 2056, type: hysteria2, ports: 2056, password: 7dd10318-28fd-413f-81f0-cd0a286e4779, sni: flkf2.mangshe.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mg5.mangshe.xyz:2056, server: mg5.mangshe.xyz, port: 2056, type: hysteria2, ports: 2056, password: 7dd10318-28fd-413f-81f0-cd0a286e4779, sni: mg5.mangshe.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan-68, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,17 +484,7 @@ proxy-groups:
     type: select
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -512,17 +492,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -530,17 +500,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -557,17 +517,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -575,17 +525,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -593,17 +533,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 2@oneclickvpnkeys
-      - 94.103.3.40:2056
-      - 94.103.3.40:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056
-      - 🇷🇺 ru.eyucdn.xyz:2056 2
-      - 🇷🇺 ru.eyucdn.xyz:2056 3
-      - 🇷🇺 ru.eyucdn.xyz:2056 4
-      - flkf2.mangshe.xyz:2056
-      - flkf2.mangshe.xyz:2056 2
-      - mg5.mangshe.xyz:2056
       - configraygan-68
-      - hkbgp.jjxcloud.xyz:8443
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,151 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-17 10:36:18 UTC
+بروزرسانی: 2026-02-17 20:26:36 UTC
+
+### 🕒 2026-02-17 19:53:40 UTC
+***🔴***
+اف-۲۲ها در حال ورود به بریتانیا
+شش فروند جنگنده F-22 رپتور در مسیر RAF Lakenheath و سه فروند تانکر به سمت Mildenhall هستن.
+۴۸ ساعت گذشته از نظر جابه‌جایی تجهیزات نظامی واقعا دیوانه‌کننده بوده! 
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-17 18:37:56 UTC
+***🔴***
+ آکسیوس به نقل از مقام آمریکایی : عراقچی به ما گفت که دو هفته صبر کنید تا با امتیازاتی جدی برگردیم سر میز مذاکره.
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-17 16:45:36 UTC
+مذاکرات انقدر مثبت بوده که در حال حاضر ۳۶ فروند اف-۱۶ و ۱۲ فروند اف-۲۲ در حال حرکت به سمت خاورمیانه هستن تا شخصا از عراقچی تشکر کنن
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-17 15:16:55 UTC
+***⏺***
+عراقچی: 
+تو این دور نسبت به قبلی‌ها، بحث‌های کاملا جدی مطرح شد و فضای سازنده‌تری وجود داشت.
+تونستیم روی  یه سری اصول راهنما موافقت کلی پیداکنیم که از این به بعد براساس اون اصول، حرکت می‌کنیم و وارد متن توافق احتمالی می‌شیم.
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-17 10:59:17 UTC
+***⭕️***
+  خامنه ای :  با آمریکا توافق نمیکنیم، همونطوری که امام حسین با یزید بیعت نکرد   آمریکا شیطان است و ملت ایران با شیطان بیعت و مذاکره نمیکند  اعلام رسمی جنگ ؟   همراه پروکسی | پروکسی | پروکسی  پروکسی | پروکسی | پروکسی  @ProxyDaemi 
+***🔵***
+ 
+***💧***
+Sponsored by @rainbetcom…
+
+---
+
+### 🕒 2026-02-17 10:37:15 UTC
+***⭕️***
+خامنه ای :
+با آمریکا توافق نمیکنیم، همونطوری که امام حسین با یزید بیعت نکرد
+ آمریکا شیطان است و ملت ایران با شیطان بیعت و مذاکره نمیکند
+اعلام رسمی جنگ ؟ 
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-17 07:55:33 UTC
 ***🔴***
@@ -226,96 +372,6 @@ Sponsored by
 
 ---
 
-### 🕒 2026-02-16 18:04:41 UTC
-**📱**
-** اپلیکیشن اندروید بدون فیلتر ریتزوبت **
-***🔹***
- 
-**ثبت نام آسان**
- 
-***✅***
-***🔹***
- 
-**رابط کاربری بسیار راحت و سریع**
- 
-***✅***
-***🔹***
-** درگاه پرداخت کارت به کارت**
- 
-***✅***
-***🔹***
-** درگاه پرداخت دلاری سریع**
- 
-***✅***
-***🔹***
- 
-**بونوس ۱۰۰ درصدی اولین واریز**
- 
-***✅***
-***🔹***
- 
-**بونوس ۱۰۰ درصدی واریز یکشنبه‌ها**
- 
-***✅***
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***⚡️***
- 
-[@RitzoBet_ir](https://t.me/RitzoBet_ir)
-
----
-
-### 🕒 2026-02-16 18:04:40 UTC
-***⚡️***
- بازی های متنوع کازینو را در سایت ریتزوبت
-** **
-پیشبینی کنید
-***👇***
-****
-***1️⃣***
- بازی پولساز 
-**انفجار**
- 
-***✅***
-***2️⃣***
- بازی پولساز 
-**رولت زنده **
-***✅***
-***3️⃣***
- بازی پولساز 
-**بلک جک ( ۲۱ )**
- 
-***✅***
-***💰***
- روش های متنوع شارژ و برداشت در ریتزوبت
-***🔥***
- 
-****
-**⚠️**
-** نکته : برای دسترسی به ووچر و کارت به کارت ، واحد پول حسابتون در سایت رو ریالی بزارید**
-R27
-***🅰***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***🔹***
-***⚡️***
- در ریتزوبت‌ ؛ بازی کن، پیش‌بینی کن، برنده شو!
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***2️⃣***
- 
-[@RitzoBet_ir](https://t.me/RitzoBet_ir)
-
----
-
 ### 🕒 2026-02-16 15:57:58 UTC
 **‼️**
 **در ۲۴ ساعت اخیر بیش از ۳۰ فروند جنگنده اف-۳۵ برای مذاکره وارد خاورمیانه شده اند!**
@@ -494,74 +550,6 @@ r27
 
 ### 🕒 2026-02-16 05:40:10 UTC
 تنها کاری که این روزا خوب میتونم انجامش بدم همینه
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-15 19:29:17 UTC
-***⭕️***
- سی بی اس به نقل از منابع آمریکایی: 
-ترامپ به نتانیاهو اطلاع داد که از حملات اسرائیل به برنامه موشکی بالستیک ایران حمایت خواهد کرد.‌‌
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-15 18:00:42 UTC
-نگران نباش 
-تا اینجا خدا بوده... 
-از اینجا به بعدشم خدا هست...
 [آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 
 [آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)

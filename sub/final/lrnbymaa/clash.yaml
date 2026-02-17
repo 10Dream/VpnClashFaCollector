@@ -465,24 +465,22 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: V 45 @, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: V 40 @, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 38 @, server: 172.67.173.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a73fddb-e8c2-45fe-ad2c-e5bde13e51a6, servername: cdn-nodes.maviks.eu, network: ws, ws-opts: {path: /pLmdwS3fSrE9WwdgE3LdG2, headers: {Host: cdn-nodes.maviks.eu}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa, server: 152.89.244.61, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d77a5d2-51ed-4494-b38a-87f340591db6, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa 2, server: 190.93.245.94, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158.160.223.36:8443, server: 158.160.223.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 636dac2e-9a58-49a6-84f5-313a03761131, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 48fccabc158a4c22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 158.160.223.36:443, server: 158.160.223.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fb3bd4-75dd-488a-9af7-c391321ecfcc, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @, server: 158.160.223.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fb3bd4-75dd-488a-9af7-c391321ecfcc, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa`, server: antifiltervip.pwteam.ir, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, host: antifiltervip.pwteam.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa 3, server: 92.63.224.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee, servername: google.com, host: google.com, path: /, reality-opts: {public-key: N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4, short-id: f6ae0c7beb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa` 2, server: 140.238.100.35, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa` 3, server: zeus.ns.cloudflare.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: ServerDL-FrankM2.NetSnap.ir, network: ws, ws-opts: {path: /, headers: {Host: ServerDL-FrankM2.NetSnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 39 @, server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 36 @, server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa 4, server: 57.129.64.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-5712964102-direct.sharghdaily.co, host: nasnet-5712964102-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 195.3.223.6:443, server: 195.3.223.6, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: pl.jojack.ru, host: pl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw, short-id: a7ab02dfcc1f2c04}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lrnbymaa` 4, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 37 @, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa, server: spb.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: spb.roblugo.su, host: spb.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa`, server: deu549.worldbypass.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 2, server: 152.89.244.61, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d77a5d2-51ed-4494-b38a-87f340591db6, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 3, server: 190.93.245.94, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa` 2, server: 185.130.115.55, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd, servername: web.max.ru, host: web.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 33554379411b3219}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 4, server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 17f0f0e38f01af5a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 5, server: 51.250.4.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 048fe5c8be4bb687}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 6, server: 51.250.83.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 33554379411b3219}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 7, server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: c8597fb67d55d9c4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa` 3, server: antifiltervip.pwteam.ir, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, host: antifiltervip.pwteam.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 8, server: 92.63.224.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee, servername: google.com, host: google.com, path: /, reality-opts: {public-key: N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4, short-id: f6ae0c7beb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa` 4, server: 140.238.100.35, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa` 5, server: zeus.ns.cloudflare.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: ServerDL-FrankM2.NetSnap.ir, network: ws, ws-opts: {path: /, headers: {Host: ServerDL-FrankM2.NetSnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 9, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 10, server: 57.129.64.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-5712964102-direct.sharghdaily.co, host: nasnet-5712964102-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa` 6, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,72 +497,66 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -580,72 +572,66 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 45 @
-      - V 40 @
-      - V 38 @
       - lrnbymaa
-      - lrnbymaa 2
-      - 158.160.223.36:8443
-      - 158.160.223.36:443
-      - ⚡Telegram - @
       - lrnbymaa`
+      - lrnbymaa 2
       - lrnbymaa 3
       - lrnbymaa` 2
-      - lrnbymaa` 3
-      - V 39 @
-      - V 36 @
       - lrnbymaa 4
-      - 195.3.223.6:443
+      - lrnbymaa 5
+      - lrnbymaa 6
+      - lrnbymaa 7
+      - lrnbymaa` 3
+      - lrnbymaa 8
       - lrnbymaa` 4
-      - V 37 @
+      - lrnbymaa` 5
+      - lrnbymaa 9
+      - lrnbymaa 10
+      - lrnbymaa` 6
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,156 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-17 10:38:40 UTC
+بروزرسانی: 2026-02-17 20:29:09 UTC
+
+### 🕒 2026-02-17 20:09:46 UTC
+تست شده با مخابرات 
+***💚***
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#
+***✔️***
+***🫠***
+***✅***
+***✅***
+***✅***
+
+---
+
+### 🕒 2026-02-17 19:42:44 UTC
+تست شده با مخابرات 
+***⚡***
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMllGdnVlNEVndno3UlBTNHlpWENR@62.133.63.21:1080#
+***⚡***
+***✔️***
+***✔️***
+***✔️***
+
+---
+
+### 🕒 2026-02-17 19:20:48 UTC
+تست شده با مخابرات 
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?encryption=none&security=none&type=grpc#
+***❤️***
+***😎***
+با چی وصل میشه براتون !
+
+---
+
+### 🕒 2026-02-17 18:45:43 UTC
+https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   بابت اینکه چینیه معذرت میخوام از مبدل استفاده شده
+***🙏🏻***
+  تست کنید نتیجه رو بهم بگید
+
+---
+
+### 🕒 2026-02-17 18:40:30 UTC
+اینم تست کنید ؛
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?encryption=none&host=pablo-n2.digionix.ir&mode=auto&path=%2Fpabloping&security=none&type=xhttp#
+***😎***
+خودم با ایرانسل تست میکنم .
+
+---
+
+### 🕒 2026-02-17 18:37:01 UTC
+لطفاً پینگ نگیرید ، متصل بشید .
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#IR-
+***🏴󠁧󠁢󠁥󠁮󠁧󠁿***
+تست کنید ک کار می‌کنه و با چی .
+
+---
+
+### 🕒 2026-02-17 17:28:51 UTC
+متصل موشکی 
+***😎***
+ 
+مولتی لوکیشن 
+***💎***
+***🔑***
+ 
+`hamedvpns`
+ 
+***👈***
+ رمز عبور 
+بزنید به نپسترنت و حالشو ببرید 
+***🔥***
+[لینک نصب نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+ 
+***👉***
+***👉***
+ 
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-17 17:12:50 UTC
+منتظر علی جون هستم داره کانفیگ های باحالی رو دست چین می‌کنه برای نپسترنت 
+***😎***
+لایک ها رو ببرید بالا 
+***❤️***
+***💚***
+
+---
+
+### 🕒 2026-02-17 14:20:47 UTC
+از انگلیس دیشبی 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#gb
+تست کنید .
+
+---
+
+### 🕒 2026-02-17 13:31:43 UTC
+**ریمیکس کوردی + هایده + سلو >>>🫧**
+
+---
+
+### 🕒 2026-02-17 13:31:43 UTC
+کاملش 
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-17 13:06:25 UTC
+هنوز خبر قطعی از مذاکرات نیومده بیرون
+تو بعضی کانال های تلگرامی جنگ شروع شده
+***😂***
+آغا نزنید نزنید ب ما حداقل رحم کنید 
+***🙏***
+
+---
+
+### 🕒 2026-02-17 13:00:53 UTC
+این کانفیگ رو تست کنید لطفاً 
+{"remarks":"hamedvpns 
+***🇫🇷***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["fakedns"],"routeOnly":false}},{"tag":"dns-in","port":10853,"protocol":"dokodemo-door","listen":"127.0.0.1","settings":{"address":"8.8.8.8","port":53,"network":"tcp,udp"}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"51.83.52.172","port":2085,"users":[{"id":"2c72c667-093c-47a5-a108-493c93282b57","security":"auto","level":8}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["fast.com"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"dns-out","protocol":"dns","mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":[{"address":"fakedns","domains":["geosite:cn"]},"8.8.8.8"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["8.8.8.8"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["8.8.8.8"],"outboundTag":"direct","port":"53"},{"type":"field","outboundTag":"dns-out","inboundTag":["dns-in"]},{"type":"field","ip":["8.8.8.8"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["8.8.8.8"],"outboundTag":"direct","port":"53"}]},"fakedns":[{"ipPool":"198.18.0.0/15","poolSize":10000}]}
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+
+---
+
+### 🕒 2026-02-17 10:53:25 UTC
+کانفیگ تست برای مخابرات 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+ببینید با چی براتون متصل میشه حتی نپسترنت هم بزنید .
+
+---
+
+### 🕒 2026-02-17 10:39:14 UTC
+> ↪️ **Forwarded**
+
+**سناتور گراهام:در ایران به دو نفر میگویند عمویکی به منیکی به جانی **
+[**@Piknikanalyst**](https://t.me/Piknikanalyst)
+
+---
 
 ### 🕒 2026-02-17 04:32:43 UTC
 کانفیگ فرگمنت 
@@ -364,154 +515,6 @@ https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   باب
 ری اکشن رو ببرید بالای ۶۰ تا ۷۰ تا و ری اکشن متفاوت بزنید .
 بعدش ساب رو میزارم حالشو ببرید 
 ***🫠***
-
----
-
-### 🕒 2026-02-15 20:25:04 UTC
-خب دوستان ساب ساخته شده فقط تا فردا ظهر گذاشتم چند بار آپدیت کنه تا کلیه خطا هاش رو رفع کنم و کامل برسونمش دسستون .
-با تشکر از همگی (همون همیشگی ؛ حامد خودتون)
-لایک و اشتراک گذاری ساب یادتون نره فردا
-
----
-
-### 🕒 2026-02-15 19:27:24 UTC
-دوستان آخرین کانفیگ تست رو میدم .
-فردا میرم برای تکمیل کد نویسیش تا اتوماتیک پروسه برامون کار کنه هر چند ساعت 
-***🫠***
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#gb
-با چی متصل میشین بگین .
-روی نپسترنت عالی عمل می‌کنه .
-
----
-
-### 🕒 2026-02-15 18:12:40 UTC
-تا بازار داغه یه پورکسی سایفون هم بذارم براتون 
-***😁***
-***❤️***
-پروکسی : 
-`104.238.30.86`
-پورت : 
-`63900`
-موقعیت(لوکیشن) : ایتالیا (Italy)
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-15 18:10:37 UTC
-چرا ری اکشنننن نمیزنیدددد 
-***🦦***
- 
-سکته می‌کنم از دستتون آخر 
-***🦦***
-
----
-
-### 🕒 2026-02-15 18:06:10 UTC
-کانفیگ Netmode قابل استفاده در 
-[ویندوز](https://sourceforge.net/projects/netmodhttp/files/Setup/NetMod_x64%28Latest%29.exe/download)
- و 
-[اندروید](https://play.google.com/store/apps/details?id=com.netmod.syna)
-متصل پر قدرت 
-***🔥***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-15 17:27:49 UTC
-متصل موشکی 
-***😎***
- 
-مولتی لوکیشن 
-***💎***
-***🔑***
- 
-`hamedvpns`
- 
-***👈***
-***👈***
- رمز عبور 
-***✅***
-بزنید به نپسترنت و حالشو ببرید 
-***🔥***
-[لینک نصب نپسترنت ***👉******👉***](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-15 16:56:50 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**davudsedft/purvpn**
-:
-***✅***
- 
-**11.7**
- (11.7)
-توضیحی موجود نیست.
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/davudsedft/purvpn/releases/tag/11.7)
-[𓄂𓆃](https://t.me/update_releases)
-
----
-
-### 🕒 2026-02-15 16:09:16 UTC
-https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   بابت اینکه چینیه معذرت میخوام از مبدل استفاده شده
-***🙏🏻***
-  تست کنید نتیجه رو بهم بگید
-
----
-
-### 🕒 2026-02-15 13:56:17 UTC
-همراه اول تست کنه :
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#ro
-
----
-
-### 🕒 2026-02-15 12:21:10 UTC
-یه کانفیگ تست نهایی 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#GB-1
-با چی متصل میشین بگین!
-
----
-
-### 🕒 2026-02-15 11:50:03 UTC
-کانفیگای تست های نهایی :
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#GB
-با چه نتی متصل شدین یا نه بگین .
-
----
-
-### 🕒 2026-02-15 11:46:40 UTC
-ساب لینک مون در مراحل پایانی هست ، فقط چند تا کانفیگ دیگر میخوام تست کنید تا کامل وضعیت رو در نظر بگیرم .
-...
 
 ---
 

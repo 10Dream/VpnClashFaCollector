@@ -465,16 +465,22 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: " ", server: 159.195.4.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03695e31-89d2-4cce-9d7e-3e61d9d80f22, servername: live.com, alpn: [h2], host: live.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  2", server: z1.n1server.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  3", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  4", server: 95.141.36.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bdc57ea-b143-493b-9654-be66e049f81e, servername: aws.com, alpn: [h2], host: aws.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  5", server: 104.21.3.219, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  6", server: 172.67.153.156, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  7", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  8", server: 178.17.50.66, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e1d0e1d-65f7-454a-862b-90a75e1c27b7, servername: yandex.net, host: yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4, short-id: b3a1cc510a2001c6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  9", server: 144.31.2.86, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ca569d6c-d206-4709-9ed9-8dda73932c22, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho, short-id: cbdfef7f3ede2072}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  10", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "  2", server: 159.195.4.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03695e31-89d2-4cce-9d7e-3e61d9d80f22, servername: live.com, alpn: [h2], host: live.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  3", server: 63.141.128.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  4", server: z1.n1server.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  5", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  6", server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  7", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  8", server: 95.141.36.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bdc57ea-b143-493b-9654-be66e049f81e, servername: aws.com, alpn: [h2], host: aws.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  9", server: 104.21.3.219, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  10", server: 172.67.153.156, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  11", server: 104.21.224.5, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  12", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  13", server: 178.17.50.66, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e1d0e1d-65f7-454a-862b-90a75e1c27b7, servername: yandex.net, host: yandex.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: GzQr6fDhigtRAr0n2Y7Nk3snhdytYyOvaYo9zYe1Xn4, short-id: b3a1cc510a2001c6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  14", server: 144.31.2.86, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ca569d6c-d206-4709-9ed9-8dda73932c22, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho, short-id: cbdfef7f3ede2072}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  15", server: 5.182.36.251, port: 16331, type: vless, tls: true, packet-encoding: xudp, uuid: d7dbeb1e-268c-465c-8f59-489f14703efd, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: wYtc0dMr5fw5bBQkbLNpTqtu0m4B9NKnOyEWjRJUmzk, short-id: 910aab}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  16", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -501,6 +507,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -517,6 +529,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -533,6 +551,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -558,6 +582,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -574,6 +604,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -590,6 +626,12 @@ proxy-groups:
       - "  8"
       - "  9"
       - "  10"
+      - "  11"
+      - "  12"
+      - "  13"
+      - "  14"
+      - "  15"
+      - "  16"
   - name: دانلود منیجر 📥
     type: select
     proxies:

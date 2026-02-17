@@ -1,21 +1,142 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-17 10:39:15 UTC
+بروزرسانی: 2026-02-17 20:29:45 UTC
 
-### 🕒 2026-02-17 10:36:28 UTC
-[**فتیش باسن:**](https://t.me/+wcWqarIOBmIxNTI0)
- 
-***🍑***
-***🍑***
+### 🕒 2026-02-17 19:52:54 UTC
+اگه تا آخرین لحظه‌ی بحث
+با کسی به زخم‌هایش حمله نکردی
+به خودت افتخار کن رفیق ...
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 
-### 🕒 2026-02-17 10:33:42 UTC
-من مهسام ملقب به دختر بد ۲۷ سال دارم هر عمل مثبت ۱۸ ایی که فکرش و بکنید تو زندگیم تجربه کردم همرو اینجا پست کردم فقط اگه سنتون بالای ۲۲ سال هست و متاهل هستین بیاین چون ممکنه تحریک بشین و بلا سر خودتون بیارین 
-***⛔️***
-***💦***
-[@dokhtar_bad](https://t.me/+wcWqarIOBmIxNTI0)
+### 🕒 2026-02-17 19:51:44 UTC
+به بزرگاتون سلام برسونین بگید :
+ما بزرگی بجز خدا نمیشناسیم ...
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
+
+---
+
+### 🕒 2026-02-17 19:39:17 UTC
+**معرفی بیرحم ترین دشمن چربی های شکم در برنامه ی طبیب **
+***🧨***
+اگه اضافه وزن دارید و میخواید با روشی که 
+**سازمان بهداشت جهانی تاییدش کرده **
+لاغر بشید این کلیپ رو تا آخر ببینید
+***👌🏻***
+**برای سفارش با تخفیف ویژه و تکرار نشدنی این پودر جلبک روی لینک زیر کلیک کنید👇🏻👇🏻👇🏻**
+[https://landing.saamim.com/KetNm](https://landing.saamim.com/KetNm)
+**این بار با تخفیف و هدیه بسیار متفاوت با توجه به شرایط فعلی  ❗️**
+[https://landing.saamim.com/KetNm](https://landing.saamim.com/KetNm)
+
+---
+
+### 🕒 2026-02-17 19:31:26 UTC
+" آدم کتاب نیست که صفحه ۱۵۳ را
+نشانه بگذاری و بروی و بعد ها که
+برگردی، هنوز روی صفحه ۱۵۳
+روی قفسه منتظرت باشد.
+آدم می‌رود
+آدم تغییر می‌کند..."
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
+
+---
+
+### 🕒 2026-02-17 19:10:04 UTC
+**❤️‍🩹 امکان نداره این کلیپ رو ببینی و گریه نکنی**
  
-***👙***
+***🥹***
+****
+اینجا بدون هیچ پیش داوری و قضاوت میتونی مشکلاتت رو راحت حل کنی 
+***👌🏻***
+***📌***
+ برای هر مشکلی که ذهنتون رو بهم ریخته، فقط کافیه چند جلسه تلفنی با مشاور صحبت کنی تا با راهکاراش مشکلت از ریشه حل شه
+***👌🏻***
+برای دریافت مشاوره تلفنی با روانشناس متخصص روی لینک زیر بزنید
+***👇🏻***
+***👇🏻***
+[https://hamkadeh.com/landings/PXP0F](https://hamkadeh.com/landings/PXP0F)
+[https://hamkadeh.com/landings/PXP0F](https://hamkadeh.com/landings/PXP0F)
 
 ---
 
@@ -127,125 +248,6 @@
 اما حداقل با عضویت تو کانال زناشویی ما مسائل رو بی پرده و به صورت فیلم و عکس ببین:
 ***🔞***
 [@SexologiHot](https://t.me/+Vh36YBshNF8xMWQx)
-
----
-
-### 🕒 2026-02-15 20:03:31 UTC
-‏نه طرز نگهداری رو بلد بودی
-نه خداحافظی رو...
-فقط شروع کننده‌ی خوبی بودی :)
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-15 20:03:03 UTC
-برمی‌گرده عزیزم
-درست همونجایی که 
-تو انقدر درگیر خودتی 
-که اونو یادت رفته...
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-15 19:47:04 UTC
-**فوری 🚨لاغر کننده فوری به ایران رسید 🚨فوری ♻️با این محصول کمتر از یکماه 10 کیلو وزن کم کن **
-***♻️***
-***🔰***
-7 الی 10 کیلو کاهش وزن در کمتر از یکماه، بدون نیاز به رژیم و ورزش
-***🔰***
-دارای 70 درصد پروتئین خالص
-***🔰***
-دارای تاییدیه وزارت بهداشت و نشان سیب سبز سلامت 
-برای دریافت اطلاعات بیشتر و ثبت سفارش با تخفیف استثنایی فقط تا پایان امشب فرصت باقیست ، پس همین حالا روی لینک زیر کلیک کنید.
-***📲***
-[https://landing.saamim.com/PwuZl](https://landing.saamim.com/PwuZl)
-[https://landing.saamim.com/PwuZl](https://landing.saamim.com/PwuZl)
-
----
-
-### 🕒 2026-02-15 11:19:56 UTC
-بگذر
-و بگذار
-بگذرد . . .
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 

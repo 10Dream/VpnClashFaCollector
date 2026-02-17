@@ -1,5 +1,389 @@
 # آرشیو کانال: @Proxy_Qavi
-بروزرسانی: 2026-02-17 10:36:48 UTC
+بروزرسانی: 2026-02-17 20:27:07 UTC
+
+### 🕒 2026-02-17 19:10:30 UTC
+**خانم جوانی مریض امروز ما بود که متاسفانه دو سال قبل بخاطر سرطان سینه،هر دو سینه ش رو از دست داده بود.آستینشو که زد بالا براش آنژیوکت بزنم دیدم یه تتویی داره روی دستش که به شکل سینه ست.خندید گفت میبینی؟من هنوزم دارمشون!گاهی دوس دارم بشینم کف بیمارستان،برای درد های بقیه گریه کنم!**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 19:06:19 UTC
+**امروز تو مترو دعوا شد، اون یکی گفت میزنم میکشمت دیه‌تو میدماااااونوری گفت گوه نخور ، پول داشتی با متری نمیومدی :))))))**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 17:10:16 UTC
+**‏مذاکره ایران و آمریکا دقیقا شده مثل سریال های ترکی هیچیش معلوم نیست!یهو میبینید تخت روانچی باردار شده :/**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 16:23:17 UTC
+***😂***
+***😂***
+***😂***
+***😂***
+[پروکسی](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 15:39:04 UTC
+**از اون روزی که دیگه اجازه ندادن تو تاکسیا دونفر جلو بشینن ایرانیا سردمزاج شدن**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 15:13:47 UTC
+**سوار اسنپ شدم راننده یه خانم بود پسربچه ی ۸،۹ ساله ای هم جلو نشسته بود، همین که سوار شدم اول بلند به خانم سلام کردم، بعد در راستای روانشناسی کودک که میگه بچه هارو یه شخصیت مستقل در نظر بگیرید به پسر بچه هم گفتم سلام آقا پسر خوبی؟ هیچکدوم جوابمو ندادن :))**
+[پروکسی](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 14:59:23 UTC
+**‏تصویر کمتر دیده شده از اولین باری که عباس عراقچی گفت مذاکرات مثبت و سازنده‌ای داشتیم.**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 14:17:18 UTC
+**به مامانم گفتم دقت کردی من و تو به عنوان مادر دختر باهم دعوامون نمیشه؟عجیب نیست بحث نمیکنیم؟گفت چون مادر خوبی هستم اذیتای تو رو تحمل میکنممنم گفتم تو دختر بد ندیدی، دخترای مردم خانواده رو جون به لب میکننیکی اون گفت یکی من گفتمدعوامون شد😐☝️**
+[پروکسی](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 14:04:53 UTC
+ممنون از حمایت و همراهیتون
+***♥️***
+***✨***
+
+---
+
+### 🕒 2026-02-17 14:02:54 UTC
+این یکیم تقدیم بهتون.
+[پروکسی](https://t.me/proxy?server=195.254.165.167&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+
+---
+
+### 🕒 2026-02-17 13:51:55 UTC
+**برای جاهایی که ملی هستش.**
+[**پروکسی**](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+اینم داشته باشید.
+[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[پروکسی](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+
+---
+
+### 🕒 2026-02-17 11:56:41 UTC
+**خانمه داشت برا اتاق عمل پذیرش می‌شد، از همسرش پرسید چندکیلوعه؟ گفت پنجاه و هشت. خانمه با حال نزارش ازون طرف داد زد پنجاه‌ و شششششششش.**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 11:27:54 UTC
+**در حاشیه سخنرانی امروز**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 11:10:29 UTC
+**🔻کتیبه قرآنی بالای جایگاه سخنرانی رهبری امروز:🔹{فَمَنِ اعْتَدَى عَلَيْكُمْ فَاعْتَدُوا عَلَيْهِ بِمِثْلِ مَا اعْتَدَى عَلَيْكُمْ}🔸«اگر کسی به شما حمله کند، شما نیز به همان اندازه به او پاسخ دهید»▪️سوره بقره، آیه ۱۹۴**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 10:59:29 UTC
+**وضعیت عراقچی وقتی میشنوه وسط مذاکره تو ایران دارن آمریکا رو تهدید نظامی میکنن.**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 10:51:41 UTC
+**رهبری: مسئولین تلاش‌های خود را دو برابر کنند. وجود این تورم و سقوط ارزش پول ملی به این اندازه غیرمنطقی است**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
+
+### 🕒 2026-02-17 10:38:44 UTC
+**رهبر انقلاب:ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد.**
+[همراه اول](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[همراه](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+  | 
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ |
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ |
+اتصال پرسرعت  
+***➡️***
+ 
+[@Proxy_Qavi](https://t.me/Proxy_Qavi)
+***💙***
+
+---
 
 ### 🕒 2026-02-17 10:33:00 UTC
 **🔻رهبری: خطرناک تر از ناو، آن سلاحی است که میتواند آن را  به قعر دریا بفرستد🔹میگوید ارتش ما قوی‌ترین ارتش دنیا است؛ قوی‌ترین ارتش دنیا ممکن است گاهی آن‌چنان سیلی بخورد که از جا نتواند بلند شود.🔸ترامپ گفته ۴۷ سال است که آمریکا نتوانسته جمهوری اسلامی را از بین ببرد. این اعتراف خوبی است. بنده میگویم: تو هم نخواهی توانست این کار را بکنی.**
@@ -1176,533 +1560,6 @@
 [پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
  | 
 [پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 19:42:20 UTC
-**همزمان که عراقچی درحال حرکت به سوئیسه برای مذاکره، ترابری های سنگین نظامی آمریکا هم برای مذاکره دارن میان سمت خاورمیانه:)**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 19:12:11 UTC
-**ما نسلی بودیم که دوست داشتیم اِسمامونو عموپورنگ بخونه اما مرادویسی خوند.**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 18:37:55 UTC
-**امروز صبح تو تاکسی بودم، آقاهه تا نشست تو تاکسی گفت: من دیشب فاکس نیوز رو چک کردم ترامپ فردا میاد تهران تا با عراقچی رودرو صحبت کنه :))))خدایی کدوم فاکس نیوز رو چک کردی مرد حسابی😐**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 17:52:56 UTC
-**مامانم با ذوق میگه امروز دیدم یه خانومه مدام استارت میزنه ولی ماشین روشن نمیشه. بهش گفتم استارت بیخودی نزن ماشین خفه میکنه. گفتم کاپوت رو بده بالا. سرباتری‌هاشو سفت کردم بعد استارت زد ماشین روشن شد.انقدرم خانومه دعام کرداین ماجرا رو از صبح صد بار برا همه تعریف کرده. مامان بامزه.**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 17:11:03 UTC
-**🔻نتانیاهو برای مذاکرات ایران و آمریکا شرط تعیین کرد🔹نخست‌وزیر رژیم صهیونیستی: اگر قرار است توافقی حاصل شود، باید شامل چندین بخش کلیدی باشد؛ بخش‌هایی که معتقدیم نه‌تنها برای امنیت اسرائیل، بلکه برای امنیت جهان، آمریکا و منطقه حیاتی هستند:🔸اول: تمام مواد غنی‌سازی‌شده باید از خاک ایران خارج شود.🔸دوم: نباید هیچ‌گونه توانایی برای غنی‌سازی باقی بماند؛ این یعنی نه فقط متوقف کردن فرآیند غنی‌سازی، بلکه برچیدن تجهیزات و زیرساخت‌هایی که اجازۀ غنی‌سازی را می‌دهند.🔸سوم: برد موشک‌های ایران نباید از ۳۰۰ کیلومتر فراتر رود و ایران موظف به رعایت آن است.🔸چهارم: برچیدن محور مقاومت که ایران بنا کرده است/فارس**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 17:08:14 UTC
-**‏یه اقایی اومده میپرسه با کالابرگ دارو میشه خرید؟ ‏خدا لعنتتون کنه که این وضع رو واسه مردم درست کردید**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 16:35:56 UTC
-**یه نفر عکس ایلان ماسک رو نقاشی کرده و زیر یکی از توییتای ایلان ماسک منشن کرده، بعد ایلان ماسک وقتی نقاشی رو دیده یارو رو بلاک کرده😄**
-[پروکسی تستی](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 16:02:48 UTC
-**عکس کمتر دیده شده از کودکی ترامپ**
-[پروکسی](https://t.me/proxy?server=gclass-5.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 15:13:48 UTC
-**همیشه ازشون‌حمایت کنین و خرید کنین هر چی باشه این مادر پدرای زحمتکش امیدشون اول به خدا و بعد به ماهاس💔**
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 15:00:21 UTC
-**قدردان این همه لطف‌ و محبت شما هستیم❤️**
-
----
-
-### 🕒 2026-02-15 14:53:01 UTC
-**امروز متوجه شدم اسم یکی از بچه‌های شرکت رو گذاشتن B2.پرسیدم چرا؟گفتن نمی‌شه پیداش کرد، رادار گریزه :)))))**
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 14:43:06 UTC
-[**پروکسی**](https://t.me/proxy?server=91.239.192.251&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** |چقدر خوبه که ری اکشن میزنید زیر پستا.ممنونم♥️**
-
----
-
-### 🕒 2026-02-15 14:28:11 UTC
-**به عنوان کسی که امروز دقیقا یک ساله قند و شکر نخورده می‌تونم با اطمینان بهتون بگم این پفیوز بی‌نهایت روی وزن و روان آدم اثر منفی داره.قندان‌ها را بشکنید!**
-[همراه اول](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[همراه](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 14:18:57 UTC
-**بچم یاد گرفته بنویسه سلام! با مداد خودکار نه ها تو موبایل، تو گوشی میگرده رندم یه نفرو پیدا میکنه و براش مینویسه سلام.در طول روز من یه عالمه جواب سلام از آدمایی که بچم براشون نوشته سلام میگیرم :))))بعضیاشونم فکر میکنن من خلم هی مینویسم سلام بعد هیچی نمیگم :)))))**
-[پروکسی](https://t.me/proxy?server=91.239.192.252&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 11:34:01 UTC
-**حجت الاسلام دانشمند: عامل عصبانیت این نسل جوان اختلاس ها و رانت خواری هاست**
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](tg://proxy?server=185.3.200.50&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.191&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-اتصال پرسرعت  
-***➡️***
- 
-[@Proxy_Qavi](https://t.me/Proxy_Qavi)
-***💙***
-
----
-
-### 🕒 2026-02-15 11:18:19 UTC
-**یکی از آشنایان متوجه میشه شوهرش بهش خیانت کرده و تصمیم میگیرن توافقی جدا شنمیگه: رفته بودم جهیزیه ام رو بردارم و ببرمهمش منتظر بودم همسرم بگه، نرو، بمون، اشتباه کردممیدونی شوهرم چی گفت: بهم گفت: میشه مخلوط کن رو نبری، آخه باهاش برای خودم شیرموز درست میکنم**
-[پروکسی](https://t.me/proxy?server=91.239.192.251&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
  |
 اتصال پرسرعت  
 ***➡️***

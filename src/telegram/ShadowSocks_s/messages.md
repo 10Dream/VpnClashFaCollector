@@ -1,5 +1,320 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-17 10:37:19 UTC
+بروزرسانی: 2026-02-17 20:27:41 UTC
+
+### 🕒 2026-02-17 18:51:34 UTC
+شبکه ۱۲ اسرائیل: شواهد نشان می‌دهد جنگ این هفته آغاز می‌شود!
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 18:34:19 UTC
+دور دوم مذاکرات ایران و آمریکا در حالی برگزار شد که خامنه‌ای توافق را رد کرد و مدعی شد سلاحی دارد که ناوهای آمریکا را غرق می‌کند.همزمان گزارش‌ها از فضای بد در مذاکرات حکایت دارد. ترامپ پیشتر به خامنه‌ای درباره عواقب عدم پذیرش توافق هشدار داده بود.
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 18:30:17 UTC
+مارک‌وین مولین، سناتور جمهوری‌خواه:
+ترامپ در برخورد با ایران بلوف نمی‌زنه. اون کارها رو در زمان‌بندی خودش انجام می‌ده. به این باور داره که آمریکا باید همیشه گزینه‌هایی در اختیار داشته باشه تا از طریق قدرت، صلح رو تضمین کنه. در عین حال می‌دونه نباید اجازه داد سناریویی شبیه «بهار عربیِ هیلاری کلینتون» دوباره تکرار بشه. ما در کنار مردم آزادی‌خواه ایران ایستاده‌ایم.
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 18:20:44 UTC
+[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 18:06:39 UTC
+> ↪️ **Forwarded**
+
+یه بار هفتاد سال پیش اینجا هم براندازی کرد خب، ازون موقع همه‌چی رو انداختیم گردنش. حق داره اینجا رو نجس در نظر بگیره.
+
+---
+
+### 🕒 2026-02-17 18:06:34 UTC
+> ↪️ **Forwarded**
+
+اگه روش کارش اینجوری بود ۴۷ سال قبل یه دخالت‌هایی می‌کرد البته، ولی هرجور صلاحه.
+
+---
+
+### 🕒 2026-02-17 18:05:54 UTC
+۴۰روز گذشت...
+ما زنده ایم برای یک انتقام باشکوه
+***💔***
+***🕊️***
+ 
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 17:56:33 UTC
+[https://t.me/proxy?server=195.254.165.13&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.13&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 14:37:35 UTC
+[https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.41&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.41&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 14:30:32 UTC
+لاهیجان شروع اعتراضات
+
+---
+
+### 🕒 2026-02-17 14:30:03 UTC
+[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[پروکسی](https://t.me/proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ | 
+[پروکسی](https://t.me/proxy?server=www.lost-packet-chrome.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
+ | 
+[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 13:53:01 UTC
+عراقچی: 
+امروز خیلی جدی‌تر صحبت کردیم، مسیر پیدا شده و به تدوین متن داریم میرسیم و پیشرفت خوبی نسبت به جلسه قبلی داشتیم. توافق کلی صورت گرفته. از دیروز رایزنی های مذاکرات شروع شده بود و در ابعاد فنی بحث های خوبی شد، در این دور نسبت به دور گذشته بحث های جدی مطرح شد، فضای سازنده تری وجود داشت، بر اصول کلی راهنما توافق شد
+
+---
+
+### 🕒 2026-02-17 13:51:32 UTC
+عراقچی به صورت زنده: مذاکرات پیشرفت چشمگیری نسبت به دفعه‌ی قبل داشت 
+تاریخ دور بعد مشخص خواهد شد
+
+---
+
+### 🕒 2026-02-17 13:48:18 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 13:22:36 UTC
+همچنان مشهد
+***🕊️***
+***✌🏻***
+
+---
+
+### 🕒 2026-02-17 13:18:51 UTC
+وال استریت ژورنال : مذاکرات به بن بست خورده است
+
+---
+
+### 🕒 2026-02-17 12:54:46 UTC
+با دیدن ویدیو اعتراضات یچیزی تو ذهنم میپیچه که نوشته بود 
+حالا بر فرض محال گیریم با آمریکا توافق کردی 
+با مردم چجوری میخوای توافق کنی 
+(الآنم که هر دو طرف رو باختن)
+
+---
+
+### 🕒 2026-02-17 12:53:21 UTC
+هر دو طرف مذاکره کننده تو سکوت کامل محل مذاکرات رو ترک کردن و با هیچ خبرنگاری هم صحبت نکردن در حال حاضر
+
+---
+
+### 🕒 2026-02-17 12:49:20 UTC
+> ↪️ **Forwarded**
+
+« سلام مراسم چهلم جاوید نام حمید مهدوی آتشنشان قهرمان رو کنسل کردن ولی ما رفتیم. جمعیت زیادی اومده بودن اونجا سرود ای ایران خوندیم اسم قهرمان مون رو فریاد زدیم و شعار دادیم.  پر از لباس شخصی بود و در نهایت پلیس اومد تا جمعیت آروم کنه که با شعار بی شرف و بسیجی سپاهی داعش ما شمایی بدرقه شد. بلافاصله یگان ویژه ها اومدن و با مردم درگیر شدن.
+مشهد عماد خراسانی بلوار پیروز »
+[X](https://x.com/mamlekate/status/2023741155863609346)
+[@mamlekate](https://t.me/mamlekate)
+
+---
+
+### 🕒 2026-02-17 12:47:56 UTC
+`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#NetAcccountvless://1a9b771a-b717-49c8-9e93-f6b3d508d637@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#NetAccountvless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#NetAccount`
+
+---
+
+### 🕒 2026-02-17 12:47:25 UTC
+در حال حاضر هیچ خبر جدیدی نیست 
+بجز درگیری مردم و نیروهای سرکوبگر تو مشهد و آبدانان 
+سنندج هم جو امنیتی بالایی داره
+
+---
+
+### 🕒 2026-02-17 12:39:28 UTC
+مبارک خیلیا
+
+---
+
+### 🕒 2026-02-17 12:39:25 UTC
+اکسیوس: دور دوم مذاکرات رسماً به پایان رسید.
+
+---
+
+### 🕒 2026-02-17 12:37:39 UTC
+خب گویا دور دوم مذاکرات تموم شد
+
+---
+
+### 🕒 2026-02-17 12:35:03 UTC
+المیادین:
+هیأت آمریکایی محل مذاکرات در ژنو رو ترک کرد.
+
+---
+
+### 🕒 2026-02-17 12:32:38 UTC
+ادعای لارنس نورمن، خبرنگار وال استریت ژورنال: هیئت ایرانی و آمریکایی محل مذاکرات را ترک کردند.
+
+---
+
+### 🕒 2026-02-17 12:31:24 UTC
+مشهد همزمان اعتراضات و سرکوب شروع شده
+
+---
+
+### 🕒 2026-02-17 12:29:52 UTC
+مشهد همزمان اعتراضات و سرکوب شروع شده
+
+---
+
+### 🕒 2026-02-17 12:28:26 UTC
+صدا و سیما: یه تیم از محل مذاکرات خارج شد 
+که فعلا مشخص نیست کدومشونه و چرا محل رو ترک کرده
+***🌚***
+
+---
+
+### 🕒 2026-02-17 11:27:36 UTC
+خواهیم دید چه خواهد شد
+
+---
+
+### 🕒 2026-02-17 11:15:15 UTC
+رویترز: تمام شروط ترامپ توسط رهبر ایران رد شد
+
+---
+
+### 🕒 2026-02-17 11:14:52 UTC
+اختلال گسترده در اینترنت گزارش میشه
+
+---
+
+### 🕒 2026-02-17 11:03:38 UTC
+هماهنگ نکردن حرفاشونو؟!
+***😂***
+***🗿***
+هر کی یچی میگه 
+فکر کنم از استراتژی گیج کردن دشمن استفاده کردن
+
+---
+
+### 🕒 2026-02-17 11:03:02 UTC
+سخنگوی وزارت امور خارجه ایران:
+ آماده‌ایم روزها و هفته‌ها در ژنو بمانیم تا به توافق برسیم.
+
+---
+
+### 🕒 2026-02-17 10:51:06 UTC
+ناو یک دستگاه خطرناکیست
+***😂***
+***🚶🏻‍♀***
+
+---
+
+### 🕒 2026-02-17 10:49:52 UTC
+معاریو: رهبر جمهوری اسلامی رسما با آمریکا اعلام جنگ کرد.
+
+---
+
+### 🕒 2026-02-17 10:44:14 UTC
+این ملت ملت میگه منظورش ماییم؟!
+***🦦***
+کدام ملت!
+
+---
+
+### 🕒 2026-02-17 10:42:48 UTC
+واکنش عراقچی به صحبت‌های امروز خامنه‌ای وقتی همزمان هم بهش گفته برو با آمریکا مذاکره کن ولی خودش میگه باهاشون توافق نمیکنیم و دنبال جنگه:
+
+---
+
+### 🕒 2026-02-17 10:41:54 UTC
+خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
+
+---
+
+### 🕒 2026-02-17 10:39:32 UTC
+خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
+
+---
+
+### 🕒 2026-02-17 10:37:41 UTC
+خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
+
+---
 
 ### 🕒 2026-02-17 10:35:56 UTC
 > ↪️ **Forwarded**
@@ -16,11 +331,6 @@
 
 ### 🕒 2026-02-17 10:33:41 UTC
 صدا و سیما : مذاکرات در صورت رفع کامل تحریم ها و حفظ کامل غنی سازی صورت میگیرد.
-
----
-
-### 🕒 2026-02-17 09:55:33 UTC
-ایران با بازدید آژانس بین‌المللی انرژی اتمی از تأسیسات هسته‌ای موافقت کرده و همچنین خواستار از بین رفتن تمامی تحریم ها شده
 
 ---
 
@@ -217,131 +527,6 @@ This is the End .
 پسر کو ندارد نشان از پدر
 ***❤️***
 ***🔥***
-
----
-
-### 🕒 2026-02-15 19:48:55 UTC
-**آهنگ «جاوید شاه» که با هوش مصنوعی و برگرفته از شعارهای مردم بازسازی شده و این روزا حسابی در فضای مجازی وایرال شده**
-
----
-
-### 🕒 2026-02-15 18:19:04 UTC
-> ↪️ **Forwarded**
-
-در حالی که فقط یک مادر داریم که آمریکا بگاید، پس ما پیروزیم.
-
----
-
-### 🕒 2026-02-15 17:44:55 UTC
-[https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.117.172&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.124&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.248&port=9443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-15 17:42:28 UTC
-هر کی از اتحاد ما ناراحته جمع کنه بره فلسطین. 
-***🦦***
-
----
-
-### 🕒 2026-02-15 16:41:10 UTC
-> ↪️ **Forwarded**
-
-ماژاللّه داره
-[@MemeBaazaar](https://t.me/MemeBaazaar)
-
----
-
-### 🕒 2026-02-15 13:09:46 UTC
-ترامپ : همین الان می‌توانم محل اقامت رهبر ایران را بصورت زنده پخش کنم
- ترامپ: اگر من رهبر ایران بودم، از اینکه مدت زیادی در یک جا بخوابم، می‌ترسیدم.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-15 12:45:07 UTC
-> ↪️ **Forwarded**
-
-[وحی جدید رسید: سوره ناوگان](http://instagram.com/p/DUv0h5xCjis/)
-ناو ۝ gun ۝ انا انزلنا الیکم جرالد فورد ۝ و تو چه میدانی آن ناوگان عظیم چیست؟ ۝  اگر میتوانید ناوگانی مانند آن بیاورید ۝ إن كُنتُم صادِقين ۝ گوزوها ۝ ای تورقوز! ۝ قُل لِخرزشيونَ! ۝ همانا ناو از ناوچه بزرگتر است! ۝ و از ابابیل بی‌۲ گران‌تر! ۝  که ارسلناک خامنه‌ای ۝ فی الچاه فاضلاب ۝ 
-[تا ۲۷ روز دیگر](https://t.me/mamlekate/98962)
- ۝
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-15 12:44:55 UTC
-> ↪️ **Forwarded**
-
-**💩 خشم مجلس حکومت اسلامی از حماسه حضور مردم ایران در مونیخ**
-۱- ترزین‌ویزه مونیخ ۴۲ هکتاره. یعنی واقعاً انتظار داشتن چند میلیون نفر بیان که کل ۴۲ هکتار رو سرپا پر کنن؟ اونم تو بارون و سرما که جمعیت پنگوئنی به هم چسبیدن؟ 
-۲- گزارش رسمی پلیس مونیخ میگه ۲۵۰ هزار نفر تو محدوده ترزین‌ویزه و باواریارینگ بودن. وبکم‌ها تنها ترزین‌ویزه رو نشون داده. این خط‌هایی که مورچه‌ای میاد به جمعیت و پشتش رو نشون نمیده.
-۳- مشکل اینه تو مخ این عرزشیا جا افتاده ترزین‌ویزه دیگه فوقش اندازه آزادیه در حالیکه دقیقا سه تا آزادی اون تو جا میشه.
-۴- بعد جالبه همینا تو ام‌القرا، آزادی رو هم نمی‌تونن پر کنن؛ ۱۴ هکتار رو آدم روی «صندلی» گشاد گشاد بنشونی نهایتاً ۱۰۰ هزار نفر میشه. که با ساندیس و کیک هم همونم این سالها نتونستن پر کنند.
-۵- مقابله با قدرت اهههددههه [تته پته] 01:33
-۶- دعوت عراقچی رو پس گرفتند شد سیرک؟ قبلش ولی اصلا هتل رزرو نکرده بودن چمدون نبسته بودن برن همونجا.
-۷. وقتی اینا اینقد می‌سوزن یعنی مردم زدن تو خال.
-۸. به جرات میشه گفت بیش از یک میلیون ایرانی بیرون بودن. از آوکلند 
-***🇳🇿***
-  تا اوکلند 
-***🇺🇸***
-[@mamlekate](https://t.me/mamlekate)
- 
-[#آوکلند_تا_اوکلند](?q=%23%D8%A2%D9%88%DA%A9%D9%84%D9%86%D8%AF_%D8%AA%D8%A7_%D8%A7%D9%88%DA%A9%D9%84%D9%86%D8%AF)
-
----
-
-### 🕒 2026-02-15 12:44:28 UTC
-[https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.171&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.16&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.16&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=mizanesgh.co.uk.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=mizanesgh.co.uk.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-15 12:44:03 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-15 12:43:25 UTC
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
-
----
-
-### 🕒 2026-02-15 12:42:25 UTC
-متوجه شدین اوضاع از چه قراره یا زینب بیشتر بگه؟!
 
 ---
 

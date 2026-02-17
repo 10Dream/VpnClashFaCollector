@@ -466,12 +466,25 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "***🆔***@iphone02016vpn`", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@iphone02016vpn`", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: "@iphone02016vpn` 2", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: یام‌یام پروکسی, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "***🆔***", server: 18.183.109.29, port: 3373, type: trojan, password: 9372cb81c7b0ad903f91f2f8a4d3f02b, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 2", server: f1.springpaatogh8.store, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: /, headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn` 2", server: 205.233.181.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET`", server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: e55fd8f9c9a9a0ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 3", server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: e55fd8f9c9a9a0ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET", server: 199.232.193.10, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 896c2efd-252d-4837-b3b7-349faa02956d, network: ws, ws-opts: {path: /, headers: {Host: easyhostmanger.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 4", server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 93bf727c-95d1-4bd9-824e-3156b655ae71, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 5", server: 81.12.92.70, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 9d3676df-21c3-4338-909f-078067620114, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 2", server: 185.126.7.182, port: 12486, type: vless, tls: true, packet-encoding: xudp, uuid: 9ecfba25-f382-41c2-ac80-429f8689da9a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn. frans`", server: 85.133.249.38, port: 58128, type: vless, tls: true, packet-encoding: xudp, uuid: a98dfd2a-b021-607c-af2d-362ae38c9478, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 2", server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 3", server: 95.38.38.233, port: 42245, type: vless, tls: true, packet-encoding: xudp, uuid: c01836d6-afbd-432e-92f3-3075d80e97bd, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 6", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 3", server: 94.232.247.168, port: 41360, type: vless, tls: true, packet-encoding: xudp, uuid: e16a35ea-6715-4e75-9845-d20358bd0876, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU, short-id: 1aab45}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 193.151.139.212, port: 8268, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,12 +502,25 @@ proxy-groups:
     type: select
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -502,12 +528,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -515,12 +554,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -537,12 +589,25 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -550,12 +615,25 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -563,12 +641,25 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***@iphone02016vpn`"
+      - "@iphone02016vpn`"
+      - "@iphone02016vpn` 2"
       - یام‌یام پروکسی
       - "***🆔***@iphone02016vpn"
+      - "***🆔***"
+      - "***🆔*** 2"
       - "***🆔***@iphone02016vpn` 2"
+      - "@KIA_NET`"
+      - "***🆔*** 3"
+      - "@KIA_NET"
+      - "***🆔*** 4"
+      - "***🆔*** 5"
+      - "@KIA_NET 2"
       - "@iphone02016vpn. frans`"
       - "***🆔***@iphone02016vpn 2"
+      - "@KIA_NET 3"
+      - "***🆔*** 6"
       - "***🆔***@iphone02016vpn 3"
+      - NetAccount`
   - name: دانلود منیجر 📥
     type: select
     proxies:

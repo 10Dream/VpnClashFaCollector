@@ -1,5 +1,224 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-17 10:38:27 UTC
+بروزرسانی: 2026-02-17 20:28:54 UTC
+
+### 🕒 2026-02-17 20:06:09 UTC
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
+
+### 🕒 2026-02-17 16:40:18 UTC
+هر ماده‌ای که به پوستمون می‌زنیم، یه داستان داره…
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
+
+### 🕒 2026-02-17 15:39:02 UTC
+‏تلگرام هر دو روز یه بار:
+واقعااا مطمئنی این شماره خودته؟!
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
+
+### 🕒 2026-02-17 14:38:02 UTC
+- چرا نمیای بریم بیرون 
++کار دارم
+- چه کاری؟
+کارم :
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
+
+### 🕒 2026-02-17 13:38:02 UTC
+پنیر سفید پگاه از ۱۲۰ تومن شد ۱۵۰ و حالا یهو شده ۲۳۰ تومن
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
+
+### 🕒 2026-02-17 12:38:02 UTC
+امروز sad نبودم دویست، سیصد بودم.
+[پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+| 
+[پروکسی](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***⚜***
+[@Free_Netplus](https://t.me/Free_Netplus)
+ | اینترنت آزاد
+
+---
 
 ### 🕒 2026-02-17 10:37:02 UTC
 اگر مرا نابالغ یافتی؛
@@ -427,113 +646,6 @@
  | 
 [پروکسی](https://t.me/khstak)
  
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 18:32:02 UTC
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- |  
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-  | 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- |  
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 17:34:02 UTC
-اگه به فکر ازدواج و تشکیل خانواده اید بدونید که یه بسته پوشک ۵۰ تایی شده ۱ میلیون تومن.
-البته خرید قسطی داره نگران نباشید
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 16:34:02 UTC
-زندگی چطور میگذره؟
-من:
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 15:33:02 UTC
-دخترا : ۳ بار کتاب رو برا امتحان دوره کردم
-پسرا :
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 14:32:29 UTC
-⁨ ⁨ چطور  کمتر بخوابیم ولی سرحال از خواب بیدارشیم(بدون نیازبه قهوه)⁩
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 12:59:02 UTC
-به خدا اعتماد کن!
-به زمانبندی هاش! به حکمتش!
-در مقابل موانع و مشکلات زندگیت صبور باش و امیدت رو از دست نده! شاید خدا چیزهای بهتری برات در نظر داره. 
-پس فقط بهش اعتماد کن!
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 ***⚜***
 [@Free_Netplus](https://t.me/Free_Netplus)
  | اینترنت آزاد
