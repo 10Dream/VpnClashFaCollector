@@ -1,5 +1,11 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-17 01:06:31 UTC
+بروزرسانی: 2026-02-17 10:36:03 UTC
+
+### 🕒 2026-02-17 02:20:57 UTC
+ویدیوی گفتگوی شاهزاده رضا پهلوی با شبکه TF1 فرانسه
+(زیرنویس فارسی)
+
+---
 
 ### 🕒 2026-02-16 23:19:48 UTC
 `vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.32:48484?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#NetAccount`
@@ -573,160 +579,6 @@ You are just a blink in our history. We are returning to our roots.
 [لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
  | 
 [لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-15 08:50:02 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-15 08:40:31 UTC
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
- 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-|
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- |
-
----
-
-### 🕒 2026-02-15 06:06:49 UTC
-تجمع دیروز ایرانیان در توکیو ژاپن
-***❤️***
-
----
-
-### 🕒 2026-02-15 05:58:12 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-15 05:38:48 UTC
-دیروز حتی جمعی از ایرانیان ساکن پروتریای آفریقای جنوبی هم تجمع کردن و شعار «از همه جا تا ایران، جانم فدای ایران» سر دادن
-اتحاد ملی در سرتاسر جهان
-***❤️***
-
----
-
-### 🕒 2026-02-15 05:21:38 UTC
-تایم لپس تجمع در تورنتو
-***🔥***
-
----
-
-### 🕒 2026-02-15 05:09:23 UTC
-قربون جاوید شاه گفتنت عزیز دلم
-***🥹***
-***😍***
-به جا مونده از دیروز در تورنتو
-
----
-
-### 🕒 2026-02-15 04:22:27 UTC
-طول این پرچم که مزین به تصاویر موجود از جاویدنامان است، 50 متر بوده که دیروز روی دست های ایرانیان ملبورن در استرالیا چرخیده
-***❤️***
-
----
-
-### 🕒 2026-02-15 03:52:07 UTC
-پلیس ونکوور اعلام کرد در تظاهرات ایرانیان در روز شنبه در حمایت از انقلاب ملی مردم ایران 45 هزار نفر شرکت کردند.
-(عزیزان این ونکووره با تورنتو فرق داره اشتباه نگیرید)
-شنبه بیش از یک میلیون نفر در پاسخ به فراخوان شاهزاده پهلوی برای «روز جهانی اقدام» در شهرهای مختلف جهان در حمایت از مردم ایران تجمع کردند.
-
----
-
-### 🕒 2026-02-15 03:42:33 UTC
-`vless://3b1e55af-cb72-4e57-83b8-be4e69b57376@tun1-norbert1.norbertvip-conf.site:9900?security=none&encryption=none&host=%2FJOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet---JOIN---V2rayNG_SPDNet%3Fed%3D2560&headerType=http&type=tcp#NetAccount`
-`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v1.ip4exordir.shop:8880?mode=gun&security=none&encryption=none&type=grpc#NetAccount`
-`vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
-`vless://40b125e3-4c2a-4664-a5aa-fcd09e6ff299@Panel.AhmadMomeni.ir:44088?security=none&encryption=none&headerType=none&type=tcp#NetAccount`
-`vless://476f651c-43dd-432a-9fdb-cf4cd65de9a9@snii2.totalwarseriesgameserver.ir:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir&fp=chrome&type=ws&allowInsecure=0&sni=varzeshtviuwsofogleugvwsoyutruyrrteytmarz.totalwarseriesgameserver.ir#NetAccount`
-
----
-
-### 🕒 2026-02-15 03:32:22 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- تجمع امروز ایرانیان در هلیفکس کانادا
-
----
-
-### 🕒 2026-02-15 03:28:37 UTC
-[https://t.me/proxy?server=www.koukicohost2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.koukicohost2.co.uk&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-
----
-
-### 🕒 2026-02-15 02:59:25 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-15 02:36:00 UTC
-تجمع امروز ایرانیان در شهر هیوستون از ایالت تگزاس آمریکا
-***🔥***
-
----
-
-### 🕒 2026-02-15 01:55:27 UTC
-تجمع ایرانیان در لس آنجلس امروز
-
----
-
-### 🕒 2026-02-15 01:16:03 UTC
-مراد ویسی عزیز هم امروز توی تجمعات واشنگتن در آمریکا شرکت کرد
-بسیار دوستت داریم عمو مراد
-***❤️***
-
----
-
-### 🕒 2026-02-15 01:13:29 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- داداش رفیق ماست. جاویدنام آرش عسگری. 18 دی تو آریاشهر کشتنش
-اینجا هم الان تورنتوس
-
----
-
-### 🕒 2026-02-15 01:07:13 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- درود. آرزوی جاویدنام مهرداد مشتاقی عزیز این بوده که بازی رئالو توی ورزشگاه سانتیاگو برنابئو ببینه. امشب بچه ها اینکارو انجام دادن براش لطفا بذار کانال
-***🤍***
 
 ---
 

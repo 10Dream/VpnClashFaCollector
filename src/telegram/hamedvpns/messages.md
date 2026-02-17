@@ -1,5 +1,28 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-17 01:09:01 UTC
+بروزرسانی: 2026-02-17 10:38:40 UTC
+
+### 🕒 2026-02-17 04:32:43 UTC
+کانفیگ فرگمنت 
+***🇫🇷***
+مخصوص ویتورای ، نیکا و مهسا و happ 
+{"remarks":"hamedvpns 
+***🇫🇷***
+","log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"188.114.96.3","level":1,"flow":"","method":"chacha20-poly1305","ota":false,"password":"humanity","port":443}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":true,"serverName":"WWw.GOsSIpGlOve.cOM","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/assignment","headers":{"Host":"WWw.GOsSIpGlOve.cOM"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
+***⚡***
+ لطفاً تست کنید 
+***⚡***
+**❤️ اشتراک گذاری یادتون نره 💚**
+..‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-02-16 19:50:03 UTC
 شما رو به خدای بزرگ می‌سپارم 
@@ -489,44 +512,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ### 🕒 2026-02-15 11:46:40 UTC
 ساب لینک مون در مراحل پایانی هست ، فقط چند تا کانفیگ دیگر میخوام تست کنید تا کامل وضعیت رو در نظر بگیرم .
 ...
-
----
-
-### 🕒 2026-02-15 08:25:28 UTC
-https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   بابت اینکه چینیه معذرت میخوام از مبدل استفاده شده
-***🙏🏻***
-  تست کنید نتیجه رو بهم بگید
-
----
-
-### 🕒 2026-02-15 07:49:53 UTC
-***👤***
-این عکس نه فتوشاپه نه هوش مصنوعی، این عکس زیبا امروز در بندر شاهپور گرفته شده
-
----
-
-### 🕒 2026-02-15 07:25:06 UTC
-این کانفیگ نپستر رو تست کنید
-نتیجه رو اعلام کنید ، اپراتور هم بگید.
-
----
-
-### 🕒 2026-02-15 05:03:08 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
 
 ---
 

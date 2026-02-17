@@ -1,5 +1,46 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-17 01:07:45 UTC
+بروزرسانی: 2026-02-17 10:37:19 UTC
+
+### 🕒 2026-02-17 10:35:56 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان شجاع و گرامی،
+جمهوری اسلامی و رهبر جنایتکار آن در جریان انقلاب بزرگ ملی، به‌ویژه در شب‌های ۱۸ و ۱۹ دی، ده‌ها هزار فرزند برومند این آب‌وخاک را به خاک و خون کشیدند و خانواده‌های بی‌شماری را داغدار کردند. ضحاک زمان، آن‌گاه که رژیم ننگین و ضدایرانی‌اش را در خطر دید، حتی به مجروحان و اسیران در بند نیز رحم نکرد و جنایات ناتمام رژیم بعثی صدام علیه مردم ایران را تمام کرد.
+اکنون، هم‌زمان با چهلمین روز جاودانه شدن شجاع‌ترین فرزندان ایران، از همه شما هم‌میهنان شریف و آگاه می‌خواهم در آیین‌های یادبود و گرامی‌داشت آن جاویدنامان شرکت کنید. با ادای احترام به لاله‌های در خون خفته ایران، قدردان رشادت و فداکاری جان‌فدایان میهن باشید. با دیدار و تماس با خانواده‌های دادخواه و حمایت از آنها، بر تداوم مسیری که کاوه‌ها و گردآفریدهای در خاک‌خفته ایران به ما نشان دادند تاکید کنید.
+همه ما، در کنار یکدیگر، با قلب‌هایی فشرده و سینه‌هایی سرشار از یقین به پیروزی، پیش خواهیم رفت و به‌زودی ایران را از لوث وجود خامنه‌ای و رژیم اشغالگر و جهنمی‌اش پاک خواهیم کرد.
+پاینده ایران
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
+
+### 🕒 2026-02-17 10:33:41 UTC
+صدا و سیما : مذاکرات در صورت رفع کامل تحریم ها و حفظ کامل غنی سازی صورت میگیرد.
+
+---
+
+### 🕒 2026-02-17 09:55:33 UTC
+ایران با بازدید آژانس بین‌المللی انرژی اتمی از تأسیسات هسته‌ای موافقت کرده و همچنین خواستار از بین رفتن تمامی تحریم ها شده
+
+---
+
+### 🕒 2026-02-17 06:42:15 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-17 05:47:17 UTC
+[https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D](https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=65.109.178.132&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=65.109.178.132&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=65.109.181.47&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=65.109.181.47&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=116.203.242.112&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=116.203.242.112&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[https://t.me/proxy?server=116.203.139.144&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=116.203.139.144&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+﻿
+
+---
 
 ### 🕒 2026-02-16 23:39:02 UTC
 This is the End .
@@ -301,19 +342,6 @@ This is the End .
 
 ### 🕒 2026-02-15 12:42:25 UTC
 متوجه شدین اوضاع از چه قراره یا زینب بیشتر بگه؟!
-
----
-
-### 🕒 2026-02-15 03:28:06 UTC
-Join @Patriot_meme
-
----
-
-### 🕒 2026-02-15 03:28:01 UTC
-> ↪️ **Forwarded**
-
-**Join **
-[**@Patriot_meme**](https://t.me/Patriot_meme)
 
 ---
 

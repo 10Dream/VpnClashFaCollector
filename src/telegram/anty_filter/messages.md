@@ -1,5 +1,16 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-17 01:08:08 UTC
+بروزرسانی: 2026-02-17 10:37:43 UTC
+
+### 🕒 2026-02-17 10:07:54 UTC
+سرور ویتوری 
+vless://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fans2.mahoshid.ir:45471?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8D%AC
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8E%B2
+vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#%40vpnbaz%20%F0%9F%8E%A9
+vless://ff9fef0b-b3cd-4583-8841-b7ef1843880f@1234.wordpresscrt.ir:2087?path=%2Fpath&security=tls&encryption=none&insecure=0&host=mehdi-cd.wordpresscrt.ir&type=ws&allowInsecure=0&sni=mehdi-cd.wordpresscrt.ir#%40vpnbaz%20%F0%9F%9B%B8
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?path=%2Fukspeed&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=snapfood.org&fp=chrome&type=ws&allowInsecure=1&sni=snapfood.org#%40vpnbaz%20%F0%9F%8E%B3
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-16 22:49:41 UTC
 ***🔴***
@@ -229,18 +240,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%F0%9F%8C%B5
 vless://0a9fe7e0-e02d-42ca-bebd-ecb4292f180c@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=c6ef72e4635d15a5#%40vpnbaz%20%F0%9F%8E%88
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vpnbaz%20%F0%9F%8E%83
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-15 10:32:40 UTC
-سرور ویتوری 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%40vpnbaz%20%F0%9F%8E%B1
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8F%80
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sw.flicknet.ir:10601?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8C%B5
-vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?security=reality&encryption=none&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4374d295a4f9dd83#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
-vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDA0IiwicHMiOiJAdnBuYmF6IPCfjrQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwIiwicHMiOiJAdnBuYmF6IOKbqe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

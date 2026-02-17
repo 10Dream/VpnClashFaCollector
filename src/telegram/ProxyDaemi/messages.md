@@ -1,5 +1,31 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-17 01:06:46 UTC
+بروزرسانی: 2026-02-17 10:36:18 UTC
+
+### 🕒 2026-02-17 07:55:33 UTC
+***🔴***
+**دور دوم مذاکرات غیرمستقیم ایران و آمریکا در حدود ساعت 9 صبح به وقت ژنو  و 11:30 به وقت ایران، در سفارت عمان در سوئیس آغاز می‌شود **
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-16 21:39:12 UTC
 فردا و پس فردا چهلم هزاران نفره
@@ -536,71 +562,6 @@ Sponsored by
 نگران نباش 
 تا اینجا خدا بوده... 
 از اینجا به بعدشم خدا هست...
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-15 09:41:04 UTC
-یه بسته پوشک شده یه میلیون.
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-15 08:50:40 UTC
-برای جاوید‌ نام مهرداد مشتاقی که آروزش دیدن بازی رئال از نزدیک بود 
-***🖤***
 [آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 
 [آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)

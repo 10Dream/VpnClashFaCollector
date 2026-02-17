@@ -465,41 +465,26 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "Telegram: @wiki_tajrobe", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 2", server: 109.122.247.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 397c07d2-15bd-4702-c875-882807372b86, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 3", server: 109.122.247.82, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 397c07d2-15bd-4702-c875-882807372b86, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 4", server: 104.17.148.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 5", server: imgur.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 49af75d4-31d0-4322-b425-630be07030e1, network: ws, ws-opts: {path: /download, headers: {Host: diarasup2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 6", server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4c97ec3e-3527-48c5-80ff-b715463896ba, network: ws, ws-opts: {path: "/?ed", headers: {Host: kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 7", server: 185.238.228.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 8", server: 188.114.99.243, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&🇫🇷] - https://t.me/NetZoneNews", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 9", server: 188.114.99.243, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 10", server: 45.131.7.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 11", server: 57.129.14.56, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 12", server: 88.99.60.34, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 13", server: 91.99.61.240, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: a06e7fb0-432b-4917-a3e5-54a542ae08a4, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 14", server: 91.99.61.240, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: a06e7fb0-432b-4917-a3e5-54a542ae08a4, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 15", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a9ee8b76-6a94-4c25-9705-76d9bd38771e, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /35.230.79.26=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 16", server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: b433fd43-e947-4cd0-96f9-901eb09df4b9, servername: xn-ch7.shakhle.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: xn-ch7.shakhle.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 17", server: zone.al.velaro.ir, port: 57790, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 18", server: zone.al.velaro.ir, port: 57790, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 19", server: zone.dea.fx2hub.ir, port: 31665, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 20", server: zone.in.velaro.ir, port: 23702, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 21", server: zone.in.velaro.ir, port: 23702, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 22", server: zone.sp.flicknet.ir, port: 33563, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 23", server: zone.sp.flicknet.ir, port: 33563, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad", server: tun1.karunwebco.com, port: 1020, type: vless, tls: true, packet-encoding: xudp, uuid: d747e76d-7e3a-46f9-99ef-ed543042b75f, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM, short-id: 4374d295a4f9dd83}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 24", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d85ea913-7dfa-44b0-bd66-33414e897991, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /35.230.79.26=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 25", server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 26", server: vip-76.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 27", server: vip-77.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 28", server: vip-82.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 29", server: vip-85.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: e71f0e47-996c-4b95-8b9f-97c428acb7ab, host: JouRNaloFbIgdATA.SpRinGeropEn.coM., path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 30", server: 190.93.245.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e765eb5b-8442-40e3-9532-857ba5ececa7, servername: vbox.ping-box.com, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 31", server: 194.5.205.229, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac24178-0629-41ea-a0f3-54030f594dec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 32", server: 194.5.205.229, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac24178-0629-41ea-a0f3-54030f594dec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 33", server: 69.84.182.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fad9bc27-556f-4fec-bbd6-d8605a2ff60a, servername: a.mohmdmusic.dpdns.org, network: ws, ws-opts: {path: /1180/mohmd, headers: {Host: a.mohmdmusic.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 34", server: chatgpt.com, port: 8443, type: vmess, uuid: 19e52bf4-1b7d-4bd4-ae66-6ca024436c17, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: frsys.fl-dl.com, network: ws, ws-opts: {path: /gbt, headers: {Host: chatgpt.com}}, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: mail.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 2", server: mail.norton-v.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 3", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 4", server: delilah.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 5", server: 172.64.145.38, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 6", server: host.snapfood.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79623191-ec26-4c9a-8021-50713c67dfe2, servername: snapfood.org, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ukspeed, headers: {Host: snapfood.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 7", server: hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98057472-daa3-43cc-a23e-b7a8f799ba5b, servername: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir., network: ws, ws-opts: {path: /, headers: {Host: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 8", server: hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98057472-daa3-43cc-a23e-b7a8f799ba5b, servername: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir., network: ws, ws-opts: {path: /, headers: {Host: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 9", server: 185.126.7.182, port: 12486, type: vless, tls: true, packet-encoding: xudp, uuid: 9ecfba25-f382-41c2-ac80-429f8689da9a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 10", server: ip10.rtpxc.com, port: 2876, type: vless, tls: true, packet-encoding: xudp, uuid: a76f16e8-1b20-4705-bf0c-c34758e7bab9, host: ip10.rtpxc.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 11", server: free.joserv.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a88ea8bf-7001-4e29-a9bb-379f6778195c, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: n7PbThf3Y4O9x0Ya1sENteFwg7k4INOTnI64MxVz5UQ, short-id: 0123456789abcdef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 12", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b6bac354-c4d1-43aa-a5fe-e8babda06496, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 13", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b6bac354-c4d1-43aa-a5fe-e8babda06496, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 14", server: sr1.baleping.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: c733fcc3-b41d-4a2d-942d-b6c85c01984e, host: sr1.baleping.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 15", server: sr3.baleping.shop, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: c733fcc3-b41d-4a2d-942d-b6c85c01984e, host: sr3.baleping.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 16", server: sr9.baleping.shop, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: c733fcc3-b41d-4a2d-942d-b6c85c01984e, host: sr9.baleping.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 17", server: cpanel.whaletm2.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: cf30efe5-1e71-4fd5-ba49-4fb831cc11d6, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 18", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 19", server: mail.j-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: f19bceee-4a50-4b0a-896a-7630812a9bff, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 20", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -536,21 +521,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -577,21 +547,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -618,21 +573,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -668,21 +608,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -709,21 +634,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -750,21 +660,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 18"
       - "Telegram: @wiki_tajrobe 19"
       - "Telegram: @wiki_tajrobe 20"
-      - "Telegram: @wiki_tajrobe 21"
-      - "Telegram: @wiki_tajrobe 22"
-      - "Telegram: @wiki_tajrobe 23"
-      - "@filembad"
-      - "Telegram: @wiki_tajrobe 24"
-      - "Telegram: @wiki_tajrobe 25"
-      - "Telegram: @wiki_tajrobe 26"
-      - "Telegram: @wiki_tajrobe 27"
-      - "Telegram: @wiki_tajrobe 28"
-      - "Telegram: @wiki_tajrobe 29"
-      - "Telegram: @wiki_tajrobe 30"
-      - "Telegram: @wiki_tajrobe 31"
-      - "Telegram: @wiki_tajrobe 32"
-      - "Telegram: @wiki_tajrobe 33"
-      - "Telegram: @wiki_tajrobe 34"
   - name: دانلود منیجر 📥
     type: select
     proxies:

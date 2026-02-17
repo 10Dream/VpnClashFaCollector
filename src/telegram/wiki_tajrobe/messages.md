@@ -1,5 +1,57 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-17 01:10:52 UTC
+بروزرسانی: 2026-02-17 10:40:34 UTC
+
+### 🕒 2026-02-17 07:30:19 UTC
+همراه اول:
+vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr1.baleping.shop:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?path=%2Fukspeed&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=snapfood.org&fp=chrome&type=ws&allowInsecure=1&sni=snapfood.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCflKUgVGVsZWdyYW06IEB3aWtpX3RhanJvYmUiLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&path=%2Fdata%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=datas.meowchannel.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr9.baleping.shop:2052?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+***⚡️***
+ 
+[@wiki_tajrobe](https://t.me/wiki_tajrobe)
+
+---
+
+### 🕒 2026-02-17 07:28:59 UTC
+همراه اول:
+vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.joserv.online:443?security=reality&encryption=none&pbk=n7PbThf3Y4O9x0Ya1sENteFwg7k4INOTnI64MxVz5UQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr3.baleping.shop:2086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+***⚡️***
+ 
+[@wiki_tajrobe](https://t.me/wiki_tajrobe)
+
+---
+
+### 🕒 2026-02-17 07:10:09 UTC
+مخابرات:
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://91593ace-980c-4395-8f21-fb9a25bad4d2@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=hyper-node-balancer-05-core-main.hamrahconfig.ir.&type=httpupgrade#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://f19bceee-4a50-4b0a-896a-7630812a9bff@mail.j-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://cf30efe5-1e71-4fd5-ba49-4fb831cc11d6@cpanel.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+***⚡️***
+ 
+[@wiki_tajrobe](https://t.me/wiki_tajrobe)
+
+---
 
 ### 🕒 2026-02-16 19:06:34 UTC
 **ابلاغ دستور آماده‌باش برای قطع اینترنت به دیتاسنترها**
@@ -33,61 +85,6 @@
 ۱۶،۷۰۰،۰۰۰ تومان
 حداقل حقوق کارکنان دولتی
 ۱۸،۷۰۰،۰۰۰ تومان
-
----
-
-### 🕒 2026-02-15 05:12:58 UTC
-مخابرات:
-vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=%2F35.230.79.26%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26%F0%9F%87%AB%F0%9F%87%B7%5D%20-%20https%3A%2F%2Ft.me%2FNetZoneNews&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e71f0e47-996c-4b95-8b9f-97c428acb7ab@vip-77.f-sub.cfd:1517?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e71f0e47-996c-4b95-8b9f-97c428acb7ab@vip-82.f-sub.cfd:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e71f0e47-996c-4b95-8b9f-97c428acb7ab@vip-76.f-sub.cfd:1517?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.99.60.34:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=%2Fdownload&security=none&encryption=none&host=diarasup2.global.ssl.fastly.net&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-
----
-
-### 🕒 2026-02-15 05:11:29 UTC
-مخابرات:
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a9ee8b76-6a94-4c25-9705-76d9bd38771e@afrcloud22.mmv.kr:443?path=%2F35.230.79.26%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e71f0e47-996c-4b95-8b9f-97c428acb7ab@vip-85.f-sub.cfd:1517?security=none&encryption=none&host=JouRNaloFbIgdATA.SpRinGeropEn.coM.&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ip.shakhle.ir:2083?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=xn-ch7.shakhle.ir&fp=chrome&type=ws&allowInsecure=0&sni=xn-ch7.shakhle.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.dea.fx2hub.ir:31665?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.al.velaro.ir:57790?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.al.velaro.ir:57790?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vmess://eyJhZGQiOiJjaGF0Z3B0LmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2J0IiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCflKUgVGVsZWdyYW06IEB3aWtpX3RhanJvYmUiLCJzY3kiOiJhdXRvIiwic25pIjoiZnJzeXMuZmwtZGwuY29tIiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://fad9bc27-556f-4fec-bbd6-d8605a2ff60a@69.84.182.3:443?path=%2F1180%2Fmohmd&security=tls&encryption=none&insecure=0&host=a.mohmdmusic.dpdns.org&type=ws&allowInsecure=0&sni=a.mohmdmusic.dpdns.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a06e7fb0-432b-4917-a3e5-54a542ae08a4@91.99.61.240:9090?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e765eb5b-8442-40e3-9532-857ba5ececa7@190.93.245.94:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-
----
-
-### 🕒 2026-02-15 05:07:07 UTC
-همراه اول:
-vless://fac24178-0629-41ea-a0f3-54030f594dec@194.5.205.229:80?security=&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-hysteria2://flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a06e7fb0-432b-4917-a3e5-54a542ae08a4@91.99.61.240:9090?security=&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sp.flicknet.ir:33563?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.al.velaro.ir:57790?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://8615006b-196d-44d2-aedc-7e0c683c7fcb@1.iranazizm.com:2095?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG-%2F%2F-%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=hqhqhq.r-sgoone.ir&type=httpupgrade#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://fad9bc27-556f-4fec-bbd6-d8605a2ff60a@69.84.182.3:443?path=%2F1180%2Fmohmd&security=tls&encryption=none&insecure=0&host=a.mohmdmusic.dpdns.org&type=ws&allowInsecure=0&sni=a.mohmdmusic.dpdns.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.in.velaro.ir:23702?security=&encryption=none&host=skyroom.online&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://397c07d2-15bd-4702-c875-882807372b86@109.122.247.82:443?security=&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?security=reality&encryption=none&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4374d295a4f9dd83#%40filembad
 
 ---
 

@@ -1,5 +1,65 @@
 # آرشیو کانال: @Express_freevpn
-بروزرسانی: 2026-02-17 01:05:42 UTC
+بروزرسانی: 2026-02-17 10:35:15 UTC
+
+### 🕒 2026-02-17 09:31:56 UTC
+***📊***
+ پلن‌های سرور نت #ملی با تعداد سرورایی که تو عکس میبینید 
+***⛔***
+  وصل توی نت ملی
+***⚡***
+  مدت 1 ماه
+***🔍***
+  • 10GB — 100,000 تومان • 20GB — 150,000 تومان • 30GB — 200,000 تومان • 40GB — 250,000 تومان • 50GB — 300,000 تومان   ⌲ @Express_freevpn 
+***🚀***
+
+---
+
+### 🕒 2026-02-17 08:22:28 UTC
+[#ExpressVpn](?q=%23ExpressVpn)
+** **
+***🔴***
+** Keys 🔑**
+[دریافت یوزر و پسورد](https://t.me/Express_freevpngroup/69324)
+🫆
+irancell ✓Expressvpn
+***🇺🇸***
+usa_brooklyn
+***🇺🇸***
+ los Angeles 5
+***🇯🇵***
+Japan Yokohama 
+***🇯🇵***
+Japan osaka
+***🇺🇸***
+Usa _ seattle. _lightway tcp
+***🇱🇹***
+Lithuania _lightway tcp
+***🇦🇱***
+Albania _lightway tcp
+**🔗 Download links : **
+⊡ 
+[**Windows**](https://www.expressvpn.com/clients/latest/windows)
+ ⊡ 
+[**Mac**](https://www.expressvpn.com/clients/latest/mac)
+ ⊡ 
+[**ios**](https://itunes.apple.com/app/express-vpn-protect-your-web/id886492891)
+ ⊡ 
+[**Android**](https://www.expressvpn.com/download-android-apk)
+⌲ 
+[@Express_freevpn](https://t.me/Express_freevpn)
+ 
+***🚀***
+
+---
+
+### 🕒 2026-02-17 07:54:10 UTC
+**چهل‌ روز گذشت ، اگر تا چهل سالِ دیگر هم زنده باشیم ، این غم جزوی از تن و وجودِ ما هست و خواهد بود.به یادِ فرزندان ، پدران و مادرانِ میهن 🖤**
+⌲ 
+[@Express_freevpn](https://t.me/Express_freevpn)
+ 
+***🚀***
+
+---
 
 ### 🕒 2026-02-16 20:33:48 UTC
 ***➖***
@@ -395,70 +455,6 @@ Albania _lightway tcp
 ** با تعداد سرورایی که تو عکس میبینید ⛔وصل توی نت ملی⚡مدت 1 ماه🔍• 10GB — 100,000 تومان• 20GB — 150,000 تومان• 30GB — 200,000 تومان• 40GB — 250,000 تومان• 50GB — 300,000 تومان⌲ **
 [@Express_freevpn](https://t.me/Express_freevpn)
 ** 🚀**
-
----
-
-### 🕒 2026-02-15 09:51:15 UTC
-***➖***
- 
-**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
-               ⌬⌬
-** **
-[**#V2RAY**‌**SERVER**](?q=%23V2RAY%E2%80%8CSERVER)
- ⌬⌬
- 
-◎ 
-**همه ی اپراتور ها**
-**◌ حجم نامحدود**
-◍ 
-**زمان نامشخص**
- 
-◉ 
-**اختصاصی کانال**
-`vless://a10607f9-d637-47e2-eadb-ad394b57514a@tun.newdigitalstore.ir:40229?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://a98dfd2a-b021-607c-af2d-362ae38c9478@85.133.249.38:58128?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6Itio2LHYp9uMINin2KrYtdin2YQg2K/Yp9im2YXbjCDYrNmI24zZhiDYtNmI8J+ajyBUZWxlZ3JhbUlEIOKMskV4cHJlc3NfZnJlZXZwbiDwn6qpIiwic2N5Ijoibm9uZSIsInNuaSI6InYycmF5MS5kb3phcHAueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0=vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pl.jojack.ru:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%9A%8F%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9`
-[#نت_ملی](?q=%23%D9%86%D8%AA_%D9%85%D9%84%DB%8C)
- 
-[#اینترنت_آزاد](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF)
- 
-[#ملی](?q=%23%D9%85%D9%84%DB%8C)
- 
-[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
- 
-[#فیلترشکن](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86)
-**▦ برنامه اندروید**
- 
-[**V2rayng**](https://t.me/Express_freevpn/26923)
- | 
-[**v2RayTun**](https://play.google.com/store/apps/details?id=com.v2raytun.android)
-| 
-[**Happ**](https://play.google.com/store/apps/details?id=com.happproxy)
-**▦ برنامه آیفون**
- 
-[**Happvpn**](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone)
- | 
-[**Hiddify**](https://share.google/ngfn0hnVT8F3mrcwO)
-**▦ برای مک بوک**
- 
-[**FoXray**](https://apps.apple.com/us/app/foxray/id6448898396)
- | 
-[**V2box**](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
-**▦ برنامه ویندو‌ز**
- 
-[**Happ**](https://github.com/Happ-proxy/happ-desktop/releases/download/untagged-95f2c68a69188bf66003/Happ.win.x86.7z)
-** | **
-[**Hiddify**](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
- 
-***📽***
-** **
-[**آموزش فعال کردن Mux برای اتصال بهتر در اندروید**](https://t.me/Express_freevpn/13636)
-هـ
-**✜ ✜ برای خرید کانفیگ اختصاصی و پرسرعت به آیدی زیر پیام بدین ✓ ↓**
-[**@Express_freevpn_admin**](https://t.me/Express_freevpn_admin)
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ↓
-⌯ 
-[𝐓.𝐦𝐞/𝐄𝐱𝐩𝐫𝐞𝐬𝐬_𝐟𝐫𝐞𝐞𝐯𝐩𝐧](https://t.me/Express_freevpn)
- | 
-[𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩](https://t.me/Express_freevpngroup)
 
 ---
 
