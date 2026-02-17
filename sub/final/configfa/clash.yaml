@@ -465,9 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 20.254.21.147:443, server: 20.254.21.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: ip.shakhle.ir:2083, server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳", server: tun1-norbert1.norbertvip-conf.site, port: 9900, type: vless, tls: true, packet-encoding: xudp, uuid: 3b1e55af-cb72-4e57-83b8-be4e69b57376, host: "%2FJOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip---JOIN---%40Xvpnvip%3Fed%3D2560", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "C4 : @Xvpnplus_bot | ✅", server: gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com, port: 33431, type: vless, tls: true, packet-encoding: xudp, uuid: a3beb4ef-d875-409f-b8f2-d4025f096e1d, servername: www.icloud.com, host: www.icloud.com, path: /, reality-opts: {public-key: DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk, short-id: cceca309a6cd013a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸", server: cfnew.avaaaal.ir, port: 8443, type: vmess, uuid: 047f5d57-26e0-4180-bf03-cf2c75e60fe5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cdge.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cfnew.avaaaal.ir}}, udp: true, tfo: false}
+  - {name: 167.99.80.91:443, server: 167.99.80.91, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.227.149.123:443, server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 2, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -484,27 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -520,27 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 20.254.21.147:443
+      - ip.shakhle.ir:2083
       - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝚃𝙴𝚂𝚃𝙴𝙳"
-      - "C4 : @Xvpnplus_bot | ✅"
-      - "| 👉👉 @𝗫𝘃𝗽𝗻𝗽𝗹𝘂𝘀_𝗯𝗼𝘁 👈👈 |📶 𝙼𝙲𝙸"
+      - 167.99.80.91:443
+      - 185.227.149.123:443
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

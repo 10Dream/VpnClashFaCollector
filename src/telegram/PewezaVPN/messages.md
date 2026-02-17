@@ -1,5 +1,90 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-16 20:19:55 UTC
+بروزرسانی: 2026-02-17 01:06:40 UTC
+
+### 🕒 2026-02-16 20:21:56 UTC
+> ↪️ **Forwarded**
+
+**حتما برنامه های زیر رو آپدیت نگه دارین و سعی کنین کل این برنامه هایی که میگم رو در دیوایس خودتون آخرین نسخه و نصب شده داشته باشید که در اوضاع فعلی اینترنت یا بدتر شدنش مشکلی در اتصال نداشته باشید :**
+***🤖***
+ 
+**اندرویدی ها برنامه های زیر:**
+Npv Tunnel  ( 
+[**لینک**](http://t.me/Pewezabot?start=131984)
+ )
+V2BOX ( 
+[**لینک**](https://t.me/PewezaVPN/23266?single)
+ )
+Psiphon ( 
+[**لینک**](https://t.me/PewezaVPN/23323)
+ )
+V2rayNG ( 
+[**لینک**](http://t.me/Pewezabot?start=132119)
+ )
+Http Injector ( 
+[**لینک**](http://t.me/Pewezabot?start=132021)
+ )
+Hiddify ( 
+[**لینک**](https://t.me/PewezaVPN/20853?single)
+ )
+OpenVPN ( 
+[**لینک**](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+ )
+BD NET ( 
+[**لینک**](https://t.me/PewezaVPN/23225?single)
+ )
+X-RP Tunnel ( 
+[**لینک**](https://t.me/PewezaVPN/23259?single)
+ )
+Invizible Pro ( 
+[**لینک**](https://t.me/PewezaVPN/23206?single)
+ )
+***🍏***
+ 
+**آیفونی ها برنامه های زیر:**
+Npv Tunnel ( 
+[**لینک**](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+ )
+V2BOX ( 
+[**لینک**](https://t.me/PewezaVPN/23266?single)
+ )
+Psiphon ( 
+[**لینک**](https://t.me/PewezaVPN/23324)
+ )
+Streisand ( 
+[**لینک**](https://apps.apple.com/us/app/streisand/id6450534064)
+ )
+HTTP Injector ( 
+[**لینک**](https://apps.apple.com/us/app/http-injector/id1659992827)
+ )
+OpenVPN ( 
+[**لینک**](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
+ )
+Hiddify ( 
+[**لینک**](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)
+ )
+***💻***
+ 
+**ویندوزی ها برنامه های زیر:**
+Psiphon ( 
+[**لینک**](https://t.me/PewezaVPN/23324)
+ )
+HAPP Client ( 
+[**لینک**](https://t.me/PewezaVPN/21889?single)
+ )
+Hiddify ( 
+[**لینک**](https://t.me/PewezaVPN/20853?single)
+ )
+V2RayN ( 
+[**لینک**](https://t.me/PewezaVPN/16573)
+ )
+Karing ( 
+[**لینک**](https://t.me/PewezaVPN/22283?single)
+ )
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-16 20:15:59 UTC
 **این پروکسی های جدید تلگرام متصل در اختلالات شدید هست رو داشته باشید👇**
@@ -237,28 +322,6 @@ wf.msc
 **آپلود کردم رباتمون از لینک زیر میتونید دانلودش کنید:**
 [**t.me/Pewezabot?start=136166**](http://t.me/Pewezabot?start=136166)
 از لیست سرور ها یک سرور رو انتخاب کنید و منتظر باشید وصل میشه.
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-14 20:56:22 UTC
-***🔰***
-@PewezaVPN(VIP).npvt
-
----
-
-### 🕒 2026-02-14 20:53:38 UTC
-***🔐***
-** فایل 13 کانفیگ جدید نت ملی اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری VIP ویژهبا وارد کردن این فایل داخل نپستر 13 کانفیگ جدید VIP داخل برنامه اضافه میشود.مناسب نت ملی و شرایط سخت اینترنتی**
-برای اتصال چند ثانیه صبور باشید.
-با اکثر اینترنت ها تست شد.
-**لینک دانلود برنامه اندروید**
-:
-[t.me/Pewezabot?start=131984](http://t.me/Pewezabot?start=131984)
-**لینک دانلود برنامه آیفون : **
-[https://apps.apple.com/us/app/npv-tunnel/id162946547](https://apps.apple.com/us/app/npv-tunnel/id162946547)
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)

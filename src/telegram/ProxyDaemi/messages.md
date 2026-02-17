@@ -1,5 +1,18 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-16 20:20:01 UTC
+بروزرسانی: 2026-02-17 01:06:46 UTC
+
+### 🕒 2026-02-16 21:39:12 UTC
+فردا و پس فردا چهلم هزاران نفره
+***🖤***
+  فکر کنم تاحالا نداشتیم تو یه روز همزمان چهلم این همه آدم باشه.... 
+***🥀***
+  همراه پروکسی | پروکسی | پروکسی  پروکسی | پروکسی | پروکسی  @ProxyDaemi 
+***🔵***
+ 
+***💧***
+Sponsored by @rainbetcom - rainbet.com
+
+---
 
 ### 🕒 2026-02-16 20:17:51 UTC
 فردا و پس فردا چهلم هزاران نفره
@@ -70,7 +83,7 @@ Sponsored by
 ---
 
 ### 🕒 2026-02-16 19:34:51 UTC
-فردا مذاکرات توی ژنو برگزار میشه و نتیجه مذکرات یا باعث قطع شدن نت میشه و جنگ و یا به مرحله سوم کشیده میشه ….
+فردا مذاکرات توی ژنو برگزار میشه و نتیجه مذاکره یا باعث قطع شدن نت میشه و جنگ و یا به مرحله سوم کشیده میشه ….
 [پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 
 [پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
@@ -588,55 +601,6 @@ Sponsored by
 ### 🕒 2026-02-15 08:50:40 UTC
 برای جاوید‌ نام مهرداد مشتاقی که آروزش دیدن بازی رئال از نزدیک بود 
 ***🖤***
-[آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.2&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.6&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-14 23:06:44 UTC
-● برد لن 
-● ضریب 1.90
-***🆔***
-[@best_form](https://t.me/best_form)
-***🫵***
- میخوای یاد بگیری چطوری با همین گوشی تو دستت از پیش بینی فوتبال میلیونی سود کنی؟ سیگنال ضریب بالا و مطمئن میخوای؟ فرصتو از دست نده همین الان عضو کانال VIP زیر شو
-***👇***
-a25
-***🅰***
-[Join            Join            JoinJoin            Join            Join](https://t.me/+LLvtgDfsZzs1ZjRk)
-
----
-
-### 🕒 2026-02-14 21:14:40 UTC
-خبر بد: 
-هيچ چيز هميشگى نيست...
-خبر خوب:
-هيچ چيز هميشگى نيست...
 [آیفون](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 
 [آیفون](https://t.me/proxy?server=188.212.98.20&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)

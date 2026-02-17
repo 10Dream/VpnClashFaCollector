@@ -1,5 +1,123 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-16 20:21:06 UTC
+بروزرسانی: 2026-02-17 01:07:51 UTC
+
+### 🕒 2026-02-16 21:05:33 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#***🐦‍🔥***-@SPEEDS_VPNvless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&path=%2Fdata%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=datas.meowchannel.ir#***🐦‍🔥***-@SPEEDS_VPNvless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&host=nx4.sellink.ir&fp=chrome&type=ws&sni=nx4.sellink.ir#***🐦‍🔥***-@SPEEDS_VPNvless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&host=dxg5.sellink.ir&fp=chrome&type=ws&sni=dxg5.sellink.ir#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-16 20:25:37 UTC
+***🚨***
+**مخصوص رایتل و ایرانسل **
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+‌
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@SPEEDS_VPN1-🫆ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#@SPEEDS_VPN1-🫆ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#@SPEEDS_VPN1-🫆vless://4f0c76cd-1413-4a63-bcd1-364e4853bd8b@188.114.97.3:2083?path=%2FeyJqdW5rIjoib1g5eThlSlAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=black-grass-e204.bonica7250.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=BLACk-GrasS-e204.bonica7250.WORKErS.DEv#@SPEEDS_VPN1-🫆`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔄***
+زمان پایان سرویس حداکثر 12ساعت
+***🛜***
+ در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
 
 ### 🕒 2026-02-16 18:02:35 UTC
 **برای همه اپراتورها**
@@ -1620,136 +1738,6 @@
 ***➿***
 ‌
 `vless://d85ea913-7dfa-44b0-bd66-33414e897991@afrcloud22.mmv.kr:443?path=%2F35.230.79.26%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#@SPEEDS_VPN1-***🩸***vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.14.56:8443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@SPEEDS_VPN1-***🩸***vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26Telegram&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@SPEEDS_VPN1-***🩸***vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560%26%F0%9F%87%AB%F0%9F%87%B7%5D%20-%20https%3A%2F%2Ft.me%2FNetZoneNews&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#@SPEEDS_VPN1-***🩸***vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#@SPEEDS_VPN1-***🩸***vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#@SPEEDS_VPN1-***🩸***vless://49af75d4-31d0-4322-b425-630be07030e1@imgur.com:80?path=%2Fdownload&security=none&encryption=none&host=diarasup2.global.ssl.fastly.net&type=ws#@SPEEDS_VPN1-***🩸***‌`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔄***
-زمان پایان سرویس حداکثر 12ساعت
-***🛜***
- در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-14 21:52:12 UTC
-***🚨***
-**مخصوص رایتل و ایرانسل **
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-‌
-`vless://a730405a-6710-411e-9131-2e330169fa47@140.248.128.0:80?mode=auto&path=%2Fxhttp&security=none&encryption=none&host=hazaranetwork.bh&type=xhttp#@SPEEDS_VPN1-🫆vless://38f448b9-0c34-4eb2-b42d-e32b745e719d@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆vless://dfbb104b-120f-4a5a-b8c3-e0cfaadbbf93@mla.allonetworks.ru:443?mode=auto&path=%2Findex.html%2F&security=tls&encryption=none&insecure=0&host=mla.allonetworks.ru&fp=random&type=xhttp&allowInsecure=0&sni=mla.allonetworks.ru#@SPEEDS_VPN1-🫆`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔄***
-زمان پایان سرویس حداکثر 12ساعت
-***🛜***
- در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-14 20:32:37 UTC
-**برای رصد ترافیک هوایی و دریایی در لحظه، می‌تونید از این سایت‌ها استفاده کنید:**
-سایت 
-[Flightradar24](https://www.flightradar24.com/)
-: ردیابی آنلاین پروازها و نمایش موقعیت لحظه‌ای هواپیماها روی نقشه.
-سایت 
-[ADSBExchange](https://www.adsbexchange.com/)
-: اطلاعات پروازهای تجاری و غیرتجاری از طریق داده‌های ADS-B برای ردیابی هواپیماها.
-سایت 
-[MarineTraffic](https://www.marinetraffic.com/)
-: ردیابی و مشاهده کشتی‌ها و ناوگان دریایی در لحظه بر روی نقشه.
-سایت 
-[VesselFinder](https://www.vesselfinder.com/)
-: ردیابی موقعیت کشتی‌ها و قایق‌ها در دریا با استفاده از داده‌های AIS.
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-14 20:27:26 UTC
-***🚨***
-**مخصوص رایتل و ایرانسل **
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-‌
-`vless://38f448b9-0c34-4eb2-b42d-e32b745e719d@162.159.152.225:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@fran.scroogethebest.com:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=fran.scroogethebest.com&sid=4fa44664f6a566d3#@SPEEDS_VPN1-🫆vless://c8c57027-17a2-4bff-9510-c2b14aaf0251@94.140.0.74:2087?path=%2F&security=tls&encryption=none&insecure=1&host=aza002.vaslbash.site&type=ws&allowInsecure=1&sni=aza002.vaslbash.site#@SPEEDS_VPN1-🫆`
 ***➿***
 ***➿***
 ***➿***

@@ -1,5 +1,5 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-16 20:22:20 UTC
+بروزرسانی: 2026-02-17 01:09:01 UTC
 
 ### 🕒 2026-02-16 19:50:03 UTC
 شما رو به خدای بزرگ می‌سپارم 
@@ -527,12 +527,6 @@ https://zaya.io/C-Meta  ساب کلش متا برای تست اولیه   باب
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐️***
-
----
-
-### 🕒 2026-02-14 20:52:53 UTC
-این ترکیه رو هم تست کنید :
-vmess://43dcdce1-3cea-4193-bc8d-90b92071d779@tr1-smart.adelping.com:80?encryption=auto&host=imdb.com&path=%2F%3FBIA_TELEGRAM%40AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1%2F%3Fde%3D2560&security=none&type=ws#%F0%9F%87%B9%F0%9F%87%B7TR
 
 ---
 

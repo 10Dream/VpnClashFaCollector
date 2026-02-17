@@ -1,12 +1,75 @@
 # آرشیو کانال: @Express_freevpn
-بروزرسانی: 2026-02-16 20:18:55 UTC
+بروزرسانی: 2026-02-17 01:05:42 UTC
+
+### 🕒 2026-02-16 20:33:48 UTC
+***➖***
+ 
+**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
+               ⌬⌬
+** **
+[**#V2RAY**‌**SERVER**](?q=%23V2RAY%E2%80%8CSERVER)
+ ⌬⌬
+ 
+◎ 
+**همه ی اپراتور ها**
+**◌ حجم نامحدود**
+◍ 
+**زمان نامشخص**
+ 
+◉ 
+**اختصاصی کانال**
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=92de1aab07490056#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.185.26:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&insecure=0&host=apii.onlineshoppingez.ir&type=ws&allowInsecure=0&sni=apii.onlineshoppingez.ir#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%D8%A8%D8%B1%D8%A7%DB%8C%20%D8%A7%D8%AA%D8%B5%D8%A7%D9%84%20%D8%AF%D8%A7%D8%A6%D9%85%DB%8C%20%D8%AC%D9%88%DB%8C%D9%86%20%D8%B4%D9%88%F0%9F%8D%98%20TelegramID%20%E2%8C%B2Express_freevpn%20%F0%9F%AA%A9`
+[#نت_ملی](?q=%23%D9%86%D8%AA_%D9%85%D9%84%DB%8C)
+ 
+[#اینترنت_آزاد](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA_%D8%A2%D8%B2%D8%A7%D8%AF)
+ 
+[#ملی](?q=%23%D9%85%D9%84%DB%8C)
+ 
+[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+ 
+[#فیلترشکن](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86)
+**▦ برنامه اندروید**
+ 
+[**V2rayng**](https://t.me/Express_freevpn/26923)
+ | 
+[**v2RayTun**](https://play.google.com/store/apps/details?id=com.v2raytun.android)
+| 
+[**Happ**](https://play.google.com/store/apps/details?id=com.happproxy)
+**▦ برنامه آیفون**
+ 
+[**Happvpn**](https://apps.apple.com/us/app/happ-proxy-utility/id6504287215?platform=iphone)
+ | 
+[**Hiddify**](https://share.google/ngfn0hnVT8F3mrcwO)
+**▦ برای مک بوک**
+ 
+[**FoXray**](https://apps.apple.com/us/app/foxray/id6448898396)
+ | 
+[**V2box**](https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690)
+**▦ برنامه ویندو‌ز**
+ 
+[**Happ**](https://github.com/Happ-proxy/happ-desktop/releases/download/untagged-95f2c68a69188bf66003/Happ.win.x86.7z)
+** | **
+[**Hiddify**](https://github.com/hiddify/hiddify-app/releases/latest/download/Hiddify-Windows-Setup-x64.Msix)
+ 
+***📽***
+** **
+[**آموزش فعال کردن Mux برای اتصال بهتر در اندروید**](https://t.me/Express_freevpn/13636)
+**✜ ✜ برای خرید کانفیگ اختصاصی و پرسرعت به آیدی زیر پیام بدین ✓ ↓**
+[**@Express_freevpn_admin**](https://t.me/Express_freevpn_admin)
+𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦 ↓
+⌯ 
+[𝐓.𝐦𝐞/𝐄𝐱𝐩𝐫𝐞𝐬𝐬_𝐟𝐫𝐞𝐞𝐯𝐩𝐧](https://t.me/Express_freevpn)
+ | 
+[𝐂𝐡𝐚𝐭 𝐆𝐫𝐨𝐮𝐩](https://t.me/Express_freevpngroup)
+
+---
 
 ### 🕒 2026-02-16 19:51:13 UTC
 [#ExpressVpn](?q=%23ExpressVpn)
 ** **
 ***🔴***
 ** Keys 🔑**
-[دریافت یوزر و پسورد](https://t.me/Express_freevpngroup/69276)
+[دریافت یوزر و پسورد](https://t.me/Express_freevpngroup/69288)
 🫆
 irancell ✓Expressvpn
 ***🇺🇸***

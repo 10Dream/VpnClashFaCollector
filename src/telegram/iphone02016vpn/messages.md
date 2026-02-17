@@ -1,5 +1,22 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-16 20:22:34 UTC
+بروزرسانی: 2026-02-17 01:09:13 UTC
+
+### 🕒 2026-02-17 00:53:13 UTC
+پروکسی های جدید
+[tg://proxy?server=14611.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=14611.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=152411.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=152411.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=145311.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=145311.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=145141.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=145141.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=115541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=115541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
 
 ### 🕒 2026-02-16 18:42:01 UTC
 ***🆔***
@@ -496,80 +513,6 @@ nm-vless://5EEgQT8vJx376ESzAf9Lrs4FmdALGzHxg4UaPlDmCG+stiQ9gNqM4947HUQdcN5IWpPly
 ***👍***
  OR 
 ***👎***
-
----
-
-### 🕒 2026-02-14 20:55:26 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-14 20:23:27 UTC
-کانفیگ ویژه نپسترنت از ۱تا۶
-***🔥***
-**رایگان**
-برای استفاده از کانفیگ نپستر باید برنامه npv tunnel رو 
-از 
-[play store](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-یا 
-[app store (ios) ](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-یا 
-[فایل تلگرامی](https://t.me/iphone02016vpn/24699)
- 
-دانلود کنید.
-اگه فیلترشکنت برای دانلود برنامه npv tunnel نسخه اندروید وصل نمیشه، برای راهنمایی نصب برنامه بدون نیاز به فیلترشکن 
-[روی من کلیک کن](https://t.me/iphone02016vpn/25081)
-.
-**🔺فایل رو دانلود و **
-در فایل منیجر و files 
-**ذخیره کنید**
-وارد اپ بشین قسمت کانفیگ +
-Impoet npvt config file 
-بزنید 
-کانفیگو انتخاب کنید خودکار وارد اپ میشه سپس اتصال بزنید 
-***✋***
-****
-[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
-** **
-[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
-** **
-[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-****
-[#npesternet](?q=%23npesternet)
-**  **
-[#MTProto](?q=%23MTProto)
-**  **
-[#npvTunnel](?q=%23npvTunnel)
-****
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
-** **
-[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
-** **
-[#vpn](?q=%23vpn)
-** **
-[#singbox](?q=%23singbox)
-** **
-[#proxy](?q=%23proxy)
-** **
-[#v2ray](?q=%23v2ray)
-** **
-[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
-** **
-[#NapsternetV](?q=%23NapsternetV)
-** **
-[#iOS](?q=%23iOS)
-** **
-[#Config](?q=%23Config)
-** ❤️**
-**🆔 **
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-**+ نظرتون  ؟! 👍 OR 👎**
 
 ---
 

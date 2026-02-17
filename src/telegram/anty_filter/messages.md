@@ -1,5 +1,53 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-16 20:21:24 UTC
+بروزرسانی: 2026-02-17 01:08:08 UTC
+
+### 🕒 2026-02-16 22:49:41 UTC
+***🔴***
+ 
+**نسخه جدید**
+ 
+**فیلترشکن Vless VPN (اندروید)**
+• نسخه 1.10.46
+نسخه مود شده و بدون محدودیت 
+****
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+برای مشاهده سرورها، بدون فیلترشکن (با فیلتر خاموش) وارد برنامه شوید و به سرورهای دارای پینگ متصل شوید.
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/wmzqhb2mlvcj/Vless.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-16 21:21:20 UTC
+سرور ویتوری 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%8F%B3%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%40vpnbaz%20%F0%9F%8F%B4
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40vpnbaz%20%F0%9F%A7%B6
+vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#%40vpnbaz%20%F0%9F%8E%AD
+vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#%40vpnbaz%20%F0%9F%8F%80
+vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#%40vpnbaz%20%F0%9F%8D%87
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-16 21:02:26 UTC
+***🔴***
+**فیلترشکن‌ های پیشنهادی برای اختلالات شدید اینترنت (اینترنت ملی)**
+→ 
+[Psiphon VPN](https://t.me/anty_filter/22558)
+→ 
+[Argo VPN](https://t.me/anty_filter/22342)
+→ 
+[BinWis VPN ](https://t.me/anty_filter/22320?single)
+→ 
+[Viva VPN](https://t.me/anty_filter/22321?single)
+→ 
+[Defyx VPN ](https://t.me/anty_filter/22510)
+→ 
+[BD NET VPN](https://t.me/anty_filter/22501)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-16 19:27:21 UTC
 سرور ویتوری 
@@ -9,40 +57,6 @@ vless://Parsashonam@45.130.125.160:2096?mode=auto&path=%2F&security=tls&encrypti
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=6.3pita.com&fp=chrome&type=ws&allowInsecure=0&sni=6.3pita.com#%40vpnbaz%20%F0%9F%8E%B1
 vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%40vpnbaz%20%F0%9F%8C%B5
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-16 19:26:58 UTC
-> ↪️ **Forwarded**
-
-**لیست قیمت کانفینگ‌ v2rayNG و npv **
-**📶**
-یکماهه 20 گیگابایت |  100.000  تومان   
-***💵***
-یکماهه 30 گیگابایت |  140.000  تومان 
-***💵***
-یکماهه 40 گیگابایت |  180.000  تومان   
-***💵***
-هر کاربر اضافه +20.000
-**سازگار با تمامی اپراتورها **
-***📶***
-***📶***
-***📶***
-***🛜***
-***🛜***
-***🛜***
-**همراه با تست رایگان **
-***🔥***
-***🛡***
- 
-**آیدی پشتیبانی جهت خرید:**
- 
-[@Litesoop](https://t.me/Litesoop)
- 
-***☑️***
-**کانال اطلاع رسانی و رضایت:**
- 
-[@ghostVPN_pn](https://t.me/ghostVPN_pn)
 
 ---
 
@@ -227,34 +241,6 @@ vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@zone.sw.flicknet.ir:10601?security=
 vless://d747e76d-7e3a-46f9-99ef-ed543042b75f@tun1.karunwebco.com:1020?security=reality&encryption=none&pbk=ULEKhRXed87x1kNaVVq4l8ANWDwmcoxetjclnShfhWM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=4374d295a4f9dd83#%40vpnbaz%20%F0%9F%9B%A1%EF%B8%8F
 vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDA0IiwicHMiOiJAdnBuYmF6IPCfjrQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIyMTMuMTc2LjEuNDgiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiI1MmNjNGNiMC1mOTIzLTQ5NjUtOTYxNS02MzgwYjA0YzNmNGYiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIxMDAwIiwicHMiOiJAdnBuYmF6IOKbqe+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-14 22:46:01 UTC
-***🟠***
- 
-**نسخه جدید**
- 
-**فیلترشکن Warpi VPN (اندروید)**
-• نسخه 1.10.49
-نسخه مود شده و بدون محدودیت 
-****
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-برای مشاهده سرورها، بدون فیلترشکن (با فیلتر خاموش) وارد برنامه شوید و به سرورهای دارای پینگ متصل شوید.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/bz1wrcx3z8rd/Warpi.apk.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-14 21:26:15 UTC
-سرور ویتوری 
-ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#%40vpnbaz%20%F0%9F%8E%AD
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%40vpnbaz%20%F0%9F%9B%B8
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%97%BD
-vless://9f5cc587-bdaf-4421-9d72-00e0b651a8de@c43.f9020.fun:17462?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=H95D-kMI_GBUwrxTptZEAx3nS5trIUQEpYf9pJiJkFU&host=s1.t12066.lat&fp=random&spx=%2F&type=xhttp&sni=newstate.pubg.com&sid=a7a337b92582e98a#%40vpnbaz%20%F0%9F%A7%B8
-vless://47cf837f-6372-4dc2-858c-11e13066d164@c43.f9020.fun:28461?mode=auto&path=%2Fdownload&security=reality&encryption=none&pbk=ySSyiOVRLSSUML6HSJDEJT83wtVzOdOyhmjIH7WIxjw&host=s1.t12066.lat&fp=random&spx=%2F&type=xhttp&sni=newstate.pubg.com&sid=16803a8dd9232813#%40vpnbaz%20%F0%9F%8D%87
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

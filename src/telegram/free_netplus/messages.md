@@ -1,5 +1,5 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-16 20:22:05 UTC
+بروزرسانی: 2026-02-17 01:08:48 UTC
 
 ### 🕒 2026-02-16 19:29:18 UTC
 **انگاری**
@@ -413,24 +413,6 @@
 ***⚜***
 [@Free_Netplus](https://t.me/Free_Netplus)
  | اینترنت آزاد
-
----
-
-### 🕒 2026-02-14 21:28:14 UTC
-همه چی جدیدش خوبه رفیق قدیمیش
-***❤️***
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[@Free_Netplus](https://t.me/Free_Netplus)
- 
-***🪽***
 
 ---
 
