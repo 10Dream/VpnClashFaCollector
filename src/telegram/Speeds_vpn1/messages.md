@@ -1,5 +1,5 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-17 20:27:47 UTC
+بروزرسانی: 2026-02-18 01:10:31 UTC
 
 ### 🕒 2026-02-17 20:26:54 UTC
 **برای همه اپراتورها**
@@ -1864,58 +1864,6 @@
  24 ساعته: 
 [@VPNSHIT](https://t.me/VPNSHIT)
  
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-15 20:31:08 UTC
-***🚨***
-**مخصوص رایتل و ایرانسل **
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-‌
-`vless://mimitdl@87.107.81.254:29487?mode=gun&security=reality&encryption=none&pbk=MaO9gWmzzml9ktupXxT0ZCkZicrUYKm4IKa1GcZSkDQ&fp=chrome&spx=%2F&type=grpc&sni=yahoo.com#@SPEEDS_VPN1-🫆vless://d406dda1-2302-4805-a62c-f3dc36799a43@188.114.96.3:2053?path=%2FeyJqdW5rIjoiODJaTHE3aHlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=v2ngfast.vnkrycw.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=V2nGFasT.VnkRycw.WOrKeRS.dev#@SPEEDS_VPN1-🫆`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔄***
-زمان پایان سرویس حداکثر 12ساعت
-***🛜***
- در شرایط فیلترینگ شدید احتمال پینگ ندادن وجود داره 
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
 ***🔤***
  
 [@speeds_vpn](https://t.me/speeds_vpn)

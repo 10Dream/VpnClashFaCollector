@@ -1,5 +1,1365 @@
 # آرشیو کانال: @AR14N24B
-بروزرسانی: 2026-02-17 20:25:16 UTC
+بروزرسانی: 2026-02-18 01:07:55 UTC
+
+### 🕒 2026-02-17 23:20:38 UTC
+`vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=cd57a927f6b72d81&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://4bc7d558-1943-44de-bd82-56920bc9383e@ge.spectrum.vu:444?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&pbk=Qqy74nuyvVS2HaRaJyZYghFACzb_64UwMJAzp0R-YEA&sni=google.com#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.225:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443/?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=43df3983229a1c73#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=65ce6cee3941af69&sni=ads.x5.ru#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@185.130.115.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=web.max.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@185.130.115.55:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=33554379411b3219#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.4.119:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=17802e8ff84f12df#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=max.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.211.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=max.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 23:11:08 UTC
+`vless://0558a4aa-c85a-41ab-8366-f754d1d0e486@89.208.85.202:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=42260666&sni=eh.vk.ru&spx=/#***✅***@AR14N24bvless://23a9d9b9-d8f2-491d-9b36-7f27c1e41798@84.201.176.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aIErRu3zP3lh2X9BUmyyVcOEnxogVUSEFDUI-16MKAU&security=reality&sid=543fb1a1f7a3&sni=io.ozone.ru&type=tcp#***✅***@AR14N24bvless://23a9d9b9-d8f2-491d-9b36-7f27c1e41798@84.201.176.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aIErRu3zP3lh2X9BUmyyVcOEnxogVUSEFDUI-16MKAU&security=reality&sid=82c527ff&sni=music.yandex.ru&type=tcp#***✅***@AR14N24bvless://299d857d-ef37-4922-a149-a538d170e230@91.243.82.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LqfugkYAwpyuHW-DYgAgQpwnm-Q-kUwV6okhrMgGH0&security=reality&sid=e64a6fe0&sni=event.yandex.ru&type=tcp#***✅***@AR14N24bvless://299d857d-ef37-4922-a149-a538d170e230@91.243.82.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LqfugkYAwpyuHW-DYgAgQpwnm-Q-kUwV6okhrMgGH0&security=reality&sid=fbd8823e4e&sni=kinopoisk.ru&type=tcp#***✅***@AR14N24bvless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tg.harknmav.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=eh.vk.com&fp=firefox&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&type=tcp&headerType=none#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.190.78:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=m.vk.com&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=cd57a927f6b72d81&packetEncoding=xudp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.190.78:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=c8597fb67d55d9c4&sni=m.vk.com#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.191.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=d17bd238f23fba92&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@81.200.151.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=max.ru&type=tcp#***✅***@AR14N24bvless://71c7bf4c-5b64-49b3-9fe1-6e883e9aea3d@84.201.169.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6LY8pdiGxeFO6Vx5Fz2qdstbLyd0zbQoWpFWVxumaxA&security=reality&sid=a6d2b5f6169a6589&sni=music.yandex.ru&type=tcp#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=ads.x5.ru#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@81.200.151.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://829ce713-8748-4049-ba76-be56e60bc449@84.252.143.25:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=yandex.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 23:10:56 UTC
+`vless://02001af1-b37c-491b-9238-789de45fbf6f@51.250.31.8:443?encryption=none&fp=chrome&pbk=w5GBYzUovi0bxRZ1xp4UDCJ0BXB0QoEqxZwiRt3SNnA&security=reality&sid=6725efecc3d5&sni=api-maps.yandex.ru&type=grpc#***✅***@AR14N24bvless://02001af1-b37c-491b-9238-789de45fbf6f@51.250.31.8:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=w5GBYzUovi0bxRZ1xp4UDCJ0BXB0QoEqxZwiRt3SNnA&sid=64534faf&sni=event.yandex.ru&serviceName=&spx=/&authority=#***✅***@AR14N24bvless://07835f65-069f-4aac-9607-d4771b1d707f@176.122.23.41:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_6dvIYbIsqGYLAdkdeP-B5sjHriLO3MvpNdO6ThTi14&security=reality&sid=bdb15059c8&sni=st.vk.com&type=tcp#***✅***@AR14N24bvless://1bfbd06c-a736-4bcb-9a87-8ba7da296b8b@84.201.180.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SXe0_xjHjYa34_94-h1esp2PcXoLxRF6vhjgDkNCG0I&security=reality&sid=d4d4d72155&sni=music.yandex.ru&type=tcp#***✅***@AR14N24bvless://2bb43206-0fe9-4167-b3d4-b7d0a205f907@51.250.99.149:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=random&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de&sni=st-im.kinopoisk.ru#***✅***@AR14N24bvless://3b983168-3a7e-408f-b5e8-ef0dcda95446@79.137.175.56:51102?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=1929ef620e9b34f5&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://6408b7b0-2527-4d9f-b361-928222ec624f@37.139.33.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=m.vk.ru#***✅***@AR14N24bvless://6e21ee37-f0d4-4f0a-b131-af8d3cda61c5@89.169.55.80:42079?mode=auto&path=%2F&security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.191.92:1488?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ads.x5.ru#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.18:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.138:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ads.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.138:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.69:443?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.69:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=ads.x5.ru#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:50:40 UTC
+`trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443?type=ws&security=tls&path=%2Fks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http%252F1.1&allowInsecure=1#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.multiplydose.com&insecure=1&path=/assignment&security=tls&sni=www.multiplydose.com&type=ws#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@moonchildermem.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&sid=2a5880f18f98a764&sni=moonchildermem.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir¬e=@FreeOnlineVPN#***✅***@AR14N24bvless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:2083?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=bouquetberlin.org&path=/vlessws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.188.181.187:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram+@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.214.83:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.169.10.12:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.131:8443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.125.101.235:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:41:20 UTC
+`ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#***✅***@AR14N24bss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bss://51a601e6-b25b-4ae7-83a6-1619ac7e7722@151.101.1.140:80?security=none&type=ws&host=Upload.edu&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#***✅***@AR14N24bss://9199963a-7734-4ed0-e455-9d68b85e7863@104.17.148.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#***✅***@AR14N24bss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?path=%2F36.95.152.58%3D12137&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#***✅***@AR14N24bss://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.130.219:80?type=ws&host=alf17.ir&path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048#***✅***@AR14N24bvless://060a8fe8-7175-4ded-94a5-d9808bc645b6@104.18.35.85:443?path=%2F&security=tls&encryption=none&host=cf.vless.sandesh.fr&fp=chrome&type=ws&sni=cf.vless.sandesh.fr#***✅***@AR14N24bvless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=/L?ed=2560&security=tls&alpn=h2,http/1.1&encryption=none&host=music.parvareshmorghe.ir&fp=chrome&type=ws&sni=music.parvareshmorghe.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir¬e=@FreeOnlineVPN#***✅***@AR14N24bvless://4c40aed6-5fd0-4afa-95c7-20e7acfbd9fb@bwdraper.faculty.ucdavis.edu:443?encryption=none&security=tls&sni=bwdraper.faculty.ucdavis.edu&alpn=h2,http/1.1&fp=chrome&type=ws&host=vutkyfrtu23.net&path=/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048#***✅***@AR14N24bvless://643a3034-d3f9-4e03-acde-0e6ab3a238fb@afrcloud22.mmv.kr:443?security=tls&type=ws&path=/54.203.85.46=80&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:40:56 UTC
+`ss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?encryption=none&security=tls&sni=hetz.x-smm.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ODMyMmU0YjkzNDg3MGI2@154.26.156.99:47385#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxeE8yY3FQYXpxakdmQ2Zk@172.165.94.205:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.15.185.70:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@193.29.139.189:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.47.253.227:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.89:8080#***✅***@AR14N24bss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#***✅***@AR14N24bss://YWVzLTI1Ni1jZmI6WkVUNTlMRjZEdkNDOEtWdA@217.30.10.18:9005#***✅***@AR14N24bss://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@afrcloud22.mmv.kr:443?path=%2F36.95.152.58%3D12137&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.85.33:193?sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=www.nintendogames.net#***✅***@AR14N24btrojan://ZblhWr0mqMakCPg.N@212.193.18.144:36158?allowInsecure=0&sni=ya.ru#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#***✅***@AR14N24bvless://3c1eef35-015b-48cd-9f0a-23d9ef5816cc@104.16.8.237:80?encryption=none&security=none&type=ws&host=little-haze-1600-ppal03.gabonim122.workers.dev&path=/?ed=2560#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=/?ed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.44.211:2096/?type=ws&encryption=none&flow=&host=ca.adobe-connect.top&path=/&security=tls&sni=ca.adobe-connect.top&allowInsecure=1#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:40:56 UTC
+`ss://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bss://51a601e6-b25b-4ae7-83a6-1619ac7e7722@151.101.1.140:80?security=none&type=ws&host=Upload.edu&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#***✅***@AR14N24bss://9199963a-7734-4ed0-e455-9d68b85e7863@104.17.148.22:8880?security=none&type=ws&host=ch.%E6%88%91%E7%9A%84%E5%90%8D%E5%AD%97%E4%BC%8A%E6%96%AF%E6%A2%85%E6%B4%9B.site.&path=%2Fmelo%2F#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphd1lEU2ozS3JJS0VRM1JycFJDS0RxVk1Y@basic-ru-0.undef.network:41056?#***✅***@AR14N24bss://faec23a3-1cab-4ef2-b9aa-4999ea14e451@151.101.130.219:80?type=ws&host=alf17.ir&path=%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%2F%40Alfred_Config%3Fed%3D2048#***✅***@AR14N24btrojan://0o9YPNLRgB@Rocket.silenceux.ir:8443?type=ws&security=tls&path=%252Ftelegram-%2540FF_crony%252F%253Fed%253D2885&host=X-finland.sobygod.site&sni=X-finland.sobygod.site&allowInsecure=1#***✅***@AR14N24btrojan://pywmagxiFko7@myanmar.visa.com:8443?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#***✅***@AR14N24btrojan://pywmagxiFko7@www.visa.com.br:2087?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#***✅***@AR14N24btrojan://pywmagxiFko7@www.visaeurope.ch:2083?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#***✅***@AR14N24bvless://24390f0c-41ca-2277-a9ab-379d4c0ec9fa@srv-p0.netmaster.cam:8080?type=ws&sni=1&allowInsecure=1#***✅***@AR14N24bvless://30639414-d488-4c20-8d58-4834d84618b0@94.184.18.230:9090?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://472b07d2-31e4-41ab-ae47-48914d9b7900@chatgpt.com:443?mode=gun&security=tls&alpn=h2&encryption=none&fp=chrome&type=grpc&serviceName=Net3rffgrpc&sni=fi.unoix.io#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:30:40 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@115.161.136.145:10099?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjI0Mg@glance.asuscomm.com:10099?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpJRWxOWEFhVGY1VTlXdGJKZXJyZ3pQNExm@212.57.115.240:35686#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQzJiaG5ITm9RZ2ZxY1d6blNtVTB4RWt0aHZ5WGtzMQ@45.61.136.159:1080?#***✅***@AR14N24btrojan://r7fW5i-Yc_HcoYUwMCx_eA@62.60.234.248:444?type=tcp#***✅***@AR14N24bvless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=music.parvareshmorghe.ir&fp=chrome&type=ws&sni=music.parvareshmorghe.ir#***✅***@AR14N24bvless://2ad04efa-d18a-442b-875f-48d12e11d822@u1.mizulina.top:22231?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=u1.mizulina.top#***✅***@AR14N24bvless://30639414-d488-4c20-8d58-4834d84618b0@94.184.18.230:9090?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://5f483bd8-77ab-4e61-916d-ecc8578cc64a@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.140.42:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.224.5:2096?path=%2F&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#***✅***@AR14N24bvless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://766d92bf-3d49-4a89-8f51-838c16343789@vip.rayfast.xyz:50635?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://78c7cbb5-0a9c-4fac-cf9d-46d6fb6788ea@185.133.174.137:443?security=reality&encryption=none&pbk=W31rZwkFyXjdqObjDln7jFSBp-RGOEx-j0PuBfmVIHc&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:10:43 UTC
+`trojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443?type=ws&security=tls&path=%252Fks4McWjhV7bXNC0BXGtJ&host=zzs.222856.xyz&sni=zzs.222856.xyz&alpn=http%25252F1.1&allowInsecure=1#***✅***@AR14N24btrojan://humanity@104.18.11.110:443?security=tls&sni=www.multiplydose.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?allowInsecure=1&host=www.multiplydose.com&insecure=1&path=%2Fassignment&security=tls&sni=www.multiplydose.com&type=ws#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#***✅***@AR14N24btrojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?security=tls&type=ws&host=free-de-3.undef.network&path=/f2fc2a1f#***✅***@AR14N24bvless://063f7847-1945-4e05-8a77-958643625a6a@92.61.71.167:443?mode=auto&path=/&security=reality&encryption=none&pbk=52QyRfw92BbFAY3fy9ScXu5TBRYyAS5Cu_5mGZIPmj4&fp=chrome&spx=/&type=xhttp&sni=api.vk.com&sid=9c3bfff6a4678dc0#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bvless://453c3861-eaf4-4c60-94e0-e57a2c9d2fcf@bouquetberlin.org:2083?encryption=none&security=tls&insecure=0&allowInsecure=0&type=ws&host=bouquetberlin.org&path=%2Fvlessws#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@50.7.176.72:91?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=id.fasti.win&type=tcp#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.214.83:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@185.130.115.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17802e8ff84f12df&sni=web.max.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:00:57 UTC
+`vless://0a2bdbca-9782-431b-8280-e06414a3a07c@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&security=reality&sid=cbdfef7f3ede2072&sni=google.com&type=tcp#***✅***@AR14N24bvless://0e90f352-e9bc-4834-8ff6-49ba887eded4@46.226.162.232:443?alpn=h2&encryption=none&fp=chrome&security=tls&sni=1323.world&type=tcp#***✅***@AR14N24bvless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://35432194-b5a1-42d1-a748-f7028b72ab24@kb.vmjp2.yydjc.top:443?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&mode=gun&security=reality&flow=xtls-rprx-vision&fp=safari&sni=iosapps.itunes.apple.com&pbk=yzIdIf5RpR-rTzlULRjJoCgcQdx3-yXKl7eT7IuThn4&sid=bb9ab0d5242d53e9#***✅***@AR14N24bvless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/%40v2rayNG_VPNN&%3Bsecurity=none&%3Bencryption=none&%3Bhost=7.arsalanv2.sbs&%3Btype=ws#***✅***@AR14N24bvless://3c606f1a-9d0b-4de0-a930-dbead82e92f9@private1002.shafawiki.ir:8443?path=%2Fashna%2Ffilm%2Fkorei%2FFILE12%2F1234&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=denmark.shafawiki.ir&fp=chrome&type=ws&allowInsecure=0&sni=denmark.shafawiki.ir#***✅***@AR14N24bvless://3cc224ca-069b-44c2-8257-230446becb6a@c43.f9020.fun:31960?security=reality&encryption=none&pbk=id7Hpa_nhL1jb-In_ZMlg6U7VfM7j8d2B6tVLQM3UQw&headerType=none&fp=random&spx=%2F&type=tcp&sni=store.steampowered.com&sid=43f8a1ef655d38b9#***✅***@AR14N24bvless://6db9413b-e34b-4419-b792-ecd240770455@144.31.107.220:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Q0juyMAy1UE7sQmvGDpxlzFp90SWX416KQRradipnAY&security=reality&sid=53&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://75193bef-8d8f-e823-41e0-2dd083dc1399@78.67.62.44:50?security=none&encryption=none&type=tcp&path=/#***✅***@AR14N24bvless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?security=tls&type=ws&path=%2Fukspeed&host=snapfood.org&alpn=http%2F1.1&sni=snapfood.org&fp=chrome&encryption=none#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 22:00:44 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NzUwOWJhMzY3OWI5ZGY5@154.205.145.37:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#***✅***@AR14N24bvless://1f030b12-a40d-4a9a-ba88-d20f7a2686fe@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=768c60&sni=www.google.com&spx=/hfOn7R1RTnLcead#***✅***@AR14N24bvless://261fd1f6-6d3c-4943-81f0-bee516378ea1@144.31.100.120:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=352e3a94&sni=www.google.com#***✅***@AR14N24bvless://392afad2-43e3-4414-a5c3-b529a44df4e3@avalpardakht.com:80?path=/%40v2rayNG_VPNN&%3Bsecurity=none&%3Bencryption=none&%3Bhost=7.arsalanv2.sbs&%3Btype=ws#***✅***@AR14N24bvless://3c606f1a-9d0b-4de0-a930-dbead82e92f9@private1001.shafawiki.ir:8443?path=%2Fashna%2Ffilm%2Fkorei%2FFILE12%2F1234&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=denmark.shafawiki.ir&fp=chrome&type=ws&allowInsecure=0&sni=denmark.shafawiki.ir#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@50.7.176.72:971?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=ae.fasti.win&type=tcp#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@50.7.176.72:972?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&security=reality&sid=feedbacc&sni=il.fasti.win&type=tcp#***✅***@AR14N24bvless://5d6a646e-24fb-4eb4-af28-bf0c0c17db43@initvpn.amojojo.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=initvpn.amojojo.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=initvpn.amojojo.workers.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.230.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.200:443/?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=none&encryption=none&type=grpc#***✅***@AR14N24bvless://67bab4f6-9fb7-e3d6-1004-777b46923d83@nl.mobilezahra.lat:443?security=reality&encryption=none&pbk=10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=excoino.com&sid=d9a8dad452a7644f#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:52:08 UTC
+`ss://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80?security=none&type=ws&host=55965.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#***✅***@AR14N24bss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bss://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#***✅***@AR14N24bss://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=2-mitivpn.irnic-3-cloud.workers.dev&fp=chrome&type=ws&allowInsecure=0#***✅***@AR14N24bss://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&fp=chrome&type=ws&sni=dev.nestandneighbours.com#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?type=ws&encryption=none&host=o00o.snip.qzz.io&path=/tel-@v2rayngzendegimamad@v2rayngzendegimamad&security=tls&sni=o00o.snip.qzz.io&allowInsecure=1#***✅***@AR14N24bvless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?path=/Tel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs&%3Bsecurity=none&%3Bencryption=none&%3Bhost=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&%3Btype=ws#***✅***@AR14N24bvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk&type=ws&headerType=none&host=ovhwuxian.pai50288.uk&path=%2F57ba2ab1#***✅***@AR14N24bvless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?path=/140.245.53.45=443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880?mode=gun&security=none&encryption=none&type=grpc#***✅***@AR14N24bvless://6cc5b6b6-b3d2-4c60-8197-5defdc8d6aa1@cdnjs.com:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=public.4sat.shop&fp=chrome&type=ws&sni=4sat.shop#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:52:04 UTC
+`ss://b04b9985-25ce-4c33-b2f7-fbd8d1b21347@fi.mobileemdad.top:42538?security=none&encryption=none&host=fi.mobileemdad.top&headerType=http&type=tcp#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.38.213:1281?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.236.32:1281?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.85.33:193?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=/assignment&security=tls&fp=chrome&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24btrojan://m2mjd3hoa4fm@172.64.149.99:8443?path=/?ed=2560&security=tls&alpn=http/1.1&insecure=1&host=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net&fp=chrome&type=ws&allowInsecure=1&sni=ryl6l1vowvsm7kitzzqa54d0xfz0jzcsp06pbsbkdepyr.zjde5.de5.net#***✅***@AR14N24bvless://53ed61cd-8be2-46eb-b7c2-850a732ed849@185.146.173.24:8880?path=/Tel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_ConfigsTel%3A%40Daily_Configs&%3Bsecurity=none&%3Bencryption=none&%3Bhost=Daily-ConfigsV2rayGmSix6.6.6.6.ir.Com.Site.xn--fhq0la447aac5504dea701axr1g.vigilantecollection.com.&%3Btype=ws#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@84.252.130.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=2476f063981ffd92&sni=sun6-21.userapi.com&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.211.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=max.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:58 UTC
+`ss://17714732-15b6-5b7a-9703-8c874ef8bef4@104.25.97.27:80?security=none&type=ws&host=55965.olielielie.store.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro%3Fed%3D2048#***✅***@AR14N24bss://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5UmR4dkszMmdjS3E4eHhOZ3V3VTk5@62.60.233.226:62763#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.112.130.53:8313#***✅***@AR14N24bss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@109.201.152.181:443#***✅***@AR14N24bss://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=2-mitivpn.irnic-3-cloud.workers.dev&fp=chrome&type=ws&allowInsecure=0#***✅***@AR14N24bss://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&fp=chrome&type=ws&sni=dev.nestandneighbours.com#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.20.1.252:443?path=%2F&security=tls&encryption=none&host=dev.nestandneighbours.com&type=ws&sni=dev.nestandneighbours.com#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&type=ws&sni=dev.twistsparrow.xyz#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.31:443?encryption=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%20@WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.85:443?encryption=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%20@WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=7426b0c03ef009dc&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=a76ea384b29a4f79&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=6354585c37827955&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=a76ea384b29a4f79&sni=ads.x5.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:47 UTC
+`vless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.4.119:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=api-maps.yandex.ru&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=048fe5c8be4bb687&packetEncoding=xudp#***✅***@AR14N24bvless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.65.209:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://299d857d-ef37-4922-a149-a538d170e230@91.243.82.140:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=1LqfugkYAwpyuHW-DYgAgQpwnm-Q-kUwV6okhrMgGH0&sid=fbd8823e4e&sni=kinopoisk.ru&spx=/#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.191.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=95ec618532fa065e&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@185.130.115.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=a76ea384b29a4f79&sni=web.max.ru&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.83.255:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@81.200.151.14:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@95.163.211.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=87cc0414902bee2d&sni=max.ru&type=tcp#***✅***@AR14N24bvless://6e432520-30e8-4465-8433-408ec9eb31d4@87.239.110.251:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://71c7bf4c-5b64-49b3-9fe1-6e883e9aea3d@84.201.169.24:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6LY8pdiGxeFO6Vx5Fz2qdstbLyd0zbQoWpFWVxumaxA&sid=a6d2b5f6169a6589&sni=io.ozone.ru&spx=/#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@109.120.191.46:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=cd57a927f6b72d81&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=a76ea384b29a4f79&sni=max.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.210.173:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=c8597fb67d55d9c4&sni=max.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:40 UTC
+`vless://0558a4aa-c85a-41ab-8366-f754d1d0e486@89.208.85.202:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=NIzM9YlBycbKgbMr-e_CJYBCJ9pPn7NiGEJw5bn-ikk&sid=42260666&sni=beeline.ru&spx=/#***✅***@AR14N24bvless://1be53030-2e90-4670-8006-84bc1d0c499e@51.250.87.28:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=okSpKWUqFiV0OsVoon9FkmFXLmquCxLM1pHIriHipA4&sid=07c5&sni=eh.vk.com&spx=/#***✅***@AR14N24bvless://1bfbd06c-a736-4bcb-9a87-8ba7da296b8b@84.201.180.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SXe0_xjHjYa34_94-h1esp2PcXoLxRF6vhjgDkNCG0I&security=reality&sid=6f&sni=eh.vk.com&type=tcp#***✅***@AR14N24bvless://3b983168-3a7e-408f-b5e8-ef0dcda95446@79.137.175.56:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=8f222b3475800821&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@178.154.253.80:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@84.23.52.70:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=8ba12e75110b7a9c&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://6bf5e1f0-a8e8-40f0-935e-5ca5333734a7@79.137.175.44:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.18:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.141.69:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=ads.x5.ru#***✅***@AR14N24bvless://829ce713-8748-4049-ba76-be56e60bc449@79.137.175.44:8443?encryption=none&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=m.vk.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:28 UTC
+`trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20460%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24bvless://048ce500-05ab-485b-b224-1753d2b60730@95.174.92.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xfNZvP60yv5cee9Nyac7Daww3QwlAd2WDTd14jJixAk&security=reality&sid=30406a9627a663&sni=dk40.strelkavpn.com&type=tcp#***✅***@AR14N24bvless://07835f65-069f-4aac-9607-d4771b1d707f@176.122.23.41:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_6dvIYbIsqGYLAdkdeP-B5sjHriLO3MvpNdO6ThTi14&security=reality&sid=3538&sni=img.yandex.ru&type=tcp#***✅***@AR14N24bvless://07835f65-069f-4aac-9607-d4771b1d707f@176.122.23.41:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=_6dvIYbIsqGYLAdkdeP-B5sjHriLO3MvpNdO6ThTi14&sid=bdb15059c8&sni=st.vk.com&spx=/#***✅***@AR14N24bvless://1bfbd06c-a736-4bcb-9a87-8ba7da296b8b@84.201.180.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SXe0_xjHjYa34_94-h1esp2PcXoLxRF6vhjgDkNCG0I&security=reality&sid=30a69f82ab3a8f83&sni=rutube.ru&type=tcp#***✅***@AR14N24bvless://2bb43206-0fe9-4167-b3d4-b7d0a205f907@84.23.53.174:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.com&fp=chrome&security=reality&pbk=JCb_XSqs5RX1ABXUECpDz5HZ5gzzFAJoO9IBs9ETqkE&sid=7ccbcb93b59845de#***✅***@AR14N24bvless://3362e345-1d9f-44ae-9462-1588c9bc311a@176.122.25.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&security=reality&sid=0952e8cf962ab9&sni=st.vk.com&type=tcp#***✅***@AR14N24bvless://4636afc8-8d58-4351-9bde-d38d4ff3a458@95.174.92.100:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=gw0H7lkC9uAf7NjF5lGLY_Y0RcLipjD5-xhXWl9gUXI&security=reality&sid=e69ffba90adca3e2&sni=images.fasssst.ru&type=tcp#***✅***@AR14N24bvless://4bc7d558-1943-44de-bd82-56920bc9383e@144.31.221.8:443?encryption=none&flow=xtls-rprx-vision&pbk=EyzTSZxq5qlUT2xW0l7VP-DzIh2ucabMan9ekEv9Owo&security=reality&sni=test.spectrum.vu&type=tcp#***✅***@AR14N24bvless://65b769ee-a0bb-4cfe-8286-7a5d63cd8964@95.174.92.11:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xfNZvP60yv5cee9Nyac7Daww3QwlAd2WDTd14jJixAk&security=reality&sid=fce0ac36&sni=dk40.strelkavpn.com&type=tcp#***✅***@AR14N24bvless://7bc30425-1c2f-4823-b629-90f599a4cbfe@5.188.140.115:1488?encryption=none&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ads.x5.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:17 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.69:8080#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.236.22.207:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.23.248:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.23.30:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.27.144:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.71.233.55:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.179:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.187.115:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.92:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@84.21.172.81:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:16 UTC
+`vless://26524cce-d514-4014-a426-365fb266a14d@143.20.213.234:8443/?type=ws&encryption=none&flow=&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=WangCai.443888.xyz#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@bs7.youtuber-vps.com:8443?security=reality&encryption=none&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=7c8d9e0f#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.107.190.58:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@143.20.213.218:8443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.241.241.28:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.230.66:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://71c7bf4c-5b64-49b3-9fe1-6e883e9aea3d@84.201.169.24:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6LY8pdiGxeFO6Vx5Fz2qdstbLyd0zbQoWpFWVxumaxA&security=reality&sid=943da4968362&sni=st.vk.com&type=tcp#***✅***@AR14N24bvless://75193bef-8d8f-e823-41e0-2dd083dc1399@90.226.139.100:2197?encryption=none&fp=chrome&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&security=reality&sid=a62d513cd709744a&sni=api.push.apple.com&type=tcp#***✅***@AR14N24bvless://75193bef-8d8f-e823-41e0-2dd083dc1399@90.226.139.100:50?encryption=none&security=none&type=tcp#***✅***@AR14N24bvless://829ce713-8748-4049-ba76-be56e60bc449@37.139.34.145:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=m.vk.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:04 UTC
+`vless://01896982-f9df-4bd5-8f32-914253db2e61@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17802e8ff84f12df&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://01896982-f9df-4bd5-8f32-914253db2e61@51.250.86.102:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17f0f0e38f01af5a&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://02001af1-b37c-491b-9238-789de45fbf6f@51.250.31.8:443?encryption=none&fp=chrome&pbk=w5GBYzUovi0bxRZ1xp4UDCJ0BXB0QoEqxZwiRt3SNnA&security=reality&sid=64534faf&sni=event.yandex.ru&type=grpc#***✅***@AR14N24bvless://07835f65-069f-4aac-9607-d4771b1d707f@176.122.23.41:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_6dvIYbIsqGYLAdkdeP-B5sjHriLO3MvpNdO6ThTi14&security=reality&sid=5835efd2866f70&sni=eh.vk.ru&type=tcp#***✅***@AR14N24bvless://1701980a-4c71-492a-b111-d6ff1c4da7c7@146.185.197.72:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=tLIY95WzJpGsi02rk_G2SwMOiy10H0-5fGCh6fGDimI&security=reality&sid=e1&sni=vashsender.ru&type=tcp#***✅***@AR14N24bvless://1be53030-2e90-4670-8006-84bc1d0c499e@51.250.87.28:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=okSpKWUqFiV0OsVoon9FkmFXLmquCxLM1pHIriHipA4&security=reality&sid=7bd4847e0984&sni=megafon.ru&type=tcp#***✅***@AR14N24bvless://1bfbd06c-a736-4bcb-9a87-8ba7da296b8b@84.201.180.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SXe0_xjHjYa34_94-h1esp2PcXoLxRF6vhjgDkNCG0I&security=reality&sid=455c6ad0&sni=login.vk.com&type=tcp#***✅***@AR14N24bvless://23a9d9b9-d8f2-491d-9b36-7f27c1e41798@84.201.176.182:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=aIErRu3zP3lh2X9BUmyyVcOEnxogVUSEFDUI-16MKAU&security=reality&sid=b1766206&sni=st.vk.com&type=tcp#***✅***@AR14N24bvless://29a6efbc-aab7-4a0d-9a41-d034c6ba01a6@51.250.104.29:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=vTZhfTFn5xWufzDY06cmSP-8-cclTUWWK4oIBxww7AU&security=reality&sid=3a15&sni=event.yandex.ru&type=tcp#***✅***@AR14N24bvless://3362e345-1d9f-44ae-9462-1588c9bc311a@176.122.25.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=fc7wwlzUfydHkCpOx0NTUCIScR0i66XtzGsoL_D4AVk&security=reality&sid=73efd6da&sni=img.yandex.ru&type=tcp#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@bs1.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bs1.youtuber-vps.com&sid=b95d09fc94955ba4#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@bs3.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=bs3.youtuber-vps.com&sid=b95d09fc94955ba4#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@bs6.youtuber-vps.com:52001?security=reality&encryption=none&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@bs8.youtuber-vps.com:8443?security=reality&encryption=none&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=e3f4a5b6#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@217.16.27.217:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:51:03 UTC
+`vless://299d857d-ef37-4922-a149-a538d170e230@91.243.82.140:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1LqfugkYAwpyuHW-DYgAgQpwnm-Q-kUwV6okhrMgGH0&security=reality&sid=d8652d01fdd11490&sni=st.vk.com&type=tcp#***✅***@AR14N24bvless://40841529-3512-da44-4626-9be4a28a26a6@104.20.7.182:2053?security=tls&type=grpc&headerType=&encryption=none&serviceName=secas&authority=&mode=multi&sni=hamrahduiw.lenalizmy0ve.ir&fp=chrome#***✅***@AR14N24bvless://40841529-3512-da44-4626-9be4a28a26a6@104.20.7.182:2083?security=tls&type=grpc&headerType=&encryption=none&serviceName=sadxx&authority=&mode=multi&sni=d4e8a1b7c9f362ad.lenalizmy0ve.ir&fp=chrome#***✅***@AR14N24bvless://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2053?security=tls&type=grpc&headerType=&encryption=none&serviceName=secas&authority=hamrahduiw.lenalizmy0ve.ir&mode=multi&sni=hamrahduiw.lenalizmy0ve.ir&fp=chrome#***✅***@AR14N24bvless://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2083?security=tls&type=grpc&headerType=&encryption=none&serviceName=sadxx&authority=&mode=multi&sni=d4e8a1b7c9f362ad.lenalizmy0ve.ir&fp=chrome#***✅***@AR14N24bvless://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2096?security=tls&type=grpc&headerType=&encryption=none&serviceName=sadms&authority=&mode=multi&sni=hamrahduiw.lenalizmy0ve.ir&fp=chrome#***✅***@AR14N24bvless://490ecb4b-8ee1-4d33-9d6d-b034899a1039@37.16.74.19:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&sni=www.ibm.com#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@finland.youtuber-vps.com:52001?security=reality&encryption=none&pbk=98GUVpWw96tdeGtjIOHXmkklpeA72qQQJoxxyfJ1yTo&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=6ba85179#***✅***@AR14N24bvless://4f4a4031-dd23-4a5c-8a61-e84ec5c92dfe@nl-z2.youtuber-vps.com:443?security=reality&encryption=none&pbk=NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl-z2.youtuber-vps.com&sid=b95d09fc94955ba4#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.56.213.131:8443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:44:15 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#***✅***@AR14N24btrojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=/?ed=2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%2Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?encryption=none&type=ws&host=vds.rahedarro.com&path=/block&security=tls&sni=vds.rahedarro.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?encryption=none&host=hetz.x-smm.com&fp=chrome&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?encryption=none&host=hetz.x-smm.com&fp=chrome&path=/45.76.183.217=49292&security=tls&sni=hetz.x-smm.com&type=ws#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?allowInsecure=0&encryption=none&fp=chrome&host=gamepc.sorza.ir&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&type=ws#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=/?ed=2560&security=tls&encryption=none&insecure=1&host=gamepc.sorza.ir&type=ws&allowInsecure=1&sni=digikala.sorza.ir#***✅***@AR14N24bvless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&path=%2F&security=none&type=ws#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=/?ed=2560#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.174.68:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=/#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:42:12 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpha3ZKUXpaQ2FUZGlzU3l1U3kzYVJteXZLQzUzWDFkM1BhQXNiOXhVOG41VFk5aFNCMURLNWU2U1BtOTIxaWdIY1JzQ1RDdmYxcFd1ZlRKNUxpOFBpaVFHNHZZZHl5TTc=@94.131.22.134:40565#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjVXZzMyWHpFZ0NYazRNUENndmQxRzFUczhXSEJMc1hNVWFxTWE1RFVYTXVxTW1kWmdDYk1pcFhEaG9BbWo3M3FBOW9ZODV6WEszNUw1bTYzMVRuN2luMnAzS0xiV0Y=@46.249.109.128:56594#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#***✅***@AR14N24bvless://0c77cfd8-dcf8-4558-8a9b-1b39f324d347@188.114.96.0:443?path=/eyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=serverjadid.teramadolyt.workers.dev&type=ws&sni=serverjadid.teramadolyt.workers.dev#***✅***@AR14N24bvless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#***✅***@AR14N24bvless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?path=/block&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=/Tel-@V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&fp=chrome&type=ws&sni=o00o.snip.qzz.io#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=/?ed=2560&security=tls&encryption=none&host=gamepc.sorza.ir&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&sni=pl-mirror.api.akenai.click&sid=b91a73752053b039#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:41:58 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#***✅***@AR14N24btrojan://humanity@www.calmlunch.com:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&allowInsecure=1&fp=chrome#***✅***@AR14N24btrojan://humanity@www.creationlong.org:443?alpn=h2%2Chttp%2F1.1&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#***✅***@AR14N24bvless://1670a2ae-b9ff-46c2-955b-5f5bae70241d@37.139.33.57:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://1670a2ae-b9ff-46c2-955b-5f5bae70241d@90.156.217.130:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=6419bed7fd0a2cff&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@37.139.33.15:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://525e49c0-8396-4dac-bb2d-36412723e5cb@146.185.240.23:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=random&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=e57932a42872a362#***✅***@AR14N24bvless://525e49c0-8396-4dac-bb2d-36412723e5cb@79.137.175.59:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=m.vk.ru#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@84.252.130.60:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=3f200574d011010f&sni=sun6-21.userapi.com&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.0.147:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=43df3983229a1c73&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@95.163.211.13:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=cd57a927f6b72d81&sni=max.ru&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:41:52 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyV3FoMVNRRnlyYXNzUG05WmRFaVdR@46.21.80.118:557?#***✅***@AR14N24bvless://1c0dcb8a-8c28-480f-8e27-588e39932ad1@166.88.180.226:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=WOPZy8oOnvHN21pLYobZAGa7sVp7op3q575B5BaFxkU&sid=ff0654628ad5&type=tcp&headerType=none#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=/pabloping/?Tel-@V2rayAlpha&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@172.82.67.158:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=mstdn.jp&fp=chrome&pbk=MXPEgI0ZkHuKajGQZUf6aiHUvrz-8HY_hR9oCz-iuww&sid=61dc504a&type=tcp&headerType=none&host=mstdn.jp#***✅***@AR14N24bvless://44bb30a9-d89e-4b92-c78f-b68e4eedc99c@46.38.138.221:2020?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.188.181.187:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.205:2053?path=/?ed=2560&Telegram%20@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.62.62.122:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.184.137:2053?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@59.24.1.109:50001?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@95.164.11.48:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram+@WangCai2#***✅***@AR14N24bvless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&sid=ead461&sni=apple.com&spx=/#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:41:29 UTC
+`trojan://jJT7gd5O9vwJzL6RiXpxxXIAL@94.131.122.254:443?security=tls&sni=hl-freedom-2.undef.network&type=ws&host=hl-freedom-2.undef.network&path=/f2fc2a1f#***✅***@AR14N24bvless://03840c2c-b789-4360-a501-6ce62a0e80c9@91.243.86.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Z3jAFVPXZymXESt50xJqcxKO94-oyk53iHQbsKqqVCQ&security=reality&sid=dd30e84b3409&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://05917816-f95c-4c6c-a095-a639c6c6f12b@51.250.80.144:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=YKd45E6mR-gQIjWbdN8NTTzFAvv8eoOALBL7TA82Qwc&security=reality&sid=859e6bc0dd91c6fa&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://1670a2ae-b9ff-46c2-955b-5f5bae70241d@37.139.33.57:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://398ad7f3-8d09-443e-af3e-63b27d6ce00b@51.250.32.181:443?encryption=none&fp=chrome&pbk=9YI916mfg0vVhrkzffrrU99NEr7pzk_4T3j3ABg6eTQ&security=reality&sid=f8495103c361&sni=eh.vk.com&type=grpc#***✅***@AR14N24bvless://3fd0b1e5-44ba-4217-ae41-9380b76663d3@89.208.86.133:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5EJtYvkGHYZk5tcrAp1fd-v-bgQz5YT3IK8jiedA6Bw&security=reality&sid=974b3288d8dc2a56&sni=eh.vk.ru&type=tcp#***✅***@AR14N24bvless://4191549c-9d71-4d30-b9dd-65ffa41b17e7@se.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=se.connectv.net#***✅***@AR14N24bvless://4191549c-9d71-4d30-b9dd-65ffa41b17e7@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#***✅***@AR14N24bvless://4191549c-9d71-4d30-b9dd-65ffa41b17e7@uk.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=uk.connectv.net#***✅***@AR14N24bvless://45b550fc-ffe8-4c6a-9443-cbbfe4439eac@51.250.12.111:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=pGFgy_rrpU51v3IFm-dYHOJskMDJO0kCAkIIHJdUSF8&security=reality&sid=f3e8b2b1&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://57095e00-e7f8-45b6-b613-2ca64169f7d6@51.250.96.27:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wRMfW7YkgUwLRPglkBa8_aHW6atK0AkK3aETIWASBWw&security=reality&sid=80cdecb6d701&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://59fd126f-b6e5-4f0c-8eb8-4f2c0a05071b@95.163.212.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=bhmXYuOivgD85xqBI7NSernxk-lKYqjLpC3jYsMDQgk&security=reality&sid=cf3d306bd5e792da&sni=eh.vk.ru&type=tcp#***✅***@AR14N24bvless://5df12844-cb50-40cb-b2ea-e787c2bce650@84.201.146.226:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=CF5xzEGIeH2VCWuqHexomuAGSw0FaPG47e9uRCBn40E&security=reality&sid=f2d03c80a09a&sni=music.yandex.ru&type=tcp#***✅***@AR14N24bvless://6a4ab761-48ec-4971-9200-3dee0c381400@51.250.17.98:443?security=reality&encryption=none&pbk=aN7UzD4k94BbiK34ZhW0VVFoMgHOkpKbftbBGR9Uq2E&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=12#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:41:08 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLZzVOUk1kYlh6S3FNQ08wNENiT1liQDE4NS4yNTAuNDUuMTYzOjQxMjk=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMkZmQTNrNklubXdPZ3E5OVJRdnZrQDE0Ni4xMDMuMTEyLjI0OTozMDk5NQ==#***✅***@AR14N24bss://YWVzLTI1Ni1nY206NW1DSDQ2MjRRZmxPMWNGUkAxODUuMTExLjE1Ni4zMzo4MA==#***✅***@AR14N24bss://YWVzLTI1Ni1nY206UXpNME5mdU1ObmdiVm5aS0AxNDQuMTI2LjE0NS43Nzo4MA==#***✅***@AR14N24btrojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?sni=free-de-3.undef.network&peer=free-de-3.undef.network&security=tls#***✅***@AR14N24bvless://0bf4efe9-c3b3-47bc-a707-e1535b502e90@199.232.236.1:80?path=%2F&security=none&encryption=none&host=pmiusc1l1.global.ssl.fastly.net&type=ws#***✅***@AR14N24bvless://3cf1bb05-7075-4820-81ce-93ec7a42be7a@151.101.161.194:443?security=tls&encryption=none&sni=parselx16v.global.ssl.fastly.net&type=ws&path=/site#***✅***@AR14N24bvless://3cf1bb05-7075-4820-81ce-93ec7a42be7a@151.101.41.194:443?security=tls&encryption=none&sni=parselx16v.global.ssl.fastly.net&type=ws&path=/site#***✅***@AR14N24bvless://4bc7d558-1943-44de-bd82-56920bc9383e@free.spectrum.vu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qNyuqiky1x0VL88_KzItJpZNQ1DfkSPTBf5BBLJRrnA&sid=28b11f1e725a23ad&sni=free.spectrum.vu#***✅***@AR14N24bvless://67bab4f6-9fb7-e3d6-1004-777b46923d83@nl.zeepo.ir:443?security=reality&encryption=none&pbk=SySMR9yW2kna78L7nmfkSYeQ-DkS7nIx98AsTsHy0gM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=7fec027d1852df40#***✅***@AR14N24bvless://7376dac3-b0dc-1822-adee-beb99c1342d9@fi1.mahboob.top:2086?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:41:03 UTC
+`vless://077a4330-7cb0-4d4b-8feb-7ceb3cd43f69@w.0op.ccwu.cc:80?type=ws&path=%252F7ZHQqqDZuBdYKaAHx8c&host=w.0op.ccwu.cc&sni=w.0op.ccwu.cc&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://12d75b7d-8fdf-4785-8d62-d836854e7e63@104.18.13.229:2052?encryption=none&security=none&type=ws&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24bvless://14e1775b-d92c-455b-8db3-e6c6d61909e0@172.67.172.86:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&encryption=none#***✅***@AR14N24bvless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@pamelo.axinode.sbs:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=apple.com&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&type=tcp&headerType=none#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@104.21.74.114:80?security=none&encryption=none&type=ws&host=ji.ae1autumn.us.ci&path=/AbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24bvless://5d455342-2929-45a0-951a-1b273ec39b7c@104.18.7.36:2086/?type=ws&encryption=none&flow=&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&path=%2F#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:8443?path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@104.17.157.2:443?type=ws&encryption=none&host=a926adb5.lfree.ccwu.cc&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&security=tls&sni=a926adb5.lfree.ccwu.cc&allowInsecure=1#***✅***@AR14N24bvless://7235ac4c-b73b-45d1-8727-53e147f3744a@188.114.97.0:8080?encryption=none&security=none&type=ws&host=064wfsk6shr7mq573bgm675z7h1a1s25.z2mzf6rq9i.workers.dev&path=%2FeyJqdW5rIjoiOXNidTA2d2VzejYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.203.94:2086?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:40:55 UTC
+`ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***✅***@AR14N24btrojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.96.3:443?security=tls&sni=mfyousheng.nl.eu.org&allowInsecure=true&type=ws&host=mfyousheng.nl.eu.org&path=/tjwsLhx0SFASG4l9FERJ1g#***✅***@AR14N24btrojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#***✅***@AR14N24bvless://25efc727-e853-49ba-9609-3c20009d0e7a@104.18.13.229:2052/?type=ws&encryption=none&flow=&host=winbiss-0tpka6-v1.winbiss.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24bvless://309fa273-6579-4cb2-9143-7cad50401eba@85.208.108.136:8443?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@173.245.59.244:8080?encryption=none&security=none&sni=173.245.59.244&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiZUZpQ3M1WlYxYjlJTHlXNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjc3LjIzOC4yMzEuMTc5IiwiMzEuNDQuMi41NyJdfQ%3D%3D%3Fed%3D2560#***✅***@AR14N24bvless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@188.114.97.222:8080?encryption=none&security=none&sni=188.114.97.222&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiTzZZQ2dpUW1WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#***✅***@AR14N24bvless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@198.41.193.151:80?encryption=none&security=none&sni=198.41.193.151&fp=chrome&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoibWNPczJHelJTUmpXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#***✅***@AR14N24bvless://53342b53-157e-4475-9f3a-40439434e689@172.64.156.188:80/?type=ws&encryption=none&flow=&host=c.iamdt.dpdns.org&path=%2F#***✅***@AR14N24bvless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.4.46:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev#***✅***@AR14N24bvless://636de463-b509-4631-adc6-400b21733278@104.21.233.186:2086?encryption=none&security=none&fp=chrome&type=ws&host=index.harmony610.workers.dev&path=%2Fvgn80ag4q5o0oxj5#***✅***@AR14N24bvless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?path=%2F&security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&type=ws#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:38:40 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.112.130.53:8316#***✅***@AR14N24bvless://29632408-8a2f-4bfc-a7b3-c8c8cdb220ac@80.211.236.42:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=gmail.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://472b07d2-31e4-41ab-ae47-48914d9b7900@termux.net:443?path=%2FNet3rffws&security=tls&encryption=none&host=fi.unoix.io&fp=chrome&type=ws&sni=fi.unoix.io#***✅***@AR14N24bvless://73ccfebc-9b7f-4bb2-9685-2c92bca66947@de.v2turbo.com:1521?path=%2F&security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&type=ws#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:15:50 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YTEwNmFmYzMzZWFhMjYx@148.113.139.160:46534#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#***✅***@AR14N24btrojan://fsJC#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24bvless://071435dc-6ab9-4502-8441-ed4a4b609092@diddy.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=n1.n1server.org#***✅***@AR14N24bvless://0c77cfd8-dcf8-4558-8a9b-1b39f324d347@188.114.96.0:443?path=%2FeyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=serverjadid.teramadolyt.workers.dev&type=ws&sni=serverjadid.teramadolyt.workers.dev#***✅***@AR14N24bvless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?path=%2Fblock&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&fp=chrome&type=ws&sni=o00o.snip.qzz.io#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.174.68:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=%2F#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:15:44 UTC
+`trojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#***✅***@AR14N24bvless://071435dc-6ab9-4502-8441-ed4a4b609092@diddy.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=n1.n1server.org#***✅***@AR14N24bvless://0c77cfd8-dcf8-4558-8a9b-1b39f324d347@188.114.96.0:443?path=%2FeyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=serverjadid.teramadolyt.workers.dev&type=ws&sni=serverjadid.teramadolyt.workers.dev#***✅***@AR14N24bvless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?path=%2Fblock&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&fp=chrome&type=ws&sni=o00o.snip.qzz.io#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:15:44 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@23.95.76.59:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@79.127.200.169:990#***✅***@AR14N24btrojan://fsJC#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24bvless://071435dc-6ab9-4502-8441-ed4a4b609092@diddy.com:443?security=tls&sni=n1.n1server.org&alpn=h2,http/1.1&allowInsecure=1&type=grpc&encryption=none#***✅***@AR14N24bvless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?encryption=none&type=ws&host=vds.rahedarro.com&path=%2Fblock&security=tls&sni=vds.rahedarro.com#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=gamepc.sorza.ir&type=ws&allowInsecure=1&sni=digikala.sorza.ir#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@172.66.128.70:80?path=/?ed&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:11:59 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@23.95.76.59:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA3OS4xMjcuMjAwLjE2OTo5OTA=#***✅***@AR14N24btrojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#***✅***@AR14N24btrojan://fsJC%3Ca%292Atn%3B@104.18.8.232:2086?ed=2560&eh=Sec-WebSocket-Protocol&host=hamedp71.123hp.workers.dev&path=%2FeyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&type=ws#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.creationlong.org&sni=www.creationlong.org&allowInsecure=1#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://0c77cfd8-dcf8-4558-8a9b-1b39f324d347@188.114.96.0:443?encryption=none&security=tls&type=ws&host=serverjadid.teramadolyt.workers.dev&path=/eyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560&sni=serverjadid.teramadolyt.workers.dev#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?encryption=none&host=hetz.x-smm.com&fp=chrome&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&type=ws#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?encryption=none&host=hetz.x-smm.com&fp=chrome&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&type=ws#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?path=/?ed&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&insecure=1&allowInsecure=1&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=%2F%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:11:52 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Zjk5MTgwZmM5MjExYzQwQDUxLjE2MS44MC4xMzg6Mjc3OTc=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@23.95.76.59:990?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUA0NS4xNTQuMjA0Ljc6OTkw#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAyMy45NS43Ni41OTo5OTA=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZTFmNmZlYTc0YjczOTFhQDUxLjE2MS44MC4xMzg6MTI3NDM=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2QDE0OC4xMTMuMTM4LjQ3OjQ4NzA0#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNzk5YjkwM2EzMmZjMWZlQDUxLjE2MS4zMi40NDoxMzAyNg==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmNmM0NjAwZDRkNTEzODU3QDUxLjE2MS4zMy4xMTE6MTEyMDI=#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://071435dc-6ab9-4502-8441-ed4a4b609092@188.114.98.0:443?encryption=none&security=tls&sni=n1.n1server.org&alpn=h2,http/1.1&type=grpc#***✅***@AR14N24bvless://071435dc-6ab9-4502-8441-ed4a4b609092@z1.n1server.org:443?mode=gun&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=grpc&allowInsecure=0&sni=n1.n1server.org#***✅***@AR14N24bvless://6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f@188.114.97.0:443?encryption=none&security=tls&type=ws&host=telegram.proxie2-tel.workers.dev&path=%2FeyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&sni=tELEGRAM.prOXIe2-TEL.wOrKErS.DEV&fp=chrome&alpn=http%2F1.1#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@172.67.150.254:2095?encryption=none&security=none&type=ws&host=iioo.iioou.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:11:22 UTC
+`vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@104.21.80.5:80?host=vpnpro.eshghiabolfazl2009.workers.dev&type=ws#***✅***@AR14N24bvless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#***✅***@AR14N24bvless://2a2a8023-3b4b-407d-a00a-7beb5a158148@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#***✅***@AR14N24bvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#***✅***@AR14N24bvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&path=%2F%3Fed&type=ws#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#***✅***@AR14N24bvless://636de463-b509-4631-adc6-400b21733278@104.21.89.4:2086?encryption=none&security=none&type=ws&host=index.harmony610.workers.dev&path=%2Fl5s2vgexcus7b8c4#***✅***@AR14N24bvless://65fe56c2-78ec-417a-a666-9f393eac8b61@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#***✅***@AR14N24bvless://65fe56c2-78ec-417a-a666-9f393eac8b61@172.66.128.70:80?path=/?ed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:11:11 UTC
+`trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?security=tls&sni=028.eLECtRocEllco-Cf-028.worKErS.dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=028.electrocellco-cf-028.workers.dev&path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#***✅***@AR14N24btrojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#***✅***@AR14N24btrojan://freedom@irancell.buzzmuzzpanel.online:443?security=tls&sni=047.eleCTROCelLco-Cf-047.woRkers.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=047.electrocellco-cf-047.workers.dev&path=%2FeyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#***✅***@AR14N24bvless://3f9c8463-8610-3ed8-86c8-a26713067825@188.114.98.0:443?path=%2Fdb10240eb751d6ab&security=tls&encryption=none&host=dabaius2.sylu.net&type=ws&sni=dabaius2.sylu.net#***✅***@AR14N24bvless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.147.22:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@104.18.185.26:8880?security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@104.21.224.5:8880?security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:10:55 UTC
+`vless://03896a37-db8f-44ed-8ce1-45a1577f6da6@188.114.97.0:443?encryption=none&security=tls&sni=stipulations.gelatin.workers.dev&alpn=h3%2Ch2%2Chttp%2F1.1&fp=randomized&type=ws&host=stipulations.gelatin.workers.dev&path=%2FeyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#***✅***@AR14N24bvless://1ff4b4b9-af9f-4708-ab43-97dcc832e748@104.17.147.22:443?encryption=none&security=tls&sni=008.eLECtROCELlco-Cf-008.wOrkerS.dev&type=ws&host=008.eLECtROCELlco-Cf-008.wOrkerS.dev&path=%2FeyJqdW5rIjoiOG16aDZBdVhsZ1JNQk54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNS4zNS43MC4xNTUiLCIxNDguMjUxLjE1Ny4xMjciLCIyLjU5LjE4My4xOTgiXX0%3D%3Fed%3D2560#***✅***@AR14N24bvless://27950cc1-85b4-4ecc-ad3a-4507360504af@198.41.222.50:8080?path=%2FeyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0%3D%3Fed%3D2560&security=&encryption=none&host=031.electrocellco-cf-031.workers.dev&fp=chrome&type=ws&sni=198.41.222.50#***✅***@AR14N24bvless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@104.17.148.22:443?path=/eyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#***✅***@AR14N24bvless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@104.18.5.46:8880?type=ws&encryption=none&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=/?ed=2560Join---V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz---@V2rayBaaz#***✅***@AR14N24bvless://73a4456a-0442-4550-8b4f-c719871a4eeb@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoicFhKOXNLOTA3TnFBTWhiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=011.electrocellco-cf-011.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=011.ELecTROCeLLCo-cf-011.WOrKerS.DEV#***✅***@AR14N24bvless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080?encryption=none&type=ws&host=spring-flower-3254.magicnight101.workers.dev&path=/9PnUgtdLG8Br?ed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&packetEncoding=xudp#***✅***@AR14N24bvless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@172.64.153.235:8080?encryption=none&type=ws&host=spring-flower-3254.magicnight101.workers.dev&path=/9PnUgtdLG8Br?ed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree&packetEncoding=xudp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:10:36 UTC
+`vless://4b70c6b7-a40f-4338-9749-2aaf6a6fb912@109.107.161.82:28933?security=reality&encryption=none&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=c98c3bb0754f37#***✅***@AR14N24bvless://5b3e6dd2-856f-4de0-8ec6-1cadecfe4088@masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.146.170:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.195.240.210:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.231:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.58:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:09:43 UTC
+`trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&encryption=none&headerType=&type=tcp#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=&type=tcp#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://0c257071-10b1-46c2-8372-a409be863b72@masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2FTelegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://199139c1-7226-4fc2-87cb-5cedb717bf79@masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev#***✅***@AR14N24bvless://21a37d7e-6d14-46fc-8ef8-4c5e3082badb@vipp.arman-a.ir:8443?security=reality&encryption=none&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&host=divar.ir&headerType=http&fp=safari&spx=%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx&type=tcp&sni=yahoo.com&sid=4b1e5af0c9#***✅***@AR14N24bvless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#***✅***@AR14N24bvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:09:43 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#***✅***@AR14N24bss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:80#***✅***@AR14N24bss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#***✅***@AR14N24btrojan://7M72gQuaaH@148.251.173.125:16512?type=tcp&security=none#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.195.240.210:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.231:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.58:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6e0eec29-0d80-4d0b-9123-03fc88ece826@phonex.phonexv2iiiolo.com:25882?security=&encryption=none&host=fast.com&headerType=http&type=tcp#***✅***@AR14N24bvless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:09:31 UTC
+`vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#***✅***@AR14N24bvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bvless://4b70c6b7-a40f-4338-9749-2aaf6a6fb912@109.107.161.82:28933?security=reality&encryption=none&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=c98c3bb0754f37#***✅***@AR14N24bvless://58483a1e-6bab-4948-9602-dee06a47bc64@cdn1.glitchfm.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=nl4.torbixplus.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nl4.torbixplus.ir#***✅***@AR14N24bvless://5b3e6dd2-856f-4de0-8ec6-1cadecfe4088@masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.146.170:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:09:30 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#***✅***@AR14N24bss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:80#***✅***@AR14N24bss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#***✅***@AR14N24btrojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&encryption=none&headerType=&type=tcp#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=&type=tcp#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://0c257071-10b1-46c2-8372-a409be863b72@masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2FTelegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FSpringHQ%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL-%40SpringHQ-TEL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=music.parvareshmorghe.ir&fp=chrome&type=ws&allowInsecure=0&sni=music.parvareshmorghe.ir#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://199139c1-7226-4fc2-87cb-5cedb717bf79@masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev#***✅***@AR14N24bvless://21a37d7e-6d14-46fc-8ef8-4c5e3082badb@vipp.arman-a.ir:8443?security=reality&encryption=none&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&host=divar.ir&headerType=http&fp=safari&spx=%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx&type=tcp&sni=yahoo.com&sid=4b1e5af0c9#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:09:30 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbnhj.191266.xyz:443?hiddify=1&sni=vvvbbnhj.191266.xyz&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&padsize=50-200&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=vvvbbnhj.191266.xyz&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#***✅***@AR14N24btrojan://T9BpZIVMNv@v3.dabache.top:8443?security=tls&sni=sweden.vmaxpanel.com&type=ws&host=sweden.vmaxpanel.com&path=%2Famd#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbnhj.191266.xyz:443?hiddify=1&sni=vvvbbnhj.191266.xyz&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&padsize=50-200&path=%2F391sfnZ2bBhmKb8nOkg&host=vvvbbnhj.191266.xyz&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F124.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@v2.dabache.top:80?security=none&type=ws&path=%2F%3Fed&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny#***✅***@AR14N24bvless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@fastcon-tg.harknmav.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&sid=f69d7af2d5fc5e0c&sni=eh.vk.com&path=&host=#***✅***@AR14N24bvless://6e0eec29-0d80-4d0b-9123-03fc88ece826@phonex.phonexv2iiiolo.com:25882?security=&encryption=none&host=fast.com&headerType=http&type=tcp#***✅***@AR14N24bvless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:01:50 UTC
+`trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&insecure=1&host=sweden.vmaxpanel.com&type=ws&allowInsecure=1&sni=sweden.vmaxpanel.com#***✅***@AR14N24btrojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&security=tls&path=%252Famd&host=sweden.vmaxpanel.com&sni=sweden.vmaxpanel.com&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&insecure=1&allowInsecure=1&type=ws&host=www.multiplydose.com&path=%2F%2Fassignment#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@v2.dabache.top:443?type=ws&encryption=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=dabaif0.webn.cc#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@v1.dabache.top:443?type=ws&encryption=none&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=dabaihk.webn.cc#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@v2.dabache.top:443?security=tls&type=ws&path=%2Fdb1024a105975707&host=dabaihk.webn.cc&sni=dabaihk.webn.cc&fp=chrome#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@vip3.kaixincloud.top:443?type=ws&encryption=none&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=dabaihk.webn.cc#***✅***@AR14N24bvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@chatgpt.com:8443?path=/57ba2ab1&security=tls&encryption=none&insecure=0&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&allowInsecure=0&sni=ovhwuxian.pai50288.uk#***✅***@AR14N24bvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=chrome&type=ws&sni=ovhwuxian.pai50288.uk#***✅***@AR14N24bvless://621a845a-48ea-35f0-9b9a-ca499c647ade@s1.db-link.in:443?encryption=none&security=tls&sni=dabaihk.webn.cc&alpn=h3%2Ch2&fp=chrome&type=ws&host=dabaihk.webn.cc&path=%2Fdb1024e9df2f990b#***✅***@AR14N24bvless://6b2d40f5-9db1-4964-aa9d-103d2a37fac6@chatgpt.com:443?path=%2FeyJqdW5rIjoid2swREI1QW43c1QyOWUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=steep-fog-3339.irwo5.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=steep-Fog-3339.iRwo5.wOrkeRS.dev#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:01:37 UTC
+`trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#***✅***@AR14N24btrojan://T9BpZIVMNv@vip1.kaixincloud.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com&allowInsecure=1#***✅***@AR14N24btrojan://T9BpZIVMNv@vip3.kaixincloud.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.calmlunch.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.calmlunch.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://064059ce-23b9-45d3-953d-57d4c5092874@026.electrocellco-cf-026.workers.dev:443?encryption=none&security=tls&sni=026.elEctrOCELLCo-cF-026.wORKERs.deV&alpn=http/1.1&fp=chrome&type=ws&host=026.electrocellco-cf-026.workers.dev&path=/eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0#***✅***@AR14N24bvless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80?encryption=none&type=ws&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F%3Fed%3D2048&security=none#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@v1.dabache.top:443?path=%2Fdb1024faebdb62e0&security=tls&encryption=none&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc#***✅***@AR14N24bvless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?encryption=none&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@vip2.kaixincloud.top:443?&security=tls&fp=chrome&sni=dabaihk.webn.cc&type=ws&headerType=none&host=dabaihk.webn.cc&path=%2Fdb1024a105975707#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai3.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-freecodes&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%40freecodes%2F%3Fed%3D2560#***✅***@AR14N24bvless://7b55e08d-0ec9-44d0-95a6-1b51fd472658@chatgpt.com:443?path=/eyJqdW5rIjoieUc3Z2pOc0t1dTVtRXciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560&security=tls&encryption=none&host=quiet-cake-3b50.hegamo9231.workers.dev&fp=chrome&type=ws&sni=QUiET-CaKE-3B50.heGamo9231.wOrkErs.dEv#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:01:15 UTC
+`trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@www.digitalocean.com:443?encryption=none&security=tls&sni=azadnet-5vk.pages.dev&fp=randomized&type=ws&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan#***✅***@AR14N24btrojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#***✅***@AR14N24btrojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#***✅***@AR14N24btrojan://jTT1K.bu%3C(7%26@www.speedtest.net:443?encryption=none&security=tls&sni=022.eleCTrOCEllCo-cf-022.wOrKeRs.DEV&alpn=http%2F1.1&fp=chrome&type=ws&host=022.electrocellco-cf-022.workers.dev&path=%2FeyJqdW5rIjoickdxMEZTZ2pCejVhIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#***✅***@AR14N24btrojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#***✅***@AR14N24bvless://2a2a8023-3b4b-407d-a00a-7beb5a158148@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#***✅***@AR14N24bvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#***✅***@AR14N24bvless://623d675e-8748-4881-ac0f-dc1a10b595b1@africa.visa.com:8880?path=%2F%3Fed%3D2560&security=none&encryption=none&host=vahidasd1988-se08ot-3.vahidasd1988.workers.dev&fp=randomized&type=ws#***✅***@AR14N24bvless://65fe56c2-78ec-417a-a666-9f393eac8b61@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=everlASTinG-oFfERC4S5Mg1918.SpoRTLand.COMpaNy.&type=ws#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai139.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai15.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#***✅***@AR14N24bvless://7d4a519b-d270-434e-a42d-d39624577a92@nodejs.org:80?path=/?ed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:01:08 UTC
+`vless://12d75b7d-8fdf-4785-8d62-d836854e7e63@www.visa.com.sg:2052?encryption=none&security=none&type=ws&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24bvless://15190a50-e317-4acd-8baf-a6c8da1ae2ef@chatgpt.com:8443?path=%2FeyJqdW5rIjoiRnVQd3g0SjhLVjNhcFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=003.electrocellco-cf-003.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=003.EleCtroCElLco-cf-003.woRKERS.DEv#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare-ip.mofashi.ltd:443?path=/?ed=2048&security=tls&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&sni=lively-brook-c471.nedena3319.workers.dev#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare.182682.xyz:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@lively-brook-c471.nedena3319.workers.dev:443?path=/?ed=2048&security=tls&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&sni=lively-brook-c471.nedena3319.workers.dev#***✅***@AR14N24bvless://17ebee4e-97ea-4cad-8737-cc228478ca9d@saas.sin.fan:443?security=tls&type=ws&path=%2F%3Fed&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://203e82ed-a6b7-416a-b04e-ba8a20d8a0c4@014.electrocellco-cf-014.workers.dev:443?encryption=none&security=tls&sni=014.ELectRoceLlCO-Cf-014.worKeRS.dev&type=ws&host=014.ELectRoceLlCO-Cf-014.worKeRS.dev&path=%2FeyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560#***✅***@AR14N24bvless://25efc727-e853-49ba-9609-3c20009d0e7a@www.visa.com.sg:2052?path=/?ed=2560&security=none&encryption=none&host=winbiss-0tpka6-v1.winbiss.workers.dev&fp=chrome&type=ws#***✅***@AR14N24bvless://3f9c8463-8610-3ed8-86c8-a26713067825@chatgpt.com:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&type=ws&path=%2Fdb10240eb751d6ab#***✅***@AR14N24bvless://3f9c8463-8610-3ed8-86c8-a26713067825@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=s6.oboob.cn&type=ws&headerType=none&host=s6.oboob.cn&path=%2Fdb1024efd9edc1a9#***✅***@AR14N24bvless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws#***✅***@AR14N24bvless://5d455342-2929-45a0-951a-1b273ec39b7c@www.visa.com.mt:2086?path=%2F%3Fed%3D2560&security=none&encryption=none&host=rayan11-0l5mxs7b-v1.rayan-11.workers.dev&fp=randomized&type=ws#***✅***@AR14N24bvless://73a4456a-0442-4550-8b4f-c719871a4eeb@www.speedtest.net:443?path=/eyJqdW5rIjoibWRiMjNWaUwxNHVWIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0=&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=011.electrocellco-cf-011.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=011.electrOCELlCO-CF-011.WorKERS.dEV#***✅***@AR14N24bvless://7890ce31-9a25-4fd4-90e7-80e5823ff510@wangcai115.cloudflare.182682.xyz:8880?encryption=none&security=none&sni=Telegram-channel-WangCai2&type=ws&host=frejd.11258.workers.dev&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%2F%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 21:00:57 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#***✅***@AR14N24btrojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&path=/tro8sFW1S91B6sZrM1?ed=2560&Host=Koma-YT.PAGeS.Dev#***✅***@AR14N24btrojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#***✅***@AR14N24btrojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#***✅***@AR14N24bvless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@025.electrocellco-cf-025.workers.dev:2053?encryption=none&security=tls&sni=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&type=ws&host=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&path=%2FeyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=dabaif0.webn.cc&type=ws&headerType=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0#***✅***@AR14N24bvless://305419ed-4ef5-3e5a-8d48-b803c58853d3@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=s6.oboob.cn&type=ws&headerType=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf#***✅***@AR14N24bvless://3f9c8463-8610-3ed8-86c8-a26713067825@dabaius2.sylu.net:443?encryption=none&security=tls&sni=dabaius2.sylu.net&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=dabaius2.sylu.net&path=%2Fdb10240eb751d6ab#***✅***@AR14N24bvless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:443?path=%2FeyJqdW5rIjoiZ2FTSnpWSlFGbENDM0xrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTI1LjcuMjQuMjUxIl19%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=010.electrocellco-cf-010.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=010.elECtROcEllCo-CF-010.woRKerS.DEv#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@s1.db-link.in:443?encryption=none&type=ws&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&security=tls&alpn=h3%2Ch2&fp=chrome&sni=dabaihk.webn.cc#***✅***@AR14N24bvless://5b002005-7fb1-413e-8cbd-08e50c87c2ea@africa.visa.com:8880/?type=ws&encryption=none&flow=&host=wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev&path=%2F%3Fed%3D2560Join---V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz---%40V2rayBaaz#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?security=tls&sni=ca.adobe-connect.top&alpn=http/1.1&fp=chrome&type=ws&path=/&host=ca.adobe-connect.top&encryption=none#***✅***@AR14N24bvless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@go.inmobi.com:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br%3Fed%3D2560v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree---v_ngfree#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:52:19 UTC
+`trojan://0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241@www.speedtest.net:8443?encryption=none&security=tls&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&insecure=1&type=ws&host=aged-sun-9128.danicng13.workers.dev&path=%2Ftrv9lthtdhp1hvnyc0%2Fynbilnlvdxnlzi5pc2vnyxjvlmnvbq%3D%3D%3Fed%3D2560#***✅***@AR14N24btrojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?security=tls&sni=sweden.vmaxpanel.com&fp=chrome&allowInsecure=0&type=ws&path=/amd#***✅***@AR14N24btrojan://T9BpZIVMNv@v3.dabache.top:8443?type=ws&security=tls&path=%252Famd&host=sweden.vmaxpanel.com&sni=sweden.vmaxpanel.com&allowInsecure=1#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@yyyyu.taiwan2026.indevs.in:443?type=ws&security=tls&path=%252FcSIyXrtyqeOFepMpfNkCk8&sni=yyyyu.taiwan2026.indevs.in&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.creationlong.org:443?type=ws&security=tls&path=%252Fassignment&sni=www.creationlong.org&fp=chrome&alpn=h2%25252Chttp%25252F1.1&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&allowInsecure=1#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@ggghj.www890604.dpdns.org:443?encryption=none&type=ws&host=ggghj.www890604.dpdns.org&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=ggghj.www890604.dpdns.org#***✅***@AR14N24bvless://73a4456a-0442-4550-8b4f-c719871a4eeb@openai.com:443?encryption=none&security=tls&sni=011.ELecTROCeLLCo-cf-011.WOrKerS.DEV&alpn=http%2F1.1&fp=chrome&insecure=1&type=ws&host=011.electrocellco-cf-011.workers.dev&path=%2FeyJqdW5rIjoicFhKOXNLOTA3TnFBTWhiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMjE3LjE0Mi4yMzYuOTMiXX0%3D%3Fed%3D2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:52:10 UTC
+`trojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmkk.www890604.dpdns.org:443?security=tls&sni=mMKK.WwW890604.DpdNS.OrG&alpn=http%2F1.1&type=ws&host=mMKK.WwW890604.DpdNS.OrG&path=%2FhV829BTVzg35A6ueyyZnWd#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@cloudflare.seeck.cn:2053?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=snippet.fgfw.eu.org&sni=snippet.fgfw.eu.org&fp=chrome#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@convera.com:2053?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=snippet.fgfw.eu.org&sni=snippet.fgfw.eu.org&fp=chrome#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@docker.1panel.live:2053?&security=tls&fp=chrome&sni=snippet.fgfw.eu.org&type=ws&headerType=none&host=snippet.fgfw.eu.org&path=%2Fdanfeng%3Fed%3D2560#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@legion.lenovo.com:2053?&security=tls&fp=chrome&sni=snippet.fgfw.eu.org&type=ws&headerType=none&host=snippet.fgfw.eu.org&path=%2Fdanfeng%3Fed%3D2560#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@one.dash.cloudflare.com:2053?encryption=none&security=tls&sni=snippet.fgfw.eu.org&fp=chrome&type=ws&host=snippet.fgfw.eu.org&path=%2Fdanfeng%3Fed%3D2560#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@pages.cloudflare.com:2053?&security=tls&fp=chrome&sni=snippet.fgfw.eu.org&type=ws&headerType=none&host=snippet.fgfw.eu.org&path=%2Fdanfeng%3Fed%3D2560#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@www.aapanel.com:2053?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=snippet.fgfw.eu.org&sni=snippet.fgfw.eu.org&fp=chrome#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@www.gco.gov.qa:2053?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=snippet.fgfw.eu.org&sni=snippet.fgfw.eu.org&fp=chrome#***✅***@AR14N24bvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@v2.dabache.top:8443?security=tls&type=ws&path=%2F57ba2ab1&host=ovhwuxian.pai50288.uk&sni=ovhwuxian.pai50288.uk&fp=chrome#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbnmkl.taiwan2028.indevs.in:443?security=tls&type=ws&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&host=BbBNMkL.TAIWan2028.iNDEVs.In&sni=BBBNMkL.TaiwAn2028.INdEvS.iN&fp=chrome#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@kkko9.191288.xyz:443?security=tls&type=ws&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&host=KKkO9.191288.Xyz&sni=KKkO9.191288.Xyz&fp=chrome#***✅***@AR14N24bvless://787b3724-16c8-4e58-a038-2b8013cdc6d9@chatgpt.com:80?path=%2FeyJqdW5rIjoiTG1jRlUwNjNwVUxvYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=none&encryption=none&host=c3linogp4x20x5acoguup217nstesdu1.nobodyface4b13.workers.dev&type=ws#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:51:59 UTC
+`trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@gggbnh.www890604.dpdns.org:443?security=tls&sni=gggbnh.www890604.dpdns.org&type=ws&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&Host=gggbnh.www890604.dpdns.org#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@vvvbbbnhj.taipei102.indevs.in:443?security=tls&sni=vvvbbbnhj.taipei102.indevs.in&type=ws&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&Host=vvvbbbnhj.taipei102.indevs.in#***✅***@AR14N24btrojan://87d1bfd4-574e-4c96-ad42-0426f27461ff@v2.dabache.top:443?security=tls&sni=_acme-challenge.sb.cloudns.biz&insecure=1&allowInsecure=1&type=ws&host=_acme-challenge.sb.cloudns.biz&path=%2F#***✅***@AR14N24btrojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&type=ws&path=%2FKlh0x8wtLpTGA5AqzZ2Mj&Host=YyYhHjKI.TAIPEi101.INdEVs.in#***✅***@AR14N24bvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@v2.dabache.top:80?type=ws&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO&path=%2F%3Fed&headerType=none&quicSecurity=none&serviceName=&security=&fp=chrome&insecure=1#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@vip1.kaixincloud.top:2096?type=ws&encryption=none&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=hetz.x-smm.com#***✅***@AR14N24bvless://4a7baca1-8048-4a91-8316-595b36657a54@cccvffff.191288.xyz:443?encryption=none&type=ws&host=ccCVfFff.191288.XYZ&path=%2Fv4mECBsrKh5tvsvinsGGg&security=tls&sni=ccCVfFff.191288.XYZ#***✅***@AR14N24bvless://5196aae7-1479-4f3c-978b-68e74977b509@jjjiu.99890604.xyz:443?encryption=none&security=tls&sni=jjjiu.99890604.xyz&type=ws&host=jjjiu.99890604.xyz&path=%2FvzwyBIUYH4vYIKMBivnR3#***✅***@AR14N24bvless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@v1.dabache.top:8443?&security=tls&fp=chrome&sni=ovhwuxian.pai50288.uk&type=ws&headerType=none&host=ovhwuxian.pai50288.uk&path=/57ba2ab1#***✅***@AR14N24bvless://721d3fd0-e9f1-40c3-92cd-d4405a4319d6@ui.huangshang.indevs.in:443?encryption=none&type=ws&host=ui.huangshang.indevs.in&path=%2F9NojP751adPiN9LMya&security=tls#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:51:30 UTC
+`trojan://5196aae7-1479-4f3c-978b-68e74977b509@mkouy.99890604.xyz:443?security=tls&sni=mkouy.99890604.xyz&type=ws&path=%2FmSZVb4DmOGWZIKMBivnR3&Host=mkouy.99890604.xyz#***✅***@AR14N24btrojan://5a2c16f9@cf.090227.xyz:443?security=tls&sni=pg.hhhhh.eu.org&type=ws&path=/&Host=pg.hhhhh.eu.org#***✅***@AR14N24btrojan://T9BpZIVMNv@v2.dabache.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#***✅***@AR14N24bvless://0836463b-214f-4af6-aa85-85a56a62388e@www.speedtest.net:443?encryption=none&security=tls&sni=d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=%2F8eaZJhRwB5zzDy81%3Fed%3D2560#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@v3.dabache.top:443?path=%2Fdb1024faebdb62e0&security=tls&encryption=none&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc#***✅***@AR14N24bvless://2bcfbfba-b446-4ad5-93ad-72af9e008f61@nuclear.us.kg:443?encryption=none&security=tls&sni=nuclear.us.kg&type=ws&host=nuclear.us.kg&path=/free/1.226.227.169:50001#***✅***@AR14N24bvless://363a6072-05d7-48d5-8f19-312b05fdd9cd@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24bvless://38715482-05f5-4ea0-aebf-60d3b8c71f30@myserviran.serviran.workers.dev:443?encryption=none&type=ws&host=myserviran.serviran.workers.dev&path=%2F%3Fed%3D2048&security=tls&fp=chrome&sni=myserviran.serviran.workers.dev#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#***✅***@AR14N24bvless://5a2c16f9-e365-4080-8d38-6924c3835586@cf.090227.xyz:443?&security=tls&fp=chrome&sni=pg.hhhhh.eu.org&type=ws&headerType=none&host=pg.hhhhh.eu.org&path=%2F#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@hhhjjkio.huangshang.online:443?encryption=none&security=tls&sni=hhHJJKIo.hUanGSHANg.OnlInE&type=ws&host=hhHJJKIo.hUanGSHANg.OnlInE&path=%2Fs2VHv9VUVzg35A6ueyyZnWd#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@hhhnmkl.288288.shop:443?encryption=none&security=tls&sni=HHhnmKl.288288.sHOP&type=ws&host=HHhnmKl.288288.sHOP&path=%2Fs2VHv9VUVzg35A6ueyyZnWd#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@mk.huangshang.online:443?encryption=none&type=ws&host=mK.HUAnGShANg.ONliNe&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=MK.hUaNGshanG.oNLINe#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip1.kaixincloud.top:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:51:17 UTC
+`trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=GGbNH.7777198.xyZ&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=GGbNH.7777198.xyZ&path=%2Fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://5196aae7-1479-4f3c-978b-68e74977b509@mkouy.99890604.xyz:443?security=tls&sni=mkouy.99890604.xyz&alpn=http%2F1.1&type=ws&host=mkouy.99890604.xyz&path=%2FmSZVb4DmOGWZIKMBivnR3#***✅***@AR14N24btrojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ooiuyt.890699.xyz:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http%2F1.1&type=ws&host=OOIuyT.890699.xYZ&path=%2FKlh0x8wtLpTGA5AqzZ2Mj#***✅***@AR14N24btrojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ooiuyt.890699.xyz:443?security=tls&sni=OOIuyT.890699.xYZ&type=ws&path=%2FKlh0x8wtLpTGA5AqzZ2Mj&Host=OOIuyT.890699.xYZ#***✅***@AR14N24btrojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@yyyhhjki.taipei101.indevs.in:443?security=tls&sni=YyYhHjKI.TAIPEi101.INdEVs.in&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=YyYhHjKI.TAIPEi101.INdEVs.in&path=%2FKlh0x8wtLpTGA5AqzZ2Mj#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@eed4.7777125.xyz:443?security=tls&sni=eed4.7777125.xyz&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&Host=eed4.7777125.xyz#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@jjji.2030.pp.ua:443?security=tls&sni=jjji.2030.pp.ua&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&Host=jjji.2030.pp.ua#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@rrrrrrr5.191262.xyz:443?security=tls&sni=rrrrrrr5.191262.xyz&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&Host=rrrrrrr5.191262.xyz#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@yyyyu.taiwan2026.indevs.in:443?security=tls&sni=yyyyu.taiwan2026.indevs.in&type=ws&path=%2FcSIyXrtyqeOFepMpfNkCk8&Host=yyyyu.taiwan2026.indevs.in#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@vip3.kaixincloud.top:443?type=ws&encryption=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=dabaif0.webn.cc#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@v3.dabache.top:2096?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@vip3.kaixincloud.top:2096?type=ws&encryption=none&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6fd9f786-d974-49d0-b5c4-397678de69a2@nld14.freednet.org:443?security=reality&encryption=none&pbk=BhTJ3phnq-Z-10aFKSsj1lzhA8mULR4L6leE4-0WTAs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=www.cybo.com#***✅***@AR14N24bvless://7e346122-2ee0-406e-b964-a8ee665f1814@digitalocean.com:443?encryption=none&security=tls&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&path=/?ed=2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:51:04 UTC
+`trojan://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?hiddify=1&sni=y.taiwan2029.indevs.in&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&padsize=50-200&path=%2FRXvyoH0kyRosKkycyrxcJWNVFC21&host=y.taiwan2029.indevs.in&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F26.1%20Safari%2F605.1.15%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@IiiIIi9.hUaNgSHANG.uS.CI:443?hiddify=1&sni=iiiiiI9.hUANgShaNG.uS.Ci&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&mc=1&padsize=50-200&path=%2FtSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24btrojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=1&type=ws&allowInsecure=1#***✅***@AR14N24bvless://1798b14b-aee0-4008-ba9a-2e53877761b4@y.taiwan2029.indevs.in:443?hiddify=1&sni=y.taiwan2029.indevs.in&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&padsize=50-200&path=%2FAy6844iXSu2BDycyrxcJWNVFC21&host=y.taiwan2029.indevs.in&encryption=none&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F26.1%20Safari%2F605.1.15%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24bvless://17a0304a-f972-42c1-9c66-2fdf977804d3@chatgpt.com:443?encryption=none&security=tls&sni=COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv&path=%2FeyJqdW5rIjoia0JSSDZLUVdwNFVVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#***✅***@AR14N24bvless://1e823993-86ac-3ead-89b5-227e73825fdb@vip1.kaixincloud.top:443?type=ws&encryption=none&host=dabaif0.webn.cc&path=%2Fdb1024faebdb62e0&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=dabaif0.webn.cc#***✅***@AR14N24bvless://5152ff5b-56f7-400c-bc1d-2f1dd1ac1e13@www.speedtest.net:80?encryption=none&security=none&type=ws&host=010.electrocellco-cf-010.workers.dev&path=/eyJqdW5rIjoiM3JsR054alF6R2JFTTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMjUuNy4yNC4yNTEiXX0=?ed=2560#***✅***@AR14N24bvless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@v3.dabache.top:443?&security=tls&fp=chrome&sni=dabaihk.webn.cc&type=ws&headerType=none&host=dabaihk.webn.cc&path=%2Fdb1024a105975707#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmfffgh.huangshang.online:443?encryption=none&security=tls&sni=MmMFffgh.HuaNgsHAnG.oNLIne&insecure=0&allowInsecure=0&type=ws&host=MmMFffgh.HuaNgsHAnG.oNLIne&path=%2Fs2VHv9VUVzg35A6ueyyZnWd#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@v1.dabache.top:2096?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@v2.dabache.top:2096?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:50:50 UTC
+`trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@ooiuyt.890699.xyz:443?security=tls&sni=OOIuyT.890699.xYZ&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=oOiUyT.890699.Xyz&path=%2FKlh0x8wtLpTGA5AqzZ2Mj#***✅***@AR14N24btrojan://b9bb332d-5e0d-41af-adac-49362dde8661@lll9.7777198.xyz:443?security=tls&sni=lll9.7777198.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=lll9.7777198.xyz&path=%2FQmR662lkasAQbt5Q2GkKGWRMg#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@CcCVgt.7777125.xyz:443?hiddify=1&sni=CccvGT.7777125.XyZ&type=ws&alpn=http%2F1.1&fragment=10-100%2C50-200%2Ctlshello&mc=1&padsize=50-200&path=%2FtSROScnWofV7ia41dH&host=ccCVGT.7777125.XyZ&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@hhnm.7777128.xyz:443?hiddify=1&sni=hhnm.7777128.xyz&type=ws&alpn=http%2F1.1&path=%2FtSROScnWofV7ia41dH&host=hhnm.7777128.xyz&fp=chrome&headerType=none&allowInsecure=true&insecure=true&security=tls&headers=%7B%27User-Agent%27%3A%20%27Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F120.0.0.0%20Safari%2F537.36%27%2C%20%27Pragma%27%3A%20%27no-cache%27%7D#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@eett.taiwan2026.indevs.in:443?security=tls&sni=eett.taiwan2026.indevs.in&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=eett.taiwan2026.indevs.in&path=%2FcSIyXrtyqeOFepMpfNkCk8#***✅***@AR14N24btrojan://fc3704d6-8e5e-443a-bd5b-20ec7cfbe990@yyyyu.taiwan2026.indevs.in:443?security=tls&sni=yyyyu.taiwan2026.indevs.in&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=yyyyu.taiwan2026.indevs.in&path=%2FcSIyXrtyqeOFepMpfNkCk8#***✅***@AR14N24bvless://0c6b96bc-5e3a-4500-8497-6dead1965609@60a22220-8a8f-46e7-82ba-76d42df68c34.661.qzz.io:443?encryption=none&security=tls&sni=60a22220-8a8F-46E7-82Ba-76D42df68C34.661.qzz.IO&type=ws&host=60a22220-8a8F-46E7-82Ba-76D42df68C34.661.qzz.IO&path=%2FQMV9N8sI6UlesbbZ1wwDhJ3#***✅***@AR14N24bvless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?path=%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://4a7baca1-8048-4a91-8316-595b36657a54@kkko.iran1912.dpdns.org:443?security=tls&type=ws&path=%2Fv4mECBsrKh5tvsvinsGGg&host=KkKo.irAN1912.DpdnS.OrG&sni=kkkO.IrAn1912.dPdNs.org#***✅***@AR14N24bvless://5196aae7-1479-4f3c-978b-68e74977b509@ttghju.huangshang.site:443?encryption=none&security=tls&sni=ttghju.huangshang.site&insecure=0&allowInsecure=0&type=ws&host=ttghju.huangshang.site&path=%2FvzwyBIUYH4vYIKMBivnR3#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@bbbbbb.taiwan2028.indevs.in:443?encryption=none&security=tls&sni=bBBbBB.taiWan2028.indeVs.iN&insecure=0&allowInsecure=0&type=ws&host=BBBbBb.tAIWAn2028.iNDevS.IN&path=%2Fs2VHv9VUVzg35A6ueyyZnWd#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmk.288288.shop:443?encryption=none&security=tls&sni=mMMK.288288.shop&insecure=0&allowInsecure=0&type=ws&host=MMmK.288288.SHop&path=%2Fs2VHv9VUVzg35A6ueyyZnWd#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:50:40 UTC
+`trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.130.21:3423?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@hhju8.huangshang.site:443?security=tls&sni=hhju8.huangshang.site&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=hhju8.huangshang.site&path=/ks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@k09.999864.xyz:443?security=tls&sni=k09.999864.xyz&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=k09.999864.xyz&path=/ks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@vbgh.8900604.xyz:443?security=tls&sni=vbgh.8900604.xyz&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=vbgh.8900604.xyz&path=/ks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443?security=tls&sni=zzs.222856.xyz&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=zzs.222856.xyz&path=/ks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24bvless://00640161-0300-45ae-a08c-6b08476bbe7d@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=/154.19.242.205=443&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://13ad36e6-c091-43f2-8505-47d868dd544c@ghj.ae1autumn.cc.cd:80?fp=chrome&host=ghj.ae1autumn.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4&sni=ghj.ae1autumn.cc.cd&type=ws#***✅***@AR14N24bvless://1ef3cee6-4b96-424b-9b46-fdf01927581d@005.inc-electrocell-001-005-803.workers.dev:443?encryption=none&security=tls&sni=005.inc-ELECtRoCELL-001-005-803.WORKers.dEV&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=005.inc-electrocell-001-005-803.workers.dev&path=/eyJqdW5rIjoidXJzTllJVlpXVWZUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#***✅***@AR14N24bvless://472b07d2-31e4-41ab-ae47-48914d9b7900@termux.net:443?path=%2FNet3rffws&security=tls&encryption=none&insecure=0&host=fi.unoix.io&fp=chrome&type=ws&allowInsecure=0&sni=fi.unoix.io#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@ty7.8900604.xyz:443?fp=chrome&host=ty7.8900604.xyz&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5&security=tls&sni=ty7.8900604.xyz&type=ws#***✅***@AR14N24bvless://5bc6496f-0d4b-4177-bd96-1a55111a0cb8@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=/103.86.44.120=65432&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://60425266-94e9-485f-9339-aa2661db8aab@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F158.51.125.177%3D8443&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://6394c17f-6933-4229-8739-b9cac97b3465@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=/185.186.245.40=81&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://6e08584a-0954-4366-9995-5ff89a2b6fac@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=/91.192.81.154=2053&sni=afrcloud22.mmv.kr#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:41:52 UTC
+`trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbgtr.7777198.xyz:443?security=tls&sni=bBGtR.7777198.XYz&alpn=http%2f1.1&type=ws&host=BbGTr.7777198.Xyz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@nnnmjkui.932.pp.ua:443?security=tls&sni=nNNMjKui.932.pp.Ua&alpn=http%2f1.1&type=ws&host=nnnMjKui.932.pP.Ua&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbnhjm.890634.xyz:443?security=tls&sni=vvbNHJm.890634.XYz&alpn=http%2f1.1&type=ws&host=VvBnHjm.890634.XyZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&type=ws&path=%2FOkVaxoknnGWI7hLRpJ1&Host=ttt6.006660666.xyz#***✅***@AR14N24btrojan://8r%3C%5B9%27l6hAO%238ZQi@koma-yt.pages.dev:8443/?type=ws&host=koma-yt.pages.dev&path=%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560&security=tls&sni=Koma-YT.PAGeS.Dev&alpn=h2%2Chttp%2F1.1&fp=randomized#***✅***@AR14N24btrojan://b020865b-7404-4894-ba65-a7414b10cda3@uu.852224.xyz:443?security=tls&sni=uu.852224.xyz&type=ws&path=%2FiEIlQmeiFdOPjqSc7fzeJr&Host=uu.852224.xyz#***✅***@AR14N24bvless://12d369a8-a667-413b-b08a-a2aba9766f06@us01-gmn-vlr02.tcp-reset-club.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&sid=d3b13f31#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@best.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#***✅***@AR14N24bvless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@yout1.axinode.sbs:22310?security=reality&encryption=none&pbk=Kfqxu87PVBYAQN3N2ADo35S6utTucz8sMH37vcw5cQ0&headerType=none&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=apple.com#***✅***@AR14N24bvless://4d3b4e0b-9fa4-4bc7-a0fd-99a8d34a12e2@deu153.worldunbarred.org:8443?path=/ws-vless/&security=tls&alpn=h2&encryption=none&insecure=0&host=deu153.worldunbarred.org&type=ws&allowInsecure=0&sni=deu153.worldunbarred.org#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmhu.huangshang.online:443?encryption=none&type=ws&host=MmMhU.HuANGshaNG.ONLiNE&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=MmMhU.HuANGshaNG.ONLiNE#***✅***@AR14N24bvless://5da8ada9-26d0-4711-b67e-db5537fa9814@afrcloud22.mmv.kr:443?encryption=none&security=tls&type=ws&host=afrcloud22.mmv.kr&path=%2F118.34.249.127%3D50001&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=powered-by-surena.configfarsi695fd4636f1c8.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=powered-by-surena.configfarsi695fd4636f1c8.workers.dev#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:41:36 UTC
+`trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@nnmjku.932.pp.ua:443?type=ws&security=tls&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=nnmjku.932.pp.ua&sni=nnmjku.932.pp.ua&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?security=tls&sni=BBbhNY.191268.xYz&alpn=http%2f1.1&type=ws&host=BBBHNY.191268.XyZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnhmjk.191262.xyz:443?security=tls&sni=BbNHmJK.191262.xYZ&alpn=http%2f1.1&type=ws&host=BbNhMjk.191262.xYz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnmj.191268.xyz:443?security=tls&sni=bbNmj.191268.xYZ&alpn=http%2f1.1&type=ws&host=bbnmJ.191268.xYz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbvfdr.191262.xyz:443?security=tls&sni=BBvFdR.191262.xyZ&alpn=http%2f1.1&type=ws&host=BBVFDr.191262.xyZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@cccvbgt6.890634.xyz:443?security=tls&sni=cCcVBGt6.890634.xyz&alpn=http%2f1.1&type=ws&host=CcCVbgT6.890634.XYz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@dcvf.7777198.xyz:443?security=tls&sni=DcVF.7777198.xyZ&alpn=http%2f1.1&type=ws&host=DCVF.7777198.xyz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffbgh.huangshang.online:443?security=tls&sni=FfFBGh.hUAngshanG.onLinE&alpn=http%2f1.1&type=ws&host=fFFbGh.hUAngSHanG.onLINE&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffvbg.890634.xyz:443?security=tls&sni=fffVBg.890634.xYZ&alpn=http%2f1.1&type=ws&host=ffFVBg.890634.xYZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?security=tls&sni=ggBNh.7777198.Xyz&alpn=http%2f1.1&type=ws&host=GGBNh.7777198.xyZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnhy.191262.xyz:443?security=tls&sni=GgBNhY.191262.xyz&alpn=http%2f1.1&type=ws&host=GGbNhy.191262.xYZ&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?security=tls&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%2f1.1&type=ws&host=GGgnhHY.huaNGSHang.ONLInE&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@nnmjki9.191262.xyz:443?security=tls&sni=nnMJkI9.191262.xYz&alpn=http%2f1.1&type=ws&host=nnMJKi9.191262.xYz&path=%2fr862SIwqItkD5XgXAL#***✅***@AR14N24btrojan://795ef99b-3260-4d18-ac98-5130bba9f168@nji9768.006660666.xyz:443?security=tls&sni=nji9768.006660666.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=nji9768.006660666.xyz&path=%2FOkVaxoknnGWI7hLRpJ1#***✅***@AR14N24btrojan://795ef99b-3260-4d18-ac98-5130bba9f168@ttt6.006660666.xyz:443?security=tls&sni=ttt6.006660666.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ttt6.006660666.xyz&path=%2FOkVaxoknnGWI7hLRpJ1#***✅***@AR14N24btrojan://b020865b-7404-4894-ba65-a7414b10cda3@uu.852224.xyz:443?security=tls&sni=uu.852224.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=uu.852224.xyz&path=%2FiEIlQmeiFdOPjqSc7fzeJr#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?security=tls&sni=CccvGT.7777125.XyZ&alpn=http%2f1.1&type=ws&host=ccCVGT.7777125.XyZ&path=%2ftSROScnWofV7ia41dH#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?security=tls&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%2f1.1&type=ws&host=iiiiii9.HuANGShANg.uS.ci&path=%2ftSROScnWofV7ia41dH#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:41:16 UTC
+`trojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@bbbnmjki.932.pp.ua:443?type=ws&security=tls&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=bbbnmjki.932.pp.ua&sni=bbbnmjki.932.pp.ua&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@hhhnju.taipei102.indevs.in:443?type=ws&security=tls&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=hhhnju.taipei102.indevs.in&sni=hhhnju.taipei102.indevs.in&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@hhhnmjki.932.pp.ua:443?type=ws&security=tls&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=hhhnmjki.932.pp.ua&sni=hhhnmjki.932.pp.ua&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@nnnmjku.932.pp.ua:443?type=ws&security=tls&path=%2F2cO5FH0xUmT9oqnbBhmKb8nOkg&host=nnnmjku.932.pp.ua&sni=nnnmjku.932.pp.ua&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@cccvbgt6.890634.xyz:443?type=ws&security=tls&path=%2Fr862SIwqItkD5XgXAL&host=CcCVbgT6.890634.XYz&sni=cCcVBGt6.890634.xyz&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@ggbnh.7777198.xyz:443?type=ws&security=tls&path=%2Fr862SIwqItkD5XgXAL&host=GGBNh.7777198.xyZ&sni=ggBNh.7777198.Xyz&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://5cccb4da-8aee-4b01-be84-2056265e52dc@mmmhu.huangshang.online:443?type=ws&security=tls&path=%2FhV829BTVzg35A6ueyyZnWd&host=mmmhu.HUangshaNG.OnLinE&sni=mMMhU.HUangSHANG.onlIne&fp=random&allowInsecure=1#***✅***@AR14N24bvless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F131.186.26.129%3D30443#***✅***@AR14N24bvless://2215657e-2af4-405f-b770-4e61b298d5b8@y.890601.pp.ua:443?&security=tls&fp=chrome&sni=y.890601.pp.ua&type=ws&headerType=none&host=y.890601.pp.ua&path=%2FN4XLnUcJW0HJfbCLo#***✅***@AR14N24bvless://5c824317-ac50-49a5-8d32-a0ccb890fb3d@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F118.91.78.76%3D50001#***✅***@AR14N24bvless://5cccb4da-8aee-4b01-be84-2056265e52dc@nnnmj.890634.xyz:443?encryption=none&type=ws&host=nNnmj.890634.xyZ&path=%2Fs2VHv9VUVzg35A6ueyyZnWd&security=tls&sni=nnnMj.890634.XYz#***✅***@AR14N24bvless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F167.179.110.68%3D8443#***✅***@AR14N24bvless://7dbc427e-1afd-4f76-b916-f7349e8131ce@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F44.217.235.114%3D8443#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:41:01 UTC
+`trojan://919f16d2-ae91-4589-8bb2-a672890e3537@cdn.tzpro.xyz:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cf.090227.xyz:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cf.0sm.com:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cf.zhetengsha.eu.org:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cloudflare-ip.mofashi.ltd:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cloudflare.182682.xyz:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@cnamefuckxxs.yuchen.icu:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@freeyx.cloudflare88.eu.org:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@saas.sin.fan:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@xn--b6gac.eu.org:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24btrojan://919f16d2-ae91-4589-8bb2-a672890e3537@z.linglingqi.dpdns.org:443?security=tls&sni=z.linglingqi.dpdns.org&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.joeyblog.eu.org%2Fjoeyblog&type=ws&host=z.linglingqi.dpdns.org&path=%2F%3Fed%3D2048#***✅***@AR14N24bvless://0e4e3a71-e712-49c6-a6a5-0b457764746e@afrcloud22.mmv.kr:443?encryption=none&security=tls&sni=afrcloud22.mmv.kr&type=ws&host=afrcloud22.mmv.kr&path=%2F3.86.231.180%3D443#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:40:45 UTC
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#***✅***@AR14N24btrojan://%3AU%5D2hAN7Y%5BKa0Eb_@www.speedtest.net:8443?path=%2Ftre6QQRE1ue6YL7k30%2FNzIuMTMuMTIyLjEzNw%3D%3D%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=test-63w.pages.dev&fp=randomized&type=ws&allowInsecure=0&sni=TEst-63W.PaGEs.deV#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BBBHNY.191268.XyZ&sni=BBbhNY.191268.xYz&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnmj.191268.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=bbnmJ.191268.xYz&sni=bbNmj.191268.xYZ&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@dcvf.7777198.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=DCVF.7777198.xyz&sni=DcVF.7777198.xyZ&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@fffvbg.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=ffFVBg.890634.xYZ&sni=fffVBg.890634.xYZ&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24bvless://0910a0ab-bbf3-450e-a91a-a3dfb85ee33a@afrcloud22.mmv.kr:443?path=%2F&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?path=%2Fws-vless%2F&security=tls&alpn=h2&encryption=none&host=rus3.worldunlocked.org&type=ws&sni=rus3.worldunlocked.org#***✅***@AR14N24bvless://2215657e-2af4-405f-b770-4e61b298d5b8@h.7282728.xyz:443?encryption=none&type=ws&host=h.7282728.xyz&path=%2FN4XLnUcJW0HJfbCLo&security=tls#***✅***@AR14N24bvless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#***✅***@AR14N24bvless://532a9115-aee7-4d39-9638-1e5146de075b@muddy-math-c1fc.tmpnriqueau89.workers.dev:443?path=%2Fjs%2FcHlpcC55Z2tray5kcGRucy5vcmc%3D%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=muddy-math-c1fc.tmpnriqueau89.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=muddy-math-c1fc.tmpnriqueau89.workers.dev#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@pol.fasti.win:443?type=tcp&security=reality&sni=pl.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@chatgpt.com:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://72fc1188-430f-4a3c-a64e-af9023819899@002.w4wl4v1cptky.workers.dev:443?encryption=none&security=tls&sni=002.w4WL4V1cpTKY.wOrKers.dev&fp=chrome&alpn=http/1.1&insecure=0&allowInsecure=0&type=ws&host=002.w4wl4v1cptky.workers.dev&path=/eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:32:21 UTC
+`trojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbnhmjk.191262.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=BbNhMjk.191262.xYz&sni=BbNHmJK.191262.xYZ&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@gggnhhy.huangshang.online:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=GGgnhHY.huaNGSHang.ONLInE&sni=GGGNHHY.huanGshANg.ONlinE&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@vvbnhjm.890634.xyz:443?type=ws&security=tls&path=%252fr862SIwqItkD5XgXAL&host=VvBnHjm.890634.XyZ&sni=vvbNHJm.890634.XYz&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://4c205c81-5694-43fe-a287-af563a2ebc05@bhy.89060004.xyz:443?security=tls&sni=bhy.89060004.xyz&alpn=http%2F1.1&type=ws&host=bhy.89060004.xyz&path=%2FP23lDbkARo4gds7cXpDB5nO5#***✅***@AR14N24btrojan://4c205c81-5694-43fe-a287-af563a2ebc05@kk9.89060004.xyz:443?security=tls&sni=kk9.89060004.xyz&alpn=http%2F1.1&type=ws&host=kk9.89060004.xyz&path=%2FP23lDbkARo4gds7cXpDB5nO5#***✅***@AR14N24btrojan://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:443?security=tls&sni=nhju.ae1autumn.indevs.in&alpn=http%2F1.1&type=ws&host=nhju.ae1autumn.indevs.in&path=%2FP23lDbkARo4gds7cXpDB5nO5#***✅***@AR14N24btrojan://T9BpZIVMNv@sweden.vmaxpanel.com:8443?type=ws&security=tls&path=%252famd&sni=sweden.vmaxpanel.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@cccvgt.7777125.xyz:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=ccCVGT.7777125.XyZ&sni=CccvGT.7777125.XyZ&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?type=ws&security=tls&path=%252ftSROScnWofV7ia41dH&host=iiiiii9.HuANGShANg.uS.ci&sni=iiiiiI9.hUANgShaNG.uS.Ci&alpn=http%25252f1.1&allowInsecure=1#***✅***@AR14N24btrojan://trojan@22b.net:2087?type=ws&security=tls&path=%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529&sni=store.timimi.dpdns.org&allowInsecure=1#***✅***@AR14N24bvless://2b519523-4ed0-4a22-95f1-d6d495278a7c@sps1.sbs:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=dropbox.com#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@fi.fasti.win:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=F294G-iRQHISvxNNtUtF2arP3d6pzigwfVcY2jqXcSc&sid=2a8a7bb6036e8461&sni=fi.fasti.win#***✅***@AR14N24bvless://6991c683-9978-0f82-ef9d-fb9c8a053b34@saas.sin.fan:443?&security=tls&fp=random&alpn=h3&sni=d657fa2a.lfree.ccwu.cc&type=ws&headerType=none&host=d657fa2a.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:32:13 UTC
+`ss://YWVzLTI1Ni1nY206bUZkZm9DMUtkV1VWTHFCdkNXZ2xqZw@ss.sps1.sbs:20#***✅***@AR14N24bss://YWVzLTI1Ni1nY206bUZkZm9DMUtkV1VWTHFCdkNXZ2xqZw@ss.sps1.sbs:20?#***✅***@AR14N24btrojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://humanity@v1.dabache.top:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#***✅***@AR14N24bvless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?security=tls&type=tcp&alpn=h2&sni=b12a6eea4807ca4e.1323.world&fp=chrome&encryption=none#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@r4.bb0.ccwu.cc:443?security=tls&type=ws&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5&host=r4.bb0.ccwu.cc&sni=r4.bb0.ccwu.cc&fp=chrome#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@u.89060004.xyz:443?&security=tls&fp=chrome&sni=u.89060004.xyz&type=ws&headerType=none&host=u.89060004.xyz&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@uu9.ae1.us.ci:80?&fp=chrome&sni=uu9.ae1.us.ci&type=ws&headerType=none&host=uu9.ae1.us.ci&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@gb.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=uk.fasti.win&path=&host=#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@us.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=I2ynp6JbtPNr4IpZoMK3iXbgBBzT4n-MKet-Ao-1RSQ&sid=ee71514cac709180&sni=us.fasti.win&path=&host=#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:31:24 UTC
+`trojan://1338f666-2fcc-4538-bc29-1ebf89624383@u8.ok8.ccwu.cc:443?security=tls&sni=u8.ok8.ccwu.cc&alpn=http%2F1.1&type=ws&host=u8.ok8.ccwu.cc&path=%2FXCLcnSashhgSVE3HOw1VI85y#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@a4rt.222560.xyz:443?alpn=h2&security=tls&serviceName=ks4McWjhV7bw8pnHc7y1ED50c&sni=a4rt.222560.xyz&type=grpc#***✅***@AR14N24bvless://128a854c-13ab-472e-b418-139869e82df6@telegram.vpnazadie.store:443?encryption=none&security=tls&sni=telegram.vpnazadie.store&insecure=1&allowInsecure=1&type=ws&host=vpnazadie.store&path=/vless-tls#***✅***@AR14N24bvless://128a854c-13ab-472e-b418-139869e82df6@telegram.vpnazadie.store:80?encryption=none&security=none&type=ws&host=vpnazadie.store&path=/vless-ntls#***✅***@AR14N24bvless://12d75b7d-8fdf-4785-8d62-d836854e7e63@chatgpt.com:2052?path=%2F%3Fed&security=none&encryption=none&host=parking-nfchbwa1-v2.parking-1ab.workers.dev&type=ws#***✅***@AR14N24bvless://2b519523-4ed0-4a22-95f1-d6d495278a7c@ss.sps1.sbs:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=dropbox.com&path=&host=#***✅***@AR14N24bvless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@telegram.vpnazadie.store:443?encryption=none&security=tls&sni=telegram.vpnazadie.store&insecure=1&allowInsecure=1&type=ws&host=vpnazadie.store&path=/vless-tls#***✅***@AR14N24bvless://425ef0c5-4e79-4aa5-bf9e-b847a0f73601@telegram.vpnazadie.store:80?encryption=none&security=none&type=ws&host=vpnazadie.store&path=/vless-ntls#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@desrv.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=THd83pRAiz68QKKNCzCdj3hvVq9Wy7NIFeIk1WjRJ1c&sid=15cdd4ff88310cf0&sni=desrv.fasti.win&path=&host=#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@kz.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rmjxUM7tGXK1tCx9DN6LujbEflBHixsg8oTsVrdTrDM&sid=a28842ab2911096b&sni=kz.fasti.win&path=&host=#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@rus.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=rus.fasti.win&path=&host=#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:31:08 UTC
+`trojan://1338f666-2fcc-4538-bc29-1ebf89624383@ghj.ok7.ccwu.cc:443?security=tls&sni=ghj.ok7.ccwu.cc&alpn=http%2F1.1&type=ws&host=ghj.ok7.ccwu.cc&path=%2FXCLcnSashhgSVE3HOw1VI85y#***✅***@AR14N24btrojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?security=tls&sni=ilop.uk2033.ccwu.cc&alpn=http%2F1.1&type=ws&host=ilop.uk2033.ccwu.cc&path=%2FXCLcnSashhgSVE3HOw1VI85y#***✅***@AR14N24btrojan://c52d2de2-fc6d-490c-8421-132f87615736@bgty6.852224.xyz:443?security=tls&sni=bgty6.852224.xyz&alpn=http%2F1.1&type=ws&host=bgty6.852224.xyz&path=%2FPDbJ6Qn4xImwtg6PusRbe#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@bgh.333756.xyz:443?security=tls&sni=bgh.333756.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bgh.333756.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@jmk.8900604.xyz:443?security=tls&sni=jmk.8900604.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=jmk.8900604.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@ki9.666470.xyz:443?security=tls&sni=ki9.666470.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ki9.666470.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@ko9.999864.xyz:443?security=tls&sni=ko9.999864.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=ko9.999864.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24bvless://13ad36e6-c091-43f2-8505-47d868dd544c@cdfr.222560.xyz:443?encryption=none&security=tls&sni=cdfr.222560.xyz&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=cdfr.222560.xyz&path=%2FXR8So0uqFVa3vY9ZbxgW4#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@gt6.ae1.us.ci:80?encryption=none&security=none&sni=gt6.ae1.us.ci&fp=chrome&type=ws&host=gt6.ae1.us.ci&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@rt.ae1.us.ci:80?encryption=none&security=none&sni=rt.ae1.us.ci&type=ws&host=rt.ae1.us.ci&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:30:58 UTC
+`trojan://c558328b-eb46-424c-b9e0-574770f0b072@bju.89890604.xyz:443?security=tls&sni=bju.89890604.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bju.89890604.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@cdfr.89890604.xyz:443?security=tls&sni=cdfr.89890604.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=cdfr.89890604.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@hhju8.huangshang.site:443?security=tls&sni=hhju8.huangshang.site&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=hhju8.huangshang.site&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@k09.999864.xyz:443?security=tls&sni=k09.999864.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=k09.999864.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@rft5.xx9.ccwu.cc:443?security=tls&sni=rft5.xx9.ccwu.cc&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=rft5.xx9.ccwu.cc&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@vbgh.8900604.xyz:443?security=tls&sni=vbgh.8900604.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=vbgh.8900604.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.222856.xyz:443?security=tls&sni=zzs.222856.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=zzs.222856.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24bvless://13ad36e6-c091-43f2-8505-47d868dd544c@dr.ae1autumn.dpdns.org:80?encryption=none&security=none&sni=dr.ae1autumn.dpdns.org&fp=chrome&type=ws&host=dr.ae1autumn.dpdns.org&path=%2FXR8So0uqFVa3vY9ZbxgW4#***✅***@AR14N24bvless://13ad36e6-c091-43f2-8505-47d868dd544c@ghju.apocalypse.cc.cd:80?encryption=none&security=none&sni=ghju.apocalypse.cc.cd&fp=chrome&type=ws&host=ghju.apocalypse.cc.cd&path=%2FXR8So0uqFVa3vY9ZbxgW4#***✅***@AR14N24bvless://4c205c81-5694-43fe-a287-af563a2ebc05@nhju.ae1autumn.indevs.in:80?encryption=none&security=none&sni=nhju.ae1autumn.indevs.in&fp=chrome&type=ws&host=nhju.ae1autumn.indevs.in&path=%2FAbRz6tBwBWo4gds7cXpDB5nO5#***✅***@AR14N24bvless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@kli.988988.shop:443?encryption=none&security=tls&sni=kli.988988.shop&insecure=0&allowInsecure=0&type=ws&host=kli.988988.shop&path=%2FUzlFfVDyqJL3rI4BWzwNzcYz#***✅***@AR14N24bvless://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@vbhj.dddct.us.ci:443?encryption=none&security=tls&sni=vbhj.dddct.us.ci&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=vbhj.dddct.us.ci&path=%2FUzlFfVDyqJL3rI4BWzwNzcYz#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
+
+### 🕒 2026-02-17 20:30:44 UTC
+`trojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@9io.988988.shop:443?security=tls&sni=9io.988988.shop&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=9io.988988.shop&path=%2F4e633j8uZI4BWzwNzcYz#***✅***@AR14N24btrojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@bmk.988988.shop:443?security=tls&sni=bmk.988988.shop&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bmk.988988.shop&path=%2F4e633j8uZI4BWzwNzcYz#***✅***@AR14N24btrojan://4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce@bnhy7.986986.shop:443?security=tls&sni=bnhy7.986986.shop&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bnhy7.986986.shop&path=%2F4e633j8uZI4BWzwNzcYz#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@bmk.xx8.ccwu.cc:443?security=tls&sni=bmk.xx8.ccwu.cc&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=bmk.xx8.ccwu.cc&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24btrojan://c558328b-eb46-424c-b9e0-574770f0b072@zzs.666461.xyz:443?security=tls&sni=zzs.666461.xyz&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=zzs.666461.xyz&path=%2Fks4McWjhV7bXNC0BXGtJ#***✅***@AR14N24bvless://4d77a5d2-51ed-4494-b38a-87f340591db6@est.pink-service.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&sni=www.google.com&path=&host=#***✅***@AR14N24bvless://4d77a5d2-51ed-4494-b38a-87f340591db6@nld.pink-service.ru:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&sid=86b80f1e713a33ad&sni=www.google.com&path=&host=#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.195.40.121:2053?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.41:2053?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.63.147:2053?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@bestcf.030101.xyz:443?encryption=none&security=tls&sni=a926adb5.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=a926adb5.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@mfa.gov.ua:443?encryption=none&security=tls&sni=a926adb5.lfree.ccwu.cc&insecure=0&allowInsecure=0&type=ws&host=a926adb5.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#***✅***@AR14N24b`
+[***🤖***](https://t.me/AR14N24B?boost)
+ 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ 
+[#proxy](?q=%23proxy)
+ 
+[#v2ray](?q=%23v2ray)
+[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
+[***🚀*** بوست](https://t.me/AR14N24B?boost)
+ | 
+[***💬*** دایرکت](https://t.me/AR14N24b?direct)
+ | 
+[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
+ 
+[@AR14N24B](https://t.me/AR14N24B)
+
+---
 
 ### 🕒 2026-02-17 20:22:36 UTC
 `vless://6202b230-417c-4d8e-b624-0f71afa9c75d@116.203.252.143:443?path=/?ed=2560&Telegram%F0%9F%8E%96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.190.207.55:443?path=/?ed=2560&Telegram%F0%9F%8E%96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@164.92.234.61:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.104.143.110:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.164.205.110:8443?type=ws&encryption=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&headerType=none&quicSecurity=none&serviceName=&security=tls&fp=chrome&insecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.154.213.217:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.133.246:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.101.175.103:443?path=/?ed=2560&Telegram%F0%9F%8E%96@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.61.47.9:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.149.222.113:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%8E%96%40AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24b`
@@ -2585,1551 +3945,6 @@
 
 ### 🕒 2026-02-17 16:10:57 UTC
 `vless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@ru.jinnie.lol:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0-0a99RLOG_2OW4j-e-UlzlMhnLubb9Gs6Ykd_bnjCM&sid=e8b1ac21a7685b9c&sni=ru.jinnie.lol#***✅***@AR14N24bvless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@104.17.147.22:80?path=/%3Fed%3D2560&%3Bsecurity=none&%3Bencryption=none&%3Bhost=redfree8mahsang6.redfree8.ir&%3Btype=ws#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@ae.fasti.win:971?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=ae.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@fr.fasti.win:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=CuLjZaOWwaC_didE-f8CZoUK0mGH75iq-0u1St_wjUU&sid=67f8515f3fa23d2f&sni=fr.fasti.win&path=&host=#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@hk.fasti.win:852?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=hk.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@id.fasti.win:91?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=id.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@il.fasti.win:972?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=il.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@jp.fasti.win:81?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc&sni=jp.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@nd.fasti.win:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&sni=nd.fasti.win#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@ru.sfasti.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J_jQq9-SWQZjiMhuPaFV7V2MaJ4pkKgVRaz7x6tmvy8&sid=16895459a2c7768d&sni=ru.sfasti.ru#***✅***@AR14N24bvless://54a41073-e798-488b-af16-28533e612ec1@tr.fasti.win:443?type=tcp&security=reality&sni=tr.fasti.win&fp=chrome&flow=xtls-rprx-vision&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&sid=12393b8b177a063d#***✅***@AR14N24bvless://54ef6124-3a61-4a44-9901-78fadc6c59d9@144.31.17.116:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=iAWzXE2vetDOtZePY7-Y64p5AY7h35eE3YnVSZM8LUw&sni=sun6-22.userapi.com&sid=760f7a4c46859978#***✅***@AR14N24bvless://54fd9404-923c-45b4-88f8-5f6097eb0829@109.172.54.240:59398?security=reality&encryption=none&pbk=b8NtQQVV_K7uwM3aetyCznK4DHk3rb_ngogf8-Ro3FI&headerType=none&fp=chrome&spx=/&type=tcp&sni=yahoo.com&sid=e5d5a211#***✅***@AR14N24bvless://5570ff67-ff8b-4abf-88ca-682c7f59d20b@144.31.100.120:443?encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&security=reality&sid=47e4c3980f872e68&sni=www.google.com&type=tcp#***✅***@AR14N24bvless://55a1b8e8-abc4-469b-c4f8-1bdc4f17d944@37.202.244.227:54745?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://56836323-a082-419d-af18-1343f31ea90f@104.17.147.22:443?path=/?ed=2560&security=tls&encryption=none&alpn=h3&host=q.dioxv004.workers.dev&fp=chrome&type=ws&sni=q.dioxv004.workers.dev#***✅***@AR14N24bvless://56da6a1e-b5b6-476e-92ed-07ee3a09d4de@f4.hamrahconf.ir:2086/?type=httpupgrade&encryption=none&flow=&host=hm1111.hamrahconfig.ir&path=/#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:56 UTC
-`vless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.85.224.17:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com&path=&host=#***✅***@AR14N24bvless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.85.224.18:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=be0ce047&sni=chat.deepseek.com#***✅***@AR14N24bvless://500cddf8-0327-47c7-957d-af37a4fd20aa@51.250.51.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9X5ieCMClQD70bS0HfiuVaN50wb_T_I2pPytr3TMsi4&security=reality&sid=43e7c2c189df&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://505997ba-cbdb-466e-a3ad-69c6a4553b38@151.101.25.242:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=pizzabama.global.ssl.fastly.net&type=ws#***✅***@AR14N24bvless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@85.192.32.30:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&security=reality&sid=f69d7af2d5fc5e0c&sni=eh.vk.com&type=tcp#***✅***@AR14N24bvless://50f73677-030f-43e2-891c-4617eea72ea2@144.31.170.239:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&security=reality&sni=bunny.net&type=tcp#***✅***@AR14N24bvless://50f73677-030f-43e2-891c-4617eea72ea2@ee.skytunnel.pw:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=CNkAFTW9giSVXiW68A9OqlSKy9HJ0pLmgEL4X4PzrHQ&sid=&sni=yandex.ru&path=&host=#***✅***@AR14N24bvless://50f73677-030f-43e2-891c-4617eea72ea2@ee2.skytunnel.pw:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&sid=&sni=bunny.net&path=&host=#***✅***@AR14N24bvless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@104.18.47.154:2096?path=%2F&security=tls&encryption=none&insecure=0&host=weathered-shape-05b5.xonas99109-5e4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=weathered-shape-05b5.xonas99109-5e4.workers.dev#***✅***@AR14N24bvless://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@weathered-shape-05b5.xonas99109-5e4.workers.dev:443?path=%2F&security=tls&encryption=none&insecure=0&host=weathered-shape-05b5.xonas99109-5e4.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=weathered-shape-05b5.xonas99109-5e4.workers.dev#***✅***@AR14N24bvless://525e49c0-8396-4dac-bb2d-36412723e5cb@87.239.110.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://525e49c0-8396-4dac-bb2d-36412723e5cb@89.169.162.214:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://525e49c0-8396-4dac-bb2d-36412723e5cb@90.156.150.134:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=c6ef72e4635d15a5&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://5341f83e-634d-4920-9391-a6ffadd15276@reza.alphanet01.com:2098?path=%2FPULAVPN&security=none&encryption=none&host=play.google.com&type=ws#***✅***@AR14N24bvless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?security=reality&encryption=none&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=1a24af87#***✅***@AR14N24bvless://53d37ac8-efc2-492c-b6c6-a864dfebbbff@finland.jinnie.lol:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=0-0a99RLOG_2OW4j-e-UlzlMhnLubb9Gs6Ykd_bnjCM&sid=e8b1ac21a7685b9c&sni=finland.jinnie.lol#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:56 UTC
-`vless://4b0d7c80-9aa3-43c3-9922-d5ce6f33236a@partners.dissertationhelpspecialist.com:2053?mode=gun&security=reality&encryption=none&pbk=Rg_kmzAWcfHm-kp4u3u73sFieCsKmxLBKtY-AKZe-Bc&fp=firefox&spx=%2F&type=grpc&serviceName=SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet-SevenNet&sni=tgju.org&sid=ae85668c#***✅***@AR14N24bvless://4b70c6b7-a40f-4338-9749-2aaf6a6fb912@109.107.161.82:28933?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&sid=c98c3bb0754f37&sni=m.vk.com#***✅***@AR14N24bvless://4bc7d558-1943-44de-bd82-56920bc9383e@free.spectrum.vu:443?security=reality&encryption=none&pbk=qNyuqiky1x0VL88_KzItJpZNQ1DfkSPTBf5BBLJRrnA&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=free.spectrum.vu&sid=28b11f1e725a23ad#***✅***@AR14N24bvless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?encryption=none&security=none&type=ws&host=.....jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store......&path=/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560#***✅***@AR14N24bvless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=.....jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store......&type=ws#***✅***@AR14N24bvless://4cf35798-c624-410b-989c-a477d2e7e171@2373642a861b66122373642a861b6612.nisher.fun:8395?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://4cf35798-c624-410b-989c-a477d2e7e171@a184d37a1c91f0e9a184d37a1c91f0e9.randomziedsd.online:1111?mode=gun&security=none&encryption=none&type=grpc#***✅***@AR14N24bvless://4cf35798-c624-410b-989c-a477d2e7e171@cbf9b5b6d840e0cbcbf9b5b6d840e0cb.nisher.shop:8396?security=none&encryption=none&host=speedtest.net&headerType=none&type=tcp#***✅***@AR14N24bvless://4d666564-0414-439d-ba51-8e8156014abe@eece40082acf744f.fast2.viperping.ir:80?security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://4de25158-61a9-4abf-a653-ef0db0ca99ac@andadeh.digi2020kala.website:39200?security=none&type=tcp%20&encryption=none#***✅***@AR14N24bvless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@77.92.145.245:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4S6qXLdepEjgOeFBIbZmC-4ChOqGgM9l4vEedKw8rVk&sid=d82fb387&sni=www.apple.com#***✅***@AR14N24bvless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@94.139.251.5:7443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI&sid=d82fb387&sni=chat.deepseek.com#***✅***@AR14N24bvless://4ff29b06-3b6c-44c0-892f-4a00cb98d355@95.182.122.242:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=&pbk=YBKQqcPbFlOY4Yw-DUUldDBQ0PZwq9Ergd-YbRHzy2I&sid=&sni=ads.x5.ru&path=&host=#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:55 UTC
-`vless://44dba2c2-929b-44eb-be56-96b2e3ec823b@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f&sni=google.com&spx=/7lAa3EYxgREfoqW#***✅***@AR14N24bvless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=18e4d2d21241&sni=www.microsoft.com#***✅***@AR14N24bvless://46aff486-3138-4021-b1ac-ddb982b1c4c5@osn.takovpn.ru:443?encryption=none&security=reality&sni=google.com&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=47e4c3980f872e68&type=tcp&headerType=none#***✅***@AR14N24bvless://46ba25b9-b374-4c8b-bea3-5551f2cbb639@213.165.60.169:64952?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7K7uJtgXCd-4vNrM0hQ3DQk42IsIKfoKm0aHMKW3CBU&sid=acee6c2e&sni=m.vk.ru#***✅***@AR14N24bvless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@109.120.190.130:443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#***✅***@AR14N24bvless://4742b1aa-d4e1-4994-a344-fa9267e6b9ab@51.250.64.128:8443?security=reality&encryption=none&pbk=92bt1gYq9EAz3SSOtKDrmqnbetNcaStEDicwrFg0_Rc&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=bunny.net#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@84.23.52.70:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=2715592069f36fe7&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://480c278e-1c64-4ddd-9635-2df5e8dafffe@www.speedtest.net:8080?path=%2F%40V_2rayngVpn&security=none&encryption=none&host=xn--047h.iman-v2ray.sbs.&type=ws#***✅***@AR14N24bvless://4821536d-26b8-53a1-8b52-6ba7bbcab5cf@5.129.249.134:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ir.ozone.ru&fp=chrome&pbk=F14RpPKCKo_qPcW7EFVu1M18JsAT8c04O08cIi0Ghg4&sid=ab1cd2&packetEncoding=xudp#***✅***@AR14N24bvless://48ce9313-4913-4100-eedf-bccf3f956dec@cdnjs.com:2082?encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&path=%2F%40mahdi_383ir&security=none&type=ws#***✅***@AR14N24bvless://48ce9313-4913-4100-eedf-bccf3f956dec@cdnjs.com:2082?path=%2F%40mahdi_383ir&security=none&encryption=none&host=kh23h5k47xoocggw85cwt1mkdzi9vad4zoe2kfk.mahdi383ir.website&type=ws#***✅***@AR14N24bvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.49.1:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bvless://490ecb4b-8ee1-4d33-9d6d-b034899a1039@51.250.26.75:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7IOtSp0-n2_uNS5nMO9ywZbn2HibMRGy0KbLad3szXc&security=reality&sid=5e6f7a8b&sni=eh.vk.com&type=tcp#***✅***@AR14N24bvless://4962807b-e723-4273-a9c1-47658f46a0d8@dns1.bustyyetkin.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4SvSS7EqHyV_LDW4vB2f7UIj6x_GXsR3vMnqnaxspHo&sid=645c51cea93d&sni=www.microsoft.com#***✅***@AR14N24bvless://4a6527a3-0214-41f6-8ce8-44f91912d434@fix12.wizard2shop.org:2083?security=tls&type=ws&path=%2F%3Fed%3D2560&host=x1.pishi.lat&sni=x1.pishi.lat&fp=android&encryption=none#***✅***@AR14N24bvless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@45.158.127.66:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&sid=#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:55 UTC
-`vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087/?type=ws&encryption=none&host=gamepc.sorza.ir&path=%2F%3Fed&security=tls&sni=digikala.sorza.ir&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%23Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?security=tls&type=ws&path=%2F&host=gamepc.sorza.ir&sni=digikala.sorza.ir&fp=chrome#***✅***@AR14N24bvless://4225055a-3788-4a92-b770-58c1406781f3@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=87f15845211b&sni=www.techradar.com#***✅***@AR14N24bvless://429a3763-decc-4aa4-93e7-1dcc8065f701@213.165.60.21:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zqK2uIx7zaEDvGbKLX3Rqqt1PYVm8BFBUmS7jK9HF1M&sid=14589e042d902753&sni=rsr.fasssst.ru#***✅***@AR14N24bvless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?mode=auto&path=/Telegram@vpnjeyTelegram@vpnjeyTelegram@vpnjeyTelegram@vpnjey&security=none&encryption=none&host=www.speedtest.net.tax.gov.ir.aparat.com.a.3.jEy.dPdNs.org.&type=xhttp#***✅***@AR14N24bvless://44dba2c2-929b-44eb-be56-96b2e3ec823b@fn.takovpn.ru:443?encryption=none&security=reality&sni=www.vk.com&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d&type=tcp&headerType=none#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:55 UTC
-`vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://40130422-13e9-4eb5-b609-c908560bed3a@95.164.3.121:20089?type=tcp&allowInsecure=1#***✅***@AR14N24bvless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=deu549.worldbypass.org#***✅***@AR14N24bvless://4088cb46-66f8-43fa-bf37-6919cdda7830@31.59.168.88:6443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=EhuKqEHHG-dQPFdT55oVEXAi9-cpGXPcxbpd6lGFoz4&sni=tradingview.com#***✅***@AR14N24bvless://40a7f95c-f861-4f04-9a6e-55d624c7582c@77.83.245.193:11777?security=reality&encryption=none&pbk=Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=a6f7168a7c3e2f77#***✅***@AR14N24bvless://4191549c-9d71-4d30-b9dd-65ffa41b17e7@uk.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=uk.connectv.net#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087/?type=ws&encryption=none&host=gamepc.sorza.ir&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&fp=chrome#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D%23Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@Rocket.silenceux.ir:2087?path=/?ed&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:55 UTC
-`vless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=spb.roblugo.su&sid=bbfb4f7a53e22dd3#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?encryption=none&host=pa3.hamrahconfig.ir.&path=%2F&security=none&type=httpupgrade#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?allowInsecure=0&encryption=none&host=takken.sorza.ir&insecure=0&path=%2F%3Fed%3D2560&security=tls&sni=digikala.sorza.ir&type=ws#***✅***@AR14N24bvless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=takken.sorza.ir&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@162.159.194.86:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@31.43.179.111:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@45.81.58.159:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@94.140.0.0:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o1.rexine.ir:443?security=&encryption=none&host=mir-data-54.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o12.rexine.ir:1717?security=&encryption=none&host=mir-data-63.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o4.rexine.ir:1717?security=&encryption=none&host=mir-data-57.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o9.rexine.ir:443?security=&encryption=none&host=mir-data-37.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.35.45:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=/45.76.183.217=49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@cosmin.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:54 UTC
-`vless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@AZARBAYJAB1.B1.PAGES.DEV:2087?path=%2F%3FTM%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#***✅***@AR14N24bvless://1803f686-5fdb-4f81-bddf-76f950f5680d@god.mizbanbit.com:43815?path=%2F&security=&encryption=none&type=ws#***✅***@AR14N24bvless://1803f686-5fdb-4f81-bddf-76f950f5680d@god.mizbanbit.com:43815?path=%2F&security=none&encryption=none&type=ws#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.139.71:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://19cb01ba-a1af-4cdb-8375-f452bdffd67a@93.126.22.117:59535?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#***✅***@AR14N24bvless://1a9b771a-b717-49c8-9e93-f6b3d508d637@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#***✅***@AR14N24bvless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&fp=randomized&type=ws&sni=cdnuser.wrongguy.ir#***✅***@AR14N24bvless://1eca1f1c-4351-4604-916e-6035cdac022a@kh.de.krakensv.com:1001?security=&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?mode=auto&path=/pabloping&security=&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@213.176.1.45:45471?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@de.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=de.mobileemdad.top#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fans1.mahoshid.ir:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fans2.mahoshid.ir:45471?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&host=fi.mobileemdad.top#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@finland.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=finland.mobileemdad.top#***✅***@AR14N24bvless://304bba11-8e6d-428c-8a5c-d5415aa36f67@icook.hk:2083?mode=multi&security=tls&encryption=none&type=ws&sni=ussss.sjakd.store&path=%2Fuss&host=ussss.sjakd.store#***✅***@AR14N24bvless://304bba11-8e6d-428c-8a5c-d5415aa36f67@ip.sb:8443?mode=multi&security=tls&encryption=none&type=ws&sni=ussss.sjakd.store&path=%2Fuss&host=ussss.sjakd.store#***✅***@AR14N24bvless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@193.151.152.235:6312?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:54 UTC
-`trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#***✅***@AR14N24btrojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099?allowInsecure=0&sni=celestialcorset.crystalhamster.click#***✅***@AR14N24btrojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#***✅***@AR14N24bvless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#***✅***@AR14N24bvless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345/?type=tcp&encryption=none&flow=#***✅***@AR14N24bvless://034cf132-6ea6-416f-ba01-c710e99d6225@s4.iranman.shop:9600?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@213.176.1.45:45471?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@de.mobileemdad.top:42542?security=none&encryption=none&host=de.mobileemdad.top&headerType=http&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@fans2.mahoshid.ir:45471?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://07054d23-4fb3-49e7-bc1f-9aff623304b2@cd.reata.ir:2053?security=tls&type=ws&path=%2F%3Fed%3D2096&host=api18.hupcloud.com&alpn=h2&sni=api18.hupcloud.com&fp=chrome&encryption=none#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FSpringHQ%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL-%40SpringHQ-TEL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=music.parvareshmorghe.ir&fp=chrome&type=ws&allowInsecure=0&sni=music.parvareshmorghe.ir#***✅***@AR14N24bvless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=%2F131.186.26.129%3D30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:54 UTC
-`ss://c6a38b1d-d7fb-40bc-b93d-b4b8965ff469@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#***✅***@AR14N24bss://cecc46f0-55ce-46fb-ec65-b46eb9446e41@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#***✅***@AR14N24bss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=41.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&type=ws#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=56.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&type=ws#***✅***@AR14N24bss://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#***✅***@AR14N24btrojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#***✅***@AR14N24btrojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?path=%2FXCLcnSashhgSVE3HOw1VI85y&security=tls&alpn=http/1.1&host=ilop.uk2033.ccwu.cc&type=ws&sni=ilop.uk2033.ccwu.cc#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?path=%2Fr862SIwqItkD5XgXAL&security=tls&alpn=http/1.1&host=BBBHNY.191268.XyZ&fp=chrome&type=ws&sni=BBbhNY.191268.xYz#***✅***@AR14N24btrojan://5cccb4da-8aee-4b01-be84-2056265e52dc@172.64.80.1:443?path=/hV829BTVzg35A6ueyyZnWd&security=tls&alpn=http/1.1&host=nMk.288288.sHOP&type=ws&sni=nMk.288288.sHOP#***✅***@AR14N24btrojan://T9BpZIVMNv@v1.dabache.top:8443/?type=ws&host=sweden.vmaxpanel.com&path=/amd&security=tls&sni=sweden.vmaxpanel.com&allowInsecure=1#***✅***@AR14N24btrojan://WOeXShhJpL@104.18.71.140:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws&host=09jzus.zdzdzd.xyz&path=%2Fjuzigongyi#***✅***@AR14N24btrojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=/assignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:10:53 UTC
-`ss://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.130.216:80?security=none&type=ws&host=befreewithus.com&path=ws%2F%3Fed%3D2048#***✅***@AR14N24bss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#***✅***@AR14N24bss://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#***✅***@AR14N24bss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bss://51a601e6-b25b-4ae7-83a6-1619ac7e7722@151.101.129.140:80?security=none&type=ws&host=Upload.edu&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#***✅***@AR14N24bss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bss://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80?host=vPnGloBALholanduserland344.com&path=%2F%3Fed%3D1048&security=none&type=ws#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NW84NnVrSDJhRkpNTmFlcHZIUktw@92.118.112.101:9483#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8319#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.112.130.53:8319#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@62.133.63.21:65262#***✅***@AR14N24bss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#***✅***@AR14N24bss://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bss://bd1cbd82-1da8-497f-9eb5-83bf1d8b6de2@104.238.69.142:2053?mode=auto&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=myopen.tencan.ir#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:01 UTC
-`vless://396c904b-4b62-4334-b793-ee25fc0c61cc@172.64.152.23:443?path=%2FeyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=8vmU06cxdz59m931xnREgj8qpnoq1-06.pages.dev&type=ws&allowInsecure=0&sni=pages.dev#***✅***@AR14N24bvless://3994b2e1-d52c-4536-9848-0b63d74560fa@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=071d2947bac1&sni=www.tradingview.com#***✅***@AR14N24bvless://3b983168-3a7e-408f-b5e8-ef0dcda95446@158.160.105.121:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&security=reality&sid=8f222b3475800821&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@162.159.194.86:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@31.43.179.111:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@45.81.58.159:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@94.140.0.0:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=apiads.abresani.com&fp=android&type=ws&allowInsecure=0&sni=apiads.abresani.com#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o1.rexine.ir:443?security=&encryption=none&host=mir-data-54.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o12.rexine.ir:1717?security=&encryption=none&host=mir-data-63.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o4.rexine.ir:1717?security=&encryption=none&host=mir-data-57.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3b9d856c-42e7-4ec2-8716-51d1da3509fc@my-o9.rexine.ir:443?security=&encryption=none&host=mir-data-37.myket.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://3be88fe1-eca4-42a2-a610-432e4b84e8f1@fn.takovpn.ru:443?encryption=none&security=reality&sni=www.vk.com&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d&type=tcp&headerType=none#***✅***@AR14N24bvless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@pl-modx.webedg.net:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#***✅***@AR14N24bvless://3bfecfb4-30bc-45a9-83c8-03548c5df5ac@ipwit1.fastspeedx4.info:443/?type=tcp&encryption=none&security=tls&sni=default.ssl.fastly.net&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-#***✅***@AR14N24bvless://3db7b7d6-696b-4eb3-8d89-7b98e9027766@45.90.12.239:443?type=grpc&security=reality&fp=chrome&pbk=fviTlCtkzpbYhTpHObiVtlgCaAT8LytP9eWUoa6Jfy4&sid=454924648624a595&sni=apple.com&mode=gun&serviceName=xyz#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?encryption=none&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&type=ws#***✅***@AR14N24bvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=/45.76.183.217=49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:01 UTC
-`vless://3321a819-889d-40b3-b8fa-f34208827ef1@38.180.117.83:443?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://3321a819-889d-40b3-b8fa-f34208827ef1@91.84.105.32:8443?encryption=none&security=tls&sni=o00o.snip.qzz.io&insecure=0&allowInsecure=0&type=ws&host=o00o.snip.qzz.io&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#***✅***@AR14N24bvless://33f37465-4589-4753-a585-e8671800886c@45.88.183.133:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=Nmf1dMYtEam2_fIFdX8GhiC-Ti6ftoqYbsEdrmVi5kE&sid=74990351ba039437&sni=apple.com#***✅***@AR14N24bvless://359c867d-1022-4176-8772-26a90dbe96ca@72.56.100.108:443?type=grpc&security=reality&fp=chrome&pbk=ao1YGySWtaWx_x0SqZlH6u0GGjPou5rWndJKoaR1gyc&sid=a081346eb649d24e&sni=moktana.digital&mode=gun&serviceName=xyz#***✅***@AR14N24bvless://36d8b4dc-e38e-4ad9-89be-b5f657d97368@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=97&sni=google.com#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://372634ae-d2b2-4902-a568-179cdf2b16e9@F4.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=pa3.hamrahconfig.ir.&type=httpupgrade#***✅***@AR14N24bvless://373a56eb-aaa9-4a92-b209-503dd916900f@64.188.125.104:443?security=reality&sni=www.vk.com&type=tcp&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&sid=286e2d#***✅***@AR14N24bvless://373a56eb-aaa9-4a92-b209-503dd916900f@fn.takovpn.ru:443?encryption=none&fp=chrome&pbk=3cj5R-TwL-wjkLvwMcVW-DJXbm6xOyIIJEP1cC8AhgI&security=reality&sid=286e2d&sni=www.vk.com&type=tcp#***✅***@AR14N24bvless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://3763c9aa-e41e-4191-8388-3995716cb3de@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://37c79fbe-861a-4725-a8e4-196e2d886e33@dns.dressforida.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sid=adedb70a7409&sni=www.mozilla.org#***✅***@AR14N24bvless://3936939b-48ad-4d04-8ffd-0379828c9f00@51.103.41.211:15308?type=tcp&allowInsecure=1#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:01 UTC
-`vless://309fa273-6579-4cb2-9143-7cad50401eba@135.181.155.97:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040#***✅***@AR14N24bvless://309fa273-6579-4cb2-9143-7cad50401eba@45.12.143.84:8443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&host=telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray,telegram-@mainv2ray&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#***✅***@AR14N24bvless://309fa273-6579-4cb2-9143-7cad50401eba@45.82.245.39:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&type=tcp&headerType=none#***✅***@AR14N24bvless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#***✅***@AR14N24bvless://30a21764-cd85-40df-a981-905703d8edd9@94.183.169.145:443?security=none&type=tcp&encryption=none#***✅***@AR14N24bvless://30c04389-bbcb-431f-9d47-a8ad24406bd4@31.13.208.89:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sid=d49d578f280fd83a&sni=ads.x5.ru&mode=gun&serviceName=xyz#***✅***@AR14N24bvless://30c04389-bbcb-431f-9d47-a8ad24406bd4@51.250.23.190:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI&sni=stats.vk-portal.net&sid=d49d578f280fd83a#***✅***@AR14N24bvless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@185.117.0.111:3050?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@193.151.152.235:6312?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@193.151.152.235:6312?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://30daf8cd-1b3a-455c-af2b-14ec6b21dcb3@91.98.228.205:14560?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://317bc783-340f-453c-afb5-b6bf637c0b23@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=fc994ae7eb10&sni=www.tradingview.com#***✅***@AR14N24bvless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#***✅***@AR14N24bvless://32561144-434f-4752-a731-f35cd191ba4a@spb.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=spb.roblugo.su&sid=bbfb4f7a53e22dd3#***✅***@AR14N24bvless://32609032-c9d6-487c-a1fd-0e4b09661e1d@65.109.229.174:34224?encryption=mlkem768x25519plus.native.0rtt.jg1YgNFyOMWZTDGBfLaD0TC9StfclQx_yyck7YOSry8&security=none&type=grpc&authority=&serviceName=grpc&mode=multi#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:01 UTC
-`vless://26524cce-d514-4014-a426-365fb266a14d@46.8.225.24:2053?encryption=none&security=tls&sni=WangCai.443888.xyz&insecure=0&allowInsecure=0&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@95.182.97.7:8443?security=tls&type=ws&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&host=WangCai.443888.xyz&sni=WangCai.443888.xyz&fp=chrome#***✅***@AR14N24bvless://27c3be7e-c1af-42ce-8bf2-28b13207c919@hield.ru:3443?type=tcp&encryption=none&security=reality&pbk=GxR12dtq_m0q2_Kx1PF7GD9du6zKkCtrVgmaR7ATckY&fp=chrome&sni=google.com&sid=cb938a1c&spx=%2F&flow=xtls-rprx-vision#***✅***@AR14N24bvless://29621ca8-099f-4109-821e-a8c8aee894b6@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=960e1c59701f&sni=www.techradar.com#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@213.176.1.45:45471?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@de.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=de.mobileemdad.top#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fans1.mahoshid.ir:9560?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fans2.mahoshid.ir:45471?encryption=none&security=none&type=tcp&headerType=none#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@fi.mobileemdad.top:42538?encryption=none&security=none&type=tcp&headerType=http&host=fi.mobileemdad.top#***✅***@AR14N24bvless://2b69ea3a-dbf8-4ccf-8eda-c6643fdbf465@finland.mobileemdad.top:42542?encryption=none&security=none&type=tcp&headerType=http&host=finland.mobileemdad.top#***✅***@AR14N24bvless://2b8d3b46-debd-40c8-b530-e3cadd0681cd@89.208.229.214:3443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=yuyU8SzfA2aTReRZ7Irjd0Zlx_TS7O2muPv0-J35OU0&security=reality&sid=1c674da2d573eabc&sni=m.vk.com#***✅***@AR14N24bvless://2b9c6fa8-4b29-454e-9668-4e976bfff86e@osn.takovpn.ru:443?encryption=none&security=reality&sni=www.google.com&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=3d3c3fc7e9&type=tcp&headerType=none#***✅***@AR14N24bvless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=9409f73c2fd7&sni=www.microsoft.com#***✅***@AR14N24bvless://2d97d30a-6dd0-45ed-8962-29ffde4da50e@94.103.88.11:443?type=xhttp&security=tls&fp=safari&sni=diggy.verlosaro.online&path=/brovpn&mode=auto#***✅***@AR14N24bvless://2e1cc3db-f65f-4bb3-a619-01847671f289@reza.alphanet01.com:51349?path=%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C%40PuLaFreeBOT%2C%40PuLaVPN%2C&security=none&encryption=none&host=play.google.com&type=ws#***✅***@AR14N24bvless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#***✅***@AR14N24bvless://303407d5-5051-4ed6-9a21-bc929ae1ad1f@46.225.164.117:443?security=reality&encryption=none&pbk=aZILtbVL4-PP-D5kDN7xOljJTMKTYhL4iYUet-TsTSg&headerType=none&fp=firefox&type=tcp&sni=ads.x5.ru.&sid=ffffffffff#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:00 UTC
-`vless://1ebb7caf-8704-48de-adbb-30b0b821c650@dns.dressforida.monster:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=4YLfHf90V012Oyd2wHbwAXaJNvNUGrKWmatTKc165U8&sni=www.microsoft.com&sid=9eff19e0405a#***✅***@AR14N24bvless://1eca1f1c-4351-4604-916e-6035cdac022a@kh.de.krakensv.com:1001?security=&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://1eea1e0b-6388-491c-b310-5524e8384808@91.228.10.139:23411?security=reality&flow=xtls-rprx-vision&sni=icshstor.site&type=tcp&fp=chrome&pbk=0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE&sid=b69808#***✅***@AR14N24bvless://203235b9-9779-41ad-92f2-917bee5b07fa@best25.bestvbest.ir:43041?type=ws&path=%2F&security=none#***✅***@AR14N24bvless://204d4e45-5866-4b69-bfef-b2fe05ecd632@144.31.2.86:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&sid=cbdfef7f3ede2072&type=tcp&headerType=none#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052/?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@198.62.62.99:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?encryption=none&type=xhttp&mode=auto&host=pablo-n2.digionix.ir&path=/pabloping&security=none#***✅***@AR14N24bvless://22c42cbd-efa7-495c-ba6d-5895e29f66f8@f1.springpaatogh8.store:2087?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bvless://25f0196c-1c02-420b-af72-a736a8e72162@trialdays.store:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sni=trialdays.store#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?encryption=none&type=ws&host=ipv4.yasharteam.com&path=/&security=tls&fp=chrome&sni=ipv4.yasharteam.com&alpn=h2,http/1.1#***✅***@AR14N24bvless://26494b9b-75b2-40a7-b495-07ac2ba3218f@waicore.oblakovpn.org:443?security=reality&encryption=none&pbk=ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=78523b486884cc4d#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@104.17.157.2:2053?security=tls&sni=snippet.fgfw.eu.org&type=ws&host=snippet.fgfw.eu.org&path=%2Fdanfeng&fp=chrome#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@143.20.213.118:8443?&security=tls&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@202.84.53.85:19999?&security=tls&fp=chrome&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://26524cce-d514-4014-a426-365fb266a14d@31.59.120.141:8443?encryption=none&security=tls&sni=WangCai.443888.xyz&insecure=0&allowInsecure=0&type=ws&host=WangCai.443888.xyz&path=%2Fdanfeng%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:00 UTC
-`vless://18f72be7-0651-4037-928b-8a309d685796@103.251.167.74:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@205.237.104.82:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&packetEncoding=xudp#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@fr.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@game.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@nl1.pineappled.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#***✅***@AR14N24bvless://18f72be7-0651-4037-928b-8a309d685796@nl3.pineappled.org:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&sni=google.com#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.139.71:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@45.132.50.7:443?security=reality&flow=xtls-rprx-vision&sni=moonchildermem.com&type=tcp&fp=chrome&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&sid=2a5880f18f98a764#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@46.151.27.56:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SdfbOs3NB8hkOxqfJNboieWIzEjb6tUtnsLICwqUCns&sid=918f2451a9a6f2e7&sni=store.steampowered.com&path=&host=#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@64.188.105.148:443?encryption=none&flow=xtls-rprx-vision&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&security=reality&sid=f1a3d4b6de93aa3a&sni=de.gagtubelol.com&type=tcp#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@77.246.98.116:443?security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SdfbOs3NB8hkOxqfJNboieWIzEjb6tUtnsLICwqUCns&sid=918f2451a9a6f2e7&sni=store.steampowered.com#***✅***@AR14N24bvless://19cb01ba-a1af-4cdb-8375-f452bdffd67a@93.126.22.117:59535?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#***✅***@AR14N24bvless://1@193.151.147.153:1?type=tcp&encryption=none&security=none#***✅***@AR14N24bvless://1a9b771a-b717-49c8-9e93-f6b3d508d637@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#***✅***@AR14N24bvless://1e681d1b-3f6e-4bd4-9fed-b8976bd1b3be@afrcloud22.mmv.kr:443?security=tls&type=ws&path=%2F45.76.192.129%3D24434&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#***✅***@AR14N24bvless://1e7215d7-3d4c-471b-8034-7fd953db251c@cdnuser2048mb.wrongguy.ir:2083?path=%2F&security=tls&encryption=none&fp=randomized&type=ws&sni=cdnuser.wrongguy.ir#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:01:00 UTC
-`vless://113fa873-a868-4b83-b30a-37f0e2522ec3@216.144.231.89:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#***✅***@AR14N24bvless://113fa873-a868-4b83-b30a-37f0e2522ec3@216.144.231.94:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#***✅***@AR14N24bvless://113fa873-a868-4b83-b30a-37f0e2522ec3@216.144.231.95:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#***✅***@AR14N24bvless://113fa873-a868-4b83-b30a-37f0e2522ec3@216.144.231.96:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#***✅***@AR14N24bvless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?mode=auto&path=%2Ft.me%2FVip_fragment_v2ray&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ic.imsoon.io.&fp=chrome&type=xhttp&allowInsecure=0&sni=ic.imsoon.io#***✅***@AR14N24bvless://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#***✅***@AR14N24bvless://138b5e4d-ec70-406c-8271-2ce5f467f9b0@144.31.100.120:443?encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&security=reality&sid=3d3c3fc7e9&sni=www.google.com&type=tcp#***✅***@AR14N24bvless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FSpringHQ%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL-%40SpringHQ-TEL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=music.parvareshmorghe.ir&fp=chrome&type=ws&allowInsecure=0&sni=music.parvareshmorghe.ir#***✅***@AR14N24bvless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=/&type=tcp&sni=yandex.ru&sid=92de1aab07490056#***✅***@AR14N24bvless://16068e83-af4c-49ba-8048-98fcff3e5e7b@afrcloud22.mmv.kr:443?path=%2F131.186.26.129%3D30443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://163ad3ea-2d82-4ace-bbff-247d28f40b74@dns1.bustyyetkin.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4SvSS7EqHyV_LDW4vB2f7UIj6x_GXsR3vMnqnaxspHo&sid=29d048c59d83&sni=www.mozilla.org#***✅***@AR14N24bvless://1670a2ae-b9ff-46c2-955b-5f5bae70241d@37.139.33.57:51101?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=4ffc99daad0f261f&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://17a7bf97-fef5-4101-a5c5-7c730fabeeee@AZARBAYJAB1.B1.PAGES.DEV:2087?path=%2F%3FTM%40AZARBAYJAB1%40AZARBAYJAB1%40AZARBAYJAB1%3Fed&security=tls&encryption=none&host=bpb-worker-panel-h5f.pages.dev&type=ws&sni=bpb-worker-panel-h5f.pages.dev#***✅***@AR14N24bvless://1803f686-5fdb-4f81-bddf-76f950f5680d@god.mizbanbit.com:43815?path=%2F&security=&encryption=none&type=ws#***✅***@AR14N24bvless://1803f686-5fdb-4f81-bddf-76f950f5680d@god.mizbanbit.com:43815?path=%2F&security=none&encryption=none&type=ws#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:59 UTC
-`vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@62.133.62.85:8443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=github.com#***✅***@AR14N24bvless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@93.152.207.185:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=github.com&path=&host=#***✅***@AR14N24bvless://0ec1c958-0087-4ca6-b4b2-b846c0f62419@afrcloud22.mmv.kr:443?encryption=none&type=ws&host=afrcloud22.mmv.kr&path=%2F45.32.100.46%3D13802&security=tls&fp=chrome&sni=afrcloud22.mmv.kr#***✅***@AR14N24bvless://0eda410f-ef9a-40b6-99c9-917ffb6d4b22@1002.kingfisher.top:10000?security=reality&type=tcp&sni=www.python.org&fp=qq&flow=xtls-rprx-vision&pbk=xaL947o_X586spUQ-Q956KA7RnEeSAjeONwbAnonGTE#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=cron.irtls.abrdns.com&fp=chrome&type=ws&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2Fvpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl-vpnowl%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#***✅***@AR14N24bvless://0fdef4d7-e0f6-4d09-94ac-80c5ebbd69df@51.250.34.229:443?encryption=none&fp=chrome&pbk=x54X6dcYO_tfwuPpceYPRMCy7H0S0YeV7ay5rGviME4&security=reality&sid=1a800342383413&sni=event.yandex.ru&type=grpc#***✅***@AR14N24bvless://0fdef4d7-e0f6-4d09-94ac-80c5ebbd69df@51.250.34.229:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=x54X6dcYO_tfwuPpceYPRMCy7H0S0YeV7ay5rGviME4&sid=1a800342383413&sni=megafon.ru#***✅***@AR14N24bvless://0fdef4d7-e0f6-4d09-94ac-80c5ebbd69df@51.250.34.229:443?type=grpc&security=reality&encryption=none&fp=chrome&pbk=x54X6dcYO_tfwuPpceYPRMCy7H0S0YeV7ay5rGviME4&sid=4e46&sni=eh.vk.com#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://103b210d-c76d-488e-acd4-fed943ba025e@104.128.134.181:34816#***✅***@AR14N24bvless://106177e9-0f75-48de-8227-f0b3fb7b2b03@Chatgpt.com:2083?path=/eyJqdW5rIjoiZ1lLMDZyMmcyRjJ4YyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&alpn=http/1.1&encryption=none&host=falling-brook-a15c.lavaha2963.workers.dev&fp=chrome&type=ws&sni=FALLiNG-BrOok-a15C.lAVaha2963.worKers.Dev#***✅***@AR14N24bvless://113fa873-a868-4b83-b30a-37f0e2522ec3@208.70.218.76:6443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=debug.resolvertest.doh.umbrella.com&type=tcp#***✅***@AR14N24bvless://113fa873-a868-4b83-b30a-37f0e2522ec3@208.70.218.76:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sid=6ba85179e30d4fc2&sni=ign.dev&type=tcp#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:59 UTC
-`vless://068f7784-c1c4-4ef7-b820-40759589c4ac@de.mobileemdad.top:42542?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&host=de.mobileemdad.top&headerType=http&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@fans2.mahoshid.ir:45471?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@fans2.mahoshid.ir:45471?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#***✅***@AR14N24bvless://0836463b-214f-4af6-aa85-85a56a62388e@www.speedtest.net:443?encryption=none&security=tls&sni=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&alpn=h2%2Chttp%2F1.1&fp=randomized&insecure=1&type=ws&host=d2127a49-flat-wood-c4b5.milia-akbarpoor.workers.dev&path=%2F8eazjhrwb5zzdy81%3Fed%3D2560#***✅***@AR14N24bvless://0878c33b-ab5e-47f4-94ec-44206a08069c@download.riferoser.icu:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=q42m1wg11kZLyRtjaKus8T-NNl1vriRG3V1eVTL6ICc&sid=0f1280fa579b&sni=www.tradingview.com#***✅***@AR14N24bvless://09748875-9da3-440e-9809-9752e1dda1e4@38.244.137.198:443?security=reality&encryption=none&pbk=QXGsw1KqljvUiarkvFdBs3T1TeUQq4skwHFlsmbj31o&headerType=none&fp=chrome&spx=/&type=tcp&sni=google.com&sid=365c07ed#***✅***@AR14N24bvless://0b0f1f17-9d47-4c96-848c-c375170d3d61@dns1.bustyyetkin.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4SvSS7EqHyV_LDW4vB2f7UIj6x_GXsR3vMnqnaxspHo&sid=88e25cd3fc64&sni=www.tradingview.com#***✅***@AR14N24bvless://0b5191da-1151-40d4-8dfb-2cb9f0f70eb3@home.pingless.eu:46501?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.234:8443?security=tls&encryption=none&sni=rus3.worldunlocked.org&type=ws&path=/ws-vless/&allow_insecure=0#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.238:8443?security=tls&encryption=none&sni=rus3.worldunlocked.org&type=ws&path=/ws-vless/&allow_insecure=0#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.240:8443?security=tls&encryption=none&sni=rus3.worldunlocked.org&type=ws&path=/ws-vless/&allow_insecure=0#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.241:8443?security=tls&encryption=none&sni=rus3.worldunlocked.org&type=ws&path=/ws-vless/&allow_insecure=0#***✅***@AR14N24bvless://0e4865bf-811e-44e8-90ce-233ecf209b0b@185.250.149.242:8443?security=tls&encryption=none&sni=rus3.worldunlocked.org&type=ws&path=/ws-vless/&allow_insecure=0#***✅***@AR14N24bvless://0e90f352-e9bc-4834-8ff6-49ba887eded4@77.221.152.183:443?security=tls&sni=b12a6eea4807ca4e.1323.world&type=tcp&host=fr.1323.world&path=%2F&fp=chrome&alpn=h2#***✅***@AR14N24bvless://0e90f352-e9bc-4834-8ff6-49ba887eded4@fr.1323.world:443?encryption=none&security=tls&sni=b12a6eea4807ca4e.1323.world&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#***✅***@AR14N24bvless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@194.87.216.7:47030?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=api-maps.yandex.ru&path=&host=#***✅***@AR14N24bvless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@194.87.216.7:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&sid=e18eda8458cab0d7&sni=github.com&path=&host=#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:59 UTC
-`vless://04503c41-f29f-4999-8b9f-6db34986ddc0@88.210.54.137:443?type=xhttp&security=tls&fp=safari&sni=diggy.verlosaro.online&path=/brovpn&mode=auto#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@111.246.224.77:10001?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@114.43.13.66:20280?security=reality&flow=xtls-rprx-vision&sni=buylite.music.apple.com&type=tcp&fp=edge&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI&sid=4b070735#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet-home01.xn--9kqp42aims.top:10001?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet1.xn--9kqp42aims.top:20200?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet2.xn--9kqp42aims.top:20280?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#***✅***@AR14N24bvless://04793d5b-1b79-49fc-b5f9-2e8ce0e3ebc6@hinet3.xn--9kqp42aims.top:20519?security=reality&type=tcp&sni=buylite.music.apple.com&fp=edge&flow=xtls-rprx-vision&sid=4b070735&pbk=fbABzUObM1ehY0C9V83p34p8ah9w2s4lDrdAiXdzGxI#***✅***@AR14N24bvless://048ce500-05ab-485b-b224-1753d2b60730@95.174.92.11:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=xfNZvP60yv5cee9Nyac7Daww3QwlAd2WDTd14jJixAk&sid=30406a9627a663&sni=dk40.strelkavpn.com&spx=/#***✅***@AR14N24bvless://04f040e8-1d14-4969-94ad-6bc0ac633063@109.120.188.166:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=ads.x5.ru&path=&host=#***✅***@AR14N24bvless://04f040e8-1d14-4969-94ad-6bc0ac633063@5.188.140.115:1488?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=&sni=ads.x5.ru&path=&host=#***✅***@AR14N24bvless://04f040e8-1d14-4969-94ad-6bc0ac633063@5.188.141.69:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#***✅***@AR14N24bvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.141.151:22224?path=%2Ftelegram-channel-vlessconfig&security=tls&sni=trojan.burgerip.co.uk&type=ws#***✅***@AR14N24bvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.141.151:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#***✅***@AR14N24bvless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.29.65:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#***✅***@AR14N24bvless://05a6897b-bdea-46d9-8654-89bceb208504@104.128.134.181:34816?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@213.176.1.45:45471?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@213.176.1.45:45471?security=none&encryption=none&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&headerType=none&type=tcp#***✅***@AR14N24bvless://068f7784-c1c4-4ef7-b820-40759589c4ac@de.mobileemdad.top:42542?security=none&encryption=none&host=de.mobileemdad.top&headerType=http&type=tcp#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:59 UTC
-`trojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#***✅***@AR14N24btrojan://q4oerwN2UA@hk.scpnb.top:19066/?type=grpc&serviceName=&authority=&security=reality&pbk=AxHqJCigFf4BzJlj4EeD6FloA-PYwr2rw2clWtCB4FU&fp=chrome&sni=www.amazon.com&sid=803975&spx=/#***✅***@AR14N24btrojan://telegram-id-directvpn@13.37.141.151:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#***✅***@AR14N24btrojan://telegram-id-directvpn@13.37.141.151:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#***✅***@AR14N24btrojan://telegram-id-directvpn@15.224.29.65:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#***✅***@AR14N24btrojan://telegram-id-privatevpns@13.37.141.151:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#***✅***@AR14N24btrojan://telegram-id-privatevpns@13.37.141.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#***✅***@AR14N24btrojan://telegram-id-privatevpns@15.224.29.65:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#***✅***@AR14N24btrojan://trojan@109.234.211.66:8443?sni=store.timimi.dpdns.org#***✅***@AR14N24btrojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&headerType=none&type=tcp&sni=www.semanticstaplegun.click#***✅***@AR14N24btrojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?type=raw&headerType=none&security=tls&sni=www.semanticstaplegun.click#***✅***@AR14N24btrojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#***✅***@AR14N24bvless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#***✅***@AR14N24bvless://007a5c24-cdbe-4adc-a79f-ca2768fef8bb@edge.aiteamplus.ir:10007?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://03415e46-3ca2-45a0-9fa0-fd7c10c8765a@185.39.204.27:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=sun1-90.userapi.com&fp=&pbk=fsQFwBuDqsc-AylhF85Yu4jI81hn7LkYtNQCT5FFyiw&sid=#***✅***@AR14N24bvless://03415e46-3ca2-45a0-9fa0-fd7c10c8765a@node5.telegavpn.org:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=node5.telegavpn.org&fp=&pbk=WvNaAxI0W__qfUKbtysH4IwF155YENlv3PG6crCmPkA&sid=#***✅***@AR14N24bvless://034cf132-6ea6-416f-ba01-c710e99d6225@s4.iranman.shop:9600?security=none&encryption=none&headerType=http&type=tcp#***✅***@AR14N24bvless://03ea79e8-3e62-4fb0-9947-b64286e6b26d@66.234.149.98:8443?security=reality&flow=xtls-rprx-vision&sni=tradingview.com&type=tcp&fp=chrome&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#***✅***@AR14N24bvless://03ea79e8-3e62-4fb0-9947-b64286e6b26d@br-m247-01.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=chrome&security=reality&pbk=_0HnraldEtXmJMu7t3nEm8VmQXkMWF7dX1Dmz5KceSw&sid=57f5917841a2178f#***✅***@AR14N24bvless://04503c41-f29f-4999-8b9f-6db34986ddc0@178.20.43.211:443?type=xhttp&security=tls&fp=safari&sni=diggy.verlosaro.online&path=/brovpn&mode=auto#***✅***@AR14N24bvless://04503c41-f29f-4999-8b9f-6db34986ddc0@178.20.44.182:443?type=xhttp&security=tls&fp=safari&sni=diggy.verlosaro.online&path=/brovpn&mode=auto#***✅***@AR14N24bvless://04503c41-f29f-4999-8b9f-6db34986ddc0@212.118.56.103:443?type=xhttp&security=tls&fp=safari&sni=diggy.verlosaro.online&path=/brovpn&mode=auto#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:58 UTC
-`trojan://humanity@104.18.11.110:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?allowInsecure=1&fp=chrome&host=www.multiplydose.com&insecure=1&path=/assignment&security=tls&sni=www.multiplydose.com&type=ws#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?path=/assignment&%3Bsecurity=tls&%3Binsecure=0&%3Bfp=chrome&%3Btype=ws&%3BallowInsecure=0&%3Bsni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=/assignment#***✅***@AR14N24btrojan://humanity@104.21.40.34:443?security=tls&sni=www.gossipglove.com&insecure=1&allowInsecure=1&type=ws&host=www.gossipglove.com&path=/assignment#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@172.64.152.23:443?path=/assignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@185.18.250.245:443?type=ws&security=tls&path=/assignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&type=ws#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.multiplydose.com&fp=chrome&insecure=1&type=ws&path=%252fassignment#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/assignment#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?allowInsecure=1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#***✅***@AR14N24btrojan://humanity@188.114.98.0:443?path=/assignment&security=tls&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@v1.dabache.top:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:58 UTC
-`trojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?path=%2Ftrojan-ws&security=tls&host=xo.e0f.cx&type=ws&sni=xo.e0f.cx#***✅***@AR14N24btrojan://1338f666-2fcc-4538-bc29-1ebf89624383@ilop.uk2033.ccwu.cc:443?path=%2FXCLcnSashhgSVE3HOw1VI85y&security=tls&alpn=http/1.1&host=ilop.uk2033.ccwu.cc&type=ws&sni=ilop.uk2033.ccwu.cc#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@bbbhny.191268.xyz:443?path=%2Fr862SIwqItkD5XgXAL&security=tls&alpn=http/1.1&host=BBBHNY.191268.XyZ&fp=chrome&type=ws&sni=BBbhNY.191268.xYz#***✅***@AR14N24btrojan://4115f84d-3b03-4b03-babf-21b36b2f9c03@cccvbgt6.890634.xyz:443?security=tls&sni=cCcVBGt6.890634.xyz&alpn=http/1.1&fp=chrome&type=ws&headerType=none&host=CcCVbgT6.890634.XYz&path=/r862SIwqItkD5XgXAL&allow_insecure=true#***✅***@AR14N24btrojan://4250b3bb-d1ae-4e77-bf71-4069e0d2c383@220.130.58.136:31102?type=tcp&security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1#***✅***@AR14N24btrojan://4c205c81-5694-43fe-a287-af563a2ebc05@kk9.89060004.xyz:443?allowInsecure=0&sni=kk9.89060004.xyz&ws=1&wspath=%2FP23lDbkARo4gds7cXpDB5nO5#***✅***@AR14N24btrojan://5a2c16f9@103.137.63.227:8443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/103.137.63.227:8443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@114.33.57.170:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/114.33.57.170:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@125.228.141.233:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/125.228.141.233:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@125.228.236.138:443?path=%2F125.228.236.138%3A443&security=tls&host=5c.hhhhh.eu.org&type=ws&sni=5c.hhhhh.eu.org&allowInsecure=1#***✅***@AR14N24btrojan://5a2c16f9@125.228.236.138:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/125.228.236.138:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@223.165.4.57:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/223.165.4.57:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@27.50.49.2:443?security=tls&sni=5c.hhhhh.eu.org&insecure=0&allowInsecure=0&type=ws&host=5c.hhhhh.eu.org&path=%2F27.50.49.2%3A443#***✅***@AR14N24btrojan://5f6ded93-4ab8-4a99-9c84-b19b9993f27c@green2.cdntencentmusic.com:35501?security=tls&sni=green2.cdntencentmusic.com&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.70.134:400/?type=tcp&security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.124.55:3901?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.138.24:3901?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?allowInsecure=0&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?allowInsecure=1&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&allowInsecure=1&type=tcp&fp=chrome#***✅***@AR14N24btrojan://Aimer@167.68.4.199:2053?allowInsecure=0&sni=epge.muarua.filegear-sg.me&ws=1&wspath=%2F#***✅***@AR14N24btrojan://BxceQaOe@58.152.53.45:443?type=tcp&security=tls&fp=chrome&allowInsecure=1#***✅***@AR14N24btrojan://M7v%25w11Se%2A@blaab.wsone.icu:443?security=tls&sni=blaab.wsone.icu&type=tcp&headerType=none#***✅***@AR14N24btrojan://WOeXShhJpL@104.18.71.140:443?security=tls&sni=09jzus.zdzdzd.xyz&type=ws&host=09jzus.zdzdzd.xyz&path=%2Fjuzigongyi#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:58 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNjgwMUhoOUNzVTQtQ0FYYTV6ZlZ3@62.133.63.21:1080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzNjgwMUhoOUNzVTQtQ0FYYTV6ZlZ3QDYyLjEzMy42My4yMToxMDgw#***✅***@AR14N24bss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***✅***@AR14N24bss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M=@109.201.152.181:443#***✅***@AR14N24bss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@79.127.233.170:989#***✅***@AR14N24bss://YWVzLTI1Ni1nY206ODgwMTMzOWUtOGVkMy00Mzg5LTlkMWQtMmYyMTFjY2YwN2Jl@194.165.59.93:442#***✅***@AR14N24bss://YWVzLTI1Ni1nY206ODgwMTMzOWUtOGVkMy00Mzg5LTlkMWQtMmYyMTFjY2YwN2Jl@194.165.59.93:442?type=tcp#***✅***@AR14N24bss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RQ@95.111.250.4:80#***✅***@AR14N24bss://YWVzLTI1Ni1nY206QmJPVWdOTFV5VDZyZHJ4RUA5NS4xMTEuMjUwLjQ6ODA=#***✅***@AR14N24bss://YWVzLTI1Ni1nY206SmhCNWFkbzhlbkJoa2FPZUAyMTYuMjM4Ljc1LjExMTo4MA==#***✅***@AR14N24bss://YWVzLTI1Ni1nY206TFlYaUlVSjBGdXRuVHpCRw@62.146.172.130:80#***✅***@AR14N24bss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:80?#***✅***@AR14N24bss://af294727-004a-4bf0-b120-92c8618e86dc@nl.zeepo.ir:443?security=reality&encryption=none&pbk=SySMR9yW2kna78L7nmfkSYeQ-DkS7nIx98AsTsHy0gM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tgju.org&sid=7fec027d1852df40#***✅***@AR14N24bss://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#***✅***@AR14N24bss://bd1cbd82-1da8-497f-9eb5-83bf1d8b6de2@104.238.69.142:2053?mode=auto&path=%2F%3Fed%3D2048&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=myopen.tencan.ir#***✅***@AR14N24bss://c6a38b1d-d7fb-40bc-b93d-b4b8965ff469@104.17.148.22:2082?security=none&type=ws&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024#***✅***@AR14N24bss://cecc46f0-55ce-46fb-ec65-b46eb9446e41@www.speedtest.net:2082?path=%2F%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn-%40spikevpn%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.zula.ir.Shad.ir.sHaparak.ir.torob.com.namaSha.com.namnak.com.filiMo.com.Rokna.net.teleweBion.com.iraNikala.toP.&type=ws#***✅***@AR14N24bss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=41.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&type=ws#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=56.%E8%A1%A8%E7%BB%B4%E5%9F%BA%E7%99%BE%E7%A7%9116.tech&type=ws#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?encryption=none&security=tls&sni=dev.twistsparrow.xyz&type=ws&host=dev.twistsparrow.xyz&path=/#***✅***@AR14N24bss://nasnet@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#***✅***@AR14N24btrojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083/?type=ws&host=xo.e0f.cx&path=%2Ftrojan-ws&security=tls&sni=xo.e0f.cx#***✅***@AR14N24btrojan://0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c@188.116.22.217:2083?host=xo.e0f.cx&path=%2Ftrojan-ws&security=tls&sni=xo.e0f.cx&type=ws#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:57 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNjQDE2My4xNzEuMjA3LjExOjI5NDYz#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaldqQUZBektheEx1M21zcTdHSmVR@72.56.100.108:23695?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZWM0ZTZmOWU5NTRhZWFk@119.159.245.24:29700#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXE@185.5.38.111:55988?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTppWkRKczJDRGNrSEtxSjVXN2NwdkNxMnZlcXNxV245NWlxczZLcjZGM1lObnlNc2sydVBkUnJDaFFmU2h2SDF2NTZCcjFxV0VXNDRxSm5hNVFjTWNaRjdSQ0ptZHZ3dXFAMTg1LjUuMzguMTExOjU1OTg4#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprN3hXNk41U0FWcGdlcWkxd2Q3czd5eEQ3UzhQeGFlaFVNNVc4YXBIclFpM3BTb0RSWFNjb0FQazhTVmE0bUtidlJqcmdFTlUzZFVnelRncDlUM3JyWGluYURlNENYWWs@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGR5Zl9uRHNKS3d1cHVzc1JWbFBB@5.129.219.251:54630?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8316#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8319#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.112.130.53:8319#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8313?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptbWRaNjNqc1hQQ1lGdGd5YXJFWE56TlRTY0VKaHE2Q2FFWEp6QzlBWVpwcXN0Q2JORWVLb3FtN1hzdzVlVHpzVWc0dWpoN0x1MW1RRlZ3QVFweUdtbmV3UGkzVUg5WEg@download.riferoser.icu:56594/?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.141:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?note=--Telegram--@NetifyVPN--#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?note=--Telegram--NetifyVPN--#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQw@178.17.61.67:5790?type=tcp#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxUzNza3dtb2xyUTcwcTg0MmlyUUQwQDE3OC4xNy42MS42Nzo1Nzkw#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxbklGWkhJSUxQZ1F4elRXVVA5Mjk4@62.133.63.21:65262#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:57 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGpAZXhjaGFuZ2UuZ2FtZWF1cmVsYS5jbGljazo1Mjk1Mg==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPdzhpU0V4UU5hb2JaUFk5Yko0RVBJ@212.192.14.234:24441/?outline=1#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.217:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMkZmQTNrNklubXdPZ3E5OVJRdnZr@146.103.112.249:30995#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVMkZmQTNrNklubXdPZ3E5OVJRdnZr@146.103.112.249:30995?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVenRIR3c3b3FzZ0NnUTZFdmxYbFNt@kazakhstan28.clearorbitllc.com:64855#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaRVoyYmZGYlZpQzl1c04xV0I0eHF2eXpFdVVoUEEydXVVWVptaktBV1RRYzNtRXJoQ2FWSG1aYmJXZ1ZHOW9pMVZIaHoxMktQMmdBV0M4TFpKNGltV2h5cEFEOVBHM3U@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMWY3NDA5ODlhODc4MDczQDUxLjgzLjI0OS4xODI6MTEyMDE=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11201?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11202?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203?type=tcp#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11204?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11205?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjA0#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjA1#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjAx#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjAy#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIwQDUuMTg4LjQuMTAzOjExMjAz#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOTRmMGI2OTE2ZjY3YmRjQDM4LjU0LjE0LjE1NjoxMTIwMQ==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3Q@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiWjg3YW1QcGRHN0t1V002MmJLdG0xS0hvb3d1VmpuVjhDS3RxNjUzeW1IY2cyZFBZY1BKZm5hUTYxc3R1QWpyMlppTERhcUg1Nlhwa3hFWXV3RHp6UnJNV2llZWJXR3RAbXgyLmRyYXducmlzaGEub25lOjU1OTg4#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZzlyR056YTRkY21uREFYTWlCYWE0cFVmOXE4ZmMyRURlUFE5NlVEZkpybW9oZnZLN0wyN2JMc0pXMmppa0pQdzk3TFlXNzZ5cFlLMzQ3VHRVS1o2ZWJrdzVaZjZDNHM@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNjQDE2My4xNzEuMjA3LjExOjI5NDY0#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYjQyNThkYzFiNTM2MTNjQDE2My4xNzEuMjA3LjExOjI5NDYy#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:57 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBMllGdnVlNEVndno3UlBTNHlpWENR@62.133.63.21:1080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@154.205.146.153:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.2.182:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@38.54.57.90:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.247.151:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.60.250.107:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.154.204.7:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@176.123.5.253:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.165.231.25:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.2.182:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@38.54.57.90:990#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAxNDcuNzguMS4yMzA6OTkw#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBZ3h5ZVBkVDZEbkFMeHp0dFFSekdISlAyYml0QWVIbmJ1a2Y2YVRqQzl4ZFlreFFRMVlLNzFES0VtSk5jM0RZOENDcTF6NDZvQ3k2RGMxb1ppNlE0NTMyTnY4U3djeTc@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCSGZTTEFZQW1LRU9ueGJ1R2FpS0xn@45.90.12.24:52497?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcEZpZU1UNlNvYnBxUmlLRmVmdll1N2VYazk5WGZDZVdmanBudHpTaDgxRmZNeDlSN3JKVzZMVG16SDc4U3RURWhDZDd3MzJaTXhiR0paUzk4Z3BuMW96cjlqQWJNb2E@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTk=@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGamdHTk5IUWlFTHp4WG1hSFJ4eHRRYnhERHZHWEZ4WWRUYlllOTFKS1pzanZLTEhvWTlybjlydVlFNDUzNzdXanRVM200a21YUVpEWGlIQkpzZ1ZmaG1wYXdFb0d2cTlAbXgyLmRyYXducmlzaGEub25lOjU1OTg4#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFBAMTA3LjE4MS4xNTEuMjQxOjQ5OTE3#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFBAc3RhZ2luZy5sYXN0aWxoYW1lLm1vbnN0ZXI6NDk5MTc=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829/?note=--Telegram--@NetifyVPN--#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxq@95.164.113.198:53829/?outline=1#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLYm0zeG9LMDRwNE9ob3FWcEV6ZGxqQDk1LjE2NC4xMTMuMTk4OjUzODI5#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo%3D@exchange.gameaurela.click:52952#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMTVNOaDIxVHJYalIyb2syNVEybkU4RU5UMnpvQm1QdmthM1JDQ1VBSFpFTENuV29la1ZqdmFmODlxd2NSa2RieEVmZXAyYmMyYVV0bW54cXZGMWF5UVJlejFKSGpVTGo=@exchange.gameaurela.click:52952#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:56 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11202#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11203#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11204#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11205#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ@45.144.31.24:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2QDg5LjIyMy44OC4zMzoxMTIwMQ==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3QDE1Ny4xODUuMTczLjYwOjE4NDI0#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3QDE1Ny4xODUuMTczLjYwOjE4NDI1#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3QDE1Ny4xODUuMTczLjYwOjE4NDI2#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3QDE1Ny4xODUuMTczLjYwOjE4NDI3#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5NW84NnVrSDJhRkpNTmFlcHZIUktw@92.118.112.101:9483#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5bmtVZ1NIbjRSbmVzeDZCUE1LWkpHY0JEYTZtWFZQSktMYTllNDh6RjhOVkMxNmhYZWZKU0s1VmROSDZRdjdVUzJDZ1I3WVh0VXNVVkZOajhSdk1YQkJmSDlnVndMbnc@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowYmI0NDdjZWU3MjI4ZWIw@91.106.109.17:41022#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZTY4ZDRiZDAwMjQzN2FiQDE0OS4xMDQuNzEuMTM0OjExMjAx#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo%3D@portal.ninemakeda.cfd:43669#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHpAcG9ydGFsLm5pbmVtYWtlZGEuY2ZkOjQzNjY5#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyN0JFSEVRZTY4TXd3aGd1c25aa0xGdlBUcHFuVTJVd3Fzdzl1U3oyV28zYlE1NnNmVVc0N1NpWnYxRkVUSnpTSmVwNHZ0d0p6TXhRWXJZeG9nRTlGR2JpMzFQVkdjWVM@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWFjZDk2MGFiOGUzNDA4QDE1Ny4xODUuMTczLjYwOjQ2NzI3#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyQUtuOUE5WGJNVWJORzlpOHhNN1E0RUt3d2ZUNXBTb3BaRVFVTEEyZURyUWl6MkM1bk1RVDdmNXMzczVUbUJ4SkZZREI2RWdwMlhjaHRBNWFTV0RpUzlwQVNOZWJNR3Y@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyRW1XUlMxVGtTM1RreEtBcG5yaWhiM2FIakRTWFJ2VDFUMUs5VTJCcnV4cm5wNUE4em1wVHh3d1ROamU2QmtWcW1uOUJnUkY2cHE4cW9SSENmWmRjYWg3QkxianJwVDE@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToySnFMWFNDWGdqZVR3NWFoY1ZNSEh3SE1YZUdKOUdxdVNWMUo3ZUJ5dDZFcWVFV002N2piTW9nSzhxVGY2YVA1aEJralh2dUtZc1lFRTZENXR0dGRFRzNpWjVjbkZZYVo@staging.lastilhame.monster:49917/?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYjE5NWQ5MTZjYjg0MDA3QDE4NS4xNjMuMS45MDoxMTIwMQ==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyaWU2YmhJbFJLTmlYSWlaZFZldGdR@45.90.12.239:49442?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTVlYjNlMTYwY2YyNDMyQDE1NC4yMDUuMTUyLjY0OjExMjAx#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozN2VmNGYwMjlmMWFjMGFj@141.95.105.28:11201?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0N1M4OUV4SURYMWNpUE11b0hBWVp3QDg5LjIwOC4xMDYuNTc6NTUzMjk=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5Q3BTSk1Za0ZRZXBHNG80UU5LeW83cW90cFJFSnp3UzFiYmt5SE5hdXBocktnWVVoVTNCTEUxbmJBZVRxWVpoOHJNOUtSZXhuWU5nRVdCbXRaSDFyanhkMmJpRHFYSk0@185.5.38.111:55988?#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:55 UTC
-`ss://81e596e2-09b2-4a5a-baac-6b3c8953bb23@tcp.ap-northeast-1.clawcloudrun.com:46665?mode=auto&path=%2FJoin-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join-V2RAYNG_FARS-Join&security=reality&encryption=none&pbk=RnWpr6xrNxEPQqLHtF5H1#***✅***@AR14N24bss://875cb468-a847-489e-bd16-7993a013a73c@poli.appleseraj.ir:443/?path=/?ed=2048&security=tls&encryption=none&host=finlo.appleseraj.ir&fp=chrome&type=ws&sni=finlo.appleseraj.ir#***✅***@AR14N24bss://9034468f-b93d-407f-bfc0-87a178ba5c8c@144.31.2.86:443?security=reality&type=tcp&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=cbdfef7f3ede2072&pbk=PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho&encryption=none#***✅***@AR14N24bss://98b419ef-83a2-4d1b-a23d-566b7f24477b@nnmjkio.taipei101.indevs.in:443?encryption=none&security=tls&sni=NnMjkIO.TaipEi101.INdEVS.IN&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=NnMjkIO.TaipEi101.INdEVS.IN&path=%2FFHqOdFbetLpTGA5AqzZ2Mj#***✅***@AR14N24bss://99032f24-649d-47fe-91b4-1b2299abaea8@d.ssl.fastly.net:80?security=none&encryption=none&host=italyforme.global.ssl.fastly.net&type=ws#***✅***@AR14N24bss://Parsashonam@chatGPT.com:2096?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=signup.atlasw.ir#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTVjMTViYzE3NWI0ZDc0QDM3LjYwLjI1MC4yNDM6MjA1NTg=#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0anU4NzNldnBqZWFBaThacTEyWW9SSFdwNjNvNWV4ZG5aNzFhVWcxWUVDaGlQVGMySGthc1loVUJ4Uno3VUdpNEs2Y0xyc0dhVTZiNDRINFFhNmY0Y0puM3pCcDJjblg@185.5.38.111:55988#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2MzhiYjA1ZWFiMzVhZGVjQDE2My4xNzEuMjA3LjExOjE5Njg4#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2NTFkZjVkYzhmZDA4ZDBjQDM4LjYwLjIyNC4zNzoxMTIwMQ==#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MTgwNzcxOGY1OTNkM2U2@154.205.148.202:11201#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 16:00:55 UTC
-`ss://10371edf-4e5a-46a5-bd19-c301ce371d14@cpanel.norton-v.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bss://217b48d6-5dac-4662-9a8c-aa76e92a7cfe@151.101.130.216:80?security=none&type=ws&host=befreewithus.com&path=ws%2F%3Fed%3D2048#***✅***@AR14N24bss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=pablo-n1.digionix.ir&type=xhttp#***✅***@AR14N24bss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052/?mode=auto&path=/pabloping?iltershekanfilm---vpnbaz---vpnbaz---vpnbaz---vpnbaz---vpnbaz&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052/?mode=auto&path=/pabloping?iltershekanfilm^^--vpnbaz---vpnba&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#***✅***@AR14N24bss://3e7f67de-648e-4871-b51a-a225214d41ee@47.80.13.85:443?encryption=none&security=reality&sni=api.company-target.com&fp=chrome&pbk=TRP10HqKUXEQ3O-cfsq93DycfBmbJe9KM36yvSa8Mmw&type=tcp&headerType=none&host=api.company-target.com#***✅***@AR14N24bss://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#***✅***@AR14N24bss://51a601e6-b25b-4ae7-83a6-1619ac7e7722@151.101.129.140:80?security=none&type=ws&host=Upload.edu&path=%2FJoin--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420%3Fed%3D2048#***✅***@AR14N24bss://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram***🇨🇳***#***✅***@AR14N24bss://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bss://634e1883-0f11-4ab5-9e41-90d0c0d22463@free.fastly80.hosting-ip.com:80?host=vPnGloBALholanduserland344.com&path=%2F%3Fed%3D1048&security=none&type=ws#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 15:35:02 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.15&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.167&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 13:46:41 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)**)
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)**)
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 13:39:02 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=11.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=12.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=14.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=15.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=16.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.15&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.167&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)**)
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)**)
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](tg://proxy?server=10.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 13:09:16 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.7&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.89&amp;port=65443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.91&amp;port=56443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.92&amp;port=56443&amp;secret=10446282fffffffffff80000fff80000))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 12:39:56 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 11:54:48 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:52:39 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:30:13 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.7&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.89&amp;port=65443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.91&amp;port=56443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.92&amp;port=56443&amp;secret=10446282fffffffffff80000fff80000))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:12:19 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:10:46 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.220:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.137.233:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&allowInsecure=1&type=ws&host=sni.jpmj.dev&path=/#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.164.158.138:2096?path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.160:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.228.160:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3+@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@31.185.108.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.31.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:10:34 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?path=/&security=tls&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=/?ed=2560&Telegram@WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096/?security=tls&type=ws&path=/?ed=2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.107.164.165:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@205.233.181.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.88.71:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:10:25 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.157:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.47:443?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.51:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.170.166.138:2096?path=/?ed=2560&Telegram@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.34.230.66:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.162:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.145.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.60.74.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@175.212.135.213:21320?type=ws&security=tls&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&sni=a926adb5.lfree.ccwu.cc&fp=chrome#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@209.206.51.198:8443?type=ws&security=tls&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&sni=a926adb5.lfree.ccwu.cc&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:10:24 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.74.44:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@156.243.246.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.139:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@165.154.203.69:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=/?ed=2560&Telegram@WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.88.172.224:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@199.107.164.165:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@222.97.1.10:50000?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@25.26.27.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@52.141.25.42:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:02:54 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.7&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.89&amp;port=65443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.91&amp;port=56443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.92&amp;port=56443&amp;secret=10446282fffffffffff80000fff80000))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:00:35 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.43.91.69:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.80.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.198.173.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.218.15.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.81.141.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.156.19.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560&Telegram@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.251.81.238:2096?&security=tls&fp=chrome&sni=sni.jpmj.dev&type=ws&headerType=none&host=sni.jpmj.dev&path=%2F#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.127.193.124:24467?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40vpnbaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.6.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096?allowInsecure=0&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=/?ed=2560fp=chrome&security=tls#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.108.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.80.110.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@50.62.89.58:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 10:00:24 UTC
-`vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bvless://26590351-6442-4bad-a616-953f7037a147@95.163.213.86:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=e5f67890&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24bvless://2ab1ecad-6666-4c70-813f-d951f9bf49d7@cdnjs.com:443?alpn=h2%2Chttp%2F1.1&authority=&encryption=none&fp=firefox&security=tls&serviceName=%40mahdi_383ir&sni=kh2qpj1y59gx1wu1kzz4l3l8120phu8l68v64b1.mahdi383ir.website&type=grpc#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.241.62.245:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.239:2053?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@@jdfxq#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.23.21:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@49.13.64.206:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#***✅***@AR14N24bvless://7228d8dc-cc98-4bc0-a953-bf89e54f689b@82.115.17.71:37463?type=tcp&encryption=none&security=none#***✅***@AR14N24bvless://8209efd3-4026-411e-da46-37e3ba13383f@195.201.222.173:64286?authority=&encryption=none&security=none&serviceName=%40mahdi_383ir&type=grpc#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:51:58 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.7&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.89&amp;port=65443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.91&amp;port=56443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.92&amp;port=56443&amp;secret=10446282fffffffffff80000fff80000))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:50:33 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.243.112.61:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.27.138:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.58.50.134:443?path=/?ed=2560&Telegram@vpnbaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.183.197:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%AE%F0%9F%87%B7%20%40ShadowProxy66&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.183.197:443?security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.38.46:443?path=/?ed=2560&Telegram@AliXTso&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.39.62.53:443?security=tls&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6991c683-9978-0f82-ef9d-fb9c8a053b34@166.0.198.81:28017?&security=tls&fp=random&alpn=h3&sni=d657fa2a.lfree.ccwu.cc&type=ws&headerType=none&host=d657fa2a.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:50:32 UTC
-`vless://26524cce-d514-4014-a426-365fb266a14d@106.248.211.16:30075?&security=tls&sni=WangCai.443888.xyz&type=ws&headerType=none&host=WangCai.443888.xyz&path=/danfeng?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.32.3.193:16058/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.185.161.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.109.236.191:25565?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@153.121.45.101:443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.120.59.81:2053/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.176.26.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.64:2053?path=/?ed=2560&Telegram%20@WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.127.156:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@@jdfxq#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.244.122.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&fp=chrome&insecure=1&type=ws&host=sni.jpmj.dev&path=/?ed=2560&telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.206.71:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram+@WangCai2=&host=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@8.223.63.150:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@91.197.0.100:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2B%2540WangCai2%3D&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@183.98.120.11:12126?&security=tls&sni=a926adb5.lfree.ccwu.cc&type=ws&headerType=none&host=a926adb5.lfree.ccwu.cc&path=%2Fsocks5%3D44fa737d%3A1bab4a4504ca%4038.96.191.150%3A21719#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@203.69.248.40:10443?type=ws&security=tls&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&sni=a926adb5.lfree.ccwu.cc&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:50:17 UTC
-`trojan://humanity@185.18.250.252:443?alpn=h2,http/1.1&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org&type=ws#***✅***@AR14N24btrojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2,http/1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=/assignment#***✅***@AR14N24btrojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20[By%20EbraSha]%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24bvless://61066a16-78fc-4446-8013-6646bc3f27ba@afrcloud22.mmv.kr:443?security=tls&type=ws&path=%2F103.86.44.120%3D65432&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@106.248.211.16:30075?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.138:2096?security=tls&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.138:443?security=tls&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.28:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.222.55.24:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.248.75.6:443?&security=tls&fp=chrome&sni=sni.111000.indevs.in&type=ws&headerType=none&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.32.177.79:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@2.59.38.46:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.39.217.217:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@81.85.72.197:443?security=tls&sni=sni.111000.indevs.in&fp=chrome&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&packetEncoding=xudp&encryption=none#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:40:42 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.47:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.50:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.86.73.221:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&security=tls&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?security=tls&type=ws&path=/?ed=2560&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.143.159.175:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?security=tls&type=ws&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3%20@WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?security=tls&type=ws&path=/?ed=2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.118.10.56:443?encryption=none&host=sni.111000.v6.navy&path=/?ed=2560&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:40:34 UTC
-`ss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443?type=tcp&security=none&headerType=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.43.124:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%20@WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.197.75.138:2096?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D&host=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.94.90.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.156.116.194:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.246.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.255.127.150:2053?&security=tls&sni=sni.111000.v6.navy&type=ws&headerType=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.216.67.238:2096?encryption=none&security=tls&sni=sni.jpmj.dev&type=ws&host=sni.jpmj.dev&path=%2F%3Fed%3D2560#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:40:27 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.106.228.126:2053?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram+@WangCai2=&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.67.72:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.75.139:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.175:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.21:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.251.82.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=/?ed=2560&Telegram@WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.135.255.177:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.206.71:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D&host=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.206.71:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?ed=2560&Telegram#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@47.250.139.249:443/?type=ws&encryption=none&flow=&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.111000.v6.navy&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:40:23 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@14.102.228.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@154.194.12.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2f%3fed%3d2560%26telegram%f0%9f%87%a8%f0%9f%87%b3+%40wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.137.233:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.19.164:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@212.6.44.203:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.143.159.175:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.12.30.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@46.32.184.211:443?type=ws&security=tls&encryption=none&sni=sni.111000.indevs.in&path=/?Telegram@@jdfxq=&host=sni.111000.indevs.in&ed=2560&eh=Sec-WebSocket-Protocol#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.37.33.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&telegram@wangcai2#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:40:23 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyM3NVcndSY1RCRUF2eExTNlZNNkFheTU3S1Fid3MxdXBEQXhyN0J0ZjRoWHU0Z2FVUVc0QlBiQ29takpqU3RNMkpxSkxEd1ZrdGVYTDhWMzNrOGVXa1pSNFVCOGludHo@107.181.151.147:43669#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyelFvSkh6MjJaYnZoMzd5eFpXSjZKekZ0TGh0dFpDTG9wOFdGZnBjSjQxNjZKQWVudUtUdkR1VW5lYkJuejhQR1BvWExXc0VtMW5remJUbkphaVRzU3g5d1haa3lMM2k@download.riferoser.icu:56594?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ampxeExxakRHRllFU1IzNmZqMnNqbkhCZ0V2OThwbw==@82.22.40.9:1080?#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080?#***✅***@AR14N24bss://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ==@series-a1.samanehha.co:443?type=tcp&security=none&headerType=none#***✅***@AR14N24bss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@103.106.228.175:8009#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.124.105.222:443?path=/?ed=2560&Telegram%F0%9F%87%A8%F0%9F%87%B3@WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.42:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.151:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.173:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.86.73.221:443/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@54.151.41.196:443?encryption=none&security=tls&sni=sni.111000.indevs.in&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.118.10.56:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@34.92.187.216:443?type=ws&security=tls&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&sni=a926adb5.lfree.ccwu.cc&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:30:37 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.47:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.207.196.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.143.159.175:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@34.143.159.175:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=/?ed=2560&Telegram%20@WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.194.53.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B@wangcai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.40.148.238:2096/?type=ws&encryption=none&flow=&host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.jpmj.dev&fp=chrome#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.247.238:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.jpmj.dev&sni=sni.jpmj.dev&fp=chrome&encryption=none#***✅***@AR14N24bvless://69905933-1b12-24fd-4ded-568ee4322895@47.74.25.192:23333?type=ws&security=tls&path=/socks5=44fa737d:1bab4a4504ca@38.96.191.150:21719&sni=a926adb5.lfree.ccwu.cc&fp=chrome#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:30:31 UTC
-`trojan://5a2c16f9@27.50.49.188:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/27.50.49.188:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@27.50.49.2:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/27.50.49.2:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@27.50.49.8:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/27.50.49.8:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://5a2c16f9@45.192.223.17:443?security=tls&sni=5c.hhhhh.eu.org&type=ws&path=/45.192.223.17:443&Host=5c.hhhhh.eu.org#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@153.121.65.107:1281/?type=tcp&security=tls&sni=www.nintendogames.net&allowInsecure=1#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.81.84:3901?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.89.176:3901?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://r7fW5i-Yc_HcoYUwMCx_eA@78.153.155.68:444?type=tcp#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.73.69:443?path=/?ed=2560&Telegram%20@vpnbaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@147.78.140.138:2096?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.138:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.28:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.16.110.0:443?security=tls&type=ws&path=%2F%3Fed%3D2560&host=sni.111000.v6.navy&sni=sni.111000.v6.navy&fp=chrome&encryption=none#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.32.177.79:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@81.85.72.197:443?security=tls&sni=sni.111000.indevs.in&fp=chrome&type=ws&path=/?ed%3D2560&host=sni.111000.indevs.in&packetEncoding=xudp&encryption=none#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:24:25 UTC
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=195.254.165.73&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***✅***Telegram Proxy AR14N24b](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ))
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:20:54 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOMXRheE5sSEJ4NG02a08xeWlvUE9XNjBC@basic-ru-1.undef.network:35615?#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.117.182:193?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.132.38:193?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://9372cb81c7b0ad903f91f2f8a4d3f02b@160.16.144.208:3423?security=tls&sni=www.nintendogames.net#***✅***@AR14N24btrojan://BxceQaOe@58.152.53.45:443?security=tls&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24btrojan://BxceQaOe@58.152.53.45:443?security=tls&sni=58.152.53.45&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24btrojan://BxceQaOe@58.152.53.45:443?type=tcp&security=tls&fp=random&allowInsecure=1#***✅***@AR14N24btrojan://humanity@185.18.250.245:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#***✅***@AR14N24btrojan://humanity@185.18.250.245:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&fp=random&allowInsecure=1#***✅***@AR14N24btrojan://humanity@185.18.250.252:443?alpn=h2%2Chttp%2F1.1&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&type=ws#***✅***@AR14N24btrojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#***✅***@AR14N24btrojan://humanity@185.18.250.252:443?security=tls&sni=www.creationlong.org&fp=chrome&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=www.creationlong.org&path=%2Fassignment#***✅***@AR14N24btrojan://humanity@www.calmlunch.com:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#***✅***@AR14N24btrojan://r7fW5i-Yc_HcoYUwMCx_eA@62.133.62.85:444?type=tcp#***✅***@AR14N24btrojan://r7fW5i-Yc_HcoYUwMCx_eA@85.208.139.190:444?type=tcp#***✅***@AR14N24btrojan://r7fW5i-Yc_HcoYUwMCx_eA@93.152.207.185:444?type=tcp#***✅***@AR14N24btrojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D%20&insecure=1&allowInsecure=1&type=tcp&headerType=none#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:20:17 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6ampxeExxakRHRllFU1IzNmZqMnNqbkhCZ0V2OThwbw==@104.167.198.112:1080?#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.209.162.38:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.119.124.171:2053?path=%2Fv2rayNplus%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&sni=pl-mirror.api.akenai.click&sid=b91a73752053b039#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:12:03 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#***✅***@AR14N24bss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@216.250.97.82:38388#***✅***@AR14N24bss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ==@45.77.253.107:443#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#***✅***@AR14N24bvless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@192.76.160.216:2280/?type=tcp&encryption=none&flow=&sni=tgju.org&fp=chrome&security=reality&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&sid=faf804ddc2e49f6c#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.64.105:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40FooTNooD&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.133.47.144:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.99.60.34:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#***✅***@AR14N24bvless://6e03f417-ef7d-482f-b3f6-be7785b54c1e@k10.fastspeeds.ir:8443?encryption=none&security=tls&sni=nl-node-m1.jadobet1.store&fp=chrome&insecure=0&allowInsecure=0&type=ws&path=/#***✅***@AR14N24bvless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@statue.lnmarketplace.net:443?mode=stream-one&path=%2Fstatue&security=tls&alpn=h2&encryption=none&extra=%7B%27noGRPCHeader%27%3A%20True%2C%20%27xmux%27%3A%20%7B%27maxConnections%27%3A%20%278%27%7D%7D&insecure=0&host=statue.lnmarketplace.net&fp=firefox&type=xhttp&allowInsecure=0&sni=statue.lnmarketplace.net#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:11:55 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#***✅***@AR14N24bvless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#***✅***@AR14N24bvless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#***✅***@AR14N24bvless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#***✅***@AR14N24bvless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?security=none&encryption=none&type=xhttp#***✅***@AR14N24bvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#***✅***@AR14N24bvless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.209.162.38:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.119.124.171:2053?path=%2Fv2rayNplus%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#***✅***@AR14N24bvless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&sni=pl-mirror.api.akenai.click&sid=b91a73752053b039#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:11:55 UTC
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#***✅***@AR14N24bss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ==@45.77.253.107:443#***✅***@AR14N24btrojan://8r#***✅***@AR14N24btrojan://fNDv88j5jz@23.227.38.43:443?path=%2Fimages&security=tls&insecure=0&host=stream.motortaktaz.ir&type=ws&allowInsecure=0&sni=stream.motortaktaz.ir#***✅***@AR14N24bvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=/pabloping&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bvless://4307e484-6c8b-46d0-9df4-8b3983ab27b4@029.electrocellco-cf-029.workers.dev:8443?encryption=none&security=tls&sni=029.eLeCtROcELLCO-cf-029.wOrkERs.dEv&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=029.electrocellco-cf-029.workers.dev&path=%2FeyJqdW5rIjoiVkszbkhyU1UxMWtoNzE5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNzcuMjM4LjIzMS4xNzkiLCIzMS40NC4yLjU3Il19%3Fed%3D2560#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.64.105:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40FooTNooD&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.133.47.144:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:10:55 UTC
-`ss://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#***✅***@AR14N24bss://fa-397456379-1771064637182567@67.159.24.158:8443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#***✅***@AR14N24bss://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&security=none&encryption=none&host=hamon.hamimelectronic.ir&type=ws#***✅***@AR14N24btrojan://2bfe58f7-da1d-45df-ab43-7c665b20ee29@104.21.40.66:443?security=tls&sni=gbnh.7777112.xyz&type=ws&host=gbnh.7777112.xyz&path=/2cO5FH0xUmT9oqnbBhmKb8nOkg#***✅***@AR14N24btrojan://2f211aae-3678-47a6-b231-46304443772f@188.114.97.82:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&alpn=http/1.1&host=cdir-0203.wlfvip.com&type=ws&sni=cdir-0203.wlfvip.com#***✅***@AR14N24btrojan://8r#***✅***@AR14N24btrojan://bpb-trojan@www.speedtest.net:8443?path=%2FtrawQuYV0dBGjBNVXI%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=10-bpb-worker-panel.pages.dev&fp=randomized&type=ws&sni=10-bPB-WoRKeR-paNEl.PagEs.dEv#***✅***@AR14N24btrojan://fNDv88j5jz@23.227.38.43:443?path=%2Fimages&security=tls&insecure=0&host=stream.motortaktaz.ir&type=ws&allowInsecure=0&sni=stream.motortaktaz.ir#***✅***@AR14N24btrojan://humanity@104.18.32.37:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443/?path=/assignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#***✅***@AR14N24btrojan://humanity@www.gossipglove.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#***✅***@AR14N24bvless://0fb80493-c5e6-4ce1-ad46-b715521bc8d3@172.64.152.23:443?path=/213.35.100.31=47112&security=tls&encryption=none&host=afsbconfessout.qzz.io&type=ws&sni=afsbconfessout.qzz.io#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?encryption=none&security=tls&sni=ca.adobe-connect.top&insecure=0&allowInsecure=0&type=ws&host=ca.adobe-connect.top&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:10:48 UTC
-`ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bss://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#***✅***@AR14N24bss://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@144.31.3.162:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#***✅***@AR14N24bss://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@fst2.secretping.ir:80?mode=auto&path=%2Fpath&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&host=inferno3.global.ssl.fastly.net&type=xhttp#***✅***@AR14N24bss://956a0e9f-5354-4e01-a681-353b79b95dd0@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#***✅***@AR14N24bss://b1d63fd8-a67c-441d-8566-4e00ae224d4b@mail.speedmizban.net:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bss://d8f31795-615f-4ba6-979c-3fe057984108@Z4.prodnsspeed10.ir:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dustch.roshdadcollection.ir#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=43.%E7%94%B7%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%833.tech&type=ws#***✅***@AR14N24btrojan://humanity@104.18.32.47:443?security=tls&sni=www.gossipglove.com&fp=chrome&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#***✅***@AR14N24btrojan://humanity@188.114.96.3:443?encryption=none&security=tls&sni=www.creationlong.org&insecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#***✅***@AR14N24bvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.133.47.144:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.dynv6.net&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.dynv6.net#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:10:45 UTC
-`ss://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#***✅***@AR14N24bss://29187857-4a1f-4d1e-88eb-0016771e0dbb@chatgpt.com:443?path=%2F&security=tls&alpn=h3&encryption=none&insecure=0&host=vless.hubp.de&fp=chrome&type=ws&allowInsecure=0&sni=vless.hubp.de#***✅***@AR14N24bss://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@144.31.3.162:443?security=reality&encryption=none&pbk=rpczbNzhaYC127W18DsTNJgVHeaKwdFAsmpzZhc31AM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl-modx.webedg.net#***✅***@AR14N24bss://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@fst2.secretping.ir:80?mode=auto&path=%2Fpath&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D&host=inferno3.global.ssl.fastly.net&type=xhttp#***✅***@AR14N24bss://956a0e9f-5354-4e01-a681-353b79b95dd0@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphMzAyN2M5MzFhZTA3YmNl@57.129.69.122:27130#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.112.130.53:8316#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.151:8080#***✅***@AR14N24bss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#***✅***@AR14N24bss://YWVzLTI1Ni1nY206VHFkOUdwcFhwWEI4cnBjOA@46.250.254.174:443#***✅***@AR14N24bss://b1d63fd8-a67c-441d-8566-4e00ae224d4b@mail.speedmizban.net:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#***✅***@AR14N24bss://d8f31795-615f-4ba6-979c-3fe057984108@Z4.prodnsspeed10.ir:2053?path=%2Flove&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dustch.roshdadcollection.ir#***✅***@AR14N24bss://e4a52f75-474e-449e-bcd2-05ea177f1403@104.31.16.160:80?path=%2F&security=none&encryption=none&host=43.%E7%94%B7%E5%AD%90%E8%B6%B3%E5%AD%90%E8%B6%B3%E7%90%833.tech&type=ws#***✅***@AR14N24bss://e765eb5b-8442-40e3-9532-857ba5ececa7@104.18.4.130:443?mode=gun&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&type=grpc&allowInsecure=0&sni=vbox.ping-box.com#***✅***@AR14N24bss://fa-397456379-1771064637182567@67.159.24.158:8443?security=reality&encryption=none&pbk=2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE&headerType=none&fp=random&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=d1d42381ba35#***✅***@AR14N24bss://fef4a93d-eb4f-4657-b56b-32a0dc060045@104.21.40.34:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&type=ws&sni=dev.twistsparrow.xyz#***✅***@AR14N24bss://vpn_connects@clfconnect.pishipishi.pro:8880?path=%2F&security=none&encryption=none&host=hamon.hamimelectronic.ir&type=ws#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:10:33 UTC
-`trojan://1@Telegram-Eag1e_YT:1?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.225:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.31:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.85:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.17.94:443?encryption=none&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.v6.navy&type=ws#***✅***@AR14N24bvless://6202b230-417c-4d8e-b624-0f71afa9c75d@84.201.20.217:443?encryption=none&host=sni.111000.indevs.in&fp=chrome&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#***✅***@AR14N24bvless://64a3a23c-363a-4bee-9401-f5c42eea5a27@109.120.190.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=048fe5c8be4bb687&sni=m.vk.com&type=tcp#***✅***@AR14N24bvless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#***✅***@AR14N24bvless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.87.167:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=17802e8ff84f12df&sni=api-maps.yandex.ru&type=tcp#***✅***@AR14N24b`
-[***🤖***](https://t.me/AR14N24B?boost)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#proxy](?q=%23proxy)
- 
-[#v2ray](?q=%23v2ray)
-[بهترین راهکار رفع مشکل اتصال به فیلترشکن ***🧠***](https://t.me/AR14N24B/19129)
-[***🚀*** بوست](https://t.me/AR14N24B?boost)
- | 
-[***💬*** دایرکت](https://t.me/AR14N24b?direct)
- | 
-[***💰*** حمایت یادتون نره](https://t.me/AR14N24B)
- 
-[@AR14N24B](https://t.me/AR14N24B)
-
----
-
-### 🕒 2026-02-17 09:10:30 UTC
-`vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#***✅***@AR14N24bvless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=92de1aab07490056#***✅***@AR14N24bvless://192f7c25-0c3a-4089-a67b-5138c5d5d561@144.31.139.71:443?encryption=none&flow=xtls-rprx-vision&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&security=reality&sid=f1a3d4b6de93aa3a&sni=de.gagtubelol.com#***✅***@AR14N24bvless://3bf002f8-b951-4dd5-b372-8d46ccd5f24b@144.31.196.208:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=d1PrrLqIGVQSZ5jUaLe-R67Ey8TJZN8WVkIJh0Xa_zc&security=reality&sni=de-convert.webedg.net&type=tcp#***✅***@AR14N24bvless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&fp=chrome&type=ws&sni=digikala.sorza.ir#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@178.154.253.80:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=8ba12e75110b7a9c&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://479809bf-064a-4667-88b3-c561096c9448@84.23.52.70:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&security=reality&sid=f4b4a6365558ea2e&sni=m.vk.ru&type=tcp#***✅***@AR14N24bvless://6408b7b0-2527-4d9f-b361-928222ec624f@130.193.59.133:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&security=reality&sid=f32140952ba18e18&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://6e432520-30e8-4465-8433-408ec9eb31d4@84.252.136.245:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&security=reality&sid=205748bc0f24a747&sni=yandex.ru&type=tcp#***✅***@AR14N24bvless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?path=%2Fukspeed&security=tls&encryption=none&alpn=http/1.1&host=snapfood.org&fp=chrome&type=ws&sni=snapfood.org#***✅***@AR14N24b`
 [***🤖***](https://t.me/AR14N24B?boost)
  
 [#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)

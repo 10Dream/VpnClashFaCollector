@@ -467,12 +467,35 @@ rule-providers:
 proxies:
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
   - {name: 51.75.168.50:13030, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: 51.75.168.50:13030 2, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
   - {name: 89.223.88.33:11201, server: 89.223.88.33, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 7c31a67b41b18c26, udp: true, tfo: false}
+  - {name: 92.118.112.101:9483, server: 92.118.112.101, port: 9483, type: ss, cipher: chacha20-ietf-poly1305, password: 95o86ukH2aFJMNaepvHRKp, udp: true, tfo: false}
+  - {name: 51.89.119.213:11201, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
+  - {name: 62.133.63.21:1080, server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: A2YFvue4Egvz7RPS4yiXCQ, udp: true, tfo: false}
   - {name: 95.164.113.198:53829, server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, udp: true, tfo: false}
   - {name: 20.254.21.147:443, server: 20.254.21.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 185.253.116.95:16673, server: 185.253.116.95, port: 16673, type: ss, cipher: chacha20-ietf-poly1305, password: aiXO0FnjYHg6ZKJAPohBVW, udp: true, tfo: false}
+  - {name: 38.135.24.131:443, server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: 82.38.31.199:8080, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.210:8080, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: 3.112.130.53:8319, server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: 193.29.139.141:8080, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.103:8080, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 178.17.61.67:5790, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
+  - {name: 204.44.122.100:3031, server: 204.44.122.100, port: 3031, type: ss, cipher: chacha20-poly1305, password: rootface, udp: true, tfo: false}
+  - {name: 62.146.172.130:80, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
+  - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: 64.176.215.70:443, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
+  - {name: 64.176.215.70:80, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
+  - {name: 154.53.63.32:443, server: 154.53.63.32, port: 443, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
+  - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
+  - {name: 149.102.149.207:443, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: mail.mizban-r.site:1517, server: mail.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mail.norton-v.cfd:1517, server: mail.norton-v.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ip.shakhle.ir:2083, server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -505,12 +528,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083
@@ -533,12 +579,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083
@@ -561,12 +630,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083
@@ -598,12 +690,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083
@@ -626,12 +741,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083
@@ -654,12 +792,35 @@ proxy-groups:
     proxies:
       - 57.129.95.45:11201
       - 51.75.168.50:13030
+      - 51.75.168.50:13030 2
+      - 57.129.94.79:11206
       - 89.223.88.33:11201
+      - 92.118.112.101:9483
+      - 51.89.119.213:11201
+      - 62.133.63.21:1080
       - 95.164.113.198:53829
       - 20.254.21.147:443
       - series-a1.samanehha.co:443
+      - series-a2.samanehha.co:443
       - 185.253.116.95:16673
+      - 38.135.24.131:443
+      - 82.38.31.199:8080
+      - 82.38.31.210:8080
+      - 57.129.140.88:8388
       - admin.c2.havij.co:443
+      - 3.112.130.53:8319
+      - 193.29.139.141:8080
+      - 82.38.31.103:8080
+      - 82.38.31.62:8080
+      - 178.17.61.67:5790
+      - 204.44.122.100:3031
+      - 62.146.172.130:80
+      - 209.126.5.209:80
+      - 64.176.215.70:443
+      - 64.176.215.70:80
+      - 154.53.63.32:443
+      - 94.72.127.55:80
+      - 149.102.149.207:443
       - mail.mizban-r.site:1517
       - mail.norton-v.cfd:1517
       - ip.shakhle.ir:2083

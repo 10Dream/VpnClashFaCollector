@@ -470,21 +470,27 @@ proxies:
   - {name: NetAccount` 3, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: NetAccount` 4, server: 193.42.11.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 5, server: 93.185.165.50, port: 55211, type: vless, tls: true, packet-encoding: xudp, uuid: 1a9b771a-b717-49c8-9e93-f6b3d508d637, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ, short-id: 1885}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: ndt.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54a41073-e798-488b-af16-28533e612ec1, servername: ndt.fasti.win, host: ndt.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs, short-id: 992f3294e2336744}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 107.181.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e18094c-18b1-4198-b211-96b40518cecf, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE, short-id: f6e197a0b9f2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 160.153.1.138, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: 160.153.1.181, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: 211.48.77.114, port: 12312, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: 5.10.214.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: dendenmark.madarhome.ir, port: 2075, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: engen.madarhome.ir, port: 2076, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: finfil.madarhome.ir, port: 2074, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: ndt.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54a41073-e798-488b-af16-28533e612ec1, servername: ndt.fasti.win, host: ndt.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs, short-id: 992f3294e2336744}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: 107.181.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e18094c-18b1-4198-b211-96b40518cecf, servername: www.techradar.com, host: www.techradar.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE, short-id: f6e197a0b9f2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: 160.153.1.138, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 13, server: 160.153.1.181, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 14, server: 211.48.77.114, port: 12312, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 15, server: 5.10.214.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAcccount`, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 13, server: antifiltervip.pwteam.ir, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, host: antifiltervip.pwteam.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 14, server: s.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 976cd600-97a1-4c9c-b143-c901dbf175e7, network: ws, ws-opts: {path: /, headers: {Host: usakhidam.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 15, server: hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98057472-daa3-43cc-a23e-b7a8f799ba5b, servername: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir., network: ws, ws-opts: {path: /, headers: {Host: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 16, server: zeus.ns.cloudflare.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: ServerDL-FrankM2.NetSnap.ir, network: ws, ws-opts: {path: /, headers: {Host: ServerDL-FrankM2.NetSnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 17, server: 212.109.197.85, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eb905045-5eeb-45ac-b9de-424f18047ecc, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 18, server: 193.151.139.212, port: 8268, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 19, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 16, server: antifiltervip.pwteam.ir, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, host: antifiltervip.pwteam.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 17, server: s.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 976cd600-97a1-4c9c-b143-c901dbf175e7, network: ws, ws-opts: {path: /, headers: {Host: usakhidam.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 18, server: hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98057472-daa3-43cc-a23e-b7a8f799ba5b, servername: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir., network: ws, ws-opts: {path: /, headers: {Host: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 19, server: zeus.ns.cloudflare.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: ServerDL-FrankM2.NetSnap.ir, network: ws, ws-opts: {path: /, headers: {Host: ServerDL-FrankM2.NetSnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 20, server: spb.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: spb.scroogethebest.com, host: spb.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 21, server: usa.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: usa.scroogethebest.com, host: usa.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 22, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 23, server: 212.109.197.85, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eb905045-5eeb-45ac-b9de-424f18047ecc, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 24, server: 193.151.139.212, port: 8268, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 25, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -513,14 +519,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -539,14 +551,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -565,14 +583,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -600,14 +624,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -626,14 +656,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -652,14 +688,20 @@ proxy-groups:
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
-      - NetAcccount`
       - NetAccount` 13
       - NetAccount` 14
       - NetAccount` 15
+      - NetAcccount`
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
       - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
   - name: دانلود منیجر 📥
     type: select
     proxies:

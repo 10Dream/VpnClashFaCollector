@@ -1,5 +1,5 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-17 20:26:31 UTC
+بروزرسانی: 2026-02-18 01:09:12 UTC
 
 ### 🕒 2026-02-17 20:02:51 UTC
 ***🔐***
@@ -311,53 +311,6 @@ wf.msc
  گزینه Block the connection رو فعال کن ؛ هر سه گزینه (Domain / Private / Public) تیک داشته باشه
 ***🚫***
  همین مراحل رو دقیقاً داخل Outbound Rules هم تکرار کن و تمومه .
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-15 21:22:49 UTC
-***🌟***
- 
-**کانفیگ های جدید اختصاصی OpenVPN**
- 
-**با حجم و اعتبار نامحدود**
-**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
-**بدون نیاز به یوزر پسورد**
-***📍***
- 
-**لینک دانلود برنامه**
-:
-***📥***
- 
-[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
-  |  
-[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
-  | 
-[Windows](https://t.me/PewezaVPN/6690?single)
-***📍***
- 
-[آموزش اتصال تصویری](https://t.me/PewezaVPN/6688?single)
-برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
-
----
-
-### 🕒 2026-02-15 21:10:03 UTC
-**این پروکسی های اختصاصی تلگرام جدید ساخته شدن مناسب نت ملی**
- 
-**برای همه اپراتورها**
-[**پروکسی Peweza اول**](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[**پروکسی Peweza دوم**](https://t.me/proxy?server=web.websecc.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[**پروکسی Peweza سوم**](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[**پروکسی Peweza چهارم**](https://t.me/proxy?server=185.157.214.176&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[**پروکسی Peweza پنجم**](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[**پروکسی Peweza ششم**](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[**پروکسی Peweza هفتم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-این لیست پروکسی رو با عزیزاتون به اشتراک بذارید، ظرفیت بالاست و محدودیتی ندارن.
 ***🔰***
  
 [@PewezaVPN](https://t.me/PewezaVPN)

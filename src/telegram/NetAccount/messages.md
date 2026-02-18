@@ -1,5 +1,66 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-17 20:26:21 UTC
+بروزرسانی: 2026-02-18 01:09:03 UTC
+
+### 🕒 2026-02-17 23:39:48 UTC
+`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
+`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@finfil.madarhome.ir:2074?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
+`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
+
+---
+
+### 🕒 2026-02-17 22:30:16 UTC
+[https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-02-17 21:28:11 UTC
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-02-17 20:58:28 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-17 20:46:58 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
+
+### 🕒 2026-02-17 20:46:06 UTC
+[https://t.me/proxy?server=135.181.1.23&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=135.181.1.23&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+
+---
+
+### 🕒 2026-02-17 20:41:47 UTC
+`vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&sni=nl.jojack.ru#NetAccount`
+`vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=usa.scroogethebest.com#NetAccount`
+`vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&sni=spb.scroogethebest.com#NetAccount`
+
+---
+
+### 🕒 2026-02-17 20:36:39 UTC
+خط مستقیم «پنتاگون - خاورمیانه»، شلوغ تر از خط تاکسی‌های ونک - سیدخندان!
+داده‌های راداری نشون میده اتوبان هوایی آمریکا به سمت خاورمیانه عملا به حالت تکمیل ظرفیت رسیده. تانکرهای سوخت رسان و هواپیماهای باربری سنگین مثل C-17 و KC-135 پشت سر هم روی آتلانتیک صف کشیدن
+بزرگترین تجمع تجهیزات آمریکا از زمان جنگ‌های خلیج فارس اکنون کاملا در جریانه و باقی هفته هم بسیار شلوغ خواهد بود!
+
+---
 
 ### 🕒 2026-02-17 20:21:40 UTC
 `vless://18f72be7-0651-4037-928b-8a309d685796@185.254.98.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&packetEncoding=xudp#NetAccount`
@@ -445,43 +506,6 @@ You are just a blink in our history. We are returning to our roots.
 `vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.138:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
 `vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.181:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#NetAccount`
 `vless://eb905045-5eeb-45ac-b9de-424f18047ecc@212.109.197.85:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dropbox.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#NetAccount`
-
----
-
-### 🕒 2026-02-15 23:26:23 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q)
- | 
-[پروکسی](https://t.me/proxy?server=195.254.165.13&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=116.203.242.112&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=snap.huijsen.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=www.alibaba1409.org&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-15 22:41:28 UTC
-عشقا برید اینو امضا کنید تا از سخنرانی کاظم خودکار دزد و اون زنه که سالها درخدمت جمهوری اسلامی بوده هم جلوگیری شه توی سازمان ملل:
-[https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council](https://actionnetwork.org/petitions/disinvite-iran-regime-fm-araghchi-from-un-human-rights-council)
-
----
-
-### 🕒 2026-02-15 20:33:44 UTC
-شاهزاده رضا پهلوی امشب در گفتگو با فاکس نیوز با اشاره به حضور گسترده ایرانیان در مونیخ و شهرهای مختلف جهان گفت حضور صدها هزار نفر از ایرانیان داخل و خارج کشور نشان دهنده همبستگی بی سابقه و حمایت گسترده از اعتراضات مردمی است. او تاکید کرد با وجود کشتارهای اخیر، مردم ایران همچنان به اعتراض ادامه می دهند و میلیون ها نفر از آن ها از این اعتراضات پشتیبانی می کنند.
-شاهزاده با اشاره به اظهارات رئیس‌جمهوری ایالات متحده درباره تغییر حکومت افزود خواست مردم ایران بسیار روشن است و آن آزادی و رهایی است.
-او همچنین با بیان این که کشتن، اعدام، بازداشت و شکنجه در ایران متوقف نشده است، خواستار مداخله انسانی از سوی جامعه جهانی شد و گفت چنین اقدامی می تواند جان انسان های بیشتری را نجات دهد و به پایان دادن به حکومتی که آن را ناخواسته خواند کمک کند.
 
 ---
 

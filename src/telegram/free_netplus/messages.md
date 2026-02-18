@@ -1,5 +1,5 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-17 20:28:54 UTC
+بروزرسانی: 2026-02-18 01:11:43 UTC
 
 ### 🕒 2026-02-17 20:06:09 UTC
 [پروکسی](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
@@ -624,28 +624,6 @@
 [پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
  |  
 [پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***⚜***
-[@Free_Netplus](https://t.me/Free_Netplus)
- | اینترنت آزاد
-
----
-
-### 🕒 2026-02-15 20:31:19 UTC
-پلی لیستت این ریمیکسو کم داره 
-***🤏🏻***
-***🙂‍↔️***
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- |  
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-  | 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- |  
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/khstak)
- 
 ***⚜***
 [@Free_Netplus](https://t.me/Free_Netplus)
  | اینترنت آزاد

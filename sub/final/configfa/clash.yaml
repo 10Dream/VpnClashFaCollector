@@ -468,11 +468,15 @@ proxies:
   - {name: پازل آزادی، تکه آخر | توانا پروکسی, server: 57.130.28.148, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 74918bc801d53a4b, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5419", server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: Ow8iSExQNaobZPY9bJ4EPI, udp: true, tfo: false}
   - {name: 20.254.21.147:443, server: 20.254.21.147, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)", server: 213.156.137.142, port: 43660, type: ss, cipher: chacha20-ietf-poly1305, password: cc27a3012d81a44c, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-636", server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-630", server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-624", server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-634", server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-629", server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 2", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 3", server: 3.112.130.53, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 4", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-725", server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-726", server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "🇫🇷 [OpenRay] 🇫🇷 FR-628", server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
@@ -486,10 +490,12 @@ proxies:
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-367", server: 149.102.152.25, port: 80, type: ss, cipher: aes-256-gcm, password: RLUoaU4nh8b8Mqq7, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-368", server: 149.102.132.186, port: 80, type: ss, cipher: aes-256-gcm, password: YhzqOeJsfuZ9rkkc, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-369", server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
+  - {name: "@filembad", server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: "🇺🇸 [OpenRay] 🇺🇸 US-12631", server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-370", server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
   - {name: "🇺🇸 [OpenRay] 🇺🇸 US-12652", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-371", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 5", server: 18.183.109.29, port: 3373, type: trojan, password: 9372cb81c7b0ad903f91f2f8a4d3f02b, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی, server: 209.250.224.246, port: 24293, type: trojan, password: Iisy37ABxOJ8Ha_cb5fpXKkm-WSFV, sni: "%F0%9F%94%92", skip-cert-verify: false, udp: true, tfo: false}
   - {name: ❄️ سرد و سریع ⚡ | توانا پروکسی, server: 153.121.65.107, port: 3076, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی, server: 160.16.68.250, port: 3423, type: trojan, password: c1d83c0c7d57cead4379ba14a82df69b, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
@@ -500,6 +506,7 @@ proxies:
   - {name: 📡 این فقط یه اتصال نیست | توانا پروکسی, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: پازل آزادی، تکه آخر | توانا پروکسی 2, server: 172.64.155.209, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-418", server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 6", server: 13.39.91.2, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تاریکه، ولی بازه | توانا پروکسی 2, server: 104.18.15.19, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0665cf1e-0df8-4981-a8de-a366e37c0866, servername: xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: xdol7mayq6wu5kil7wjyrni7o8tnydsafcmhfhn7g6rimbw5o2g6mlm.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی, server: eng14.netliberated.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0bb6dff2-0029-4b81-8c81-4fc70fae1ed9, host: eng14.netliberated.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-13430", server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c77cfd8-dcf8-4558-8a9b-1b39f324d347, servername: serverjadid.teramadolyt.workers.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: serverjadid.teramadolyt.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -870,6 +877,8 @@ proxies:
   - {name: راز • tawanaproxy • Join @panbehnet, server: nodejs.org, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6abc2840-25fd-4dd7-b1aa-0892fe98f2d9, network: ws, ws-opts: {path: "/?ed", headers: {Host: MySterIOUS-chECk94Bl5oXQ6C.eCoTOUriSs.cO.uK.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1716", server: 91.198.77.216, port: 42206, type: vless, tls: true, packet-encoding: xudp, uuid: 6fc297ff-17c0-436a-b982-623d682e339a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[OpenRay] 🇱🇻 LV-292", server: 31.170.22.193, port: 47997, type: vless, tls: true, packet-encoding: xudp, uuid: 7177f5c4-f26a-4ab5-820f-62cb6ba649f7, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20, short-id: ead461}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 7", server: de.v2turbo.com, port: 1521, type: vless, tls: true, packet-encoding: xudp, uuid: 73ccfebc-9b7f-4bb2-9685-2c92bca66947, network: ws, ws-opts: {path: /, headers: {Host: skyroom.online%2Cgharar.ir%2Cigap.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 8", server: 104.25.148.191, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 798ea6aa-ebfe-4636-aee6-b17b8eafe473, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: uqBYRQhpA2NzSIhejwuqjz, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5745", server: 83.147.255.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a7aa0d2-5311-45fc-80b0-9f46f3546793, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5560", server: 83.166.255.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a7aa0d2-5311-45fc-80b0-9f46f3546793, servername: api-maps.yandex.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5688", server: 95.163.211.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a7aa0d2-5311-45fc-80b0-9f46f3546793, servername: st.okcdn.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, skip-cert-verify: false, udp: true, tfo: false}
@@ -912,17 +921,24 @@ proxies:
   - {name: ️ Zero • tawanaproxy • Join @panbehnet, server: 104.17.162.123, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8f1a15bf-a352-4c32-aee2-957039a6847b, servername: 6nwf5rauksz8126xm.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: 6nwf5rauksz8126xm.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️ این فقط برای توئه | توانا پروکسی, server: ipbaz.ping-box.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8f1a15bf-a352-4c32-aee2-957039a6847b, servername: 6nwf5rauksz8126xm.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN?ed=2560", headers: {Host: 6nwf5rauksz8126xm.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ترکوندیم فیلتر رو 💥 | توانا پروکسی, server: ipbaz.ping-box.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8f1a15bf-a352-4c32-aee2-957039a6847b, servername: 6nwf5rauksz8126xm.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /@OnNetVpn, headers: {Host: 6nwf5rauksz8126xm.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: WS-TLS | @Express_alaki | src @anotherme_night, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fc83032-cb7e-4626-8058-f7051a68eb7b, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /44.217.235.114=2053, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-14138", server: 104.17.53.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 919f16d2-ae91-4589-8bb2-a672890e3537, servername: z.linglingqi.dpdns.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: z.linglingqi.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[OpenRay] 🇹🇷 TR-111", server: 93.114.98.171, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 990e5a63-71e4-4dca-b110-ea8f9bf9f54b, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9hLM71lkMgoCAzQJ2WBv5TXI_4Lucl5DctQveS85A0Q, short-id: 1c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 9", server: vip-80.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 991519c1-3680-49b7-bb9f-9029a7a39067, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ما بیشماریم | 🚨 @panbehnet, server: kurd-fr.tawana.online, port: 46248, type: vless, tls: true, packet-encoding: xudp, uuid: a571b94c-a9f3-407a-a8ef-da608dab5472, host: kurd-fr.tawana.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-14360", server: 104.16.0.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /5.223.47.32=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-14355", server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Amazon Data Services, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /47.130.35.116=8888, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: DigitalOcean LLC, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /209.97.173.243=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: SGPVULTRCUST, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /66.42.51.60=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ☢️35@unvisible_drops, server: 38.180.144.156, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ae0a43bc-6189-456e-9b8a-a93f39af336e, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s, short-id: 42d7234d875308a2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5545", server: 51.250.12.100, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b39aca97-e9f2-4a94-b87f-8748299846cd, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: راز • tawanaproxy • Join @panbehnet ازادی, server: 172.66.128.70, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ba2bb9d8-9baa-45d6-9e0a-38c9cb6a6a9a, network: ws, ws-opts: {path: "/?ed", headers: {Host: WeaK-preSSUrE3Ga6bzof92.sPorTlaNd.coMPANY.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-12448", server: 188.114.96.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ba49d874-fe02-465d-82d3-ed981dc7694f, servername: o94yv7lIF0-AnXiSd9EFeHVVS7mxn6Bh.z-ULe-IKA-d-e-Ne-k-E.WORKERs.DEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/dbJqwUHWfrXV0Z3Q?ed=2560", headers: {Host: o94yv7lIF0-AnXiSd9EFeHVVS7mxn6Bh.z-ULe-IKA-d-e-Ne-k-E.WORKERs.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-12446", server: 188.114.97.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ba49d874-fe02-465d-82d3-ed981dc7694f, servername: o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/7J5lLqtBnJg9WjVT?ed=2560", headers: {Host: o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇦 [OpenRay] 🇨🇦 CA-12450", server: 188.114.98.134, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ba49d874-fe02-465d-82d3-ed981dc7694f, servername: o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/yraL4HRbwB8cMc0F?ed=2560", headers: {Host: o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️ DarkX • tawanaproxy • Join @panbehnet, server: 45.144.52.229, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ba9ddd0d-5ffd-4d40-b76d-df32ecb092a1, servername: ficdn2.suio.me, host: ficdn2.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 10", server: zone.kr.lopzo.ir, port: 47880, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5730", server: 84.201.150.241, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: be4ef2f4-8cd5-490b-9b59-a096b49ca46e, servername: help.max.ru, host: help.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZAF9Ig51v2cpHOCtczbVXf-lutAunI6qu3HQPhNK4i4, short-id: cc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: خاموش نشد | توانا پروکسی, server: 104.17.165.123, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c33275fd-a4fa-470d-90e4-55da39d849a8, network: ws, ws-opts: {path: /, headers: {Host: de.tawana.cf.panbehpanel.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: حرکت حافظه دارد | توانا پروکسی, server: 104.26.6.35, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c33275fd-a4fa-470d-90e4-55da39d849a8, network: ws, ws-opts: {path: /, headers: {Host: de.tawana.cf.panbehpanel.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -950,6 +966,8 @@ proxies:
   - {name: Vless Ws Tls 2096-92tqo1e8, server: cdnjs.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: cdddbb3f-5481-4d12-e3ee-597f97910d21, servername: kh2tiyozkxybazdibomyhih.mahdi383ir.website, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /@mahdi_383ir, headers: {Host: kh2tiyozkxybazdibomyhih.mahdi383ir.website}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-476", server: 144.31.100.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9e9cf27-dea6-4f57-94e9-c8182f7259e9, servername: google.com, host: google.com, path: /, reality-opts: {public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g, short-id: 1283729a0a9c1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Vless Ws Tls 443-151skgbu, server: cdnjs.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd06dd80-43c3-413b-c1f4-87332621b574, servername: my.mahdi383website.dpdns.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /@mahdi_383ir, headers: {Host: my.mahdi383website.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 11", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/--Telegram---@MiTiVPN/---@MiTiVPN?/Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN?ed=2560", headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 12", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[OpenRay] 🇮🇹 IT-62", server: 151.101.241.242, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83, network: ws, ws-opts: {path: "/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--/@HqV2RayNG--@HqV2RayNG?ed=2056", headers: {Host: moodaontw.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[OpenRay] 🇧🇪 BE-24", server: 151.101.9.81, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83, network: ws, ws-opts: {path: "/@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--@HqV2RayNG--/@HqV2RayNG--@HqV2RayNG?ed=2056", headers: {Host: moodaontw.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2, server: yellow-disk-0edf.diyenec996.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e73d4e2a-ac73-4948-960a-2c2dd57b7ea8, servername: yellow-disk-0edf.diyenec996.workers.dev, network: ws, ws-opts: {path: /ws, headers: {Host: yellow-disk-0edf.diyenec996.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -961,7 +979,10 @@ proxies:
   - {name: 🇺🇸 >>@oneclickvpnkeys::US, server: 172.67.163.213, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, servername: EMS.Arc-Time.Workers.DEV, alpn: [h3], network: ws, ws-opts: {path: /88ailh3l64gh, headers: {Host: EMS.Arc-Time.Workers.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همه جا گفته نمی‌شه | @panbehnet, server: khabar.motionbetter.ir, port: 39730, type: vless, tls: true, packet-encoding: xudp, uuid: f30fd335-6022-4a8c-a823-3d8e8321d925, host: khabar.motionbetter.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5727", server: 91.196.35.96, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f3c95705-8a7b-4566-9086-d19c2f34b675, servername: help.max.ru, host: help.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A, short-id: f1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 13", server: 94.182.151.29, port: 8587, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-4722", server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 14", server: 45.12.30.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 15", server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همه لازم نیست بدونن | @panbehnet 4, server: 104.17.165.123, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f85f60b1-2b96-49e9-8bde-b656d1516df0, servername: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همیشه لازم نیست دیده شی | توانا پروکسی, server: 104.17.165.123, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f85f60b1-2b96-49e9-8bde-b656d1516df0, servername: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️ Silent • Join @panbehnet, server: 69.84.182.114, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f85f60b1-2b96-49e9-8bde-b656d1516df0, servername: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: "mehrosaboran?ed=2560", headers: {Host: gx8rw8fz783ncefn332y7uyfsvb59o820mryrxu1cj19jiuuur.zjde5.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -974,6 +995,7 @@ proxies:
   - {name: ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy, server: 65.108.108.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: feaf1d64-b44c-4cc8-b114-4001478c1fd0, servername: fit.jojack.ru, host: fit.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: u26A516I3BCfUMPOo6rw0-XYt0C2sCWaPNP2pNdtxzw, short-id: f8865ecbb9bc11a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[OpenRay] 🇱🇹 LT-32", server: 5.199.163.42, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff6fb512-147d-419a-9672-e131133f7189, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA, short-id: e0ef3d5c0aacb615}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Dark • Join @panbehnet, server: 104.24.206.21, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ffa11e82-fa9b-4be1-81a9-c1d48a363df8, network: ws, ws-opts: {path: /, headers: {Host: fancy-sky-db95.mehradrivaldo.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 16", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همه لازم نیست بدونن | @panbehnet 6, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.19.10.94:443, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.19.10.94:443 2, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -989,6 +1011,7 @@ proxies:
   - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1532", server: 62.60.245.128, port: 18188, type: vmess, uuid: 7ba52802-3108-4cfa-8d44-917965ff61dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇰🇷 [OpenRay] 🇰🇷 KR-79", server: 146.56.112.110, port: 8888, type: vmess, uuid: e7c302f3-90d6-42dd-9d7d-94a3683a3707, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [OpenRay] 🇺🇸 US-11502", server: 209.54.104.219, port: 43966, type: vmess, uuid: 0e3606ae-321a-4d0b-85ec-5f4352f4bc24, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 17", server: fi.srvtogo.com, port: 9970, type: vmess, uuid: 704dfc67-26ff-4a5c-9e39-c1f614c7b3a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1008,11 +1031,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -1026,10 +1053,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -1040,6 +1069,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -1410,6 +1440,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -1452,17 +1484,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -1490,6 +1529,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -1501,7 +1542,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -1514,6 +1558,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -1529,6 +1574,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1538,11 +1584,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -1556,10 +1606,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -1570,6 +1622,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -1940,6 +1993,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -1982,17 +2037,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -2020,6 +2082,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -2031,7 +2095,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -2044,6 +2111,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -2059,6 +2127,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -2068,11 +2137,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -2086,10 +2159,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -2100,6 +2175,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -2470,6 +2546,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -2512,17 +2590,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -2550,6 +2635,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -2561,7 +2648,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -2574,6 +2664,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -2589,6 +2680,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2607,11 +2699,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -2625,10 +2721,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -2639,6 +2737,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -3009,6 +3108,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -3051,17 +3152,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -3089,6 +3197,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -3100,7 +3210,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -3113,6 +3226,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -3128,6 +3242,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -3137,11 +3252,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -3155,10 +3274,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -3169,6 +3290,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -3539,6 +3661,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -3581,17 +3705,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -3619,6 +3750,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -3630,7 +3763,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -3643,6 +3779,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -3658,6 +3795,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -3667,11 +3805,15 @@ proxy-groups:
       - پازل آزادی، تکه آخر | توانا پروکسی
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5419
       - 20.254.21.147:443
+      - "@PewezaVPN (تلگرام)"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-636
       - 🇳🇱 [OpenRay] 🇳🇱 NL-630
       - 🇳🇱 [OpenRay] 🇳🇱 NL-624
       - 🇳🇱 [OpenRay] 🇳🇱 NL-634
       - 🇳🇱 [OpenRay] 🇳🇱 NL-629
+      - "@PewezaVPN (تلگرام) 2"
+      - "@PewezaVPN (تلگرام) 3"
+      - "@PewezaVPN (تلگرام) 4"
       - 🇳🇱 [OpenRay] 🇳🇱 NL-725
       - 🇳🇱 [OpenRay] 🇳🇱 NL-726
       - 🇫🇷 [OpenRay] 🇫🇷 FR-628
@@ -3685,10 +3827,12 @@ proxy-groups:
       - 🇬🇧 [OpenRay] 🇬🇧 GB-367
       - 🇬🇧 [OpenRay] 🇬🇧 GB-368
       - 🇬🇧 [OpenRay] 🇬🇧 GB-369
+      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12631
       - 🇬🇧 [OpenRay] 🇬🇧 GB-370
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
+      - "@PewezaVPN (تلگرام) 5"
       - ⚡🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی
       - ❄️ سرد و سریع ⚡ | توانا پروکسی
       - 🔒 قفلِ فیلتر شکست 🔓 | توانا پروکسی
@@ -3699,6 +3843,7 @@ proxy-groups:
       - 📡 این فقط یه اتصال نیست | توانا پروکسی
       - پازل آزادی، تکه آخر | توانا پروکسی 2
       - 🇬🇧 [OpenRay] 🇬🇧 GB-418
+      - "@PewezaVPN (تلگرام) 6"
       - تاریکه، ولی بازه | توانا پروکسی 2
       - 🛡️ سپرِ آزادی 🛡️ | توانا پروکسی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-13430
@@ -4069,6 +4214,8 @@ proxy-groups:
       - راز • tawanaproxy • Join @panbehnet
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1716
       - "[OpenRay] 🇱🇻 LV-292"
+      - "@PewezaVPN (تلگرام) 7"
+      - "@PewezaVPN (تلگرام) 8"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5745
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5560
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5688
@@ -4111,17 +4258,24 @@ proxy-groups:
       - ️ Zero • tawanaproxy • Join @panbehnet
       - ️ این فقط برای توئه | توانا پروکسی
       - ترکوندیم فیلتر رو 💥 | توانا پروکسی
+      - WS-TLS | @Express_alaki | src @anotherme_night
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14138
       - "[OpenRay] 🇹🇷 TR-111"
+      - "@PewezaVPN (تلگرام) 9"
       - ما بیشماریم | 🚨 @panbehnet
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14360
       - 🇨🇦 [OpenRay] 🇨🇦 CA-14355
+      - Amazon Data Services
+      - DigitalOcean LLC
+      - SGPVULTRCUST
+      - ☢️35@unvisible_drops
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5545
       - راز • tawanaproxy • Join @panbehnet ازادی
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12448
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12446
       - 🇨🇦 [OpenRay] 🇨🇦 CA-12450
       - ️ DarkX • tawanaproxy • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 10"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5730
       - خاموش نشد | توانا پروکسی
       - حرکت حافظه دارد | توانا پروکسی
@@ -4149,6 +4303,8 @@ proxy-groups:
       - Vless Ws Tls 2096-92tqo1e8
       - 🇳🇱 [OpenRay] 🇳🇱 NL-476
       - Vless Ws Tls 443-151skgbu
+      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 12"
       - "[OpenRay] 🇮🇹 IT-62"
       - "[OpenRay] 🇧🇪 BE-24"
       - ‍☠️ 🧨 ترکوندیم فیلتر رو 💥 | توانا پروکسی 2
@@ -4160,7 +4316,10 @@ proxy-groups:
       - 🇺🇸 >>@oneclickvpnkeys::US
       - همه جا گفته نمی‌شه | @panbehnet
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5727
+      - "@PewezaVPN (تلگرام) 13"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
       - همه لازم نیست بدونن | @panbehnet 4
       - همیشه لازم نیست دیده شی | توانا پروکسی
       - ️ Silent • Join @panbehnet
@@ -4173,6 +4332,7 @@ proxy-groups:
       - ⚡︎ 𓏺 کانفیگ رایگان @NabiProxy
       - "[OpenRay] 🇱🇹 LT-32"
       - Dark • Join @panbehnet
+      - "@PewezaVPN (تلگرام) 16"
       - همه لازم نیست بدونن | @panbehnet 6
       - 162.19.10.94:443
       - 162.19.10.94:443 2
@@ -4188,6 +4348,7 @@ proxy-groups:
       - 🇳🇱 [OpenRay] 🇳🇱 NL-1532
       - 🇰🇷 [OpenRay] 🇰🇷 KR-79
       - 🇺🇸 [OpenRay] 🇺🇸 US-11502
+      - "@PewezaVPN (تلگرام) 17"
   - name: دانلود منیجر 📥
     type: select
     proxies:
