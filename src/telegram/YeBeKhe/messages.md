@@ -1,5 +1,56 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-18 01:10:46 UTC
+بروزرسانی: 2026-02-18 10:35:51 UTC
+
+### 🕒 2026-02-18 10:16:39 UTC
+‏کم مونده کبوتر های آمریکا رو هم بسیج کنه بفرسته خاورمیانه تا برینن رو سر و هیکل حکومتیا :)
+
+---
+
+### 🕒 2026-02-18 07:30:24 UTC
+***🎥***
+ 
+**کلیپ آموزشی Nekobox + V2RayNG**
+یه ترکیب فوق‌العاده برای باز کردن یوتیوب و توییتر با سرعت بالا 
+***🚀***
+با استفاده همزمان از 
+**Nekobox**
+ و 
+**V2RayNG**
+ می‌تونید اتصال پایدارتر و سریع‌تری برای دسترسی به یوتیوب و X (توییتر سابق) داشته باشید.
+***🔹***
+ لینک کانفیگ 
+**Nekobox**
+:
+[https://pastebin.com/raw/rWeHKSt3](https://pastebin.com/raw/rWeHKSt3)
+***🔹***
+ لینک کانفیگ 
+**V2RayNG**
+:
+[https://pastebin.com/raw/Yfymhyy5](https://pastebin.com/raw/Yfymhyy5)
+***⚠️***
+ نکته مهم:
+حتماً هر دو کلاینت رو روی حالت 
+**VPN Mode**
+ قرار بدید تا ترافیک کامل از تونل عبور کنه.
+***📌***
+[ منبع آموزش: nike](https://x.com/i/status/2023891410404209108)
+
+---
+
+### 🕒 2026-02-18 07:30:23 UTC
+ساب یکی دوستان Hiddify 
+`https://sany0116.jullianna.workers.dev/auto?b64`
+
+---
+
+### 🕒 2026-02-18 05:47:39 UTC
+‏شبکه «انقلاب ملی ایران» توسط تیم اعلیحضرت بصورت آزمایشی در یاهست (1A) شروع بکار کرد، اطلاعات چنل:
+‏ست: یاهست (1A)
+‏فرکانس: 11843
+‏سیمبل ریت: 27500
+‏عمودی V⁩
+
+---
 
 ### 🕒 2026-02-17 20:58:19 UTC
 V2rayNg Hiddify Karing Happ 
@@ -409,17 +460,6 @@ V2rayNg Hiddify Karing Happ
 [https://t.me/proxy?server=android.gq.the-bests-servers.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=android.gq.the-bests-servers.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 [https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
 [https://t.me/proxy?server=chetori-filterchi.tlgstars.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=chetori-filterchi.tlgstars.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-
----
-
-### 🕒 2026-02-16 05:46:43 UTC
-> ↪️ **Forwarded**
-
-دانشجو بازداشتی...
-[#سهند_طاهری](?q=%23%D8%B3%D9%87%D9%86%D8%AF_%D8%B7%D8%A7%D9%87%D8%B1%DB%8C)
- از ایشون هیچ گونه خبری نیست و دوستانش نگرانش هستند!
-این پست رو گذاشتم تا صدا به گوش برسه و حق یک دانشجو یا نخبه در زندان یا حتی ۱ روز بازداشت هم نیست!
-[@xsfilternet](https://t.me/xsfilternet)
 
 ---
 

@@ -1,5 +1,77 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-18 01:09:26 UTC
+بروزرسانی: 2026-02-18 10:34:37 UTC
+
+### 🕒 2026-02-18 10:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`dd10dadd1e7c27a20098abb5bf53ca26a8`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-18 09:30:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`42341`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-18 08:30:01 UTC
+Server: 
+`www.road-digger.info.`
+ 
+Port: 
+`61016`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-18 07:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`42341`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-18 06:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`88`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-18 05:30:02 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`443`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-17 20:28:02 UTC
 Server: 
@@ -452,100 +524,6 @@ Port:
 `443`
 Secret: 
 `3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 10:30:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`443`
-Secret: 
-`7gAAAAAAAAAAAAAAAAAAAAB0Z2p1Lm9yZw%3D%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 10:25:02 UTC
-Server: 
-`Unknown`
-Port: 
-`7443`
-Secret: 
-`AAAAAAAAAAAAAAAAAAAAABQ=`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 09:30:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`2083`
-Secret: 
-`ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 08:30:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`42341`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 08:23:05 UTC
-Server: 
-`iPhone.jordanair.info`
-Port: 
-`7443`
-Secret: 
-`EERighJJvXrFGRMCIMJdCQ`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 07:30:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`4515`
-Secret: 
-`eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 06:30:02 UTC
-Server: 
-`god.gamelande.info.`
- 
-Port: 
-`88`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-16 05:30:01 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`2083`
-Secret: 
-`ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

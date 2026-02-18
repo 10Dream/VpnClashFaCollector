@@ -1,5 +1,221 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-18 01:12:18 UTC
+بروزرسانی: 2026-02-18 10:37:20 UTC
+
+### 🕒 2026-02-18 10:14:58 UTC
+***✅***
+ 
+**کانفیگ‌های جدید و اختصاصی Singbox**
+ 
+**متصل در نت ملی و شرایط سخت اینترنتی**
+برای همه اپراتورها حجم نامحدود
+اتصال ممکنه چند ثانیه طول بکشه
+برای اتصال در اندروید روی فایل کلیک کنید و برنامه Singbox را انتخاب کنید که به برنامه ایمپورت بشه و در آیفون هم فایل رو سیو کنید و با گزینه import from file وارد کنید
+***🔗***
+[لینک دانلود برنامه اندروید](https://play.google.com/store/apps/details?id=io.nekohasekai.sfa)
+***🔗***
+[لینک دانلود آیفون](https://apps.apple.com/us/app/sing-box-vt/id6673731168)
+***🔗***
+[لینک دانلود ویندوز](https://github.com/SagerNet/sing-box/releases/download/v1.12.17/sing-box-1.12.17-windows-amd64-legacy-windows-7.zip)
+**🆔 **
+[**@iphone02016vpn**](https://t.me/iphone02016vpn)
+**+ نظرتون  ؟! 👍 OR 👎**
+
+---
+
+### 🕒 2026-02-18 10:09:39 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 09:54:01 UTC
+***🌟***
+ 
+**کانفیگ های جدید اختصاصی OpenVPN**
+ 
+**با حجم و اعتبار نامحدود**
+**تست شده روی ایرانسل و رایتل (برخی نقاط ممکنه متصل نشه)**
+**بدون نیاز به یوزر پسورد**
+***📍***
+ 
+**لینک دانلود برنامه**
+:
+***📥***
+ 
+[Android](https://play.google.com/store/apps/details?id=net.openvpn.openvpn)
+  |  
+[ios](https://apps.apple.com/nl/app/openvpn-connect-openvpn-app/id590379981)
+  | 
+[Windows](https://t.me/PewezaVPN/6690?single)
+برای اتصال در تمام سیستم عامل ها کافیه روی کانفیگ کلیک کنید و برنامه OpenVPN را انتخاب کنید، یوزرنیم و پسورد را ست کنید و متصل شوید یا کانفیگ را سیو کنید و از داخل برنامه ایمپورت کنید.
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 09:54:01 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 08:50:32 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 08:24:43 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 07:28:18 UTC
+**کانفیگ پرسرعت نرم افزار نت‌مود مخصوص اندروید و ویندوز 💥✅ تست شده بر روی همراه آخر**
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 05:52:55 UTC
+کانفیگ NVP tunnel اختصاصی مناسب تمامی اپراتور ها 
+***🚀***
+لوکیشن آلمان  
+***🇩🇪***
+***✅***
+       برای تمامی اپراتور ها 
+***✅***
+ سرعت دانلود بالا 
+***✅***
+ سرعت آپلود بالا
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 05:50:27 UTC
+[همراه اول](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 05:46:35 UTC
+[https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
+[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 05:33:41 UTC
+[همراه اول آیفون](https://t.me/proxy?server=iPhone.jordanair.info&amp;port=77777&amp;secret=EERighJJvXrFGRMCIMJdCQ)
+ | 
+[ایرانسل آیفون](https://t.me/proxy?server=wine.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی همراه اول اندروید](https://t.me/proxy?server=michael.jordanair.info&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی ایرانسل](https://t.me/proxy?server=wine.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی ایرانسل](https://t.me/proxy?server=champagne.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی مخصوص دانلود](https://t.me/proxy?server=pretty.dokhtarbandari.info.&amp;port=22&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-18 05:33:31 UTC
+[پروکسی](tg://proxy?server=3133433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313343310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=31343310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=3133310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=313310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=13310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=1310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=130.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=10.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=31133433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313113433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313311433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=1122210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=112210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=11210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=1110.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون  ؟! 
+***👍***
+ OR 
+***👎***
+
+---
 
 ### 🕒 2026-02-17 22:51:17 UTC
 `vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cdnjs.com:2083?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#%40VPNSSHOCEAN%204%20PODvless://cdddbb3f-5481-4d12-e3ee-597f97910d21@cdnjs.com:2096?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#%40VPNSSHOCEAN%205%20PODvless://8edf51a7-a211-428d-9685-e6c71959ab9f@cdnjs.com:8443?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#%40VPNSSHOCEAN%206%20PODvless://4b449ca5-55fd-4c23-8da4-661d4e17537a@cdnjs.com:443?mode=stream-up&path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2j1ox4ax6x2jiwiss3dku249y4x72uqjy622h.mahdi383ir.website&fp=firefox&type=xhttp&sni=kh290ybijxxqx2l6w692x8zmygwdx248rr6gjft.mahdi383ir.website#%40VPNSSHOCEAN%207%20PODvless://4ad9f903-cbb1-47db-a0cf-04590acba843@cdnjs.com:2086?mode=auto&path=%2F%40mahdi_383ir&security=none&encryption=none&host=kh2vx4uoqq6dl793v0coq7hop082lo2lx8g96a4.mahdi383ir.website&type=xhttp#%40VPNSSHOCEAN%208%20PODvless://454b5a81-0059-4c34-91aa-6979133c44bb@cdnjs.com:443?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2ub4exbwbpq51iohzjy4qm0ptab2h9ir3rdwg.mahdi383ir.website&fp=firefox&type=httpupgrade&sni=kh2p2brr97af0whs7sbbqqqkq50plzcuajrfz41.mahdi383ir.website#%40BPNSSHOCEAN%209%20POD`
@@ -1080,179 +1296,6 @@ Telegram Proxy
 
 ### 🕒 2026-02-16 10:49:09 UTC
 کانفیگ ویژه وارپ AmneziaVPN
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-16 09:33:34 UTC
-**💎V2ray 💎💋 vlees**
-[***🔻***](https://t.me/proxy?server=170.64.171.194&amp;port=443&amp;secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d)
-**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
-`vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?encryption=none&flow=&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&security=reality&sid=1aab45&sni=yahoo.com&type=#***🆔***@iphone02016vpnvless://db27262a-4151-4c36-8e5f-2cf7fd387a0f@45.144.53.77:8104?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A&security=reality&sid=9f4ca836ca270ef8&sni=tradingview.com&type=#***🆔***@iphone02016vpnvless://f3c95705-8a7b-4566-9086-d19c2f34b675@91.196.35.96:8080?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qGXclTFIbiEJ6sxs5N0V9p91cSdQHElwNxTMS07dM2A&security=reality&sid=f1&sni=help.max.ru&type=#***🆔***@iphone02016vpnvless://7177f5c4-f26a-4ab5-820f-62cb6ba649f7@31.170.22.193:47997?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20&security=reality&sid=ead461&sni=apple.com&type=#***🆔***@iphone02016vpnvmess://nasnet@104.21.69.44:8080?encryption=auto&host=nasnet-511952424.mcitel.co&path=%2Fnasnet%2Fcdn&type=ws#***🆔***@iphone02016vpnvmess://e8b1500b-e9e8-5492-8312-f4eadf7d0767@digitalocean.com:8080?encryption=auto&host=nasnet-571299667.rahavard365.co&path=%2FNASNET%2Fcdn&type=ws#***🆔***@iphone02016vpnvless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@ChatGPT.com:443?encryption=none&flow=&fp=chrome&host=afrcloud22.mmv.kr&path=%2F156.244.1.250%3D8443&security=tls&sni=ProxyVPN11.afrcloud22.mmv.kr&type=ws#***🆔***@iphone02016vpnvless://6202b230-417c-4d8e-b624-0f71afa9c75d@205.233.181.138:2096?encryption=none&flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#***🆔***@iphone02016vpn`
-**کافیست بزنید روش خودش کپی میشه✔️برای استفاده روی اندروید باید آخرین  نسخه های  **
-[v2ray](https://t.me/iphone02016vpn/2579)
-** یا   **
-[nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-**  نصب کنید ✔️برای استفاده روی آیفون باید آخرین نسخه **
-[foxray](https://t.me/iphone02016vpn/17038)
-** و **
-[v2box](https://t.me/iphone02016vpn/15845)
-** یا  **
-[streisand](https://apps.apple.com/us/app/streisand/id6450534064)
-**  نصب کنید چهارتا لوکیشن مختلف 💓کاری از گروه      **
-[پروکسی ](tg://proxy?server=91.107.180.22&amp;port=27&amp;secret=1320PuNyHw_LQKT_Y7XNJw==)
-**   **
-[پروکسی   ](tg://proxy?server=91.107.180.22&amp;port=27&amp;secret=1320PuNyHw_LQKT_Y7XNJw==)
-** ⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.**
-[#نشردهید](?q=%23%D9%86%D8%B4%D8%B1%D8%AF%D9%87%DB%8C%D8%AF)
-****
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
-** **
-[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
-** **
-[#MTProto](?q=%23MTProto)
-****
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
-** **
-[#proxy](?q=%23proxy)
-** **
-[#v2ray](?q=%23v2ray)
-** **
-[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
-** **
-[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-**🆔 **
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-**+ نظرتون  ؟! 👍 OR 👎**
-
----
-
-### 🕒 2026-02-16 08:21:14 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-16 06:29:01 UTC
-کانفیگ ویژه نپسترنت از ۱تا۶
-***🔥***
-**رایگان**
-برای استفاده از کانفیگ نپستر باید برنامه npv tunnel رو 
-از 
-[play store](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-یا 
-[app store (ios) ](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-یا 
-[فایل تلگرامی](https://t.me/iphone02016vpn/24699)
- 
-دانلود کنید.
-اگه فیلترشکنت برای دانلود برنامه npv tunnel نسخه اندروید وصل نمیشه، برای راهنمایی نصب برنامه بدون نیاز به فیلترشکن 
-[روی من کلیک کن](https://t.me/iphone02016vpn/25081)
-.
-**🔺فایل رو دانلود و **
-در فایل منیجر و files 
-**ذخیره کنید**
-وارد اپ بشین قسمت کانفیگ +
-Impoet npvt config file 
-بزنید 
-کانفیگو انتخاب کنید خودکار وارد اپ میشه سپس اتصال بزنید 
-***✋***
-****
-[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
-** **
-[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
-** **
-[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-****
-[#npesternet](?q=%23npesternet)
-**  **
-[#MTProto](?q=%23MTProto)
-**  **
-[#npvTunnel](?q=%23npvTunnel)
-****
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
-** **
-[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
-** **
-[#vpn](?q=%23vpn)
-** **
-[#singbox](?q=%23singbox)
-** **
-[#proxy](?q=%23proxy)
-** **
-[#v2ray](?q=%23v2ray)
-** **
-[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
-** **
-[#NapsternetV](?q=%23NapsternetV)
-** **
-[#iOS](?q=%23iOS)
-** **
-[#Config](?q=%23Config)
-** ❤**
-**️🆔 **
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-**+ نظرتون  ؟! 👍 OR 👎**
-
----
-
-### 🕒 2026-02-16 05:25:10 UTC
-**💎V2ray 💎💋 vlees**
-[***🔻***](https://t.me/proxy?server=170.64.171.194&amp;port=443&amp;secret=eed0d6e111bada5511fcce9584deadbeef74656c65776562696f6e2e636f6d)
-**با یک ضربه روی سرور کپی میشود ، سپس سرور را وارد و متصل شوید**
-`ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#%DB%8C%D8%A7%D9%85%E2%80%8C%DB%8C%D8%A7%D9%85%20%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8Css://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***🆔***@iphone02016vpnss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***🆔***@iphone02016vpnss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***🆔***@iphone02016vpnss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***🆔***@iphone02016vpnss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446#***🆔***@iphone02016vpnvless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&type=tcp&sni=yahoo.com&sid=1aab45#***🆔***@iphone02016vpnvless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360?security=reality&encryption=none&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&headerType=none&type=tcp&sni=yahoo.com&sid=1aab45#***🆔***@iphone02016vpnss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#***🆔***@iphone02016vpn`
-**کافیست بزنید روش خودش کپی میشه✔️برای استفاده روی اندروید باید آخرین  نسخه های  **
-[v2ray](https://t.me/iphone02016vpn/2579)
-** یا   **
-[nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-**  نصب کنید ✔️برای استفاده روی آیفون باید آخرین نسخه **
-[foxray](https://t.me/iphone02016vpn/17038)
-** و **
-[v2box](https://t.me/iphone02016vpn/15845)
-** یا  **
-[streisand](https://apps.apple.com/us/app/streisand/id6450534064)
-**  نصب کنید چهارتا لوکیشن مختلف 💓کاری از گروه      **
-[پروکسی ](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-**   **
-[پروکسی   ](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-** ⚠️ عملکرد سرورها روی هر اپراتور متفاوت است در صورت قطعی از سرورهای دیگر کانال استفاده کنید.**
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
-** **
-[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
-** **
-[#MTProto](?q=%23MTProto)
-** **
-[#proxy](?q=%23proxy)
-** **
-[#v2ray](?q=%23v2ray)
-** **
-[#ss](?q=%23ss)
- 
-[#vlees](?q=%23vlees)
- 
-[#vmees](?q=%23vmees)
-**🆔 **
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-**+ نظرتون  ؟! 👍 OR 👎**
-
----
-
-### 🕒 2026-02-16 03:27:01 UTC
-`wireguard://MOjo8%2Flm7ztMz436Hg79DeUxzkXcBaRgbjuA3wS022I%3D@162.159.192.2:878?address=172.16.0.2%2F32&presharedkey=&reserved=28%2C145%2C57&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280#%F0%9F%86%94%20%40iphone02016vpn%20%D9%88%D8%A7%DB%8C%D8%B1%DA%AF%D8%A7%D8%B1%D8%AF%20%DB%B3`
-وایرگارد۳
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)

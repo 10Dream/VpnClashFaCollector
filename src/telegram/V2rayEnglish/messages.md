@@ -1,5 +1,41 @@
 # آرشیو کانال: @V2rayEnglish
-بروزرسانی: 2026-02-18 01:10:39 UTC
+بروزرسانی: 2026-02-18 10:35:44 UTC
+
+### 🕒 2026-02-18 08:43:10 UTC
+**کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
+**←**
+[دانلود نپسترنت](https://t.me/V2rayEnglish/2287)
+**→**
+[](https://t.me/V2rayEnglish/2240)
+**←**
+[آموزش وصل شدن](https://t.me/V2rayEnglish/2247)
+**→**
+****
+**برای دوستان خود اشتراک گذاری کنید!**
+[@V2rayEnglish](https://t.me/V2rayEnglish)
+ | عضو شو
+[@V2rayEnglish](https://t.me/V2rayEnglish)
+ | عضو شو
+
+---
+
+### 🕒 2026-02-18 06:17:38 UTC
+**کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
+**←**
+[دانلود نپسترنت](https://t.me/V2rayEnglish/2287)
+**→**
+[](https://t.me/V2rayEnglish/2240)
+**←**
+[آموزش وصل شدن](https://t.me/V2rayEnglish/2247)
+**→**
+****
+**برای دوستان خود اشتراک گذاری کنید!**
+[@V2rayEnglish](https://t.me/V2rayEnglish)
+ | عضو شو
+[@V2rayEnglish](https://t.me/V2rayEnglish)
+ | عضو شو
+
+---
 
 ### 🕒 2026-02-17 20:36:54 UTC
 سرور هامون مثل موشک فعاله
@@ -185,60 +221,6 @@
 ---
 
 ### 🕒 2026-02-16 14:59:35 UTC
-**کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
-**←**
-[دانلود نپسترنت](https://t.me/V2rayEnglish/2287)
-**→**
-[](https://t.me/V2rayEnglish/2240)
-**←**
-[آموزش وصل شدن](https://t.me/V2rayEnglish/2247)
-**→**
-****
-**برای دوستان خود اشتراک گذاری کنید!**
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-
----
-
-### 🕒 2026-02-16 09:33:06 UTC
-**کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
-**←**
-[دانلود نپسترنت](https://t.me/V2rayEnglish/2287)
-**→**
-[](https://t.me/V2rayEnglish/2240)
-**←**
-[آموزش وصل شدن](https://t.me/V2rayEnglish/2247)
-**→**
-****
-**برای دوستان خود اشتراک گذاری کنید!**
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-
----
-
-### 🕒 2026-02-16 08:43:31 UTC
-**کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
-**←**
-[دانلود نپسترنت](https://t.me/V2rayEnglish/2287)
-**→**
-[](https://t.me/V2rayEnglish/2240)
-**←**
-[آموزش وصل شدن](https://t.me/V2rayEnglish/2247)
-**→**
-****
-**برای دوستان خود اشتراک گذاری کنید!**
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-[@V2rayEnglish](https://t.me/V2rayEnglish)
- | عضو شو
-
----
-
-### 🕒 2026-02-16 05:45:48 UTC
 **کانفیگ npv | نپستر✔️مخصوص نت ملی🇮🇷🌐تمام اپراتور ها🌐**
 **←**
 [دانلود نپسترنت](https://t.me/V2rayEnglish/2287)

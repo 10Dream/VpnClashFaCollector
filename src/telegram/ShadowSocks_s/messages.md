@@ -1,5 +1,32 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-18 01:10:25 UTC
+بروزرسانی: 2026-02-18 10:35:31 UTC
+
+### 🕒 2026-02-18 06:19:56 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-18 06:19:33 UTC
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-18 06:19:18 UTC
+`vless://18f72be7-0651-4037-928b-8a309d685796@185.254.98.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&packetEncoding=xudp#NetAccountvless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#NetAccountss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#NetAccountss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#NetAccounttrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#NetAccount`
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
 
 ### 🕒 2026-02-17 18:51:34 UTC
 شبکه ۱۲ اسرائیل: شواهد نشان می‌دهد جنگ این هفته آغاز می‌شود!
@@ -482,51 +509,6 @@ This is the End .
 سناتور گراهام در مورد ایران:
 ظاهراً، در ایران معمولاً مرا «عمو لیندسی» صدا می‌زنند.
 ظاهراً این چیز خوبی است.
-
----
-
-### 🕒 2026-02-16 09:31:14 UTC
-من زادگاه کوروشم
-***❤️***
-***✌🏻***
-
----
-
-### 🕒 2026-02-16 08:54:10 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-16 08:45:46 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q)
- | 
-[پروکسی](https://t.me/proxy?server=195.254.165.13&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=116.203.242.112&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=snap.huijsen.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=www.alibaba1409.org&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-16 08:45:23 UTC
-پسر کو ندارد نشان از پدر
-***❤️***
-***🔥***
 
 ---
 

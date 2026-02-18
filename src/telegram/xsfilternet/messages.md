@@ -1,5 +1,19 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-18 01:14:12 UTC
+بروزرسانی: 2026-02-18 10:39:07 UTC
+
+### 🕒 2026-02-18 10:27:56 UTC
+سرور های رایگان سنگاپور، برای کاربران اپلیکیشن ProxyCloud و IRBox به صورت رایگان قرار گرفتند.  - لینک زیر رو به عنوان Subscription اضافه کنید. - با هر دو هسته xray و sing-box سازگار هستند.  https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox…
+
+---
+
+### 🕒 2026-02-18 01:42:30 UTC
+سرور های رایگان سنگاپور، برای کاربران اپلیکیشن ProxyCloud و IRBox به صورت رایگان قرار گرفتند.
+- لینک زیر رو به عنوان Subscription اضافه کنید.
+- با هر دو هسته xray و sing-box سازگار هستند.
+[https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox](https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox)
+احتمال میدم که، روی همراه اول فیلتر باشه. ولی یا ایرانسل تست شده.
+
+---
 
 ### 🕒 2026-02-17 23:04:38 UTC
 دور زدن 

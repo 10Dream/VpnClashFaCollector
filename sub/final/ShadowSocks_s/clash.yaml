@@ -465,9 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: 93.185.165.50, port: 55211, type: vless, tls: true, packet-encoding: xudp, uuid: 1a9b771a-b717-49c8-9e93-f6b3d508d637, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ, short-id: 1885}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount`, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: NetAccount 3, server: 193.42.11.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 4, server: 93.185.165.50, port: 55211, type: vless, tls: true, packet-encoding: xudp, uuid: 1a9b771a-b717-49c8-9e93-f6b3d508d637, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ, short-id: 1885}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAcccount, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount`, server: s.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 976cd600-97a1-4c9c-b143-c901dbf175e7, network: ws, ws-opts: {path: /, headers: {Host: usakhidam.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: s.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 976cd600-97a1-4c9c-b143-c901dbf175e7, network: ws, ws-opts: {path: /, headers: {Host: usakhidam.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,8 +489,12 @@ proxy-groups:
     type: select
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -494,8 +502,12 @@ proxy-groups:
     tolerance: 50
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -503,8 +515,12 @@ proxy-groups:
     tolerance: 50
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -521,8 +537,12 @@ proxy-groups:
     interval: 600
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -530,8 +550,12 @@ proxy-groups:
     interval: 600
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -539,8 +563,12 @@ proxy-groups:
     interval: 600
     proxies:
       - NetAccount
-      - NetAcccount
+      - NetAccount 2
       - NetAccount`
+      - NetAccount 3
+      - NetAccount 4
+      - NetAcccount
+      - NetAccount` 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

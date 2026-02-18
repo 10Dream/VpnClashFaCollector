@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-18 01:11:21 UTC
+بروزرسانی: 2026-02-18 10:36:24 UTC
 
 ### 🕒 2026-02-18 01:07:59 UTC
 vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%B8%F0%9F%87%AC%20DigitalOcean%20LLC

@@ -1,5 +1,5 @@
 # آرشیو کانال: @MARAMBASHI
-بروزرسانی: 2026-02-18 01:08:47 UTC
+بروزرسانی: 2026-02-18 10:34:02 UTC
 
 ### 🕒 2026-02-17 22:04:06 UTC
 ***🌊***
@@ -411,38 +411,6 @@
 ***🔐***
 [برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
 ***🔐***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 10:12:48 UTC
-***🔶***
-کانفیگ ویتوری همه اپراتورا
-***🔶***
-`ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206aWV0WGJmcTAzVmg4WENheHlDRElFZz09@95.217.37.166:2020#%40MARAMBASHI%20%F0%9F%A5%B6ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNmIwOTczNDAxODU4YjI5@57.129.95.198:11201#%40MARAMBASHI%20%F0%9F%A5%B6vless://2e2ee67a-946f-43bf-9328-6eb9e8cbd9dd@140.248.165.204:80?mode=auto&path=%2Fpachs%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=ujdows.global.ssl.fastly.net&type=xhttp#%40MARAMBASHI%20%F0%9F%A5%B6vless://1ad30723-7772-4d8b-855e-933650f6906b@94.182.149.197:52952?mode=auto&path=%2F&security=reality&encryption=none&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&spx=%2FPOST&type=xhttp&sni=www.varzesh3.com&sid=cf8d48a6#%40MARAMBASHI%20%F0%9F%A5%B6vless://0b307dac-43a0-4a8f-acba-50a8ebe8b76f@mtu.silentbreath.world:5053?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%40MARAMBASHI%20%F0%9F%A5%B6vless://5c430300-999a-4df3-97d2-50b2c53adf28@178.154.207.153:443?security=reality&encryption=none&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=a20d3ed244c76426#%40MARAMBASHI%20%F0%9F%A5%B6vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40MARAMBASHI%20%F0%9F%A5%B6`
-منطقه ای
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***📶***
-همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
-[آموزش](https://t.me/MARAMBASHI/31359)
-)
-***🛜***
-***🛜***
-***🔶***
-[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
-***🔶***
- 
-***⚪️***
-[خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
-***⚫️***
 ***✅***
  
 [@MARAMBASHI](https://t.me/MARAMBASHI)

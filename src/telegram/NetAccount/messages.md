@@ -1,5 +1,41 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-18 01:09:03 UTC
+بروزرسانی: 2026-02-18 10:34:17 UTC
+
+### 🕒 2026-02-18 09:38:16 UTC
+[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+  
+[پروکسی](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.37&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ 
+[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+
+---
 
 ### 🕒 2026-02-17 23:39:48 UTC
 `vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
@@ -428,84 +464,6 @@ Trust Trump
 ### 🕒 2026-02-16 14:09:15 UTC
 پرواز بیش از 20 جنگنده F-35A آمریکایی به سوی منطقه
 ساعتی پیش شش هواپیمای سوخت‌رسان KC-135 به همراه دستکم هفت جنگنده F-35A از پایگاه لیکن‌هیث به سمت خاورمیانه پرواز کردند.
-
----
-
-### 🕒 2026-02-16 09:31:51 UTC
-کانفیگ برنامه Ha Tunnel
-
----
-
-### 🕒 2026-02-16 09:12:28 UTC
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.172&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- |
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- |
-
----
-
-### 🕒 2026-02-16 07:04:34 UTC
-***🦁***
- Iran’s Lion & Sun: 2,500 Years
-***🌙***
- Islam: 1,400 Years
-***🦀***
- Islamic Republic: 47 Years
-You are just a blink in our history. We are returning to our roots. 
-***🦁***
-***☀️***
-
----
-
-### 🕒 2026-02-16 06:24:30 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- داداش این رفیقمونو میتونی یه خبری ازش بزاری
-ستار گوهری فر دانشجوی بیوتکنولوژی ورودی 1403 دانشگاه بهشتی
-اصالتا یاسوجیه و رفیقای یاسوجیم از 19 دی که بازداشت شده ازش خبر ندارن
-
----
-
-### 🕒 2026-02-16 05:42:32 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-16 05:00:18 UTC
-عمو محسن هم توی تجمع مونیخ حضور داشته و ما هم به اندازه خودش خوشحالیم که دیگه تنها نیست
-***❤️***
-
----
-
-### 🕒 2026-02-16 01:54:35 UTC
-**بنیامین نتانیاهو: جمهوری اسلامی فقط در یک مورد قابل اعتماد است و آن دروغ گفتن است**
-.
-نتانیاهو پیش‌تر گفته بود نسبت به هر نوع توافقی با جمهوری اسلامی بدبین است و در سخنرانی امروز تاکید کرد که جمهوری اسلامی فقط در یک مورد قابل اعتماد است و آن این است که دروغ می‌گوید.
-او در این سخنرانی تاکید کرد که توافق با جمهوری اسلامی باید شامل هیچگونه غنی سازی نباشد و زیرساخت هسته‌ای آن برچیده شود و همچنین برد موشک‌های بالستیک به 300 کیلومتر محدود شود.
-
----
-
-### 🕒 2026-02-16 01:36:43 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- اینو برای بچه های کانادا پخش میکنی؟
-فقط باید رزیدنت یا شهروند باشن بتونن امضا کنن (نیاز نیست الان توی کانادا باشن تا وضعیت اقامت دارن کافیه) و بعد از امضا ایمیل تایید میاد چون روند تایید دستیه طول میکشه ایمیل بیاد
-[https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7152](https://www.ourcommons.ca/petitions/en/Petition/Details?Petition=e-7152)
-اگه رزیدنت یا شهروند کانادا هستین اینو هم امضا کنین. برای به رسمیت شناختن شاهزاده رضا پهلوی برای دوره گذار توسط دولت کاناداس
-
----
-
-### 🕒 2026-02-16 01:32:51 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.10.214.238:2096?host=sni.jpmj.dev&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&sni=sni.jpmj.dev&type=ws#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.138:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.181:443?security=tls&type=ws&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&host=sni.111000.indevs.in&sni=sni.111000.indevs.in&fp=chrome&encryption=none#NetAccount`
-`vless://eb905045-5eeb-45ac-b9de-424f18047ecc@212.109.197.85:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dropbox.com&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#NetAccount`
 
 ---
 
