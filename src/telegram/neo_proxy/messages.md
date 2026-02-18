@@ -1,107 +1,25 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-18 10:37:41 UTC
+بروزرسانی: 2026-02-18 20:31:58 UTC
 
-### 🕒 2026-02-18 10:36:13 UTC
-[**کانفیگ ایرانسل متصل**](https://t.me/+_KOFc4_Ou29hMzA0)
-***🔐***
-***🛜***
-***🔐***
-
----
-
-### 🕒 2026-02-18 10:34:34 UTC
-***🇮🇷***
- 
-**کانفیگ ملی پینگ ۹۰ :**
- 
-[**اتصال**](https://t.me/+_KOFc4_Ou29hMzA0)
- 
-***✅***
-
----
-
-### 🕒 2026-02-18 10:32:23 UTC
-***📶***
- 
-[**کانفینگ V2rey نت ملی متصل**](https://t.me/+_KOFc4_Ou29hMzA0)
- 
-***✅***
-
----
-
-### 🕒 2026-02-18 10:30:03 UTC
-***🉐***
- کانفیگ ژاپنی فقط برای دانلود:
-[私は鳥を飼っているあなたが私の友達になってほしい私は緑と暗い家私は鳥を飼っているあなたが私の友達になってほしい私は緑と暗い家](https://t.me/+_KOFc4_Ou29hMzA0)
-
----
-
-### 🕒 2026-02-18 10:28:27 UTC
-گوشیتو پر از 
-**فیلترشکن**
- نکن ! 
-اشتراک اختصاصی بخر که توی قطعیم وصل میشه خودم با این وصلم 
-***😎***
+### 🕒 2026-02-18 20:09:38 UTC
+***🔷***
+** اونایی که هزینه لمینت و کامپوزیت ندارن با دقت این ویدیو رو ببینید **
+***👆🏼***
+***👆🏼***
+***🦷***
+**یه روش جدید اومده که توی خونه به راحتی میتونید دندون  هاتون رو سفید کنید... **
+***🎯***
+پس همین حالا روی
+** لینک زیر **
+کیلیک کن و 
+**شماره ات**
+ رو وارد کن تا این پک رو با یه 
+**تخفیف ویژه**
+ دریافت کنی
 ***👇***
 ***👇***
-[@‌MelliVPN](https://t.me/+_KOFc4_Ou29hMzA0)
-
----
-
-### 🕒 2026-02-18 10:26:14 UTC
-پینگ زیر 100 
-***✅***
-
----
-
-### 🕒 2026-02-18 10:24:35 UTC
-***❌***
- اینم نسخه ضدفیلترش واسه روزای جنگ سیو کنید   
-***💥***
- ,Proxy_Jangi 
-***🔥***
-
----
-
-### 🕒 2026-02-18 10:22:20 UTC
-***❌***
- اینم نسخه ضدفیلترش واسه 
-**روزای**
- 
-**جنگ**
- سیو کنید 
-***💥***
- ,
-[Proxy_Jangi](https://t.me/+_KOFc4_Ou29hMzA0)
- 
-***🔥***
-
----
-
-### 🕒 2026-02-18 10:20:04 UTC
-PROXY1 / PROXY2 / PROXY3  PROXY4 / PROXY5 / PROXY6  PROXY7 / PROXY8 / PROXY9
-
----
-
-### 🕒 2026-02-18 10:18:03 UTC
-[PROXY1 / PROXY2 / PROXY3 PROXY4 / PROXY5 / PROXY6 PROXY7 / PROXY8 / PROXY9](https://t.me/+_KOFc4_Ou29hMzA0)
-
----
-
-### 🕒 2026-02-18 10:16:14 UTC
-***🔸***
-**پروکسی استارلینک دانلود 1 گیگ تو 20**
- 
-**ثانیه.**
-      
-***🔸***
-***🔸***
-***🔸***
-   
-***👇***
-***👇***
-***👇***
-[El proxy más fuerte Elon Mask-Proxy se conecta automáticamente al servidor principal, descarga fácilmente](https://t.me/+_KOFc4_Ou29hMzA0)
+[https://landing.saamim.com/CGGYF](https://landing.saamim.com/CGGYF)
+[https://landing.saamim.com/CGGYF](https://landing.saamim.com/CGGYF)
 
 ---
 
@@ -268,84 +186,6 @@ PROXY1 / PROXY2 / PROXY3  PROXY4 / PROXY5 / PROXY6  PROXY7 / PROXY8 / PROXY9
  
 [@DarkProxy](https://t.me/DarkProxy)
 [@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-16 20:31:21 UTC
-چراغ های کوچه را شکسته اند
-زورشان به صبح که نمی رسد
-درخت های قد کشیده را سر زدند
-زورشان به جوانه که نمی رسد
-زمستان است
-زمستان است، قبول
-زورشان به بهار که نمی رسد
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-16 20:30:31 UTC
-پرسید او هم هنوز تو را به یاد دارد؟ با لبخندی غمگین به او گفتم من وقتی که کنارش بودم هم فراموش شده بودم...
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-16 20:14:47 UTC
-فرقی نمیکنه مجرد باشی یا متاهل همه به سکسولوژیست نیاز دارن اما بخاطر خانواده ها و تابو های کشورمون محروم شدیم .. 
-اما حداقل با عضویت تو کانال زناشویی ما مسائل رو بی پرده و به صورت فیلم و عکس ببین:
-***🔞***
-[@SexologiHot](https://t.me/+Vh36YBshNF8xMWQx)
 
 ---
 

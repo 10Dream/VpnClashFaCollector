@@ -1,5 +1,497 @@
 # آرشیو کانال: @spicyprx
-بروزرسانی: 2026-02-18 10:38:14 UTC
+بروزرسانی: 2026-02-18 20:32:31 UTC
+
+### 🕒 2026-02-18 18:24:05 UTC
+***🤖***
+To see complete price list join the bot
+
+---
+
+### 🕒 2026-02-18 18:23:55 UTC
+***⚡️***
+ 
+**New Proxies**
+**Top 10 Digital Currencies**
+***🪙***
+ 
+**BITCOIN**
+: 10,961,911,588 T | 66,890 $
+***🪙***
+ 
+**ETHEREUM**
+: 321,305,818 T | 1,966 $
+***🪙***
+ 
+**TETHER**
+: 163,776 T | - $
+***🪙***
+ 
+**USDC**
+: 163,045 T | 1 $
+***🪙***
+ 
+**BNB**
+: 100,000,023 T | 613 $
+***🪙***
+ 
+**SOLANA**
+: 13,374,443 T | 81.71 $
+***🪙***
+ 
+**XRP**
+: 237,187 T | 1.45 $
+***🪙***
+ 
+**CARDANO**
+: 45,402 T | 0.2779 $
+***🪙***
+ 
+**DOGECOIN**
+: 16,242 T | 0.09921 $
+***🪙***
+ 
+**TRON**
+: 46,000 T | 0.2798 $
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
+
+### 🕒 2026-02-18 18:23:44 UTC
+***⚡️***
+ 
+**New Proxies**
+***💰***
+ 
+**Gold Coins**
+***🟠***
+ 
+**EMAMI**
+ Buy: 192,000,000 Sell: 195,500,000
+***🟡***
+ 
+**AZADI**
+ Buy: 184,500,000 Sell: 189,500,000
+***🟡***
+ 
+**1/2 AZADI**
+ Buy: 97,500,000 Sell: 100,000,000
+***🟡***
+ 
+**1/4 AZADI**
+ Buy: 52,500,000 Sell: 55,500,000
+***🟡***
+ 
+**AZADI1G**
+ Buy: 25,500,000 Sell: 27,500,000
+***💰***
+ 
+**Other Prices**
+***💰***
+ 
+**Gold Mithqal**
+: 85,197,000
+***💰***
+ 
+**Gold Gram**
+: 19,667,805
+***🟠***
+ 
+**Ounce**
+: 4,994 USD
+***🪙***
+ 
+**Bitcoin**
+: 66,810 USD
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
+
+### 🕒 2026-02-18 18:23:33 UTC
+***⚡️***
+ 
+**New Proxies**
+***🇮🇷***
+ 
+**Live Prices vs Iranian Toman**
+***💰***
+ 
+**Currencies**
+***🇺🇸***
+ 
+**USD**
+ Buy: 161,700  Sell: 161,800
+***🇪🇺***
+ 
+**EUR**
+ Buy: 191,000  Sell: 191,200
+***🇬🇧***
+ 
+**GBP**
+ Buy: 218,850  Sell: 219,050
+***🇨🇭***
+ 
+**CHF**
+ Buy: 209,450  Sell: 209,650
+***🇨🇦***
+ 
+**CAD**
+ Buy: 118,300  Sell: 118,400
+***🇦🇺***
+ 
+**AUD**
+ Buy: 114,300  Sell: 114,400
+***🇸🇪***
+ 
+**SEK**
+ Buy: 17,900  Sell: 18,000
+***🇳🇴***
+ 
+**NOK**
+ Buy: 17,050  Sell: 17,050
+***🇷🇺***
+ 
+**RUB**
+ Buy: 2,105  Sell: 2,110
+***🇹🇭***
+ 
+**THB**
+ Buy: 5,185  Sell: 5,190
+***🇸🇬***
+ 
+**SGD**
+ Buy: 127,750  Sell: 127,850
+***🇭🇰***
+ 
+**HKD**
+ Buy: 20,600  Sell: 20,700
+***🇦🇿***
+ 
+**AZN**
+ Buy: 95,300  Sell: 95,400
+***🇦🇲***
+ 
+**AMD**
+ Buy: 4,280  Sell: 4,285
+***🇩🇰***
+ 
+**DKK**
+ Buy: 25,500  Sell: 25,600
+***🇦🇪***
+ 
+**AED**
+ Buy: 44,550  Sell: 44,600
+***🇯🇵***
+ 
+**JPY**
+ Buy: 10,500  Sell: 10,500
+***🇹🇷***
+ 
+**TRY**
+ Buy: 3,675  Sell: 3,695
+***🇨🇳***
+ 
+**CNY**
+ Buy: 23,400  Sell: 23,400
+***🇸🇦***
+ 
+**SAR**
+ Buy: 43,050  Sell: 43,150
+***🇮🇳***
+ 
+**INR**
+ Buy: 1,780  Sell: 1,785
+***🇲🇾***
+ 
+**MYR**
+ Buy: 41,350  Sell: 41,450
+***🇦🇫***
+ 
+**AFN**
+ Buy: 2,605  Sell: 2,610
+***🇰🇼***
+ 
+**KWD**
+ Buy: 527,250  Sell: 527,650
+***🇮🇶***
+ 
+**IQD**
+ Buy: 12,350  Sell: 12,350
+***🇧🇭***
+ 
+**BHD**
+ Buy: 428,700  Sell: 429,200
+***🇴🇲***
+ 
+**OMR**
+ Buy: 420,500  Sell: 420,800
+***🇶🇦***
+ 
+**QAR**
+ Buy: 44,400  Sell: 44,500
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
+
+### 🕒 2026-02-18 14:24:05 UTC
+***🤖***
+To see complete price list join the bot
+
+---
+
+### 🕒 2026-02-18 14:23:55 UTC
+***⚡️***
+ 
+**New Proxies**
+**Top 10 Digital Currencies**
+***🪙***
+ 
+**BITCOIN**
+: 10,951,000,003 T | 67,141 $
+***🪙***
+ 
+**ETHEREUM**
+: 321,001,000 T | 1,969 $
+***🪙***
+ 
+**TETHER**
+: 162,900 T | - $
+***🪙***
+ 
+**USDC**
+: 162,257 T | 1 $
+***🪙***
+ 
+**BNB**
+: 99,581,726 T | 611.13 $
+***🪙***
+ 
+**SOLANA**
+: 13,474,000 T | 82.51 $
+***🪙***
+ 
+**XRP**
+: 238,000 T | 1.46 $
+***🪙***
+ 
+**CARDANO**
+: 45,602 T | 0.2807 $
+***🪙***
+ 
+**DOGECOIN**
+: 16,298 T | 0.09989 $
+***🪙***
+ 
+**TRON**
+: 45,825 T | 0.2799 $
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
+
+### 🕒 2026-02-18 14:23:44 UTC
+***⚡️***
+ 
+**New Proxies**
+***💰***
+ 
+**Gold Coins**
+***🟠***
+ 
+**EMAMI**
+ Buy: 191,000,000 Sell: 195,000,000
+***🟡***
+ 
+**AZADI**
+ Buy: 184,500,000 Sell: 189,500,000
+***🟡***
+ 
+**1/2 AZADI**
+ Buy: 97,000,000 Sell: 100,000,000
+***🟡***
+ 
+**1/4 AZADI**
+ Buy: 52,000,000 Sell: 55,500,000
+***🟡***
+ 
+**AZADI1G**
+ Buy: 25,500,000 Sell: 27,500,000
+***💰***
+ 
+**Other Prices**
+***💰***
+ 
+**Gold Mithqal**
+: 84,342,000
+***💰***
+ 
+**Gold Gram**
+: 19,470,427
+***🟠***
+ 
+**Ounce**
+: 4,956 USD
+***🪙***
+ 
+**Bitcoin**
+: 67,042 USD
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
+
+### 🕒 2026-02-18 14:23:34 UTC
+***⚡️***
+ 
+**New Proxies**
+***🇮🇷***
+ 
+**Live Prices vs Iranian Toman**
+***💰***
+ 
+**Currencies**
+***🇺🇸***
+ 
+**USD**
+ Buy: 161,250  Sell: 161,350
+***🇪🇺***
+ 
+**EUR**
+ Buy: 190,800  Sell: 191,000
+***🇬🇧***
+ 
+**GBP**
+ Buy: 218,700  Sell: 218,900
+***🇨🇭***
+ 
+**CHF**
+ Buy: 209,050  Sell: 209,250
+***🇨🇦***
+ 
+**CAD**
+ Buy: 118,050  Sell: 118,150
+***🇦🇺***
+ 
+**AUD**
+ Buy: 113,950  Sell: 114,050
+***🇸🇪***
+ 
+**SEK**
+ Buy: 17,900  Sell: 18,000
+***🇳🇴***
+ 
+**NOK**
+ Buy: 17,000  Sell: 17,000
+***🇷🇺***
+ 
+**RUB**
+ Buy: 2,100  Sell: 2,105
+***🇹🇭***
+ 
+**THB**
+ Buy: 5,155  Sell: 5,160
+***🇸🇬***
+ 
+**SGD**
+ Buy: 127,500  Sell: 127,600
+***🇭🇰***
+ 
+**HKD**
+ Buy: 20,550  Sell: 20,650
+***🇦🇿***
+ 
+**AZN**
+ Buy: 94,900  Sell: 95,000
+***🇦🇲***
+ 
+**AMD**
+ Buy: 4,280  Sell: 4,285
+***🇩🇰***
+ 
+**DKK**
+ Buy: 25,450  Sell: 25,550
+***🇦🇪***
+ 
+**AED**
+ Buy: 44,550  Sell: 44,600
+***🇯🇵***
+ 
+**JPY**
+ Buy: 10,500  Sell: 10,500
+***🇹🇷***
+ 
+**TRY**
+ Buy: 3,665  Sell: 3,685
+***🇨🇳***
+ 
+**CNY**
+ Buy: 23,350  Sell: 23,350
+***🇸🇦***
+ 
+**SAR**
+ Buy: 42,900  Sell: 43,000
+***🇮🇳***
+ 
+**INR**
+ Buy: 1,775  Sell: 1,780
+***🇲🇾***
+ 
+**MYR**
+ Buy: 40,900  Sell: 41,000
+***🇦🇫***
+ 
+**AFN**
+ Buy: 2,575  Sell: 2,580
+***🇰🇼***
+ 
+**KWD**
+ Buy: 526,000  Sell: 526,400
+***🇮🇶***
+ 
+**IQD**
+ Buy: 12,300  Sell: 12,300
+***🇧🇭***
+ 
+**BHD**
+ Buy: 427,500  Sell: 428,000
+***🇴🇲***
+ 
+**OMR**
+ Buy: 419,350  Sell: 419,650
+***🇶🇦***
+ 
+**QAR**
+ Buy: 44,300  Sell: 44,400
+***🤖***
+ 
+[@spicyprxbot](https://t.me/spicyprxbot)
+***🌶***
+ 
+[@spicyprx](https://t.me/spicyprx)
+
+---
 
 ### 🕒 2026-02-18 10:24:05 UTC
 ***🤖***
@@ -2458,517 +2950,6 @@ To see complete price list join the bot
 ***🌶***
  
 [@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 18:24:06 UTC
-***🤖***
-To see complete price list join the bot
-
----
-
-### 🕒 2026-02-16 18:23:56 UTC
-***⚡️***
- 
-**New Proxies**
-**Top 10 Digital Currencies**
-***🪙***
- 
-**BITCOIN**
-: 10,973,999,979 T | 68,165 $
-***🪙***
- 
-**ETHEREUM**
-: 318,400,003 T | 1,982 $
-***🪙***
- 
-**TETHER**
-: 160,500 T | - $
-***🪙***
- 
-**USDC**
-: 160,500 T | 1 $
-***🪙***
- 
-**BNB**
-: 99,451,903 T | 617.23 $
-***🪙***
- 
-**SOLANA**
-: 13,636,347 T | 84.84 $
-***🪙***
- 
-**XRP**
-: 238,787 T | 1.48 $
-***🪙***
- 
-**CARDANO**
-: 45,679 T | 0.2832 $
-***🪙***
- 
-**DOGECOIN**
-: 16,239 T | 0.10088 $
-***🪙***
- 
-**TRON**
-: 45,534 T | 0.2833 $
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 18:23:45 UTC
-***⚡️***
- 
-**New Proxies**
-***💰***
- 
-**Gold Coins**
-***🟠***
- 
-**EMAMI**
- Buy: 189,000,000 Sell: 192,000,000
-***🟡***
- 
-**AZADI**
- Buy: 183,000,000 Sell: 186,000,000
-***🟡***
- 
-**1/2 AZADI**
- Buy: 96,000,000 Sell: 99,000,000
-***🟡***
- 
-**1/4 AZADI**
- Buy: 51,000,000 Sell: 54,500,000
-***🟡***
- 
-**AZADI1G**
- Buy: 25,000,000 Sell: 27,000,000
-***💰***
- 
-**Other Prices**
-***💰***
- 
-**Gold Mithqal**
-: 83,821,000
-***💰***
- 
-**Gold Gram**
-: 19,350,154
-***🟠***
- 
-**Ounce**
-: 4,995 USD
-***🪙***
- 
-**Bitcoin**
-: 68,174 USD
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 18:23:35 UTC
-***⚡️***
- 
-**New Proxies**
-***🇮🇷***
- 
-**Live Prices vs Iranian Toman**
-***💰***
- 
-**Currencies**
-***🇺🇸***
- 
-**USD**
- Buy: 159,050  Sell: 159,150
-***🇪🇺***
- 
-**EUR**
- Buy: 188,450  Sell: 188,650
-***🇬🇧***
- 
-**GBP**
- Buy: 216,750  Sell: 216,950
-***🇨🇭***
- 
-**CHF**
- Buy: 206,700  Sell: 206,900
-***🇨🇦***
- 
-**CAD**
- Buy: 116,650  Sell: 116,750
-***🇦🇺***
- 
-**AUD**
- Buy: 112,450  Sell: 112,550
-***🇸🇪***
- 
-**SEK**
- Buy: 17,700  Sell: 17,800
-***🇳🇴***
- 
-**NOK**
- Buy: 16,750  Sell: 16,750
-***🇷🇺***
- 
-**RUB**
- Buy: 2,065  Sell: 2,070
-***🇹🇭***
- 
-**THB**
- Buy: 5,105  Sell: 5,110
-***🇸🇬***
- 
-**SGD**
- Buy: 125,950  Sell: 126,050
-***🇭🇰***
- 
-**HKD**
- Buy: 20,250  Sell: 20,350
-***🇦🇿***
- 
-**AZN**
- Buy: 94,400  Sell: 94,500
-***🇦🇲***
- 
-**AMD**
- Buy: 4,210  Sell: 4,215
-***🇩🇰***
- 
-**DKK**
- Buy: 25,150  Sell: 25,250
-***🇦🇪***
- 
-**AED**
- Buy: 43,950  Sell: 44,000
-***🇯🇵***
- 
-**JPY**
- Buy: 10,350  Sell: 10,350
-***🇹🇷***
- 
-**TRY**
- Buy: 3,620  Sell: 3,640
-***🇨🇳***
- 
-**CNY**
- Buy: 23,050  Sell: 23,050
-***🇸🇦***
- 
-**SAR**
- Buy: 42,350  Sell: 42,450
-***🇮🇳***
- 
-**INR**
- Buy: 1,745  Sell: 1,750
-***🇲🇾***
- 
-**MYR**
- Buy: 40,700  Sell: 40,800
-***🇦🇫***
- 
-**AFN**
- Buy: 2,500  Sell: 2,505
-***🇰🇼***
- 
-**KWD**
- Buy: 518,700  Sell: 519,100
-***🇮🇶***
- 
-**IQD**
- Buy: 12,150  Sell: 12,150
-***🇧🇭***
- 
-**BHD**
- Buy: 421,700  Sell: 422,200
-***🇴🇲***
- 
-**OMR**
- Buy: 413,600  Sell: 413,900
-***🇶🇦***
- 
-**QAR**
- Buy: 43,550  Sell: 43,650
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 14:24:05 UTC
-***🤖***
-To see complete price list join the bot
-
----
-
-### 🕒 2026-02-16 14:23:55 UTC
-***⚡️***
- 
-**New Proxies**
-**Top 10 Digital Currencies**
-***🪙***
- 
-**BITCOIN**
-: 11,011,000,042 T | 68,607 $
-***🪙***
- 
-**ETHEREUM**
-: 317,996,992 T | 1,972 $
-***🪙***
- 
-**TETHER**
-: 160,960 T | - $
-***🪙***
- 
-**USDC**
-: 161,103 T | 1 $
-***🪙***
- 
-**BNB**
-: 99,031,538 T | 617.12 $
-***🪙***
- 
-**SOLANA**
-: 13,546,647 T | 84.23 $
-***🪙***
- 
-**XRP**
-: 241,460 T | 1.5 $
-***🪙***
- 
-**CARDANO**
-: 45,477 T | 0.2818 $
-***🪙***
- 
-**DOGECOIN**
-: 16,151 T | 0.10033 $
-***🪙***
- 
-**TRON**
-: 45,300 T | 0.2813 $
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 14:23:44 UTC
-***⚡️***
- 
-**New Proxies**
-***💰***
- 
-**Gold Coins**
-***🟠***
- 
-**EMAMI**
- Buy: 189,000,000 Sell: 192,000,000
-***🟡***
- 
-**AZADI**
- Buy: 183,000,000 Sell: 186,000,000
-***🟡***
- 
-**1/2 AZADI**
- Buy: 96,000,000 Sell: 99,000,000
-***🟡***
- 
-**1/4 AZADI**
- Buy: 51,000,000 Sell: 54,500,000
-***🟡***
- 
-**AZADI1G**
- Buy: 25,000,000 Sell: 27,000,000
-***💰***
- 
-**Other Prices**
-***💰***
- 
-**Gold Mithqal**
-: 83,790,000
-***💰***
- 
-**Gold Gram**
-: 19,342,998
-***🟠***
- 
-**Ounce**
-: 4,993 USD
-***🪙***
- 
-**Bitcoin**
-: 68,506 USD
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 14:23:34 UTC
-***⚡️***
- 
-**New Proxies**
-***🇮🇷***
- 
-**Live Prices vs Iranian Toman**
-***💰***
- 
-**Currencies**
-***🇺🇸***
- 
-**USD**
- Buy: 159,050  Sell: 159,150
-***🇪🇺***
- 
-**EUR**
- Buy: 188,450  Sell: 188,650
-***🇬🇧***
- 
-**GBP**
- Buy: 216,800  Sell: 217,000
-***🇨🇭***
- 
-**CHF**
- Buy: 206,550  Sell: 206,750
-***🇨🇦***
- 
-**CAD**
- Buy: 116,700  Sell: 116,800
-***🇦🇺***
- 
-**AUD**
- Buy: 112,650  Sell: 112,750
-***🇸🇪***
- 
-**SEK**
- Buy: 17,700  Sell: 17,800
-***🇳🇴***
- 
-**NOK**
- Buy: 16,750  Sell: 16,750
-***🇷🇺***
- 
-**RUB**
- Buy: 2,070  Sell: 2,075
-***🇹🇭***
- 
-**THB**
- Buy: 5,110  Sell: 5,115
-***🇸🇬***
- 
-**SGD**
- Buy: 126,000  Sell: 126,100
-***🇭🇰***
- 
-**HKD**
- Buy: 20,250  Sell: 20,350
-***🇦🇿***
- 
-**AZN**
- Buy: 93,600  Sell: 93,700
-***🇦🇲***
- 
-**AMD**
- Buy: 4,220  Sell: 4,225
-***🇩🇰***
- 
-**DKK**
- Buy: 25,150  Sell: 25,250
-***🇦🇪***
- 
-**AED**
- Buy: 43,950  Sell: 44,000
-***🇯🇵***
- 
-**JPY**
- Buy: 10,400  Sell: 10,400
-***🇹🇷***
- 
-**TRY**
- Buy: 3,620  Sell: 3,640
-***🇨🇳***
- 
-**CNY**
- Buy: 23,050  Sell: 23,050
-***🇸🇦***
- 
-**SAR**
- Buy: 42,350  Sell: 42,450
-***🇮🇳***
- 
-**INR**
- Buy: 1,750  Sell: 1,755
-***🇲🇾***
- 
-**MYR**
- Buy: 40,700  Sell: 40,800
-***🇦🇫***
- 
-**AFN**
- Buy: 2,500  Sell: 2,505
-***🇰🇼***
- 
-**KWD**
- Buy: 518,700  Sell: 519,100
-***🇮🇶***
- 
-**IQD**
- Buy: 12,150  Sell: 12,150
-***🇧🇭***
- 
-**BHD**
- Buy: 421,600  Sell: 422,100
-***🇴🇲***
- 
-**OMR**
- Buy: 413,600  Sell: 413,900
-***🇶🇦***
- 
-**QAR**
- Buy: 43,550  Sell: 43,650
-***🤖***
- 
-[@spicyprxbot](https://t.me/spicyprxbot)
-***🌶***
- 
-[@spicyprx](https://t.me/spicyprx)
-
----
-
-### 🕒 2026-02-16 13:20:50 UTC
-The 
-[TONSO](https://t.me/TonsoAIBot/app?startapp=RoNXi1)
- bot is hosting several time-limited campaigns ending in February and March:
-• Tria – Until March 16, distributing $50,000 in $TRIA to top leaderboard users, plus 1,000 BUZZ for regular participants. 
-[@useTria](https://t.me/useTria)
-• Multiplifi – Ends March 31, with leaderboard rewards in $MLTI. 
-[@multiplifi](https://t.me/multiplifi)
-• Vault777 – Ends February 20, rewarding 0.5% of total $VAULT supply. 
-[@vault777public](https://t.me/vault777public)
-• Solstice – Ends February 22, distributing 0.25% of total $SLX supply. 
-[@Solstice_TG](https://t.me/Solstice_TG)
-• 
-[Yield.fi](http://Yield.fi/)
- – Ends March 29, allocating 0.025% of total token supply to participants. Official group: 
-[@getyieldfi](https://t.me/getyieldfi)
 
 ---
 

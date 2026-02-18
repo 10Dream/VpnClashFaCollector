@@ -1,5 +1,46 @@
 # آرشیو کانال: @v2FreeHub
-بروزرسانی: 2026-02-18 10:38:26 UTC
+بروزرسانی: 2026-02-18 20:32:41 UTC
+
+### 🕒 2026-02-18 20:03:08 UTC
+**🔥 New Global Pack Released! | SS ⚡🌐**
+***🌍***
+ 
+*Location:*
+ 
+**US🇺🇸 NL🇳🇱 DE🇩🇪 UK🇬🇧 RU🇷🇺**
+ 
+**UA🇺🇦**
+━━━━━━━━━━━━━━━━━━
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMk5vd3drbVFnc0F5MkFZTk9Nc3N1@dyn.usa.outlinekeys.net:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTlozc2loblpVZjR1UUhub0JPZWZl@dyn.usa.outlinekeys.net:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUaEFvam5iRGIzamkyWDhpenVlVUNm@212.18.104.228:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RXp5Y3dCSnk5NEkwek9aTHludFJz@212.18.104.228:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dEZpVVgzWWFwZU5uTEI1R2tTUHh3@89.110.70.175:1080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbHBTRGV3bWlsQTRJekdLU3ZRSEsx@194.150.220.103:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%A6ss://YWVzLTI1Ni1nY206OTQ4YmRlNWItMzhkYy00ZjljLTgzYjktNDNiOTE5MDAzNzc4@84.200.91.158:443#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AAss://YWVzLTI1Ni1nY206akV1eVdLaDlzN2hBVjN2aFU2cnhjRDZzTjV4MUp1ZndQNDB4T05WakRhcz0@185.171.82.23:15948#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA`
+***🎁***
+ 
+[**کد اهدا مهسا:**](https://github.com/GFW-knocker/MahsaNG/releases/latest)
+ 
+`45ef057b`
+━━━━━━━━━━━━━━━━━━
+***📱***
+** آموزش استفاده از بکاپ ↓**
+[**v2RayNG → About → Restore configuration**](https://t.me/v2FreeHub/381)
+━━━━━━━━━━━━━━━━━━
+***♻️***
+ 
+**آپدیت روزانه کانفیگ‌های رایگان و پرسرعت همه پروتکل ها (VLESS | VMESS | Trojan | Shadowsocks)**
+━━━━━━━━━━━━━━━━━━
+***👾***
+ 
+**کانال رو دنبال کن تا همیشه وصل باشی**
+[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
+** 👑**
+**👉 **
+[**@v2FreeHub**](https://t.me/v2FreeHub)
+****
+[**#v2RayNG**](?q=%23v2RayNG)
+** **
+[**#VPN**](?q=%23VPN)
+** **
+[**#Config**](?q=%23Config)
+
+---
 
 ### 🕒 2026-02-17 06:53:03 UTC
 28 و 29 بهمن، چهلم جوانانیست که؛
@@ -8,20 +49,6 @@
 و قلبمان با یادشان پر از غم است.
 ***🖤***
 **👉 **
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-
----
-
-### 🕒 2026-02-16 18:49:46 UTC
-**ابلاغ دستور آماده‌باش برای قطع اینترنت به دیتاسنترها**
-بر اساس اطلاعات دریافتی، دستور آماده‌باش برای قطع ترافیک اینترنت دیتاسنترهای کشور در صورت بروز رخدادهای امنیتی ابلاغ شده است.
-با توجه به احتمال تشدید تنش‌ها پس از مذاکرات پیش‌رو، اینترنت کشور در وضعیت آماده‌باش برای اعمال قطع یا محدودیت‌های گسترده قرار دارد. این شرایط می‌تواند منجر به اختلال ناگهانی، کاهش شدید دسترسی بین‌الملل، قطع ارتباط دیتاسنترها و در سناریوی حادتر، قطع کامل یا حرکت مجدد به سمت اینترنت ملی شود.IRRadar
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
-** 👑**
-[**#پیروز_باد_انقلاب_شیروخورشید**](?q=%23%D9%BE%DB%8C%D8%B1%D9%88%D8%B2_%D8%A8%D8%A7%D8%AF_%D8%A7%D9%86%D9%82%D9%84%D8%A7%D8%A8_%D8%B4%DB%8C%D8%B1%D9%88%D8%AE%D9%88%D8%B1%D8%B4%DB%8C%D8%AF)
-****
-***👉***
-** **
 [**@v2FreeHub**](https://t.me/v2FreeHub)
 
 ---

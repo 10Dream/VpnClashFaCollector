@@ -465,19 +465,20 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: V 49 @Outline_Vpn, server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 53 @Outline_Vpn, server: 108.162.194.176, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 58 @Outline_Vpn, server: 172.64.33.91, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 51 @Outline_Vpn, server: 172.64.35.45, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 50 @Outline_Vpn`, server: 173.245.59.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 60 @Outline_Vpn`, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 59 @Outline_Vpn, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 56 @Outline_Vpn, server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 57 @Outline_Vpn, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 46 @Outline_Vpn, server: 190.93.245.94, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 65 @Outline_Vpn`, server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 61 @Outline_Vpn, server: 51.158.206.93, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 63 @Outline_Vpn, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 64 @Outline_Vpn, server: 159.223.24.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 62 @Outline_Vpn, server: ipbaz.ping-box.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 55 @Outline_Vpn`, server: 104.16.250.22, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 54 @Outline_Vpn, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 47 @Outline_Vpn, server: 57.129.64.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-5712964102-direct.sharghdaily.co, host: nasnet-5712964102-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,57 +495,60 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -560,57 +564,60 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - V 49 @Outline_Vpn
       - V 53 @Outline_Vpn
       - V 58 @Outline_Vpn
       - V 51 @Outline_Vpn
-      - V 50 @Outline_Vpn`
       - V 60 @Outline_Vpn`
       - V 59 @Outline_Vpn
       - V 56 @Outline_Vpn
       - V 57 @Outline_Vpn
-      - V 46 @Outline_Vpn
+      - V 65 @Outline_Vpn`
+      - V 61 @Outline_Vpn
+      - V 63 @Outline_Vpn
+      - V 64 @Outline_Vpn
+      - V 62 @Outline_Vpn
       - V 55 @Outline_Vpn`
       - V 54 @Outline_Vpn
-      - V 47 @Outline_Vpn
   - name: دانلود منیجر 📥
     type: select
     proxies:

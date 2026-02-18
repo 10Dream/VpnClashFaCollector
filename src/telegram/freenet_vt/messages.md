@@ -1,5 +1,94 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-18 10:36:52 UTC
+بروزرسانی: 2026-02-18 20:31:12 UTC
+
+### 🕒 2026-02-18 12:44:04 UTC
+با همین ها میتونی به سایفون وصل بشید  می تونید توی کلاینت پرو روی بکاپ ست کنید
+
+---
+
+### 🕒 2026-02-18 12:44:04 UTC
+`200.174.198.32`
+ 
+`8888`
+
+---
+
+### 🕒 2026-02-18 12:44:04 UTC
+`217.217.254.94`
+ 
+`8080`
+
+---
+
+### 🕒 2026-02-18 12:29:59 UTC
+این روی  همراه و ایرانسل وصله
+
+---
+
+### 🕒 2026-02-18 12:29:22 UTC
+`121.187.175.106`
+.  
+`9877`
+
+---
+
+### 🕒 2026-02-18 12:28:33 UTC
+پرو تکل روی http بزارید
+
+---
+
+### 🕒 2026-02-18 12:27:49 UTC
+پروکسی ها میزارم خودتو بصورت دستی نکب v2ray  وازدواج کنید
+
+---
+
+### 🕒 2026-02-18 12:21:16 UTC
+کانفیگ های اوپن لوکیشن تهران هست تانا شده هست کسانی که وصل ت نمیشن تست گنن
+
+---
+
+### 🕒 2026-02-18 12:13:57 UTC
+هز سه تاش با با سرعت خوب وصله
+
+---
+
+### 🕒 2026-02-18 12:13:18 UTC
+`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#freenet_vt%20%F0%9F%87%AE%F0%9F%87%B7`
+همراه اول
+
+---
+
+### 🕒 2026-02-18 12:11:09 UTC
+`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#freenet_vt%20%F0%9F%87%AE%F0%9F%87%B7`
+همراه اول
+
+---
+
+### 🕒 2026-02-18 12:06:38 UTC
+همراه اول  پر سرعت
+
+---
+
+### 🕒 2026-02-18 12:05:57 UTC
+`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40freenet_vt%20%DB%B1%F0%9F%87%AE%F0%9F%87%B7`
+
+---
+
+### 🕒 2026-02-18 11:12:35 UTC
+اینم تست کنید
+
+---
+
+### 🕒 2026-02-18 11:06:53 UTC
+پسوور 
+`freenet_vt`
+
+---
+
+### 🕒 2026-02-18 11:05:31 UTC
+کانفیگ اوپن سرور تانل شده ایران کیانی که وصل نمیشن نست کند
+
+---
 
 ### 🕒 2026-02-17 22:30:34 UTC
 شات که فرستادم نحوه وارد کردن توس vpn خود گوشی است شات اول گوشی های قدیمی شات بعدی اندروید ۸به بالا
@@ -245,16 +334,6 @@ V2box
 
 ### 🕒 2026-02-16 22:08:05 UTC
 بکاپوکلا پرو  موقت ینت
-
----
-
-### 🕒 2026-02-16 13:49:34 UTC
-ایران ول
-
----
-
-### 🕒 2026-02-16 13:49:34 UTC
-`vless://429af73b-c1bd-4c46-8f8e-6accdbdcf628@fl-modx.webedg.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fl-modx.webedg.net&fp=chrome&security=reality&pbk=MuQH546CBdgYVBzNU_F5fimkbQ0srHxgLKDjl1Wz2Rw&sid=#%F0%9F%9F%A1freenet_vt%20vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@45.130.125.160:2052/?type=tcp&encryption=none&flow=#%F0%9F%9F%A1freenet_vt%20vless://c48ee7af-bd2c-4a0d-b406-dd42d6dc1ac4@104.16.121.147:2052/?type=tcp&encryption=none&flow=#%F0%9F%9F%A1freenet_vt%20vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=ipv4.yasharteam.com&alpn=h2%2Chttp%2F1.1&fp=chrome#%F0%9F%9F%A1freenet_vt%20vless://6fc2e094-daf5-4848-b539-dd2fb18de3a6@94.182.149.197:52952/?type=tcp&encryption=none&flow=&sni=www.varzesh3.com&fp=chrome&security=reality&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6#%F0%9F%9F%A1freenet_vt%20vless://1ad30723-7772-4d8b-855e-933650f6906b@94.182.149.197:52952/?type=tcp&encryption=none&flow=&sni=www.varzesh3.com&fp=chrome&security=reality&pbk=5bgoms49YpXoZJwtyrij9wbIq9Qe68APgIjK-J-x-g4&sid=cf8d48a6#%F0%9F%9F%A1freenet_vt%20trojan://humanity@172.64.152.23:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%F0%9F%9F%A1freenet_vt%20vmess://eyJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjQzZGNkY2UxLTNjZWEtNDE5My1iYzhkLTkwYjkyMDcxZDc3OSIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI4MCIsInBzIjoi8J+foWZyZWVuZXRfdnQgIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?type=ws&encryption=none&flow=&host=dev.twistsparrow.xyz&path=%2F&security=tls&sni=dev.twistsparrow.xyz#%F0%9F%9F%A1freenet_vt%20ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#%F0%9F%9F%A1freenet_vt%20vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=dev.twistsparrow.xyz#%F0%9F%9F%A1freenet_vt%20`
 
 ---
 

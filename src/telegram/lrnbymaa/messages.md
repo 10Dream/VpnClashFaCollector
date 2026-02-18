@@ -1,5 +1,19 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-18 10:37:27 UTC
+بروزرسانی: 2026-02-18 20:31:46 UTC
+
+### 🕒 2026-02-18 10:41:37 UTC
+***🔴***
+ 
+**تمامی سرور ها با بالاترین سرعت آپدیت شدند 😍🔥🟢لوکیشن های موجود به صورت مولتی کانفیگ و آی پی ثابت :🇩🇪 آلمان🇺🇸 آمریکا 🇹🇷 ترکیه🇷🇺 روسیه🇲🇾 مالزی🇵🇱 لهستان🇧🇦 بوسنی🇷🇸 صربستان🇬🇷 یونان🇬🇧 انگلیس✅ مقاوم در برابر اینترنت ملی، پایدار و پر سرعت، آماده خدمت به شما ✅😎🔥**
+***👈🏻***
+ 
+**جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود و حجمی، به ادمین‌لرن‌بای‌ما مراجعه کنید. 👇🏻🌐 **
+[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
+**   🌐 **
+[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
+**  ‍**
+
+---
 
 ### 🕒 2026-02-17 17:38:39 UTC
 `vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.86.102:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4#lrnbymaavless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.83.255:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=33554379411b3219#lrnbymaavless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.4.119:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=048fe5c8be4bb687#lrnbymaavless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=17f0f0e38f01af5a#lrnbymaavless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@185.130.115.55:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=33554379411b3219#lrnbymaa`
@@ -79,102 +93,6 @@ _
 ***🥀***
  
 [@Lrnbymaa](https://t.me/Lrnbymaa)
-
----
-
-### 🕒 2026-02-16 17:44:35 UTC
-vless://4d77a5d2-51ed-4494-b38a-87f340591db6@152.89.244.61:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#lrnbymaa  vless://b823aaa4…
-
----
-
-### 🕒 2026-02-16 17:44:12 UTC
-`vless://4d77a5d2-51ed-4494-b38a-87f340591db6@152.89.244.61:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#lrnbymaavless://b823aaa4-7b6f-49cb-98e4-ffc0a1fb19ee@92.63.224.18:443?security=reality&encryption=none&pbk=N7QOAJAui59pdM3FtsS9Ey-KFpr36OuhincNGnkm_E4&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=google.com&sid=f6ae0c7beb#lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@190.93.245.94:2096?security=tls&encryption=none&type=ws&sni=sni.111000.indevs.in#lrnbymaavless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@57.129.64.102:443?security=tls&encryption=none&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nasnet-5712964102-direct.sharghdaily.co#lrnbymaavless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&type=tcp&sni=yahoo.com&sid=df8611c07d#lrnbymaa`
-کانفینگ رایگان
-***⚡️***
-***🌔***
- یک بار بزنید روی کانفیگ‌ کپی میشه 
-  
-***💎***
-اگه ارور داد برنامه 
-***🖥***
- v2ray آپدیت کنید
-***🔹***
-جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-   
-***🌐***
- 
-[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
-  ‍
-
----
-
-### 🕒 2026-02-16 17:32:31 UTC
-**ابلاغ دستور آماده‌باش برای قطع اینترنت به دیتاسنترها**
-بر اساس اطلاعات دریافتی، دستور آماده‌باش برای قطع ترافیک اینترنت دیتاسنترهای کشور در صورت بروز رخدادهای امنیتی ابلاغ شده است.
-با توجه به احتمال تشدید تنش‌ها پس از مذاکرات پیش‌رو، اینترنت کشور در وضعیت آماده‌باش برای اعمال قطع یا محدودیت‌های گسترده قرار دارد. این شرایط می‌تواند منجر به اختلال ناگهانی، کاهش شدید دسترسی بین‌الملل، قطع ارتباط دیتاسنترها و در سناریوی حادتر، قطع کامل یا حرکت مجدد به سمت اینترنت ملی شود.
-***✔️***
- 
-[@lrnbymaa](https://t.me/lrnbymaa)
-
----
-
-### 🕒 2026-02-16 16:10:58 UTC
-> ↪️ **Forwarded**
-
-***⚠️***
-**قویترین اکانت نامحدود**
-***📛***
-قابل استفاده برای :
-***📱***
-آیفون
-***📱***
-اندروید
-***💻***
- ویندوز
-***👨‍💻***
- مک
- 
-***🔹***
-دارای آیپی (IP) ثابت 
-***📍***
-اتصال سریع بر روی تمامی اپراتورها
-***📶***
-***📶***
-***📶***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🥷***
-**فقط **
-تضمینی و با تست
-***✅***
-جهت خرید و مشاوره پیام بدین 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
- 
-***🛒***
-
----
-
-### 🕒 2026-02-16 15:00:45 UTC
-`vless://9706248e-259e-4738-9cde-a3f7e11be4b8@antifiltervip.pwteam.ir:38463?security=none&encryption=none&headerType=none&type=tcp#lrnbymaa`
-`vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&insecure=0&host=dev.twistsparrow.xyz&type=ws&allowInsecure=0&sni=dev.twistsparrow.xyz#lrnbymaa`
-`vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:8880?path=%2FPHPmyADMIN%3FQ%3D%2Fwww.speedtest.net-www.speedtest.net-www.speedtest.net-chatgpt.com-chatgpt.com-chatgpt.com-www.openai.com-www.openai.com-www.openai.com%3Fed%3D443&security=none&encryption=none&host=sw-node-m2.ip-venzo.com.&type=httpupgrade#lrnbymaa`
-`vless://c805b05e-339d-40e0-8787-432d97a27345@zeus.ns.cloudflare.com:2083?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=ServerDL-FrankM2.NetSnap.ir#lrnbymaa`
-
----
-
-### 🕒 2026-02-16 14:19:32 UTC
-شبکه اجتماعی توییتر (ایکس) از دسترس خارج شد
-از دقایقی پیش عملکرد شبکه اجتماعی ایکس برای بسیاری از کاربران در سطح جهان مختل شده است. براساس نمودار وب‌سایت Down Detector، کاربران در دسترسی به ایکس مشکل دارند و نمی‌توانند آن را باز کنند.
-[@lrnbymaa](https://t.me/lrnbymaa)
- 
-***✔️***
 
 ---
 

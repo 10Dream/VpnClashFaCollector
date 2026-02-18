@@ -468,7 +468,6 @@ proxies:
   - {name: "Telegram: @wiki_tajrobe", server: mail.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe`", server: mail.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 2", server: mail.norton-v.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: آلمان - ویژه 🔥`, server: entekhabat.iran.asiatech.numthree.iranvatanam.com, port: 813, type: vless, tls: true, packet-encoding: xudp, uuid: 10b7917c-515d-4634-adbe-1b44242c6d07, host: skyroom.online%2Cigap.net%2Cgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 3", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 4", server: delilah.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 5", server: 172.64.145.38, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -512,7 +511,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"
@@ -546,7 +544,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"
@@ -580,7 +577,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"
@@ -623,7 +619,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"
@@ -657,7 +652,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"
@@ -691,7 +685,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "Telegram: @wiki_tajrobe`"
       - "Telegram: @wiki_tajrobe 2"
-      - آلمان - ویژه 🔥`
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
       - "Telegram: @wiki_tajrobe 5"

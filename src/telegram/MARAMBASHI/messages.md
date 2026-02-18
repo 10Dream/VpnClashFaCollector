@@ -1,5 +1,95 @@
 # آرشیو کانال: @MARAMBASHI
-بروزرسانی: 2026-02-18 10:34:02 UTC
+بروزرسانی: 2026-02-18 20:28:20 UTC
+
+### 🕒 2026-02-18 17:49:30 UTC
+**فرو**
+ش سرور 
+***🔐***
+***🔐***
+ تانل
+لوکیشن  
+***🇩🇪***
+***🇳🇱***
+***🇫🇮***
+**  بدون قطعی **
+**✅**
+**پشتیبانی ۲۴ ساعته **
+**🟢**
+**همه اپراتورا**
+**🛜**
+**🛜**
+**🛜**
+**🛜**
+**🛜**
+**برای ایفون**
+**🍏**
+**اندروید**
+**🤖**
+**ویندوز**
+**💻**
+****
+**✅**
+**20 گیگ  80 تک کاربر**
+**✅**
+**30 گیگ 110 تک کاربر**
+**✅**
+**50 گیگ 150  تک کاربر**
+**✅**
+**20 گیگ  140 دو و سه کاربر**
+**✅**
+**30 گیگ 170   دو و سه کاربر**
+**✅**
+**50 گیگ 240   دو و سه کاربرتست رایگان بگیر وصل شو بعدا بخر**
+**✅**
+****
+**💬**
+**💩**
+**📹**
+**💬**
+**💙**
+****
+**🟢**
+**برای خرید به به پیوی مراجعه کنید**
+***🟢***
+***👩‍💻***
+ 
+[@CHOQONI](https://t.me/CHOQONI)
+ 
+***👩‍💻***
+
+---
+
+### 🕒 2026-02-18 15:18:27 UTC
+***🔶***
+کانفیگ ویتوری همه اپراتورا
+***🔶***
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://6202b230-417c-4d8e-b624-0f71afa9c75d@poe.com:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sany.federico2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sany.federico2.workers.dev#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://d057338f-0f7b-4245-80b3-6bcabd365b84@g2.com:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=edge26-topnet.payit36378.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=edgE26-topnET.PAYiT36378.woRkeRs.DEv#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://8c020e2f-15fb-4e5b-a421-4e8818a21420@dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&fp=chrome&type=ws&allowInsecure=0&sni=beh2.salonemojallal.ir.#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.110.121:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=sany.federico2.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sany.federico2.workers.dev#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40MARAMBASHI%20%F0%9F%87%AB%F0%9F%87%B7`
+منطقه ای
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***📶***
+همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
+[آموزش](https://t.me/MARAMBASHI/31359)
+)
+***🛜***
+***🛜***
+***🔶***
+[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
+***🔶***
+ 
+***⚪️***
+[خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
+***⚫️***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
+
+---
 
 ### 🕒 2026-02-17 22:04:06 UTC
 ***🌊***
@@ -303,114 +393,6 @@
 [#android](?q=%23android)
  
 [#iphon](?q=%23iphon)
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 18:09:24 UTC
-***🌊***
-کانفیگ NPV TUNNEL
-***🔐***
-کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🔐***
-[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
-***🔐***
-***▶***
-[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***▶***
-***🍏***
-[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🍏***
-***🔐***
-[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
-***🔐***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 17:39:45 UTC
-***🔘***
-***🇵🇱***
-کانفیگ اینجکتور HTTP INJECTOR 
-اندروید و آیفون
-***📲***
-***🍎***
- همراه اول ایرانسل متصله بقیه اپراتورا تست کنین
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-[لینک دانلود  برنامه داخل کانال ](https://t.me/MARAMBASHI/39141)
-***🔘***
- 
-[لینک دانلود از گوگل پلی ](https://play.google.com/store/apps/details?id=com.evozi.injector)
-***▶***
-[فیلم اموزش  Http Injector](https://t.me/MARAMBASHI/24143)
- 
-***🔘***
- 
-[لینک دانلود برای آیفون از App Store](https://apps.apple.com/app/id1659992827)
- 
-***🍏***
-***♥️***
- 
-[#اینجکتور](?q=%23%D8%A7%DB%8C%D9%86%D8%AC%DA%A9%D8%AA%D9%88%D8%B1)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
- 
-[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
-[#config](?q=%23config)
- 
-[#injector](?q=%23injector)
- 
-[#android](?q=%23android)
- 
-[#iphon](?q=%23iphon)
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 14:56:36 UTC
-***🌊***
-کانفیگ NPV TUNNEL
-***🔐***
-کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🔐***
-[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
-***🔐***
-***▶***
-[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***▶***
-***🍏***
-[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🍏***
-***🔐***
-[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
-***🔐***
 ***✅***
  
 [@MARAMBASHI](https://t.me/MARAMBASHI)
