@@ -1,5 +1,37 @@
 # آرشیو کانال: @MARAMBASHI
-بروزرسانی: 2026-02-18 20:28:20 UTC
+بروزرسانی: 2026-02-19 01:08:02 UTC
+
+### 🕒 2026-02-18 20:32:24 UTC
+***🔶***
+کانفیگ ویتوری همه اپراتورا
+***🔶***
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#%40MARAMBASHI%20%F0%9F%92%9Fss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%40MARAMBASHI%20%F0%9F%92%9Fss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbHBTRGV3bWlsQTRJekdLU3ZRSEsx@194.150.220.103:443#%40MARAMBASHI%20%F0%9F%92%9Fvless://cb3476c7-9584-490b-a149-4efc0be1104d@85.133.197.127:7731?security=none&encryption=none&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=http&type=tcp#%40MARAMBASHI%20%F0%9F%92%9Fvless://e4a6331b-e3e7-4f4e-b46a-8c31bf44bf83@151.101.9.81:80?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=none&encryption=none&host=moodaontw.global.ssl.fastly.net&type=ws#%40MARAMBASHI%20%F0%9F%92%9Fvmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiJATUFSQU1CQVNISSDwn5KfIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vless://b433fd43-e947-4cd0-96f9-901eb09df4b9@ipv1.shakhle.ir:443?path=%2F%3Fed%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=MediaOP-name.global.ssl.fastly.net.&fp=chrome&type=ws&allowInsecure=0&sni=MediaOP-name.global.ssl.fastly.net.#%40MARAMBASHI%20%F0%9F%92%9Fvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%40MARAMBASHI%20%F0%9F%92%9F`
+منطقه ای
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***📶***
+همراه اولی ها برای اتصال حتما فرگمنت فعال کنید تا وصل بشه(
+[آموزش](https://t.me/MARAMBASHI/31359)
+)
+***🛜***
+***🛜***
+***🔶***
+[لینک دانلود ویتوری داخل کانال](https://t.me/MARAMBASHI/39140)
+***🔶***
+ 
+***⚪️***
+[خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
+***⚫️***
+***✅***
+ 
+[@MARAMBASHI](https://t.me/MARAMBASHI)
+ 
+***✅***
+
+---
 
 ### 🕒 2026-02-18 17:49:30 UTC
 **فرو**
@@ -314,85 +346,6 @@
 ***⚪️***
 [خرید سرور اختصاصی کلیک کن](https://t.me/MARAMBASHI/39265)
 ***⚫️***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 21:50:32 UTC
-***🌊***
-کانفیگ NPV TUNNEL
-***🔐***
-کانفیگ منطقه ای هست(یعنی امکان داره یک منطقه کار بده یک منطقه کار نده)
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🔐***
-[لینک دانلود برنامه داخل کانال](https://t.me/MARAMBASHI/39139)
-***🔐***
-***▶***
-[لینک دانلود برنامه از گوگل](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***▶***
-***🍏***
-[لینک دانلود برنامه برای ایفون](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-***🍏***
-***🔐***
-[برای خرید کانفیگ اختصاصی مختص همه اپراتورها کلیک کن](https://t.me/MARAMBASHI/39265)
-***🔐***
-***✅***
- 
-[@MARAMBASHI](https://t.me/MARAMBASHI)
- 
-***✅***
-
----
-
-### 🕒 2026-02-16 20:55:52 UTC
-***🔘***
-***🇩🇪***
-کانفیگ اینجکتور HTTP INJECTOR 
-اندروید و آیفون
-***📲***
-***🍎***
- همراه اول متصله بقیه اپراتورا تست کنین
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-[لینک دانلود  برنامه داخل کانال ](https://t.me/MARAMBASHI/39141)
-***🔘***
- 
-[لینک دانلود از گوگل پلی](https://play.google.com/store/apps/details?id=com.evozi.injector)
- 
-***▶***
-[فیلم اموزش  Http Injector](https://t.me/MARAMBASHI/24143)
- 
-***🔘***
- 
-[لینک دانلود برای آیفون از App Store](https://apps.apple.com/app/id1659992827)
- 
-***🍏***
-***♥️***
- 
-[#اینجکتور](?q=%23%D8%A7%DB%8C%D9%86%D8%AC%DA%A9%D8%AA%D9%88%D8%B1)
- 
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- 
-[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
- 
-[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
-[#config](?q=%23config)
- 
-[#injector](?q=%23injector)
- 
-[#android](?q=%23android)
- 
-[#iphon](?q=%23iphon)
 ***✅***
  
 [@MARAMBASHI](https://t.me/MARAMBASHI)

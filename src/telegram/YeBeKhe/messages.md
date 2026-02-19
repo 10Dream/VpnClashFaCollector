@@ -1,5 +1,21 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-18 20:30:05 UTC
+بروزرسانی: 2026-02-19 01:09:44 UTC
+
+### 🕒 2026-02-18 23:29:27 UTC
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=44.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+
+---
 
 ### 🕒 2026-02-18 18:55:13 UTC
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)

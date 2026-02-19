@@ -468,28 +468,25 @@ proxies:
   - {name: 148.113.139.160:46534, server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 62.133.63.167:61377, server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: E12yZBPC7y8SnmkSYjf0Wl, udp: true, tfo: false}
-  - {name: 91.216.155.20:41348, server: 91.216.155.20, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: J4iEGQCsfDUMvKSI8JL6pB6aT4neZEsIwmcWt1, udp: true, tfo: false}
-  - {name: 185.250.45.163:4129, server: 185.250.45.163, port: 4129, type: ss, cipher: chacha20-ietf-poly1305, password: Kg5NRMdbXzKqMCO04CbOYb, udp: true, tfo: false}
-  - {name: bogging-eyeteeth-fly.freesocks.work:443, server: bogging-eyeteeth-fly.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443 2, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 95.111.250.4:80, server: 95.111.250.4, port: 80, type: ss, cipher: aes-256-gcm, password: BbOUgNLUyT6rdrxE, udp: true, tfo: false}
   - {name: 216.238.75.111:443, server: 216.238.75.111, port: 443, type: ss, cipher: aes-256-gcm, password: JhB5ado8enBhkaOe, udp: true, tfo: false}
   - {name: 149.102.132.186:80, server: 149.102.132.186, port: 80, type: ss, cipher: aes-256-gcm, password: YhzqOeJsfuZ9rkkc, udp: true, tfo: false}
   - {name: 188.116.22.217:2083, server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
+  - {name: 5.34.222.4:43642, server: 5.34.222.4, port: 43642, type: trojan, password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3, sni: iepl.usq1.cat.bilibili.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.73.0:22223, server: 18.158.73.0, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.221.203:22223, server: 3.124.221.203, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.58.68.225:22223, server: 52.58.68.225, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.52.135:22222, server: 13.39.52.135, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.91.2:22222, server: 13.39.91.2, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.156.151.126:22222, server: 35.156.151.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.183.53.84:22222, server: 63.183.53.84, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.141.151:22224, server: 13.37.141.151, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.29.65:22224, server: 15.224.29.65, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.122.142.57:22224, server: 3.122.142.57, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.237.153.245:22224, server: 15.237.153.245, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.126.3.58:22224, server: 3.126.3.58, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.220.38:22224, server: 3.69.220.38, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.180.167.247:22224, server: 35.180.167.247, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -498,15 +495,13 @@ proxies:
   - {name: 87.121.105.127:443, server: 87.121.105.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c57c801-c2e2-4af0-8dd5-05e0d080a5e8, servername: cdnjs.com, host: cdnjs.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o, short-id: ac31827454d7f693}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.103.15.110:443, server: 94.103.15.110, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c57c801-c2e2-4af0-8dd5-05e0d080a5e8, servername: cdnjs.com, host: cdnjs.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o, short-id: ac31827454d7f693}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.208.139.190:47030, server: 85.208.139.190, port: 47030, type: vless, tls: true, packet-encoding: xudp, uuid: 0ea0ce13-85c2-4e97-8903-ef1232a2a2c6, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8, short-id: e18eda8458cab0d7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mail.mizban-r.site:1517, server: mail.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mail.norton-v.cfd:1517, server: mail.norton-v.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 10371edf-4e5a-46a5-bd19-c301ce371d14, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.24.97.225:443, server: 144.24.97.225, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1834316d-2b59-4239-970d-c764218bcdf2, servername: osxapps.itunes.apple.com, host: osxapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU, short-id: 8894620bd4b91f71}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: icshstor.site:23411, server: icshstor.site, port: 23411, type: vless, tls: true, packet-encoding: xudp, uuid: 1eea1e0b-6388-491c-b310-5524e8384808, servername: icshstor.site, host: icshstor.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0Z7LFqDUF568Df972BbYorpeykKnN-Z98jHjDBnRbCE, short-id: b69808}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 85.17.145.169:443, server: 85.17.145.169, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2143c858-cdf6-4971-a240-98dedc815723, servername: www.samsung.com, host: www.samsung.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ip.shakhle.ir:2083, server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.211.236.42:443, server: 80.211.236.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 29632408-8a2f-4bfc-a7b3-c8c8cdb220ac, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.13.208.89:443, server: 31.13.208.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: ads.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: OBR2JYROQB8odK5glVW_KLnsWl3UZ-voyGq_9ihQgTI, short-id: d49d578f280fd83a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.134.217.212:443, server: 45.134.217.212, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg, short-id: d3d1ed07dfdee544}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 nl.roblugo.su:443, server: nl.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: nl.roblugo.su, host: nl.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: spb.roblugo.su:443, server: spb.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: spb.roblugo.su, host: spb.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: spb.roblugo.su:443 2, server: spb.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: spb.roblugo.su, host: spb.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de-convert.webedg.net:443, server: de-convert.webedg.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3bf002f8-b951-4dd5-b372-8d46ccd5f24b, servername: de-convert.webedg.net, host: de-convert.webedg.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -530,6 +525,7 @@ proxies:
   - {name: cloud.mizban-r.site:1517, server: cloud.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 72de4eb9-74f6-4eac-9590-4d38a311fd9a, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: plesk.mizban-r.site:1517, server: plesk.mizban-r.site, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 72de4eb9-74f6-4eac-9590-4d38a311fd9a, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dd.openaccessnode.com:50 2, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: z.ssl.fastly.net:80, server: z.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 837b6716-6901-4b4d-a49f-2b6ac9306aa3, network: ws, ws-opts: {path: /, headers: {Host: gerrma.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: y.dampaeiabri.ir:64010, server: y.dampaeiabri.ir, port: 64010, type: vless, tls: true, packet-encoding: xudp, uuid: 85debf5d-8a38-4c0c-b018-729d072d99f3, servername: x.dampaeiabri.ir, host: x.dampaeiabri.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.255.126.160:2051, server: 5.255.126.160, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: 8e28baed-b7da-29a3-cb89-cb7e4878c011, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k, short-id: 9d38c6241e8c654a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,12 +538,12 @@ proxies:
   - {name: 91.84.103.69:8443, server: 91.84.103.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b1f45225-4f7c-4b13-a7ee-1a9afa48216e, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UmU6PJtGCvWWIgkKpr6P1Idm2ve4nsPhN7Gh3OPDYAE, short-id: fecda331e7cb5731}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.85.153:443, server: 144.31.85.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b39aca97-e9f2-4a94-b87f-8748299846cd, servername: germany.denditop.site, host: germany.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.224.33:443, server: 178.154.224.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b39aca97-e9f2-4a94-b87f-8748299846cd, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇨🇳 zone.cn.fx2hub.ir:21771, server: zone.cn.fx2hub.ir, port: 21771, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: zone.no.fx2hub.ir:11824, server: zone.no.fx2hub.ir, port: 11824, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.211.141.177:443, server: 80.211.141.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c2d73a71-923a-4a53-bc4b-dfb47db20527, servername: gmail.com, host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: spb.scroogethebest.com:443, server: spb.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: spb.scroogethebest.com, host: spb.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ox3.liiliil.ir:20128, server: ox3.liiliil.ir, port: 20128, type: vless, tls: true, packet-encoding: xudp, uuid: ce1ffe62-9562-4eb9-bcae-774b03f2776d, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.144.53.156:8104, server: 45.144.53.156, port: 8104, type: vless, tls: true, packet-encoding: xudp, uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A, short-id: 9f4ca836ca270ef8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: auths.microsrotfonline.com:443, server: auths.microsrotfonline.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dc2c7fb0-6482-4977-945b-ce0e3be94a9d, host: auths.microsrotfonline.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 65.109.182.188:26562, server: 65.109.182.188, port: 26562, type: vless, tls: true, packet-encoding: xudp, uuid: de47db83-2e57-49ff-aec4-87212cc6a442, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.129.232.153:443, server: 5.129.232.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df339397-a631-4e68-a23f-05fa5d614243, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: rUzCh2A10bkE0EH89sNpkvlW1mxVYJ89yjWHQxejomg, short-id: 8ec225570faa1967}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.131.100.42:42642, server: 94.131.100.42, port: 42642, type: vless, tls: true, packet-encoding: xudp, uuid: e04f764c-6009-45aa-b033-97a90024634b, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U, short-id: 41ac}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.plansv.tech:443, server: s1.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: s1.plansv.tech, host: s1.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nHmRtfZ7rmtNQV3azm-hlnM_g61BcuZhYCuLa_optyU, short-id: 39d96a0baf5d52ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -556,13 +552,12 @@ proxies:
   - {name: yandex.plansv.tech:443, server: yandex.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: yandex.plansv.tech, host: yandex.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ICOdUjV4l0pQKechbg5GIDyo0mvDH373CR1dcWxXCXg, short-id: 7baebcace7b4d3a6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.110.125.83:443, server: 77.110.125.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ea8eaf21-76f8-4ef2-8397-aa1d693487a3, servername: web.max.ru, host: web.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ytMHU3SjhXFJPj8bZh4kIV12PPELb9NdfrNIrUsnIX0, short-id: 9c3cfaba3eb6c929}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 pl.jojack.ru:443, server: pl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: pl.jojack.ru, host: pl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw, short-id: a7ab02dfcc1f2c04}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.145.40.4:443, server: 45.145.40.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ed2fe66e-e2ce-4bc9-9284-a2b2b7c3cbea, servername: www.vk.com, host: www.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.84.105.61:25998, server: 91.84.105.61, port: 25998, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf8732-4040-4132-b68a-2c137b75bbf3, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Da5do6b68bgCVmWE66sKmhtN-lATbk-wEEww9jkweHM, short-id: 0ae9b755f28f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.151.139.212:8268, server: 193.151.139.212, port: 8268, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.242.103.184:443, server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.132.51.160:443, server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: xg1a1.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a1.waimaohots.com}}, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 47.242.192.233, port: 52190, type: vmess, uuid: 98689724-deb2-4a3d-b83b-602221995baf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 [openproxylist.com] vmess-PL", server: 85.194.243.117, port: 57878, type: vmess, uuid: 1423fa54-1256-4cbb-9663-e0ccab46f02a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/vmess-argo?ed=2048"}, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -583,28 +578,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -613,15 +605,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -645,6 +635,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -657,12 +648,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -671,13 +662,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -688,28 +678,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -718,15 +705,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -750,6 +735,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -762,12 +748,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -776,13 +762,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -793,28 +778,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -823,15 +805,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -855,6 +835,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -867,12 +848,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -881,13 +862,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: اتصال پایدار 🔗
     type: url-test
@@ -907,28 +887,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -937,15 +914,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -969,6 +944,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -981,12 +957,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -995,13 +971,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -1012,28 +987,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -1042,15 +1014,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -1074,6 +1044,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -1086,12 +1057,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -1100,13 +1071,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1117,28 +1087,25 @@ proxy-groups:
       - 148.113.139.160:46534
       - 193.135.174.135:990
       - 62.133.63.167:61377
-      - 91.216.155.20:41348
-      - 185.250.45.163:4129
-      - bogging-eyeteeth-fly.freesocks.work:443
       - series-a1.samanehha.co:443
       - admin.c2.havij.co:443
       - admin.c2.havij.co:443 2
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - 57.128.214.100:12000
-      - 95.111.250.4:80
       - 216.238.75.111:443
       - 149.102.132.186:80
       - 188.116.22.217:2083
+      - 5.34.222.4:43642
       - 18.158.73.0:22223
       - 3.124.221.203:22223
-      - 52.58.68.225:22223
       - 13.39.52.135:22222
       - 13.39.91.2:22222
       - 35.156.151.126:22222
+      - 63.183.53.84:22222
       - 13.37.141.151:22224
       - 15.224.29.65:22224
-      - 3.122.142.57:22224
+      - 15.237.153.245:22224
       - 3.126.3.58:22224
       - 3.69.220.38:22224
       - 35.180.167.247:22224
@@ -1147,15 +1114,13 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 85.208.139.190:47030
-      - mail.mizban-r.site:1517
-      - mail.norton-v.cfd:1517
       - 144.24.97.225:443
       - icshstor.site:23411
+      - 85.17.145.169:443
       - ip.shakhle.ir:2083
       - 80.211.236.42:443
       - 31.13.208.89:443
       - 45.134.217.212:443
-      - 🇳🇱 nl.roblugo.su:443
       - spb.roblugo.su:443
       - spb.roblugo.su:443 2
       - 🇩🇪 de-convert.webedg.net:443
@@ -1179,6 +1144,7 @@ proxy-groups:
       - cloud.mizban-r.site:1517
       - plesk.mizban-r.site:1517
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - z.ssl.fastly.net:80
       - y.dampaeiabri.ir:64010
       - 5.255.126.160:2051
@@ -1191,12 +1157,12 @@ proxy-groups:
       - 91.84.103.69:8443
       - 144.31.85.153:443
       - 178.154.224.33:443
-      - 🇨🇳 zone.cn.fx2hub.ir:21771
-      - zone.no.fx2hub.ir:11824
       - 80.211.141.177:443
       - spb.scroogethebest.com:443
+      - ox3.liiliil.ir:20128
       - 45.144.53.156:8104
       - auths.microsrotfonline.com:443
+      - 65.109.182.188:26562
       - 5.129.232.153:443
       - 94.131.100.42:42642
       - s1.plansv.tech:443
@@ -1205,13 +1171,12 @@ proxy-groups:
       - yandex.plansv.tech:443
       - 77.110.125.83:443
       - 🇵🇱 pl.jojack.ru:443
-      - 45.145.40.4:443
+      - 91.84.105.61:25998
       - 193.151.139.212:8268
       - 87.242.103.184:443
       - 91.132.51.160:443
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - 🇵🇱 [openproxylist.com] vmess-PL
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: دانلود منیجر 📥
     type: select

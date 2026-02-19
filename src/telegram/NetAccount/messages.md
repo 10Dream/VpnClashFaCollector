@@ -1,5 +1,23 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-18 20:28:31 UTC
+بروزرسانی: 2026-02-19 01:08:13 UTC
+
+### 🕒 2026-02-19 00:53:59 UTC
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.198:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?type=ws&security=tls&path=/?ed=2560&Telegram+@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram+@WangCai2#NetAccount`
+`vless://79b5b31e-9557-4ea6-9ec5-450d7cdefecd@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f&sni=google.com#NetAccount`
+
+---
+
+### 🕒 2026-02-18 23:43:34 UTC
+کانفیگ Npv Tunnel
+[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
+[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
+ | 
+[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
+
+---
 
 ### 🕒 2026-02-18 19:27:36 UTC
 کانفیگ Npv Tunnel
@@ -343,56 +361,6 @@ Yahsat 52.5°E 11843 V 27500
 ### 🕒 2026-02-17 02:20:57 UTC
 ویدیوی گفتگوی شاهزاده رضا پهلوی با شبکه TF1 فرانسه
 (زیرنویس فارسی)
-
----
-
-### 🕒 2026-02-16 23:19:48 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.32:48484?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#NetAccount`
-`vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp¬e=@FreeOnlineVPN#NetAccount`
-
----
-
-### 🕒 2026-02-16 23:13:01 UTC
-`vless://063f7847-1945-4e05-8a77-958643625a6a@92.61.71.167:443?mode=auto&path=/&security=reality&encryption=none&pbk=52QyRfw92BbFAY3fy9ScXu5TBRYyAS5Cu_5mGZIPmj4&fp=chrome&spx=/&type=xhttp&sni=api.vk.com&sid=9c3bfff6a4678dc0#NetAccount`
-`vless://54a41073-e798-488b-af16-28533e612ec1@ndt.fasti.win:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=XBBVeMURFu7jmYJ9MZwjEWgfQlGTnRs0B5So5Fy7jWs&sid=992f3294e2336744&sni=ndt.fasti.win#NetAccount`
-`vless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.techradar.com&fp=chrome&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=f6e197a0b9f2&type=tcp&headerType=none#NetAccount`
-`vless://61113265-3e78-4012-8f42-692b5069ddac@afrcloud22.mmv.kr:443?security=tls&type=ws&path=%2F140.245.53.45%3D443&host=afrcloud22.mmv.kr&sni=afrcloud22.mmv.kr&fp=chrome&encryption=none#NetAccount`
-
----
-
-### 🕒 2026-02-16 22:28:18 UTC
-شاهزاده رضا پهلوی در گفتگو با شبکه «تی‌اف‌وان» (TF1) فرانسه، گفت: «میلیون‌ها ایرانی نام مرا صدا می‌زنند، در من کسی را می‌بینند که می‌تواند این نقش دوران گذار را تجسم ببخشد. از زمانی که فعالیتم را شروع کردم، همیشه خواسته‌ام که ایرانیان بتوانند در انتخابات آزاد…
-
----
-
-### 🕒 2026-02-16 22:12:51 UTC
-شاهزاده رضا پهلوی در گفتگو با شبکه «تی‌اف‌وان» (TF1) فرانسه، گفت: «میلیون‌ها ایرانی نام مرا صدا می‌زنند، در من کسی را می‌بینند که می‌تواند این نقش دوران گذار را تجسم ببخشد. از زمانی که فعالیتم را شروع کردم، همیشه خواسته‌ام که ایرانیان بتوانند در انتخابات آزاد…
-
----
-
-### 🕒 2026-02-16 22:09:04 UTC
-شاهزاده رضا پهلوی در گفتگو با شبکه «تی‌اف‌وان» (TF1) فرانسه، گفت: «میلیون‌ها ایرانی نام مرا صدا می‌زنند، در من کسی را می‌بینند که می‌تواند این نقش دوران گذار را تجسم ببخشد. از زمانی که فعالیتم را شروع کردم، همیشه خواسته‌ام که ایرانیان بتوانند در انتخابات آزاد سرنوشت خود را انتخاب کنند؛ چیزی که این رژیم همیشه از آن‌ها دریغ کرده است».
-شاهزاده رضا پهلوی افزود: «بنابراین، این فراخوان و انتظار، مرا در موقعیت منحصر‌به‌فردی قرار می‌دهد تا بتوانم اپوزیسیون ایران را، با هر گرایش سیاسی نهایی که داشته باشند، متحد کنم. آنها در من بهترین شانس را برای رسیدن به مقصد می‌بینند که همان یک دوره موقت برای گذار است. نقش من این است که ایرانیان با هر گرایش سیاسی بتوانند آینده خود را از طریق صندوق‌های رای انتخاب کنند».
-
----
-
-### 🕒 2026-02-16 21:45:08 UTC
-[https://t.me/proxy?server=11.3pita.com&port=3389&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=11.3pita.com&port=3389&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.172&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=65.109.26.215&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=65.109.26.215&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-
----
-
-### 🕒 2026-02-16 21:28:01 UTC
-شاهزاده رضا پهلوی امشب با شبکه TF1 فرانسه که یکی از مهمترین شبکه های فرانسه اس مصاحبه داشتن که در ادامه صحبت هاشون بیرون بیاد میذارم حتما
-توی این مصاحبه با زبان فرانسوی گفتگو کردن
-
----
-
-### 🕒 2026-02-16 20:44:54 UTC
-40 روز گذشت ولی این مسیر تا پیروزی و شاد شدن روح جاویدنامان عزیز ادامه داره
-***🕊***
 
 ---
 

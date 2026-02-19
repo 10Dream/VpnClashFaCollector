@@ -1,5 +1,20 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-02-18 20:30:52 UTC
+بروزرسانی: 2026-02-19 01:10:33 UTC
+
+### 🕒 2026-02-18 21:14:25 UTC
+میتونیم یه سایت با دامنه ایرانی بیاریم بالا، کانفیگ هارو بزاریم اونجا.  به محض اینکه سایت های ایرانی اومد بالا، برید بردارید. این چطوره؟
+
+---
+
+### 🕒 2026-02-18 20:37:54 UTC
+نظرتون راجب این چیه؟  برای زمان قطعی؟
+
+---
+
+### 🕒 2026-02-18 20:33:07 UTC
+اگر روبیکا بده، که دایرکت میگید، شما راه حل بگید. چیکار کنیم بهترین کاره، فکر کنید.فکر.۱۳۰ هزار نفریم، عقلمون رو بزاریم رو هم. مشکلو حل کنیم
+
+---
 
 ### 🕒 2026-02-18 20:25:10 UTC
 میخواییم واس زمان قطعی هم راه پیدا کنیم، به نظرتون روبیکا چنل خصوصی باز کنیم، جواب میگیریم ازش؟  اینجا قطع شد، روبیکا بیاین کانفیگ بردارین؟  یا روش بهتری میدونین؟ دایرکت کانال بگین
@@ -1121,216 +1136,6 @@ vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&securit
 
 ### 🕒 2026-02-17 09:00:35 UTC
 صب بخیر
-
----
-
-### 🕒 2026-02-16 21:35:37 UTC
-**شب بخیر**
-
----
-
-### 🕒 2026-02-16 21:35:12 UTC
-***😀***
-**اموزش وصل  کانفیگ رایگان نپسترنت :**
-**😀**
-**برنامه Npv یا همون نپسترنت رو دانلود کنید**
-**😀**
-**این کانفیگ هارو داخلش ادد بزنید **
-**😀**
-**پینگ بگیرید و بهش زمان بدین downlink اومد یعنی وصل شده .**
-**🔴**
-**کانکت شید**
-**☯️**
-**تمام 😘**
-
----
-
-### 🕒 2026-02-16 21:33:13 UTC
-***⭕***
- 
-**کانفیگ متصل **
- 
-**🔐**
- 
-***🔐***
- 
-***🔐***
- 
-***🔐***
-***✈️***
-**آموزش:**
- 
-**فایل را باز کنید(ترجیحا با برنامه chrome)**
- و تمامی محتوای داخل فایل را کپی کنید و وارد یکی از کلاینت های زیر کنید.
-**[ V2ray ـ Hiddify ـ V2box ـ Npv**
-  ]
-***✈️***
-  بعد از اینکه تمامی کانفیگ ها را وارد کردید، حتما از کانفیگ ها 
-**پینگ بگیرید**
- و به کانفیگ با کمترین پینگ متصل شوید.
-***✈️***
-  کانفیگ ها روی 
-**V2ray و Npv بهتر پاسخگو**
- هستند، حتما آخرین ورژن را نصب داشته باشید
-***✈️***
-  اتصال شما کاملا بستگی به اینترنت و منطقه شما دارد
-
----
-
-### 🕒 2026-02-16 21:32:30 UTC
-──────────────────────────────
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.143:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#configraygan_53
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.119.124.171:2053?path=%2Fv2rayNplus%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.v6.navy&type=ws&sni=sni.111000.v6.navy#configraygan_54
-──────────────────────────────
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#configraygan_55
-──────────────────────────────
-vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=92de1aab07490056#configraygan_56
-──────────────────────────────
-vless://159fd3c9-561c-42aa-90bc-192745785888@77.83.245.195:49229?security=reality&encryption=none&pbk=LU8N5PPS39pF7Sjwxwen_dDWEO0v1jBteR_LS6epgTs&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=92de1aab07490056#configraygan_57
-──────────────────────────────
-vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#configraygan_58
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.209.162.38:443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#configraygan_59
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#configraygan_60
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MGM0NTVjOWYxOWFhM2E1@57.129.94.79:11206#configraygan_61
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.133.47.144:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.dynv6.net&fp=chrome&type=ws&sni=sni.111000.dynv6.net#configraygan_62
-──────────────────────────────
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#configraygan_63
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#configraygan_64
-──────────────────────────────
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#configraygan_65
-──────────────────────────────
-vless://69794ea1-58df-4a7c-b41b-8e5d2f5ca6d6@194.120.116.157:35551?security=none&encryption=none&type=xhttp#configraygan_66
-──────────────────────────────
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#configraygan_67
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@38.135.24.131:443#configraygan_68
-
----
-
-### 🕒 2026-02-16 21:32:30 UTC
-──────────────────────────────
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#configraygan_36
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configraygan_37
-──────────────────────────────
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.21.227.134:2096?path=%2F&security=tls&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&host=ca.adobe-connect.top&fp=chrome&type=ws&sni=ca.adobe-connect.top#configraygan_38
-──────────────────────────────
-vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#configraygan_39
-──────────────────────────────
-vless://115e24e4-fc6b-4d89-8f55-05eb00770001@cdnuser2048mb.wrongguy.ir:8443?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=ic.imsoon.io#configraygan_40
-──────────────────────────────
-vless://42ee6cfa-a6c2-48ec-b833-b072975c7177@172.66.40.99:8080?security=none&encryption=none&type=xhttp#configraygan_41
-──────────────────────────────
-vless://4c97ec3e-3527-48c5-80ff-b715463896ba@nodejs.org:80?path=%2F%3Fed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#configraygan_42
-──────────────────────────────
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:21771?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#configraygan_43
-──────────────────────────────
-vless://94712dd9-17d8-4813-a118-cc487fadd137@77.83.245.189:27414?security=reality&encryption=none&pbk=eiA4uP7O29DoX6lvwhjaIXPTANlwvPB1Jzom_V2Z5gE&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=1ba8b4cd54627171#configraygan_44
-──────────────────────────────
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?security=none&encryption=none&type=xhttp#configraygan_45
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.130.207.158:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#configraygan_46
-──────────────────────────────
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.143:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#configraygan_47
-──────────────────────────────
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=%2Fproxyip&security=tls&encryption=none&host=o00o.snip.qzz.io&fp=chrome&type=ws&sni=o00o.snip.qzz.io#configraygan_48
-──────────────────────────────
-vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.128.38:443?security=tls&encryption=none&headerType=none&type=tcp&sni=secdn22.suio.me#configraygan_49
-──────────────────────────────
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@104.21.224.5:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#configraygan_50
-──────────────────────────────
-vless://af294727-004a-4bf0-b120-92c8618e86dc@nl.mobilezahra.lat:443?security=reality&encryption=none&pbk=10afHwCh2N-Qeqsskwvp9gLC0JrOA-CSfuRbgcK7YkA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=excoino.com&sid=d9a8dad452a7644f#configraygan_51
-──────────────────────────────
-vless://e6c7ed63-89db-4ae1-a3f8-7a722921b3b2@104.18.185.26:443?path=%2FO1w0n3vYgFKYs7EzNAvLPvOp&security=tls&encryption=none&host=apii.onlineshoppingez.ir&type=ws&sni=apii.onlineshoppingez.ir#configraygan_52
-
----
-
-### 🕒 2026-02-16 21:32:30 UTC
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@172.64.152.23:2052?security=none&encryption=none&type=xhttp#configraygan_18
-──────────────────────────────
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.32.47:2052?security=none&encryption=none&type=xhttp#configraygan_19
-──────────────────────────────
-vless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=.....
-[jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store](http://jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store/)
-......&type=ws#configraygan_20
-──────────────────────────────
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
-[#configraygan_21](?q=%23configraygan_21)
-──────────────────────────────
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=ipv4.yasharteam.com#configraygan_22
-──────────────────────────────
-vless://71330075-20a7-0013-beb3-566f07cb75af@144.31.0.11:443?security=reality&encryption=none&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&headerType=none&fp=chrome&type=tcp&sni=pl-mirror.api.akenai.click&sid=b91a73752053b039#configraygan_23
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@20.254.21.147:443#configraygan_24
-──────────────────────────────
-ss://YWVzLTI1Ni1nY206endqbFU5N3RCS3RQSlBCNQ==@45.77.253.107:443#configraygan_25
-──────────────────────────────
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@cfclu2.zopli.ir:443?path=%2F&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=cdn-no.lopzo.ir#configraygan_26
-──────────────────────────────
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=4fc5e35bdb69d36b#configraygan_27
-──────────────────────────────
-vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&alpn=networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-channel@.networld_vpn-&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#configraygan_28
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#configraygan_29
-──────────────────────────────
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&authority=&type=grpc&serviceName=
-[#configraygan_30](?q=%23configraygan_30)
-──────────────────────────────
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.64.105:8443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40FooTNooD&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#configraygan_31
-──────────────────────────────
-vless://e5f8a9f6-f164-479b-b3b5-b90f213c7145@162.159.36.20:2053?path=%2F&security=tls&encryption=none&host=ir1.airpanel.top&type=ws&sni=ir1.airpanel.top#configraygan_32
-──────────────────────────────
-vless://a0d17bf0-e548-4154-b200-3ea825a46740@afrcloud22.mmv.kr:443?path=%2F144.24.90.107%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#configraygan_33
-──────────────────────────────
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.181:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#configraygan_34
-──────────────────────────────
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#configraygan_35
-
----
-
-### 🕒 2026-02-16 21:32:30 UTC
-vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=dashaghdarim.global.ssl.fastly.net&type=ws#configraygan_1
-──────────────────────────────
-vless://e88807d6-5789-41bf-ba33-5393f8d84fae@167.82.101.147:80?path=%2F&security=none&encryption=none&host=mostafanarozirmiz.global.ssl.fastly.net&type=ws#configraygan_2
-──────────────────────────────
-vless://Parsashonam@104.21.14.158:2096?security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#configraygan_3
-──────────────────────────────
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz-vpnbaz&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#configraygan_4
-──────────────────────────────
-vless://Parsashonam@45.130.125.160:2096?security=tls&encryption=none&fp=chrome&type=xhttp&sni=signup.atlasw.ir#configraygan_5
-──────────────────────────────
-vless://e88807d6-5789-41bf-ba33-5393f8d84fae@pkg.zaracloudcenter.ir:8443?security=tls&encryption=none&fp=chrome&type=xhttp&sni=amir3.masmashhhh.workers.dev#configraygan_6
-──────────────────────────────
-vless://bd1cbd82-1da8-497f-9eb5-83bf1d8b6de2@198.12.145.121:2053?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=xhttp&sni=myopen.tencan.ir#configraygan_7
-──────────────────────────────
-vless://Parsashonam@chatGPT.com:2096?security=tls&encryption=none&alpn=http/1.1,h2&fp=chrome&type=xhttp&sni=signup.atlasw.ir#configraygan_8
-──────────────────────────────
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2FTelegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#configraygan_9
-──────────────────────────────
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#configraygan_10
-──────────────────────────────
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#configraygan_11
-──────────────────────────────
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.14.158:443?path=Tel-%40V2rayAlpha&security=tls&encryption=none&alpn=http/1.1&host=6.3pita.com&fp=chrome&type=ws&sni=6.3pita.com#configraygan_12
-──────────────────────────────
-vless://0bf4efe9-c3b3-47bc-a707-e1535b502e90@199.232.236.1:80?path=%2F&security=none&encryption=none&host=pmiusc1l1.global.ssl.fastly.net&type=ws#configraygan_13
-──────────────────────────────
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@185.235.197.215:45703?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#configraygan_14
-──────────────────────────────
-vless://4c765647-bc2e-456c-8ac0-47a5e45c9fad@[::ffff:26f2:eae4]:80?path=%2FeyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119%3Fed%3D2560&security=none&encryption=none&host=.....
-[jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store](http://jorjina.1q2w3e4r5t6y7u8i9o0p1a2s3d4f5g6h7j8k9l01z2x3c4v5b6n7m8goot.store/)
-......&type=ws#configraygan_15
-──────────────────────────────
-vless://bdf97c06-ae1f-47e9-b47a-9d9ff47b5820@213.176.126.132:21771?security=none&encryption=none&host=skyroom.online&headerType=http&type=tcp#configraygan_16
-──────────────────────────────
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?security=none&encryption=none&type=xhttp#configraygan_17
-──────────────────────────────
 
 ---
 

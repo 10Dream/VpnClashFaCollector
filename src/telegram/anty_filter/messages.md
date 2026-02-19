@@ -1,5 +1,32 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-18 20:30:10 UTC
+بروزرسانی: 2026-02-19 01:09:50 UTC
+
+### 🕒 2026-02-18 22:20:56 UTC
+***🟢***
+ 
+**فیلترشکن V2 Speed VPN (اندروید)**
+• نسخه 1.1.5
+نسخه مود شده و بدون محدودیت 
+****
+امکان اتصال خودکار به بهترین سرور.
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](http://uploadb.me/4ym12t3jdttu/V2SPEED.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-18 21:44:14 UTC
+سرور ویتوری
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%40vpnbaz%20%F0%9F%8E%80
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#%40vpnbaz%20%F0%9F%8C%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#%40vpnbaz%20%E2%9B%B1%EF%B8%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.204.185:443#%40vpnbaz%20%F0%9F%8E%A8
+vless://d5a62360-4b33-4e24-8656-7d9e038847a6@185.215.244.166:26008?security=none&encryption=none&headerType=http&type=tcp#%40vpnbaz%20%E2%98%82%EF%B8%8F
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%8E%AF
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-18 19:45:04 UTC
 سرور ویتوری
@@ -9,40 +36,6 @@ vless://42c81f29-5dc4-489d-8446-cf6204a084f3@loncas.izumii.ir:7180?security=none
 vless://a643ebf9-421c-4b80-9022-6d62334b0a44@chatgpt.com:443?mode=auto&path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=edge-eu-1.veaglevpn.software&fp=chrome&type=xhttp&allowInsecure=0&sni=edge-eu-1.veaglevpn.software#%40vpnbaz%20%F0%9F%8D%AD
 vmess://eyJhZGQiOiJkbGwuYXZhYWFhbC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiY2RnZS5hdmFhYWFsLmlyIiwiaWQiOiI3MjVmNWZjZC03MjFkLTQwYTAtYmE2Yi0zYzc0Nzc2MzMxMTAiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IkB2cG5iYXog8J+OgyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-18 19:44:37 UTC
-> ↪️ **Forwarded**
-
-**لیست قیمت کانفینگ‌ v2rayNG و npv **
-**📶**
-یکماهه 20 گیگابایت |  100.000  تومان   
-***💵***
-یکماهه 30 گیگابایت |  140.000  تومان 
-***💵***
-یکماهه 40 گیگابایت |  180.000  تومان   
-***💵***
-هر کاربر اضافه +20.000
-**سازگار با تمامی اپراتورها **
-***📶***
-***📶***
-***📶***
-***🛜***
-***🛜***
-***🛜***
-**همراه با تست رایگان **
-***🔥***
-***🛡***
- 
-**آیدی پشتیبانی جهت خرید:**
- 
-[@Litesoop](https://t.me/Litesoop)
- 
-***☑️***
-**کانال اطلاع رسانی و رضایت:**
- 
-[@ghostVPN_pn](https://t.me/ghostVPN_pn)
 
 ---
 
@@ -265,54 +258,6 @@ vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=no
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#%40vpnbaz%20%F0%9F%8E%A9
 vless://ff9fef0b-b3cd-4583-8841-b7ef1843880f@1234.wordpresscrt.ir:2087?path=%2Fpath&security=tls&encryption=none&insecure=0&host=mehdi-cd.wordpresscrt.ir&type=ws&allowInsecure=0&sni=mehdi-cd.wordpresscrt.ir#%40vpnbaz%20%F0%9F%9B%B8
 vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?path=%2Fukspeed&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=snapfood.org&fp=chrome&type=ws&allowInsecure=1&sni=snapfood.org#%40vpnbaz%20%F0%9F%8E%B3
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-16 22:49:41 UTC
-***🔴***
- 
-**نسخه جدید**
- 
-**فیلترشکن Vless VPN (اندروید)**
-• نسخه 1.10.46
-نسخه مود شده و بدون محدودیت 
-****
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-برای مشاهده سرورها، بدون فیلترشکن (با فیلتر خاموش) وارد برنامه شوید و به سرورهای دارای پینگ متصل شوید.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/wmzqhb2mlvcj/Vless.apk.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-16 21:21:20 UTC
-سرور ویتوری 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%8F%B3%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#%40vpnbaz%20%F0%9F%8F%B4
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.16.121.147:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40vpnbaz%20%F0%9F%A7%B6
-vless://3b5ef7ea-ccb8-4126-a500-626c650e7e3a@77.83.245.169:22107?security=reality&encryption=none&pbk=MaK15ybWQMEURQWUPLmkVcTlwTn-NVpgQjSJ7TxiyEw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=ca149cc9d87c3cb6#%40vpnbaz%20%F0%9F%8E%AD
-vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#%40vpnbaz%20%F0%9F%8F%80
-vless://0ea0ce13-85c2-4e97-8903-ef1232a2a2c6@185.138.90.31:8443?security=reality&encryption=none&pbk=cZsRvk8pr8wfYiX1CNxdDjR38tow3HuL6IpBj8P82l8&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=github.com&sid=e18eda8458cab0d7#%40vpnbaz%20%F0%9F%8D%87
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-16 21:02:26 UTC
-***🔴***
-**فیلترشکن‌ های پیشنهادی برای اختلالات شدید اینترنت (اینترنت ملی)**
-→ 
-[Psiphon VPN](https://t.me/anty_filter/22558)
-→ 
-[Argo VPN](https://t.me/anty_filter/22342)
-→ 
-[BinWis VPN ](https://t.me/anty_filter/22320?single)
-→ 
-[Viva VPN](https://t.me/anty_filter/22321?single)
-→ 
-[Defyx VPN ](https://t.me/anty_filter/22510)
-→ 
-[BD NET VPN](https://t.me/anty_filter/22501)
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

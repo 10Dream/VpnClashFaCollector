@@ -1,5 +1,72 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-18 20:29:44 UTC
+بروزرسانی: 2026-02-19 01:09:24 UTC
+
+### 🕒 2026-02-18 22:28:56 UTC
+[ایف](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+ون 
+[| ایف](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+و
+[نهمر](https://t.me/proxy?server=91.239.192.91&amp;port=56443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+اه |
+[ همر](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
+اه 
+[| همر](https://t.me/proxy?server=91.239.192.89&amp;port=65443&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+اه 
+[| همر](https://t.me/proxy?server=91.239.192.92&amp;port=56443&amp;secret=10446282fffffffffff80000fff80000)
+اه 
+[| همر](https://t.me/proxy?server=195.254.165.7&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ا
+[هپروک](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+سی 
+[| پروک](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+سی 
+[| پروک](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+سی 
+[ پروک](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+سی 
+[| پروک](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+سی 
+[| پروک](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+س
+[یپروک](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+سی 
+[| پروک](https://t.me/proxy?server=91.239.192.21&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+سی 
+[| پروک](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+سی
+[ پروک](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+سی 
+[| پروک](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+سی 
+[| پروک](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+س
+[یپروک](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+سی 
+[| پروک](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+سی 
+[| پروک](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+س
+[یپروک](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+سی 
+[| پروک](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+سی 
+[| پروک](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+سی
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-18 22:27:36 UTC
+[https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
 
 ### 🕒 2026-02-18 15:32:46 UTC
 > ↪️ **Forwarded**
@@ -510,18 +577,6 @@
 [https://t.me/proxy?server=116.203.242.112&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=116.203.242.112&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 [https://t.me/proxy?server=116.203.139.144&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=116.203.139.144&port=443&secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ﻿
-
----
-
-### 🕒 2026-02-16 23:39:02 UTC
-This is the End .
-
----
-
-### 🕒 2026-02-16 20:49:33 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
 
 ---
 

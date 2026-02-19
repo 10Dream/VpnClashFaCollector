@@ -1,5 +1,293 @@
 # آرشیو کانال: @vpnRaya
-بروزرسانی: 2026-02-18 20:33:08 UTC
+بروزرسانی: 2026-02-19 01:12:47 UTC
+
+### 🕒 2026-02-18 22:08:17 UTC
+***💥***
+ 
+**جدیدترین آپدیت اپلیکیشن رسمی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+****
+***✅***
+ 
+[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ / 
+[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ 
+**از**
+ 
+**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🎖***
+**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
+
+---
+
+### 🕒 2026-02-18 22:08:12 UTC
+> ↪️ **Forwarded**
+
+**🏆 با Winter Wins قهرمان المپیکی شو! ❄️**
+***🎁***
+**جوایز:**
+***💻***
+مک‌بوک پرو
+***📱***
+آیفون ۱۷ پرو مکس
+***📱***
+سامسونگ گلکسی S25 اولترا
+***🎮***
+پلی‌استیشن ۵ پرو
+***🎮***
+ایکس‌باکس سری X
+***❤️‍🔥***
+شرط‌های رایگان تا 100$ و هزاران امتیاز بونوس!
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🔽***
+  از طریق اپیکیشن اندروید 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ ثبت نام کنید 
+***🔽***
+
+---
+
+### 🕒 2026-02-18 22:07:50 UTC
+***⏺***
+**گول گرمای این روزها را نخورید، یخبندان در راه است!**
+***🔸***
+برای روزهای پیش رو شاهد تداوم گرمای شدید هوا در کشور خواهیم بود و دماهای ناهنجار و کاملاً بهاری را در بسیاری از نقاط خواهیم داشت. 
+***🔸***
+اما این شرایط موقتی بوده و پدیده یخبندان مجدداً از اواخر هفته آینده آغاز شده و شاهد سرمای شدید هوا در بسیاری از نقاط خواهیم بود!
+***🔸***
+جزییات پیش بینی این سرما طی روزهای آینده اطلاع رسانی خواهد شد.
+[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** |**
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-18 22:06:49 UTC
+***🔴***
+ سهمیه ۲۰ روز تردد رایگان در محدوده آلودگی هوا از ۹ تا ۲۷ اسفند لغو می‌شود/ لغو طرح ترافیک از ۲۸ اسفند تا ۱۵ فروردین ۱۴۰۵
+***◽️***
+دبیر شورای ترافیک تهران: هر خودرو در هر فصل می‌تواند در محدوده کنترل آلودگی هوا با پلاک تهران ۲۰ روز و با پلاک شهرستان ۱۵ روز تردد داشته باشد، اما با توجه به ازدحام ترافیکی در اسفندماه در جلسه شورای ترافیک تهران قرار شد که این سهمیه از روز ۹ تا ۲۷ اسفندماه لغو شود.
+***◽️***
+همچنین از ۲۸ اسفند تا ۱۵ فروردین ۱۴۰۵ نیز طرح ترافیک اجرا نخواهد شد.
+[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** |**
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-18 21:51:56 UTC
+***❤️***
+محسن رضایی: اگه حمله کنید، حتی اگه بعدش التماس هم کنید ما بیخیال نمیشیم
+[همراه](https://t.me/proxy?server=195.254.165.69&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.11&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.6&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+  
+[پروکسی](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.39&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ 
+[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ 
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-18 21:51:29 UTC
+**فاکس نیوز: انتظار می‌رود ترامپ به‌زودی دستور اقدام نظامی علیه ایران را صادر کند**
+ترامپ و تیمش اصرار دارند هر توافقی باید شامل برچیدن کامل برنامه هسته‌ای، محدودیت موشکی و قطع حمایت از گروه‌های نیابتی باشد ولی ایران چنین چیزی را قبول نمی‌کند
+[پروکسی جدید](tg://proxy?server=Df.filmne2t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=3133433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313343310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=31343310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=3133310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=313310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=13310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=1310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=130.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=10.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=31133433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313113433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=313311433310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی](tg://proxy?server=1122210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=112210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=11210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ | 
+[پروکسی](tg://proxy?server=1110.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-18 21:45:38 UTC
+***💥***
+ 
+**جدیدترین آپدیت اپلیکیشن رسمی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+****
+***✅***
+ 
+[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ / 
+[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+ 
+**از**
+ 
+**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
+ 
+[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🎖***
+**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
+
+---
+
+### 🕒 2026-02-18 21:45:33 UTC
+> ↪️ **Forwarded**
+
+**🤩پروموی Star League – اصلی‌ترین تورنمنت فصل با 1xBet🏆**
+**🎁 جوایز شامل:**
+ 
+***💰***
+تا 70,000$ جایزه نقدی؛ 
+***💎***
+تا 100$ شرط رایگان؛ 
+***🚀***
+تا 5000 امتیاز بونوس؛ 
+***🎉***
+هدایا و جوایز تضمینی برای انجام وظایف Champion Ball
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🌐***
+Link: 
+[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
+***🛑***
+ برای ورود به سایت از وی پی ان (فیلترشکن) کشورهای ترکیه یا کانادا استفاده کنید
+***🛑***
+
+---
+
+### 🕒 2026-02-18 21:44:57 UTC
+***🌙***
+ فرا رسیدن ماه مبارک و پربرکت رمضان رو تبریک میگم . ما رو از دعاهاتون بی نصیب نزارید.
+****
+[همراه](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[** **](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[اول](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[پروکسی](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** |**
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
 
 ### 🕒 2026-02-18 20:26:53 UTC
 ترامپ: آمریکا برای خنثی‌سازی حمله احتمالی ایران، ممکن است از دیه‌گو گارسیا استفاده کند

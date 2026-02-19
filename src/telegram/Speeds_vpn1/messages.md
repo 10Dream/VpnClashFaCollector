@@ -1,5 +1,5 @@
 # آرشیو کانال: @Speeds_vpn1
-بروزرسانی: 2026-02-18 20:29:50 UTC
+بروزرسانی: 2026-02-19 01:09:30 UTC
 
 ### 🕒 2026-02-18 20:29:30 UTC
 **برای همه اپراتورها**
@@ -1476,72 +1476,6 @@
 ***➿***
 ***➿***
 `vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.9.6.32:48484?path=/?ed=2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#***🐦‍🔥***-@SPEEDS_VPNvless://6202b230-417c-4d8e-b624-0f71afa9c75d@211.48.77.114:12312/?type=ws&encryption=none&flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&sni=sni.111000.indevs.in&fp=chrome#***🐦‍🔥***-@SPEEDS_VPNvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=/pabloping/?TELEGRAM-vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr_vpnserverrr&security=none&encryption=none&host=pablo-n3.digionix.ir&type=xhttp¬e=@FreeOnlineVPN#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-16 21:05:33 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://6919e588-cff3-4c1b-b7a3-3ca0ada5fb69@85.133.200.78:26480?security=none&encryption=none&headerType=none&type=tcp#***🐦‍🔥***-@SPEEDS_VPNvless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&path=%2Fdata%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fp=chrome&type=xhttp&sni=datas.meowchannel.ir#***🐦‍🔥***-@SPEEDS_VPNvless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s3.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&host=nx4.sellink.ir&fp=chrome&type=ws&sni=nx4.sellink.ir#***🐦‍🔥***-@SPEEDS_VPNvless://6c177128-ee21-4c87-a977-5a7b9bbc32b3@s1.eldoradu.ir:2053?path=%2F&security=tls&encryption=none&host=dxg5.sellink.ir&fp=chrome&type=ws&sni=dxg5.sellink.ir#***🐦‍🔥***-@SPEEDS_VPN`
 ***➿***
 ***➿***
 ***➿***

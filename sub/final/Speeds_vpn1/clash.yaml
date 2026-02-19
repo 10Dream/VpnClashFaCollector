@@ -499,38 +499,35 @@ proxies:
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 19", server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: e55fd8f9c9a9a0ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 9", server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64a3a23c-363a-4bee-9401-f5c42eea5a27, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: e55fd8f9c9a9a0ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 20", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 21", server: 85.133.200.78, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 22", server: s4.daneshvardost.com, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, host: s4.daneshvardost.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 21", server: s4.daneshvardost.com, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, host: s4.daneshvardost.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 10", server: 212.33.206.89, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 6a6dea93-1811-498b-b1be-cd2ce2922d04, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆` 4", server: 212.33.206.89, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 6a6dea93-1811-498b-b1be-cd2ce2922d04, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 11", server: s1.eldoradu.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6c177128-ee21-4c87-a977-5a7b9bbc32b3, servername: dxg5.sellink.ir, network: ws, ws-opts: {path: /, headers: {Host: dxg5.sellink.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 23", server: s3.eldoradu.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6c177128-ee21-4c87-a977-5a7b9bbc32b3, servername: nx4.sellink.ir, network: ws, ws-opts: {path: /, headers: {Host: nx4.sellink.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 24", server: vip-84.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 72de4eb9-74f6-4eac-9590-4d38a311fd9a, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 22", server: vip-84.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 72de4eb9-74f6-4eac-9590-4d38a311fd9a, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆 3", server: vip-84.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 72de4eb9-74f6-4eac-9590-4d38a311fd9a, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 25", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3626e9-8df6-4325-ba04-fffb23fa4d32, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 12", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3626e9-8df6-4325-ba04-fffb23fa4d32, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 26", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 86e1dc2b-9e5f-4796-bf9c-3a3f71fede7c, servername: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiWVJ3bER6b2V5ZHBRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 23", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3626e9-8df6-4325-ba04-fffb23fa4d32, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 11", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3626e9-8df6-4325-ba04-fffb23fa4d32, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 24", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 86e1dc2b-9e5f-4796-bf9c-3a3f71fede7c, servername: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiWVJ3bER6b2V5ZHBRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆 4", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 86e1dc2b-9e5f-4796-bf9c-3a3f71fede7c, servername: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiWVJ3bER6b2V5ZHBRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: cRiMSoN-smOkE-090F.JxSgv.WOrkErS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 27", server: aeza.de1.node.stash.tg, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b49ccbf-e0d3-43c7-9520-2653efdcca9c, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 28", server: 5.255.126.160, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: 8e28baed-b7da-29a3-cb89-cb7e4878c011, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pMAxMd8b9VTp8Yp4v18z98zJ%D8%A76frzxPdK0DvZT8CMF2k, short-id: 9d38c6241e8c654a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 29", server: 144.31.2.86, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9034468f-b93d-407f-bfc0-87a178ba5c8c, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho, short-id: cbdfef7f3ede2072}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 13", server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 93bf727c-95d1-4bd9-824e-3156b655ae71, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 30", server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 31", server: 104.18.0.144, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: joinProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /49.51.197.141=443, headers: {Host: joinProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 25", server: aeza.de1.node.stash.tg, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b49ccbf-e0d3-43c7-9520-2653efdcca9c, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 26", server: 5.255.126.160, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: 8e28baed-b7da-29a3-cb89-cb7e4878c011, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pMAxMd8b9VTp8Yp4v18z98zJ%D8%A76frzxPdK0DvZT8CMF2k, short-id: 9d38c6241e8c654a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 27", server: 144.31.2.86, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9034468f-b93d-407f-bfc0-87a178ba5c8c, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: PuHKrJNt4shNVTNZ_leD7SmOI0QhxJ9SVnkV70i1xho, short-id: cbdfef7f3ede2072}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 12", server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 93bf727c-95d1-4bd9-824e-3156b655ae71, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 28", server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 29", server: 104.18.0.144, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: joinProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /49.51.197.141=443, headers: {Host: joinProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆 5", server: 104.18.0.144, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: joinProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /49.51.197.141=443, headers: {Host: joinProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 32", server: fi.mobileemdad.top, port: 42538, type: vless, tls: true, packet-encoding: xudp, uuid: b04b9985-25ce-4c33-b2f7-fbd8d1b21347, host: fi.mobileemdad.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 30", server: fi.mobileemdad.top, port: 42538, type: vless, tls: true, packet-encoding: xudp, uuid: b04b9985-25ce-4c33-b2f7-fbd8d1b21347, host: fi.mobileemdad.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆 6", server: fi.mobileemdad.top, port: 42538, type: vless, tls: true, packet-encoding: xudp, uuid: b04b9985-25ce-4c33-b2f7-fbd8d1b21347, host: fi.mobileemdad.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 14", server: frs.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: bc20990c-a88e-4852-8e3b-f5b3ff4ae56a, network: ws, ws-opts: {path: /ed=2560, headers: {Host: okpan3musicfr.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 33", server: hope.zdshop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: bc20990c-a88e-4852-8e3b-f5b3ff4ae56a, network: ws, ws-opts: {path: "/?ed=2086", headers: {Host: new-sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 34", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 35", server: 104.18.32.47, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e31085f9-7f55-4a7d-b00e-ce94149477cb, network: ws, ws-opts: {path: "/?ed", headers: {Host: PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 15", server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 13", server: frs.zdshop.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: bc20990c-a88e-4852-8e3b-f5b3ff4ae56a, network: ws, ws-opts: {path: /ed=2560, headers: {Host: okpan3musicfr.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 31", server: hope.zdshop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: bc20990c-a88e-4852-8e3b-f5b3ff4ae56a, network: ws, ws-opts: {path: "/?ed=2086", headers: {Host: new-sens-2.certhost.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 32", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 33", server: 104.18.32.47, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e31085f9-7f55-4a7d-b00e-ce94149477cb, network: ws, ws-opts: {path: "/?ed", headers: {Host: PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 14", server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆` 5", server: 162.159.36.20, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 36", server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 37", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 16", server: 1234.wordpresscrt.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ff9fef0b-b3cd-4583-8841-b7ef1843880f, servername: mehdi-cd.wordpresscrt.ir, network: ws, ws-opts: {path: /path, headers: {Host: mehdi-cd.wordpresscrt.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 17", server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 38", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 34", server: 91.107.208.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6cf712c-7c48-466c-aaed-4154b276a4a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 35", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 15", server: 1234.wordpresscrt.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ff9fef0b-b3cd-4583-8841-b7ef1843880f, servername: mehdi-cd.wordpresscrt.ir, network: ws, ws-opts: {path: /path, headers: {Host: mehdi-cd.wordpresscrt.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 16", server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 36", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -582,37 +579,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -654,37 +648,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -726,37 +717,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -807,37 +795,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -879,37 +864,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -951,37 +933,34 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN` 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 20"
       - "***🐦‍🔥***-@SPEEDS_VPN 21"
-      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "***🐦‍🔥***-@SPEEDS_VPN` 10"
       - "@SPEEDS_VPN1-🫆` 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
-      - "***🐦‍🔥***-@SPEEDS_VPN 23"
-      - "***🐦‍🔥***-@SPEEDS_VPN 24"
+      - "***🐦‍🔥***-@SPEEDS_VPN 22"
       - "@SPEEDS_VPN1-🫆 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 25"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
-      - "***🐦‍🔥***-@SPEEDS_VPN 26"
+      - "***🐦‍🔥***-@SPEEDS_VPN 23"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 11"
+      - "***🐦‍🔥***-@SPEEDS_VPN 24"
       - "@SPEEDS_VPN1-🫆 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 25"
+      - "***🐦‍🔥***-@SPEEDS_VPN 26"
       - "***🐦‍🔥***-@SPEEDS_VPN 27"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 12"
       - "***🐦‍🔥***-@SPEEDS_VPN 28"
       - "***🐦‍🔥***-@SPEEDS_VPN 29"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 30"
-      - "***🐦‍🔥***-@SPEEDS_VPN 31"
       - "@SPEEDS_VPN1-🫆 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 32"
+      - "***🐦‍🔥***-@SPEEDS_VPN 30"
       - "@SPEEDS_VPN1-🫆 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 13"
+      - "***🐦‍🔥***-@SPEEDS_VPN 31"
+      - "***🐦‍🔥***-@SPEEDS_VPN 32"
       - "***🐦‍🔥***-@SPEEDS_VPN 33"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 14"
+      - "@SPEEDS_VPN1-🫆` 5"
       - "***🐦‍🔥***-@SPEEDS_VPN 34"
       - "***🐦‍🔥***-@SPEEDS_VPN 35"
       - "***🐦‍🔥***-@SPEEDS_VPN` 15"
-      - "@SPEEDS_VPN1-🫆` 5"
-      - "***🐦‍🔥***-@SPEEDS_VPN 36"
-      - "***🐦‍🔥***-@SPEEDS_VPN 37"
       - "***🐦‍🔥***-@SPEEDS_VPN` 16"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN 38"
+      - "***🐦‍🔥***-@SPEEDS_VPN 36"
   - name: دانلود منیجر 📥
     type: select
     proxies:

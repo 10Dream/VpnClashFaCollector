@@ -1,5 +1,104 @@
 # آرشیو کانال: @proxy_kafee
-بروزرسانی: 2026-02-18 20:32:16 UTC
+بروزرسانی: 2026-02-19 01:11:55 UTC
+
+### 🕒 2026-02-18 20:53:08 UTC
+بکاپ کلاینت
+***⚜️***
+VPN Client Pro
+سرورهای
+***🇹🇷***
+***🇩🇪***
+***🇧🇷***
+***🇷🇺***
+***🇬🇧***
+***🇪🇸***
+***🇰🇷***
+***🇵🇸***
+***🇺🇸***
+***🇨🇦***
+***🇸🇪***
+***🇺🇦***
+***🇩🇰***
+***🇫🇮***
+***🇦🇲***
+***🇵🇹***
+Number  : 985
+Pass 
+***🔐***
+ : joker
+***🔥***
+از این قسمت پایین VPN Clinet Pro دانلود کنید
+***💥***
+***🔥***
+[دانلود نسخه مود VPN Clinet Pro](https://t.me/proxy_kafee/21149)
+***💥***
+***🔥***
+[آموزش ویدیو مود VPN Clinet Pro ](https://t.me/proxy_kafee/18848)
+***💥***
+***🗣***
+نکته های مهم با دقت بخوانید با مشکل مواجه نشوید:
+***⚡️***
+۱-به هر مشکلی خوردی بزن رو لینک رفع مشکل کلاینت برطرف بشه برات اگر رمز خواست مهلت حجم کافینگ تموم میباشد و از کافینگ های هدیفای ویتوری سینگ باکس بکاپ آمنزیا و فیلتر شکن استفاده کنید.
+***☄***
+۲-سرورها کد خواست یا وصل نشد باید بکاپی که جدید رو میزاریم باید روز باشین مشکلی براتون پیش نیاد و تمامی بکاپ ها کافینگ ها به منطقه تون مربوط میشه مثال همراه اول و رایتل شاتل سامانتل مخابرات و سرویس وایفای از همراه اول وصل می شوند و اپراتور ایرانسل و رایتل شاتل از سرویس مودم های TD-LTE و آسیا تک وصل میشه وصل نشد بزن کله کیری ادمین پیکسار
+***🚀***
+۳-همه به سرورهای اول وصل نشید به سرورهای دیگه وصل بشید که بقیه بتوانند استفاده کنن و ری اکشن فراموش نشه مخلص تون ستون جوکر
+***🗓***
+ بکاپ ۹۸۵ تاریخ ۱۴۰۴/۱۱/۳۰
+***😎***
+***😘***
+***😍***
+***🤩***
+***🥳***
+***🌟***
+***💫***
+***🌈***
+***❄️***
+***☃️***
+متصل تمامی اپراتورها
+***🔥***
+***🔥***
+[@proxy_kafee](https://t.me/proxy_kafee)
+***🔥***
+
+---
+
+### 🕒 2026-02-18 20:44:07 UTC
+***🔴***
+شبکه i24NEWS: رئیس ستاد فرماندهی جبهه داخلی اسرائیل، در یک جلسه محرمانه در مقابل کنست: «ما خودمون رو برای یک سناریوی بزرگ چند جبهه‌ای آماده می‌کنیم‌
+[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🤡***
+ Joker News
+
+---
 
 ### 🕒 2026-02-18 20:23:54 UTC
 ***🔴***
@@ -1892,56 +1991,6 @@ Pass
 میلیون‌ها ایرانی که نامم رو فریاد زدن، منو فردی میدونن که میتونه نقشِ دوران گذار رو بر عهده بگیره.
 نقش من اینه که شرایطی فراهم بشه تا ایرانیان، با هر دیدگاه سیاسی، بتونن از طریق صندوق رای و انتخابات آزاد، آینده خودشون رو نتخاب کنن.
 من برای پادشاه یا رییس‌جمهور شدن کارزار نمیکنم. از روز اول هم گفتم ماموریتم اینه که شرایطی فراهم بشه تا ایرانیان روزی پای صندوق‌های رای برن و خودشون درباره آینده‌شون تصمیم بگیرن؛ همان روز، ماموریت من به پایان میرسه.
-[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-   
-[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.38&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[ایفون](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🤡***
- Joker News
-
----
-
-### 🕒 2026-02-16 20:49:13 UTC
-**لیست شبانه سرعت **
-جتلی
-[https://t.me/proxy?server=85.133.194.44&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.44&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.43&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.43&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.39&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.39&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.38&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.38&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.34&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.34&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[@proxy_kafee](https://t.me/proxy_kafee)
-
----
-
-### 🕒 2026-02-16 20:34:31 UTC
-***🔴***
- فرمانده انتظامی ایذه: حسن برون، مأمور انتظامی پاسگاه سوسن ایذه، درجریان درگیری با اشرار مسلح کشته شد.
 [پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
  
 [پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)

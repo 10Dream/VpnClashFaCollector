@@ -1,5 +1,5 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-18 20:31:39 UTC
+بروزرسانی: 2026-02-19 01:11:20 UTC
 
 ### 🕒 2026-02-18 18:30:42 UTC
 **سرور های پرسرعت ملی مخصوص همراه آخر💥سایر اپراتور ها رو‌خودتون تست کنید**
@@ -1220,23 +1220,6 @@ Telegram Proxy
 ---
 
 ### 🕒 2026-02-17 04:50:07 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-17 00:53:13 UTC
-پروکسی های جدید
-[tg://proxy?server=14611.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=14611.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[tg://proxy?server=152411.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=152411.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[tg://proxy?server=145311.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=145311.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[tg://proxy?server=145141.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=145141.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[tg://proxy?server=115541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=115541.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)

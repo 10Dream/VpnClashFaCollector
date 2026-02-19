@@ -1,5 +1,21 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-18 20:33:23 UTC
+بروزرسانی: 2026-02-19 01:13:04 UTC
+
+### 🕒 2026-02-18 21:05:31 UTC
+معرفی و راهنمایی اسکیریپت به زودی...
+ممنونم از سازنده اسکیریپ این اسکیریپ مخصوصا واسه ورکر و پیدا کردن ip تمیز عالیه به زودی 
+[#آموزش](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4)
+ های مربوطه رو میزارم رفقا!
+***🥰***
+***🥶***
+خود اسکیریپت:
+bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.sh)
+(قابل استفاده در 
+[ترموکس](https://play.google.com/store/apps/details?id=com.termux)
+ اندروید)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-18 16:19:25 UTC
 ***🎬***

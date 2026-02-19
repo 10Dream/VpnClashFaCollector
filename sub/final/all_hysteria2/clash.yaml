@@ -468,7 +468,9 @@ proxies:
   - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hkbgp.jjxcloud.xyz:8443 2, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.232.207.161:6090, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,7 +490,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -498,7 +502,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -508,7 +514,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -527,7 +535,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -537,7 +547,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -547,7 +559,9 @@ proxy-groups:
       - 91.132.51.160:844
       - hkbgp.jjxcloud.xyz:8443
       - hkbgp.jjxcloud.xyz:8443 2
+      - 🇭🇰 Hong Kong, Hong Kong [BL]
       - 172.232.207.161:6090
+      - "@meliproxyy"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -1,5 +1,5 @@
 # آرشیو کانال: @darkproxy
-بروزرسانی: 2026-02-18 20:30:57 UTC
+بروزرسانی: 2026-02-19 01:10:39 UTC
 
 ### 🕒 2026-02-18 20:30:38 UTC
 00:00
@@ -12,6 +12,7 @@
 بودنی‌ترین شخصِ 
 جهانم شده‌ای . . . 
 ‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌‌
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
@@ -57,6 +58,7 @@
 13- Titanic 1997
 14- 10 Things I Hate About You 1999 
 15- In the Mood for Love 2000
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
@@ -88,6 +90,7 @@
 ترامپ اینجوریه که اون چیه ته انبار؟
 پرواز میکنه؟
 ببرید خاورمیانه
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
@@ -623,39 +626,6 @@
 [پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-***☑️***
- 
-[@DarkProxy](https://t.me/DarkProxy)
-
----
-
-### 🕒 2026-02-16 22:25:01 UTC
-امروز صبح تو صف نانوایی یکی داشت سنگین بحث میکرد با مردم که یک هفته دیگه ماه رمضون شروع میشه دیگه حمله نمیکنن
-اف ۳۵ ها میخوان روزه بگیرن؟
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
 [پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
  | 
