@@ -466,27 +466,20 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@MARAMBASHI 💟", server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ClpSDewmilA4IzGKSvQHK1, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶", server: 31.192.234.199, port: 5223, type: ss, cipher: chacha20-ietf-poly1305, password: HLk7AlW3a8yY2eSrakJtEC, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 2", server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 3", server: 20.108.15.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷 2", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶 2", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧", server: de.mobileemdad.top, port: 42542, type: vless, tls: true, packet-encoding: xudp, uuid: 068f7784-c1c4-4ef7-b820-40759589c4ac, host: de.mobileemdad.top%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 2", server: fans2.mahoshid.ir, port: 45471, type: vless, tls: true, packet-encoding: xudp, uuid: 068f7784-c1c4-4ef7-b820-40759589c4ac, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: "/45.76.183.217=49292/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: "/45.76.183.217=49292/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶 3", server: 172.64.145.38, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶 4", server: f1.springpaatogh8.store, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 41c55d8d-44dd-4437-90ff-4c1eb869a67c, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "?ed#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 3", server: imgur.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 49af75d4-31d0-4322-b425-630be07030e1, network: ws, ws-opts: {path: "/download/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: diarasup2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷 3", server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.federico2.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: sany.federico2.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷 4", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.federico2.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: sany.federico2.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 4", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶 5", server: 85.133.195.194, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶 6", server: 85.133.200.78, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧`", server: 199.232.193.10, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 896c2efd-252d-4837-b3b7-349faa02956d, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: easyhostmanger.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷 5", server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c020e2f-15fb-4e5b-a421-4e8818a21420, servername: beh2.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh2.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🥶`", server: hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 98057472-daa3-43cc-a23e-b7a8f799ba5b, servername: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir., network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 5", server: ttt.radvinmax.ir, port: 33663, type: vless, tls: true, packet-encoding: xudp, uuid: 9ed58015-445e-4b27-8aad-b7b2a0ac713c, host: varzesh3.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 4", server: ipv1.shakhle.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b433fd43-e947-4cd0-96f9-901eb09df4b9, servername: MediaOP-name.global.ssl.fastly.net., alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: MediaOP-name.global.ssl.fastly.net.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 5", server: 85.133.197.127, port: 7731, type: vless, tls: true, packet-encoding: xudp, uuid: cb3476c7-9584-490b-a149-4efc0be1104d, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -510,27 +503,20 @@ proxy-groups:
     type: select
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"
@@ -544,27 +530,20 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"
@@ -578,27 +557,20 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"
@@ -621,27 +593,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"
@@ -655,27 +620,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"
@@ -689,27 +647,20 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
-      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇫🇷 2"
-      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 🇬🇧"
       - "@MARAMBASHI 🇬🇧 2"
       - "@MARAMBASHI 🇫🇷`"
       - "@MARAMBASHI 💟`"
-      - "@MARAMBASHI 🥶 3"
-      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 🇫🇷 3"
       - "@MARAMBASHI 🇫🇷 4"
       - "@MARAMBASHI 🇬🇧 4"
-      - "@MARAMBASHI 🥶 5"
-      - "@MARAMBASHI 🥶 6"
       - "@MARAMBASHI 🇬🇧`"
       - "@MARAMBASHI 🇫🇷 5"
-      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇬🇧 5"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟 5"

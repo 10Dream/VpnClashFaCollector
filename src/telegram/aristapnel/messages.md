@@ -1,5 +1,281 @@
 # آرشیو کانال: @aristapnel
-بروزرسانی: 2026-02-19 01:10:09 UTC
+بروزرسانی: 2026-02-19 10:35:30 UTC
+
+### 🕒 2026-02-19 02:28:20 UTC
+**🔰پروکسی:**
+[**https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ**](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@aristapnel](https://t.me/aristapnel)
+
+---
+
+### 🕒 2026-02-19 02:01:29 UTC
+**📦 All Protocols Combined Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`8872`
+• Sources: 
+`Telegram + GitHub`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Supported Protocols:**
+`VMess | VLess | Trojan | Shadowsocks | Hysteria2 | Hysteria | TUIC | WireGuard`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#all](?q=%23all)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:26 UTC
+**🔌 TUIC Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`2`
+• Source: 
+`Telegram (0) + GitHub (2)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`Nekobox, Sing-box, tuic-client`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#tuic](?q=%23tuic)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:24 UTC
+**🌀 Hysteria Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`4`
+• Source: 
+`Telegram (0) + GitHub (4)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`Nekobox, Sing-box, Hysteria`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#hysteria](?q=%23hysteria)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:21 UTC
+**🌪️ Hysteria2 Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`81`
+• Source: 
+`Telegram (3) + GitHub (78)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`Nekobox, Sing-box, Hysteria2`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:19 UTC
+**📡 Shadowsocks Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`713`
+• Source: 
+`Telegram (41) + GitHub (702)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`Shadowsocks, V2RayNG, Outline, Clash`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:16 UTC
+**🛡️ Trojan Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`366`
+• Source: 
+`Telegram (62) + GitHub (350)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`V2RayNG, Nekobox, Trojan-Qt5, Sing-box`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:13 UTC
+**⚡ VLess Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`7177`
+• Source: 
+`Telegram (439) + GitHub (6947)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`V2RayNG, Nekobox, v2rayTUN, Sing-box`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
+
+### 🕒 2026-02-19 02:01:10 UTC
+**🚀 VMess Configurations**
+***📊***
+ 
+**Statistics:**
+• Total Configs: 
+`529`
+• Source: 
+`Telegram (69) + GitHub (513)`
+• Updated: 
+`2026/02/19 - 02:01 UTC`
+**📱 Compatible Clients:**
+`V2RayNG, Nekobox, v2rayTUN, Shadowrocket`
+**📥 How to Use:**
+1. Download the file
+2. Import in your VPN client
+3. Connect and enjoy!
+**🔗 Channel:**
+ 
+[@aristapnel](https://t.me/aristapnel)
+**🤖 Bot:**
+ 
+[@aristapnel_bot](https://t.me/aristapnel_bot)
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+
+---
 
 ### 🕒 2026-02-19 00:04:59 UTC
 **📦 All Protocols Combined Configurations**
@@ -3057,29 +3333,6 @@ V2rayNG, hiddify, nekobox,...
 ***🖤***
 ***🖤***
 ***🖤***
-
----
-
-### 🕒 2026-02-17 01:41:15 UTC
-***🔰***
- 
-**پروکسی:**
-[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.127&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.127&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.207&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.207&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.131&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.131&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[@aristapnel](https://t.me/aristapnel)
 
 ---
 

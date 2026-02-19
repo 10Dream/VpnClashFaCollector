@@ -1,5 +1,37 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-19 01:13:04 UTC
+بروزرسانی: 2026-02-19 10:38:38 UTC
+
+### 🕒 2026-02-19 10:17:22 UTC
+استفاده از وایرگارد
+Octohide vpn
+[Google play](https://play.google.com/store/apps/details?id=octohide.vpn)
+ 
+[App store](https://apps.apple.com/us/app/octohide-vpn-fast-secure/id6443674175)
+[Token Bot](http://T.me/octohide_bot)
+اپشو نصب کنید ثبت نام کنید
+داخل 
+[ربات](http://T.me/octohide_bot)
+ اکسس توکن بگیرید و داخل تنضیمات بزنید داخل رِدم توکن
+Redeem token
+داخل تنضیمات زیر همون رِدم توکن کانفیگ وایرگارد اکسپورت کنید 
+Export wirguard configuration
+روی یکی از لوکیشن ها علامت دانلود بزنید 
+بعدش show configuration بزنید و کانفیگ رو کپی کنید 
+هند ، آلمان ، کلمبیا اوکی بود بقیه هم تست کنید 
+بعد کانفیگشو بزیند اینجا کانورت کنید 
+[https://fevid.github.io/wireguard-dpi-circumvention-converter/](https://fevid.github.io/wireguard-dpi-circumvention-converter/)
+داخل اینا استفاده کنید
+[Amnezia vpn](https://play.google.com/store/apps/details?id=org.amnezia.vpn)
+[Amneziawg Android](https://play.google.com/store/apps/details?id=org.amnezia.awg)
+ 
+[Amneziawg ios](https://apps.apple.com/us/app/amneziawg/id6478942365)
+[Wgtunnel](https://github.com/zaneschepke/wgtunnel/releases)
+اگه داخل wgtunnel کار نکرد از داخل تنضیمات خود کانفیگ ۳ نقطه بزنید و mimic sip انتخاب کنید
+همراه اول ایرانسل اوکیه
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-18 21:05:31 UTC
 معرفی و راهنمایی اسکیریپت به زودی...

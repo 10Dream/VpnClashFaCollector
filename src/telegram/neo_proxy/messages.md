@@ -1,43 +1,123 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-19 01:11:37 UTC
+بروزرسانی: 2026-02-19 10:36:56 UTC
 
-### 🕒 2026-02-19 01:11:20 UTC
-[ایرانم تسلیت](https://t.me/+q_-wUJJCAfY1YzRk)
+### 🕒 2026-02-19 10:35:03 UTC
+**بهترین منابع کنکورو رایگان و نامحدود دانلود کن ؛**
+***📚***
+[ - ](https://t.me/+eSIWx09-Ms04OTE0)
+[**www.channel.com**](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 10:33:04 UTC
+چه 
+[**خلاصه نویسی‌های نابی دارن انصافا**](https://t.me/+eSIWx09-Ms04OTE0)
+ با این چنل کنکور تیر رو عاااالی دادم و تمام نکات رو یادم مونده بود !!!!!!!
+[**@Khulase**](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 10:31:03 UTC
+**دانش آموز پایه چندمی ؟؟🤔**
+[**دوازدهمی ام📕              یازدهمی ام📙دهمی ام📘                    نهمی ام📗**](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 10:29:03 UTC
+**دانش آموز چه رشته ای هستید دوستان؟؟ **
+***🙄***
+[**تجربی ام🙋🏼‍♀    انسانی ام🙋    ریاضی ... 🙋🏻‍♂**](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 10:27:09 UTC
+***🔴***
+رفقا پیوی خیلی در خواست چنل انگیزه برای درس خوندن رو کردید بگم که انواع چالشای دلی داریم اینجا ؛ گروه گزارشکار شبانه و چالش سحر خیزی پنج صبح داریم حتما سر بزنید اگه دوست داشتید: @Angizeh
+
+---
+
+### 🕒 2026-02-19 10:25:04 UTC
+***🔴***
+رفقا پیوی خیلی در خواست چنل انگیزه برای درس خوندن رو کردید بگم که انواع چالشای دلی داریم اینجا ؛ گروه گزارشکار شبانه و چالش سحر خیزی پنج صبح داریم حتما سر بزنید اگه دوست داشتید:
+[@Angizeh](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 10:23:13 UTC
+کوصخلی بشینی 24 ساعت درس بخونی برای امتحان اخرشم نمره کم بگیری بیا این کانال سوالارو رایگان گذاشته
+***😂***
+***😂***
+***😂***
  
-***💔***
-***🇮🇷***
+***📥***
+ دانلود سوالات
 
 ---
 
-### 🕒 2026-02-19 01:09:41 UTC
-خامنه ای دستور حمله رو رسما صادر کرد
-[متن بیانیه رهبری](https://t.me/+q_-wUJJCAfY1YzRk)
+### 🕒 2026-02-19 10:21:34 UTC
+**کوصخلی بشینی 24 ساعت درس بخونی برای امتحان اخرشم نمره کم بگیری بیا این کانال سوالارو رایگان گذاشته**
+***😂***
+***😂***
+***😂***
+***📥***
  
-***📜***
-***🩸***
-***💣***
+[**دانلود سوالات**](https://t.me/+eSIWx09-Ms04OTE0)
 
 ---
 
-### 🕒 2026-02-19 01:07:03 UTC
-**وضعیت کشور بحرانی اعلام شد /متاسفانه خبری ناگوار برای مردم ایران**
-[***⚠️***آماده باش کلیه ارگانها***⚠️***    شرح کامل خبر***👇******👇***                               بدون سانسور ببینید.،](https://t.me/+q_-wUJJCAfY1YzRk)
+### 🕒 2026-02-19 10:19:03 UTC
+یه کتاب زیست خیلی سبز شده پونصد هزار تومن!!!!!! میدونی اگه بخوای چندتا کتاب کمک درسی بخری چقدر باید هزینه کنی؟؟ اینجا کتابای کمک درسی که خیلی گرونن و خیلیا بخاطر گرون بودنش نمیتونن تهیه کنن رو رایگااااان قرار دادیم!!!!!  @FREE_BOOK
 
 ---
 
-### 🕒 2026-02-19 01:05:03 UTC
-**تصمیم فوری ترامپ **
-: 
-[**مشاهده خبر**](https://t.me/+q_-wUJJCAfY1YzRk)
+### 🕒 2026-02-19 10:17:03 UTC
+یه کتاب زیست خیلی سبز شده پونصد هزار تومن!!!!!! میدونی اگه بخوای چندتا کتاب کمک درسی بخری چقدر باید هزینه کنی؟؟ اینجا کتابای کمک درسی که خیلی گرونن و خیلیا بخاطر گرون بودنش نمیتونن تهیه کنن رو رایگااااان قرار دادیم!!!!! 
+[**@FREE_BOOK**](https://t.me/+eSIWx09-Ms04OTE0)
 
 ---
 
-### 🕒 2026-02-19 01:03:30 UTC
-***🚨***
-**توافق رد شد! دستور ترامپ برای حمله به ایران؟!!!**
-[اخبار تکمیلی ایران و امریکا***👇***@Khabarfori](https://t.me/+q_-wUJJCAfY1YzRk)
- 
-***✅***
+### 🕒 2026-02-19 10:15:28 UTC
+***❌***
+**دختر خالم اصلا درس نمیخونه ولی همیشه نمره‌هاش ۱۹-۲۰ میشهالان تازه فهمیدیم از اینجاس :**
+[**@Daneshamoz**](https://t.me/+eSIWx09-Ms04OTE0)
+
+---
+
+### 🕒 2026-02-19 03:36:21 UTC
+به نظرم همه آدم ها یه بار باید تا تهش برن
+تا ته اون چیزی که خیلی بهش اصرار دارن
+برن و تا جون دارن براش بجنگن!
+اونقدر که خسته و زخمی برگردن
+مهم نیست که تهش برنده شن یا بازنده
+مهم اینه که تهشو دیدن!
+کسی که تهشو دیده دیگه از هیچی نمیترسه
+مدیون دلش نیست که شاید میشد..!
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@DarkProxy](https://t.me/DarkProxy)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 
@@ -302,39 +382,6 @@
 ***👇🏻***
 [https://hamkadeh.com/landings/PXP0F](https://hamkadeh.com/landings/PXP0F)
 [https://hamkadeh.com/landings/PXP0F](https://hamkadeh.com/landings/PXP0F)
-
----
-
-### 🕒 2026-02-17 03:54:43 UTC
-گاهی از تو می‌نویسم و گاهی از وطن
-گویی مسائل مهم دنیا فقط شمائید...
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.150&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- 
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 

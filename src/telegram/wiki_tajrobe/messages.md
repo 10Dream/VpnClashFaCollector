@@ -1,5 +1,58 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-19 01:12:54 UTC
+بروزرسانی: 2026-02-19 10:38:30 UTC
+
+### 🕒 2026-02-19 10:36:26 UTC
+سوال:
+سید، وب‌سرویس ارائه میدید برای ویکی‌تجربه؟
+یه صرفا اسم بیزنس/دامین رو پاس بدیم، ریت و امتیاز رو برگردونه.
+curl --request GET \
+  --url 'https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https%3A%2F%2Fafagh.info' \
+  --header 'Accept: */*' \
+  --header 'Accept-Encoding: gzip, deflate, br' \
+  --header 'Connection: keep-alive' \
+  --header 'User-Agent: EchoapiRuntime/1.1.0'
+مثال:
+[https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info](https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info)
+
+---
+
+### 🕒 2026-02-19 09:58:14 UTC
+دونالد توسک، نخست‌وزیر لهستان، با لحنی بسیار جدی و اضطراری خطاب به لهستانی‌های مقیم ایران اعلام کرد: «لطفاً فوراً این کشور را ترک کنید.»
+توسک تأکید کرده که این هشدار برای ترساندن نیست، بلکه به دلیل واقعیت‌های میدانی است.
+به گفته او «تا چند ساعت یا نهایتاً چند ده ساعت دیگر، امکان تخلیه اتباع وجود نخواهد داشت.»
+[https://www.rp.pl/dyplomacja/art43834761-donald-tusk-do-polakow-prosze-natychmiast-opuscic-iran](https://www.rp.pl/dyplomacja/art43834761-donald-tusk-do-polakow-prosze-natychmiast-opuscic-iran)
+
+---
+
+### 🕒 2026-02-19 09:19:16 UTC
+> ↪️ **Forwarded**
+
+بیپولی و بیکاری خودش ته چاهه .چاله نیست
+بعد بری یه جای سمی میری تو اعماق سیاه چاله
+
+---
+
+### 🕒 2026-02-19 09:17:35 UTC
+بچه ها میدونم این روزا در به در دنبال کارید ولی قبلش اسم شرکته رو توی ویکی تجربه سرچ بزنید 
+که از چاله نیفتین تو چاه 
+که کلی زمان بزارین اذیتتون کنن و حقوق ندن بهتون
+***✍🏻***
+ امیر
+[https://tajrobe.wiki](https://tajrobe.wiki/)
+
+---
+
+### 🕒 2026-02-19 06:00:12 UTC
+***🏢***
+ پروفایل: پوشاک زنجیره ای هفت
+***✨***
+ نوع تجربه: تجربه کاری
+بنظرم قبل از ورود به این شرکت حتما در موردش تحقیق کنید
+اینجا مثل یک بوتیک خیلی بزرگ هست نه فروشگاه زنجیره‌ای پوشام
+هر لحظه مدیران شرکت عوض میشن و مدیرعامل ...
+[https://tajrobe.wiki/review/Oxobm](https://tajrobe.wiki/review/Oxobm)
+
+---
 
 ### 🕒 2026-02-18 19:58:31 UTC
 سوال:
@@ -142,58 +195,6 @@ vless://40841529-3512-da44-4626-9be4a28a26a6@188.114.97.3:2087?mode=packet-up&pa
 ***🚨***
  صداوسیمای جمهوری اسلامی: 
 **"تنگه هرمز امروز برای چند ساعت بسته می شود!"**
-
----
-
-### 🕒 2026-02-17 07:30:19 UTC
-همراه اول:
-vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr1.baleping.shop:2095?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://79623191-ec26-4c9a-8021-50713c67dfe2@host.snapfood.org:443?path=%2Fukspeed&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=snapfood.org&fp=chrome&type=ws&allowInsecure=1&sni=snapfood.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCflKUgVGVsZWdyYW06IEB3aWtpX3RhanJvYmUiLCJzY3kiOiJub25lIiwic25pIjoidjJyYXkxLmRvemFwcC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-vless://a36e3773-cad9-4da8-a2d6-4708f3d7754f@45.130.125.160:443?mode=auto&path=%2Fdata%2Fapi&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=datas.meowchannel.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr9.baleping.shop:2052?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-17 07:28:59 UTC
-همراه اول:
-vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://b6bac354-c4d1-43aa-a5fe-e8babda06496@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a88ea8bf-7001-4e29-a9bb-379f6778195c@free.joserv.online:443?security=reality&encryption=none&pbk=n7PbThf3Y4O9x0Ya1sENteFwg7k4INOTnI64MxVz5UQ&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=0123456789abcdef#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&fp=chrome&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://c733fcc3-b41d-4a2d-942d-b6c85c01984e@sr3.baleping.shop:2086?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-17 07:10:09 UTC
-مخابرات:
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://98057472-daa3-43cc-a23e-b7a8f799ba5b@hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.&type=ws&allowInsecure=0&sni=secure-dispatch-hub-25-network-epsilon.hamrahconfig.ir.#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://91593ace-980c-4395-8f21-fb9a25bad4d2@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=hyper-node-balancer-05-core-main.hamrahconfig.ir.&type=httpupgrade#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://f19bceee-4a50-4b0a-896a-7630812a9bff@mail.j-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a76f16e8-1b20-4705-bf0c-c34758e7bab9@ip10.rtpxc.com:2876?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@delilah.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&type=ws&allowInsecure=0&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.norton-v.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://10371edf-4e5a-46a5-bd19-c301ce371d14@mail.mizban-r.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.94:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=nasnet-162191094-direct.sharghdaily.co#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://cf30efe5-1e71-4fd5-ba49-4fb831cc11d6@cpanel.whaletm2.site:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
 
 ---
 

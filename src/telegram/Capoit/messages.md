@@ -1,5 +1,5 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-19 01:07:31 UTC
+بروزرسانی: 2026-02-19 10:32:56 UTC
 
 ### 🕒 2026-02-18 21:50:36 UTC
 کانفیگ NapsternetV
@@ -110,15 +110,6 @@ New V2ray
 New V2ray
 `vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#@Capoit`
 [@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-02-17 05:40:40 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
 
 ---
 

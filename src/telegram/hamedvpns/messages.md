@@ -1,5 +1,105 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-19 01:11:01 UTC
+بروزرسانی: 2026-02-19 10:36:18 UTC
+
+### 🕒 2026-02-19 10:02:55 UTC
+`https://zaya.io/C-Meta`
+ 
+بروزرسانی شد 
+***❤️***
+
+---
+
+### 🕒 2026-02-19 09:09:00 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**Happ-proxy/happ-android**
+:
+***✅***
+ 
+**3.12.0**
+ (3.12.0)
+* Improvements of hysteria protocol support and its general stability
+* Fixed an issue of an empty app list in per-app-proxy OFF mode
+* Minor improvements of wireguard servers manual input
+* Fixed multiple issues related to RTL support for Persian localization
+* Fixed an issue of snackbar overlapping with status bar
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-android/releases/tag/3.12.0)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-02-19 08:23:48 UTC
+فیلترشکن جدید بر پایه پروتکل wireguard و ikev2
+VPN Nederland 
+***✔️***
+***🔥***
+ دارای آیپی اکثر کشورها
+***⭐***
+ پرسرعت و امن
+**آموزش ثبت نام و تایید ایمیل واقعی و فیک در پست بعدی قرار میگیرد**
+ 
+***😎***
+لینک دانلود از گوگل پلی :
+[https://play.google.com/store/apps/details?id=com.curuno.vpnnederland](https://play.google.com/store/apps/details?id=com.curuno.vpnnederland)
+برای هر ایمیل یک ماه و ۵ گیگ حجم میده
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-19 08:14:29 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-19 06:28:41 UTC
+دیگه لازم نیست توصیف کنم ...
+
+---
+
+### 🕒 2026-02-19 06:28:41 UTC
+کاملش 
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-02-19 05:54:42 UTC
+یه فیلترشکن معرفی کنم ؟!
+با پروتکل‌های خوب و سرعت اتصال و کارکرد عالی
+فقط یک مشکل داره 
+برای هر ایمیل که بهش میدین ۵ گیگ بهتون ترافیک میده 
+و باید ایمیل رو هم تایید کنید 
+مشکلی هم نداره که ایمیل فیک باشه یا اصل .
+
+---
 
 ### 🕒 2026-02-18 20:27:20 UTC
 پیچ هادی چوپان به دلیل ریپورت زیاد پرید
@@ -344,29 +444,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplZjcyMGY1Yjc5MWE2MGY3@54.37.77.212:11201#ham
 
 **سناتور گراهام:در ایران به دو نفر میگویند عمویکی به منیکی به جانی **
 [**@Piknikanalyst**](https://t.me/Piknikanalyst)
-
----
-
-### 🕒 2026-02-17 04:32:43 UTC
-کانفیگ فرگمنت 
-***🇫🇷***
-مخصوص ویتورای ، نیکا و مهسا و happ 
-{"remarks":"hamedvpns 
-***🇫🇷***
-","log":{"access":"","error":"","loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"listen":"127.0.0.1","protocol":"socks","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}},{"tag":"http","port":10809,"listen":"127.0.0.1","protocol":"http","sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false},"settings":{"auth":"noauth","udp":true,"allowTransparent":false}}],"outbounds":[{"tag":"proxy","protocol":"trojan","settings":{"servers":[{"address":"188.114.96.3","level":1,"flow":"","method":"chacha20-poly1305","ota":false,"password":"humanity","port":443}]},"streamSettings":{"network":"ws","security":"tls","tlsSettings":{"allowInsecure":true,"serverName":"WWw.GOsSIpGlOve.cOM","alpn":["h2","http/1.1"],"fingerprint":"chrome","show":false},"wsSettings":{"path":"/assignment","headers":{"Host":"WWw.GOsSIpGlOve.cOM"}},"sockopt":{"dialerProxy":"fragment","tcpKeepAliveIdle":100,"mark":255,"tcpNoDelay":true}}},{"tag":"fragment","protocol":"freedom","settings":{"domainStrategy":"AsIs","fragment":{"packets":"tlshello","length":"10-20","interval":"10-20"}},"streamSettings":{"sockopt":{"tcpNoDelay":true,"tcpKeepAliveIdle":100}}},{"tag":"direct","protocol":"freedom","settings":{}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}}}],"routing":{"domainStrategy":"AsIs","rules":[{"type":"field","inboundTag":["api"],"outboundTag":"api","enabled":true},{"id":"5627785659655799759","type":"field","port":"0-65535","outboundTag":"proxy","enabled":true}]}}
-***⚡***
- لطفاً تست کنید 
-***⚡***
-**❤️ اشتراک گذاری یادتون نره 💚**
-..‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
 
 ---
 
