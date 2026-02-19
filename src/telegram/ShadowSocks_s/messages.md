@@ -1,5 +1,176 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-19 10:34:46 UTC
+بروزرسانی: 2026-02-19 20:24:00 UTC
+
+### 🕒 2026-02-19 19:39:14 UTC
+عرزشی چجوری فهمیدی چی گفتم که عصبی شدی
+***🌚***
+***😂***
+***🚶🏻‍♀***
+من که چیزی نگفتم
+
+---
+
+### 🕒 2026-02-19 19:23:44 UTC
+نوری همدانی:  رهبری فقط سعید طوسی رو به مخفیگاهش راه میده تا بیاد برای رهبری قرآن بخونه و ایشون قوت قلب بگیرن!  قبول باشه
+***🌚***
+
+---
+
+### 🕒 2026-02-19 19:21:57 UTC
+نوری همدانی: 
+رهبری فقط سعید طوسی رو به مخفیگاهش راه میده تا بیاد برای رهبری قرآن بخونه و ایشون قوت قلب بگیرن!
+قبول باشه
+***🌚***
+
+---
+
+### 🕒 2026-02-19 15:36:14 UTC
+کانفیگ جدید ویژه نت ملی، شهرهایی که ضعیفه اینترنت بزنید استفاده کنید.
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 15:35:24 UTC
+[https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 15:25:26 UTC
+اکانت رسمی نظامی ایران بدون توضیحات نوشت “ جنگ جهانی سوم “  
+***🆔***
+ @ShadowSocks_s
+
+---
+
+### 🕒 2026-02-19 15:25:11 UTC
+اکانت رسمی نظامی ایران بدون توضیحات نوشت “ جنگ جهانی سوم “
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 15:21:55 UTC
+این چه آتشی میزنه به قلب آدم...
+***💔***
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 15:18:45 UTC
+ترامپ لحظاتی قبل:
+بعضی‌ها فکر می‌کنند می‌توانند با من بازی کنند، اما این ممکن نیست!
+ممکن است مجبور شویم یک قدم جلوتر برویم، یا شاید هم نرویم
+شاید هم قرار است یک توافق انجام دهیم. احتمالاً در 10 روز آینده متوجه خواهید شد
+ترامپ در ادامه:
+من 8 جنگ را متوقف کردم اما متأسفانه ممکن است اکنون جنگ نهم آغاز شود
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 12:54:22 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 12:53:34 UTC
+شورای اروپا به طور رسمی سپاه رو به فهرست سازمان‌های تروریستی اضافه کرد.
+درپی توافق نشست شورای امور خارجه اتحادیه اروپا در ۲۹ ژانویه، شورای اروپا پنجشنبه به‌طور رسمی سپاه پاسداران رو به فهرست سازمان‌های تروریستی اضافه کرد.
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 11:55:04 UTC
+عمو گراهام درباره ایران: وظیفه‌ی من این نیست که یه ایرانِ جدید بسازم. وظیفه‌ی من اینه که بهشون این فرصت رو بدم تا خودشون یه ایرانِ جدید بسازن.
+
+---
+
+### 🕒 2026-02-19 11:54:28 UTC
+سناتور ارشد جمهوری‌خواه، عمو لیندزی گراهام :   این همه ناو‌ جنگی و تجهیزات از آمریکا بخاطر اینکه این فصل از سال هوا خوبه به منطقه نیومدن، بلکه همه تصمیم‌ها از قبل برای ایران گرفته شده.
+
+---
+
+### 🕒 2026-02-19 11:54:16 UTC
+سناتور ارشد جمهوری‌خواه، عمو لیندزی گراهام : 
+این همه ناو‌ جنگی و تجهیزات از آمریکا بخاطر اینکه این فصل از سال هوا خوبه به منطقه نیومدن، بلکه همه تصمیم‌ها از قبل برای ایران گرفته شده.
+
+---
+
+### 🕒 2026-02-19 11:15:52 UTC
+اوضاع اینترنتتون چطوره؟!
+
+---
+
+### 🕒 2026-02-19 11:12:30 UTC
+[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 11:11:09 UTC
+> ↪️ **Forwarded**
+
+تد کروز در مصاحبه با فاکس:
+«شان، کاملاً محتمل است که در شش ماه آینده، شاهد سقوط رژیم‌ها در ایران، ونزوئلا و کوبا باشیم. و همچنین می‌توانیم شاهد جایگزینی آن‌ها با دولت‌هایی باشیم که می‌خواهند با ایالات متحده آمریکا دوست باشند.
+بگذارید واضح بگویم، من در این مورد ساده‌لوحانه (خوش‌بینانه) فکر نمی‌کنم؛ هزاران اتفاق ممکن است به اشتباه پیش برود. اما اگر این اتفاق بیفتد، این مهم‌ترین تغییر ژئوپلیتیک از زمان سقوط دیوار برلین و از زمانی که آمریکا در جنگ سرد بدون شلیک یک گلوله پیروز شد، خواهد بود.
+من پریروز با پرزیدنت ترامپ صحبت کردم و به‌طور خاص درباره ایران گفتگو کردیم. من گفتم در این لحظه، رژیم در حال تزلزل است و آیت‌الله در روزهای پایانی خود قرار دارد؛ اجازه ندهید این فرصت از دست برود. ما فرصتی داریم... آیت‌الله مرتباً شعار "مرگ بر آمریکا" سر می‌دهد. این رژیمی است که بزرگ‌ترین حامی دولتی تروریسم در کره زمین است و مسئول قتل صدها مرد و زن نظامی آمریکایی است. رژیم ایران بیش از ۹۰ درصد بودجه حماس و حزب‌الله را تأمین کرده است.
+دیدن سرنگونی ملاها پیشرفت بزرگی برای مردم ایران، پیشرفت بزرگی برای خاورمیانه و از همه مهم‌تر، بهبود عظیمی در امنیت ملی ایالات متحده خواهد بود. من معتقدم پرزیدنت ترامپ در حال ارائه رهبری لازم است و این کار، کشور ما را بسیار امن‌تر می‌کند.»
+[@mamlekate](https://t.me/mamlekate)
+
+---
+
+### 🕒 2026-02-19 11:10:16 UTC
+> ↪️ **Forwarded**
+
+نیما: «من نیما پارسا هستم و معلم شدم به بچه‌ها کمک کنم به خواسته‌هاشون برسن...»
+مادر نیما: «بچه من نیاز به فاتحه نداره. بچه من قهرمان شده. قهرمان ایران. فقط براش دست بزنید»
+[X](https://x.com/mamlekate/status/2023855092345303340)
+[@mamlekate](https://t.me/mamlekate)
+ 
+[#هدیه_به_میهن](?q=%23%D9%87%D8%AF%DB%8C%D9%87_%D8%A8%D9%87_%D9%85%DB%8C%D9%87%D9%86)
+
+---
 
 ### 🕒 2026-02-19 09:49:27 UTC
 نخست وزیر لهستان :
@@ -311,334 +482,6 @@
 ***🆔***
  
 [@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 18:51:34 UTC
-شبکه ۱۲ اسرائیل: شواهد نشان می‌دهد جنگ این هفته آغاز می‌شود!
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 18:34:19 UTC
-دور دوم مذاکرات ایران و آمریکا در حالی برگزار شد که خامنه‌ای توافق را رد کرد و مدعی شد سلاحی دارد که ناوهای آمریکا را غرق می‌کند.همزمان گزارش‌ها از فضای بد در مذاکرات حکایت دارد. ترامپ پیشتر به خامنه‌ای درباره عواقب عدم پذیرش توافق هشدار داده بود.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 18:30:17 UTC
-مارک‌وین مولین، سناتور جمهوری‌خواه:
-ترامپ در برخورد با ایران بلوف نمی‌زنه. اون کارها رو در زمان‌بندی خودش انجام می‌ده. به این باور داره که آمریکا باید همیشه گزینه‌هایی در اختیار داشته باشه تا از طریق قدرت، صلح رو تضمین کنه. در عین حال می‌دونه نباید اجازه داد سناریویی شبیه «بهار عربیِ هیلاری کلینتون» دوباره تکرار بشه. ما در کنار مردم آزادی‌خواه ایران ایستاده‌ایم.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 18:20:44 UTC
-[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 18:06:39 UTC
-> ↪️ **Forwarded**
-
-یه بار هفتاد سال پیش اینجا هم براندازی کرد خب، ازون موقع همه‌چی رو انداختیم گردنش. حق داره اینجا رو نجس در نظر بگیره.
-
----
-
-### 🕒 2026-02-17 18:06:34 UTC
-> ↪️ **Forwarded**
-
-اگه روش کارش اینجوری بود ۴۷ سال قبل یه دخالت‌هایی می‌کرد البته، ولی هرجور صلاحه.
-
----
-
-### 🕒 2026-02-17 18:05:54 UTC
-۴۰روز گذشت...
-ما زنده ایم برای یک انتقام باشکوه
-***💔***
-***🕊️***
- 
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 17:56:33 UTC
-[https://t.me/proxy?server=195.254.165.13&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.13&port=65535&secret=10446282fffffffffff80000fff80000)
-[https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.73&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 14:37:35 UTC
-[https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.15&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.18&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.41&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.41&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.25&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 14:30:32 UTC
-لاهیجان شروع اعتراضات
-
----
-
-### 🕒 2026-02-17 14:30:03 UTC
-[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=www.rasht-e-nazanin.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[پروکسی](https://t.me/proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
- | 
-[پروکسی](https://t.me/proxy?server=www.lost-packet-chrome.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
- | 
-[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 13:53:01 UTC
-عراقچی: 
-امروز خیلی جدی‌تر صحبت کردیم، مسیر پیدا شده و به تدوین متن داریم میرسیم و پیشرفت خوبی نسبت به جلسه قبلی داشتیم. توافق کلی صورت گرفته. از دیروز رایزنی های مذاکرات شروع شده بود و در ابعاد فنی بحث های خوبی شد، در این دور نسبت به دور گذشته بحث های جدی مطرح شد، فضای سازنده تری وجود داشت، بر اصول کلی راهنما توافق شد
-
----
-
-### 🕒 2026-02-17 13:51:32 UTC
-عراقچی به صورت زنده: مذاکرات پیشرفت چشمگیری نسبت به دفعه‌ی قبل داشت 
-تاریخ دور بعد مشخص خواهد شد
-
----
-
-### 🕒 2026-02-17 13:48:18 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-17 13:22:36 UTC
-همچنان مشهد
-***🕊️***
-***✌🏻***
-
----
-
-### 🕒 2026-02-17 13:18:51 UTC
-وال استریت ژورنال : مذاکرات به بن بست خورده است
-
----
-
-### 🕒 2026-02-17 12:54:46 UTC
-با دیدن ویدیو اعتراضات یچیزی تو ذهنم میپیچه که نوشته بود 
-حالا بر فرض محال گیریم با آمریکا توافق کردی 
-با مردم چجوری میخوای توافق کنی 
-(الآنم که هر دو طرف رو باختن)
-
----
-
-### 🕒 2026-02-17 12:53:21 UTC
-هر دو طرف مذاکره کننده تو سکوت کامل محل مذاکرات رو ترک کردن و با هیچ خبرنگاری هم صحبت نکردن در حال حاضر
-
----
-
-### 🕒 2026-02-17 12:49:20 UTC
-> ↪️ **Forwarded**
-
-« سلام مراسم چهلم جاوید نام حمید مهدوی آتشنشان قهرمان رو کنسل کردن ولی ما رفتیم. جمعیت زیادی اومده بودن اونجا سرود ای ایران خوندیم اسم قهرمان مون رو فریاد زدیم و شعار دادیم.  پر از لباس شخصی بود و در نهایت پلیس اومد تا جمعیت آروم کنه که با شعار بی شرف و بسیجی سپاهی داعش ما شمایی بدرقه شد. بلافاصله یگان ویژه ها اومدن و با مردم درگیر شدن.
-مشهد عماد خراسانی بلوار پیروز »
-[X](https://x.com/mamlekate/status/2023741155863609346)
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-17 12:47:56 UTC
-`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&type=grpc#NetAcccountvless://1a9b771a-b717-49c8-9e93-f6b3d508d637@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#NetAccountvless://976cd600-97a1-4c9c-b143-c901dbf175e7@s.ssl.fastly.net:80?security=none&encryption=none&host=usakhidam.global.ssl.fastly.net&type=ws#NetAccount`
-
----
-
-### 🕒 2026-02-17 12:47:25 UTC
-در حال حاضر هیچ خبر جدیدی نیست 
-بجز درگیری مردم و نیروهای سرکوبگر تو مشهد و آبدانان 
-سنندج هم جو امنیتی بالایی داره
-
----
-
-### 🕒 2026-02-17 12:39:28 UTC
-مبارک خیلیا
-
----
-
-### 🕒 2026-02-17 12:39:25 UTC
-اکسیوس: دور دوم مذاکرات رسماً به پایان رسید.
-
----
-
-### 🕒 2026-02-17 12:37:39 UTC
-خب گویا دور دوم مذاکرات تموم شد
-
----
-
-### 🕒 2026-02-17 12:35:03 UTC
-المیادین:
-هیأت آمریکایی محل مذاکرات در ژنو رو ترک کرد.
-
----
-
-### 🕒 2026-02-17 12:32:38 UTC
-ادعای لارنس نورمن، خبرنگار وال استریت ژورنال: هیئت ایرانی و آمریکایی محل مذاکرات را ترک کردند.
-
----
-
-### 🕒 2026-02-17 12:31:24 UTC
-مشهد همزمان اعتراضات و سرکوب شروع شده
-
----
-
-### 🕒 2026-02-17 12:29:52 UTC
-مشهد همزمان اعتراضات و سرکوب شروع شده
-
----
-
-### 🕒 2026-02-17 12:28:26 UTC
-صدا و سیما: یه تیم از محل مذاکرات خارج شد 
-که فعلا مشخص نیست کدومشونه و چرا محل رو ترک کرده
-***🌚***
-
----
-
-### 🕒 2026-02-17 11:27:36 UTC
-خواهیم دید چه خواهد شد
-
----
-
-### 🕒 2026-02-17 11:15:15 UTC
-رویترز: تمام شروط ترامپ توسط رهبر ایران رد شد
-
----
-
-### 🕒 2026-02-17 11:14:52 UTC
-اختلال گسترده در اینترنت گزارش میشه
-
----
-
-### 🕒 2026-02-17 11:03:38 UTC
-هماهنگ نکردن حرفاشونو؟!
-***😂***
-***🗿***
-هر کی یچی میگه 
-فکر کنم از استراتژی گیج کردن دشمن استفاده کردن
-
----
-
-### 🕒 2026-02-17 11:03:02 UTC
-سخنگوی وزارت امور خارجه ایران:
- آماده‌ایم روزها و هفته‌ها در ژنو بمانیم تا به توافق برسیم.
-
----
-
-### 🕒 2026-02-17 10:51:06 UTC
-ناو یک دستگاه خطرناکیست
-***😂***
-***🚶🏻‍♀***
-
----
-
-### 🕒 2026-02-17 10:49:52 UTC
-معاریو: رهبر جمهوری اسلامی رسما با آمریکا اعلام جنگ کرد.
-
----
-
-### 🕒 2026-02-17 10:44:14 UTC
-این ملت ملت میگه منظورش ماییم؟!
-***🦦***
-کدام ملت!
-
----
-
-### 🕒 2026-02-17 10:42:48 UTC
-واکنش عراقچی به صحبت‌های امروز خامنه‌ای وقتی همزمان هم بهش گفته برو با آمریکا مذاکره کن ولی خودش میگه باهاشون توافق نمیکنیم و دنبال جنگه:
-
----
-
-### 🕒 2026-02-17 10:41:54 UTC
-خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
-
----
-
-### 🕒 2026-02-17 10:39:32 UTC
-خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
-
----
-
-### 🕒 2026-02-17 10:37:41 UTC
-خامنه‌ای: ملت ایران با آمریکا و سردمداران وقت آنها بیعت نخواهد کرد چنان که امام حسین با یزید بیعت نکرد!
-
----
-
-### 🕒 2026-02-17 10:35:56 UTC
-> ↪️ **Forwarded**
-
-هم‌میهنان شجاع و گرامی،
-جمهوری اسلامی و رهبر جنایتکار آن در جریان انقلاب بزرگ ملی، به‌ویژه در شب‌های ۱۸ و ۱۹ دی، ده‌ها هزار فرزند برومند این آب‌وخاک را به خاک و خون کشیدند و خانواده‌های بی‌شماری را داغدار کردند. ضحاک زمان، آن‌گاه که رژیم ننگین و ضدایرانی‌اش را در خطر دید، حتی به مجروحان و اسیران در بند نیز رحم نکرد و جنایات ناتمام رژیم بعثی صدام علیه مردم ایران را تمام کرد.
-اکنون، هم‌زمان با چهلمین روز جاودانه شدن شجاع‌ترین فرزندان ایران، از همه شما هم‌میهنان شریف و آگاه می‌خواهم در آیین‌های یادبود و گرامی‌داشت آن جاویدنامان شرکت کنید. با ادای احترام به لاله‌های در خون خفته ایران، قدردان رشادت و فداکاری جان‌فدایان میهن باشید. با دیدار و تماس با خانواده‌های دادخواه و حمایت از آنها، بر تداوم مسیری که کاوه‌ها و گردآفریدهای در خاک‌خفته ایران به ما نشان دادند تاکید کنید.
-همه ما، در کنار یکدیگر، با قلب‌هایی فشرده و سینه‌هایی سرشار از یقین به پیروزی، پیش خواهیم رفت و به‌زودی ایران را از لوث وجود خامنه‌ای و رژیم اشغالگر و جهنمی‌اش پاک خواهیم کرد.
-پاینده ایران
-رضا پهلوی
-[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
 
 ---
 

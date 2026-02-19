@@ -1,5 +1,87 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-19 10:36:11 UTC
+بروزرسانی: 2026-02-19 20:26:13 UTC
+
+### 🕒 2026-02-19 19:19:32 UTC
+سرعت سابی که الان  گداشتم تست با نپستر
+
+---
+
+### 🕒 2026-02-19 18:56:11 UTC
+ساب دوم v2rayایرانسل فقط سرعتدمحشر هر چی زمان ببره سرعت میره بالاتر
+
+---
+
+### 🕒 2026-02-19 18:54:47 UTC
+`https://drive.google.com/uc?export=download&id=1LE4SSBycM1F09RtwwTwk4ZdH0eXnu6gA`
+
+---
+
+### 🕒 2026-02-19 18:31:54 UTC
+فعلا این و داشته  بلشید وسط تست نت همراه تموم شد ه دباره بر گشتیم سر جای خود
+
+---
+
+### 🕒 2026-02-19 18:30:02 UTC
+`vless://b9dbc1ff-6364-4826-a973-71c0584116c4@ll0ll.vip:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#freenet_vtvmess://eyJhZGQiOiI2Ni4xMDMuMjEwLjE1MCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIxMGYwMTMzYy0zOWM1LTQyMjQtZjUzZC1lYzQ0OTExMTRhNTkiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjEzNDg1IiwicHMiOiLwn5CSZnJlZW5ldF92dCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vmess://eyJhZGQiOiJpZDIud3BhaXJwbGFuZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzdhYWQ3M2QtMDNlNy00NDFiLTliYzUtOThkMTM1MzViYTNlIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiI5MDAwIiwicHMiOiLwn5CSZnJlZW5ldF92dCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=data-frm2.netsnap.ir&fp=chrome&type=ws&allowInsecure=0&sni=data-frm2.netsnap.ir#%F0%9F%92%8E%40freenet_vt`
+چند تا سرور پر سرعت همراه اول
+
+---
+
+### 🕒 2026-02-19 17:23:48 UTC
+یهدچنو تا ساب از پروتکل های مختلف  می زارم  که دیگه راحت بشید
+
+---
+
+### 🕒 2026-02-19 17:22:17 UTC
+با این  روش خیلی راحت تر هستید نیاز نیست دنبال کانفیگ بگویید خودکار آپدیت میشه تنطیم کنی روی هر ۳ ساعت  کانفیگش هم هوشمند هست اتوماتیک بهترین پینگ و پیدا میکنه
+
+---
+
+### 🕒 2026-02-19 17:19:24 UTC
+اموزش وارد کردن ساب توی نپستر
+
+---
+
+### 🕒 2026-02-19 17:18:50 UTC
+[https://t.me/freenet_vt/5125](https://t.me/freenet_vt/5125)
+
+---
+
+### 🕒 2026-02-19 16:27:08 UTC
+هیستریا
+
+---
+
+### 🕒 2026-02-19 16:27:00 UTC
+`hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#freenet_vthysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#freenet_vthysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1&sni=YAPC-1.afshin.ir#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#freenet_vthysteria2://Yet-Another-Public-Config-1@206.71.158.37:35200?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#freenet_vthysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#freenet_vthysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#freenet_vthysteria2://flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com#freenet_vthysteria2://freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com#freenet_vthysteria2://freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj@172.232.207.161:6090?security=tls&obfs=salamander&obfs-password=etXTC5FrUoTkMu2xlBradrUQrLDMgHJ&insecure=1&pinSHA256=E4%3AED%3A3C%3A2A%3A87%3ACE%3ADE%3AC2%3ABD%3AEE%3A73%3A2D%3A69%3ABA%3A97%3AAF%3AE4%3A5B%3A88%3A12%3A20%3ABA%3ACE%3AEC%3A5C%3A57%3AB6%3A9F%3AB1%3A15%3A8F%3AF5&sni=www.azki.com%40freenettir#freenet_vt`
+متصل با ایرانسل
+
+---
+
+### 🕒 2026-02-19 15:58:32 UTC
+ساب وارد شد کانفیگ  وارد نشد بروز رسانی بزنید  میاد وصل شد صبر کنید تا خودش کانفیگ فعال پیدا کته سرعتش میره بالاتر فقط وصل شد یه بار دیگه رو پینگ بزنید بعد دو دقیقه دیدید سرعت پایینه همن کار یه بار دیگه تکرار کنید تا کانفیگ عوض بشه
+
+---
+
+### 🕒 2026-02-19 15:54:31 UTC
+نحوه وارد کردن ساب توی v2ray  طبق  آموزش تیک فرگمنت هم بزنید
+
+---
+
+### 🕒 2026-02-19 15:50:57 UTC
+`https://drive.google.com/uc?export=download&id=1bJ9Uo5JwK8SZDL-fXMp3MrtyCURbT3Vz#reality`
+
+---
+
+### 🕒 2026-02-19 15:50:57 UTC
+واسه هنراه دارم آماده میکنم
+
+---
+
+### 🕒 2026-02-19 15:50:57 UTC
+ساب really متصل با ایرانسل
+
+---
 
 ### 🕒 2026-02-18 22:41:55 UTC
 پسوورد  
@@ -216,129 +298,6 @@ Server identity :
 
 ### 🕒 2026-02-17 20:38:43 UTC
 فرگمنت هوشمند v2ray همراه اخر
-
----
-
-### 🕒 2026-02-17 20:25:43 UTC
-اکانت   purevpn  هست سرعتش هم که با خورشه نیازی به گفتن نیست
-
----
-
-### 🕒 2026-02-17 20:23:02 UTC
-سرورها رو به اینصورت وارد کنید
-
----
-
-### 🕒 2026-02-17 20:21:17 UTC
-***♻️***
-فایل مجوز سرورهایی IKEV
-براےواردکردفایل مجوز روی فایل ضربه بزنیدمستقیم واردش کنید
-ازخودبرنامه هم خواستیدواردش کنید 
-***📱***
-***📱***
-این مراحل انجام بده
-***📱***
-فایل رادانلودکنیدوذخیره دردانلودها
-***☑️***
-اموزش واردکردن فایل مجوزstrongSWan
-***♻️***
-سه نقطه باالاصحفه بزنید
-***♻️***
-گزینه دومیCAcertificatesبزنید
-***♻️***
-گزینه IMPORTEDبزنید
-***♻️***
-بعد سه نقطه بالاصحفه گزینه اولیImport
-***♻️***
-بعدمدیریت فایل ها فایل مجوزراازپوشه تلگرام پیداکنید واردکنید
-Username: 
-`purevpn0s11051450`
- Password: 
-`qmtu7sbw`
-**Server identity**
- : 
-`ptoserver.com`
-***😃***
-سرورهاییIKEV
-فایل Txtبالارابازکنید تابه تمام سرورهادسترسی داشته باشید
-
----
-
-### 🕒 2026-02-17 19:19:19 UTC
-وصل شدی رفتی اینستا کند بود بر کرد یه بار برت رو پینگ
-
----
-
-### 🕒 2026-02-17 19:16:29 UTC
-V2ray npv tunell 
-V2box
-
----
-
-### 🕒 2026-02-17 19:15:33 UTC
-نا گفته نماند امشب نت ها خرابه ولی این باز میکنه یه چند تا دیگه هم ممی فرستم  توی همه کلاینت ها می تونید استفاده کنید فقط مال ویتوری نیست
-
----
-
-### 🕒 2026-02-17 19:13:29 UTC
-با این کار میره روی یه سرور دیگه همین کار  و یکی دوبار انجام بدید
-
----
-
-### 🕒 2026-02-17 19:10:38 UTC
-گشته ام اینجا پیداش کردم
-
----
-
-### 🕒 2026-02-17 19:05:31 UTC
-سرعت در حد نور یه میک هم کسی استفاده نکرده  ده روز پیش گذاشتم  کانال
-
----
-
-### 🕒 2026-02-17 19:03:54 UTC
-دوساعت  فیکس دا م دنبال این سرور می گردم الان یادم آوند توی ساب میکس گذاشتم
-
----
-
-### 🕒 2026-02-17 18:06:22 UTC
-?سرورها تیکه تیکه شده همه رو امتحان کنید از فردا درست میشه
-
----
-
-### 🕒 2026-02-17 16:53:05 UTC
-این و بزنید
-
----
-
-### 🕒 2026-02-17 16:32:43 UTC
-فایل و باز کنید مطابق تصویر انتخاب همه بزنید کپی کنید
-
----
-
-### 🕒 2026-02-17 16:31:27 UTC
-این یکی از سرور های  سلب هست با سرعت نور وصله
-
----
-
-### 🕒 2026-02-17 13:52:30 UTC
-انوزش اتصال به سرور های  sstp 
-سرورهای می تونید توی کلاینت پرو هم  استفاده کنید
-
----
-
-### 🕒 2026-02-17 13:50:57 UTC
-اسکربیت ترموکس 
-***👆***
-
----
-
-### 🕒 2026-02-17 13:49:38 UTC
-`#!/usr/bin/env bash# Hamid Scanner Menu: SSTP + DoH# ColorsRED="\033[31m"; GREEN="\033[32m"; PURPLE="\033[35m"; CYAN="\033[36m"; MAGENTA="\033[35m"; RESET="\033[0m"TAG="${PURPLE}┌────────────────────┐\n│ t.me/freenet_vt    │\n└────────────────────┘${RESET}"# ----------------------------------------------------------# Option 1 — SSTP Scanner# ----------------------------------------------------------scan_sstp() {    PAGE_URL="https://ipspeed.info/free-sstp.php"    echo "[*] Fetching SSTP servers..."    HTML="$(curl -fsSL "$PAGE_URL")" || { echo "[!] Fetch failed"; return; }    mapfile -t RAW_HOSTS < <(echo "$HTML" | grep -Eo '[a-zA-Z0-9.-]+\.[a-z]{2,6}:[0-9]{2,5}')    if [[ ${#RAW_HOSTS[@]} -eq 0 ]]; then      echo "[!] No hosts found"      return    fi    echo "[*] Testing servers..."    for item in "${RAW_HOSTS[@]}"; do      host="${item%%:*}"      port="${item##*:}"      [[ "$host" == "$port" ]] && port=443      if timeout 5 bash -c "echo > /dev/tcp/${host}/${port}" 2>/dev/null; then        echo -e "${GREEN}[OPEN] ${host}:${port}${RESET}\n$TAG"      else        echo -e "${RED}[CLOSED] ${host}:${port}${RESET}\n$TAG"      fi    done}# ----------------------------------------------------------# Option 2 — DoH Scanner (Fast + Progress % + Single Best)# ----------------------------------------------------------scan_doh_dns() {    LIST_URL="https://raw.githubusercontent.com/10ium/Public-DNS-Collector/main/lists/doh.txt"    TEST_DOMAIN="example.com"    TIMEOUT=1    PARALLEL=35    echo -e "${MAGENTA}Downloading DoH list...${RESET}"    LIST=$(curl -fsS "$LIST_URL") || { echo "Error downloading list"; return; }    LIST=$(echo "$LIST" | grep -v '^$')    TOTAL=$(echo "$LIST" | wc -l)    echo "Total: $TOTAL servers"    TMP=$(mktemp)    current=0    test_one() {        base="$1"        if [[ "$base" == *"dns-query"* ]]; then            URL="$base?name=$TEST_DOMAIN&type=A"        else            URL="${base%/}/dns-query?name=$TEST_DOMAIN&type=A"        fi        RESULT=$(curl -s -H "accept: application/dns-json" --max-time $TIMEOUT -w "\n%{time_total}" "$URL")        EXIT=$?        [[ $EXIT -ne 0 ]] && return        TIME=$(echo "$RESULT" | tail -n1)        BODY=$(echo "$RESULT" | sed '$d')        STATUS=$(echo "$BODY" | jq -r '.Status // 1' 2>/dev/null)        [[ "$STATUS" == "0" ]] && echo "$TIME $URL" >> "$TMP"    }    for base in $LIST; do        ((current++))        PERCENT=$(( current * 100 / TOTAL ))        echo -ne "Progress: $PERCENT%   \r"        test_one "$base" &        while (( $(jobs -r | wc -l) >= PARALLEL )); do            sleep 0.05        done    done    wait    echo -e "\nDone.\n"    BEST=$(sort -n "$TMP" | head -n1)    rm -f "$TMP"    if [[ -n "$BEST" ]]; then        BEST_TIME=$(echo "$BEST" | awk '{print $1}')        BEST_URL=$(echo "$BEST" | awk '{print $2}')        echo -e "${GREEN}Fastest DoH:${RESET}"        echo -e "${GREEN}$BEST_URL${RESET}"        echo -e "${GREEN}Latency: $BEST_TIME sec${RESET}"        echo        echo "curl -H 'accept: application/dns-json' \"$BEST_URL\""    else        echo "No working DoH found."    fi}# ----------------------------------------------------------# MENU# ----------------------------------------------------------while true; do    clear    echo -e "${MAGENTA}======================================${RESET}"    echo -e "${MAGENTA}        t.me/freenet_vt Menu         ${RESET}"    echo -e "${MAGENTA}======================================${RESET}"    echo    echo -e "${CYAN}1) Scan SSTP${RESET}"    echo -e "${CYAN}2) Scan DoH DNS${RESET}"    echo -e "${CYAN}0) Exit${RESET}"    echo    read -p "Choose option: " opt    case $opt in        1) scan_sstp; read -p "Press Enter...";;        2) scan_doh_dns; read -p "Press Enter...";;        0) exit ;;        *) echo "Invalid choice"; sleep 1 ;;    esacdone`
-
----
-
-### 🕒 2026-02-17 13:49:13 UTC
-[https://t.me/freenet_vm/22131](https://t.me/freenet_vm/22131)
 
 ---
 

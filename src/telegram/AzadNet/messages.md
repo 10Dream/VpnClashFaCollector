@@ -1,5 +1,41 @@
 # آرشیو کانال: @AzadNet
-بروزرسانی: 2026-02-19 10:32:45 UTC
+بروزرسانی: 2026-02-19 20:21:17 UTC
+
+### 🕒 2026-02-19 18:52:20 UTC
+فایل را دانلود کنید.
+در اپلیکیشن به بخش Configs بروید سپس + را بزنید و در منویی که باز می‌شود گزینه
+Import npvt config file 
+را انتخاب کنید.
+اپلیکیشن مورد نیاز:
+***⬇️***
+ 
+[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***⬇️***
+ 
+[دانلود نسخه iOS](https://apps.apple.com/app/id1629465476)
+[@AzadNet](https://t.me/AzadNet)
+
+---
+
+### 🕒 2026-02-19 12:21:24 UTC
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ Npv Tunnel  
+500 گیگ ترافیک اتصال مستقیم - اختصاصی 
+(شاید در بعضی از نقاط و اپراتور ها متصل نشود )
+- فایل را دانلود کنید.
+ـ در اپلیکیشن به بخش Configs بروید ـ سپس + را بزنید و در منویی که باز می‌شود گزینه
+Import npvt config file 
+را انتخاب کنید.
+اپلیکیشن مورد نیاز:
+***⬇️***
+ 
+[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***⬇️***
+ 
+[دانلود نسخه iOS](https://apps.apple.com/app/id1629465476)
+[@AzadNet](https://t.me/AzadNet)
+
+---
 
 ### 🕒 2026-02-18 19:38:07 UTC
 **اپلیکیشن DUTA؛ راهکار دریافت اخبار در زمان ناپایداری و انسداد شبکه**
@@ -70,22 +106,6 @@
 [#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
  
 [#فیلترشکن](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%D8%B4%DA%A9%D9%86)
-
----
-
-### 🕒 2026-02-17 15:13:24 UTC
-فایل را دانلود کنید.
-در اپلیکیشن به بخش Configs بروید سپس + را بزنید و در منویی که باز می‌شود گزینه
-Import npvt config file 
-را انتخاب کنید.
-اپلیکیشن مورد نیاز:
-***⬇️***
- 
-[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***⬇️***
- 
-[دانلود نسخه iOS](https://apps.apple.com/app/id1629465476)
-[@AzadNet](https://t.me/AzadNet)
 
 ---
 
