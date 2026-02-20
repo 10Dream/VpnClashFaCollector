@@ -1,5 +1,75 @@
 # آرشیو کانال: @freenet_vt
-بروزرسانی: 2026-02-20 10:30:45 UTC
+بروزرسانی: 2026-02-20 20:22:26 UTC
+
+### 🕒 2026-02-20 19:09:26 UTC
+کانفیگ openلوکیشن ایران
+***👤***
+USER: 
+`hDz6tkqrnk`
+***🔍***
+PASS: 
+`8pQHQAv6Yf`
+
+---
+
+### 🕒 2026-02-20 19:03:08 UTC
+IKEV
+***📍***
+برای vpnخودگوشی هستند
+***➕***
+سرورها
+***🛜***
+ایرانسل 
+***🛜***
+سامانتل
+***🛜***
+مخابرات
+***🇦🇲***
+`92-1-AM.cg-dialup.net`
+***🇫🇮***
+`92-1-fi.cg-dialup.net`
+***🇨🇭***
+`92-1-ch.cg-dialup.net`
+***🇳🇱***
+`92-1-nl.cg-dialup.net`
+***🇵🇱***
+`92-1-pl.cg-dialup.net`
+***🇪🇸***
+`92-1-es.cg-dialup.net`
+***🇸🇪***
+`92-1-se.cg-dialup.net`
+***🇳🇴***
+`100-1-NO.cg-dialup.net`
+همراه اول شاتل 
+***🛜***
+***🛜***
+***🛜***
+***🔽***
+***🇦🇪***
+`92-1-AE.cg-dialup.net`
+***🇩🇪***
+`92-1-de.cg-dialup.net`
+***🇶🇦***
+`92-1-qa.cg-dialup.net`
+***🇪🇬***
+`92-1-eg.cg-dialup.net`
+***🇪🇪***
+`92-1-ee.cg-dialup.net`
+***🇮🇷***
+`92-1-ir.cg-dialup.net`
+***🇧🇪***
+`92-1-be.cg-dialup.net`
+***🇧🇬***
+`92-1-bg.cg-dialup.net`
+***👤***
+USER:
+`bx7n5zetwv`
+***🔍***
+PASS:
+`gjtDpevF7U`
+تمام سرورها تست شده هستن
+
+---
 
 ### 🕒 2026-02-20 09:28:56 UTC
 ساب واسه هنراه آماده کردم پینگش حرف نرگداره ولی صعیفه نمیدونم  مشکل از  نت من هست می خوایید تا بزارمش تست کنید
@@ -144,95 +214,6 @@
 Download
 ***🎦***
 آموزش وارد کردن بکاپ
-
----
-
-### 🕒 2026-02-18 12:44:04 UTC
-با همین ها میتونی به سایفون وصل بشید  می تونید توی کلاینت پرو روی بکاپ ست کنید
-
----
-
-### 🕒 2026-02-18 12:44:04 UTC
-`200.174.198.32`
- 
-`8888`
-
----
-
-### 🕒 2026-02-18 12:44:04 UTC
-`217.217.254.94`
- 
-`8080`
-
----
-
-### 🕒 2026-02-18 12:29:59 UTC
-این روی  همراه و ایرانسل وصله
-
----
-
-### 🕒 2026-02-18 12:29:22 UTC
-`121.187.175.106`
-.  
-`9877`
-
----
-
-### 🕒 2026-02-18 12:28:33 UTC
-پرو تکل روی http بزارید
-
----
-
-### 🕒 2026-02-18 12:27:49 UTC
-پروکسی ها میزارم خودتو بصورت دستی نکب v2ray  وازدواج کنید
-
----
-
-### 🕒 2026-02-18 12:21:16 UTC
-کانفیگ های اوپن لوکیشن تهران هست تانا شده هست کسانی که وصل ت نمیشن تست گنن
-
----
-
-### 🕒 2026-02-18 12:13:57 UTC
-هز سه تاش با با سرعت خوب وصله
-
----
-
-### 🕒 2026-02-18 12:13:18 UTC
-`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#freenet_vt%20%F0%9F%87%AE%F0%9F%87%B7`
-همراه اول
-
----
-
-### 🕒 2026-02-18 12:11:09 UTC
-`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:993?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#freenet_vt%20%F0%9F%87%AE%F0%9F%87%B7`
-همراه اول
-
----
-
-### 🕒 2026-02-18 12:06:38 UTC
-همراه اول  پر سرعت
-
----
-
-### 🕒 2026-02-18 12:05:57 UTC
-`vless://1be61c57-8d29-9f94-408d-07b27fcfa463@155.212.110.3:443?security=reality&encryption=none&pbk=DnnQOtWhilZ3rqlSip0spBkluYlPeydouSR3iklbPTs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#%40freenet_vt%20%DB%B1%F0%9F%87%AE%F0%9F%87%B7`
-
----
-
-### 🕒 2026-02-18 11:12:35 UTC
-اینم تست کنید
-
----
-
-### 🕒 2026-02-18 11:06:53 UTC
-پسوور 
-`freenet_vt`
-
----
-
-### 🕒 2026-02-18 11:05:31 UTC
-کانفیگ اوپن سرور تانل شده ایران کیانی که وصل نمیشن نست کند
 
 ---
 

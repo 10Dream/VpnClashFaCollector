@@ -1,5 +1,34 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-20 10:31:13 UTC
+بروزرسانی: 2026-02-20 20:22:53 UTC
+
+### 🕒 2026-02-20 17:49:05 UTC
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com# lrnbymaa  vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?security=reality&e…
+
+---
+
+### 🕒 2026-02-20 17:46:05 UTC
+`trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com# lrnbymaavless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@142.248.80.157:443?security=reality&encryption=none&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaavless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#lrnbymaavless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#lrnbymaass://Y2hhY2hhMjAtcG9seTEzMDU6Vzc0WEZBTExMdXc2bTVJQQ%3D%3D@series-a1.samanehha.co:443#lrnbymaa`
+کانفینگ رایگان 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍
+
+---
 
 ### 🕒 2026-02-20 06:56:48 UTC
 اندروید (مخصوص تمام پردازنده ها، اگه حجمش زیاده از گوگل پلی یا گیتهاب دانلود کنید)
@@ -154,20 +183,6 @@
  انگلیس  
 ***✅***
  مقاوم در برابر اینترنت ملی، پایدار و پر سرعت، آماده خدمت…
-
----
-
-### 🕒 2026-02-18 10:41:37 UTC
-***🔴***
- 
-**تمامی سرور ها با بالاترین سرعت آپدیت شدند 😍🔥🟢لوکیشن های موجود به صورت مولتی کانفیگ و آی پی ثابت :🇩🇪 آلمان🇺🇸 آمریکا 🇹🇷 ترکیه🇷🇺 روسیه🇲🇾 مالزی🇵🇱 لهستان🇧🇦 بوسنی🇷🇸 صربستان🇬🇷 یونان🇬🇧 انگلیس✅ مقاوم در برابر اینترنت ملی، پایدار و پر سرعت، آماده خدمت به شما ✅😎🔥**
-***👈🏻***
- 
-**جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود و حجمی، به ادمین‌لرن‌بای‌ما مراجعه کنید. 👇🏻🌐 **
-[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
-**   🌐 **
-[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
-**  ‍**
 
 ---
 

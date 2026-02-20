@@ -1,5 +1,15 @@
 # آرشیو کانال: @freewireguard
-بروزرسانی: 2026-02-20 10:33:22 UTC
+بروزرسانی: 2026-02-20 20:24:58 UTC
+
+### 🕒 2026-02-20 17:34:13 UTC
+`wireguard://ePFDoWHC5aVkqV3xq48i1LMO2TVANNouxCKYSs4%2FaFA%3D@162.159.192.1:500?address=172.16.0.2%2F32&reserved=67%2C17%2C88&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-20 21:04`
+
+---
+
+### 🕒 2026-02-20 14:34:08 UTC
+`wireguard://8B3rND%2FXH2xQMDD05w0bwnw%2B8tTBCbnnFU9qdhyCHlc%3D@162.159.192.2:2408?address=172.16.0.2%2F32&reserved=249%2C73%2C159&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-20 18:04`
+
+---
 
 ### 🕒 2026-02-20 09:52:01 UTC
 **لاریجانی چند هفته قبل مطرح کرد: آمریکا نمیتونه با بمباران هوایی ج.ا رو سرنگون کنه.**
@@ -28,23 +38,6 @@
 
 ### 🕒 2026-02-19 06:33:28 UTC
 `wireguard://aICuRAW2FOxKg6HhVWZz1yR0BzzS70dYkrF1CoEUrls%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=224%2C111%2C254&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-19 10:03`
-
----
-
-### 🕒 2026-02-18 17:40:01 UTC
-شاید این جمعه بیاید، شاید ...
-عرزشی آماده باش که پرچمو بدی دست منجی.
-منتهی یه کوچولو با چیزی که منتظرش بودی فرق داره.
-
----
-
-### 🕒 2026-02-18 17:33:12 UTC
-`wireguard://sJ1lqLNRfFyh771NRuYPpbKH22aC0F5ZPL4%2BGRXvvEk%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=35%2C14%2C10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-18 21:03`
-
----
-
-### 🕒 2026-02-18 14:33:08 UTC
-`wireguard://QPDFfFQSi%2BNwiNEG4D7IsIvbjIf1EwovZawRIw0c9k4%3D@162.159.192.2:4500?address=172.16.0.2%2F32&reserved=170%2C47%2C218&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-18 18:03`
 
 ---
 

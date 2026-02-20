@@ -1,5 +1,73 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-20 10:33:05 UTC
+بروزرسانی: 2026-02-20 20:24:42 UTC
+
+### 🕒 2026-02-20 20:03:57 UTC
+مخابرات:
+vless://84fc33ee-774e-4fa5-b708-03301f1eda69@217.60.247.108:443?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=1&host=www.picofile.com&fp=chrome&type=xhttp&allowInsecure=1&sni=www.picofile.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://84fc33ee-774e-4fa5-b708-03301f1eda69@188.212.99.17:443?mode=auto&path=%2Fmedia&security=tls&encryption=none&insecure=1&host=sibapp.com&fp=chrome&type=xhttp&allowInsecure=1&sni=sibapp.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vmess://eyJhZGQiOiIyLjE0NC4yMC40MSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwMzM0ZGYyYS1hMjFhLTRhMTItOWRhMC0zMTc5YTVjOTFmYmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjgwODIiLCJwcyI6IvCflKUgVGVsZWdyYW06IEB3aWtpX3RhanJvYmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.59.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=1&sni=hetz.x-smm.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+
+---
+
+### 🕒 2026-02-20 20:03:24 UTC
+مخابرات:
+vless://78793680-044c-46d7-8062-8ad3497476f6@91.234.147.68:6665?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@fr.node.bytespecter.com:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@alb.node.bytespecter.com:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://e308d602-67eb-4ba5-baa5-f53be1fcee6f@afrcloud22.mmv.kr:443?path=%2F&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?path=%2F&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=Pulavpn11.afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://8fc83032-cb7e-4626-8058-f7051a68eb7b@afrcloud22.mmv.kr:443?path=%2F&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://da0e29ec-9407-43a7-a70e-94f005504427@ip3-cloud.tyryqyserver.ir:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.19.243.173:8443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+
+---
+
+### 🕒 2026-02-20 20:02:34 UTC
+مخابرات:
+vless://cff6f361-828a-43c8-a8b5-8d10b32e57fb@45.130.125.69:8443?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=zh.hollowspot.ir&type=ws&allowInsecure=0&sni=zh.hollowspot.ir#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://bbafc769-441b-4f06-9aae-9cc04ede1980@afrcloud22.mmv.kr:443?path=%2F&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@206.71.158.41:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=jnir.pichondan.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://5e62ddcf-78c9-4b15-803a-436c8c839ddc@104.18.32.47:2052?path=%2F&security=none&encryption=none&host=oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+vless://6b060748-eacb-d0dd-3231-e07f5c99fced@185.124.175.166:80?security=none&encryption=none&host=mir-data-60.myket.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+
+---
+
+### 🕒 2026-02-20 18:23:51 UTC
+همراه اول، ایرانسل:
+vless://662d440c-7567-41ec-b220-c7d69cb2f67c@193.151.151.44:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8316#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
+
+---
+
+### 🕒 2026-02-20 14:39:20 UTC
+وزارت‌کار سایتش توی زمان اعتراضات هک شده و دیتا‌بیسشون کلا پاک شده. یعنی وزارت به اون بزرگی یه بک‌آپ از پرونده‌های ثبت‌شده توی سامانه نداشته.
+***😐***
+ هزاران پرونده شکایت پاک شد و پرید! گنده‌گوز اول منطقه و جهان از سایت‌های دولتیش بک آپ نداره…  آدم دردشو به کی بگه!
+***🤮***
+…
+
+---
+
+### 🕒 2026-02-20 14:32:37 UTC
+***🏢***
+ پروفایل: مانی آسیا گروه رحمانی
+***✨***
+ نوع تجربه: تجربه کاری
+بیش از ۳ سال از زمانی که به گروه رحمانی پیوستم می‌گذره و چیزی که از همون ابتدا برام مشخص بود، تفاوت این مجموعه در نگاهش به افراد بود. اینجا اگر کسی بخواد یاد بگ...
+[https://tajrobe.wiki/review/lBGMD](https://tajrobe.wiki/review/lBGMD)
+
+---
 
 ### 🕒 2026-02-20 09:36:00 UTC
 تحقیق جدید NBER روی ۶,۰۰۰ مدیرعامل نشون می‌ده که اکثر شرکت‌ها فقط ۱.۵ ساعت در هفته از AI استفاده می‌کنن. ۲۵٪ هم اصلاً استفاده نمی‌کنن.
@@ -74,94 +142,6 @@ curl --request GET \
 اینجا مثل یک بوتیک خیلی بزرگ هست نه فروشگاه زنجیره‌ای پوشام
 هر لحظه مدیران شرکت عوض میشن و مدیرعامل ...
 [https://tajrobe.wiki/review/Oxobm](https://tajrobe.wiki/review/Oxobm)
-
----
-
-### 🕒 2026-02-18 19:58:31 UTC
-سوال:
-بچه ها فکر کنید رئیس شرکت هی بهتون تسک میده ...چجوری بهش میگید این دیگه زیاده ؟
-جواب ویکی‌تجربه:
-جلسه planning داشته باشید.
-بگو برای مثال الان روی ۳ تا تسک  کار می‌کنم. برای اینکه این یکی رو بگیرم، کدوم رو از اولویت خارج کنم؟
-**جواب شما در این شرایط چیست؟**
-
----
-
-### 🕒 2026-02-18 17:27:50 UTC
-**با Fragment کانفیگ‌های v2rayتو زنده کن 🔥**
-اگه کانفیگ‌هات دیر وصل میشن یا ناپایدارن، اینو تست کن.
-بعدشم MUX رو فعال کن تا پینگت بیاد پایین‌تر (طبق تصویر)
-اختلافشو خودت حس می‌کنی!
-روی اینترنت مخابرات، ایرانسل و همراه اول تست شده.
-
----
-
-### 🕒 2026-02-18 17:19:59 UTC
-مخابرات، ایرانسل، همراه اول: 
-vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vmess://eyJhZGQiOiJzNC5mb3J3YXJkc2Nkbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjQ4ZmMzMTAtYzE0OS00N2MxLWI4ODgtMDUxNzdlMmU1Nzc0IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA5MCIsInBzIjoi8J+UpSBUZWxlZ3JhbTogQHdpa2lfdGFqcm9iZSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://7f34ebdd-78a4-45c2-a081-bc1234505b02@140.248.147.82:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=Fastsssspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://7f34ebdd-78a4-45c2-a081-bc1234505b02@140.248.147.82:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=Fastsssspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-18 17:19:28 UTC
-مخابرات، ایرانسل، همراه اول: 
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&encryption=none&insecure=0&host=mitivpn.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a26bbed7-a286-4840-84bc-dc102c526777@speedtest.net:80?mode=auto&path=%2Fcategory%2Fmusic&security=none&encryption=none&host=iran.boltboost.gg&type=xhttp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.204.185:443#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@chatgpt.com:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ca.adobe-connect.top&fp=chrome&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnMFVnZnNkWE9objhNY3BkSHBXY21v@94.131.123.86:35361#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?security=reality&encryption=none&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=41ac#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?security=reality&encryption=none&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=41ac#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-18 17:14:04 UTC
-ایرانسل: 
-vless://e04f764c-6009-45aa-b033-97a90024634b@94.131.100.42:42642?security=reality&encryption=none&pbk=iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stats.vk-portal.net&sid=41ac#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&host=APP-DE-8.85858569.XYZ&fp=chrome&type=xhttp&allowInsecure=0&sni=xo01qvwx.85858569.xyz#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.7.138:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://ci49kfwjrc@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-***⚡️***
- 
-[@wiki_tajrobe](https://t.me/wiki_tajrobe)
-
----
-
-### 🕒 2026-02-18 13:20:49 UTC
-وزارت‌کار سایتش توی زمان اعتراضات هک شده و دیتا‌بیسشون کلا پاک شده. یعنی وزارت به اون بزرگی یه بک‌آپ از پرونده‌های ثبت‌شده توی سامانه نداشته.
-***😐***
-هزاران پرونده شکایت پاک شد و پرید!
-گنده‌گوز اول منطقه و جهان از سایت‌های دولتیش بک آپ نداره… 
-آدم دردشو به کی بگه!
-***🤮***
-***✍🏻***
- ╭⁠LiLO꧁◠ 𓃬☼
-
----
-
-### 🕒 2026-02-18 11:00:26 UTC
-خبر می‌تونه موثق یا ناموثق باشه 
-***⚠️***
- فقط به خاطر پیشبینیای عجیب درستی که قبلا تو 4chan شده ترجمه این متنی که در مورد ایران گذاشته شده رو می‌ذارم.
-دیروز نوشته که عملیات ونزوئلا یه تمرین بود برای اون چیزی که قراره تو ایران اتفاق بیوفته. بخش بزرگی از ارتش ایران قراره تو حملات اولیه بخار بشن. اسرائیل با نوک‌های تاکتیکال تمام موشک‌ها و پایگاه‌های موشکی رو از پا درمیاره. تقریبا سه روز با این اتفاق فاصله داریم.
-تو متن بعدی هم که ۱۵ ساعت بعد نوشته، گفته که بخش بزرگی از تیم فرماندهی ایران محو می‌شن. گفته که فرماندهی ایران دست گروهی ۲۲ نفره‌ست که معمولا تو سنگری تو تهران جلسه می‌ذارن. یکی از اعضاشون جاسوس موساده. نیاز به توضیح نیست که این گروه اول از همه محو می‌شه. اسرائیل می‌دونه بعد از این چند سال وقتشه به این نمایش مسخره پایان بده و نوک‌های تاکتیکال بخش بررگی از توان موشکی ایران رو توی حمله اول نابود می‌کنن. تهران در موج اول درگیر یه عملیات پرچم دروغین می‌شه تا راه رو برای ورود اسرائیل به ماجرا هموار کنه. موفق باشید.
-***✍️***
- Farhad
 
 ---
 

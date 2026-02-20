@@ -468,10 +468,13 @@ proxies:
   - {name: "@mehrosaboran", server: 162.159.194.86, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran 2", server: 45.130.125.160, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🫶***, server: 144.31.92.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45d95284-05ce-4e8b-ad84-a6bcdfebcb59, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn mold`", server: 104.18.32.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***👏***, server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🙌***, server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran`", server: fix130.wizard2shop.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9ec38c74-61b6-4aff-8501-0cf7ae45dcc3, servername: x1.pishi.lat, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: x1.pishi.lat}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn fanland`", server: 31.56.205.56, port: 13612, type: vless, tls: true, packet-encoding: xudp, uuid: cbb94bf1-02cc-46ba-bc01-061b5f38e0ac, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran` 2", server: 3.72.18.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn German 1`", server: v2.dabache.top, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,10 +494,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -504,10 +510,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -517,10 +526,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -539,10 +551,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -552,10 +567,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -565,10 +583,13 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
+      - "@iphone02016vpn mold`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
+      - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
+      - "@iphone02016vpn German 1`"
   - name: دانلود منیجر 📥
     type: select
     proxies:

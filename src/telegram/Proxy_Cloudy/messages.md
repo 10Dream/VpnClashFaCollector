@@ -1,5 +1,527 @@
 # آرشیو کانال: @Proxy_Cloudy
-بروزرسانی: 2026-02-20 10:33:31 UTC
+بروزرسانی: 2026-02-20 20:25:06 UTC
+
+### 🕒 2026-02-20 20:10:06 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 23:40
+[پروکسی 1](https://t.me/proxy?server=zilweb.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 2](https://t.me/proxy?server=85.133.194.8&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 3](https://t.me/proxy?server=springhq.sorza.info&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 4](https://t.me/proxy?server=85.133.194.38&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 5](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdC)
+ - 
+[پروکسی 6](https://t.me/proxy?server=go.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی 7](https://t.me/proxy?server=127.0.0.1&amp;port=443&amp;secret=dd00000000000000000000000000000000)
+ - 
+[پروکسی 8](https://t.me/proxy?server=3.hajrozbeh.onl&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 9](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 10](https://t.me/proxy?server=313343333310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 11](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 12](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&amp;@MTPROXYBOY)
+[پروکسی 13](https://t.me/proxy?server=to.behem.ye.zang.bezan.man.begam.alo.alo-alo.info&amp;port=435&amp;secret=ProxyQavi__ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 14](https://t.me/proxy?server=87.248.149.164&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 15](https://t.me/proxy?server=Full1.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 16](https://t.me/proxy?server=5.75.217.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 17](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+ - 
+[پروکسی 18](tg://proxy?server=her.geodns.info.&amp;port=443&amp;secret=ee79e344818749bd7ac519130220c25d09)
+[پروکسی 19](https://t.me/proxy?server=11210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 20](https://t.me/proxy?server=31334333310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 21](tg://proxy?server=always.paradiselandi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+[پروکسی 22](https://t.me/proxy?server=alo.alo-alo.info&amp;port=600&amp;secret=ProxyQavi____ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 23](https://t.me/proxy?server=188.212.98.57&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 24](https://t.me/proxy?server=https.spsctr.info.&amp;port=22&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی 25](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 26](https://t.me/proxy?server=185.3.200.42&amp;port=45585&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 27](https://t.me/proxy?server=iPhone.jordanair.info&amp;port=77777&amp;secret=EERighJJvXrFGRMCIMJdCQ)
+[پروکسی 28](https://t.me/proxy?server=212.147.232.240&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 29](https://t.me/proxy?server=91.107.240.185&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 30](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 19:10:06 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 22:40
+[پروکسی 1](https://t.me/proxy?server=91.107.240.202&amp;port=443&amp;secret=ee10dadd1e7c27a20098abb5bf53ca26a8706c6174666f726d2e646565707365656b2e636f6d)
+ - 
+[پروکسی 2](https://t.me/proxy?server=87.248.149.182&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 3](https://t.me/proxy?server=to.behem.ye.zang.bezan.man.begam.alo.alo-alo.info&amp;port=435&amp;secret=ProxyQavi____ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 4](tg://proxy?server=net.geodns.info.&amp;port=443&amp;secret=ee79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 5](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 6](https://t.me/proxy?server=alo.alo-alo.info&amp;port=600&amp;secret=ProxyQavi__ProxymelgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 7](https://t.me/proxy?server=gelox.dembech.boutique&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA____)
+ - 
+[پروکسی 8](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 9](https://t.me/proxy?server=tci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 10](https://t.me/proxy?server=www.alo-alo.info&amp;port=600&amp;secret=ee3eba31c906af8bfffffcfae8c7299e96626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 11](https://t.me/proxy?server=136.243.146.237&amp;port=443&amp;secret=EERighJJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 12](https://t.me/proxy?server=65.109.24.37&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 13](https://t.me/proxy?server=104.167.199.41&amp;port=5&amp;secret=111111111111111110000w)
+ - 
+[پروکسی 14](https://t.me/proxy?server=Godzila.dynu.com&amp;port=9090&amp;secret=00000000000000000000000000000000)
+ - 
+[پروکسی 15](https://t.me/proxy?server=195.254.165.18&amp;port=65535&amp;secret=EERigv______-AAA__gAAA)
+[پروکسی 16](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 17](https://t.me/proxy?server=meli2.ir4-tv.info&amp;port=22&amp;secret=ProxyQavi__ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA____)
+ - 
+[پروکسی 18](https://t.me/proxy?server=9.3pita.com&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 19](https://t.me/proxy?server=cdn.alo-alo.info&amp;port=435&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D____)
+ - 
+[پروکسی 20](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 21](https://t.me/proxy?server=85.133.194.112&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 22](https://t.me/proxy?server=185.3.200.41&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 23](https://t.me/proxy?server=Refral-Cover.kalakbazi-co.co.uk&amp;port=600&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 24](https://t.me/proxy?server=peyk.acharbashi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+[پروکسی 25](https://t.me/proxy?server=www.duhpro.makeup&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+ - 
+[پروکسی 26](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 27](https://t.me/proxy?server=www.roto-best.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+[پروکسی 28](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 29](https://t.me/proxy?server=cdn.alo-alo.info&amp;port=435&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 30](https://t.me/proxy?server=88.198.108.29&amp;port=443&amp;secret=DDBighLLvXrFGRMCBVJdFQ)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 18:10:05 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 21:40
+[پروکسی 1](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 2](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 3](https://t.me/proxy?server=172.65.117.172&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 4](https://t.me/proxy?server=185.3.200.19&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 5](https://t.me/proxy?server=www.download-fast.co.uk&amp;port=443&amp;secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
+ - 
+[پروکسی 6](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی 7](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 8](https://t.me/proxy?server=74.1.1.51&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 9](https://t.me/proxy?server=91.239.192.152&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 10](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 11](https://t.me/proxy?server=195.254.165.13&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 12](https://t.me/proxy?server=www.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی 13](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 14](https://t.me/proxy?server=DNS.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 15](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
+[پروکسی 16](https://t.me/proxy?server=collider.web-yektanet-com.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 17](https://t.me/proxy?server=195.254.165.11&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 18](https://t.me/proxy?server=185.3.200.37&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی 19](https://t.me/proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0](https://t.me/qandshekannn)
+ - 
+[پروکسی 20](https://t.me/proxy?server=87.248.149.191&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
+ - 
+[پروکسی 21](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 22](https://t.me/proxy?server=13310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 23](https://t.me/proxy?server=85.133.194.108&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 24](https://t.me/proxy?server=1310.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 25](https://t.me/proxy?server=195.254.165.65&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 26](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ - 
+[پروکسی 27](https://t.me/proxy?server=87.248.149.185&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 28](https://t.me/proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 29](https://t.me/proxy?server=khoda.hafez.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 30](https://t.me/proxy?server=shimmer.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 16:35:06 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 20:05
+[پروکسی 1](tg://proxy?server=app.x9q.pw&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 2](https://t.me/proxy?server=5.75.218.89&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 3](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 4](https://t.me/proxy?server=87.248.149.165&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 5](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ - 
+[پروکسی 6](tg://proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 7](https://t.me/proxy?server=dast.salemr.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 8](https://t.me/proxy?server=91.84.112.176&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 9](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 10](https://t.me/proxy?server=87.248.149.171&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 11](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 12](https://t.me/proxy?server=116.203.139.144&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 13](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 14](https://t.me/proxy?server=116.203.21.212&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 15](https://t.me/proxy?server=He7fhd.servers8009.ir&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 16](https://t.me/proxy?server=champagne.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 17](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 18](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی 19](https://t.me/proxy?server=188.212.98.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 20](https://t.me/proxy?server=www.40-rooz-gozasht.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+ - 
+[پروکسی 21](https://t.me/proxy?server=188.212.98.35&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 22](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 23](https://t.me/proxy?server=87.248.149.184&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
+ - 
+[پروکسی 24](https://t.me/proxy?server=1122210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 25](https://t.me/proxy?server=golex.dembech.beauty&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 26](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 27](https://t.me/proxy?server=www.rasht-e-nazanin.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+[پروکسی 28](https://t.me/proxy?server=65.109.26.215&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 29](https://t.me/proxy?server=85.133.194.106&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 30](https://t.me/proxy?server=87.248.149.168&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 15:15:06 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 18:45
+[پروکسی 1](https://t.me/proxy?server=go.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 2](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 3](https://t.me/proxy?server=74.1.1.54&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 4](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 5](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 6](https://t.me/proxy?server=112210.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 7](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 8](https://t.me/proxy?server=tcp.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 9](https://t.me/proxy?server=195.254.165.6&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+[پروکسی 10](https://t.me/proxy?server=10.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 11](https://t.me/proxy?server=ns1.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 12](tg://proxy?server=91.239.192.109&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 13](https://t.me/proxy?server=nima.nimagallery9.ir&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 14](https://t.me/proxy?server=qavie.ir4-tv.info&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 15](https://t.me/proxy?server=www.lost-packet-chrome.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+[پروکسی 16](tg://proxy?server=195.254.165.68&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 17](https://t.me/proxy?server=87.248.149.162&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 18](https://t.me/proxy?server=167.235.252.104&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 19](https://t.me/proxy?server=tnco.tncco.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 20](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 21](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 22](https://t.me/proxy?server=185.3.200.27&amp;port=5555&amp;secret=eedd03010200010001fc030386e24c3a16626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 23](https://t.me/proxy?server=87.248.149.179&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 24](https://t.me/proxy?server=87.248.149.172&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 25](https://t.me/proxy?server=meli2.ir4-tv.info&amp;port=22&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 26](https://t.me/proxy?server=golex.dembech.beauty&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;&amp;channel=@baicai_dev)
+ - 
+[پروکسی 27](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+[پروکسی 28](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/sturl_movie)
+ - 
+[پروکسی 29](https://t.me/proxy?server=188.212.98.12&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 30](https://t.me/proxy?server=87.248.149.166&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 14:15:06 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 17:45
+[پروکسی 1](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 2](https://t.me/proxy?server=web.websecc.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 3](https://t.me/proxy?server=45.142.189.184&amp;port=443&amp;secret=10408b3940c0488cd126599de2267080)
+[پروکسی 4](https://t.me/proxy?server=195.254.165.227&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 5](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ - 
+[پروکسی 6](https://t.me/proxy?server=185.3.200.38&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی 7](https://t.me/proxy?server=gclass-5.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 8](https://t.me/proxy?server=mci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 9](tg://proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 10](tg://proxy?server=5.75.217.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 11](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 12](tg://proxy?server=tnco.tncco.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+[پروکسی 13](https://t.me/proxy?server=proxymtproto.telwbion.com.&amp;port=25565&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==)
+ - 
+[پروکسی 14](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 15](tg://proxy?server=b.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34)
+[پروکسی 16](https://t.me/proxy?server=157.90.155.209&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 17](https://t.me/proxy?server=oh.ajab-soorati-dare.info&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 18](https://t.me/proxy?server=195.254.165.158&amp;port=65535&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 19](https://t.me/proxy?server=https.alo-alo.ink.&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+ - 
+[پروکسی 20](https://t.me/proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ - 
+[پروکسی 21](https://t.me/proxy?server=65.21.28.60&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09)
+[پروکسی 22](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 23](https://t.me/proxy?server=www.spsctr.info.&amp;port=22&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 24](https://t.me/proxy?server=74.1.1.48&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 25](tg://proxy?server=91.239.192.111&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 26](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 27](https://t.me/proxy?server=49.13.19.71&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 28](https://t.me/proxy?server=https.abr-parvaz.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 29](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 30](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 13:10:09 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 16:40
+[پروکسی 1](tg://proxy?server=www.40-rooz-gozasht.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+ - 
+[پروکسی 2](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 3](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی 4](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 5](https://t.me/proxy?server=74.1.1.55&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 6](https://t.me/proxy?server=172.65.103.110&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 7](tg://proxy?server=212.147.232.240&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 8](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ - 
+[پروکسی 9](tg://proxy?server=www.x9q.pw&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0=)
+[پروکسی 10](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 11](https://t.me/proxy?server=87.248.149.173&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 12](tg://proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی 13](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 14](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 15](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 16](tg://proxy?server=zilweb.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 17](https://t.me/proxy?server=azadi.minetor.co.uk&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 18](tg://proxy?server=www.uptv443.shop.&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0=)
+[پروکسی 19](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ)
+ - 
+[پروکسی 20](https://t.me/proxy?server=a.irload-a.ir&amp;port=245&amp;secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t)
+ - 
+[پروکسی 21](tg://proxy?server=dns.nevis-prime.info&amp;port=443&amp;secret=eed451f808fd60ed2c45f11d38fdbc8788646e732e6e657669732d7072696d652e696e666f)
+[پروکسی 22](https://t.me/proxy?server=app.x9q.pw&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 23](tg://proxy?server=74.1.1.52&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 24](tg://proxy?server=www.spsctr.info.&amp;port=22&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+[پروکسی 25](https://t.me/proxy?server=65.109.210.156&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 26](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 27](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 28](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 29](https://t.me/proxy?server=87.248.149.170&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 30](tg://proxy?server=www.careemian.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 11:55:04 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 15:25
+[پروکسی 1](https://t.me/proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 2](https://t.me/proxy?server=85.133.194.39&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 3](https://t.me/proxy?server=zkxkcjdk.arsit-design.ir&amp;port=443&amp;secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d)
+[پروکسی 4](https://t.me/proxy?server=settings.appsettings.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 5](https://t.me/proxy?server=185.3.200.40&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 6](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D&amp;@MTPROXYBOY)
+[پروکسی 7](https://t.me/proxy?server=188.245.118.3&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk&amp;@Data_proxy)
+ - 
+[پروکسی 8](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 9](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ&amp;@Data_proxy)
+[پروکسی 10](https://t.me/proxy?server=9.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 11](https://t.me/proxy?server=https.abr-parvaz.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ - 
+[پروکسی 12](https://t.me/proxy?server=45.142.189.184&amp;port=80&amp;secret=10408b3940c0488cd126599de2267080)
+[پروکسی 13](https://t.me/proxy?server=74.1.1.50&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ - 
+[پروکسی 14](https://t.me/proxy?server=195.254.165.234&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 15](https://t.me/proxy?server=79.46.217.208&amp;port=8443&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQ)
+[پروکسی 16](https://t.me/proxy?server=1.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+ - 
+[پروکسی 17](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+ - 
+[پروکسی 18](https://t.me/proxy?server=ai.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی 19](https://t.me/proxy?server=87.248.149.163&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 20](https://t.me/proxy?server=skxkckxk.arsit-design.ir&amp;port=443&amp;secret=ee00000000000000000000000000000000046c2e777f6f6766652e636f6d)
+ - 
+[پروکسی 21](https://t.me/proxy?server=www.alibaba1409.org.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+[پروکسی 22](https://t.me/proxy?server=gthost.imstron.org&amp;port=443&amp;secret=ddb58a2c63bd186f23b5d2d7c30d742be1)
+ - 
+[پروکسی 23](https://t.me/proxy?server=85.133.194.113&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 24](https://t.me/proxy?server=cdn.yektanet.com.ircompany.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی 25](tg://proxy?server=ai.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 26](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ - 
+[پروکسی 27](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ&amp;@Data_proxy)
+[پروکسی 28](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09&amp;@Data_proxy)
+ - 
+[پروکسی 29](https://t.me/proxy?server=172.65.102.115&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09&amp;@Data_proxy)
+ - 
+[پروکسی 30](https://t.me/proxy?server=195.254.165.79&amp;port=2083&amp;secret=10446282fffffffffff80000fff80000)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
+
+### 🕒 2026-02-20 10:50:08 UTC
+***📅***
+ 1 اسفند 1404 — ساعت 14:20
+[پروکسی 1](tg://proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 2](https://t.me/proxy?server=85.133.194.115&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 3](https://t.me/proxy?server=91.239.192.111&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 4](https://t.me/proxy?server=195.254.165.18&amp;port=65535&amp;secret=EERigv______-AAA__gAAA==EERigv______-AAA__gAAA==EERigv______-AAA__gAAA==EERigv______-AAA__gAAA==EERigv______-AAA__gAAA==EERigv______-AAA__gAAA==)
+ - 
+[پروکسی 5](https://t.me/proxy?server=195.254.165.167&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 6](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+[پروکسی 7](tg://proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ==)
+ - 
+[پروکسی 8](https://t.me/proxy?server=tajer.lavest.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 9](https://t.me/proxy?server=mizanesgh.co.uk.&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی 10](https://t.me/proxy?server=188.212.98.21&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 11](tg://proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ - 
+[پروکسی 12](https://t.me/proxy?server=petros.ir4-tv.info&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی 13](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 14](tg://proxy?server=go.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+ - 
+[پروکسی 15](tg://proxy?server=65.109.24.37&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[پروکسی 16](https://t.me/proxy?server=www.careemian.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6)
+ - 
+[پروکسی 17](https://t.me/proxy?server=www.hombus.co.uk.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+ - 
+[پروکسی 18](https://t.me/proxy?server=87.248.149.176&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
+[پروکسی 19](https://t.me/proxy?server=195.254.165.15&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
+ - 
+[پروکسی 20](https://t.me/proxy?server=91.247.171.246&amp;port=3440&amp;secret=ee08c9a6d577ab6db50f675612fea4402f)
+ - 
+[پروکسی 21](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+[پروکسی 22](https://t.me/proxy?server=49.13.3.146&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 23](https://t.me/proxy?server=87.248.149.131&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 24](https://t.me/proxy?server=91.239.192.79&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+[پروکسی 25](tg://proxy?server=185.3.200.45&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ - 
+[پروکسی 26](https://t.me/proxy?server=87.248.149.164&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ - 
+[پروکسی 27](https://t.me/proxy?server=support.ssh-conn.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[پروکسی 28](https://t.me/proxy?server=85.133.194.114&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ - 
+[پروکسی 29](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ - 
+[پروکسی 30](https://t.me/proxy?server=91.239.192.109&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+برای دوست‌های خود بفرستید 
+***🕊️***
+
+---
 
 ### 🕒 2026-02-20 09:45:09 UTC
 ***📅***
@@ -1910,586 +2432,6 @@
 [پروکسی 29](https://t.me/proxy?server=146.103.116.221&amp;port=443&amp;secret=3c9306bf0ab91b79fd23d57a521b79af)
  - 
 [پروکسی 30](https://t.me/proxy?server=87.248.149.183&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 19:57:00 UTC
-***📅***
- 29 بهمن 1404 — ساعت 23:27
-[پروکسی 1](https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 2](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ&amp;@Data_proxy)
- - 
-[پروکسی 3](tg://proxy?server=72.244.37.33&amp;port=443&amp;secret=ddea1cf24ef25e53ae1a6a1b197172a23e)
-[پروکسی 4](https://t.me/proxy?server=185.3.200.18&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 5](tg://proxy?server=45.93.170.26&amp;port=3389&amp;secret=eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee31302e31302e33342e3336)
- - 
-[پروکسی 6](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
-[پروکسی 7](tg://proxy?server=188.245.160.136&amp;port=8443&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng==)
- - 
-[پروکسی 8](https://t.me/proxy?server=91.199.14.110&amp;port=2053&amp;secret=dd18caa519413346f34228c7f970eebc29)
- - 
-[پروکسی 9](https://t.me/proxy?server=185.84.157.29&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی 10](https://t.me/proxy?server=py.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 11](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
- - 
-[پروکسی 12](https://t.me/proxy?server=iPhone.jordanair.info&amp;port=77777&amp;secret=EERighJJvXrFGRMCIMJdCQ)
-[پروکسی 13](tg://proxy?server=57.129.95.177&amp;port=443&amp;secret=ee235259a42975595e29ded06bd1371d497777772e7363616c657161792e636f6d)
- - 
-[پروکسی 14](https://t.me/proxy?server=spb.t.bifrost.now&amp;port=443&amp;secret=eea1035e9661c0fcbd2323c3857965333b79612e7275)
- - 
-[پروکسی 15](https://t.me/proxy?server=46.226.162.202&amp;port=8443&amp;secret=eecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQeecBAgAeeAfwEEOGEkwEeQ%3D%3D)
-[پروکسی 16](tg://proxy?server=74.1.1.31&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 17](https://t.me/proxy?server=195.254.165.253&amp;port=155&amp;secret=eecBAgAeeAfwEEOGEkwEeQ)
- - 
-[پروکسی 18](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 19](https://t.me/proxy?server=app.x9q.pw&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0=)
- - 
-[پروکسی 20](https://t.me/proxy?server=87.248.149.174&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 21](https://t.me/proxy?server=petros.ir4-tv.info&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 22](https://t.me/proxy?server=www.alibaba1409.org.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
- - 
-[پروکسی 23](https://t.me/proxy?server=www.sah-9p.info.&amp;port=80&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 24](https://t.me/proxy?server=https.web.www.gorgan-well.co.uk.&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8Q)
-[پروکسی 25](tg://proxy?server=tnco.tncco.info&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
- - 
-[پروکسی 26](tg://proxy?server=tg-proxy.greentg.su&amp;port=443&amp;secret=ab6c6db4ec6814fc0792722cd88b46ef)
- - 
-[پروکسی 27](https://t.me/proxy?server=195.254.165.211&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 28](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
- - 
-[پروکسی 29](https://t.me/proxy?server=pretty.dokhtarbandari.info.&amp;port=22&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 30](https://t.me/proxy?server=87.248.149.164&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 18:55:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 22:25
-[پروکسی 1](https://t.me/proxy?server=85.133.194.112&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 2](tg://proxy?server=135.181.191.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 3](https://t.me/proxy?server=12.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[پروکسی 4](https://t.me/proxy?server=188.212.98.5&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 5](https://t.me/proxy?server=www.roto-best.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
- - 
-[پروکسی 6](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 7](https://t.me/proxy?server=85.133.194.117&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 8](https://t.me/proxy?server=178.63.135.158&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 9](tg://proxy?server=188.121.116.140&amp;port=8443&amp;secret=ee367a189aee18fa31c190054efd4a8e9d73746f726167652e676f6f676c65617069732e636f6d)
-[پروکسی 10](https://t.me/proxy?server=https.uptv443.shop.&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 11](https://t.me/proxy?server=185.3.200.173&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 12](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 13](https://t.me/proxy?server=wine.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 14](https://t.me/proxy?server=116.203.242.112&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;@Data_proxy)
- - 
-[پروکسی 15](https://t.me/proxy?server=188.212.98.4&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 16](tg://proxy?server=212.33.198.29&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAAl3d3cuY2xvdWRmbGFyZS5jb20)
- - 
-[پروکسی 17](https://t.me/proxy?server=www.TelBet.app&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 18](https://t.me/proxy?server=91.239.192.31&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
-[پروکسی 19](tg://proxy?server=alo.acharbashi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 20](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 21](tg://proxy?server=89.44.243.41&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
-[پروکسی 22](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D&amp;@Data_proxy)
- - 
-[پروکسی 23](tg://proxy?server=135.181.1.23&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- - 
-[پروکسی 24](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
-[پروکسی 25](https://t.me/proxy?server=Refral-Cover.kalakbazi-co.co.uk&amp;port=600&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 26](https://t.me/proxy?server=85.133.194.121&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 27](https://t.me/proxy?server=188.212.98.57&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 28](https://t.me/proxy?server=65.109.5.167&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 29](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 30](https://t.me/proxy?server=4444413.qavi.baryc6w.co.uk&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 17:55:04 UTC
-***📅***
- 29 بهمن 1404 — ساعت 21:25
-[پروکسی 1](https://t.me/proxy?server=85.133.194.38&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 2](https://t.me/proxy?server=www.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 3](https://t.me/proxy?server=85.133.194.108&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 4](https://t.me/proxy?server=188.245.92.21&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk****)
- - 
-[پروکسی 5](tg://proxy?server=91.239.192.186&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 6](https://t.me/proxy?server=188.212.98.22&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 7](https://t.me/proxy?server=87.248.149.165&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 8](https://t.me/proxy?server=21.qavi.df.filmne1t.info&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 9](https://t.me/proxy?server=74.1.1.51&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 10](tg://proxy?server=noise.sibiu.ir&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 11](https://t.me/proxy?server=74.1.1.46&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 12](https://t.me/proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 13](tg://proxy?server=web.websecc.info&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
- - 
-[پروکسی 14](https://t.me/proxy?server=www.alo-alo.ink.&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
- - 
-[پروکسی 15](https://t.me/proxy?server=cdn.yektanet.com.ircompany.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 16](https://t.me/proxy?server=195.254.165.13&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- - 
-[پروکسی 17](tg://proxy?server=88.214.59.118&amp;port=443&amp;secret=f855144f5c9baff78d2e776ff438f450)
- - 
-[پروکسی 18](https://t.me/proxy?server=DNS.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 19](https://t.me/proxy?server=91.107.240.202&amp;port=443&amp;secret=ee10dadd1e7c27a20098abb5bf53ca26a8706c6174666f726d2e646565707365656b2e636f6d)
- - 
-[پروکسی 20](https://t.me/proxy?server=ssh-tcp-telnet.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 21](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 22](https://t.me/proxy?server=116.202.100.110&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk****)
- - 
-[پروکسی 23](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- - 
-[پروکسی 24](tg://proxy?server=doop1.hotelghooo.ir&amp;port=443&amp;secret=ee000000000000000000000000000000007777772e4969646550726f78692e696f)
-[پروکسی 25](tg://proxy?server=185.3.200.217&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 26](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
- - 
-[پروکسی 27](https://t.me/proxy?server=tcp.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 28](https://t.me/proxy?server=44434413.qavi.baryc6w.co.uk&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 29](tg://proxy?server=49.13.145.62&amp;port=443&amp;secret=3QAAAAAAAAAAAAAAAAAAAAA=)
- - 
-[پروکسی 30](https://t.me/proxy?server=www.download-fast.co.uk&amp;port=443&amp;secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 16:55:04 UTC
-***📅***
- 29 بهمن 1404 — ساعت 20:25
-[پروکسی 1](https://t.me/proxy?server=195.254.165.65&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- - 
-[پروکسی 2](tg://proxy?server=pretty.dokhtarbandari.info&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ=)
- - 
-[پروکسی 3](https://t.me/proxy?server=91.239.192.58&amp;port=443&amp;secret=7gAAAAAAAAAAAAAAAAAAAABrZXRhYWJvbmxpbmUuY29t)
-[پروکسی 4](https://t.me/proxy?server=go.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 5](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 6](https://t.me/proxy?server=87.248.149.191&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
-[پروکسی 7](tg://proxy?server=tringlomp.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d)
- - 
-[پروکسی 8](tg://proxy?server=46.224.77.89&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 9](https://t.me/proxy?server=Www.aaamado12.co.uk&amp;port=888&amp;secret=eeRigzNJvXrFGRMCIMJdEAtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 10](https://t.me/proxy?server=185.3.200.19&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 11](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 12](tg://proxy?server=olampia-tocol.oldboy-koeik.co.uk&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 13](https://t.me/proxy?server=collider.web-yektanet-com.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 14](https://t.me/proxy?server=167.235.242.119&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA****)
- - 
-[پروکسی 15](https://t.me/proxy?server=74.1.1.53&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 16](tg://proxy?server=185.84.156.10&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 17](tg://proxy?server=hop.hotelghooo.ir&amp;port=443&amp;secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f)
- - 
-[پروکسی 18](tg://proxy?server=65.21.28.60&amp;port=4455&amp;secret=dd104462821249bd7ac519130220c25d09)
-[پروکسی 19](https://t.me/proxy?server=172.65.103.110&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 20](https://t.me/proxy?server=oh.ajab-soorati-dare.info&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 21](https://t.me/proxy?server=91.239.192.152&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 22](tg://proxy?server=185.3.200.107&amp;port=2053&amp;secret=EE1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 23](tg://proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
- - 
-[پروکسی 24](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی 25](https://t.me/proxy?server=alo.acharbashi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 26](https://t.me/proxy?server=167.235.252.104&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA****)
- - 
-[پروکسی 27](https://t.me/proxy?server=185.115.161.232&amp;port=9443&amp;secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
-[پروکسی 28](https://t.me/proxy?server=195.254.165.11&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- - 
-[پروکسی 29](https://t.me/proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 30](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 15:50:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 19:20
-[پروکسی 1](https://t.me/proxy?server=87.248.149.182&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 2](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 3](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 4](https://t.me/proxy?server=www.rasht-e-nazanin.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
- - 
-[پروکسی 5](https://t.me/proxy?server=87.248.149.171&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 6](https://t.me/proxy?server=www.duhpro.makeup&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
-[پروکسی 7](https://t.me/proxy?server=85.133.194.106&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 8](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 9](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 10](https://t.me/proxy?server=85.133.194.107&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 11](https://t.me/proxy?server=172.65.117.172&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 12](https://t.me/proxy?server=13.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 13](https://t.me/proxy?server=87.248.149.184&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
- - 
-[پروکسی 14](https://t.me/proxy?server=45.141.100.252&amp;port=443&amp;secret=eefde3f393a25719c49d8c6e00c55ce418)
- - 
-[پروکسی 15](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 16](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 17](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 18](https://t.me/proxy?server=khoda.hafez.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[پروکسی 19](tg://proxy?server=91.107.240.185&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
- - 
-[پروکسی 20](https://t.me/proxy?server=65.109.24.37&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- - 
-[پروکسی 21](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 22](tg://proxy?server=116.202.177.184&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
- - 
-[پروکسی 23](https://t.me/proxy?server=85.133.194.124&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 24](https://t.me/proxy?server=195.18.10.237&amp;port=8770&amp;secret=eecBAgABAAfwAwOG4kw63QAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 25](tg://proxy?server=8.212.154.157&amp;port=443&amp;secret=eebcf30e18c6cdb4f99aa74602e8c55c29617a7572652e6d6963726f736f66742e636f6d)
- - 
-[پروکسی 26](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 27](tg://proxy?server=95.216.229.40&amp;port=443&amp;secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 28](tg://proxy?server=74.1.1.16&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 29](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 30](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 14:50:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 18:20
-[پروکسی 1](tg://proxy?server=87.229.100.81&amp;port=65535&amp;secret=dd104462821249bd7ac519130220c25d09)
- - 
-[پروکسی 2](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 3](https://t.me/proxy?server=ns1.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 4](https://t.me/proxy?server=185.3.200.155&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 5](tg://proxy?server=91.98.232.44&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 6](https://t.me/proxy?server=cdn.koukicohost1.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 7](tg://proxy?server=185.241.194.130&amp;port=2443&amp;secret=9c4a7e2d1f5086b3a9d2e4f607182c5a)
- - 
-[پروکسی 8](https://t.me/proxy?server=195.201.21.39&amp;port=15&amp;secret=7gggggggggggggggggggggh0cmFuc2xhdGUuZ29v)
- - 
-[پروکسی 9](https://t.me/proxy?server=17.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 10](https://t.me/proxy?server=188.212.98.54&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 11](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- - 
-[پروکسی 12](https://t.me/proxy?server=116.202.177.184&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-[پروکسی 13](https://t.me/proxy?server=185.115.161.250&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- - 
-[پروکسی 14](https://t.me/proxy?server=shimmer.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 15](tg://proxy?server=212.233.99.27&amp;port=443&amp;secret=ebeb2a01928324db3cf36c1c6d118e7a)
-[پروکسی 16](https://t.me/proxy?server=dast.salemr.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 17](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- - 
-[پروکسی 18](tg://proxy?server=178.130.43.112&amp;port=443&amp;secret=EERighJJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 19](https://t.me/proxy?server=87.248.149.185&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 20](tg://proxy?server=94.75.232.117&amp;port=80&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1kbi55ZWt0YW5ldC5jb21kbC5nb29nbGUuY29tZmFyYWthdi5jb20WAwECAAEAAQAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 21](tg://proxy?server=92.246.87.174&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 22](https://t.me/proxy?server=195.18.10.222&amp;port=8443&amp;secret=EERigv______-AAA__gAAAWueRVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 23](https://t.me/proxy?server=91.239.192.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 24](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
-[پروکسی 25](https://t.me/proxy?server=champagne.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 26](tg://proxy?server=www.duhpro.makeup&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
- - 
-[پروکسی 27](https://t.me/proxy?server=zilweb.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 28](https://t.me/proxy?server=85.133.194.109&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 29](https://t.me/proxy?server=195.254.165.6&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- - 
-[پروکسی 30](https://t.me/proxy?server=195.254.165.71&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 13:45:09 UTC
-***📅***
- 29 بهمن 1404 — ساعت 17:15
-[پروکسی 1](https://t.me/proxy?server=87.248.149.165&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 2](https://t.me/proxy?server=87.248.149.162&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 3](https://t.me/proxy?server=web.websecc.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 4](https://t.me/proxy?server=77.93.136.251&amp;port=88888&amp;secret=dd10400103324995b07c030386e886e7f1)
- - 
-[پروکسی 5](https://t.me/proxy?server=85.133.194.117&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 6](https://t.me/proxy?server=46.225.9.118&amp;port=155&amp;secret=79e344818749bd7ac519130220c25d09)
-[پروکسی 7](https://t.me/proxy?server=188.212.98.7&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 8](https://t.me/proxy?server=74.1.1.48&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 9](https://t.me/proxy?server=185.115.161.242&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[پروکسی 10](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 11](https://t.me/proxy?server=87.248.149.168&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
- - 
-[پروکسی 12](tg://proxy?server=87.229.100.19&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 13](https://t.me/proxy?server=87.248.149.179&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 14](https://t.me/proxy?server=www.alibaba1409.org.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](http://t.me/v2rayngcustom)
- - 
-[پروکسی 15](https://t.me/proxy?server=www.koukicohost2.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 16](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
- - 
-[پروکسی 17](https://t.me/proxy?server=91.107.240.185&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
- - 
-[پروکسی 18](https://t.me/proxy?server=mac.gamesea.app.&amp;port=41014&amp;secret=7nnjRIGHSb16xRkTAiDCXQlhcHAuemlnYXAuaXI=)
-[پروکسی 19](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 20](https://t.me/proxy?server=https.alo-alo.ink.&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
- - 
-[پروکسی 21](tg://proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[پروکسی 22](tg://proxy?server=ghasam-be-shab.bekhan-mara.info&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
- - 
-[پروکسی 23](https://t.me/proxy?server=www.website-best.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
- - 
-[پروکسی 24](tg://proxy?server=74.1.1.17&amp;port=8770&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 25](https://t.me/proxy?server=185.115.161.252&amp;port=9443&amp;secret=3RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt03RYDAQIAAQAB_AMDhuJMOt0%3D)
- - 
-[پروکسی 26](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 27](https://t.me/proxy?server=Full1.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-[پروکسی 28](tg://proxy?server=142.132.185.118&amp;port=443&amp;secret=ee008c3f6a9321de531462b058247cfd18676174657761792e696e7374616772616d2e636f6d)
- - 
-[پروکسی 29](https://t.me/proxy?server=87.248.149.172&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 30](https://t.me/proxy?server=195.254.165.227&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 12:45:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 16:15
-[پروکسی 1](https://t.me/proxy?server=195.254.165.23&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 2](https://t.me/proxy?server=185.3.200.38&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 3](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 4](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 5](https://t.me/proxy?server=74.1.1.45&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 6](tg://proxy?server=mtproxy-ru1.velvetvpn.xyz&amp;port=7443&amp;secret=4a6a864e1701719b18819285d6c6c4a2)
-[پروکسی 7](https://t.me/proxy?server=https-cdn-ddns.itdeveloper.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 8](https://t.me/proxy?server=www.rasht-e-nazanin.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
- - 
-[پروکسی 9](https://t.me/proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 10](tg://proxy?server=tgprox.yourownstorage.info&amp;port=443&amp;secret=dd0b07756f8bb33668eaf2b55c01890615)
- - 
-[پروکسی 11](https://t.me/proxy?server=185.3.200.27&amp;port=5555&amp;secret=eedd03010200010001fc030386e24c3a16626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 12](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی 13](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 14](https://t.me/proxy?server=213.182.213.155&amp;port=5&amp;secret=3qQoooooo555opbnmv0271==)
- - 
-[پروکسی 15](https://t.me/proxy?server=185.3.200.136&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی 16](tg://proxy?server=b.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34)
- - 
-[پروکسی 17](https://t.me/proxy?server=a.irload-a.ir&amp;port=245&amp;secret=DDBighLLvXrFGRMCBVJdFQRueWVrdGFuZXQuY29tZmFyYTrhdi5jb212YZ6ubmFqXeEuY29t)
- - 
-[پروکسی 18](https://t.me/proxy?server=91.239.192.54&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
-[پروکسی 19](https://t.me/proxy?server=gclass-5.ir&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 20](tg://proxy?server=pa.bus-reded.co.uk&amp;port=443&amp;secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f)
- - 
-[پروکسی 21](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی 22](tg://proxy?server=65.109.3.100&amp;port=9741&amp;secret=ee5lrPbFdb1vizwd3HGQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 23](https://t.me/proxy?server=74.1.1.54&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 24](https://t.me/proxy?server=87.248.149.170&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 25](https://t.me/proxy?server=195.254.165.169&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 26](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- - 
-[پروکسی 27](https://t.me/proxy?server=194.120.230.8&amp;port=443&amp;secret=7nnnAQIAAQAH8AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=)
-[پروکسی 28](tg://proxy?server=65.109.93.239&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- - 
-[پروکسی 29](https://t.me/proxy?server=1.qavi.df.filmne1t.info&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 30](tg://proxy?server=free.vpn-direct.com&amp;port=443&amp;secret=b30d90ef66938e2ecda336c1d36a68c1)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 11:45:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 15:15
-[پروکسی 1](https://t.me/proxy?server=77.93.136.252&amp;port=88888&amp;secret=dd10400103324995b07c030386e886e7f1)
- - 
-[پروکسی 2](https://t.me/proxy?server=ai.gamesea.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- - 
-[پروکسی 3](https://t.me/proxy?server=87.248.149.163&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 4](https://t.me/proxy?server=azadi.minetor.co.uk&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
- - 
-[پروکسی 5](https://t.me/proxy?server=91.239.192.83&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- - 
-[پروکسی 6](https://t.me/proxy?server=49.13.19.71&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 7](https://t.me/proxy?server=74.1.1.52&amp;port=2040&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 8](https://t.me/proxy?server=85.133.194.113&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 9](tg://proxy?server=185.3.200.21&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[پروکسی 10](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 11](tg://proxy?server=refral-cover.kalakbazi-co.co.uk&amp;port=600&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 12](tg://proxy?server=116.203.139.144&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 13](https://t.me/proxy?server=185.3.200.37&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 14](https://t.me/proxy?server=188.245.92.21&amp;port=54321&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwk)
- - 
-[پروکسی 15](https://t.me/proxy?server=wow-wow-wow.l0vi.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[پروکسی 16](https://t.me/proxy?server=185.84.157.230&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q)
- - 
-[پروکسی 17](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
- - 
-[پروکسی 18](tg://proxy?server=168.119.252.18&amp;port=8443&amp;secret=eecBAgAeeAfwEEOGEkwEeQ)
-[پروکسی 19](tg://proxy?server=89.110.121.49&amp;port=443&amp;secret=eed77db43ee3721f0fcb40a4ff63b5cd276D656469612E737465616D706F77657265642E636F6D)
- - 
-[پروکسی 20](tg://proxy?server=dns.gamesea.info&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
- - 
-[پروکسی 21](https://t.me/proxy?server=85.133.194.39&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 22](https://t.me/proxy?server=185.3.200.112&amp;port=2053&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- - 
-[پروکسی 23](tg://proxy?server=finland.fortaleza.ir&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 24](https://t.me/proxy?server=116.203.242.112&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 25](https://t.me/proxy?server=74.1.1.50&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 26](https://t.me/proxy?server=74.1.1.55&amp;port=65535&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 27](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ&amp;@VPN_PASARGAD)
-[پروکسی 28](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
- - 
-[پروکسی 29](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- - 
-[پروکسی 30](https://t.me/proxy?server=91.239.192.74&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
-برای دوست‌های خود بفرستید 
-***🕊️***
-
----
-
-### 🕒 2026-02-18 10:45:06 UTC
-***📅***
- 29 بهمن 1404 — ساعت 14:15
-[پروکسی 1](tg://proxy?server=foda.hotelghooo.ir&amp;port=443&amp;secret=ee000000000000000000000000000000007777772e4869646550726f78692e696f)
- - 
-[پروکسی 2](tg://proxy?server=65.109.187.135&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 3](tg://proxy?server=88.198.135.250&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 4](tg://proxy?server=185.215.247.48&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d)
- - 
-[پروکسی 5](https://t.me/proxy?server=91.239.192.74&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
- - 
-[پروکسی 6](https://t.me/proxy?server=tajer.lavest.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[پروکسی 7](https://t.me/proxy?server=74.1.1.49&amp;port=88888&amp;secret=dd79e344818749bd7ac519130220c25d09)
- - 
-[پروکسی 8](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 9](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ)
-[پروکسی 10](https://t.me/proxy?server=195.254.165.212&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 11](tg://proxy?server=138.124.54.64&amp;port=443&amp;secret=ee82ab8267b6f684c79b677d3acaa1146831632e7275)
- - 
-[پروکسی 12](https://t.me/proxy?server=91.239.192.79&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
-[پروکسی 13](tg://proxy?server=95.217.28.96&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- - 
-[پروکسی 14](https://t.me/proxy?server=champagne.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ&amp;@VPN_PASARGAD)
- - 
-[پروکسی 15](https://t.me/proxy?server=87.248.149.164&amp;port=443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 16](https://t.me/proxy?server=116.203.139.144&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 17](tg://proxy?server=62.60.178.146&amp;port=443&amp;secret=7hYDAQIAAQAH8AMDhuJMOt1tZWRpYS5zdGVhbXBvd2VyZWQuY29tbWVkaWEuc3RlYW1wb3dlcmVkLmNvbQ)
- - 
-[پروکسی 18](https://t.me/proxy?server=87.248.149.176&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
-[پروکسی 19](https://t.me/proxy?server=185.3.200.186&amp;port=5566&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 20](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- - 
-[پروکسی 21](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-[پروکسی 22](https://t.me/proxy?server=mizanesgh.co.uk.&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 23](tg://proxy?server=144.31.136.20&amp;port=443&amp;secret=eee353be048a0a57e723bc04ff21924fe9766b2e6363)
- - 
-[پروکسی 24](tg://proxy?server=87.229.100.236&amp;port=443&amp;secret=EEABAzJJlbB8AwOG6Ibn8QRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی 25](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 26](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- - 
-[پروکسی 27](https://t.me/proxy?server=185.115.161.241&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
-[پروکسی 28](https://t.me/proxy?server=1.full.filmne1t.info&amp;port=8080&amp;secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
- - 
-[پروکسی 29](https://t.me/proxy?server=167.235.252.104&amp;port=8443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- - 
-[پروکسی 30](tg://proxy?server=winner.gamesea.info&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
 برای دوست‌های خود بفرستید 
 ***🕊️***
 

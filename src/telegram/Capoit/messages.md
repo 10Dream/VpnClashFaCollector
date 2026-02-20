@@ -1,5 +1,32 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-20 10:27:31 UTC
+بروزرسانی: 2026-02-20 20:19:18 UTC
+
+### 🕒 2026-02-20 17:07:11 UTC
+کانفیگ NapsternetV
+برنامه NApsternetV
+آموزش وارد کردن
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-20 14:31:55 UTC
+کانفیگ NapsternetV
+برنامه NApsternetV
+آموزش وارد کردن
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
+
+### 🕒 2026-02-20 12:43:02 UTC
+کانفیگ NapsternetV
+برنامه NApsternetV
+آموزش وارد کردن
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
 
 ### 🕒 2026-02-19 20:47:18 UTC
 کانفیگ NapsternetV
@@ -44,67 +71,6 @@ New V2ray
 ---
 
 ### 🕒 2026-02-18 21:50:36 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 18:12:55 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 16:16:05 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 15:23:44 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 15:11:00 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 14:34:28 UTC
-توی آپدیت بعدی تلگرام امکان محدود کردنِ کپی، فوروارد، ذخیره و اسکرین شات توی هر گفتگو با مخاطب دلخواه فعال میشه.
-یعنی اگه حرفای خصوصی با رفیقتون میزنین، میتونین این قابلیت فعال کنین که نشه ذخیره کرد.
-[@Capoit](https://t.me/Capoit)
-
----
-
-### 🕒 2026-02-18 14:25:15 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-18 13:08:06 UTC
 کانفیگ NapsternetV
 [برنامه NApsternetV](https://t.me/Capoit/31225)
 [آموزش وارد کردن](https://t.me/Capoit/31230)

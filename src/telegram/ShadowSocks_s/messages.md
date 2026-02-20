@@ -1,5 +1,37 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-20 10:29:19 UTC
+بروزرسانی: 2026-02-20 20:21:07 UTC
+
+### 🕒 2026-02-20 16:52:23 UTC
+> ↪️ **Forwarded**
+
+آلمان از شهروندان خود خواست فورا ایران را ترک کنند
+[https://teheran.diplo.de/ir-de/2723224-2723224](https://teheran.diplo.de/ir-de/2723224-2723224)
+[@mamlekate](https://t.me/mamlekate)
+
+---
+
+### 🕒 2026-02-20 16:48:46 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-20 12:08:41 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان متدین و باورمند‌ به مذهب شیعه، 
+جمهوری اسلامی از روز نخست به نام شما و دین‌تان، حکومت را به دست گرفت، و تا امروز دستاوردی جز فقر و فلاکت و جنایات علیه بشریت نداشته است.
+شما در جریان انقلاب ملی شیروخورشید، همچون دیگر خیزش‌های این سال‌ها، با چشم خود دیدید که جمهوری اسلامی و شخص خامنه‌ای به نام دین و با حمایت روحانیت از هیچ جنایتی فروگذار نکردند؛ از کشتن شهروندان بی‌گناه با گلوله جنگی از جمله کودکان و دانش‌آموزان تا زدن تیر خلاص به مجروحان در بیمارستان‌ها و شکنجه و قتل و تجاوز به دستگیرشدگان.
+این‌ها همه و همه به اسم مذهب شیعه صورت گرفته است و می‌گیرد؛ مساجد را به پایگاه سرکوب بدل کرده‌اند و با شعار «حیدر حیدر» مغز هم‌وطنان‌شان را نشانه می‌روند و بر سجاده خون نماز می‌خوانند. 
+روحانیت شیعه، که خود را متولی دین می‌داند، با همراهی یا سکوت در برابر این جنایات در این آزمون تاریخی مردود شد.
+پیام من به شیعیان مومن اما مخالف ولایت فقیه و اسلام سیاسی این است که اگر دغدغه دین دارید، و می‌خواهید در آینده ایران، در آرامش و در قالبی غیرسیاسی و شخصی، مناسک دینی خود را دنبال کنید، در صف مقدم مبارزه با این رژیم نامشروع و رهبران جنایتکارش قرار بگیرید؛ دین و مذهب خود را از دست دجال زمان بازپس بگیرید؛ و نگذارید جنایات جمهوری اسلامی و‌ سپاه تروریستی پاسداران انقلاب اسلامی به پای مذهب شما نوشته شود.
+امروز جمع زیادی از متدینین در سنگر مبارزه با جمهوری اسلامی هستند. از آنها که هنوز به این مبارزه مقدس نپیوسته‌اند می‌خواهم تا دیر نشده، در کنار برادران و خواهران سنی خود و پیروان سایر ادیان، مذاهب و باورها بایستید، به اقیانوس ملت ایران بپیوندید و دین خود را از ضحاک و ضحاکیان بازپس گیرید که این هم برای خود شما ‌‌و هم برای آینده مذهب شیعه و‌ دین اسلام در ایران بهتر است.
+پاینده ایران،
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
 
 ### 🕒 2026-02-20 09:19:56 UTC
 **توماس مَسی، نماینده جمهوری‌خواه کنگره آمریکا، در صفحه رسمی خودش یک نظرسنجی منتشر کرده و پرسیده:**
@@ -408,140 +440,6 @@
 [https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
 [https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
 [https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D](https://t.me/proxy?server=www.alibaba1409.org.&port=22&secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 15:32:46 UTC
-> ↪️ **Forwarded**
-
-***🔻***
- 
-[**رسانه‌های آمریکایی از حمله قریب‌الوقوع آمریکا به جمهوری اسلامی خبر می‌دهند**](https://telegra.ph/%D8%B1%D8%B3%D8%A7%D9%86%D9%87%E2%80%8C%D9%87%D8%A7%DB%8C-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7%DB%8C%DB%8C-%D8%A7%D8%B2-%D8%AD%D9%85%D9%84%D9%87-%D9%82%D8%B1%DB%8C%D8%A8%E2%80%8C%D8%A7%D9%84%D9%88%D9%82%D9%88%D8%B9-%D8%A2%D9%85%D8%B1%DB%8C%DA%A9%D8%A7-%D8%A8%D9%87-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-%D8%AE%D8%A8%D8%B1-%D9%85%DB%8C%E2%80%8C%D8%AF%D9%87%D9%86%D8%AF-02-18)
-پایگاه خبری آکسیوس روز چهارشنبه ۲۹ بهمن (۱۸ فوریه)، یک روز پس از مذاکرات تهران و واشنگتن که در ژنو برگزار شد، گزارش داد که دولت ترامپ بیش از آنچه آمریکایی‌ها تصور می‌کنند، به اقدام نظامی گسترده علیه جمهوری اسلامی در خاورمیانه نزدیک است.
-***🔻***
- 
-[**نشست کمیسیون دفاع پارلمان اسرائیل با مقام ارتش درباره احتمال درگیری با جمهوری اسلامی**](https://telegra.ph/%D9%86%D8%B4%D8%B3%D8%AA-%DA%A9%D9%85%DB%8C%D8%B3%DB%8C%D9%88%D9%86-%D8%AF%D9%81%D8%A7%D8%B9-%D9%BE%D8%A7%D8%B1%D9%84%D9%85%D8%A7%D9%86-%D8%A7%D8%B3%D8%B1%D8%A7%D8%A6%DB%8C%D9%84-%D8%A8%D8%A7-%D9%85%D9%82%D8%A7%D9%85-%D8%A7%D8%B1%D8%AA%D8%B4-%D8%AF%D8%B1%D8%A8%D8%A7%D8%B1%D9%87-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D8%AF%D8%B1%DA%AF%DB%8C%D8%B1%DB%8C-%D8%A8%D8%A7-%D8%AC%D9%85%D9%87%D9%88%D8%B1%DB%8C-%D8%A7%D8%B3%D9%84%D8%A7%D9%85%DB%8C-02-18)
-شبکه کان گزارش داد کمیسیون امور خارجه و دفاع پارلمان اسرائیل چهارشنبه نشستی محرمانه با حضور فرمانده جبهه داخلی ارتش این کشور درباره احتمال درگیری با جمهوری اسلامی برگزار کرد. این نشست با تمرکز بر آمادگی جبهه داخلی در برابر سناریوهای احتمالی مرتبط با ایران برگزار شد.
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-18 14:55:10 UTC
-پرند تهران نشتی گاز
-***😔***
-***😂***
-
----
-
-### 🕒 2026-02-18 14:13:46 UTC
-پرند تهران نشتی گاز
-***😔***
-***😂***
-
----
-
-### 🕒 2026-02-18 12:44:37 UTC
-مذاکرات انقد خوب پیش رفته که آمریکا ساعاتی پیش 50 تا جنگنده و سوخت رسان رو فرستاده سمت خاورمیانه.  
-***🆔***
- @ShadowSocks_s
-
----
-
-### 🕒 2026-02-18 12:43:47 UTC
-مذاکرات انقد خوب پیش رفته که آمریکا ساعاتی پیش 50 تا جنگنده و سوخت رسان رو فرستاده سمت خاورمیانه.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 12:24:00 UTC
-خلاصه بخوایم بگیم کم کم دیگه باید پست "دارن می‌زنن پشماام" رو آماده کنیم
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 11:29:24 UTC
-> ↪️ **Forwarded**
-
-امروز تعداد زیاد سوخت رسان بلند شدن سمت اروپا و خاورمیانه (بالای ۱۵تا)
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-18 11:07:28 UTC
-**باید حقمو پس بگیرم برم هنوز تیکه هام مونده توو چنگشون، بشین و دعا کن که رحمم بیاد که مو زنده برگشتم از جنگشون…**
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 10:55:53 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 10:55:34 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-  
-[پروکسی](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.37&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- 
-[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 10:46:25 UTC
-آکسیوس : 
-ترامپ داره به یه جنگ بزرگ با ایران نزدیک‌تر میشه.
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 10:43:13 UTC
-[https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
 ***🆔***
  
 [@ShadowSocks_s](https://t.me/ShadowSocks_s)

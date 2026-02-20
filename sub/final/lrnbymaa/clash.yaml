@@ -465,6 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 172.64.152.23:443, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: ⚡Telegram - @, server: 142.248.80.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa, server: 185.162.231.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lrnbymaa 2, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "telegram : @Lrnbymaa`", server: G10.PRODNSSPEED10.IR, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: data-frm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-frm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -482,6 +486,10 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -489,6 +497,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -496,6 +508,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -512,6 +528,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -519,6 +539,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -526,6 +550,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 172.64.152.23:443
+      - ⚡Telegram - @
+      - lrnbymaa
+      - lrnbymaa 2
       - "telegram : @Lrnbymaa`"
   - name: دانلود منیجر 📥
     type: select

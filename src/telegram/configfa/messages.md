@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-20 10:30:20 UTC
+بروزرسانی: 2026-02-20 20:22:08 UTC
 
 ### 🕒 2026-02-19 08:35:18 UTC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.122.126.64:53777?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%5B7137%5D+-+Telegram+%3A+%40configraygan

@@ -1,43 +1,78 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-20 10:31:26 UTC
+بروزرسانی: 2026-02-20 20:23:08 UTC
 
-### 🕒 2026-02-20 02:22:33 UTC
-بچه ها هر روز  براتون یک جز قرآن تو کانال به صورت ترتیل و تحدیر میذاریم 
-***👆***
-حتما عضو بشین هر روز شرکت کنین 
-آخر ماه میبینین خیلی راحت تو این ماه عزیز یه ختم قرآن کامل انجام‌ دادین
-***😍***
-***❤️***
-***👆***
+### 🕒 2026-02-20 20:04:02 UTC
+***🔷***
+ 
+**افرادی که دندونای زرد و تیره دارید کلیپ رو کامل ببینید👆🏻👆🏻**
+این بسته گیاهی جوری دندوناتو سفید میکنه که همه فکر میکنن کامپوزیت کردی 
+***👌🏻***
+***😄***
+برای دریافت اطلاعات بیشتر و سفارش با 
+**تخفیف ویژه **
+روی لینک زیر کلیک کنید 
+***👇🏻***
+***👇🏻***
+***👇🏻***
+[https://landing.saamim.com/oZcC0](https://landing.saamim.com/oZcC0)
+[https://landing.saamim.com/oZcC0](https://landing.saamim.com/oZcC0)
 
 ---
 
-### 🕒 2026-02-19 23:46:31 UTC
-.
-**❤️**
-** ماه رمضان اومده و تو هنوز ختم قرآن رو شروع نکردی؟ حال نداری؟ ☹️ وقت نداری؟ 😔تو این کانال هر روز یک جزء از قرآن کریم به صورت ترتیل و تندخوانی قرار میگیره که با خیال راحت میتونی تو این ماه مبارک یه ختم کامل قرآن انجام بدی 🤓تازه فایل صوتی هر سوره همون روز گذاشته میشه میتونی گوش بدی 😌**
-**🎶**
-****
-**❌**
-** همین الان عضو کانال شو**
- 
-***😍***
-***👇***
-***➡️***
- 
-[@Qouran](https://t.me/Qouran)
-    
-[@Qouran](https://t.me/Qouran)
-***➡️***
- 
-[@Qouran](https://t.me/Qouran)
-    
-[@Qouran](https://t.me/Qouran)
-**اینم عیدی من به شما **
-**👆**
-**👆چه هدیه ای ناب تر از قرآن **
-**😍**
-***🕊***
+### 🕒 2026-02-20 11:04:36 UTC
+بعضی از زخم‌ها قدیمی‌اند، بسته شده‌اند، درد نمی‌کنند. اما جای‌شان هنوز هست و هروقت نوازششان می‌کنی، جریانِ دردی خیالی از تنت می‌گذرد و در حافظه‌ات زنده می‌شود...
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@neo_proxy](https://t.me/neo_proxy)
+
+---
+
+### 🕒 2026-02-20 11:03:46 UTC
+کسی که به خاطر یه مشکلی که با ۵ دقیقه صحبت کردن حل می‌شه تو رو ساعت ها با دعوا های غیر منطقی به گریه میندازه
+**قطعا « دوستت نداره»**
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 
@@ -273,28 +308,6 @@
 [پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
 [@DarkProxy](https://t.me/DarkProxy)
 [@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-18 20:09:38 UTC
-***🔷***
-** اونایی که هزینه لمینت و کامپوزیت ندارن با دقت این ویدیو رو ببینید **
-***👆🏼***
-***👆🏼***
-***🦷***
-**یه روش جدید اومده که توی خونه به راحتی میتونید دندون  هاتون رو سفید کنید... **
-***🎯***
-پس همین حالا روی
-** لینک زیر **
-کیلیک کن و 
-**شماره ات**
- رو وارد کن تا این پک رو با یه 
-**تخفیف ویژه**
- دریافت کنی
-***👇***
-***👇***
-[https://landing.saamim.com/CGGYF](https://landing.saamim.com/CGGYF)
-[https://landing.saamim.com/CGGYF](https://landing.saamim.com/CGGYF)
 
 ---
 

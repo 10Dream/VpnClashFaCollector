@@ -465,95 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.104.204.185:443, server: 51.104.204.185, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "🇫🇮 Finland, Helsinki [BL]", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: ZEZ2bfFbViC9usN1WB4xqvyzEuUhPA2uuUYZmjKAWTQc3mErhCaVHmZbbWgVG9oi1VHhz12KP2gAWC8LZJ4imWhypAD9PG3u, udp: true, tfo: false}
-  - {name: "🇰🇷 South Korea, Seoul [BL]", server: srv12.outlinekeys.com, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: fkxXhS9VUmWmoC9N9xu2WBjVoEGV7UZT, udp: true, tfo: false}
   - {name: 62.60.233.220:18685, server: 62.60.233.220, port: 18685, type: ss, cipher: chacha20-ietf-poly1305, password: ixfXBq6dfMQQFiEz6PBcTy, udp: true, tfo: false}
-  - {name: "🇳🇱 The Netherlands, Amsterdam", server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.210:8080, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]", server: 131.145.23.4, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 20.108.15.110:443, server: 20.108.15.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "🇳🇱 The Netherlands, Amsterdam 2", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "🇳🇱 The Netherlands, Amsterdam 3", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "🇺🇸 [OpenRay] 🇺🇸 US-12652", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-371", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: "🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]", server: 176.123.165.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1160c9ed-96b2-4a3d-84b0-da0df343b31b, servername: imgs.strelkavpn.com, host: imgs.strelkavpn.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NEZpSiuf6l2Cp1UcmAaPENQ2CjheHo15j9Hi3KxFLG4, short-id: d04be486ccd758e8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 United States, Atlanta [BL]", server: 176.108.245.2, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18722b2a-1b55-44a3-a538-66a8cb97093d, servername: get.strelkavpn.ru, host: get.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 53vT1T6WCz5OyN5S2tNE7tfHZnZDzwg506aOmdLpwC4, short-id: c5e15338}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL]", server: 176.96.137.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL]`", server: 176.96.137.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9656", server: 194.107.126.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9616", server: 45.145.41.35, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9621", server: 45.157.232.144, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main", server: 176.123.160.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c0d13b8-5924-4960-8022-66e0d5c888ab, servername: de30.strelkavpn.com, host: de30.strelkavpn.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: f4arBBBoT4Lb8CmgB7cl1VTF7rh0pfi2YwUDQFs5jRI, short-id: 67f1853b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇹 Italy, Arezzo [BL]", server: 80.211.236.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1ca56379-e44b-4694-bee8-9874ca8fd248, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇹 Italy, Arezzo [BL] 2", server: 80.211.236.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 29632408-8a2f-4bfc-a7b3-c8c8cdb220ac, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇸 Serbia, Belgrade [BL]", server: 213.165.60.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 429a3763-decc-4aa4-93e7-1dcc8065f701, servername: rsr.fasssst.ru, host: rsr.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zqK2uIx7zaEDvGbKLX3Rqqt1PYVm8BFBUmS7jK9HF1M, short-id: 14589e042d902753}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇱🇺 Luxembourg, Schieren [BL]", server: 176.108.245.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45819311-eb08-45e2-8cde-a3374238c36f, servername: lu21.strelkavpn.com, host: lu21.strelkavpn.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8vNU8_-RS_J7F7VyEXewK28c6eLqUaje5Wpq1q6h4E0, short-id: a19cdc4f8739}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇹 LT-35", server: 5.199.162.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Lithuania, Šiauliai [BL]", server: 5.199.168.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Lithuania, Šiauliai [BL] 2", server: 5.199.173.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]", server: 135.84.67.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: /@ChinaPortGFW, headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-185", server: 138.124.182.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1081", server: 176.222.55.24, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-8526", server: 176.96.136.176, port: 6593, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9183", server: 178.250.187.77, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2=", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1035", server: 185.140.209.188, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9521", server: 185.78.76.40, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇸🇪 SE-165", server: 185.82.126.239, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-184", server: 188.253.18.111, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-202", server: 188.253.19.222, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-153", server: 188.253.20.146, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-198", server: 188.253.21.12, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-7304", server: 194.164.192.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1061`", server: 202.71.13.242, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-199", server: 216.173.69.115, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-8527", server: 37.1.194.153, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-186", server: 37.128.204.4, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-170`", server: 37.128.207.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 [OpenRay] 🇫🇷 FR-558", server: 45.67.216.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1038", server: 45.88.67.37, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]", server: 5.144.176.149, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-175", server: 5.34.209.139, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-171", server: 5.34.212.179, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1638", server: 51.158.146.192, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1084", server: 51.158.205.192, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-6897", server: 78.47.146.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇫🇮 FI-418", server: 81.85.72.197, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-7915", server: 82.153.50.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇫🇮 FI-401", server: 83.147.216.182, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [OpenRay] 🇳🇱 NL-1025", server: 83.147.253.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [OpenRay] 🇩🇪 DE-9176", server: 87.251.87.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[OpenRay] 🇱🇻 LV-200", server: 94.158.219.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@@jdfxq", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 Anycast-IP | CA, US | [BL]", server: 95.164.11.48, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇹🇷 Turkey, Izmir [BL]", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 801c82f0-e350-4f10-91d5-731d02a6de04, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: c7b99d06}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5726", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Anycast-IP | [E] | DE, NL | [BL]", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Anycast-IP | [H] | DE, NL | [BL]", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 France, Paris [BL]", server: 89.232.177.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9d648533-ee78-4250-bcb3-65ed18701852, servername: ru87.strelkavpn.com, host: ru87.strelkavpn.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: g8w_lkoZMhLKAS8h6OkJ9iojoUWJXwL5hCP6T0niUw4, short-id: d3b42de4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇹 Italy, Arezzo [BL] 3", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3dd7bef-f742-4ee4-897e-0d91629571bb, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇹 Italy, Arezzo [BL] 4", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3fe5511-06e8-4f9c-8d86-a2b7d94ba402, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]", server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇹🇷 Turkey, Izmir [BL] 2", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad5e032f-d29d-4f94-936a-a7c6dc1c42d5, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 049e6b71c24337}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 Poland, Warsaw [BL]", server: 89.232.177.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c3e06f32-3009-4a11-94af-10028b3dc05e, servername: finder.strelkavpn.ru, host: finder.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _PtIcz5TCqpHBG6Xxi85mBaDT5cogsEPIYXlyKc9g2A, short-id: bc8074b9a0f0e964}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Anycast-IP | RS, SK | [BL]", server: 80.249.131.236, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c826e893-bc08-4500-b298-2208eb1ae903, servername: yt.fasssst.ru, host: yt.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EPR1I26IOfbKgiuzGKAlA94Xxca_cqNGH4AwvblhKGc, short-id: 487d1b23cef113f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL] 2", server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇬🇧 United Kingdom, Coventry [BL]", server: 45.151.30.173, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d25caaab-e4b7-419f-9753-7229c7287f55, servername: ang12.fasssst.ru, host: ang12.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkukwtrnUTnH3H7HtmWdxZV6axzxP-yE63TcviTR9jA, short-id: 64318fb6091432}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇹🇷 Turkey, Izmir [BL] 3", server: 89.23.113.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5583414-78d7-4beb-a2eb-d757125134e5, servername: tr8.strelkavpn.ru, host: tr8.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NWc6qd6XVh3Gn_Sc8-hLcXw0X-txuJmYglQkf0bHTRw, short-id: f7f8b6f7771af9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇹 Italy, Arezzo [BL] 5", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9235a61-5882-4e8e-9e00-f935a5068394, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 Poland, Warsaw [BL]`", server: 213.165.60.22, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: dfe57f08-2751-48a5-95b7-b4ea44c70093, servername: plr.strelkavpn.ru, host: plr.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i1XUXx_YHZJ8LiZG7yGYG-jXr1JHASvat25lf9SmnzM, short-id: 1da79ac7ee340f60}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇱 Israel, Petah Tikva [BL]", server: 176.108.241.183, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e1ed1d6f-11ed-4a9e-910c-c13b56573949, servername: where.strelkavpn.ru, host: where.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: hz4RUTTL7KkdeGm884ZhRRYIXRulXCGwW1Jh1aQJmWg, short-id: a35f12908735}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL] 3", server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL] 4", server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5131", server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 6354585c37827955}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Anycast-IP | SK, TR | [BL]", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f19f22be-134b-4904-8347-245f31fe3800, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 68039fa078}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-4722", server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇰🇷 South Korea, Cheonan-si [BL]", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 Germany, Frankfurt am Main [BL] 5", server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: 85.133.201.53:2526, server: 85.133.201.53, port: 2526, type: vless, tls: true, packet-encoding: xudp, uuid: 0a58ada9-9876-48f6-b44f-f23d51beb152, host: telewebion.com%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.73.14:443, server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v2tr.topacp.store:2053, server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 151.101.9.67:80, server: 151.101.9.67, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: daac11cb-7acd-40fa-ae53-2af2d5993878, network: ws, ws-opts: {path: /ws, headers: {Host: arps.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -570,285 +494,57 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -864,285 +560,57 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - hkbgp.jjxcloud.xyz:8443
+      - 5.175.249.174:35000
       - 51.104.204.185:443
       - series-a1.samanehha.co:443
-      - 🇫🇮 Finland, Helsinki [BL]
-      - 🇰🇷 South Korea, Seoul [BL]
       - 62.60.233.220:18685
-      - 🇳🇱 The Netherlands, Amsterdam
       - 82.38.31.210:8080
-      - 🇬🇧 United Kingdom, London | 🌐 Anycast-IP | [BL]
       - 20.108.15.110:443
       - admin.c2.havij.co:443
-      - 🇳🇱 The Netherlands, Amsterdam 2
-      - 🇳🇱 The Netherlands, Amsterdam 3
-      - 🇺🇸 [OpenRay] 🇺🇸 US-12652
-      - 🇬🇧 [OpenRay] 🇬🇧 GB-371
-      - 🇫🇮 Finland, Helsinki | 🌐 Anycast-IP | [C] | [BL]
-      - 🇺🇸 United States, Atlanta [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL]`
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9656
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9616
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9621
-      - 🇩🇪 Germany, Frankfurt am Main
-      - 🇮🇹 Italy, Arezzo [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 2
-      - 🇷🇸 Serbia, Belgrade [BL]
-      - 🇱🇺 Luxembourg, Schieren [BL]
-      - "[OpenRay] 🇱🇹 LT-35"
-      - Lithuania, Šiauliai [BL]
-      - Lithuania, Šiauliai [BL] 2
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, RU | [BL]
-      - "[OpenRay] 🇱🇻 LV-185"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1081
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8526
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9183
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1035
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9521
-      - "[OpenRay] 🇸🇪 SE-165"
-      - "[OpenRay] 🇱🇻 LV-184"
-      - "[OpenRay] 🇱🇻 LV-202"
-      - "[OpenRay] 🇱🇻 LV-153"
-      - "[OpenRay] 🇱🇻 LV-198"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7304
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1061`
-      - "[OpenRay] 🇱🇻 LV-199"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-8527
-      - "[OpenRay] 🇱🇻 LV-186"
-      - "[OpenRay] 🇱🇻 LV-170`"
-      - 🇫🇷 [OpenRay] 🇫🇷 FR-558
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1038
-      - 🇨🇦 Anycast-IP | [Cloudflare] | CA, NL | [BL]
-      - "[OpenRay] 🇱🇻 LV-175"
-      - "[OpenRay] 🇱🇻 LV-171"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1638
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1084
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-6897
-      - "[OpenRay] 🇫🇮 FI-418"
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-7915
-      - "[OpenRay] 🇫🇮 FI-401"
-      - 🇳🇱 [OpenRay] 🇳🇱 NL-1025
-      - 🇩🇪 [OpenRay] 🇩🇪 DE-9176
-      - "[OpenRay] 🇱🇻 LV-200"
-      - 🇺🇸 Anycast-IP | CA, US | [BL]
-      - 🇹🇷 Turkey, Izmir [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5726
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL]
-      - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
-      - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
-      - 🇫🇷 France, Paris [BL]
-      - 🇮🇹 Italy, Arezzo [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 4
-      - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 2
-      - 🇵🇱 Poland, Warsaw [BL]
-      - Anycast-IP | RS, SK | [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 2
-      - 🇬🇧 United Kingdom, Coventry [BL]
-      - 🇹🇷 Turkey, Izmir [BL] 3
-      - 🇮🇹 Italy, Arezzo [BL] 5
-      - 🇵🇱 Poland, Warsaw [BL]`
-      - 🇮🇱 Israel, Petah Tikva [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 3
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 4
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
-      - Anycast-IP | SK, TR | [BL]
-      - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
-      - 🇰🇷 South Korea, Cheonan-si [BL]
-      - 🇩🇪 Germany, Frankfurt am Main [BL] 5
+      - 78.38.246.150:8446
+      - 85.133.201.53:2526
+      - 172.67.73.14:443
+      - 104.21.48.147:80
+      - v2tr.topacp.store:2053
+      - 151.101.9.67:80
   - name: دانلود منیجر 📥
     type: select
     proxies:

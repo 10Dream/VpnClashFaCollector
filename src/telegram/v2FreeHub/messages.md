@@ -1,5 +1,57 @@
 # آرشیو کانال: @v2FreeHub
-بروزرسانی: 2026-02-20 10:32:27 UTC
+بروزرسانی: 2026-02-20 20:24:08 UTC
+
+### 🕒 2026-02-20 20:06:06 UTC
+**🌍 SS | VLESS • Location: DE🇩🇪 RU🇷🇺 FR🇫🇷**
+`vless://ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4@81.19.141.190:51529?security=reality&encryption=none&pbk=9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=b77a294515ecc200#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AAvless://5fad3ad2-1a94-40d0-85bb-51eb83f5c7df@109.172.55.232:13760?security=reality&encryption=none&pbk=ktZ1lxOpDoIq3mk39kNAi1uK0z3qTA6f-6u2KbQmICg&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yandex.ru&sid=58a8787420b6a153#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YW5HdG91ODZ2R0I3cjFsT201bjhn@162.19.208.118:50285#%40v2FreeHub%20%F0%9F%87%AB%F0%9F%87%B7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCU2hjZWs1eWRJV2JYRW5oSTJ2SXlt@62.113.114.116:42320#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA`
+***🎁***
+ 
+[**کد اهدا مهسا:**](https://github.com/GFW-knocker/MahsaNG/releases/latest)
+ 
+`45ef057b`
+━━━━━━━━━━━━━━━━━━
+[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
+** 👑**
+**👉 **
+[**@v2FreeHub**](https://t.me/v2FreeHub)
+****
+[**#v2RayNG**](?q=%23v2RayNG)
+** **
+[**#VPN**](?q=%23VPN)
+** **
+[**#Config**](?q=%23Config)
+
+---
+
+### 🕒 2026-02-20 12:14:02 UTC
+**🚀💥 آپدیت امروز سابلینک منتشر شد! | اتصال آزاد، سرعت بالا، بدون قطعی 🌍🔗**
+**🔗 لینک اتصال (کلیک کن):**
+`https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate`
+***♻️***
+ 
+**Last Update: 2026,2,20 | 1404,12,01**
+***📱***
+ 
+**بعدش هر روز برای آپدیت فقط این کارو بکن:v2RayNG → Subscription → Update**
+***📲***
+** آموزش استفاده در v2RayNG:**
+[**Subscription → Add → Paste → Update**](https://t.me/v2FreeHub/58)
+**❤️ برای دوستات هم بفرست**
+[**#پاینده_ایران**](?q=%23%D9%BE%D8%A7%DB%8C%D9%86%D8%AF%D9%87_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
+** **
+[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
+ 
+***👑***
+[**#VPN**](?q=%23VPN)
+** **
+[**#v2RayNG**](?q=%23v2RayNG)
+** **
+[**#AutoUpdate**](?q=%23AutoUpdate)
+***👉***
+ 
+[**@v2FreeHub**](https://t.me/v2FreeHub)
+
+---
 
 ### 🕒 2026-02-20 07:52:03 UTC
 **🌍 SS | VLESS • Location: US🇺🇸 UK🇬🇧 DE🇩🇪 NL🇳🇱 TR🇹🇷 FR🇫🇷 IT🇮🇹 IE🇮🇪**
@@ -117,47 +169,6 @@
 [**#AutoUpdate**](?q=%23AutoUpdate)
 [**@v2FreeHub**](https://t.me/v2FreeHub)
 ** 🌐**
-
----
-
-### 🕒 2026-02-18 20:03:08 UTC
-**🔥 New Global Pack Released! | SS ⚡🌐**
-***🌍***
- 
-*Location:*
- 
-**US🇺🇸 NL🇳🇱 DE🇩🇪 UK🇬🇧 RU🇷🇺**
- 
-**UA🇺🇦**
-━━━━━━━━━━━━━━━━━━
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUMk5vd3drbVFnc0F5MkFZTk9Nc3N1@dyn.usa.outlinekeys.net:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZTlozc2loblpVZjR1UUhub0JPZWZl@dyn.usa.outlinekeys.net:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUaEFvam5iRGIzamkyWDhpenVlVUNm@212.18.104.228:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1RXp5Y3dCSnk5NEkwek9aTHludFJz@212.18.104.228:56636#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%B8ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%40v2FreeHub%20%F0%9F%87%AC%F0%9F%87%A7ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1dEZpVVgzWWFwZU5uTEI1R2tTUHh3@89.110.70.175:1080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#%40v2FreeHub%20%F0%9F%87%B3%F0%9F%87%B1ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDbHBTRGV3bWlsQTRJekdLU3ZRSEsx@194.150.220.103:443#%40v2FreeHub%20%F0%9F%87%BA%F0%9F%87%A6ss://YWVzLTI1Ni1nY206OTQ4YmRlNWItMzhkYy00ZjljLTgzYjktNDNiOTE5MDAzNzc4@84.200.91.158:443#%40v2FreeHub%20%F0%9F%87%A9%F0%9F%87%AAss://YWVzLTI1Ni1nY206akV1eVdLaDlzN2hBVjN2aFU2cnhjRDZzTjV4MUp1ZndQNDB4T05WakRhcz0@185.171.82.23:15948#%40v2FreeHub%20%F0%9F%87%B7%F0%9F%87%BA`
-***🎁***
- 
-[**کد اهدا مهسا:**](https://github.com/GFW-knocker/MahsaNG/releases/latest)
- 
-`45ef057b`
-━━━━━━━━━━━━━━━━━━
-***📱***
-** آموزش استفاده از بکاپ ↓**
-[**v2RayNG → About → Restore configuration**](https://t.me/v2FreeHub/381)
-━━━━━━━━━━━━━━━━━━
-***♻️***
- 
-**آپدیت روزانه کانفیگ‌های رایگان و پرسرعت همه پروتکل ها (VLESS | VMESS | Trojan | Shadowsocks)**
-━━━━━━━━━━━━━━━━━━
-***👾***
- 
-**کانال رو دنبال کن تا همیشه وصل باشی**
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
-** 👑**
-**👉 **
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-****
-[**#v2RayNG**](?q=%23v2RayNG)
-** **
-[**#VPN**](?q=%23VPN)
-** **
-[**#Config**](?q=%23Config)
 
 ---
 

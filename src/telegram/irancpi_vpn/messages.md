@@ -1,7 +1,7 @@
 # آرشیو کانال: @irancpi_vpn
-بروزرسانی: 2026-02-20 10:31:10 UTC
+بروزرسانی: 2026-02-20 20:22:50 UTC
 
-### 🕒 2026-02-20 09:43:43 UTC
+### 🕒 2026-02-20 20:14:12 UTC
 ***🦁***
  
 **حزب مشروطه ایران (لیبرال دمکرات)**
@@ -12,7 +12,7 @@
  
 **پراکسی تلگرام:**
  
-[سرور 1](https://t.me/proxy?server=45.32.207.100&amp;port=443&amp;secret=9eb73cef01bc613d024dd3bf3c0bd24a)
+[سرور 1](https://t.me/proxy?server=144.202.38.201&amp;port=443&amp;secret=d3729d5395435b3e55aa486de88cb0f9)
  • 
 [سرور 2](https://t.me/proxy?server=45.76.27.193&amp;port=443&amp;secret=02f898de784d6f2a4175403ced449184)
  • 
@@ -35,6 +35,16 @@
 ***🌐***
  
 [irancpi.net](https://irancpi.net/)
+
+---
+
+### 🕒 2026-02-20 11:13:49 UTC
+[https://x.com/repthomasmassie/status/2024651638292521202?s=46](https://x.com/repthomasmassie/status/2024651638292521202?s=46)
+
+---
+
+### 🕒 2026-02-20 11:13:47 UTC
+هركس تويتر داره بره توي لينك زير و گزينه Yes  رو بزنه
 
 ---
 

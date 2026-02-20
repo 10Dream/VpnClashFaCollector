@@ -1,5 +1,292 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-20 10:29:36 UTC
+بروزرسانی: 2026-02-20 20:21:25 UTC
+
+### 🕒 2026-02-20 20:14:04 UTC
+[https://fixupx.com/conflict_radar/status/2024921188221550629/fa](https://fixupx.com/conflict_radar/status/2024921188221550629/fa)
+
+---
+
+### 🕒 2026-02-20 19:53:37 UTC
+[یـ بـ خـ](https://t.me/YeBeKhe)
+ pinned «
+***✨***
+ ربات جادویی برای لینک‌های شبکه‌های اجتماعی! 
+***✨***
+  از اینکه لینک‌های توییتر و اینستاگرام توی تلگرام درست باز نمیشن خسته شدی؟ دوست داری ویدیوهای یوتوب رو بدون تبلیغ، مستقیم توی تلگرام ببینی؟ 
+***🤔***
+  معرفی می‌کنیم: ربات «𝘟𝘍𝘐𝘟𝘜𝘗»! 
+***🚀***
+ دستیار هوشمند شما برای رام کردن لینک‌ها…
+»
+
+---
+
+### 🕒 2026-02-20 19:53:18 UTC
+[https://fixupx.com/purrlu/status/2024926193846202760](https://fixupx.com/purrlu/status/2024926193846202760)
+
+---
+
+### 🕒 2026-02-20 19:43:02 UTC
+***✨***
+ 
+**ربات جادویی برای لینک‌های شبکه‌های اجتماعی!**
+ 
+***✨***
+از اینکه لینک‌های توییتر و اینستاگرام توی تلگرام درست باز نمیشن خسته شدی؟ دوست داری ویدیوهای یوتوب رو بدون تبلیغ، مستقیم توی تلگرام ببینی؟ 
+***🤔***
+**معرفی می‌کنیم: ربات «𝘟𝘍𝘐𝘟𝘜𝘗»!**
+ 
+***🚀***
+دستیار هوشمند شما برای رام کردن لینک‌ها و لذت بردن از محتوای اینترنت، بدون دردسر و با حفظ کامل حریم خصوصی!
+ 
+***🎯***
+ 
+**این ربات دقیقاً چه کار می‌کنه؟**
+***🐦***
+ 
+**برای لینک‌های توییتر (X) و بلواسکای:**
+*   
+**نمایش فوری:**
+ کل توییت رو همراه با عکس و ویدیو، بدون نیاز به باز کردن مرورگر ببین!
+*   
+**دانلود مستقیم:**
+ با یک کلیک، ویدیو رو با فرمت 
+`.mp4`
+ یا عکس رو با فرمت 
+`.jpg`
+ تحویل بگیر. 
+***🎥***
+*   
+**ترجمه هوشمند:**
+ توییت‌ها رو به فارسی 
+***🇮🇷***
+ یا انگلیسی 
+***🇬🇧***
+ ترجمه کن.
+*   
+**حالت‌های نمایش متنوع:**
+ گالری، موزاییک یا فقط متن، انتخاب با خودته!
+***📸***
+ 
+**برای لینک‌های اینستاگرام:**
+*   
+**پخش مستقیم ریلز:**
+ ویدیوهای Reels و پست‌ها رو مستقیم توی تلگرام تماشا کن.
+*   
+**لینک دانلود:**
+ لینک مستقیم فایل اصلی رو برای دانلود یا اشتراک‌گذاری دریافت کن. 
+***📥***
+***▶️***
+ 
+**برای لینک‌های یوتوب:**
+*   
+**تماشای بدون وقفه:**
+ ویدیوها رو بدون تبلیغ و نیاز به فیلترشکن، همینجا در تلگرام ببین!
+*   
+**نمایش دیسلایک‌ها:**
+ تعداد واقعی دیسلایک‌های هر ویدیو رو ببین. 
+***👎***
+*   
+**عناوین واقعی (DeArrow):**
+ گول عناوین کلیک‌بیت رو نخور! ربات عنوان واقعی ویدیو رو بهت نشون میده.
+*   
+**حذف کامل ردیاب‌ها:**
+ با خیال راحت و بدون اینکه ردیابی بشی، ویدیوها رو ببین.
+***🛠***
+ 
+**چطوری ازش استفاده کنم؟**
+***1️⃣***
+ 
+**چت شخصی (پی‌وی):**
+ لینک رو برای ربات بفرست و از دکمه‌های شیشه‌ای برای مدیریت حالت نمایش استفاده کن.
+***2️⃣***
+ 
+**گروه‌ها:**
+ ربات رو به گروهت اضافه کن! خودش لینک‌ها رو پیدا می‌کنه و نسخه سالم رو زیرش ریپلای می‌کنه. (فراموش نکن ربات رو ادمین کنی!)
+***3️⃣***
+ 
+**حالت اینلاین (Inline):**
+ توی هر چتی، آیدی ربات رو تایپ کن و جلوش لینک رو بذار (
+`@xfixupbot https://...`
+) تا یه منوی کشویی با گزینه‌های مختلف باز بشه!
+***🔒***
+ 
+**امنیت و حریم خصوصی، اولویت ماست!**
+این ربات ۱۰۰٪ امن و بدون ذخیره‌سازی اطلاعاته. هیچ پیام، لینک یا اطلاعاتی از شما در هیچ کجا ثبت 
+**نمیشه**
+.
+***👇***
+ 
+**همین الان ربات رو استارت کن و از دنیای بدون لینک‌های خراب لذت ببر!**
+[https://t.me/xfixupbot?start](https://t.me/xfixupbot?start)
+
+---
+
+### 🕒 2026-02-20 18:21:50 UTC
+[ب-۲](https://fixupx.com/davidmkeyes/status/2024544939321770070.jpg)
+ در انتظار بمباران جمهوری اسلامی …
+
+---
+
+### 🕒 2026-02-20 17:50:53 UTC
+خودشون و رهبر کونیشون ۴۷ سال گفتن مرگ بر امریکا، بعد علاقه به جنگ با آمریکا ندارن :)
+مثل اون سگ های پا کوتاه هستن که از پشت قفس برای بول داگ، داد و فریاد میکنن، قفس که باز میشه لال میشن و فرار میکنن.
+
+---
+
+### 🕒 2026-02-20 16:46:05 UTC
+اگر اکانت X ( توییتر سابق ) دارید در این نظرسنجی شرکت کنید و به گزینه YES رای دهید.
+[https://fixupx.com/RepThomasMassie/status/2024651638292521202](https://fixupx.com/RepThomasMassie/status/2024651638292521202)
+
+---
+
+### 🕒 2026-02-20 16:31:57 UTC
+V2rayNg Hiddify Karing Happ 
+`vless://0a58ada9-9876-48f6-b44f-f23d51beb152@85.133.201.53:2526?security=none&encryption=none&host=telewebion.com%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=http&type=tcpvless://4b449ca5-55fd-4c23-8da4-661d4e17537a@cdnjs.com:443?mode=stream-up&path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=kh2j1ox4ax6x2jiwiss3dku249y4x72uqjy622h.mahdi383ir.website&fp=firefox&type=xhttp&sni=kh290ybijxxqx2l6w692x8zmygwdx248rr6gjft.mahdi383ir.websitevless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgradevless://daac11cb-7acd-40fa-ae53-2af2d5993878@151.101.9.67:80?path=%2Fws&security=none&encryption=none&host=arps.global.ssl.fastly.net&type=wsvless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcpss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg%3D%3D@3.1.195.148:8319hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.orgvless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgradess://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@78.38.246.150:8446vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttpvless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=wsvless://e250d63d-5125-42de-98ce-0bfa85c38eed@140.248.158.132:80?mode=auto&path=%2F&security=none&encryption=none&host=barcodevpn.global.ssl.fastly.net&type=xhttpvless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.110.68&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.krvless://cbf73250-e228-4fc8-95a1-3804176354be@FASTLY1.FASTSPEEDS.IR:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=Afraosi.global.ssl.fastly.net&type=xhttp&sni=default.ssl.fastly.net`
+
+---
+
+### 🕒 2026-02-20 16:31:56 UTC
+[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.38&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ |  
+[پروکسی](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=44.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=mci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=tci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[proxy](https://t.me/proxy?server=195.254.165.18&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[proxy](https://t.me/proxy?server=195.254.165.68&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[proxy](https://t.me/proxy?server=195.254.165.69&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[proxy](https://t.me/proxy?server=185.3.200.41&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[proxy](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[Proxy](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[Proxy](https://t.me/proxy?server=185.3.200.40&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[proxy](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[Proxy](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[Proxy](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[proxy](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[proxy](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+
+---
+
+### 🕒 2026-02-20 12:40:46 UTC
+�
+***✨***
+ 
+**اپ جدید گاه‌شمار؛ تقویمی فراتر از زمان!**
+ 
+***✨***
+***📅***
+اگر به تاریخ، فرهنگ و تقویم‌های مختلف علاقه‌مند هستی، اپلیکیشن 
+**گاه‌شمار**
+ را از دست نده! 
+این برنامه یک ابزار قدرتمند و آموزشی است که به‌صورت کاملاً بهینه و زیبا تاریخ‌ها را برایت نمایش می‌دهد و به راحتی می‌توانی بین تقویم‌های مختلف جابجا شوی.  
+***🎯***
+ 
+**ویژگی‌های برجسته گاه‌شمار:**
+ • 
+***📆***
+ پشتیبانی از 
+**سه گاه‌شماری مهم**
+:
+• گاه‌شماری شاهنشاهی ایران با ریشه در تاریخ باستان
+• 
+**هجری شمسی**
+ که در ایران و افغانستان رایج است
+• 
+**میلادی**
+ که در سراسر جهان به‌کار می‌رود  
+ • 
+***🔄***
+ 
+**تبدیل سریع تاریخ‌ها**
+ بین این سه تقویم با یک لمس  
+ • 
+***🕰️***
+ 
+**کاوش در رویدادهای تاریخی**
+ و مناسبت‌های فرهنگی ایران  
+ • 
+***🎓***
+ محتوای آموزشی درباره تاریخ نام ماه‌ها، جشن‌های سنتی و معناهای تاریخی  
+ • 
+***🎨***
+ طراحی زیبا و کاربرپسند با پشتیبانی از حالت تاریک و راست‌چین  
+ • 
+***🌐***
+ چندزبانه و مناسب برای کاربران فارسی‌زبان و جهانی  
+***📲***
+ همین امروز 
+**گاه‌شمار**
+ را نصب کن و تجربه‌ای تازه از تاریخ و زمان را در گوشی خود داشته باش! یک ابزار بی‌نظیر برای دانش‌پژوهان، علاقه‌مندان به فرهنگ ایرانی و همه کسانی که دوست دارند تاریخ را بهتر درک کنند.  
+***🔗***
+[ لینک دانلود در Google Play](https://play.google.com/store/apps/details?id=com.appfium.gahshomar&amp;hl=fa)
+***🔗***
+ 
+[لینک دانلود در AppStore](https://apps.apple.com/us/app/gahshomar-%DA%AF%D8%A7%D9%87%D8%B4%D9%85%D8%A7%D8%B1/id6758525232)
+
+---
 
 ### 🕒 2026-02-20 06:46:40 UTC
 [پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
@@ -198,96 +485,6 @@ Export wirguard configuration
  
 [پروکسی](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 [پروکسی](https://t.me/proxy?server=44.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-18 18:55:13 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-| 
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-
----
-
-### 🕒 2026-02-18 13:49:13 UTC
-Telegram Proxy
-[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.38&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D](https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
-[https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000)
-[https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d](https://t.me/proxy?server=91.239.192.68&port=1234&secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-[https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.136&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/confiiing_chanel?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D](https://t.me/confiiing_chanel?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
-[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=185.3.200.191&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.191&port=2053&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-18 13:49:11 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.212.179:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-171vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.209.139:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-175vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.18.111:443?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-184vless://6202b230-417c-4d8e-b624-0f71afa9c75d@138.124.182.185:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-185vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.204.4:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-186vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.21.12:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-198vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.173.69.115:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-199vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.158.219.198:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-200vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.19.222:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-202vless://4aff5de5-83dc-43c9-a33e-10e6fdb90ed2@5.199.162.255:443?flow=xtls-rprx-vision&packetEncoding=xudp&pbk=Wvt6tuMcFY9rWF2BsdAD4DXgLAoxQJxHWlao2BPR23Y&security=reality&sid=&sni=apple.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9%20LT-35vless://18f72be7-0651-4037-928b-8a309d685796@176.96.137.153:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany,%20Frankfurt%20am%20Main%20%5BBL%5Dss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(6)ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom,%20London%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BBL%5D%20vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&security=reality&sid=4fa44664f6a566d3&sni=germany.scroogethebest.com&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany,%20Frankfurt%20am%20Main%20%5BBL%5D%20(3)`
-
----
-
-### 🕒 2026-02-18 13:49:10 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.222.55.24:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1081vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.158.205.192:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1084vmess://7ba52802-3108-4cfa-8d44-917965ff61dd@62.60.245.128:18188?encryption=auto&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1532vless://6202b230-417c-4d8e-b624-0f71afa9c75d@51.158.146.192:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1638vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.216.182:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-401vless://6202b230-417c-4d8e-b624-0f71afa9c75d@81.85.72.197:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-418vless://f5a8e5fb-baa8-48cb-a62a-930c97c29eb2@87.242.103.184:443?flow=&fp=chrome&pbk=98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc&security=reality&sid=7dcd0c337708&sni=ya.ru&type=grpc#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-4722vless://eb071647-72a6-46be-8e89-ff3d228d52f6@51.250.0.147:443?flow=xtls-rprx-vision&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=6354585c37827955&sni=ads.x5.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5131vless://895f80be-902e-45c2-9b23-a27283edc180@82.146.38.194:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw&security=reality&sid=23c30a7eb4ecbc24&sni=google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-5726vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.67.216.25:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7%20FR-558ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:80#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-371vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.82.126.239:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40%40jdfxq&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-165vmess://98689724-deb2-4a3d-b83b-602221995baf@47.242.192.233:52190?encryption=auto&type=none#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%B0%20HK-229vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.20.146:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-153ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.124:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(4)ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands,%20Amsterdam%20(Amsterdam-Noord)%20%5BBL%5D%20(5)hysteria2://cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4@hkbgp.jjxcloud.xyz:8443?sni=hkbgp.jjxcloud.xyzvless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.128.207.194:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BB%20LV-170`
-
----
-
-### 🕒 2026-02-18 13:49:10 UTC
-V2rayNg Hiddify Karing Happ 
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@78.47.146.151:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-6897vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.164.192.16:443?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-7304vless://6202b230-417c-4d8e-b624-0f71afa9c75d@82.153.50.30:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-7915vless://6202b230-417c-4d8e-b624-0f71afa9c75d@176.96.136.176:6593?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-8526vless://6202b230-417c-4d8e-b624-0f71afa9c75d@37.1.194.153:8443?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-8527vless://6202b230-417c-4d8e-b624-0f71afa9c75d@87.251.87.157:443?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9176vless://6202b230-417c-4d8e-b624-0f71afa9c75d@178.250.187.77:443?ed=2560&eh=Sec-WebSocket-Protocol&flow=&host=sni.111000.indevs.in&path=%2F%3FTelegram%25F0%259F%2587%25A8%25F0%259F%2587%25B3%2540WangCai2%3D&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9183vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.78.76.40:443?flow=&fp=chrome&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9521vless://18f72be7-0651-4037-928b-8a309d685796@45.145.41.35:443?flow=xtls-rprx-vision&fp=chrome&packetEncoding=xudp&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9616vless://18f72be7-0651-4037-928b-8a309d685796@45.157.232.144:443?flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9621vless://18f72be7-0651-4037-928b-8a309d685796@194.107.126.157:443?flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-9656ss://YWVzLTI1Ni1nY206bktlRTJaRldWYUU0RHlqUg@154.38.176.7:80#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8%20US-12652vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.253.194:443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1025vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.140.209.188:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1035vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.88.67.37:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1038vless://6202b230-417c-4d8e-b624-0f71afa9c75d@202.71.13.242:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1061`
 
 ---
 
