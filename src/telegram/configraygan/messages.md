@@ -1,5 +1,105 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-02-19 20:25:59 UTC
+بروزرسانی: 2026-02-20 01:06:21 UTC
+
+### 🕒 2026-02-19 21:15:35 UTC
+**شب بخیر**
+
+---
+
+### 🕒 2026-02-19 21:14:23 UTC
+***📦***
+ 
+**پک  عددی ترکیبی ، ایرانسل ، همراه اول ، مخابرات و.....**
+**✅**
+**کاملا تست شده دونه به دونه**
+**🌈**
+** تمامی فایل هارو کپی کنید ، داخل v2ray یا Npv بزنید ، پینگ بگیرید ، sort کنید ، استفاده کنید ، لذت ببرید .**
+**🏳**
+** با این پک به راحتی ، از اینترنت آزاد استفاده کنید.**
+**🆓**
+** کاملا رایگان**
+
+---
+
+### 🕒 2026-02-19 21:13:33 UTC
+trojan://jNiOgXGnqa@cbxpsntbsixt.eu-central-1.clawcloudrun.com:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E2%81%B5%E2%81%B8%E3%80%8F
+trojan://jNiOgXGnqa@47.245.156.110:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B8%F0%9F%87%AC%E2%81%B5%E2%81%B9%E3%80%8F
+
+---
+
+### 🕒 2026-02-19 21:13:33 UTC
+B4%E2%81%B5%E3%80%8F
+trojan://jNiOgXGnqa@47.245.156.110:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B8%F0%9F%87%AC%E2%81%B4%E2%81%B6%E3%80%8F
+vless://7d9f09f8-1fbd-4fca-8e5c-ffe860cce706@HqV2rayNG.r-sgoone.ir:2095?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&type=httpupgrade#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AE%F0%9F%87%B7%E2%81%B4%E2%81%B7%E3%80%8F
+vless://bb798d4c-6c86-404d-b4de-0884fc48d54a@146.75.121.194:80?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=viper7.global.ssl.fastly.net&type=ws#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B4%E2%81%B8%E3%80%8F
+vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E2%81%B4%E2%81%B9%E3%80%8F
+vless://bb798d4c-6c86-404d-b4de-0884fc48d54a@151.101.9.80:80?path=%2F%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG--%40HqV2RayNG%3Fed%3D2056&security=none&encryption=none&host=viper7.global.ssl.fastly.net&type=ws#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B5%E2%81%B0%E3%80%8F
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@pl-tor.pvdata.host:1080#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B5%F0%9F%87%B1%E2%81%B5%C2%B9%E3%80%8F
+vless://57b0a155-7f03-4baa-b6aa-70cd87cf5d39@213.176.121.214:2002?security=none&encryption=none&host=skyroom.online%2C+gharar.ir%2C+igap.net&headerType=http&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AE%F0%9F%87%B7%E2%81%B5%C2%B2%E3%80%8F
+socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk=@ee-tal.pvdata.host:1080#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AA%F0%9F%87%AA%E2%81%B5%C2%B3%E3%80%8F
+vless://ci49kfwjrc@104.21.17.104:8880?security=none&encryption=none&type=xhttp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%E2%81%B5%E2%81%B4%E3%80%8F
+vless://309c4bd0-7430-b8aa-2238-1075e9e29370@18.192.3.23:20096?security=reality&encryption=none&pbk=RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA&headerType=none&fp=chrome&type=tcp&sni=wikipedia.org&sid=50a3#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%E2%81%B5%E2%81%B5%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AE%F0%9F%87%B9%E2%81%B5%E2%81%B6%E3%80%8F
+vless://35d471a7-d9ba-4c5c-a385-3ab49b1779a8@185.136.135.144:777?path=%40BluebberyNetWork&security=none&encryption=none&type=ws#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B3%F0%9F%87%B1%E2%81%B5%E2%81%B7%E3%80%8F
+
+---
+
+### 🕒 2026-02-19 21:13:33 UTC
+vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&encryption=none&host=ipv4.yasharteam.com&fp=chrome&type=ws&sni=ipv4.yasharteam.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AE%F0%9F%87%B7%C2%B3%C2%B9%E3%80%8F
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@78.159.131.210:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=al.cdn.stun.su&sid=4fc5e35bdb69d36b#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B3%C2%B2%E3%80%8F
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@www.speedtest.net:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B3%C2%B3%E3%80%8F
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.158.133.138:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B3%E2%81%B4%E3%80%8F
+vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.91:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B3%E2%81%B5%E3%80%8F
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%B7%C2%B3%E2%81%B6%E3%80%8F
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%B7%C2%B3%E2%81%B7%E3%80%8F
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.47.12:2053?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B3%E2%81%B8%E3%80%8F
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@us.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us.connectv.net#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%C2%B3%E2%81%B9%E3%80%8F
+vless://f4e1ae51-3b3d-48b5-ae26-dd71bd4af38a@www.tgju.org:443?security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=xhttp&sni=prqyxtlb.85858569.Xyz#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%E2%81%B4%E2%81%B0%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8313#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B4%C2%B9%E3%80%8F
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@ee.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=ee.connectv.net#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AA%F0%9F%87%AA%E2%81%B4%C2%B2%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg==@3.1.195.148:8319#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B4%C2%B3%E3%80%8F
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.110.68&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%E2%81%B4%E2%81%B4%E3%80%8F
+vless://010c8bf7-0a43-404f-a6c5-2427acb4d476@tr.prod.n7.homes:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B9%F0%9F%87%B7%E2%81
+
+---
+
+### 🕒 2026-02-19 21:13:32 UTC
+vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?security=tls&encryption=none&alpn=h3,h2&fp=chrome&type=xhttp&sni=DE-23.85858569.XYZ#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%E2%81%B6%E3%80%8F
+vless://179ddf63-c263-40ff-98a1-f53708573059@188.40.210.8:1083?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%E2%81%B7%E3%80%8F
+vless://be6111d8-5844-4b25-95aa-e64a08662db5@ihp.masterdom.ir:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=tr15sa.mrnafis.com&type=ws&sni=tr15sa.mrnafis.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B9%F0%9F%87%B7%C2%B9%E2%81%B8%E3%80%8F
+vless://94a03e9a-74d5-4036-95e9-563cc19355de@144.31.4.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=plcdn14.suio.me#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%E2%81%B9%E3%80%8F
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.153.231:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E2%81%B0%E3%80%8F
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.15.21:443?path=%2F131.186.26.129&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%C2%B9%E3%80%8F
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@144.31.3.30:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=poland.scroogethebest.com&sid=4fa44664f6a566d3#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B5%F0%9F%87%B1%C2%B2%C2%B2%E3%80%8F
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.26.7.205:2096?path=%2F%3Fed&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%C2%B3%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E2%81%B4%E3%80%8F
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@fi.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.connectv.net#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%C2%B2%E2%81%B5%E3%80%8F
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F&security=tls&encryption=none&host=afrcloud22.mmv.kr&fp=chrome&type=ws&sni=ProxyVPN11.afrcloud22.mmv.kr#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E2%81%B6%E3%80%8F
+vless://0c57c801-c2e2-4af0-8dd5-05e0d080a5e8@94.103.15.110:443?security=reality&encryption=none&pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdnjs.com&sid=ac31827454d7f693#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B2%E2%81%B7%E3%80%8F
+vless://a25806c0-0e09-46a2-bd27-a94e92285ce9@alb.pineappled.org:443?security=reality&encryption=none&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amd.com&sid=3cc8ceccd9de7f#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E2%81%B8%E3%80%8F
+vless://16068e83-af4c-49ba-8048-98fcff3e5e7b@104.26.14.21:443?path=%2F131.186.26.129&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E2%81%B9%E3%80%8F
+vless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443?security=reality&encryption=none&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none&fp=qq&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=nl.roblugo.su&sid=bbfb4f7a53e22dd3#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B3%F0%9F%87%B1%C2%B3%E2%81%B0%E3%80%8F
+
+---
+
+### 🕒 2026-02-19 21:13:32 UTC
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@fi.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fi.connectv.net#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%C2%B9%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B2%E3%80%8F
+vless://7cacb8f2-37d0-4bed-a41c-1d3f246a3ffd@217.16.27.217:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=17802e8ff84f12df#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B3%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B4%E3%80%8F
+vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%E2%81%B5%E3%80%8F
+vless://d38ee50c-c3d5-402f-907a-ab6ba229d774@us.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us.connectv.net#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%BA%F0%9F%87%B8%E2%81%B6%E3%80%8F
+vless://8e28baed-b7da-29a3-cb89-cb7e4878c011@5.255.126.160:2051?security=reality&encryption=none&pbk=pMAxMd8b9VTp8Yp4v18z98zJ6frzxPdK0DvZT8CMF2k&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=9d38c6241e8c654a#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%B7%F0%9F%87%BA%E2%81%B7%E3%80%8F
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%B7%E2%81%B8%E3%80%8F
+vless://7007111a-c28b-4ab1-8d28-bc7b42681028@wolf2.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%E2%81%B9%E3%80%8F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%8C%8D%C2%B9%E2%81%B0%E3%80%8F
+vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@212.192.246.57:2087?security=reality&encryption=none&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=e004#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%C2%B9%E3%80%8F
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%B7%C2%B9%C2%B2%E3%80%8F
+vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany.scroogethebest.com&sid=4fa44664f6a566d3#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%C2%B3%E3%80%8F
+vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%C2%B9%E2%81%B4%E3%80%8F
+vless://Fluffy_VPN-NZPzrzi5@89.110.119.44:443?security=reality&encryption=none&pbk=pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%E2%81%B5%E3%80%8F
+
+---
 
 ### 🕒 2026-02-19 15:52:31 UTC
 ***📦***
@@ -687,237 +787,6 @@ JUIQPMYY
 
 ### 🕒 2026-02-18 07:33:53 UTC
 **صبحتون بخیر**
-
----
-
-### 🕒 2026-02-17 21:17:28 UTC
-**شبتون بخیر**
-
----
-
-### 🕒 2026-02-17 21:17:20 UTC
-**این دوتا پک اخری عالین **
-[https://t.me/configraygan/3092](https://t.me/configraygan/3092)
-[https://t.me/configraygan/3096](https://t.me/configraygan/3096)
-
----
-
-### 🕒 2026-02-17 21:16:19 UTC
-***⭕***
- 
-**کانفیگ متصل **
- 
-**🔐**
- 
-***🔐***
- 
-***🔐***
- 
-***🔐***
-***✈️***
-**آموزش:**
- 
-**فایل را باز کنید(ترجیحا با برنامه chrome)**
- و تمامی محتوای داخل فایل را کپی کنید و وارد یکی از کلاینت های زیر کنید.
-**[ V2ray ـ Hiddify ـ V2box ـ Npv**
-  ]
-***✈️***
-  بعد از اینکه تمامی کانفیگ ها را وارد کردید، حتما از کانفیگ ها 
-**پینگ بگیرید**
- و به کانفیگ با کمترین پینگ متصل شوید
-***✈️***
-  کانفیگ ها روی 
-**V2ray و Npv بهتر پاسخگو**
- هستند، حتما آخرین ورژن را نصب داشته باشید
-***✈️***
-  اتصال شما کاملا بستگی به اینترنت و منطقه شما دارد
-
----
-
-### 🕒 2026-02-17 21:15:42 UTC
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@104.16.250.22:443?path=%2Fdb10248a03e8db1b&security=tls&encryption=none&alpn=h3,h2&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://25aa9915-8061-4a5d-8fd8-b26c222d5b4c@188.114.98.224:8443?path=%2Fblock&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://8443822d-6b68-4af2-d096-c03207ed880d@188.114.98.224:2087?path=%2Frahh&security=tls&encryption=none&host=vds.rahedarro.com&type=ws&sni=vds.rahedarro.com#%E2%9A%A1Telegram+%3D+%40configraygan
-vmess://eyJhZGQiOiJkaWRkeS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://071435dc-6ab9-4502-8441-ed4a4b609092@diddy.com:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&authority=&type=grpc&serviceName=&sni=n1.n1server.org#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.21.224.5:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.185.26:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.17.25.173:80?path=%2F%3Fed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://7d4a519b-d270-434e-a42d-d39624577a92@172.66.128.70:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=gamepc.sorza.ir&type=ws&sni=digikala.sorza.ir#%E2%9A%A1Telegram+%3D+%40configraygan
-
----
-
-### 🕒 2026-02-17 21:15:42 UTC
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJhdXRvIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1MS43OS4xMDMuNzYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Imdvb2dsZS5jb20iLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsIm5ldCI6IndzIiwicGF0aCI6Ii9JT2ViaExNaGwxQ1RiRkhiTDk1bXlmUlgyIiwicG9ydCI6IjgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJhZXMtMTI4LWdjbSIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMTkuMTczLjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2Nkbj9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiODA4MCIsInBzIjoi4pqh77iPVGVsZWdyYW0gXHUwMDNkIEBTT1NrZXlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxMDQuMTkuMTc0LjY4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTcxMjk5NjY3LnJhaGF2YXJkMzY1LmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvTkFTTkVUL2Nkbj9lZFx1MDAzZDI1NjAiLCJwb3J0IjoiODA4MCIsInBzIjoi4pqh77iPVGVsZWdyYW0gXHUwMDNkIEBTT1NrZXlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://e388fffb-03b0-4227-ac2c-2b5cec1f5c34@198.41.222.191:80?path=%2F%3Fed%253D2048&security=none&encryption=none&host=leecher56.matinheydri.workers.dev&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://0c77cfd8-dcf8-4558-8a9b-1b39f324d347@188.114.96.0:443?path=%2FeyJqdW5rIjoic1FPTm95c0hkQlI5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ&security=tls&encryption=none&host=serverjadid.teramadolyt.workers.dev&type=ws&sni=serverjadid.teramadolyt.workers.dev#%E2%9A%A1Telegram+%3D+%40configraygan
-trojan://54aa90f6-46f5-417d-82ff-fe1197cf88fd@162.159.33.95:80?path=%2F%3Fed%3D2048&security=none&host=cool-snow-8be4.gjhgghg01.workers.dev&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://3321a819-889d-40b3-b8fa-f34208827ef1@104.17.73.206:443?path=%2FTel-%40V2rayAlpha&security=tls&encryption=none&host=o00o.snip.qzz.io&fp=chrome&type=ws&sni=o00o.snip.qzz.io#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://7e346122-2ee0-406e-b964-a8ee665f1814@104.19.173.68:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV&fp=chrome&type=ws&sni=paRMis-1Tk63J.PArMiS.WoRkeRs.DeV#%E2%9A%A1Telegram+%3D+%40configraygan
-vmess://eyJhZGQiOiIxNzIuNjcuMjA0Ljg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuYXNuZXQtNTExOTUyNDI0Lm1jaXRlbC5jbyIsImlkIjoiZThiMTUwMGItZTllOC01NDkyLTgzMTItZjRlYWRmN2QwNzY3IiwibmV0Ijoid3MiLCJwYXRoIjoiL25hc25ldC9jZG4iLCJwb3J0IjoiODA4MCIsInBzIjoi4pqh77iPVGVsZWdyYW0gXHUwMDNkIEBTT1NrZXlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vless://873a8e21-5fed-36a7-b251-734ebc97381c@104.18.185.26:443?path=%2Fdb10248a03e8db1b&security=tls&encryption=none&alpn=h3,h2&host=dabaif0.webn.cc&fp=chrome&type=ws&sni=dabaif0.webn.cc#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.148.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%E2%9A%A1Telegram+%3D+%40configraygan
-vless://7d4a519b-d270-434e-a42d-d39624577a92@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=BrIgHt-orGaNizaTioNAuhudDhESZ.spoRTlAnd.CoMpANY.&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-
----
-
-### 🕒 2026-02-17 21:15:42 UTC
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6ImgzLGgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiZnJzeXMuZmwtZGwuY29tIiwiaWQiOiIxOWU1MmJmNC0xYjdkLTRiZDQtYWU2Ni02Y2EwMjQ0MzZjMTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ2J0IiwicG9ydCI6Ijg0NDMiLCJwcyI6IuKaoe+4j1RlbGVncmFtIFx1MDAzZCBAU09Ta2V5TkVUIiwic2N5IjoiYXV0byIsInNuaSI6ImZyc3lzLmZsLWRsLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InQxLjYyMDcyMC54eXoiLCJpZCI6IjUxNmQ4YTdhLTNmMGItNDFkMy1iYWQwLTI0NjExNjM4MTUxNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiODQ0MyIsInBzIjoi4pqh77iPVGVsZWdyYW0gXHUwMDNkIEBTT1NrZXlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoidDEuNjIwNzIwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxODguMTE0Ljk2LjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InN5NC42MjA3MjAueHl6IiwiaWQiOiI1MTZkOGE3YS0zZjBiLTQxZDMtYmFkMC0yNDYxMTYzODE1MTYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi4pqh77iPVGVsZWdyYW0gXHUwMDNkIEBTT1NrZXlORVQiLCJzY3kiOiJhdXRvIiwic25pIjoic3k0LjYyMDcyMC54eXoiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://b00d9e6d-227d-4944-8ffd-b1a806196356@104.16.244.232:80?path=%2F%3Fed%3D2048&security=none&encryption=none&host=neuroonvpn.mamadjacki83.workers.dev&type=ws#%E2%9A%A1Telegram+%3D+%40configraygan
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ
-[==@79.127.200.169:990#%E2%9A%A1Telegram+%3D+%40configraygan](http://==@79.127.200.169:990/#%E2%9A%A1Telegram+%3D+%40configraygan)
-vmess://eyJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IuKaoe+4j1RlbGVncmFtIFx1MDAzZCBAU09Ta2V5TkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjYuMTUuODUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%E2%9A%A1Telegram+%3D+%40configraygan
-vmess://eyJhZGQiOiIxODguMTE0Ljk4LjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC0xNjIxOTEwOTkuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuIiwicG9ydCI6IjgwODAiLCJwcyI6IuKaoe+4j1RlbGVncmFtIFx1MDAzZCBAU09Ta2V5TkVUIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJhdXRvIiwidHlwZSI6IiIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCvm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ
-[==@23.95.76.59:990#%E2%9A%A1Telegram+%3D+%40configraygan](http://==@23.95.76.59:990/#%E2%9A%A1Telegram+%3D+%40configraygan)
-trojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#%E2%9A%A1Telegram+%3D+%40configraygan
-trojan://humanity@188.114.98.0:443?path=%252Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#%E2%9A%A1Telegram+%3D+%40configraygan
-vmess://eyJhZGQiOiIxNzIuNjQuMTQ5LjE4MiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibmFzbmV0LTU3MTI5NjQxMDIuc2hhcmdoZGFpbHkuY28iLCJpZCI6Im5hc25ldCIsIm5ldCI6IndzIiwicGF0aCI6Ii9uYXNuZXQvY2RuP2VkXHUwMDNkMjU2MCIsInBvcnQiOiI4MDgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQFNPU2tleU5FVCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJhdXRvIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://fsJC<a)2Atn;@104.18.8.232:2086?path=%2FeyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D&security=tls&host=hamedp71.123hp.workers.dev&type=ws&sni=hamedp71.123hp.workers.dev#%E2%9A%A1Telegram+%3D+%40configraygan
-
----
-
-### 🕒 2026-02-17 21:10:27 UTC
-***⭕***
- 
-**کانفیگ متصل **
- 
-**🔐**
- 
-***🔐***
- 
-***🔐***
- 
-***🔐***
-***✈️***
-**آموزش:**
- 
-**فایل را باز کنید(ترجیحا با برنامه chrome)**
- و تمامی محتوای داخل فایل را کپی کنید و وارد یکی از کلاینت های زیر کنید.
-**[ V2ray ـ Hiddify ـ V2box ـ Npv**
-  ]
-***✈️***
-  بعد از اینکه تمامی کانفیگ ها را وارد کردید، حتما از کانفیگ ها 
-**پینگ بگیرید**
- و به کانفیگ با کمترین پینگ متصل شوید
-***✈️***
-  کانفیگ ها روی 
-**V2ray و Npv بهتر پاسخگو**
- هستند، حتما آخرین ورژن را نصب داشته باشید
-***✈️***
-  اتصال شما کاملا بستگی به اینترنت و منطقه شما دارد
-
----
-
-### 🕒 2026-02-17 21:09:28 UTC
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@162.159.194.86:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ASP.abrEsani.com&fp=android&type=ws&allowInsecure=0&sni=ASP.abrEsani.com#configraygan_73
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o1.rexine.ir:443?security=&encryption=none&host=mir-data-54.myket.ir&headerType=http&type=tcp#configraygan_74
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@nimbus.isgately.dev:11004?security=reality&encryption=none&pbk=YWfCdTnr4FAOMYTY2dLrMtQUokyxOGpPhYEEszPj20E&headerType=none&fp=firefox&type=tcp&sni=docker.com#configraygan_75
-vless://3ca66d2f-99cf-4c4e-8b25-19c2e80da453@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#configraygan_76
-vless://199139c1-7226-4fc2-87cb-5cedb717bf79@masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.wegiji2312.workers.dev#configraygan_77
-vless://ab2b2116-e161-4e2c-83e5-d5bb0ac6e64f@masterserver1-masterserver1-masterserver1-masterserver1.yamoja7907.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.yamoja7907.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.yamoja7907.workers.dev#configraygan_78
-vless://5b3e6dd2-856f-4de0-8ec6-1cadecfe4088@masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hecajab800.workers.dev#configraygan_79
-vless://0c257071-10b1-46c2-8372-a409be863b72@masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev:443?path=ws&security=tls&encryption=none&insecure=0&host=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=masterserver1-masterserver1-masterserver1-masterserver1.hovav93455.workers.dev#configraygan_80
-vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=DE-23.85858569.XYZ#configraygan_81
-
----
-
-### 🕒 2026-02-17 21:09:28 UTC
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?security=&encryption=none&headerType=&type=tcp#configraygan_56
-trojan://humanity@104.21.40.34:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#configraygan_57
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@167.68.42.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#configraygan_58
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@181.214.1.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=1&sni=sni.jpmj.dev#configraygan_59
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=de3.teleport.lat#configraygan_60
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.200.160.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=1&host=sni.jpmj.dev&type=ws&allowInsecure=1&sni=sni.jpmj.dev#configraygan_61
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o6.rexine.ir:1717?security=&encryption=none&host=mir-data-62.myket.ir&headerType=http&type=tcp#configraygan_62
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.231:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_63
-trojan://humanity@172.64.155.209:443?path=%2Fassignment&security=tls&insecure=1&host=www.gossipglove.com&type=ws&allowInsecure=1&sni=www.gossipglove.com#configraygan_64
-ss://YWVzLTI1Ni1nY206aGJoTzB4b21zSnpoTzI0Rg@64.176.215.70:80#configraygan_65
-vless://e4677c63-8bd8-4ac5-91fe-af6ed7876728@5.10.214.154:2087?path=%2Fpath&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=youloveme.primenet4.shop&fp=chrome&type=ws&allowInsecure=0&sni=youloveme.primenet4.shop#configraygan_66
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o2.rexine.ir:1717?security=&encryption=none&host=mir-data-55.myket.ir&headerType=http&type=tcp#configraygan_67
-vless://8ffb8934-97ed-4e97-bd56-333121bd7777@93.185.165.50:55211?security=reality&encryption=none&pbk=5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=1885#configraygan_68
-vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl%3Fed%3D2560&security=&encryption=none&extra=%7B%22downloadSettings%22%3A%7B%22address%22%3A%22188.244.122.136%22%2C%22port%22%3A443%2C%22network%22%3A%22xhttp%22%2C%22security%22%3A%22tls%22%2C%22tlsSettings%22%3A%7B%22serverName%22%3A%22s1.utuvpn.org%22%2C%22fingerprint%22%3A%22chrome%22%7D%2C%22xhttpSettings%22%3A%7B%22path%22%3A%22%2Fdl%3Fed%3D2560%22%2C%22host%22%3A%22s1.utuvpn.org%22%2C%22mode%22%3A%22auto%22%7D%7D%7D&host=s2.utuvpn.org&fp=chrome&type=xhttp&sni=s2.utuvpn.org#configraygan_69
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@184.174.80.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&type=ws&allowInsecure=0&sni=sni.jpmj.dev#configraygan_70
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@159.223.24.65:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_71
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.238.228.238:2096?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40wangcai2&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#configraygan_72
-
----
-
-### 🕒 2026-02-17 21:09:28 UTC
-vless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#configraygan_38
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.114.99.243:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_39
-vless://192f7c25-0c3a-4089-a67b-5138c5d5d561@de.gagtubelol.com:443?security=reality&encryption=none&pbk=o29JCvEwwDcIW6ZQu06m6Vyxko6pXaNjzNd-jGcwABU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de.gagtubelol.com&sid=f1a3d4b6de93aa3a#configraygan_40
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#configraygan_41
-vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?security=reality&encryption=none&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.ok.ru&sid=d7325e33#configraygan_42
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.129.137.58:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_43
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@150.230.146.170:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#configraygan_44
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o5.rexine.ir:1717?security=&encryption=none&host=mir-data-58.myket.ir&headerType=http&type=tcp#configraygan_45
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@194.195.240.210:443?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3%20%40V2rayBaaz&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_46
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#configraygan_47
-vless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443?security=reality&encryption=none&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=m.ok.ru&sid=d7325e33#configraygan_48
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.143:443?security=reality&encryption=none&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pl.jojack.ru&sid=a7ab02dfcc1f2c04#configraygan_49
-vless://4b70c6b7-a40f-4338-9749-2aaf6a6fb912@109.107.161.82:28933?security=reality&encryption=none&pbk=6qVBeg9qlJRuo_AIi2C-Dke58Z79uzvXQo38Jw5QsCw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.com&sid=c98c3bb0754f37#configraygan_50
-vless://1464720a-a342-4e1c-ae46-b23d01797b43@172.64.145.38:443?path=%2FSpringHQ%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL--%40SpringHQ-JOIN-%40SpringHQ-TEL-%40SpringHQ-TEL%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=music.parvareshmorghe.ir&fp=chrome&type=ws&allowInsecure=0&sni=music.parvareshmorghe.ir#configraygan_51
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#configraygan_52
-vless://b1f45225-4f7c-4b13-a7ee-1a9afa48216e@91.84.103.69:8443?security=reality&encryption=none&pbk=UmU6PJtGCvWWIgkKpr6P1Idm2ve4nsPhN7Gh3OPDYAE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=fecda331e7cb5731#configraygan_53
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.93:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#configraygan_54
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=&type=tcp#configraygan_55
-
----
-
-### 🕒 2026-02-17 21:09:28 UTC
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.161.50.246:443?path=%2F%3Fed&security=tls&encryption=none&insecure=0&host=sni.111000.v6.navy&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.v6.navy#configraygan_19
-vless://0f0b7f69-78e1-4e9e-8b35-0986444613e4@172.67.149.60:443?path=%2FTelegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cron.irtls.abrdns.com&fp=chrome&type=ws&allowInsecure=0&sni=cron.irtls.abrdns.com#configraygan_20
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configraygan_21
-vless://21a37d7e-6d14-46fc-8ef8-4c5e3082badb@vipp.arman-a.ir:8443?security=reality&encryption=none&pbk=j90KfWuKZ63f9I0jFfTj6jyukKiXYrFuoNTOOGdTQHM&host=divar.ir&headerType=http&fp=safari&spx=%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx%2Fg4vpnx&type=tcp&sni=yahoo.com&sid=4b1e5af0c9#configraygan_22
-vless://f74d98a4-9198-4f78-b921-47d4f4950953@de3.teleport.lat:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=de3.teleport.lat#configraygan_23
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o4.rexine.ir:1717?security=&encryption=none&host=mir-data-57.myket.ir&headerType=http&type=tcp#configraygan_24
-vless://b2d09914-82b4-236e-47b8-238252d341b3@animallzoo-love-zoo-nect.giggoopanel.ir:9091?security=&encryption=none&host=p30afzar.com&headerType=http&type=tcp#configraygan_25
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o11.rexine.ir:443?security=&encryption=none&host=mir-data-61.myket.ir&headerType=http&type=tcp#configraygan_26
-vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&alpn=networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#configraygan_27
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o3.rexine.ir:1718?security=&encryption=none&host=mir-data-30.myket.ir&headerType=http&type=tcp#configraygan_28
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@my-o3.rexine.ir:1717?security=&encryption=none&host=mir-data-56.myket.ir&headerType=http&type=tcp#configraygan_29
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#configraygan_30
-vless://fca0195d-ff19-49c1-8db0-3aa46df882fa@94.140.0.0:2087?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ASP.abrEsani.com&fp=android&type=ws&allowInsecure=0&sni=ASP.abrEsani.com#configraygan_31
-vless://58483a1e-6bab-4948-9602-dee06a47bc64@cdn1.glitchfm.ir:2053?mode=auto&path=%2F&security=tls&encryption=none&insecure=0&host=nl4.torbixplus.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=nl4.torbixplus.ir#configraygan_32
-ss://YWVzLTI1Ni1nY206dW1Xd29RSkVKR2Y3NFNMZQ@149.102.149.207:443#configraygan_33
-vless://jina@4.185.113.10:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=jina-418511310-direct.yektanet.co#configraygan_34
-vless://d709ce2e-aa11-4d67-ab0f-edb9d9e725db@gfnfhyhttgbrtgbrtgbrtttyht7.arenafile.com:33431?security=reality&encryption=none&pbk=DQjRDYsGHriGDOyYw4ikOCgg8fnPoK6Hw74wuio7qyk&headerType=none&fp=chrome&type=tcp&sni=www.icloud.com&sid=cceca309a6cd013a#configraygan_35
-vless://72de4eb9-74f6-4eac-9590-4d38a311fd9a@mail.mizban-r.site:1517?security=&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#configraygan_36
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16%3D1443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=ProxyVPN11.afrcloud22.mmv.kr#configraygan_37
-
----
-
-### 🕒 2026-02-17 21:09:28 UTC
-vless://9ecfba25-f382-41c2-ac80-429f8689da9a@185.126.7.182:12486?security=&encryption=none&headerType=none&type=tcp#configraygan_1
-vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@104.21.18.41:443?path=%2F--Telegram---%40MiTiVPN%2F---%40MiTiVPN&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=mitivpn-2.nic3-1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=nic3-1.workers.dev#configraygan_2
-vless://837b6716-6901-4b4d-a49f-2b6ac9306aa3@z.ssl.fastly.net:80?path=%2F&security=&encryption=none&host=gerrma.global.ssl.fastly.net&type=ws#configraygan_3
-vmess://eyJhZGQiOiIxODUuMTA1LjIzOC42OSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJhNWZhNmFiNC01MGRiLTRlMTEtZTU2My05ZDVmN2VlMzNlYWEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjU0OTA4IiwicHMiOiJAYXJpYW1laHJfamF2aWRzaGFoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9#configraygan_4
-vless://b44a702a-5561-4fd2-a6f8-1a3664b2a317@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#configraygan_5
-vless://6e0eec29-0d80-4d0b-9123-03fc88ece826@phonex.phonexv2iiiolo.com:25882?security=&encryption=none&host=fast.com&headerType=http&type=tcp#configraygan_6
-vless://743600c1-b7fe-4d7e-a866-b3272f2a6cc0@cloud.nexun.ir:443?mode=auto&path=%2FceoHTTP&security=tls&alpn=h2&encryption=none&extra=%7B%22headers%22%3A%7B%22User-Agent%22%3A%22Mozilla%2F5.0%20%28Macintosh%3B%20Intel%20Mac%20OS%20X%2010_15_7%29%20AppleWebKit%2F605.1.15%20%28KHTML%2C%20like%20Gecko%29%20Version%2F18.4%20Safari%2F605.1.15%22%2C%22Pragma%22%3A%22no-cache%22%7D%7D&insecure=0&host=arm.nexun.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=arm.nexun.ir#configraygan_7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#configraygan_8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3YzMxYTY3YjQxYjE4YzI2@89.223.88.33:11201#configraygan_9
-vless://e07ef651-915e-4912-9df7-5d5921bb3319@h.zzula.ir:443?mode=stream-up&path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=DE-23.85858569.XYZ#configraygan_10
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#configraygan_11
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@45.130.125.160:2052?mode=auto&path=%2Fpabloping&security=&encryption=none&host=pablo-n3.digionix.ir&type=xhttp#configraygan_12
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@f1.springpaatogh8.store:2087?path=%2F&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#configraygan_13
-vless://d5657005-94be-4198-80cf-f9a814bad404@188.244.122.136:80?mode=auto&path=dl%3Fed%3D2560&security=&encryption=none&host=s2.utuvpn.org&type=xhttp#configraygan_14
-vless://Golestan-vpn2@www.speedtest.net:2053?path=%2F%3Fed%3D2048&security=tls&alpn=h2&encryption=none&insecure=0&host=dl.immerchauffage.ir.&fp=random&type=ws&allowInsecure=0&sni=dl.immerchauffage.ir.
-[#configraygan_15](?q=%23configraygan_15)
-vless://41c55d8d-44dd-4437-90ff-4c1eb869a67c@172.64.145.38:2087?path=%2F%3Fed%3D512&security=tls&encryption=none&insecure=0&host=gamepc.sorza.ir&fp=chrome&type=ws&allowInsecure=0&sni=digikala.sorza.ir#configraygan_16
-vless://8ff544c5-303c-46f4-80fe-8e8e166fd981@45.139.26.213:443?security=reality&encryption=none&pbk=tYFlc_8tzrwDisZbxlHj06rw_YE154TVYeEBuwOQZHE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru&sid=8a6605e7#configraygan_17
-trojan://9372cb81c7b0ad903f91f2f8a4d3f02b@18.183.109.29:3373?security=tls&insecure=1&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=%F0%9F%94%92%20%5BBy%20EbraSha%5D#configraygan_18
 
 ---
 

@@ -465,10 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 160.16.137.28:35789, server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.137.28:35789 2, server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 206.71.158.37:35000, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 2, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 3, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 4, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 5, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 6, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 7, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 8, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 9, server: 77.90.41.197, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hkbgp.jjxcloud.xyz:8443 2, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 10, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 11, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt`, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 160.16.137.28:35789
+      - 160.16.137.28:35789 2
+      - 206.71.158.37:35000
+      - freenet_vt
+      - freenet_vt 2
+      - freenet_vt 3
+      - freenet_vt 4
+      - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
-      - hkbgp.jjxcloud.xyz:8443 2
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - freenet_vt 10
       - "@meliproxyy"
+      - freenet_vt 11
+      - freenet_vt`
   - name: دانلود منیجر 📥
     type: select
     proxies:

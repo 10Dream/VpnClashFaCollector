@@ -491,25 +491,21 @@ proxies:
   - {name: "@PewezaVPN (تلگرام) 3", server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 4", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 5", server: 3.112.130.53, port: 8313, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 6", server: 3.112.130.53, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "🇳🇱 The Netherlands, Amsterdam 2", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇳🇱 353 - NL - SS/AEAD - 8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇳🇱 356 - NL - SS/AEAD - 8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "🇳🇱 The Netherlands, Amsterdam 3", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad", server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: "🇺🇸 [OpenRay] 🇺🇸 US-12652", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: "🇬🇧 [OpenRay] 🇬🇧 GB-371", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: "[7147] - Telegram : @configraygan", server: 165.154.112.107, port: 12000, type: trojan, password: 1640ef52-2db0-44ab-b3f3-8690b762ebc9, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7083] - Telegram : @configraygan", server: 104.21.44.213, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
   - {name: "[7129] - Telegram : @configraygan", server: 172.67.136.117, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: nnMJkI9.191262.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: nnMJkI9.191262.xYz}}, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 7", server: 18.183.109.29, port: 3373, type: trojan, password: 9372cb81c7b0ad903f91f2f8a4d3f02b, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "[7056] - Telegram : @configraygan", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: "[7050] - Telegram : @configraygan", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "[7073] - Telegram : @configraygan", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fassignment"}, udp: true, tfo: false}
   - {name: "[7093] - Telegram : @configraygan", server: 159.69.162.184, port: 42122, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7112] - Telegram : @configraygan", server: ipw.gfdv54cvghhgfhgj-njhgj64.info, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 0423f7a2-87bd-4302-95e2-c3c01881bdc7, servername: DdLxDxZc3.VeLiNtO.OrG, network: ws, ws-opts: {path: /, headers: {Host: DdLxDxZc3.VeLiNtO.OrG}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 8", server: 13.39.91.2, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 46 - US - VLESS/GRPC/TLS - 443, server: 69.84.182.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 071435dc-6ab9-4502-8441-ed4a4b609092, servername: n1.n1server.org, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443, server: 84.252.136.245, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a9fe7e0-e02d-42ca-bebd-ecb4292f180c, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 66 - RU - VLESS/WS/TLS - 8443, server: rus3.worldunlocked.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0e4865bf-811e-44e8-90ce-233ecf209b0b, servername: rus3.worldunlocked.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus3.worldunlocked.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -527,10 +523,10 @@ proxies:
   - {name: "[7107] - Telegram : @configraygan", server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇮🇹 Italy, Arezzo [BL] 2", server: 80.211.236.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 29632408-8a2f-4bfc-a7b3-c8c8cdb220ac, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7051] - Telegram : @configraygan", server: 172.67.160.192, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bcfbfba-b446-4ad5-93ad-72af9e008f61, servername: nuclear.us.kg, network: ws, ws-opts: {path: /free/103.101.153.32:443, headers: {Host: nuclear.us.kg}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 9", server: 18.192.3.23, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 10", server: 34.244.236.222, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 6", server: 18.192.3.23, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 7", server: 34.244.236.222, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7145] - Telegram : @configraygan", server: 5.160.116.78, port: 2074, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 11", server: data.cloudvibe.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b7ec44b-66d8-4822-b772-f1f50c3fec95, servername: data-tm189.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-tm189.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 8", server: data.cloudvibe.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b7ec44b-66d8-4822-b772-f1f50c3fec95, servername: data-tm189.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-tm189.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7114] - Telegram : @configraygan", server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7108] - Telegram : @configraygan", server: 3.79.57.168, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7115] - Telegram : @configraygan", server: deu549.worldbypass.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -604,12 +600,10 @@ proxies:
   - {name: "[7104] - Telegram : @configraygan", server: 91.234.147.68, port: 6666, type: vless, tls: true, packet-encoding: xudp, uuid: 629daade-db49-4398-89a4-53a5f2bbd8c6, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443, server: 84.252.143.25, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 636dac2e-9a58-49a6-84f5-313a03761131, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 48fccabc158a4c22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443, server: 193.42.11.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 64b5d863-81d6-48ea-9222-82030616fa63, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 12", server: 85.133.200.136, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 9", server: 85.133.200.136, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (95)", server: 158.160.105.121, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d39596c-b569-4a61-86c3-28cfb83a4c95, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 683 - NL - VLESS - 42206, server: 91.198.77.216, port: 42206, type: vless, tls: true, packet-encoding: xudp, uuid: 6fc297ff-17c0-436a-b982-623d682e339a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG", server: 31.170.22.193, port: 47997, type: vless, tls: true, packet-encoding: xudp, uuid: 7177f5c4-f26a-4ab5-820f-62cb6ba649f7, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cFora2YYa3aZdpWW8vMD9iX97qRKtyLzXv4pWgXoh20, short-id: ead461}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 13", server: de.v2turbo.com, port: 1521, type: vless, tls: true, packet-encoding: xudp, uuid: 73ccfebc-9b7f-4bb2-9685-2c92bca66947, network: ws, ws-opts: {path: /, headers: {Host: skyroom.online%2Cgharar.ir%2Cigap.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 14", server: 104.25.148.191, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 798ea6aa-ebfe-4636-aee6-b17b8eafe473, servername: de001c.ketabv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: uqBYRQhpA2NzSIhejwuqjz, headers: {Host: de001c.ketabv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7106] - Telegram : @configraygan", server: 104.18.34.21, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e, network: ws, ws-opts: {path: /9PnUgtdLG8Br, headers: {Host: spring-flower-3254.magicnight101.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7069] - Telegram : @configraygan", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: parmis-1tk63j.parmis.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parmis-1tk63j.parmis.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇹🇷 Turkey, Izmir [BL]", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 801c82f0-e350-4f10-91d5-731d02a6de04, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: c7b99d06}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -620,15 +614,13 @@ proxies:
   - {name: "🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2", server: 82.146.38.194, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 895f80be-902e-45c2-9b23-a27283edc180, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 34DUDsfZ0zjJ2PIspatJC8Gl-hXq9EbIRsORflvIIGw, short-id: 23c30a7eb4ecbc24}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (3)", server: us-cherry-01.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a35152a-b65c-4f6b-aec4-7844d5f9e6d8, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EMS0wzISeSbEe4JABPD8EgDnyLXgDmrX4_lcfG6VVX4, short-id: c76ba2c2fb172e8b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 15", server: 193.242.125.18, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8db31176-aed6-402d-aa1b-a8b04b5c3b48, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 10", server: 193.242.125.18, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8db31176-aed6-402d-aa1b-a8b04b5c3b48, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (2) 2", server: 45.82.251.115, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7072] - Telegram : @configraygan", server: pqh18v7.viripdirect.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: WS-TLS | @Express_alaki | src @anotherme_night, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fc83032-cb7e-4626-8058-f7051a68eb7b, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /44.217.235.114=2053, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7116] - Telegram : @configraygan", server: 62.133.60.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn12.suio.me, host: decdn12.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7110] - Telegram : @configraygan", server: decdn11.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn11.suio.me, host: decdn11.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7118] - Telegram : @configraygan", server: decdn12.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn12.suio.me, host: decdn12.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7100] - Telegram : @configraygan", server: 95.217.137.22, port: 59917, type: vless, tls: true, packet-encoding: xudp, uuid: 974290ec-e4e8-4843-a680-fc2b29cc6e8d, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 16", server: vip-80.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: 991519c1-3680-49b7-bb9f-9029a7a39067, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇫🇷 France, Paris [BL]", server: 89.232.177.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9d648533-ee78-4250-bcb3-65ed18701852, servername: ru87.strelkavpn.com, host: ru87.strelkavpn.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: g8w_lkoZMhLKAS8h6OkJ9iojoUWJXwL5hCP6T0niUw4, short-id: d3b42de4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7068] - Telegram : @configraygan", server: www.visa.com.mt, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: "/🔒 [by ebrasha]", headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7119] - Telegram : @configraygan", server: 84.54.48.238, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a25806c0-0e09-46a2-bd27-a94e92285ce9, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0, short-id: 3cc8ceccd9de7f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -640,10 +632,8 @@ proxies:
   - {name: DigitalOcean LLC, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /209.97.173.243=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: SGPVULTRCUST, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /66.42.51.60=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇹🇷 Turkey, Izmir [BL] 2", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad5e032f-d29d-4f94-936a-a7c6dc1c42d5, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 049e6b71c24337}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ☢️35@unvisible_drops, server: 38.180.144.156, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ae0a43bc-6189-456e-9b8a-a93f39af336e, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s, short-id: 42d7234d875308a2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7089] - Telegram : @configraygan", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b540bc90-daef-4392-b1af-d131e572acaf, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7079] - Telegram : @configraygan", server: ge1.v2vml.ga, port: 52496, type: vless, tls: true, packet-encoding: xudp, uuid: b9581975-5527-4432-a89b-aa848a6b8a98, servername: ge1.v2vml.ga, network: ws, ws-opts: {path: /, headers: {Host: ge1.v2vml.ga}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 17", server: zone.kr.lopzo.ir, port: 47880, type: vless, tls: true, packet-encoding: xudp, uuid: bdf97c06-ae1f-47e9-b47a-9d9ff47b5820, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇵🇱 Poland, Warsaw [BL]", server: 89.232.177.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c3e06f32-3009-4a11-94af-10028b3dc05e, servername: finder.strelkavpn.ru, host: finder.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _PtIcz5TCqpHBG6Xxi85mBaDT5cogsEPIYXlyKc9g2A, short-id: bc8074b9a0f0e964}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7121] - Telegram : @configraygan", server: 62.60.233.57, port: 33895, type: vless, tls: true, packet-encoding: xudp, uuid: c5434982-3de9-4358-ad50-1d66b11f3354, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: wuCVyrTGxRwcTTvyd2qwKkH8KVphEppAyYRKAn1Z83w, short-id: 96b4c216341b08ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Anycast-IP | RS, SK | [BL]", server: 80.249.131.236, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c826e893-bc08-4500-b298-2208eb1ae903, servername: yt.fasssst.ru, host: yt.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EPR1I26IOfbKgiuzGKAlA94Xxca_cqNGH4AwvblhKGc, short-id: 487d1b23cef113f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -654,8 +644,6 @@ proxies:
   - {name: "🇬🇧 United Kingdom, Coventry [BL]", server: 45.151.30.173, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d25caaab-e4b7-419f-9753-7229c7287f55, servername: ang12.fasssst.ru, host: ang12.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkukwtrnUTnH3H7HtmWdxZV6axzxP-yE63TcviTR9jA, short-id: 64318fb6091432}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇹🇷 Turkey, Izmir [BL] 3", server: 89.23.113.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5583414-78d7-4beb-a2eb-d757125134e5, servername: tr8.strelkavpn.ru, host: tr8.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NWc6qd6XVh3Gn_Sc8-hLcXw0X-txuJmYglQkf0bHTRw, short-id: f7f8b6f7771af9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇮🇹 Italy, Arezzo [BL] 5", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9235a61-5882-4e8e-9e00-f935a5068394, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 18", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/--Telegram---@MiTiVPN/---@MiTiVPN?/Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN---Telegram-MTMVPN?ed=2560", headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 19", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7120] - Telegram : @configraygan", server: 185.138.164.2, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7081] - Telegram : @configraygan", server: 185.231.205.164, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7095] - Telegram : @configraygan", server: 185.231.205.167, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: df0680ca-e43c-498d-ed86-8e196eedd012, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -675,19 +663,15 @@ proxies:
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-5131", server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 6354585c37827955}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG 3", server: 95.182.97.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: fr.cdn.stun.su, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], host: fr.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8LWgKu6h8cXgOAixKaKPdGponKkAeQaq-IszDEQ4ojM, short-id: 3bdec72a5a0ffd84}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Anycast-IP | SK, TR | [BL]", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f19f22be-134b-4904-8347-245f31fe3800, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 68039fa078}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 20", server: 94.182.151.29, port: 8587, type: vless, tls: true, packet-encoding: xudp, uuid: f3db0ad5-ea47-41b6-be3d-d0d188c0de1b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (62)", server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [OpenRay] 🇷🇺 RU-4722", server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (1)", server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 6354585c37827955}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG  (14)", server: 51.250.4.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 7426b0c03ef009dc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@FREE2CONFIG 4", server: 51.250.86.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f625ba3b-93dc-4a87-9e69-f39a2f16ff98, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: e55fd8f9c9a9a0ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 21", server: 45.12.30.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7078] - Telegram : @configraygan", server: 45.12.30.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 22", server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7113] - Telegram : @configraygan", server: 79.133.180.45, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f8ffc2f3-9d01-41f8-9b8a-833ea3176318, servername: m.ok.ru, host: m.ok.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ, short-id: d7325e33}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7102] - Telegram : @configraygan", server: 67.159.24.166, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-397456379-1771019066252887, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇰🇷 South Korea, Cheonan-si [BL]", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 23", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 Germany, Frankfurt am Main [BL] 5", server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7084] - Telegram : @configraygan", server: 43.162.114.137, port: 59674, type: vmess, uuid: 6a4ce5b9-0d60-4a21-a8fe-897798019500, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7132] - Telegram : @configraygan", server: 45.89.52.207, port: 39651, type: vmess, uuid: ac4c12c5-45f2-4398-a718-9983941ede2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -704,7 +688,6 @@ proxies:
   - {name: "[7098] - Telegram : @configraygan", server: tgju.org, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
   - {name: 124 - TR - VMess/WS - 80, server: tr1-smart.adelping.com, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tr1-smart.adelping.com}}, udp: true, tfo: false}
   - {name: "[7144] - Telegram : @configraygan", server: db03.eagledns.org, port: 2087, type: vmess, uuid: 3d5c0d11-b665-4a67-9180-d81439b67bf7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 24", server: fi.srvtogo.com, port: 9970, type: vmess, uuid: 704dfc67-26ff-4a5c-9e39-c1f614c7b3a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7103] - Telegram : @configraygan", server: fi.srvtogo.com, port: 9970, type: vmess, uuid: 704dfc67-26ff-4a5c-9e39-c1f614c7b3a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7134] - Telegram : @configraygan", server: njk.222560.xyz, port: 443, type: vmess, uuid: 13ad36e6-c091-43f2-8505-47d868dd544c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: njk.222560.xyz, network: ws, ws-opts: {path: /YsmRouA9ZbxgW4, headers: {Host: njk.222560.xyz}}, udp: true, tfo: false}
 proxy-groups:
@@ -749,25 +732,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -785,10 +764,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -862,12 +841,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -878,15 +855,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -898,10 +873,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -912,8 +885,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -933,19 +904,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -962,7 +929,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: خودکار (بهترین پینگ) 🤖
@@ -997,25 +963,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -1033,10 +995,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -1110,12 +1072,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -1126,15 +1086,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -1146,10 +1104,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -1160,8 +1116,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -1181,19 +1135,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -1210,7 +1160,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -1245,25 +1194,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -1281,10 +1226,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -1358,12 +1303,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -1374,15 +1317,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -1394,10 +1335,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -1408,8 +1347,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -1429,19 +1366,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -1458,7 +1391,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: اتصال پایدار 🔗
@@ -1502,25 +1434,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -1538,10 +1466,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -1615,12 +1543,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -1631,15 +1557,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -1651,10 +1575,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -1665,8 +1587,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -1686,19 +1606,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -1715,7 +1631,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: توزیع بار (گردشی) 🔁
@@ -1750,25 +1665,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -1786,10 +1697,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -1863,12 +1774,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -1879,15 +1788,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -1899,10 +1806,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -1913,8 +1818,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -1934,19 +1837,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -1963,7 +1862,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: توزیع بار (موقت) ⏳
@@ -1998,25 +1896,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
       - 🇳🇱 The Netherlands, Amsterdam 2
       - 🇳🇱 353 - NL - SS/AEAD - 8080
       - 🇳🇱 356 - NL - SS/AEAD - 8080
       - 🇳🇱 The Netherlands, Amsterdam 3
-      - "@filembad"
       - 🇺🇸 [OpenRay] 🇺🇸 US-12652
       - 🇬🇧 [OpenRay] 🇬🇧 GB-371
       - "[7147] - Telegram : @configraygan"
       - "[7083] - Telegram : @configraygan"
       - "[7129] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 7"
       - 🇺🇸 92 - US - Trojan/WS/TLS/UTLS - 443
       - "[7056] - Telegram : @configraygan"
       - "[7050] - Telegram : @configraygan"
       - "[7073] - Telegram : @configraygan"
       - "[7093] - Telegram : @configraygan"
       - "[7112] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 8"
       - 🇺🇸 46 - US - VLESS/GRPC/TLS - 443
       - 🇷🇺 59 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
       - 🇷🇺 66 - RU - VLESS/WS/TLS - 8443
@@ -2034,10 +1928,10 @@ proxy-groups:
       - "[7107] - Telegram : @configraygan"
       - 🇮🇹 Italy, Arezzo [BL] 2
       - "[7051] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 6"
+      - "@PewezaVPN (تلگرام) 7"
       - "[7145] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 11"
+      - "@PewezaVPN (تلگرام) 8"
       - "[7114] - Telegram : @configraygan"
       - "[7108] - Telegram : @configraygan"
       - "[7115] - Telegram : @configraygan"
@@ -2111,12 +2005,10 @@ proxy-groups:
       - "[7104] - Telegram : @configraygan"
       - 🇷🇺 621 - RU - VLESS/REALITY/PBK/SID/VISION/UTLS - 8443
       - 🇩🇪 641 - DE - VLESS/REALITY/PBK/SID/VISION/UTLS - 443
-      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 9"
       - "@FREE2CONFIG  (95)"
       - 🇳🇱 683 - NL - VLESS - 42206
       - "@FREE2CONFIG"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
       - "[7106] - Telegram : @configraygan"
       - "[7069] - Telegram : @configraygan"
       - 🇹🇷 Turkey, Izmir [BL]
@@ -2127,15 +2019,13 @@ proxy-groups:
       - 🇩🇪 Anycast-IP | [E] | DE, NL | [BL] 2
       - 🇩🇪 Anycast-IP | [H] | DE, NL | [BL] 2
       - "@FREE2CONFIG  (3)"
-      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 10"
       - "@FREE2CONFIG  (2) 2"
       - "[7072] - Telegram : @configraygan"
-      - WS-TLS | @Express_alaki | src @anotherme_night
       - "[7116] - Telegram : @configraygan"
       - "[7110] - Telegram : @configraygan"
       - "[7118] - Telegram : @configraygan"
       - "[7100] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 16"
       - 🇫🇷 France, Paris [BL]
       - "[7068] - Telegram : @configraygan"
       - "[7119] - Telegram : @configraygan"
@@ -2147,10 +2037,8 @@ proxy-groups:
       - DigitalOcean LLC
       - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
-      - ☢️35@unvisible_drops
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 17"
       - 🇵🇱 Poland, Warsaw [BL]
       - "[7121] - Telegram : @configraygan"
       - Anycast-IP | RS, SK | [BL]
@@ -2161,8 +2049,6 @@ proxy-groups:
       - 🇬🇧 United Kingdom, Coventry [BL]
       - 🇹🇷 Turkey, Izmir [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 5
-      - "@PewezaVPN (تلگرام) 18"
-      - "@PewezaVPN (تلگرام) 19"
       - "[7120] - Telegram : @configraygan"
       - "[7081] - Telegram : @configraygan"
       - "[7095] - Telegram : @configraygan"
@@ -2182,19 +2068,15 @@ proxy-groups:
       - 🇷🇺 [OpenRay] 🇷🇺 RU-5131
       - "@FREE2CONFIG 3"
       - Anycast-IP | SK, TR | [BL]
-      - "@PewezaVPN (تلگرام) 20"
       - "@FREE2CONFIG  (62)"
       - 🇷🇺 [OpenRay] 🇷🇺 RU-4722
       - "@FREE2CONFIG  (1)"
       - "@FREE2CONFIG  (14)"
       - "@FREE2CONFIG 4"
-      - "@PewezaVPN (تلگرام) 21"
       - "[7078] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 22"
       - "[7113] - Telegram : @configraygan"
       - "[7102] - Telegram : @configraygan"
       - 🇰🇷 South Korea, Cheonan-si [BL]
-      - "@PewezaVPN (تلگرام) 23"
       - 🇩🇪 Germany, Frankfurt am Main [BL] 5
       - "[7084] - Telegram : @configraygan"
       - "[7132] - Telegram : @configraygan"
@@ -2211,7 +2093,6 @@ proxy-groups:
       - "[7098] - Telegram : @configraygan"
       - 124 - TR - VMess/WS - 80
       - "[7144] - Telegram : @configraygan"
-      - "@PewezaVPN (تلگرام) 24"
       - "[7103] - Telegram : @configraygan"
       - "[7134] - Telegram : @configraygan"
   - name: دانلود منیجر 📥

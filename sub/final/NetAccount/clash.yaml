@@ -470,15 +470,12 @@ proxies:
   - {name: NetAccount` 3, server: 154.205.150.157, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: NetAccount` 4, server: 185.255.123.110, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: NetAccount` 5, server: 38.54.59.180, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: dendenmark.madarhome.ir, port: 2075, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: engen.madarhome.ir, port: 2076, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: finfil.madarhome.ir, port: 2074, type: vless, tls: true, packet-encoding: xudp, uuid: 30ad109c-f1cf-40bc-a647-65a5079c65fe, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 160.153.1.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: 209.102.207.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: osn.takovpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79b5b31e-9557-4ea6-9ec5-450d7cdefecd, servername: google.com, host: google.com, path: /, reality-opts: {public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g, short-id: 1283729a0a9c1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: spb.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: spb.scroogethebest.com, host: spb.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 13, server: usa.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: usa.scroogethebest.com, host: usa.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 14, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 188.132.183.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: 2gis.kz, host: 2gis.kz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 79.133.57.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: www.nvidia.com, host: www.nvidia.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 160.153.1.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: 209.102.207.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: osn.takovpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79b5b31e-9557-4ea6-9ec5-450d7cdefecd, servername: google.com, host: google.com, path: /, reality-opts: {public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g, short-id: 1283729a0a9c1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: you2.configyous.site, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: 9f269466-4cfc-4bc0-8982-c51f73a46a9c, host: "skyroom.online,gharar.ir,igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @KIA_NET💥, server: 45.13.227.118, port: 80, type: vmess, uuid: 8ce64662-f8b8-4955-bdf2-a55b821bc4aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: ......................................................................................()...........................................................................................................................................................................................................................................................}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -507,9 +504,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -528,9 +522,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -549,9 +540,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: اتصال پایدار 🔗
     type: url-test
@@ -579,9 +567,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -600,9 +585,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -621,9 +603,6 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
-      - NetAccount` 13
-      - NetAccount` 14
       - ⚡️Telegram - @KIA_NET💥
   - name: دانلود منیجر 📥
     type: select

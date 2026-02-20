@@ -92,6 +92,7 @@ trojan://humanity@104.18.32.37:443?path=/assignment&security=tls&insecure=0&fp=c
 trojan://humanity@104.18.32.47:443/?type=ws&host=www.multiplydose.com&path=/assignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&type=ws&allowInsecure=1&sni=www.multiplydose.com#
 trojan://humanity@172.64.152.23:443/?type=ws&host=www.calmlunch.com&path=/assignment&security=tls&sni=www.calmlunch.com#
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#
 trojan://humanity@172.64.152.23:443?security=tls&sni=www.creationlong.org&allowInsecure=1&type=ws&host=www.creationlong.org&path=%2Fassignment#
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#
@@ -132,18 +133,22 @@ trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com
 trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#
 trojan://iwangjie@135.125.232.253:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&sni=nodes.830901.xyz#
 trojan://iwangjie@135.125.232.253:2053?type=ws&security=tls&path=%252F%253Fed%253D2560&host=nodes.830901.xyz&sni=nodes.830901.xyz&allowInsecure=1#
+trojan://jNiOgXGnqa@47.245.156.110:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#
+trojan://jNiOgXGnqa@cbxpsntbsixt.eu-central-1.clawcloudrun.com:36659?security=reality&headerType=none&fp=chrome&type=tcp&sni=play.google.com#
 trojan://jTT1K.bu%3C
 trojan://pywmagxiFko7@myanmar.visa.com:8443?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#
 trojan://pywmagxiFko7@www.visa.com.br:2087?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#
 trojan://pywmagxiFko7@www.visaeurope.ch:2083?encryption=none&security=tls&sni=cfpro.il.ip-ddns.com&fp=randomized&type=ws&host=cfpro.il.ip-ddns.com&path=%2F%3Fed%3D2560#
 trojan://telegram-id-directvpn@13.39.26.127:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 trojan://telegram-id-directvpn@13.39.26.127:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://telegram-id-directvpn@15.236.213.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@3.120.252.86:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 trojan://telegram-id-directvpn@3.120.252.86:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@52.47.60.26:22223?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 trojan://telegram-id-directvpn@63.183.85.55:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@13.39.26.127:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 trojan://telegram-id-privatevpns@13.39.26.127:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
+trojan://telegram-id-privatevpns@15.236.213.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@3.120.252.86:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-privatevpns@52.47.60.26:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.burgerip.co.uk&type=tcp#
 trojan://telegram-id-privatevpns@63.183.85.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
@@ -153,3 +158,4 @@ trojan://wp9IsiY82uQhcmgNC1eoBM@80.173.231.254:12420?security=tls&sni=%F0%9F%94%
 trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?path=/f2fc2a1f&security=tls&host=free-de-3.undef.network&type=ws&sni=free-de-3.undef.network#
 trojan://yoi9VG3vimwIPZf4hoYwWJ8SW@free-de-3.undef.network:443?security=tls&type=ws&host=free-de-3.undef.network&path=/f2fc2a1f#
 trojan://zWFjJENcljZm@usa.visa.com:443?security=tls&type=ws&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&path=/?ed=2560#
+trojan://zp630tdUuD@194.150.166.151:52047?mode=gun&security=reality&pbk=4o28aGSIz_r6Fa9sG7ZjgeT764t3bVJKmC9RDwIff38&fp=chrome&spx=%2F&type=grpc&sni=aws.amazon.com&sid=1abe0c286879#

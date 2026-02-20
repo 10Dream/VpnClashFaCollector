@@ -468,16 +468,10 @@ proxies:
   - {name: "@mehrosaboran", server: 162.159.194.86, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran 2", server: 45.130.125.160, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🫶***, server: 144.31.92.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45d95284-05ce-4e8b-ad84-a6bcdfebcb59, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔***", server: 45.130.125.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 472b07d2-31e4-41ab-ae47-48914d9b7900, servername: fi.unoix.io, network: ws, ws-opts: {path: /Net3rffws, headers: {Host: fi.unoix.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 2", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 472b07d2-31e4-41ab-ae47-48914d9b7900, servername: fi.unoix.io, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Net3rffgrpc}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 3", server: termux.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 472b07d2-31e4-41ab-ae47-48914d9b7900, servername: fi.unoix.io, network: ws, ws-opts: {path: /Net3rffws, headers: {Host: fi.unoix.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@VPNSSHOCEAN 4 POD", server: cdnjs.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 5a923f93-30d2-4f8b-ba28-afc637901e54, servername: kh2tiyozkxybazdibomyhih.mahdi383ir.website, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /@mahdi_383ir, headers: {Host: kh2tiyozkxybazdibomyhih.mahdi383ir.website}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***👏***, server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🙌***, server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@VPNSSHOCEAN 6 POD", server: cdnjs.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8edf51a7-a211-428d-9685-e6c71959ab9f, servername: kh2tiyozkxybazdibomyhih.mahdi383ir.website, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /@mahdi_383ir, headers: {Host: kh2tiyozkxybazdibomyhih.mahdi383ir.website}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran`", server: fix130.wizard2shop.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9ec38c74-61b6-4aff-8501-0cf7ae45dcc3, servername: x1.pishi.lat, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: x1.pishi.lat}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran` 2", server: 3.72.18.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@VPNSSHOCEAN 5 POD", server: cdnjs.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: cdddbb3f-5481-4d12-e3ee-597f97910d21, servername: kh2tiyozkxybazdibomyhih.mahdi383ir.website, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /@mahdi_383ir, headers: {Host: kh2tiyozkxybazdibomyhih.mahdi383ir.website}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,16 +491,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -516,16 +504,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -535,16 +517,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -563,16 +539,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -582,16 +552,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -601,16 +565,10 @@ proxy-groups:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - ⚡Telegram - @prrofile_purple***🫶***
-      - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
-      - "@VPNSSHOCEAN 4 POD"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
-      - "@VPNSSHOCEAN 6 POD"
       - "@mehrosaboran`"
       - "@mehrosaboran` 2"
-      - "@VPNSSHOCEAN 5 POD"
   - name: دانلود منیجر 📥
     type: select
     proxies:

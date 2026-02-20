@@ -1,5 +1,30 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-02-19 20:27:02 UTC
+بروزرسانی: 2026-02-20 01:07:26 UTC
+
+### 🕒 2026-02-19 21:17:53 UTC
+***🌙***
+
+---
+
+### 🕒 2026-02-19 21:17:44 UTC
+***✔️***
+ В подписку : 
+***➡️***
+[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
+Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
+***➡️***
+[Subscription](https://t.me/oneclickvpnkeys/22590)
+ is updated!
+Run the test and find the optimal configuration for you.
+***👈***
+[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
+!
+تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
+***🤩***
+ 
+[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
+
+---
 
 ### 🕒 2026-02-19 17:40:06 UTC
 ***⭐️***
@@ -748,31 +773,6 @@ for V2RayNG, V2box, happ
 [proxy](https://t.me/proxy?server=91.239.192.86&amp;port=65443&amp;secret=10446282fffffffffff80000fff80000)
 | 
 ***💎***
-[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-
----
-
-### 🕒 2026-02-17 21:07:55 UTC
-***🌙***
-
----
-
-### 🕒 2026-02-17 21:07:47 UTC
-***✔️***
- В подписку : 
-***➡️***
-[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
-Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
-***➡️***
-[Subscription](https://t.me/oneclickvpnkeys/22590)
- is updated!
-Run the test and find the optimal configuration for you.
-***👈***
-[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
-!
-تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
-***🤩***
- 
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
 
 ---

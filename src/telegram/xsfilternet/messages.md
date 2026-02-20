@@ -1,5 +1,30 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-19 20:28:36 UTC
+بروزرسانی: 2026-02-20 01:09:02 UTC
+
+### 🕒 2026-02-19 22:58:00 UTC
+درود به همه رفقا به لطف داش حسین کد اختصاصی چنل رو راه اندازی کردم داخل اپلیکیشن 
+[Mahsang](https://play.google.com/store/apps/details?id=com.MahsaNet.MahsaNG)
+ شما با زدن این کد میتونید دسترسی به 
+[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
+ های رایگان و 
+[#نامحدود](?q=%23%D9%86%D8%A7%D9%85%D8%AD%D8%AF%D9%88%D8%AF)
+ ما داشته باشید!
+***🔥***
+***🥶***
+کدی که باید وارد کنید:
+`bec3c324`
+[@xsfilternet](https://t.me/xsfilternet)
+[@Irdevs_dns](https://t.me/Irdevs_dns)
+
+---
+
+### 🕒 2026-02-19 21:59:10 UTC
+درود به همه رفقا ساب #اختصاصی چنل ما هدیه از یک دوست(مهدی) داخل ساب ۱۷ تا کانفیگ اد شده روی همه نتا متصل و پرسرعت بدون #محدودیت لذت ببرید رفقا
+***💫***
+***🚀***
+ (کلیک کنید کپی شه)  https://khsub.mahdi383ir.website/odyig5ctzqa8ykq1wuup/rkjzq97e2wjfdqgk   @xsfilternet
+
+---
 
 ### 🕒 2026-02-19 18:57:54 UTC
 vless://12808e09-a11a-45b5-b299-191cda50f681@core.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%2F%F0%9F%87%BA%F0%9F%87%B8%2F%F0%9F%87%AB%F0%9F%87%B7%20%40orangvpn
@@ -156,34 +181,6 @@ Npv Tunnel
 - با هر دو هسته xray و sing-box سازگار هستند.
 [https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox](https://raw.githubusercontent.com/frank-vpl/servers/refs/heads/main/irbox)
 احتمال میدم که، روی همراه اول فیلتر باشه. ولی یا ایرانسل تست شده.
-
----
-
-### 🕒 2026-02-17 23:04:38 UTC
-دور زدن 
-[#فیلترینگ](?q=%23%D9%81%DB%8C%D9%84%D8%AA%D8%B1%DB%8C%D9%86%DA%AF)
- با کانفیگ سرورلس با ترکیب nekob9x و v2rayng
-لینک کانفیگ nekobox
-***👇***
-***🥶***
-[https://pastebin.com/raw/rWeHKSt3](https://pastebin.com/raw/rWeHKSt3)
-لینک کانفیگ v2rayng
-***👇***
-***🚀***
-[https://pastebin.com/raw/Yfymhyy5](https://pastebin.com/raw/Yfymhyy5)
-هر دو کلاینت رو، رو حالتvpnبزارید .
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-17 21:50:37 UTC
-[162.159.192.8:903](http://162.159.192.8:903/)
-[162.159.192.6:864](http://162.159.192.6:864/)
-این دوتا اندپوینت متصله تست کنید رفقا
-***☯️***
-***🫰***
-(OBLIVION,WIREGURD)
-[@xsfilternet](https://t.me/xsfilternet)
 
 ---
 

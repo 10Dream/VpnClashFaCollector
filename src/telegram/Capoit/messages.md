@@ -1,5 +1,14 @@
 # آرشیو کانال: @Capoit
-بروزرسانی: 2026-02-19 20:21:27 UTC
+بروزرسانی: 2026-02-20 01:03:16 UTC
+
+### 🕒 2026-02-19 20:47:18 UTC
+کانفیگ NapsternetV
+برنامه NApsternetV
+آموزش وارد کردن
+[@Capoit](https://t.me/Capoit)
+[@CapoPingBot](https://t.me/CapoPingBot)
+
+---
 
 ### 🕒 2026-02-19 18:36:30 UTC
 New V2ray
@@ -96,15 +105,6 @@ New V2ray
 ---
 
 ### 🕒 2026-02-18 13:08:06 UTC
-کانفیگ NapsternetV
-[برنامه NApsternetV](https://t.me/Capoit/31225)
-[آموزش وارد کردن](https://t.me/Capoit/31230)
-[@Capoit](https://t.me/Capoit)
-[@CapoPingBot](https://t.me/CapoPingBot)
-
----
-
-### 🕒 2026-02-17 21:01:39 UTC
 کانفیگ NapsternetV
 [برنامه NApsternetV](https://t.me/Capoit/31225)
 [آموزش وارد کردن](https://t.me/Capoit/31230)

@@ -1,5 +1,33 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-19 20:24:00 UTC
+بروزرسانی: 2026-02-20 01:05:08 UTC
+
+### 🕒 2026-02-19 21:34:56 UTC
+> ↪️ **Forwarded**
+
+صحبت‌های خواهر مانی صفرپور در مراسم چهلم برادرش در لاهیجان با حضور گسترده مردم و سنج و دمام و شعار این گل پرپر شده 
+[#هدیه_به_میهن](?q=%23%D9%87%D8%AF%DB%8C%D9%87_%D8%A8%D9%87_%D9%85%DB%8C%D9%87%D9%86)
+ شده
+[@mamlekate](https://t.me/mamlekate)
+
+---
+
+### 🕒 2026-02-19 21:10:18 UTC
+[https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=185.84.157.100&port=443&secret=dd1603010200010001fc031386e24c3add](https://t.me/proxy?server=185.84.157.100&port=443&secret=dd1603010200010001fc031386e24c3add)
+[https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D](https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+[https://t.me/proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D](https://t.me/proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-19 21:03:50 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
 
 ### 🕒 2026-02-19 19:39:14 UTC
 عرزشی چجوری فهمیدی چی گفتم که عصبی شدی

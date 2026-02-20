@@ -1,5 +1,30 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-19 20:24:24 UTC
+بروزرسانی: 2026-02-20 01:05:33 UTC
+
+### 🕒 2026-02-19 22:17:50 UTC
+***🔴***
+ 
+**فیلترشکن Mona VPN (اندروید)**
+• نسخه 8.0
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+وصل نشد، مجدداً برای اتصال تلاش کنید.
+***📥***
+[دانلود MonaVPN از گوگل پلی ](https://play.google.com/store/apps/details?id=com.bddena.mona.monavp)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-19 21:25:59 UTC
+سرور ویتوری 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%A5%9D
+vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8C%B6%EF%B8%8F
+vless://c02c072f-39ba-46bd-ba66-4791a6ccfbde@runtomon.runtome.sbs:4000?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%AB%92
+trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8E%AD
+vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@L-i-qstream.khoone-khoobe-liqshowpars-q.ir:2002?security=reality&encryption=none&pbk=OUCuy7eLQ6hjd1YCAiYE669Hxylv1lNVfKNvtCbKjWs&headerType=none&fp=firefox&spx=%2Fliqvps.ir&type=tcp&sni=tgju.org&sid=85b6875cdc4f468c#%40vpnbaz%20%E2%98%82%EF%B8%8F
+vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@w-w-w-yoyoliqip-irancell-co2.mobilekonj.ir:8443?mode=auto&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=r-ru3-esteghlaliran.hyuundaiyadak.ir#%40vpnbaz%20%F0%9F%AA%B7
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-19 19:40:20 UTC
 سرور ویتوری 
@@ -9,35 +34,6 @@ vless://edc05328-3e8b-4268-ac76-0af4e53fdf81@94.156.237.204:2051?security=realit
 vless://b9dbc1ff-6364-4826-a973-71c0584116c4@185.227.70.39:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=dropbox.com#%40vpnbaz%20%F0%9F%8C%99
 vless://c4d9855b-7eac-44ab-a8a5-d811f371df1b@51.250.0.147:443?security=reality&encryption=none&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&sid=c8597fb67d55d9c4#%40vpnbaz%20%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-19 19:40:04 UTC
-> ↪️ **Forwarded**
-
-***🚀***
- اختلال و قطعی سرور؟ 
-**WIZARD**
- 
-**VPN**
- کم نمیاره! 
-***🎁***
- 
-در شرایطی که، فیلترشکن‌ها 
-**اختلال**
- دارند
-***🇮🇷***
-***🇮🇷***
- 
-**اشتراک‌های WIZARD مثل همیشه**
- …
-کاملا متصل با بهترین سرعت فعال هستند.
-***⭐️***
-***🎁***
- رهایی کامل از فیلترینگ بدون ذره‌ای اختلال
-***👇***
-***👇***
-***👇***
 
 ---
 
@@ -263,33 +259,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpFMTJ5WkJQQzd5OFNubWtTWWpmMFds@62.133.63.167:61377#%40vpnbaz%20%F0%9F%8E%AF
 vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@104.18.12.149:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=pablo-n2.digionix.ir&type=xhttp#%40vpnbaz%20%F0%9F%8F%80
 vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#%40vpnbaz%20%F0%9F%8F%B3%EF%B8%8F
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-17 21:57:22 UTC
-***🟣***
- 
-**فیلترشکن Nebu VPN (اندروید)**
-• نسخه 1.1113 
-نسخه مود شده و بدون محدودیت 
-****
-امکان اتصال خودکار به بهترین سرور.
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/83im752u4r1z/Nebu.apk.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-17 21:26:21 UTC
-سرور ویتوری 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#%40vpnbaz%20%F0%9F%A5%81
-trojan://7M72gQuaaH@148.251.173.125:16512?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0#%40vpnbaz%20%F0%9F%8E%B1
-vless://e6cf712c-7c48-466c-aaed-4154b276a4a4@91.107.208.24:443?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8D%87
-vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engeng.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8C%B5
-trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40vpnbaz%20%F0%9F%AB%9F
-vless://41666e59-9e5c-45fb-b083-fa34a5b62a05@pol2.linkey37.ru:443?security=reality&encryption=none&pbk=QRvZBf0tz7ij9V7L4MjXkHoMkdDAbwc-UzyDt-PLshU&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#%40vpnbaz%20%E2%98%82%EF%B8%8F
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

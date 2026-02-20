@@ -465,10 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇭🇰 | HK | 854ms | Server, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 882ms |, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 565ms |, server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 832ms | freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 984ms | freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt", server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1358ms | freenet_vt, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 1034ms | freenet_vt, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 634ms | freenet_vt, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 716ms | freenet_vt, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt 3", server: 77.90.41.197, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 | HK | 795ms | Server, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt 4", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @meliproxyy", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt 5", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | freenet_vt`", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +499,72 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +580,72 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 | HK | 854ms | Server
-      - 🇭🇰 | HK | 867ms | 🇭🇰 Hong Kong, Hong Kong [BL]
-      - 🇭🇰 | HK | 882ms |
+      - "| null | 99999ms |"
+      - 🇯🇵 | JP | 565ms |
+      - 🇳🇱 | NL | 832ms | freenet_vt
+      - "| null | 99999ms | 2"
+      - 🇳🇱 | NL | 984ms | freenet_vt
+      - "| null | 99999ms | freenet_vt"
+      - 🇳🇱 | NL | 1358ms | freenet_vt
+      - 🇳🇱 | NL | 1034ms | freenet_vt
+      - 🇳🇱 | NL | 634ms | freenet_vt
+      - 🇳🇱 | NL | 716ms | freenet_vt
+      - "| null | 99999ms | freenet_vt 2"
+      - "| null | 99999ms | freenet_vt 3"
+      - 🇭🇰 | HK | 769ms | 🇭🇰 Hong Kong, Hong Kong [BL]
+      - 🇭🇰 | HK | 795ms | Server
+      - "| null | 99999ms | freenet_vt 4"
       - "| null | 99999ms | @meliproxyy"
+      - "| null | 99999ms | freenet_vt 5"
+      - "| null | 99999ms | freenet_vt`"
   - name: دانلود منیجر 📥
     type: select
     proxies:

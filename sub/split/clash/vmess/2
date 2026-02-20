@@ -465,8 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "🇷🇺 [openproxylist.com] vmess-RU", server: xg1a5.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a5.waimaohots.com}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: xg1a1.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a1.waimaohots.com}}, udp: true, tfo: false}
+  - {name: "", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - 🇺🇸 [openproxylist.com] vmess-US
+      - ""
   - name: دانلود منیجر 📥
     type: select
     proxies:

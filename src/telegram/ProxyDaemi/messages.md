@@ -1,5 +1,31 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-19 20:23:06 UTC
+بروزرسانی: 2026-02-20 01:04:14 UTC
+
+### 🕒 2026-02-19 21:48:55 UTC
+دردی که به اشتراک گذاشته شود، نصف میشود؛ و شادی ای که به اشتراک گذاشته شود، دو برابر میشود!
+گویا با هم بودن در سختی‌ها و شادی‌ها حال دل آدم را بهتر میکند...
+[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-19 20:17:54 UTC
 نیمی از نگرانی‌های مامربوط به 
@@ -182,83 +208,6 @@ Sponsored by
 [@rainbetcom](https://t.me/rainbetcom)
  - 
 [rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 10:39:20 UTC
-***💰***
-ریتزوبت تنها سایت بین المللی میباشد ، که به صورت هفتگی پرومو کد ثابت دریافت میکنید
-****
-**🙏**
-** **
-[آموزش شارژ حساب با کریپتو](https://t.me/Ritzobet_ir/2587)
-****
-**🙏**
-** **
-[آموزش شارژ حساب  ریالی در ریتزوبت](https://t.me/Ritzobet_ir/2588)
-***✅***
-ریتزوبت برندی با لایسنس معتبر در صنعت 
-[شرطبندی](https://t.me/Ritzobet_ir/3104)
- و 
-[پیشبینی](https://t.me/Ritzobet_ir/3104)
- مسابقات ورزشی و کازینویی 
-***👇***
-[https://t.me/+LB508WZyIr8xNmY0](https://t.me/+LB508WZyIr8xNmY0)
-
----
-
-### 🕒 2026-02-19 10:39:20 UTC
-***🏴󠁧󠁢󠁥󠁮󠁧󠁿***
-**پیش بینی مهم ترین مسابقات فوتبال در سایت بین المللی**
- 
-[**ریتزوبت**](https://RitzoBet.com/)
- 
-***💯***
-****
-***🤝***
- 
-[**فنرباغچه**](https://RitzoBet.com/)
- 
-***🆚***
- 
-[**فارست**](https://RitzoBet.com/)
-***🤝***
- 
-[**لیل**](https://RitzoBet.com/)
- 
-***🆚***
-[** ستاره سرخ بلگراد**](https://RitzoBet.com/)
-***1️⃣***
-***2️⃣***
-***3️⃣***
-***4️⃣***
- 
-***1️⃣***
-***2️⃣***
-***3️⃣***
- 
-***1️⃣***
-***2️⃣***
-***3️⃣***
-***4️⃣***
-***⚡️***
- بونوس 100% بونوس اولین واریز 
-***⚡️***
- بونوس 100% ورزشی یکشنبه‌ ها 
-***⚡️***
- آپشن های متنوع با ضریب بالا
-***📲***
-[**اپلیکیشن موبایل برای اندروید**](https://t.me/Ritzobet_ir/3141)
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***⚡️***
-پشتیبان فارسی سایت ریتزوبت 
-***👇***
-***🅰***
-r30
-***⚡️***
-[@RitzoBetsupports](https://t.me/RitzoBetsupports)
 
 ---
 

@@ -1,5 +1,71 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-19 20:22:53 UTC
+بروزرسانی: 2026-02-20 01:04:01 UTC
+
+### 🕒 2026-02-19 23:50:44 UTC
+ساب V2ray
+`https://sany0116.jullianna.workers.dev/auto?b64`
+کپی کنید توی برنامه هایی که دارید بزنید (اگه توی هیدیفای اد میکنید نیاز به تست پینگ نیست)
+
+---
+
+### 🕒 2026-02-19 23:18:44 UTC
+[https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-02-19 22:57:40 UTC
+مراسم چهلم جاویدنام سجاد شاقلانی، ۲۹ بهمن - الوند، قزوین
+
+---
+
+### 🕒 2026-02-19 22:56:20 UTC
+مراسم چهلم جاویدنام سجاد شاقلانی، ۲۹ بهمن - الوند، قزوین
+
+---
+
+### 🕒 2026-02-19 22:36:37 UTC
+`vless://9f269466-4cfc-4bc0-8982-c51f73a46a9c@you2.configyous.site:2002?type=tcp&security=none&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#NetAccount`
+`vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#NetAccount`
+`vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?encryption=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/?ed%3D2080#NetAccount`
+`vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?security=reality&encryption=none&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=63d80d5199a2bc#NetAccount`
+`vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#NetAccount`
+
+---
+
+### 🕒 2026-02-19 21:35:16 UTC
+[https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d](https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d)
+
+---
+
+### 🕒 2026-02-19 21:25:11 UTC
+مراسم چهلم جاویدنامان پروانه خجندی و آریا علیدوست - لاهیجان
+
+---
+
+### 🕒 2026-02-19 21:23:39 UTC
+مراسم چهلم جاویدنام ارشاد شهبازی - لاهیجان
+
+---
+
+### 🕒 2026-02-19 21:00:03 UTC
+دقایقی پیش یک هواپیما متعلق به ارتش جمهوری اسلامی توی همدان سقوط کرد و یکی از خلباناش کشته شد یه خلبان دیگش هم زخمی شده
+هنوز جنگ شروع نشده تلفاتشون شروع شد
+***😂***
+
+---
+
+### 🕒 2026-02-19 20:24:30 UTC
+لحظاتی پیش:
+خبرنگار: شما امروز گفتین اتفاق بدی برای جمهوری اسلامی میفته اگه توافق نکنن
+ترامپ: واقعا اتفاق خیلی بدی میفته
+خبرنگار: واقعا چه اتفاق بدی میفته؟
+ترامپ: من که چیزی دربارش بهت نمیگم. یا به توافق خواهیم رسید یا برای اونا بدشانسی به بار خواهد اورد
+خبرنگار: اگه بخواین یه ضرب الاجل بگین اون چه زمانیه؟
+ترامپ: فکر کنم 10-15 روز کافی باشه حداکثر
+
+---
 
 ### 🕒 2026-02-19 19:22:18 UTC
 کانفیگ Npv Tunnel
@@ -321,67 +387,6 @@ Yahsat 52.5°E 11843 V 27500
 [پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
  | 
 [پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-17 23:39:48 UTC
-`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@engen.madarhome.ir:2076?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
-`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@finfil.madarhome.ir:2074?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
-`vless://30ad109c-f1cf-40bc-a647-65a5079c65fe@dendenmark.madarhome.ir:2075?security=&encryption=none&host=myket.ir&headerType=http&type=tcp#NetAccount`
-
----
-
-### 🕒 2026-02-17 22:30:16 UTC
-[https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add](https://t.me/proxy?server=makeup.duhpro.makeup&port=8443&secret=dd79e7010200010007f0030386e24c3add)
-[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-
----
-
-### 🕒 2026-02-17 21:28:11 UTC
-[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-17 20:58:28 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-17 20:46:58 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-17 20:46:06 UTC
-[https://t.me/proxy?server=135.181.1.23&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](https://t.me/proxy?server=135.181.1.23&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
-
----
-
-### 🕒 2026-02-17 20:41:47 UTC
-`vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&sid=6bb3c7f9f97b45b8&sni=nl.jojack.ru#NetAccount`
-`vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@usa.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&sid=4fa44664f6a566d3&sni=usa.scroogethebest.com#NetAccount`
-`vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@spb.scroogethebest.com:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=C3hc32Cknec2shasKJIH2DYVb7Fyu64RF9v71L3ipEg&sid=9c2378562188c3cb&sni=spb.scroogethebest.com#NetAccount`
-
----
-
-### 🕒 2026-02-17 20:36:39 UTC
-خط مستقیم «پنتاگون - خاورمیانه»، شلوغ تر از خط تاکسی‌های ونک - سیدخندان!
-داده‌های راداری نشون میده اتوبان هوایی آمریکا به سمت خاورمیانه عملا به حالت تکمیل ظرفیت رسیده. تانکرهای سوخت رسان و هواپیماهای باربری سنگین مثل C-17 و KC-135 پشت سر هم روی آتلانتیک صف کشیدن
-بزرگترین تجمع تجهیزات آمریکا از زمان جنگ‌های خلیج فارس اکنون کاملا در جریانه و باقی هفته هم بسیار شلوغ خواهد بود!
 
 ---
 

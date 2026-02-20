@@ -482,10 +482,13 @@ proxies:
   - {name: 149.102.132.186:80, server: 149.102.132.186, port: 80, type: ss, cipher: aes-256-gcm, password: YhzqOeJsfuZ9rkkc, udp: true, tfo: false}
   - {name: 5.34.222.4:43642, server: 5.34.222.4, port: 43642, type: trojan, password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3, sni: iepl.usq1.cat.bilibili.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.53.227:443, server: 58.152.53.227, port: 443, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 220.130.58.136:35502, server: 220.130.58.136, port: 35502, type: trojan, password: 6f038cee-6ba1-4941-bce5-de1969f37405, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.120.252.86:22223, server: 3.120.252.86, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.221.203:22223, server: 3.124.221.203, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.60.26:22223, server: 52.47.60.26, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.70.214:22223, server: 63.183.70.214, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.129.164:22222, server: 13.36.129.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.213.225:22222, server: 15.236.213.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.156.151.126:22222, server: 35.156.151.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.53.84:22222, server: 63.183.53.84, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.prod.n7.homes:8443, server: tr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -501,7 +504,6 @@ proxies:
   - {name: 87.121.105.127:443, server: 87.121.105.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c57c801-c2e2-4af0-8dd5-05e0d080a5e8, servername: cdnjs.com, host: cdnjs.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o, short-id: ac31827454d7f693}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.103.15.110:443, server: 94.103.15.110, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0c57c801-c2e2-4af0-8dd5-05e0d080a5e8, servername: cdnjs.com, host: cdnjs.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o, short-id: ac31827454d7f693}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 135.181.205.220:31421, server: 135.181.205.220, port: 31421, type: vless, tls: true, packet-encoding: xudp, uuid: 0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.24.97.225:443, server: 144.24.97.225, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1834316d-2b59-4239-970d-c764218bcdf2, servername: osxapps.itunes.apple.com, host: osxapps.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: h6jFhmMYpmiEmm4sxrBLBSxtgsdM5k5EUvrv1bKNFGU, short-id: 8894620bd4b91f71}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.133.57.246:443, server: 79.133.57.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: www.nvidia.com, host: www.nvidia.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.17.145.169:443, server: 85.17.145.169, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2143c858-cdf6-4971-a240-98dedc815723, servername: www.samsung.com, host: www.samsung.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.211.236.42:443, server: 80.211.236.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 29632408-8a2f-4bfc-a7b3-c8c8cdb220ac, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -509,17 +511,16 @@ proxies:
   - {name: 18.192.3.23:20096, server: 18.192.3.23, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 34.244.236.222:20096, server: 34.244.236.222, port: 20096, type: vless, tls: true, packet-encoding: xudp, uuid: 309c4bd0-7430-b8aa-2238-1075e9e29370, servername: wikipedia.org, host: wikipedia.org, path: /, reality-opts: {public-key: RlpFwwJWAb7YPkfaLyZcycZol3ejIdH8yLe0TXsJ_QA, short-id: 50a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: spb.roblugo.su:443, server: spb.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: spb.roblugo.su, host: spb.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: spb.roblugo.su:443 2, server: spb.roblugo.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 32561144-434f-4752-a731-f35cd191ba4a, servername: spb.roblugo.su, host: spb.roblugo.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24, short-id: bbfb4f7a53e22dd3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.130.125.160:443, server: 45.130.125.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 472b07d2-31e4-41ab-ae47-48914d9b7900, servername: fi.unoix.io, network: ws, ws-opts: {path: /Net3rffws, headers: {Host: fi.unoix.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 155.138.227.121:8443, server: 155.138.227.121, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.161.50.246:443, server: 5.161.50.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.182.64.209:443, server: 194.182.64.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ab80df3-5f07-4aa7-9aed-44d6db54aa3f, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 82.115.17.71:37463, server: 82.115.17.71, port: 37463, type: vless, tls: true, packet-encoding: xudp, uuid: 7228d8dc-cc98-4bc0-a953-bf89e54f689b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dd.openaccessnode.com:50 2, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.11.250.201:16604, server: 141.11.250.201, port: 16604, type: vless, tls: true, packet-encoding: xudp, uuid: 7a4b2b8c-dbc6-42d9-b4eb-ebb4e82717a3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.107.169.16:1001, server: 91.107.169.16, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 8038f7de-9bba-4ebd-8352-556bc7316c11, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: z.ssl.fastly.net:80, server: z.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 837b6716-6901-4b4d-a49f-2b6ac9306aa3, network: ws, ws-opts: {path: /, headers: {Host: gerrma.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -529,7 +530,6 @@ proxies:
   - {name: dostupbypass2.suio.me:443, server: dostupbypass2.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc, short-id: e5f67890}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.182.196.134:8443, server: 62.182.196.134, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 support.zoom.us:443, server: support.zoom.us, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7209c7e-b96f-4c95-8ff7-090f3d642d19, servername: zero.seaseus.pp.ua, network: ws, ws-opts: {path: /seaseus, headers: {Host: zero.seaseus.pp.ua}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 57.128.191.90:8443, server: 57.128.191.90, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ac754349-a3d5-4eca-990e-1119c0cff4d5, servername: www.chatgpt.com, host: www.chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FFMIZGGtmpMeCKluwyQ2qjgReo6EU8xwM7oLB-ysa2k, short-id: 59611200}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.211.141.177:443, server: 80.211.141.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c2d73a71-923a-4a53-bc4b-dfb47db20527, servername: gmail.com, host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.233.57:33895, server: 62.60.233.57, port: 33895, type: vless, tls: true, packet-encoding: xudp, uuid: c5434982-3de9-4358-ad50-1d66b11f3354, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: wuCVyrTGxRwcTTvyd2qwKkH8KVphEppAyYRKAn1Z83w, short-id: 96b4c216341b08ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.224.79.45:8080, server: 46.224.79.45, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cbf73250-e228-4fc8-95a1-3804176354be, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -540,19 +540,19 @@ proxies:
   - {name: 91.196.34.130:443, server: 91.196.34.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: da11d62c-1996-4d2c-b2e6-e89c7a1265e9, servername: decdn9.suio.me, host: decdn9.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: auths.microsrotfonline.com:443, server: auths.microsrotfonline.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dc2c7fb0-6482-4977-945b-ce0e3be94a9d, host: auths.microsrotfonline.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65.109.182.188:26562, server: 65.109.182.188, port: 26562, type: vless, tls: true, packet-encoding: xudp, uuid: de47db83-2e57-49ff-aec4-87212cc6a442, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.129.232.153:443, server: 5.129.232.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df339397-a631-4e68-a23f-05fa5d614243, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: rUzCh2A10bkE0EH89sNpkvlW1mxVYJ89yjWHQxejomg, short-id: 8ec225570faa1967}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.131.100.42:42642, server: 94.131.100.42, port: 42642, type: vless, tls: true, packet-encoding: xudp, uuid: e04f764c-6009-45aa-b033-97a90024634b, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iIRXKqJFxSwYKAvwwB952WMLgU1UDC9yFqNUsRYuW2U, short-id: 41ac}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.233.83:39607, server: 62.60.233.83, port: 39607, type: vless, tls: true, packet-encoding: xudp, uuid: e1bb65c9-a67d-4fce-a6f4-7c8837caab8e, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 1_3eX95qudS9wpAvX3hrlj5frOgp5lUlwk7Xz_pCYyw, short-id: df0a16ba1a4880e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.plansv.tech:443, server: s1.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: s1.plansv.tech, host: s1.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nHmRtfZ7rmtNQV3azm-hlnM_g61BcuZhYCuLa_optyU, short-id: 39d96a0baf5d52ca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s2.plansv.tech:443, server: s2.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: s2.plansv.tech, host: s2.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sD1iqg83KrKItMvNo2ZwDO95VEWUtgPOJVC3wkIKOGw, short-id: c2dff04e461775a6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s4.plansv.tech:443, server: s4.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: s4.plansv.tech, host: s4.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cJHHGFhePTI0t8JEbxsCymvXs-1H6EFcNU5JYE-rkwc, short-id: 44bad9412efb621e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: yandex.plansv.tech:443, server: yandex.plansv.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5ef4914-5a87-46c1-a62b-0b8dfb3dbcb8, servername: yandex.plansv.tech, host: yandex.plansv.tech, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ICOdUjV4l0pQKechbg5GIDyo0mvDH373CR1dcWxXCXg, short-id: 7baebcace7b4d3a6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.156.237.204:2051, server: 94.156.237.204, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: edc05328-3e8b-4268-ac76-0af4e53fdf81, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM, short-id: 305be87f337d1db7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.84.105.61:25998, server: 91.84.105.61, port: 25998, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf8732-4040-4132-b68a-2c137b75bbf3, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Da5do6b68bgCVmWE66sKmhtN-lATbk-wEEww9jkweHM, short-id: 0ae9b755f28f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 170.64.238.91:39218, server: 170.64.238.91, port: 39218, type: vless, tls: true, packet-encoding: xudp, uuid: fcbead98-fef8-4707-bd4f-1278935c9a44, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.132.51.160:443, server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 [openproxylist.com] vmess-RU", server: xg1a5.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a5.waimaohots.com}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: xg1a1.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a1.waimaohots.com}}, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: xg1a6.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a6.waimaohots.com}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: usa.spacegate.ir, port: 443, type: vmess, uuid: a9402592-434d-4599-974d-5f46f9fe205b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usa.spacegate.ir, network: ws, ws-opts: {path: /, headers: {Host: usa.spacegate.ir}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: xg1a6.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a6.waimaohots.com}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AE", server: dll.avaaaal.ir, port: 8443, type: vmess, uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dll.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cdge.avaaaal.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -587,10 +587,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -606,7 +609,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -614,17 +616,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -634,7 +635,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -645,19 +645,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -682,10 +682,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -701,7 +704,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -709,17 +711,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -729,7 +730,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -740,19 +740,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -777,10 +777,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -796,7 +799,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -804,17 +806,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -824,7 +825,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -835,19 +835,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -881,10 +881,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -900,7 +903,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -908,17 +910,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -928,7 +929,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -939,19 +939,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -976,10 +976,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -995,7 +998,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -1003,17 +1005,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -1023,7 +1024,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -1034,19 +1034,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1071,10 +1071,13 @@ proxy-groups:
       - 149.102.132.186:80
       - 5.34.222.4:43642
       - 58.152.53.227:443
+      - 220.130.58.136:35502
+      - 3.120.252.86:22223
       - 3.124.221.203:22223
       - 52.47.60.26:22223
       - 63.183.70.214:22223
       - 13.36.129.164:22222
+      - 15.236.213.225:22222
       - 35.156.151.126:22222
       - 63.183.53.84:22222
       - tr.prod.n7.homes:8443
@@ -1090,7 +1093,6 @@ proxy-groups:
       - 87.121.105.127:443
       - 94.103.15.110:443
       - 135.181.205.220:31421
-      - 144.24.97.225:443
       - 79.133.57.246:443
       - 85.17.145.169:443
       - 80.211.236.42:443
@@ -1098,17 +1100,16 @@ proxy-groups:
       - 18.192.3.23:20096
       - 34.244.236.222:20096
       - spb.roblugo.su:443
-      - spb.roblugo.su:443 2
       - 45.130.125.160:443
       - 155.138.227.121:8443
       - 5.161.50.246:443
       - chatgpt.com:2096
       - chatgpt.com:2096 2
       - 194.182.64.209:443
-      - 82.115.17.71:37463
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 141.11.250.201:16604
       - 91.107.169.16:1001
       - z.ssl.fastly.net:80
@@ -1118,7 +1119,6 @@ proxy-groups:
       - dostupbypass2.suio.me:443
       - 62.182.196.134:8443
       - 🇺🇸 support.zoom.us:443
-      - 57.128.191.90:8443
       - 80.211.141.177:443
       - 62.60.233.57:33895
       - 46.224.79.45:8080
@@ -1129,19 +1129,19 @@ proxy-groups:
       - 91.196.34.130:443
       - auths.microsrotfonline.com:443
       - 65.109.182.188:26562
-      - 5.129.232.153:443
       - 94.131.100.42:42642
       - 62.60.233.83:39607
       - s1.plansv.tech:443
-      - s2.plansv.tech:443
       - s4.plansv.tech:443
-      - yandex.plansv.tech:443
+      - 94.156.237.204:2051
       - 91.84.105.61:25998
+      - 170.64.238.91:39218
       - 91.132.51.160:443
       - 🇷🇺 [openproxylist.com] vmess-RU
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "[openproxylist.com] vmess-AE"
   - name: دانلود منیجر 📥
     type: select
