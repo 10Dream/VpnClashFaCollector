@@ -466,16 +466,32 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@v2FreeHub 🇳🇱", server: 89.110.70.175, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 5tFiUX3YapeNnLB5GkSPxw, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇺🇸", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: uEzycwBJy94I0zOZLyntRs, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: 5vQAmoaDpsvoKKhCYxRB0w, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇮🇹", server: 151.242.183.219, port: 46253, type: ss, cipher: chacha20-ietf-poly1305, password: 13df5feb-756e-4627-bcee-497f3c81bab4, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 2", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: 28tzbbCo6fT1OnSfHS6Ctr, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 3", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: uEzycwBJy94I0zOZLyntRs, udp: true, tfo: false}
   - {name: "@v2FreeHub 🇺🇦", server: 194.150.220.103, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: ClpSDewmilA4IzGKSvQHK1, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇺🇸 2", server: dyn.usa.outlinekeys.net, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: T2NowwkmQgsAy2AYNOMssu, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇺🇸 3", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: ThAojnbDb3ji2X8izueUCf, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱 2", server: 178.208.91.118, port: 19805, type: ss, cipher: chacha20-ietf-poly1305, password: DKSVXp2rFOpCSh0Q60tbzg, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇮🇪", server: 52.211.121.231, port: 63371, type: ss, cipher: chacha20-ietf-poly1305, password: LACgdC8dRN72oHJUaZZUhp, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 4", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: LbB1CBoG65cO0kM777dkMo, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇹🇷", server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: MGtDcEYNnUg2WZvqwLTDhA, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 5", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: SdyWNHsoh0gqGUwgYjpXzm, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 6", server: dyn.usa.outlinekeys.net, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: T2NowwkmQgsAy2AYNOMssu, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 7", server: 212.18.104.228, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: ThAojnbDb3ji2X8izueUCf, udp: true, tfo: false}
   - {name: "@v2FreeHub 🇬🇧", server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇺🇸 4", server: dyn.usa.outlinekeys.net, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: YNZ3sihnZUf4uQHnoBOefe, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇳🇱 2", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇬🇧 2", server: 20.108.15.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "@v2FreeHub 🇩🇪", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: 948bde5b-38dc-4f9c-83b9-43b919003778, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇬🇧 2", server: 51.11.137.81, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 8", server: dyn.usa.outlinekeys.net, port: 56636, type: ss, cipher: chacha20-ietf-poly1305, password: YNZ3sihnZUf4uQHnoBOefe, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱 3", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇬🇧 3", server: 20.108.15.110, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇬🇧 4", server: 20.90.81.219, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇳🇱 4", server: 185.250.45.163, port: 4129, type: ss, cipher: chacha20-ietf-poly1305, password: rZ36yc34dVHB0pl1wg21Ps, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇺🇸 9", server: 204.44.122.100, port: 3031, type: ss, cipher: chacha20-ietf-poly1305, password: rootface, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: 42a2c579-7cf1-4817-8a9e-e36558103f50, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪 2", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: 948bde5b-38dc-4f9c-83b9-43b919003778, udp: true, tfo: false}
   - {name: "@v2FreeHub 🇷🇺`", server: 185.171.82.23, port: 15948, type: ss, cipher: aes-256-gcm, password: jEuyWKh9s7hAV3vhU6rxcD6sN5x1JufwP40xONVjDas=, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇫🇷`", server: 51.254.142.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e580a1a-3ff5-456d-a1d6-b1640bea4e9e, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇬🇧 5", server: 57.128.174.124, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: 7a1e857c-6685-4c53-8497-5f34a2d3b666, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cdn-cgi}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2FreeHub 🇩🇪 3", server: 51.75.69.164, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: 90d41578-2041-4b68-a8eb-18f22acab21a, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cdn-cgi}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,15 +510,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -511,15 +543,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -528,15 +576,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -554,15 +618,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -571,15 +651,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -588,15 +684,31 @@ proxy-groups:
     proxies:
       - "@v2FreeHub 🇳🇱"
       - "@v2FreeHub 🇺🇸"
-      - "@v2FreeHub 🇺🇦"
+      - "@v2FreeHub 🇮🇹"
       - "@v2FreeHub 🇺🇸 2"
       - "@v2FreeHub 🇺🇸 3"
-      - "@v2FreeHub 🇬🇧"
-      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇺🇦"
       - "@v2FreeHub 🇳🇱 2"
+      - "@v2FreeHub 🇮🇪"
+      - "@v2FreeHub 🇺🇸 4"
+      - "@v2FreeHub 🇹🇷"
+      - "@v2FreeHub 🇺🇸 5"
+      - "@v2FreeHub 🇺🇸 6"
+      - "@v2FreeHub 🇺🇸 7"
+      - "@v2FreeHub 🇬🇧"
       - "@v2FreeHub 🇬🇧 2"
+      - "@v2FreeHub 🇺🇸 8"
+      - "@v2FreeHub 🇳🇱 3"
+      - "@v2FreeHub 🇬🇧 3"
+      - "@v2FreeHub 🇬🇧 4"
+      - "@v2FreeHub 🇳🇱 4"
+      - "@v2FreeHub 🇺🇸 9"
       - "@v2FreeHub 🇩🇪"
+      - "@v2FreeHub 🇩🇪 2"
       - "@v2FreeHub 🇷🇺`"
+      - "@v2FreeHub 🇫🇷`"
+      - "@v2FreeHub 🇬🇧 5"
+      - "@v2FreeHub 🇩🇪 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:

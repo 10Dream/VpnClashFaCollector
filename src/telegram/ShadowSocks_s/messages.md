@@ -1,5 +1,67 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-20 01:05:08 UTC
+بروزرسانی: 2026-02-20 10:29:19 UTC
+
+### 🕒 2026-02-20 09:19:56 UTC
+**توماس مَسی، نماینده جمهوری‌خواه کنگره آمریکا، در صفحه رسمی خودش یک نظرسنجی منتشر کرده و پرسیده:**
+**«آیا خواهان جنگی به رهبری آمریکا با ایران هستید؟»**
+**این نظرسنجی عملا برای سنجش نظر افکار عمومی درباره حمله آمریکا به ایرانه.**
+ این سوال کاملا جدی مطرح شده. نتیجه این رأی‌گیری می‌تونه در فضای سیاسی آمریکا اثرگذار باشه.
+**لینک توییت و نظرسنجی:**
+ 
+***👇***
+[https://x.com/i/status/2024651638292521202](https://x.com/i/status/2024651638292521202)
+**دوستانی که توییتر دارن، حتما در این نظرسنجی شرکت کنید(YES بزنید) و به اشتراک بذارید.**
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-20 08:40:51 UTC
+[https://t.me/proxy?server=91.239.192.154&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.239.192.154&port=7443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.186&port=2054&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-20 07:21:45 UTC
+(مجدداً شاهد حضور و فعالیت وطن پرستای ۱۲ روزه هستیم 
+***🦦***
+ 
+حواستون خیلی به این جریان باشه و  آگاه باشید!)
+
+---
+
+### 🕒 2026-02-20 07:20:28 UTC
+یادآوری: ما زنده ایم برای یک انتقام باشکوه 
+***✌🏻***
+***🕊️***
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-20 06:58:14 UTC
+[https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d](https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d)
+[https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09)
+[https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-20 06:54:07 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
 
 ### 🕒 2026-02-19 21:34:56 UTC
 > ↪️ **Forwarded**
@@ -480,33 +542,6 @@
 [https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=www.karako.co.uk&port=600&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 [https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=172.65.102.115&port=22&secret=dd79e344818749bd7ac519130220c25d09)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 06:19:56 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 06:19:33 UTC
-[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.70&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-18 06:19:18 UTC
-`vless://18f72be7-0651-4037-928b-8a309d685796@185.254.98.165:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=google.com&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882&packetEncoding=xudp#NetAccountvless://18f72be7-0651-4037-928b-8a309d685796@193.42.11.83:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&security=reality&sid=9eb31eb7572c0882&sni=google.com&type=tcp#NetAccountss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080#NetAccountss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#NetAccounttrojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#NetAccount`
 ***🆔***
  
 [@ShadowSocks_s](https://t.me/ShadowSocks_s)

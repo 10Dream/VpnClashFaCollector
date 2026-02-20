@@ -628,9 +628,6 @@ proxies:
   - {name: "🇮🇹 Italy, Arezzo [BL] 3", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3dd7bef-f742-4ee4-897e-0d91629571bb, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇮🇹 Italy, Arezzo [BL] 4", server: 80.211.236.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3fe5511-06e8-4f9c-8d86-a2b7d94ba402, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]", server: ChatGPT.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Amazon Data Services, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /47.130.35.116=8888, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: DigitalOcean LLC, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /209.97.173.243=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: SGPVULTRCUST, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /66.42.51.60=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇹🇷 Turkey, Izmir [BL] 2", server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad5e032f-d29d-4f94-936a-a7c6dc1c42d5, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 049e6b71c24337}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7089] - Telegram : @configraygan", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: b540bc90-daef-4392-b1af-d131e572acaf, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[7079] - Telegram : @configraygan", server: ge1.v2vml.ga, port: 52496, type: vless, tls: true, packet-encoding: xudp, uuid: b9581975-5527-4432-a89b-aa848a6b8a98, servername: ge1.v2vml.ga, network: ws, ws-opts: {path: /, headers: {Host: ge1.v2vml.ga}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -869,9 +866,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
@@ -1100,9 +1094,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
@@ -1331,9 +1322,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
@@ -1571,9 +1559,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
@@ -1802,9 +1787,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"
@@ -2033,9 +2015,6 @@ proxy-groups:
       - 🇮🇹 Italy, Arezzo [BL] 3
       - 🇮🇹 Italy, Arezzo [BL] 4
       - 🇷🇺 Anycast-IP | [Cloudflare] | ID, RU | [BL]
-      - Amazon Data Services
-      - DigitalOcean LLC
-      - SGPVULTRCUST
       - 🇹🇷 Turkey, Izmir [BL] 2
       - "[7089] - Telegram : @configraygan"
       - "[7079] - Telegram : @configraygan"

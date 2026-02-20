@@ -477,6 +477,20 @@ proxies:
   - {name: freenet_vt 10, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 11, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt`, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt  § 2, server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 2, server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 3, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 1, server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 12, server: 103.186.154.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 3, server: 103.186.155.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 13, server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 4, server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 5, server: 103.186.155.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2`, server: 103.186.155.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 6, server: 103.186.155.5, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 0, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 11, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: freenet_vt  § 2 7, server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "@freenet_vt ۱🇮🇷`", server: 155.212.110.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1be61c57-8d29-9f94-408d-07b27fcfa463, servername: speed.cloudflare.com, host: speed.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 🇮🇷`, server: 155.212.110.3, port: 993, type: vless, tls: true, packet-encoding: xudp, uuid: 1be61c57-8d29-9f94-408d-07b27fcfa463, servername: speed.cloudflare.com, host: speed.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 12, server: ll0ll.vip, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9dbc1ff-6364-4826-a973-71c0584116c4, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -511,6 +525,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12
@@ -535,6 +563,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12
@@ -559,6 +601,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12
@@ -592,6 +648,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12
@@ -616,6 +686,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12
@@ -640,6 +724,20 @@ proxy-groups:
       - freenet_vt 10
       - freenet_vt 11
       - freenet_vt`
+      - freenet_vt  § 2
+      - freenet_vt  § 2 2
+      - freenet_vt  § 3
+      - freenet_vt  § 1
+      - freenet_vt  § 12
+      - freenet_vt  § 2 3
+      - freenet_vt  § 13
+      - freenet_vt  § 2 4
+      - freenet_vt  § 2 5
+      - freenet_vt  § 2`
+      - freenet_vt  § 2 6
+      - freenet_vt  § 0
+      - freenet_vt  § 11
+      - freenet_vt  § 2 7
       - "@freenet_vt ۱🇮🇷`"
       - freenet_vt 🇮🇷`
       - freenet_vt 12

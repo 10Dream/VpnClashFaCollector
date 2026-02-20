@@ -1,5 +1,41 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-20 01:07:04 UTC
+بروزرسانی: 2026-02-20 10:31:13 UTC
+
+### 🕒 2026-02-20 06:56:48 UTC
+اندروید (مخصوص تمام پردازنده ها، اگه حجمش زیاده از گوگل پلی یا گیتهاب دانلود کنید)
+هیدیفای iOS:
+[https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)
+
+---
+
+### 🕒 2026-02-20 06:56:48 UTC
+نسخه 4 هیدیفای Hiddify با تغییرات بنیادین منتشر شد
+***🔥***
+توی هیدیفای میتونید ساب ها و سرور های v2ray رو اضافه کنید و وصل شید (3 تا ساب داخلی هم توی برنامش داره)
+لینک گیتهاب:
+[https://github.com/hiddify/hiddify-app/releases](https://github.com/hiddify/hiddify-app/releases)
+دارای نسخه های اندروید، آی او اس، ویندوز، مک و لینوکس
+فایل اندروید و ویندوز در پست بعدی
+***👇***
+
+---
+
+### 🕒 2026-02-20 05:38:11 UTC
+***✅***
+ 
+**کانفیگ رایگان**
+ 
+***✅***
+`vless://c805b05e-339d-40e0-8787-432d97a27345@G10.PRODNSSPEED10.IR:2083?path=%2FR8I9Yqu0DxpQB2NKCxLA&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=data-frm2.netsnap.ir&fp=chrome&type=ws&sni=data-frm2.netsnap.ir#telegram%20%3A%20%40Lrnbymaa`
+***🌔***
+ 
+**یک بار بزنید روی کانفیگ‌ کپی میشه 🔹جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 🌐 **
+[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
+**   🌐 **
+[**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
+**  ‍**
+
+---
 
 ### 🕒 2026-02-19 13:13:03 UTC
 > ↪️ **Forwarded**

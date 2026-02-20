@@ -465,28 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇭🇰 香港家宽 194 -77, server: 85677df4-t9w4g0-tbo02e-4mce.hkt.east.wctype.com, port: 8300, type: anytls, password: 06c625ea-5902-11ee-9e87-f23c9313b177, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港家宽 288 -4, server: 5cdec792-t9wqo0-tdtx5w-au6.hkt.east.wctype.com, port: 8300, type: anytls, password: 1b609740-eec2-11ef-8543-f23c93136cb3, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港家宽 270 -173, server: 9d372f01-t9ylc0-tdtx5w-au6.hkt.east.wctype.com, port: 8300, type: anytls, password: 1b609740-eec2-11ef-8543-f23c93136cb3, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港家宽 308 -117, server: db6164db-t9w4g0-tcj7b6-d70y.hkt.east.wctype.com, port: 8300, type: anytls, password: 537d7098-fdbe-11ef-8ebc-f23c93141fad, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 美国 022 -5, server: cd1589cd-t9wqo0-tcm6ys-deip.losjan20.west.wctype.com, port: 8300, type: anytls, password: 7a2512b4-09ee-11f0-8d46-f23c9313b177, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 日本 69 -58, server: 160.16.75.254, port: 443, type: anytls, password: a2d12dc9-c111-45ac-b803-87e48f3484d8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇺 悉尼1-anytls协议, server: au.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇦🇺 悉尼2-anytls协议, server: au2.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港1-anytls协议, server: hk1.shiyuandian.shop, port: 2058, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇳 印度2-anytls协议, server: in2.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇰🇷 韩国1-anytls协议, server: kr1.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇸🇬 新加坡3-anytls协议, server: sg3.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇬🇧 英国3-anytls协议, server: uk3.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 美国1-anytls协议, server: us1.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇻🇳 越南1-anytls协议, server: vn1.shiyuandian.shop, port: 2058, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港顶级-anytls协议, server: zy.shiyuandian.shop, port: 4430, type: anytls, password: ae845cbd-08fb-4346-929a-e28a6f3960a8, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港家宽 299 -119, server: 1b30bbb8-t9wqo0-tb5ob4-64gc.hkt.east.wctype.com, port: 8300, type: anytls, password: d720a490-d56b-11ef-a1cb-f23c9313b177, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 香港家宽 272 -158, server: 4e87e994-t9ylc0-tb5ob4-64gc.hkt.east.wctype.com, port: 8300, type: anytls, password: d720a490-d56b-11ef-a1cb-f23c9313b177, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 美国 023 -57, server: 5c30c8a8-t9wqo0-tb5ob4-64gc.los.west.wctype.com, port: 8300, type: anytls, password: d720a490-d56b-11ef-a1cb-f23c9313b177, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 美国 064 -126, server: e91bce0b-t9ylc0-tee5aa-1glq.losjan20.west.wctype.com, port: 8300, type: anytls, password: df7bed3c-06eb-11f0-8ebc-f23c93141fad, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 美国03, server: 152.53.54.139, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 距离下次重置剩余：26 天, server: 152.53.54.139, port: 36001, type: anytls, password: eee0bc24-189b-4f12-8686-2a0a45ae67c5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: any@oneclickvpnkeys`, server: us1.anliangjifei.top, port: 12053, type: anytls, password: ae74dd32-c336-4be4-9c15-f6108292b3e5, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -503,84 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -596,84 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇭🇰 香港家宽 194 -77
-      - 🇭🇰 香港家宽 288 -4
-      - 🇭🇰 香港家宽 270 -173
-      - 🇭🇰 香港家宽 308 -117
-      - 🇺🇸 美国 022 -5
-      - 🇯🇵 日本 69 -58
-      - 🇦🇺 悉尼1-anytls协议
-      - 🇦🇺 悉尼2-anytls协议
-      - 🇭🇰 香港1-anytls协议
-      - 🇮🇳 印度2-anytls协议
-      - 🇰🇷 韩国1-anytls协议
-      - 🇸🇬 新加坡3-anytls协议
-      - 🇬🇧 英国3-anytls协议
-      - 🇺🇸 美国1-anytls协议
-      - 🇻🇳 越南1-anytls协议
-      - 🇭🇰 香港顶级-anytls协议
-      - 🇭🇰 香港家宽 299 -119
-      - 🇭🇰 香港家宽 272 -158
-      - 🇺🇸 美国 023 -57
-      - 🇺🇸 美国 064 -126
-      - 🇺🇸 美国03
-      - 距离下次重置剩余：26 天
+      - any@oneclickvpnkeys`
   - name: دانلود منیجر 📥
     type: select
     proxies:

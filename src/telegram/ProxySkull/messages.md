@@ -1,5 +1,87 @@
 # آرشیو کانال: @ProxySkull
-بروزرسانی: 2026-02-20 01:04:26 UTC
+بروزرسانی: 2026-02-20 10:28:37 UTC
+
+### 🕒 2026-02-20 10:00:09 UTC
+**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+**🇮🇷**
+ 
+`1404/12/01`
+**🇬🇧**
+ 
+`2026/02/20`
+**🕒**
+ 
+`13:30:05`
+[***🇫🇷*** ᴘʀᴏxʏ](tg://proxy?server=https.uptv443.shop.&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0=)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=136.244.103.13&amp;port=9443&amp;secret=dd1040010332ca73581f383d62e8da740e)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.84.156.12&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[***🇵🇱*** ᴘʀᴏxʏ](tg://proxy?server=138.124.104.20&amp;port=444&amp;secret=45e7e141e05a8059022fa204275503e0)
+[***🇨🇭*** ᴘʀᴏxʏ](tg://proxy?server=37.156.47.63&amp;port=9443&amp;secret=7nnnAQIAq9rxc103_iU9FJM)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.254.165.214&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=py.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=iPhone.jordanair.info&amp;port=77777&amp;secret=EERighJJvXrFGRMCIMJdCQ)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.254.165.227&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=www.alibaba1409.org.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNngfgScoaLSXQYtLCM8VHoNng%3D%3D)
+ | 
+[***🇨🇭*** ᴘʀᴏxʏ](tg://proxy?server=83.228.228.104&amp;port=9443&amp;secret=eeNEgYdJWXuoR97GgUDjlWNkbnlla3RhbmV0LmNvbWZhcmFrYXYuY29tdmFuLm5hanZhLmNvbQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.254.165.81&amp;port=8443&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[***🇺🇸*** ᴘʀᴏxʏ](tg://proxy?server=185.115.161.250&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[***🇷🇺*** ᴘʀᴏxʏ](tg://proxy?server=146.185.242.92&amp;port=443&amp;secret=ce39a533755cc1bac5703ce48c2f5a69)
+ | 
+[***🇨🇭*** ᴘʀᴏxʏ](tg://proxy?server=37.156.46.94&amp;port=8443&amp;secret=dd10400103323dd86ab85ad4e61200cce0)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=91.239.192.109&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[***🇷🇺*** ᴘʀᴏxʏ](tg://proxy?server=146.185.241.89&amp;port=443&amp;secret=c351841a608cca24813a321aa080bc91)
+***🆔***
+ 
+[@ZPrxy](https://t.me/ZPrxy)
+
+---
+
+### 🕒 2026-02-20 08:00:07 UTC
+**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+**🇮🇷**
+ 
+`1404/12/01`
+**🇬🇧**
+ 
+`2026/02/20`
+**🕒**
+ 
+`11:30:03`
+[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[***🇸🇬*** ᴘʀᴏxʏ](tg://proxy?server=kalakbaz.kalakbazi-co.co.uk&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=speed.adnabmc.ir&amp;port=22&amp;secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=91.239.192.108&amp;port=2053&amp;secret=10446282fffffffffff80000fff80000)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.84.157.102&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇺🇸*** ᴘʀᴏxʏ](tg://proxy?server=app.x9q.pw&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
+ | 
+[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+***🆔***
+ 
+[@ZPrxy](https://t.me/ZPrxy)
+
+---
 
 ### 🕒 2026-02-20 00:00:52 UTC
 **🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
@@ -545,239 +627,6 @@
 ***🆔***
  
 [@ZPrxy](https://t.me/ZPrxy)
-
----
-
-### 🕒 2026-02-18 10:00:56 UTC
-**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-**🇮🇷**
- 
-`1404/11/29`
-**🇬🇧**
- 
-`2026/02/18`
-**🕒**
- 
-`13:30:55`
-[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=www.lost-packet-chrome.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
- | 
-[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.254.165.216&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=91.107.240.185&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@ZPrxy](https://t.me/ZPrxy)
-
----
-
-### 🕒 2026-02-18 08:01:09 UTC
-**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-**🇮🇷**
- 
-`1404/11/29`
-**🇬🇧**
- 
-`2026/02/18`
-**🕒**
- 
-`11:31:08`
-[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.254.165.18&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=194.120.230.8&amp;port=443&amp;secret=7nnnAQIAAQAH8AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20=)
- | 
-[***🇫🇷*** ᴘʀᴏxʏ](tg://proxy?server=www.porteghall.site.&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
- | 
-[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=https-cdn-ddns.dnstls.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[***🇫🇷*** ᴘʀᴏxʏ](tg://proxy?server=www.uptv443.shop.&amp;port=8443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0%3D)
-***🆔***
- 
-[@ZPrxy](https://t.me/ZPrxy)
-
----
-
-### 🕒 2026-02-18 06:57:44 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto II
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-10:27:43 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 06:57:39 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-Socks5
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-10:27:39 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 06:57:35 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto I
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-10:27:34 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 04:50:14 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto II
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-08:20:13 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 04:50:09 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto I
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-08:20:09 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 01:55:31 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto II
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-05:25:30 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 01:55:26 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-Socks5
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-05:25:26 𓍯 1404/11/29
-
----
-
-### 🕒 2026-02-18 01:55:22 UTC
-╭⋟────𓄂ꪴꪰ𓆃────╮
- | 𓐄𓐅𓐆𓐇ÐΛɌ₭ᑎΞ𐒡𐒡𓐇𓐆𓐅𓐄 ⁮⁮⁮|
-╰────────────⋞╯
- 
-[***💀***PʀᴏxʏSᴋᴜʟʟ***💀***](https://t.me/ProxySkull)
- 
-❚⫘⫘⫘⫘⫘⫘⫘❚
- 
-***☠️***
-MTProto I
-***☠️***
- 
- 
-[𝕎𝕖𝕓 ℙ𝕣𝕠𝕩𝕪](https://telegram-proxy-fetcher.pages.dev/)
- 
-▬▭▬▭𓐄
-***🧌***
-𓐄▭▬▭▬
-05:25:21 𓍯 1404/11/29
 
 ---
 

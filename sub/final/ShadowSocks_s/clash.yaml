@@ -465,13 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount`, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: NetAccount 3, server: 193.42.11.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 4, server: 160.153.1.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 5, server: 209.102.207.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: osn.takovpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79b5b31e-9557-4ea6-9ec5-450d7cdefecd, servername: google.com, host: google.com, path: /, reality-opts: {public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g, short-id: 1283729a0a9c1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 160.153.1.198, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 209.102.207.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: osn.takovpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 79b5b31e-9557-4ea6-9ec5-450d7cdefecd, servername: google.com, host: google.com, path: /, reality-opts: {public-key: ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g, short-id: 1283729a0a9c1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,10 +487,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -504,10 +496,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -517,10 +505,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -539,10 +523,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -552,10 +532,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -565,10 +541,6 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount`
-      - NetAccount 3
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount` 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

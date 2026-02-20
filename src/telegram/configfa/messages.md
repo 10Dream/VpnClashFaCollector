@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-20 01:06:12 UTC
+بروزرسانی: 2026-02-20 10:30:20 UTC
 
 ### 🕒 2026-02-19 08:35:18 UTC
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@193.122.126.64:53777?path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+%40wangcai2&security=tls&encryption=none&host=sni.111000.indevs.in&fp=chrome&type=ws&sni=sni.111000.indevs.in#%5B7137%5D+-+Telegram+%3A+%40configraygan
@@ -312,13 +312,6 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@83.147.253.194:443?flow=&host=sni.1
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.140.209.188:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1035
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.88.67.37:2053?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1038
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@202.71.13.242:8443?flow=&host=sni.111000.indevs.in&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=sni.111000.indevs.in&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-1061
-
----
-
-### 🕒 2026-02-18 01:07:59 UTC
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F209.97.173.243%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%B8%F0%9F%87%AC%20DigitalOcean%20LLC
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@nodejs.org:443?path=%2F47.130.35.116%3D8888&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%B8%F0%9F%87%AC%20Amazon%20Data%20Services
-vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@www.speedtest.net:443?path=%2F66.42.51.60%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%F0%9F%87%B8%F0%9F%87%AC%20SGPVULTRCUST
 
 ---
 

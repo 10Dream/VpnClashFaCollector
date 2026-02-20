@@ -1,5 +1,24 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-20 01:04:01 UTC
+بروزرسانی: 2026-02-20 10:28:15 UTC
+
+### 🕒 2026-02-20 06:45:46 UTC
+اندروید (مخصوص تمام پردازنده ها، اگه حجمش زیاده از گوگل پلی یا گیتهاب دانلود کنید)
+هیدیفای iOS:
+[https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532](https://apps.apple.com/us/app/hiddify-proxy-vpn/id6596777532)
+
+---
+
+### 🕒 2026-02-20 06:45:30 UTC
+نسخه 4 هیدیفای Hiddify با تغییرات بنیادین منتشر شد
+***🔥***
+توی هیدیفای میتونید ساب ها و سرور های v2ray رو اضافه کنید و وصل شید (3 تا ساب داخلی هم توی برنامش داره)
+لینک گیتهاب:
+[https://github.com/hiddify/hiddify-app/releases](https://github.com/hiddify/hiddify-app/releases)
+دارای نسخه های اندروید، آی او اس، ویندوز، مک و لینوکس
+فایل اندروید و ویندوز در پست بعدی
+***👇***
+
+---
 
 ### 🕒 2026-02-19 23:50:44 UTC
 ساب V2ray
@@ -351,42 +370,6 @@ Yahsat 52.5°E 11843 V 27500
 و برای اینکه بتونن 24 ساعته روی آسمون بمونن، نیاز به حداقل 100 هواپیمای سوخت رسان هست که تا قبل از امروز 37 تا به خاورمیانه اومده بود و فقط امروز 17 تا سوخت رسان جدید اوردن! (نمیدونیم چندتا دیگه الان اومده. این تعدادیه که ازش خبر داریم)
 و نکته جالب اینه که توی جنگ 12 روزه، اسراییل فقط 10 تا هواپیمای سوخت رسان داشت و اینطوری آسمون در اختیارش بود. حالا شما فرض کنید این تعداد 7-8 برابر شه
 هر روز داریم به حمله و جنگ نزدیک تر میشیم
-
----
-
-### 🕒 2026-02-18 09:38:16 UTC
-[پروکسی](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-  
-[پروکسی](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.37&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
- 
-[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
- | 
-[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
- | 
-[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
 
 ---
 

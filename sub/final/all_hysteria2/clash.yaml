@@ -465,8 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 160.16.137.28:35789, server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 160.16.137.28:35789 2, server: 160.16.137.28, port: 35789, type: hysteria2, ports: 35789, password: 4d5018bf-0e8b-4087-8b8a-bfa51ae86f5c, sni: iij.mggl.wang, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 206.71.158.37:35000, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 2, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,6 +478,7 @@ proxies:
   - {name: freenet_vt 9, server: 77.90.41.197, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hkbgp.jjxcloud.xyz:8443 2, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 10, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 11, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -499,8 +499,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -513,6 +512,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
@@ -523,8 +523,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -537,6 +536,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
@@ -547,8 +547,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -561,6 +560,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
@@ -580,8 +580,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -594,6 +593,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
@@ -604,8 +604,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -618,6 +617,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
@@ -628,8 +628,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 160.16.137.28:35789
-      - 160.16.137.28:35789 2
+      - 91.132.51.160:844
       - 206.71.158.37:35000
       - freenet_vt
       - freenet_vt 2
@@ -642,6 +641,7 @@ proxy-groups:
       - freenet_vt 9
       - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
+      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
       - "@meliproxyy"
       - freenet_vt 11
