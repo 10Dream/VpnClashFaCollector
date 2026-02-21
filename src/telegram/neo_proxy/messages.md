@@ -1,5 +1,36 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-21 01:05:53 UTC
+بروزرسانی: 2026-02-21 10:19:56 UTC
+
+### 🕒 2026-02-21 10:18:01 UTC
+[**گیف خوردن نوک زبون**](https://t.me/+n6HzRlDia1oxNjg0)
+***😛***
+
+---
+
+### 🕒 2026-02-21 10:13:01 UTC
+[**گیف نیپل خوری**](https://t.me/+n6HzRlDia1oxNjg0)
+ 
+***🍓***
+***🫢***
+
+---
+
+### 🕒 2026-02-21 10:08:01 UTC
+[**گیف یخ مالی روی سینه**](https://t.me/+n6HzRlDia1oxNjg0)
+ 
+***🤑***
+***🍒***
+
+---
+
+### 🕒 2026-02-21 10:04:07 UTC
++ سکس چت؟ 
+- نه ممنون من با گیفای اینجا ارضا میشم
+***🍓***
+***🍓***
+[@GifSexi](https://t.me/+n6HzRlDia1oxNjg0)
+
+---
 
 ### 🕒 2026-02-20 20:25:47 UTC
 همه‌ی ما قوانین خودمون رو برای یه نفر شکستیم...
@@ -238,44 +269,6 @@
 یا اونقدر دوستش‌ داری که از اشتباهش
 میگذری یا اونقدر از چشمت میوفته که
 از خودش و اشتباهش باهم میگذری...
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
- | 
-[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-[@DarkProxy](https://t.me/DarkProxy)
-[@neo_proxy](https://t.me/neo_proxy)
-
----
-
-### 🕒 2026-02-19 03:36:21 UTC
-به نظرم همه آدم ها یه بار باید تا تهش برن
-تا ته اون چیزی که خیلی بهش اصرار دارن
-برن و تا جون دارن براش بجنگن!
-اونقدر که خسته و زخمی برگردن
-مهم نیست که تهش برنده شن یا بازنده
-مهم اینه که تهشو دیدن!
-کسی که تهشو دیده دیگه از هیچی نمیترسه
-مدیون دلش نیست که شاید میشد..!
 [پروکسی](https://t.me/proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 
 [پروکسی](https://t.me/proxy?server=185.237.220.42&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)

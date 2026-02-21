@@ -1,5 +1,107 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-21 01:02:54 UTC
+بروزرسانی: 2026-02-21 10:16:52 UTC
+
+### 🕒 2026-02-21 09:38:05 UTC
+دهنت سرویس عباس چی به آمریکاییا گفتی که اینجوری دارن میان؟
+[همراه](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-21 09:38:03 UTC
+***💰***
+ریتزوبت تنها سایت بین المللی میباشد ، که به صورت هفتگی پرومو کد ثابت دریافت میکنید
+****
+**🙏**
+** **
+[آموزش شارژ حساب با کریپتو](https://t.me/Ritzobet_ir/2587)
+****
+**🙏**
+** **
+[آموزش شارژ حساب  ریالی در ریتزوبت](https://t.me/Ritzobet_ir/2588)
+***✅***
+ریتزوبت برندی با لایسنس معتبر در صنعت 
+[شرطبندی](https://t.me/Ritzobet_ir/3104)
+ و 
+[پیشبینی](https://t.me/Ritzobet_ir/3104)
+ مسابقات ورزشی و کازینویی 
+***👇***
+[https://t.me/+LB508WZyIr8xNmY0](https://t.me/+LB508WZyIr8xNmY0)
+
+---
+
+### 🕒 2026-02-21 09:38:03 UTC
+***🏴󠁧󠁢󠁥󠁮󠁧󠁿***
+**پیش بینی مهم ترین مسابقات فوتبال در سایت بین المللی**
+ 
+[**ریتزوبت**](https://RitzoBet.com/)
+ 
+***💯***
+****
+***🤝***
+ 
+[**لچه**](https://RitzoBet.com/)
+ 
+***🆚***
+ 
+[**اینتر میلان**](https://RitzoBet.com/)
+***🤝***
+ 
+[**منچستر سیتی**](https://RitzoBet.com/)
+***🆚***
+[**نیوکاسل**](https://RitzoBet.com/)
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+ 
+***1️⃣***
+***2️⃣***
+***3️⃣***
+ 
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+***⚡️***
+ بونوس 100% بونوس اولین واریز 
+***⚡️***
+ بونوس 100% ورزشی یکشنبه‌ ها 
+***⚡️***
+ آپشن های متنوع با ضریب بالا
+***📲***
+[**اپلیکیشن موبایل برای اندروید**](https://t.me/Ritzobet_ir/3141)
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+***⚡️***
+پشتیبان فارسی سایت ریتزوبت 
+***👇***
+***🅰***
+r2
+***⚡️***
+[@RitzoBetsupports](https://t.me/RitzoBetsupports)
+
+---
 
 ### 🕒 2026-02-20 20:02:18 UTC
 مهم نیست کوه چقدر بلند باشه، خورشید همیشه طلوع می‌کنه...
@@ -425,58 +527,6 @@ Sponsored by
 
 ### 🕒 2026-02-19 10:39:23 UTC
 ‏در حال رفتن پیش آبراهام تا از نزدیک ببینم چه خواهد شد:
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 07:01:13 UTC
-***🔴***
-پیج اینستاگرام هادی چوپان انقدر ریپورت خورد که از دسترس خارج شد
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 06:50:37 UTC
-***⭕️***
-بنابر اطلاعیه هوانوردی (نوتام) سازمان هواپیمایی کشوری، محدوده‌ای از فضای هوایی در جنوب و جنوب ‌شرق ایران، روز پنجشنبه از ساعت ۷ صبح تا ۱۷ به وقت تهران تحت کنترل خواهد بود و محدودیت‌هایی برای پرواز وسایل هوایی اعمال خواهد شد.
 [همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 

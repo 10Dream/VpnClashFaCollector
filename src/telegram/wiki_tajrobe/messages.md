@@ -1,5 +1,5 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-21 01:07:34 UTC
+بروزرسانی: 2026-02-21 10:21:33 UTC
 
 ### 🕒 2026-02-20 20:03:57 UTC
 مخابرات:
@@ -104,44 +104,6 @@ curl --request GET \
   --header 'User-Agent: EchoapiRuntime/1.1.0'
 مثال:
 [https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info](https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info)
-
----
-
-### 🕒 2026-02-19 09:58:14 UTC
-دونالد توسک، نخست‌وزیر لهستان، با لحنی بسیار جدی و اضطراری خطاب به لهستانی‌های مقیم ایران اعلام کرد: «لطفاً فوراً این کشور را ترک کنید.»
-توسک تأکید کرده که این هشدار برای ترساندن نیست، بلکه به دلیل واقعیت‌های میدانی است.
-به گفته او «تا چند ساعت یا نهایتاً چند ده ساعت دیگر، امکان تخلیه اتباع وجود نخواهد داشت.»
-[https://www.rp.pl/dyplomacja/art43834761-donald-tusk-do-polakow-prosze-natychmiast-opuscic-iran](https://www.rp.pl/dyplomacja/art43834761-donald-tusk-do-polakow-prosze-natychmiast-opuscic-iran)
-
----
-
-### 🕒 2026-02-19 09:19:16 UTC
-> ↪️ **Forwarded**
-
-بیپولی و بیکاری خودش ته چاهه .چاله نیست
-بعد بری یه جای سمی میری تو اعماق سیاه چاله
-
----
-
-### 🕒 2026-02-19 09:17:35 UTC
-بچه ها میدونم این روزا در به در دنبال کارید ولی قبلش اسم شرکته رو توی ویکی تجربه سرچ بزنید 
-که از چاله نیفتین تو چاه 
-که کلی زمان بزارین اذیتتون کنن و حقوق ندن بهتون
-***✍🏻***
- امیر
-[https://tajrobe.wiki](https://tajrobe.wiki/)
-
----
-
-### 🕒 2026-02-19 06:00:12 UTC
-***🏢***
- پروفایل: پوشاک زنجیره ای هفت
-***✨***
- نوع تجربه: تجربه کاری
-بنظرم قبل از ورود به این شرکت حتما در موردش تحقیق کنید
-اینجا مثل یک بوتیک خیلی بزرگ هست نه فروشگاه زنجیره‌ای پوشام
-هر لحظه مدیران شرکت عوض میشن و مدیرعامل ...
-[https://tajrobe.wiki/review/Oxobm](https://tajrobe.wiki/review/Oxobm)
 
 ---
 

@@ -1,5 +1,31 @@
 # آرشیو کانال: @free_netplus
-بروزرسانی: 2026-02-21 01:05:03 UTC
+بروزرسانی: 2026-02-21 10:19:05 UTC
+
+### 🕒 2026-02-21 09:39:22 UTC
+***⭕️***
+هر پورت کامپیوتر دقیقاً چه کاری انجام میده:
+[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+** **
+| 
+[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ |  
+[پروکسی](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=44.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=mci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=tci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[@Free_Netplus](https://t.me/Free_Netplus)
+ 
+***🪽***
+
+---
 
 ### 🕒 2026-02-20 19:15:23 UTC
 **ترامپ: ایران باید برای یک توافق عادلانه مذاکره کند‌‌**

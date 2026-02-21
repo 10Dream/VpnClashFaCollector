@@ -1,5 +1,104 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-21 01:05:15 UTC
+بروزرسانی: 2026-02-21 10:19:18 UTC
+
+### 🕒 2026-02-21 08:53:53 UTC
+***🚨***
+[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
+***🚀***
+ نسخه جدید منتشر شد برای 
+**SagerNet/sing-box**
+:
+***🧪***
+ 
+**1.13.0-rc.5**
+ (v1.13.0-rc.5) [Pre-release]
+## :memo: Release Notes
+* Add `mipsle`, `mips64le`, `riscv64` and `loong64` support for NaiveProxy outbound
+Important changes since 1.12:
+* Add NaiveProxy outbound **1**
+* Add pre-match support for `auto_redirect` **2**
+* Improve `auto_redirect` **3**
+* Add Chrome Root Store certificate option **4**
+* Add new options for ACME DNS-01 challenge providers **5**
+* Add Wi-Fi state support for Linux and Windows **6**
+* Add curve preferences, pinned public key SHA256, mTLS and ECH `query...
+(متن کامل در گیت‌هاب)
+***🔗***
+ 
+[مشاهده در گیت‌هاب](https://github.com/SagerNet/sing-box/releases/tag/v1.13.0-rc.5)
+[𓄂𓆃](https://t.me/update_releases)
+
+---
+
+### 🕒 2026-02-21 08:40:44 UTC
+ری اکشن فراموش نشه
+***👆***
+
+---
+
+### 🕒 2026-02-21 08:33:12 UTC
+تصاویر و اسامی فیلم های جدید.
+[#کارتون](?q=%23%DA%A9%D8%A7%D8%B1%D8%AA%D9%88%D9%86)
+ 
+[#فیلم](?q=%23%D9%81%DB%8C%D9%84%D9%85)
+ 
+[#سریال](?q=%23%D8%B3%D8%B1%DB%8C%D8%A7%D9%84)
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+***➖***
+•
+***➖***
+•
+***➖***
+•
+***➖***
+•
+***➖***
+•
+***➖***
+•
+***➖***
+•
+***➖***
+***👇***
+l ری اکشن هم یادتون نره l 
+***💖***
+
+---
+
+### 🕒 2026-02-21 06:17:56 UTC
+کانفیگ تست آیپی فرانسه 
+***🇫🇷***
+vmess://eyJhZGQiOiI1MS44My41Mi4xNzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImZhc3QuY29tIiwiaWQiOiIyYzcyYzY2Ny0wOTNjLTQ3YTUtYTEwOC00OTNjOTMyODJiNTciLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg1IiwicHMiOiLwn4er8J+HtyBoYW1lZHZwbnMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+با چی متصل میشین بگین 
+***✅***
+
+---
+
+### 🕒 2026-02-21 05:29:52 UTC
+دریافت ۱۰۰ گیگ حجم و قابل استفاده در ۵ دستگاه مختلف 
+***✅***
+ 
+معرفی شده توسط دوستان 
+***😎***
+ربات رایگان و سریع
+فقط کافیه براش یک ایمیل فیک یا اصل بدی و کدی که به ایمیل می‌فرسته رو بزنی و تمام وارد ربات میشی و کانفیگ ها آماده هستن برای دریافت .
+زبان ربات روسی هست اما چون کارکرد ساده هست لازم نیست تغییر بدین به انگلیسی ، یه ایمیل میدین و کدش رو می‌نویسید تمام .
+**لینک ورود به ربات :**
+[https://t.me/eofvpnbot?start=REF-2765ED9F](https://t.me/eofvpnbot?start=REF-2765ED9F)
+**❤️ اشتراک گذاری یادتون نره 💚**
+..‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
 
 ### 🕒 2026-02-20 21:51:34 UTC
 ***🔴***
@@ -268,106 +367,6 @@ Compared to 0.17.14 and 0.17.15-beta.1:
 ***❤️***
 اشتراک بزارین   |   Share 
 ***⭐️***
-
----
-
-### 🕒 2026-02-19 10:02:55 UTC
-`https://zaya.io/C-Meta`
- 
-بروزرسانی شد 
-***❤️***
-
----
-
-### 🕒 2026-02-19 09:09:00 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**Happ-proxy/happ-android**
-:
-***✅***
- 
-**3.12.0**
- (3.12.0)
-* Improvements of hysteria protocol support and its general stability
-* Fixed an issue of an empty app list in per-app-proxy OFF mode
-* Minor improvements of wireguard servers manual input
-* Fixed multiple issues related to RTL support for Persian localization
-* Fixed an issue of snackbar overlapping with status bar
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/Happ-proxy/happ-android/releases/tag/3.12.0)
-[𓄂𓆃](https://t.me/update_releases)
-
----
-
-### 🕒 2026-02-19 08:23:48 UTC
-فیلترشکن جدید بر پایه پروتکل wireguard و ikev2
-VPN Nederland 
-***✔️***
-***🔥***
- دارای آیپی اکثر کشورها
-***⭐***
- پرسرعت و امن
-**آموزش ثبت نام و تایید ایمیل واقعی و فیک در پست بعدی قرار میگیرد**
- 
-***😎***
-لینک دانلود از گوگل پلی :
-[https://play.google.com/store/apps/details?id=com.curuno.vpnnederland](https://play.google.com/store/apps/details?id=com.curuno.vpnnederland)
-برای هر ایمیل یک ماه و ۵ گیگ حجم میده
-**❤️ اشتراک گذاری یادتون نره 💚**
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-19 08:14:29 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-19 06:28:41 UTC
-دیگه لازم نیست توصیف کنم ...
-
----
-
-### 🕒 2026-02-19 06:28:41 UTC
-کاملش 
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-19 05:54:42 UTC
-یه فیلترشکن معرفی کنم ؟!
-با پروتکل‌های خوب و سرعت اتصال و کارکرد عالی
-فقط یک مشکل داره 
-برای هر ایمیل که بهش میدین ۵ گیگ بهتون ترافیک میده 
-و باید ایمیل رو هم تایید کنید 
-مشکلی هم نداره که ایمیل فیک باشه یا اصل .
 
 ---
 

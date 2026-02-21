@@ -1,5 +1,37 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-21 01:02:38 UTC
+بروزرسانی: 2026-02-21 10:16:36 UTC
+
+### 🕒 2026-02-21 04:10:03 UTC
+[https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==)
+[https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=91.239.192.175&port=140409&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.239.192.175&port=140409&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+
+---
+
+### 🕒 2026-02-21 03:16:51 UTC
+کانفیگ Npv Tunnel
+[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
+ | 
+[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+
+---
+
+### 🕒 2026-02-21 02:49:36 UTC
+`vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@172.67.150.93:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-disk-0edf.diyenec996.workers.dev#NetAccount`
+`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?path=/?ed=2560&/Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#NetAccount`
+`vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@104.16.249.46:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#NetAccount`
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjYxOjgwODA=#NetAccount`
+
+---
+
+### 🕒 2026-02-21 02:46:08 UTC
+آخرین نسخه Invizible Pro
+روی پل های snowflake و obfs4 امتحان کنید
+میتونید از بات رسمی تور هم پل های webtunnel و snowflake بگیرید و توی برنامه بزنید:
+[@GetBridgesBot](https://t.me/GetBridgesBot)
+
+---
 
 ### 🕒 2026-02-21 00:42:39 UTC
 کانفیگ Npv Tunnel
@@ -46,6 +78,7 @@
 
 ### 🕒 2026-02-20 18:47:49 UTC
 آلمان از ساعاتی پیش از شهروندان خود خواست فورا ایران را ترک کنند
+همچنین وزیر خارجه دولت سوئد با اشاره به «بسیار نامطمئن» بودن تحولات در ایران و منطقه از شهروندان خود خواست هرچه سریعتر ایران را ترک کنند
 
 ---
 
@@ -259,56 +292,6 @@
 [پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
  | 
 [پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-
----
-
-### 🕒 2026-02-19 07:24:01 UTC
-کانفیگ Npv Tunnel
-[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
- | 
-[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-
----
-
-### 🕒 2026-02-19 06:51:04 UTC
-`vmess://eyJhZGQiOiI0NS4xMy4yMjcuMTE4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIuLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLigpLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4uLi4iLCJpZCI6IjhjZTY0NjYyLWY4YjgtNDk1NS1iZGYyLWE1NWI4MjFiYzRhYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9leUpxZFc1cklqb2lOREJOV0dZM1owTlBkMGxvWjJZaUxDSndjbTkwYjJOdmJDSTZJblpzSWl3aWJXOWtaU0k2SW5CeWIzaDVhWEFpTENKd1lXNWxiRWxRY3lJNlcxMTk/ZWRcdTAwM2QyNTYwIiwicG9ydCI6IjgwIiwicHMiOiLimqHvuI9UZWxlZ3JhbSBcdTAwM2QgQEtJQV9ORVTwn5KlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vless://cbf73250-e228-4fc8-95a1-3804176354be@140.248.147.82:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=Fastsssspeedmar.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#NetAccountvless://cbf73250-e228-4fc8-95a1-3804176354be@fast1.mrsf.ir:443?mode=auto&path=%2Fdl%3Fed%3D2560&security=tls&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%20%221000000%22%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&insecure=0&host=Osipanel.global.ssl.fastly.net&type=xhttp&allowInsecure=0&sni=default.ssl.fastly.net#NetAccount`
-
----
-
-### 🕒 2026-02-19 05:56:10 UTC
-روی ماهواره آسترا Astra هم با فرکانس 11992 قابل دریافته:
-Astra 19.2°E 11992 V 27500
-(برای دوستانی که روی یاهست براشون پارازیت داشت)
-
----
-
-### 🕒 2026-02-19 03:13:01 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
-
----
-
-### 🕒 2026-02-19 03:05:39 UTC
-سرور v2ray
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PUAzOC41NC41OS4xODA6OTkw#NetAccount`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZmYxNDIzZjYxZmZlNjcz@38.54.59.16:11201?#NetAccount`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@185.255.123.110:990#NetAccount`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.255.123.110:990#NetAccount`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@154.205.150.157:990#NetAccount`
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0ZjI2ZDhiYjU5M2E1ZmM1@154.205.154.200:11201#NetAccount`
-
----
-
-### 🕒 2026-02-19 01:52:29 UTC
-[https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
 
 ---
 

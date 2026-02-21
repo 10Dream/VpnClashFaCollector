@@ -1,7 +1,7 @@
 # آرشیو کانال: @irancpi_vpn
-بروزرسانی: 2026-02-21 01:05:34 UTC
+بروزرسانی: 2026-02-21 10:19:37 UTC
 
-### 🕒 2026-02-21 00:54:16 UTC
+### 🕒 2026-02-21 08:14:09 UTC
 ***🦁***
  
 **حزب مشروطه ایران (لیبرال دمکرات)**
@@ -12,7 +12,7 @@
  
 **پراکسی تلگرام:**
  
-[سرور 1](https://t.me/proxy?server=149.28.66.90&amp;port=443&amp;secret=249e64f4ad73e8175ebac7ffef608d68)
+[سرور 1](https://t.me/proxy?server=216.128.150.102&amp;port=443&amp;secret=fa2b0f3843bd74fe260fd7cbcec0f6f3)
  • 
 [سرور 2](https://t.me/proxy?server=45.76.27.193&amp;port=443&amp;secret=02f898de784d6f2a4175403ced449184)
  • 

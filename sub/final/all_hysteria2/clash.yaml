@@ -469,6 +469,9 @@ proxies:
   - {name: 46@oneclickvpnkeys, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 33@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 32@oneclickvpnkeys, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 27@oneclickvpnkeys, server: 132.145.28.17, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 30@oneclickvpnkeys`, server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 16@oneclickvpnkeys, server: 152.70.176.68, port: 1, type: hysteria2, ports: 1, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 2, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 3, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
@@ -507,6 +510,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
@@ -535,6 +541,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
@@ -563,6 +572,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
@@ -600,6 +612,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
@@ -628,6 +643,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
@@ -656,6 +674,9 @@ proxy-groups:
       - 46@oneclickvpnkeys
       - 33@oneclickvpnkeys
       - 32@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 30@oneclickvpnkeys`
+      - 16@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3

@@ -1,5 +1,79 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-21 01:03:46 UTC
+بروزرسانی: 2026-02-21 10:17:46 UTC
+
+### 🕒 2026-02-21 10:16:09 UTC
+> ↪️ **Forwarded**
+
+تولدت مبارک سید
+[#سیدمحمد_حسینی](?q=%23%D8%B3%DB%8C%D8%AF%D9%85%D8%AD%D9%85%D8%AF_%D8%AD%D8%B3%DB%8C%D9%86%DB%8C)
+ 
+[سفر پیاده تا دریا]
+[@mamlekate](https://t.me/mamlekate)
+
+---
+
+### 🕒 2026-02-21 08:23:44 UTC
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 06:13:38 UTC
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 06:13:10 UTC
+[https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==)
+[https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000](https://t.me/proxy?server=195.254.165.18&port=65535&secret=10446282fffffffffff80000fff80000)
+[https://t.me/proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=www.spsctr.info.&port=22&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+[https://t.me/proxy?server=91.239.192.175&port=140409&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=91.239.192.175&port=140409&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 06:11:49 UTC
+`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NetAccountvless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh29v3.globalfymain.com&type=grpc#NetAccountvless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NetAccount`
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 04:59:26 UTC
+> ↪️ **Forwarded**
+
+«وارد شهر نور مازندران که بشوید با همچین صحنه‌ای رو برو خواهید شد؛ صحنه‌ای از جنایات  جمهوري اسلامي»
+[@mamlekate](https://t.me/mamlekate)
+
+---
 
 ### 🕒 2026-02-20 20:41:05 UTC
 نیویورک تایمز: به ثانیه صفر نزدیک می‌شویم
@@ -296,91 +370,6 @@
 [@mamlekate](https://t.me/mamlekate)
  
 [#هدیه_به_میهن](?q=%23%D9%87%D8%AF%DB%8C%D9%87_%D8%A8%D9%87_%D9%85%DB%8C%D9%87%D9%86)
-
----
-
-### 🕒 2026-02-19 09:49:27 UTC
-نخست وزیر لهستان :
-فورا ایران رو ترک کنید و ممکن است خارج شدن از ایران تا ساعاتی دیگر امکان پذیر نباشد!
-
----
-
-### 🕒 2026-02-19 08:13:14 UTC
-سی‌ان‌ان: ارتش آمریکا آماده حمله به ایران از آخر همین هفته‌ست، اما ترامپ هنوز تصمیم نهایی رو نگرفته.
-
----
-
-### 🕒 2026-02-19 07:58:03 UTC
-[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 06:26:12 UTC
-یادآوری: ما زنده ایم برای یک انتقام باشکوه 
-***✌🏻***
-***🕊️***
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 05:58:22 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 05:57:59 UTC
-[https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=195.254.165.212&port=9443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.23&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 05:57:35 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.198:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?type=ws&security=tls&path=/?ed=2560&Telegram+@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram+@WangCai2#NetAccountvless://79b5b31e-9557-4ea6-9ec5-450d7cdefecd@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f&sni=google.com#NetAccount`
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
 
 ---
 

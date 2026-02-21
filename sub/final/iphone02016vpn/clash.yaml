@@ -465,6 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "%***🆔***", server: 46.38.143.236, port: 60633, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=, udp: true, tfo: false}
+  - {name: "%***🆔*** 2", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@mehrosaboran", server: 162.159.194.86, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran 2", server: 45.130.125.160, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn آلمان`", server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -478,6 +480,7 @@ proxies:
   - {name: "@mehrosaboran` 2", server: 3.72.18.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn German 1`", server: v2.dabache.top, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn آلمان` 2", server: 104.17.25.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2, servername: apii.onlineshoppingez.ir, network: ws, ws-opts: {path: /O1w0n3vYgFKYs7EzNAvLPvOp, headers: {Host: apii.onlineshoppingez.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%***🆔*** 3", server: 163.172.29.106, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ea6b03ef-8356-4a8c-abe4-eade7a4806e4, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,6 +497,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -507,12 +512,15 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -526,12 +534,15 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -545,6 +556,7 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -560,6 +572,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -573,12 +587,15 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -592,12 +609,15 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "%***🆔***"
+      - "%***🆔*** 2"
       - "@mehrosaboran"
       - "@mehrosaboran 2"
       - "@iphone02016vpn آلمان`"
@@ -611,6 +631,7 @@ proxy-groups:
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
       - "@iphone02016vpn آلمان` 2"
+      - "%***🆔*** 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:
