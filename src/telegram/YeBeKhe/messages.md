@@ -1,5 +1,129 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-21 10:18:06 UTC
+بروزرسانی: 2026-02-21 20:15:50 UTC
+
+### 🕒 2026-02-21 19:15:15 UTC
+> ↪️ **Forwarded**
+
+[Avast Secureline](https://t.me/Eset_key_trial)
+ 
+Activation Code
+7HW6YT-ZUKRZJ-48CJLW
+`C5SNHZ-K2NLT2-48CJFA`
+`WBHBGX-TBKMCJ-48CJE6`
+`8S924R-4NFL52-48CJUA`
+هر کلید 
+***💯***
+ کاربر
+
+---
+
+### 🕒 2026-02-21 19:06:22 UTC
+[پروکسی](https://t.me/proxy?server=85.133.194.125&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.126&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.200&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.201&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.202&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.203&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.204&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.129&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.130&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.131&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+  
+[پروکسی](https://t.me/proxy?server=85.133.194.207&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ 
+[پروکسی](https://t.me/proxy?server=85.133.194.205&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+
+---
+
+### 🕒 2026-02-21 18:28:25 UTC
+کار جدید روزبه بمانی 
+حال و هوای این روزای ایران
+***💔***
+
+---
+
+### 🕒 2026-02-21 16:46:05 UTC
+حجم فیک نیوز و ضد خبر به شدت افزایش پیدا کرده که در در این روزهای منتهی به حمله کاملا طبیعیه!
+
+---
+
+### 🕒 2026-02-21 14:39:09 UTC
+یادم رفت بگم این کانفیگا رو وارد برنامه v2rayng یا happ بکنید
+و اینکه با این پروکسی تلگرامو میاره و فقط در حالت فعال بودن کانفیگا میاره و سرعت خوبی داره 
+[https://t.me/socks?server=104.248.197.67&port=1080](https://t.me/socks?server=104.248.197.67&port=1080)
+
+---
+
+### 🕒 2026-02-21 14:39:08 UTC
+محتوای این فایل تعدادی کانفیگ سرورلس هست که میتونید باهاش یوتیوب و توییتر برید با سرعت بالا قبلا اینستا هم میورد تست کنید 
+بدرد کسایی میخوره که یوتیوب زیاد میرن و البته کانفیگ حجمی میخرن
+برای همه اپراتور هاست
+
+---
+
+### 🕒 2026-02-21 12:03:41 UTC
+Telegram Proxy
+[https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=65.109.255.27&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=65.109.255.27&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=mizanesgh.co.uk.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=mizanesgh.co.uk.&port=23&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=91.107.240.185&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=91.107.240.185&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=5.75.217.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=5.75.217.248&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=https.spsctr.info.&port=25565&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=https.spsctr.info.&port=25565&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=oh.ajab-soorati-dare.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=oh.ajab-soorati-dare.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNng](https://t.me/proxy?server=www.hombus.co.uk.&port=22&secret=fgScoaLSXQYtLCM8VHoNng)
+[https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=hamrah-aval-pq.omide-hasti.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=android.gq.the-bests-servers.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=android.gq.the-bests-servers.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=95.217.242.224&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=95.217.242.224&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=api.android-st.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=api.android-st.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=116.202.177.184&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=116.202.177.184&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=champagne.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=shimmer.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=5.75.206.5&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA](https://t.me/proxy?server=5.75.206.5&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+[https://t.me/proxy?server=internal-proxy.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=internal-proxy.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=wine.limoozin.info&port=25565&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=ai.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Ghasam-be-shab.bekhan-mara.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=zilweb.gamesea.info.&port=61016&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=pretty.dokhtarbandari.info.&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=pretty.dokhtarbandari.info.&port=22&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=Full-nets.ir.ou-miaiad.info&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=cdn.gamelande.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=cdn.gamelande.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&port=443&secret=3XnnAQIAAQAH8AMDhuJMOt0)
+[https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](https://t.me/proxy?server=www.lost-packet-chrome.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
+
+---
+
+### 🕒 2026-02-21 12:03:40 UTC
+V2rayNg Hiddify Karing Happ 
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.unovless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttpss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.35:8080vless://b1b25fba-c0d0-48ea-971b-5cf4aee373d1@shop2.afraserver4.top:7335?security=none&encryption=none&host=cafeariel.ir&headerType=http&type=tcpss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206ZENtd2FUUXhLazZRQU16Rm5RZEhrUmh4SEYxZHVuaUJYNE9WOXhJekxFRT0@51.38.141.210:8388vless://d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73@zyro.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcpss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.90.81.219:443ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp2cXlFZEd5c0tROUZrV0hrUG5vd19mQk5BTmNNUnNOSA@45.95.233.133:8388vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttpvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttpvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=nlbv1.pabloping.pro&type=xhttpvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=pabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttpvless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#%F0%9F%A7%A1%20%40Bluefilter_org%20%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%D9%85%D9%88%D9%86%20%F0%9F%A7%A1vless://5cfbed15-e39a-4067-b20b-9243bfb8c234@3.72.62.160:15200?security=none&encryption=none&headerType=none&type=tcpvless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=1&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=1&sni=cd11.thisiswe.uno`
+
+---
+
+### 🕒 2026-02-21 10:57:49 UTC
+[https://fixupx.com/purrlu/status/2025153802249158715](https://fixupx.com/purrlu/status/2025153802249158715)
+
+---
+
+### 🕒 2026-02-21 10:51:42 UTC
+[https://fixupx.com/redpillmediax/status/2025106544875241483/fa](https://fixupx.com/redpillmediax/status/2025106544875241483/fa)
+
+---
 
 ### 🕒 2026-02-21 07:10:44 UTC
 [پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
@@ -437,16 +561,6 @@ Subscriptions
 خلبانان موفق شدند هواپیمای آسیب‌دیده را به پایگاه سوم شکاری تاکتیکی برگردانند، اما ارابه فرود به طور کامل باز نشد. پس از فرود شکمی، هواپیما از باند خارج شد. سرگرد مهدی فیروزمند کشته شد. کمک خلبان از هواپیما خارج شد و زنده ماند.
 خلبان قبل از فرود اضطراری، از شنیدن صدای انفجار و شوک در پایین هواپیمای خود خبر داد. سپس اعلام وضعیت اضطراری کرد و به سرعت به پایگاه بازگشت.
 نیروی هوایی معتقد است که سپاه این کار را انجام داده است، اما سپاه این موضوع را تکذیب می‌کند.
-
----
-
-### 🕒 2026-02-19 19:51:58 UTC
-Channel photo updated
-
----
-
-### 🕒 2026-02-19 18:24:02 UTC
-***😏***
 
 ---
 

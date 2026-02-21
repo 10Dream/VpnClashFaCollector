@@ -1,5 +1,34 @@
 # آرشیو کانال: @AzadNet
-بروزرسانی: 2026-02-21 10:15:29 UTC
+بروزرسانی: 2026-02-21 20:13:23 UTC
+
+### 🕒 2026-02-21 17:14:17 UTC
+***🔴***
+ 
+**نسخه‌ی جدید اپ هیدیفایHiddify v4.0.5**
+در گوگل‌پلی قرار گرفت:
+[https://play.google.com/store/apps/details?id=app.hiddify.com](https://play.google.com/store/apps/details?id=app.hiddify.com)
+***📌***
+به زودی بصورت ریلیز در 
+[گیت‌هاب رسمی](https://github.com/hiddify/hiddify-app/releases)
+ و 
+[وبسایت رسمی](https://hiddify.com/)
+ هم برای دیگر سیستم عامل‌ها قرار خواهد گرفت
+***❤️***
+ با سپاس از توسعه دهندگان 
+***🫡***
+
+---
+
+### 🕒 2026-02-21 12:35:27 UTC
+vless://8e4e9b67-9294-43dd-e01a-22823d8cefab@18.197.62.7:443?security=none&encryption=none&headerType=none&type=tcp#VIP.%40AzadNet%20%F0%9F%92%9A
+vless://21889ffd-54ee-40f9-e9b0-f1838908579a@3.127.98.95:443?security=none&encryption=none&headerType=none&type=tcp#VIP.%40AzadNet%20%F0%9F%92%9A
+vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#VIP.%40AzadNet%20%F0%9F%92%9A
+`
+[@AzadNet](https://t.me/AzadNet)
+ 
+***💚***
+
+---
 
 ### 🕒 2026-02-20 08:31:29 UTC
 **Hiddify Windows v4.0.4 Setup**
@@ -51,42 +80,6 @@ Hiddify v4.0.4
 [@AzadNet](https://t.me/AzadNet)
      |     
 [AzadNet MOD](https://t.me/+bd0Ox3_wKfY2N2Jk)
-
----
-
-### 🕒 2026-02-19 18:52:20 UTC
-فایل را دانلود کنید.
-در اپلیکیشن به بخش Configs بروید سپس + را بزنید و در منویی که باز می‌شود گزینه
-Import npvt config file 
-را انتخاب کنید.
-اپلیکیشن مورد نیاز:
-***⬇️***
- 
-[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***⬇️***
- 
-[دانلود نسخه iOS](https://apps.apple.com/app/id1629465476)
-[@AzadNet](https://t.me/AzadNet)
-
----
-
-### 🕒 2026-02-19 12:21:24 UTC
-[#کانفیگ](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF)
- Npv Tunnel  
-500 گیگ ترافیک اتصال مستقیم - اختصاصی 
-(شاید در بعضی از نقاط و اپراتور ها متصل نشود )
-- فایل را دانلود کنید.
-ـ در اپلیکیشن به بخش Configs بروید ـ سپس + را بزنید و در منویی که باز می‌شود گزینه
-Import npvt config file 
-را انتخاب کنید.
-اپلیکیشن مورد نیاز:
-***⬇️***
- 
-[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-***⬇️***
- 
-[دانلود نسخه iOS](https://apps.apple.com/app/id1629465476)
-[@AzadNet](https://t.me/AzadNet)
 
 ---
 

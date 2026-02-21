@@ -1,5 +1,718 @@
 # آرشیو کانال: @theAnixy
-بروزرسانی: 2026-02-21 10:20:49 UTC
+بروزرسانی: 2026-02-21 20:18:25 UTC
+
+### 🕒 2026-02-21 19:15:19 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~90ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=184.75.209.2&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 19:15:13 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~90ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=184.75.209.2&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 15:25:09 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇫🇮***
+ 
+**Finland**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~15ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=tnco.tncco.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0=)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 15:00:06 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~5ms**
+***🕒***
+ عمر پست : 
+**3 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=koukicohost1.co.uk&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 14:05:11 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~7ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=yazdan.htop.info&amp;port=443&amp;secret=1603010200010001fc030386e24c3add)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 14:05:09 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~4ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=https.spsctr.info.&amp;port=25565&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:25:07 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~7ms**
+***🕒***
+ عمر پست : 
+**3 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=185.84.157.103&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:23 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~4ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=reboot.tikla.info&amp;port=443&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1iaXNjb3R0aS55ZWt0YW5ldC5jb20)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:21 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇩🇪***
+ 
+**Germany**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~41ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=https.abr-parvaz.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:20 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇸🇪***
+ 
+**Sweden**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟡 پایدار**
+***⏱***
+ پینگ میانگین : 
+**~75ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=saborbash-vasle.minetor.co.uk&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:18 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇫🇮***
+ 
+**Finland**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~18ms**
+***🕒***
+ عمر پست : 
+**5 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=settings.appsettings.info.&amp;port=42341&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:17 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇫🇮***
+ 
+**Finland**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~32ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=support.secureloginpanel.cfd&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:15 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇫🇮***
+ 
+**Finland**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~43ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=hello-world.tg.engineer&amp;port=443&amp;secret=d9e48875e76c21092c63e78050247929)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:14 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🔴 ناپایدار**
+***⏱***
+ پینگ میانگین : 
+**~534ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=solz.mobovin.ir&amp;port=443&amp;secret=1603010200010001fc030386e24c3add)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:11 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇩🇪***
+ 
+**Germany**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~11ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=91.107.240.185&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:08 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇩🇪***
+ 
+**Germany**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~14ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=178.63.237.152&amp;port=443&amp;secret=ee36136ce248067964d1bdab9d4546529c7777772e636c6f7564666c6172652e636f6d)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 13:05:07 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~12ms**
+***🕒***
+ عمر پست : 
+**4 دقیقه پیش**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](tg://proxy?server=reboot.tikla.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 11:50:11 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇩🇪***
+ 
+**Germany**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~11ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=5.75.217.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIA)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 11:50:08 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟡 پایدار**
+***⏱***
+ پینگ میانگین : 
+**~21ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=www.hombus.co.uk.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNng)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 11:50:07 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~6ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=https.spsctr.info.&amp;port=25565&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 10:45:16 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇨🇦***
+ 
+**Canada**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~5ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=https.spsctr.info.&amp;port=25565&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D%5D(https://t.me/TurboProxyIR)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 10:45:14 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇩🇪***
+ 
+**Germany**
+***📡***
+ اپراتور : 
+**ایرانسل / ADSL**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~25ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=Pinkbala.36.88.54.48yorkstreet.ir&amp;port=9741&amp;secret=EECLOUDASIz____94iaQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
+
+### 🕒 2026-02-21 10:45:12 UTC
+**🚀 پروکسی جدید پرسرعت**
+***📍***
+ لوکیشن : 
+***🇮🇷***
+ 
+**Iran**
+***📡***
+ اپراتور : 
+**همه اپراتورها**
+***⚙️***
+ پروتکل : 
+**MTProto**
+***📊***
+ پایداری : 
+**🟢 بسیار پایدار**
+***⏱***
+ پینگ میانگین : 
+**~6ms**
+***🕒***
+ عمر پست : 
+**همین الان**
+***✅***
+ 
+[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ%5D(https://t.me/+1_hJPaBAdxQ1OGJk)
+***🆔***
+ 
+[@theAnixy](https://t.me/theAnixy)
+
+---
 
 ### 🕒 2026-02-21 09:40:20 UTC
 **🚀 پروکسی جدید پرسرعت**
@@ -3845,1308 +4558,6 @@
 ***✅***
  
 [**برای اتصال ضربه بزنید**](https://t.me/proxy?server=5.75.201.246&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 20:05:10 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~20ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=212.147.232.240&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 20:05:09 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~9ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=always.paradiselandi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 20:05:07 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~11ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=95.217.242.224&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:50:07 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟡 پایدار**
-***⏱***
- پینگ میانگین : 
-**~28ms**
-***🕒***
- عمر پست : 
-**2 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=mci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:19 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~5ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=tci.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:17 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~4ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:13 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~17ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=00mm.filmne2t.info&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:11 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~11ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=5.75.217.248&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:09 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇴🇲***
- 
-**Oman**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~3ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=www.rasht-e-nazanin.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:08 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~28ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=65.109.178.132&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 19:05:06 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~10ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=peyk.acharbashi.info&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 18:05:18 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~32ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=www.bits-lab.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3ad37765622e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 18:05:16 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~11ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=78.47.57.6&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;@Data_proxy)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 18:05:15 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🔴 ناپایدار**
-***⏱***
- پینگ میانگین : 
-**~84ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=proxy.jo3.org&amp;port=65534&amp;secret=eeccf8d1c423c36cc2b8a9be92dbf15b8170726f78792e6a6f332e6f7267)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 18:05:10 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~12ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=116.203.139.144&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;@Data_proxy)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 17:05:13 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~13ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=78.47.57.6&amp;port=443&amp;secret=YyEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEgYdJXfrFmgMCIMJdjjRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 17:05:12 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~11ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=116.202.183.122&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 16:05:15 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~6ms**
-***🕒***
- عمر پست : 
-**4 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 16:05:14 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~7ms**
-***🕒***
- عمر پست : 
-**4 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=tavakalta-alalah.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 16:05:11 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~5ms**
-***🕒***
- عمر پست : 
-**4 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=www.40-rooz-gozasht.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 16:05:09 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇭***
- 
-**Switzerland**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🔴 ناپایدار**
-***⏱***
- پینگ میانگین : 
-**~160ms**
-***🕒***
- عمر پست : 
-**4 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=rasm.tiged.tradevoip.co.uk&amp;port=443&amp;secret=EliteProxyy____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;&amp;channel=@baicai_dev)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 16:05:06 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~8ms**
-***🕒***
- عمر پست : 
-**4 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09****)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:17 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~5ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=pretty.dokhtarbandari.info.&amp;port=22&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:15 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~4ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=91.239.192.147&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:12 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~4ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=91.239.192.186&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:11 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~19ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=cdn.yektanet.com.rashkapo.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:10 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~2ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=172.65.117.172&amp;port=22&amp;secret=dd79e344818749bd7ac519130220c25d09%5D(https://t.me/TurboProxyIR)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 13:55:08 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~9ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=snap.huijsen.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:17 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~9ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=meli2.ir4-tv.info&amp;port=22&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:16 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~4ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=185.84.156.8&amp;port=4515&amp;secret=eee9a4f23b1d768c04a8d7f39120ca5b6e626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:12 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~28ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=89.167.55.15&amp;port=65534&amp;secret=ee8763031b4b40c71776cf7cc864aa7af670726f78792e6a6f332e6f7267)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:11 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~3ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=www.roto-best.info&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:09 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~5ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=qavie.ir4-tv.info&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 12:55:08 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~6ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 11:55:14 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇺🇸***
- 
-**United States**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~146ms**
-***🕒***
- عمر پست : 
-**5 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=5.78.77.99&amp;port=443&amp;secret=ee00000000000000000000000000000000616e6e6173682e636f6d%5D(https://t.me/+gWLENGSFJWViNGU0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 11:55:11 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇮🇷***
- 
-**Iran**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~9ms**
-***🕒***
- عمر پست : 
-**5 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=rasm.tigerdr.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 11:55:10 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~12ms**
-***🕒***
- عمر پست : 
-**5 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 11:55:08 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~3ms**
-***🕒***
- عمر پست : 
-**5 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=www.roto-best.info.&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 11:55:07 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇩🇪***
- 
-**Germany**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~16ms**
-***🕒***
- عمر پست : 
-**5 دقیقه پیش**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](https://t.me/proxy?server=d.artishchev.org&amp;port=8443&amp;secret=963a7fd525b04c4533ce776c9bd70f34)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 10:50:15 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇫🇮***
- 
-**Finland**
-***📡***
- اپراتور : 
-**ایرانسل / ADSL**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~36ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=44434413.qavi.baryc6w.co.uk&amp;port=443&amp;secret=ProxyQavi____ProxymelgACM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 10:50:13 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇸🇪***
- 
-**Sweden**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~47ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=azadi.minetor.co.uk&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@theAnixy](https://t.me/theAnixy)
-
----
-
-### 🕒 2026-02-19 10:50:08 UTC
-**🚀 پروکسی جدید پرسرعت**
-***📍***
- لوکیشن : 
-***🇨🇦***
- 
-**Canada**
-***📡***
- اپراتور : 
-**همه اپراتورها**
-***⚙️***
- پروتکل : 
-**MTProto**
-***📊***
- پایداری : 
-**🟢 بسیار پایدار**
-***⏱***
- پینگ میانگین : 
-**~5ms**
-***🕒***
- عمر پست : 
-**همین الان**
-***✅***
- 
-[**برای اتصال ضربه بزنید**](tg://proxy?server=wine.limoozin.info&amp;port=25565&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ***🆔***
  
 [@theAnixy](https://t.me/theAnixy)

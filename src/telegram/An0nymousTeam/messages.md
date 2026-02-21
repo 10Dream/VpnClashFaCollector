@@ -1,5 +1,5 @@
 # آرشیو کانال: @An0nymousTeam
-بروزرسانی: 2026-02-21 10:15:25 UTC
+بروزرسانی: 2026-02-21 20:13:19 UTC
 
 ### 🕒 2026-02-20 20:41:11 UTC
 ***🎁***
@@ -83,33 +83,6 @@ Hiddify
 [دانلود از گیتهاب](https://github.com/hiddify/hiddify-app/releases)
 [#هیدیفای](?q=%23%D9%87%DB%8C%D8%AF%DB%8C%D9%81%D8%A7%DB%8C)
 [#Hiddify](?q=%23Hiddify)
----------------
-***🔳***
- 
-[@An0nymousTeam](https://t.me/An0nymousTeam)
-
----
-
-### 🕒 2026-02-19 11:30:01 UTC
-**Leaf VPN**
-***✅***
-فیلترشکن رایگان 
-***📱***
-پشتیبانی از سیستم عامل:  (Android/IOS/Windows)
-بدون نیاز به ثبت‌نام و اتصال تنها با یک کلیک
-سورس کد برنامه:
-[https://github.com/eycorsican/leaf](https://github.com/eycorsican/leaf)
-***📥***
-  
-[دانلود نسخه اندروید](https://play.google.com/store/apps/details?id=com.leaf.and.aleaf)
-***📥***
-  
-[دانلود نسخه IOS](https://apps.apple.com/us/app/leaf-vpn/id1534109007)
-***📥***
- 
-[دانلود نسخه ویندوز](https://www.kitslabs.com/leafvpndownloads/LeafVPN-setup.exe?v=v1.0.7)
-***✔️***
-روی ایرانسل و مخابرات تست شده و بدون مشکل وصل میشه.
 ---------------
 ***🔳***
  

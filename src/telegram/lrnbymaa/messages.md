@@ -1,5 +1,100 @@
 # آرشیو کانال: @lrnbymaa
-بروزرسانی: 2026-02-21 10:19:41 UTC
+بروزرسانی: 2026-02-21 20:17:22 UTC
+
+### 🕒 2026-02-21 19:48:20 UTC
+� 
+**اتصال پایدار، سریع و امن**
+ارائه کانفیگ اختصاصی V2RayNG
+با کیفیت تضمینی و تست قبل خرید
+***✔***
+ سرعت بالا واقعی
+***✔***
+ بدون قطعی در ساعات شلوغ
+***✔***
+ مناسب استریم و استفاده روزمره
+***💼***
+ 
+**پلن‌های متنوع (متناسب با شرایط اقتصادی شما):**
+***🔸***
+ نامحدود (۱ تا ۲۴ ماهه)
+***💰***
+ از 
+**۱۰۰ هزار تومان تا ۱۰ میلیون تومان**
+***🔸***
+ حجمی (۳۰ تا ۲۰۰ گیگ)
+***💰***
+ از 
+**۲۰۰ هزار تومان تا ۸۰۰ هزار تومان**
+***🎯***
+ فعال‌سازی فوری
+***📩***
+ 
+**دریافت تست:**
+***👉***
+ 
+[https://t.me/lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+ 
+برای خرید با ایدی زیر در ارتباط باشید:
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+
+---
+
+### 🕒 2026-02-21 18:54:49 UTC
+`vless://4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4@54.180.129.73:443?security=reality&encryption=none&pbk=TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=chatgpt.com&sid=f5# lrnbymaavless://f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d@3.67.6.1:15948?type=tcp&encryption=none&security=none# lrnbymaavless://5ffb4a1a-255c-4d51-93ce-ac731c8e94d9@3.125.18.51:39781?type=tcp&encryption=none&security=none# lrnbymaavless://32e80ab8-a9b8-4d5e-a9ad-60b161eadf88@3.68.186.119:28427?type=tcp&encryption=none&security=none# lrnbymaavless://4ba18e09-571e-4b81-a360-8d74bb3a903e@3.72.1.0:44708?type=tcp&encryption=none&security=none# lrnbymaa`
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
+   
+***🌐***
+ 
+[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
+  ‍
+
+---
+
+### 🕒 2026-02-21 13:43:19 UTC
+***🔴***
+ وزارت خارجه آمریکا ی پلتفرم جدید به اسم Freedom راه‌اندازی کرد که به کاربرای ایرانی و چینی امکان دسترسی به اینترنت آزاد و بدون فیلترینگ میده،طبق اعلام وزارت خارجه آمریکا هیچ فیلترینگی روی این پلتفرم کار نمیکنه.
+***⭐️***
+ 
+[@lrnbymaa](https://t.me/lrnbymaa)
+
+---
+
+### 🕒 2026-02-21 11:40:13 UTC
+`vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr# lrnbymaa vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws# lrnbymaa vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.162.231.138:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in# lrnbymaa vless://9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63@vb24.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaa vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&fp=chrome&type=ws&sni=hetz.x-smm.com#%E2%9A%A1Telegram%20%3D%20%40 lrnbymaa `
+کانفینگ پرسرعت 
+***🚨***
+***🌔***
+ یک بار بزنید روی کانفیگ‌ کپی میشه 
+  
+***💎***
+اگه ارور داد برنامه 
+***🖥***
+ v2ray آپدیت کنید
+***🔹***
+جهت خرید کانفیگ های اختصاصی پرسرعت نامحدود میتونید از ادمین‌لرن‌بای‌ما خریداری کنید 
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+   
+***🌐***
+ 
+[@lrnbymaaadmin](https://t.me/lrnbymaaadmin)
+  ‍‍
+
+---
 
 ### 🕒 2026-02-21 05:02:54 UTC
 > ↪️ **Forwarded**
@@ -221,86 +316,6 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&h
 **   🌐 **
 [**@lrnbymaaadmin**](https://t.me/lrnbymaaadmin)
 **  ‍**
-
----
-
-### 🕒 2026-02-19 13:13:03 UTC
-> ↪️ **Forwarded**
-
-***🆕***
- 
-**نسل جدید فیلترشکن ها**
- 
-***🆕***
-***🎆***
-***✨***
-** با قیمت مناسب بخر و خودتو راحت کن!!!**
-***💎***
-***⚡️***
-** همین حالا میتونی در**
- 
-**کمتر از ۱ دقیقه از فیلترینگ عبور کنی**
- !
-***📶***
-***📶***
- 
-**ویژه همه اپراتورها**
-***🎧***
-***🎧***
- 
-**تیم پشتیبانی حرفه‌ای**
-**🛡**
-**🛰**
-** بدون قطعی با سرعت تضمینی**
-***📊***
-** امکان بررسی باقیمانده حجم توسط کاربر**
-**🤖**
-** Android **
-**🤍**
-**iOS **
-**💙**
-** Windows **
-**🤍**
-** NapsternetV **
-**🤍**
-** V2rayNg **
-**💚**
-** FairVpn **
-***🔵***
-**FoxRay**
-  
-***⚫️***
- 
-**V2Box**
-***✅***
-** تضمینی و معتبر**
- 
-**کانال**
-***❤️***
- 
-**مشاهده استوری رضایت مشتریان و تهیه اشتراک از طریق تنها اکانت رسمی کانال:**
-***💠***
-***👉***
- 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
-***💠***
-***👉***
- 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
-***💠***
-***👉***
- 
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
-***⭕️***
- 
-**کانال ما هیچ ربات و اکانت دیگری غیر از آدرس بالا ندارد و تمامی ربات ها و آیدی های مشابه که برخی ساعات در انتهای کانال توسط ربات های تلگرامی بدون هماهنگی با ما قرارداده میشوند فیک و کلاهبرداری می باشند .**
-***🚀***
-** **
-[@Lrnbymaa](https://t.me/Lrnbymaa)
- 
-***🚀***
-** **
-[@Lrnbymaaadmin](https://t.me/Lrnbymaaadmin)
 
 ---
 

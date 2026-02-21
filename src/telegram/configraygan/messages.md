@@ -1,5 +1,122 @@
 # آرشیو کانال: @configraygan
-بروزرسانی: 2026-02-21 10:18:57 UTC
+بروزرسانی: 2026-02-21 20:16:39 UTC
+
+### 🕒 2026-02-21 13:32:39 UTC
+***📦***
+ 
+**پک  عددی ترکیبی ، ایرانسل ، همراه اول ، مخابرات و.....**
+**✅**
+**کاملا تست شده دونه به دونه**
+**🌈**
+** تمامی فایل هارو کپی کنید ، داخل v2ray یا Npv بزنید ، پینگ بگیرید ، sort کنید ، استفاده کنید ، لذت ببرید .**
+**🏳**
+** با این پک به راحتی ، از اینترنت آزاد استفاده کنید.**
+**🆓**
+** کاملا رایگان**
+
+---
+
+### 🕒 2026-02-21 13:25:22 UTC
+***😀***
+**اموزش وصل  کانفیگ رایگان نپسترنت :**
+**😀**
+**برنامه Npv یا همون نپسترنت رو دانلود کنید**
+**😀**
+**این کانفیگ هارو داخلش ادد بزنید **
+**😀**
+**پینگ بگیرید و بهش زمان بدین downlink اومد یعنی وصل شده .**
+**🔴**
+**کانکت شید**
+**☯️**
+**تمام 😘**
+
+---
+
+### 🕒 2026-02-21 13:22:52 UTC
+***📦***
+ 
+**پک  عددی ترکیبی ، ایرانسل ، همراه اول ، مخابرات و.....**
+**✅**
+**کاملا تست شده دونه به دونه**
+**🌈**
+** تمامی فایل هارو کپی کنید ، داخل v2ray یا Npv بزنید ، پینگ بگیرید ، sort کنید ، استفاده کنید ، لذت ببرید .**
+**🏳**
+** با این پک به راحتی ، از اینترنت آزاد استفاده کنید.**
+**🆓**
+** کاملا رایگان**
+
+---
+
+### 🕒 2026-02-21 12:46:01 UTC
+**بریم برای پخت و پز جدید....**
+
+---
+
+### 🕒 2026-02-21 12:32:02 UTC
+**پسورد ندارن این دوتا**
+
+---
+
+### 🕒 2026-02-21 12:31:43 UTC
+> ↪️ **Forwarded**
+
+حجم:  نامحدود
+بزنید داخل نپسترنت
+
+---
+
+### 🕒 2026-02-21 12:19:49 UTC
+یه کانفیگ خفن گذاشتم داخل کانال پشتیبان:   از همون پولیا. لازم داشتین بردارین.   https://t.me/configraygan2
+
+---
+
+### 🕒 2026-02-21 12:18:58 UTC
+3 گیگ تو 8 دقیقه مصرف شده.  سعی کنید فیلم و فایل حجم بالا دانلود نکنید. بتونیم تمدید کنیم. پایدار بتونید استفاده بکنید
+
+---
+
+### 🕒 2026-02-21 11:19:17 UTC
+سرعتشم خیلی بالاس.  بزنید داخل نپسترنت
+
+---
+
+### 🕒 2026-02-21 11:14:11 UTC
+یه کانفیگ خفن گذاشتم داخل کانال پشتیبان:   از همون پولیا. لازم داشتین بردارین.   https://t.me/configraygan2
+
+---
+
+### 🕒 2026-02-21 11:10:05 UTC
+یه کانفیگ خفن گذاشتم داخل کانال پشتیبان:   از همون پولیا. لازم داشتین بردارین.   https://t.me/configraygan2
+
+---
+
+### 🕒 2026-02-21 11:08:39 UTC
+یه کانفیگ خفن گذاشتم داخل کانال پشتیبان: 
+از همون پولیا. لازم داشتین بردارین. 
+[https://t.me/configraygan2](https://t.me/configraygan2)
+
+---
+
+### 🕒 2026-02-21 10:24:20 UTC
+**کانفیگ های جدید که فرستادم عالین**
+
+---
+
+### 🕒 2026-02-21 10:21:27 UTC
+***😀***
+**اموزش وصل  کانفیگ رایگان نپسترنت :**
+**😀**
+**برنامه Npv یا همون نپسترنت رو دانلود کنید**
+**😀**
+**این کانفیگ هارو داخلش ادد بزنید **
+**😀**
+**پینگ بگیرید و بهش زمان بدین downlink اومد یعنی وصل شده .**
+**🔴**
+**کانکت شید**
+**☯️**
+**تمام 😘**
+
+---
 
 ### 🕒 2026-02-21 10:18:29 UTC
 ***📦***
@@ -602,87 +719,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.103:23576?security=reali
 vless://ccedb1b1-35f3-46d1-a85a-c699eef5f3e1@5.254.85.152:443?security=reality&encryption=none&pbk=AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=germany.scroogethebest.com&sid=4fa44664f6a566d3#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%C2%B3%E3%80%8F
 vless://0fd6389a-acb9-48b4-8d2c-63edc5dbc4ba@135.181.205.220:31421?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%AB%F0%9F%87%AE%C2%B9%E2%81%B4%E3%80%8F
 vless://Fluffy_VPN-NZPzrzi5@89.110.119.44:443?security=reality&encryption=none&pbk=pi3nuu39TECDwHciK9c7oWaMz6KfJWUOiWVLfo1Nz3M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com#%E2%9A%A1%EF%B8%8F+%7C+%40configraygan%E3%80%8E%F0%9F%87%A9%F0%9F%87%AA%C2%B9%E2%81%B5%E3%80%8F
-
----
-
-### 🕒 2026-02-19 15:52:31 UTC
-***📦***
- 
-**پک  عددی ترکیبی ، ایرانسل ، همراه اول ، مخابرات و.....**
-**✅**
-**کاملا تست شده دونه به دونه**
-**🌈**
-** تمامی فایل هارو کپی کنید ، داخل v2ray یا Npv بزنید ، پینگ بگیرید ، sort کنید ، استفاده کنید ، لذت ببرید .**
-**🏳**
-** با این پک به راحتی ، از اینترنت آزاد استفاده کنید.**
-**🆓**
-** کاملا رایگان**
-
----
-
-### 🕒 2026-02-19 15:51:08 UTC
-vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@free-httpcustom-free-httpcustomhfree-httpcustom-free-httpcustom.frre-plus-mobile.ir:443?mode=packet-up&path=%2Fvideo%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&host=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir#configraygan_45
-`vless://80a0a9c5-408c-4e93-aace-451773f8a2cc@firan.dtgoldservices.com:8443?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&type=tcp&security=tls&sni=firan.dtgoldservices.com&allowInsecure=1&encryption=none#configraygan_46`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configraygan_47
-`ss://YWVzLTI1Ni1nY206WmhQRjhwUVh5WnF1VE5lWm1TUG42V3RzT0d2MjJSUnlQa0QrclBML3dRVT0@54.151.202.83:38591?note=---Telegram---@NetifyVPN---#configraygan_48`
-
----
-
-### 🕒 2026-02-19 15:51:07 UTC
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#configraygan_24
-vless://5a923f93-30d2-4f8b-ba28-afc637901e54@cdnjs.com:2083?path=%2F%40mahdi_383ir&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=kh2tiyozkxybazdibomyhih.mahdi383ir.website&fp=firefox&type=ws&allowInsecure=0&sni=kh2tiyozkxybazdibomyhih.mahdi383ir.website#configraygan_25
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.gossipglove.com#configraygan_26
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#configraygan_27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.204.185:443#configraygan_28
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@norman.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#configraygan_29
-vless://ee82d334-2b55-4f9a-8228-c8f8e1cd378b@194.48.142.150:443?security=reality&encryption=none&pbk=p5K2ZF8AswAugTlEs2wXdmoZqjP8vAVkGAcnCkEfyUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s4.plan-vpn.ru&sid=d3d62c692a64fa2d#configraygan_30
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.12.151:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#configraygan_31
-vless://b57f971b-f6e2-42dc-b058-35f48b79acd3@91.107.190.226:1616?security=&encryption=none&headerType=&type=tcp#configraygan_32
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#configraygan_33
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.72.18.221:443?security=&encryption=none&headerType=none&type=tcp#configraygan_34
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#configraygan_35
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@172.66.47.45:2096?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ca.adobe-connect.top&type=ws&allowInsecure=0&sni=ca.adobe-connect.top#configraygan_36
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#configraygan_37
-trojan://dd39bb7d-2bea-41b5-be20-fa228a45f639@iiiiii9.huangshang.us.ci:443?path=%2FtSROScnWofV7ia41dH&security=tls&alpn=http%2F1.1&insecure=0&host=iiiiii9.HuANGShANg.uS.ci&type=ws&allowInsecure=0&sni=iiiiiI9.hUANgShaNG.uS.Ci#configraygan_38
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=&encryption=none&type=grpc#configraygan_39
-vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@172.66.128.70:80?path=%2F%3Fed&security=&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#configraygan_40
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#configraygan_41
-vless://7b6f190f-0609-4773-8015-e6927fd1479d@t.serverapimanagement.ir:2020?security=reality&encryption=none&pbk=6NGPp6ufteJQS4sZdAsG4BdxP34NxmocO17HzKjW8gc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eset.com&sid=eccdf98e91#configraygan_42
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@betty.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#configraygan_43
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#configraygan_44
-
----
-
-### 🕒 2026-02-19 15:51:07 UTC
-vmess://eyJhZGQiOiIxMDQuMjEuNjkuNDQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im5hc25ldC01MTE5NTI0MjQubWNpdGVsLmNvIiwiaWQiOiJuYXNuZXQiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbmFzbmV0L2NkbiIsInBvcnQiOiI4MDgwIiwicHMiOiLigKLirZAgQHdlZGJhelRlbCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
-[#configraygan_1](?q=%23configraygan_1)
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=none&type=tcp#configraygan_2
-vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=&encryption=none&headerType=none&type=tcp#configraygan_3
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=none&type=tcp#configraygan_4
-vless://ad6ded3c-6889-4993-ca2b-a811937c2bb8@3.76.37.193:59599?security=&encryption=none&headerType=none&type=tcp#configraygan_5
-vless://a46011f9-1f63-4b75-9a4c-f34a08a42be8@18.198.197.235:22636?security=&encryption=none&headerType=none&type=tcp#configraygan_6
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=&encryption=none&headerType=none&type=tcp#configraygan_7
-vless://65ea1867-ee13-41ad-819e-098553a3db2e@sr2.qirvo.fun:2082?security=&encryption=none&headerType=none&type=tcp#configraygan_8
-vless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.72.18.221:443?security=&encryption=none&headerType=none&type=tcp#configraygan_9
-vless://9ec38c74-61b6-4aff-8501-0cf7ae45dcc3@fix130.wizard2shop.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=x1.pishi.lat&fp=android&type=ws&allowInsecure=0&sni=x1.pishi.lat#configraygan_10
-vless://8a192afa-6ae2-4525-dd83-b99150e709a6@3.75.222.191:443?security=&encryption=none&headerType=none&type=tcp#configraygan_11
-vless://d28e35d3-2c23-4be5-c7a0-721bb001a76c@3.79.230.41:443?security=&encryption=none&headerType=none&type=tcp#configraygan_12
-trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#configraygan_13
-vless://5658624a-46cb-4377-85c9-540609f9c312@212.87.198.161:44703?security=&encryption=none&headerType=none&type=tcp#configraygan_14
-vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@afrcloud22.mmv.kr:443?path=%2F167.179.110.68%3D8443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&fp=chrome&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#configraygan_15
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@nl.jojack.ru:443?security=reality&encryption=none&pbk=sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=nl.jojack.ru&sid=6bb3c7f9f97b45b8#configraygan_16
-vless://48e3ec8d-44ce-4542-aa4d-a48573e0d423@94.184.24.235:56001?security=&encryption=none&headerType=&type=tcp#configraygan_17
-vless://a5f55350-22fc-4dd1-8f03-0a4eebe9f294@84.32.104.91:443?security=reality&encryption=none&pbk=1Fmm4PKKgErxMtaql9guUFc77Bacyh5G5_jMlV49exI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=79dacfa7#configraygan_18
-vless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=ipv4.yasharteam.com&fp=chrome&type=ws&allowInsecure=0&sni=ipv4.yasharteam.com#configraygan_19
-vless://ee82d334-2b55-4f9a-8228-c8f8e1cd378b@194.48.142.150:443?security=reality&encryption=none&pbk=p5K2ZF8AswAugTlEs2wXdmoZqjP8vAVkGAcnCkEfyUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=s4.plan-vpn.ru&sid=d3d62c692a64fa2d#configraygan_20
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.194.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=1&host=hetz.x-smm.com&type=ws&allowInsecure=1&sni=hetz.x-smm.com#configraygan_21
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@brenna.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&insecure=0&host=hetz.x-smm.com&fp=chrome&type=ws&allowInsecure=0&sni=hetz.x-smm.com#configraygan_22
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#configraygan_23
-
----
-
-### 🕒 2026-02-19 11:42:26 UTC
-تتر ۱۶۶ تومان
 
 ---
 

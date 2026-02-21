@@ -1,32 +1,156 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-21 10:19:18 UTC
+بروزرسانی: 2026-02-21 20:17:01 UTC
 
-### 🕒 2026-02-21 08:53:53 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**SagerNet/sing-box**
-:
-***🧪***
+### 🕒 2026-02-21 19:59:10 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
  
-**1.13.0-rc.5**
- (v1.13.0-rc.5) [Pre-release]
-## :memo: Release Notes
-* Add `mipsle`, `mips64le`, `riscv64` and `loong64` support for NaiveProxy outbound
-Important changes since 1.12:
-* Add NaiveProxy outbound **1**
-* Add pre-match support for `auto_redirect` **2**
-* Improve `auto_redirect` **3**
-* Add Chrome Root Store certificate option **4**
-* Add new options for ACME DNS-01 challenge providers **5**
-* Add Wi-Fi state support for Linux and Windows **6**
-* Add curve preferences, pinned public key SHA256, mTLS and ECH `query...
-(متن کامل در گیت‌هاب)
-***🔗***
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
  
-[مشاهده در گیت‌هاب](https://github.com/SagerNet/sing-box/releases/tag/v1.13.0-rc.5)
-[𓄂𓆃](https://t.me/update_releases)
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-21 19:15:19 UTC
+توت‌فرنگی vpn
+فایل های نصبی برنامه 
+***👆***
+***👆***
+***👆***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-21 19:15:19 UTC
+***🌟***
+ 
+**نسخه 1.0.0**
+ برنامه 
+**توت فرنگی وی‌پی‌ان**
+ منتشر شد! 
+***🍓***
+Strawberry VPN
+با کمال خوشحالی اعلام می‌کنیم که 
+**نسخه 1.0.0**
+ برنامه 
+**توت فرنگی وی‌پی‌ان**
+ اکنون در دسترس شماست!
+این برنامه 
+**رایگان**
+ و بدون هیچگونه 
+**محدودیتی**
+ طراحی شده است تا به شما امکان دسترسی سریع و امن به اینترنت را بدهد.
+***🔒***
+ 
+**امنیت و حریم خصوصی شما برای ما اهمیت دارد!**
+ 
+ما هیچ داده‌ای از شما جمع‌آوری نمی‌کنیم و تمامی اطلاعات شما به صورت محلی روی گوشی شما ذخیره می‌شود. با 
+**توت فرنگی وی‌پی‌ان**
+، می‌توانید با اطمینان کامل به گشت و گذار در اینترنت بپردازید.
+***📥***
+ برای دانلود برنامه ؛
+فایل‌های زیر را بر اساس معماری دستگاه خود انتخاب کنید :
+• 
+**نسخه v7a**
+ : برای دستگاه‌های 32 بیتی
+• 
+**نسخه v8a**
+ : برای دستگاه‌های 64 بیتی
+• 
+**نسخه Universal**
+ : برای تمامی دستگاه‌ها (پیشنهاد می‌شود اگر مطمئن نیستید کدام نسخه را دانلود کنید)
+***✨***
+ 
+**با ما همراه باشید و از تجربه‌ای سریع و مطمئن در اینترنت لذت ببرید.**
+ اگر سوالی دارید یا به کمک نیاز دارید، در هر زمان با ما در ارتباط باشید.
+***🍓***
+ 
+**با آرزوی بهترین‌ها**
+***🍓***
+ تیم توت فرنگی وی‌پی‌ان
+[@StrawBerryVpnApp](https://t.me/StrawBerryVpnApp)
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-21 17:46:46 UTC
+`https://zaya.io/C-Meta`
+بروزرسانی شد 
+***❤️***
+اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
+***👇🏻***
+ : 
+`https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt`
+ری اکشن فراموش نشه 
+***🫶🏻***
+سربرگ جدید برای همراه اول عالیه 
+***🔥***
+
+---
+
+### 🕒 2026-02-21 14:13:25 UTC
+https://zaya.io/C-Meta  بروزرسانی شد 
+***❤️***
+  اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
+***👇🏻***
+ :   https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt   (آپدیت مجدد در 5:38)
+
+---
+
+### 🕒 2026-02-21 14:04:32 UTC
+امشب معرفی دارم باز ... 
+یک فیلترشکن جدید کار یکی از دوستان هست ... 
+روی  تمامی نت ها کار میکنه ... 
+شب ساعت 10 منتظر همه هستم اینجا تو کانال ... 
+ری‌اکشن هم یادتون نره 
+***❤️***
+***❤️***
+***😎***
+
+---
+
+### 🕒 2026-02-21 13:35:30 UTC
+`https://zaya.io/C-Meta`
+بروزرسانی شد 
+***❤️***
+اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
+***👇🏻***
+ : 
+`https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt`
+(آپدیت مجدد در 5:38)
+
+---
+
+### 🕒 2026-02-21 10:59:58 UTC
+به به کالابرگ لباس هم داره میاد 
+***🫤***
+***🫤***
+ انگار باس منتظر شلوار ۵۰ میلیونی و تیشرت ۳۰ میلیونی باشیم .
 
 ---
 
@@ -209,164 +333,6 @@ vmess://eyJhZGQiOiI1MS44My41Mi4xNzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9z
 ۵ ساعت قبل نسخه ۴.۰.۴ از هیدیفای بصورت رسمی ارائه شد .
 نسخه از حالت آزمایشی در اومد و در سربرگ اصلی قرار گرفت الان همه میتونید نصبش کنید و ازش استفاده کنید.
 [https://github.com/hiddify/hiddify-app/releases/tag/v4.0.4](https://github.com/hiddify/hiddify-app/releases/tag/v4.0.4)
-
----
-
-### 🕒 2026-02-19 18:26:28 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-19 17:43:01 UTC
-الان میگن این چیه 
-***🤣***
-***🤣***
-***🤣***
-هیدیفای هست ، فقط نسخه ng هست 
-***🫠***
- همین ، اما پایداریش عالیه ، یکم گیر و میر داره ولی در کل خوبه .
-لینک دانلود از گوگل پلی :
-[https://play.google.com/store/apps/details?id=ang.hiddify.com](https://play.google.com/store/apps/details?id=ang.hiddify.com)
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-19 17:29:00 UTC
-***🚨***
-[ᑎΞᗯ ᑌᑭᗪᗩTΞ](https://lastest-update.pages.dev/)
-***🚀***
- نسخه جدید منتشر شد برای 
-**dyhkwong/Exclave**
-:
-***✅***
- 
-**0.17.19**
- (0.17.19)
-Compared to 0.17.14 and 0.17.15-beta.1:
-- Refactor ECH. This is a breaking change for some users. If ECH is enabled but not ECH config is provided, direct DNS will be used to query HTTPS record for ECH config. If ECH config is not found, connection will fail.
-- Merge the changes from v2ray-core 5.45.0 and 5.45.1.
-- Fix "interrupt reused connections when network changes" for some protocols.
-- Add support for [TrustTunnel deep link](
-[https://github.com/TrustTunnel/TrustTunnel/blob/8856e7ba83a](https://github.com/TrustTunnel/TrustTunnel/blob/8856e7ba83a)
-...
-(متن کامل در گیت‌هاب)
-***🔗***
- 
-[مشاهده در گیت‌هاب](https://github.com/dyhkwong/Exclave/releases/tag/0.17.19)
-[𓄂𓆃](https://t.me/update_releases)
-
----
-
-### 🕒 2026-02-19 16:05:11 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-19 15:51:55 UTC
-[https://subvibe.easylix.casa:2087/sub/SGFtZWQsMTc3MTUwODAyNALccwwdf3Vb](https://subvibe.easylix.casa:2087/sub/SGFtZWQsMTc3MTUwODAyNALccwwdf3Vb)
-این ساب ویتوری هم دوستان دادند 
-فرمودند نوش جان 
-***🦦***
-***❤️***
-
----
-
-### 🕒 2026-02-19 14:56:25 UTC
-`https://zaya.io/C-Meta`
-کانفیگ های جدید آماده خدمت‌رسانی به شمان 
-***😎***
-
----
-
-### 🕒 2026-02-19 13:25:11 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-19 13:24:34 UTC
-کانفیگ اوپن آوردم میخوام چند تا چند تا بذارم 
-ری اکشن نزدید کاملا ظالمانه بقیشو نمیذارم 
-***🦦***
-***😂***
-***❤️***
-
----
-
-### 🕒 2026-02-19 12:08:47 UTC
-به به 
-امشب کانفیگ ها و ابزارهای خوبی در دست دارم 
-***😎***
-از MRI هم خارج شدیم ببینیم جوابش چی میشه 
-***😁***
-
----
-
-### 🕒 2026-02-19 11:02:04 UTC
-کانفیگ تست مخصوص OpenVPN 
-اشتراک گذاری یادتون نره 
-***🫶***
-[نصب برنامه OpenVPN connect ](https://t.me/hamedvpns/13522)
- 
-..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
 
 ---
 

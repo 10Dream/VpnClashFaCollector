@@ -1,5 +1,146 @@
 # آرشیو کانال: @iphone02016vpn
-بروزرسانی: 2026-02-21 10:19:34 UTC
+بروزرسانی: 2026-02-21 20:17:15 UTC
+
+### 🕒 2026-02-21 17:07:59 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 15:28:45 UTC
+به همان دلیلی که افراد دوست دارند در واتس آپ و اینستاگرام فعالیت کنند.
+به همان اندازه دولت شما را دوست دارد، در این دو نرم‌افزار بمانید.
+
+---
+
+### 🕒 2026-02-21 14:39:21 UTC
+[https://t.me/proxy?server=koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=koukicohost1.co.uk&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 14:08:53 UTC
+«دووتا» یک 
+[#اپلیکیشن_خبرخوان](?q=%23%D8%A7%D9%BE%D9%84%DB%8C%DA%A9%DB%8C%D8%B4%D9%86_%D8%AE%D8%A8%D8%B1%D8%AE%D9%88%D8%A7%D9%86)
+ و یک پروتکل انتقال فوق‌سبک است که به‌گونه‌ای طراحی شده تا در برابر اختلالات اینترنت، از جمله قطعی‌های پیچیده منطقه‌ای و سراسری اینترنت، مقاومت بالایی داشته باشد.
+***✅***
+[#دووتا](?q=%23%D8%AF%D9%88%D9%88%D8%AA%D8%A7)
+ در واکنش به قطعی‌های اخیر اینترنت در ایران طراحی شده است. سازندگان این سرویس می‌گویند که با بررسی نحوه اجرای این قطعی‌ها، متدهای مختلفی برای تزریق داده شناسایی کرده‌اند و یک پروتکل انتقال اختصاصی سبک و صرفا متنی توسعه داده‌اند که این قابلیت را دارد که حتی در شرایط قطع اینترنت بسیار پیچیده در سطح منطقه‌ای و سراسری نیز کار کند.
+***⬇️***
+ دانلود از پس‌کوچه 
+[https://telegram.me/PaskoochehBot?start=RHV0YSAtIGFuZHJvaWQ=](https://telegram.me/PaskoochehBot?start=RHV0YSAtIGFuZHJvaWQ=)
+***⬇️***
+دانلود از گوگل‌پلی
+[https://play.google.com/store/apps/details?id=com.duta.duta&hl=en](https://play.google.com/store/apps/details?id=com.duta.duta&hl=en)
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 12:59:51 UTC
+***🌐***
+ سابسکریپشن‌های فعال و به‌روز – هر روز
+***🔄***
+ بروزرسانی روزانه → تقریباً همیشه سرورهای فعال داخل لیست هست.
+***🚀***
+ استفاده از مقاوم‌ترین پروتکل‌ها در برابر فیلترینگ:
+[#VLESS](?q=%23VLESS)
+ + 
+[#Reality](?q=%23Reality)
+ | 
+[#Hysteria2](?q=%23Hysteria2)
+ | 
+[#TUIC](?q=%23TUIC)
+***🔻***
+ لینک سابسکریپشن‌ها:
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/1.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/1.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/2.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/2.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/3.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/3.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/4.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/5.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/5.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/6.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/6.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/7.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/7.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/8.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/8.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/9.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/9.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/10.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/10.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/11.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/11.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/12.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/12.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/13.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/13.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/14.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/14.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/15.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/15.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/16.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/16.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/17.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/17.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/18.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/18.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/19.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/19.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/20.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/20.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/21.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/21.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/22.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/23.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/24.txt)
+[https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt](https://github.com/nikita29a/FreeProxyList/raw/refs/heads/main/mirror/25.txt)
+***❗️***
+ نکات مهم
+***📌***
+ این‌ها کانفیگ‌های عمومی و رایگان هستند؛ سرعت و پایداری به وضعیت سرورها بستگی دارد.
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 12:15:30 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 10:49:53 UTC
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
+
+### 🕒 2026-02-21 10:49:39 UTC
+برای نرم‌افزار netmod
+***🆔***
+ 
+[@iphone02016vpn](https://t.me/iphone02016vpn)
++ نظرتون؟! 
+***👍***
+ OR 
+***👎***
+
+---
 
 ### 🕒 2026-02-21 09:45:58 UTC
 سرور جدید V2ray 
@@ -1102,177 +1243,6 @@ Impoet npvt config file
 ---
 
 ### 🕒 2026-02-19 20:47:08 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 20:16:09 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 20:00:20 UTC
-[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.200&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.129&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.126&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.125&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.205&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.127&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.127&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.203&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 17:28:57 UTC
-`vless://13a4ea76-9199-4261-8d48-fac8f0c8bf46@F1.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=miosa.hamrahconfig.ir&type=httpupgrade#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***🤘***vless://13a4ea76-9199-4261-8d48-fac8f0c8bf46@F4.HaMrAhCoNf.Ir:2086?path=%2F&security=none&encryption=none&host=tEn.yLtSaF.lsS.laBoLg.dS-ohSeFahK-nEpPah-Ti-telNvS5.hamrahconfig.ir&type=httpupgrade#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***✌️***vless://284794c7-4dd7-4434-a269-d5517b2768c6@193.151.137.184:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***🤞***vless://284794c7-4dd7-4434-a269-d5517b2768c6@185.26.33.216:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***👍***vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***👏***vless://6a1c81ad-1363-484a-9812-2508bc2ca606@f1.springpaatogh8.store:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=takken.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***🙌***vless://45d95284-05ce-4e8b-ad84-a6bcdfebcb59@144.31.92.173:443?security=reality&encryption=none&pbk=0A9nE6Scvg5oYRN8aRsLR-YqrvDNNX5s2UXa4yvyRkA&headerType=none&type=tcp&flow=xtls-rprx-vision#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple***🫶***vless://284794c7-4dd7-4434-a269-d5517b2768c6@185.26.33.209:8011?mode=auto&path=%2F&security=reality&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%7D&pbk=bweM7rODFFwVcTc7p3hrWQt0oWIXNy7rr-opKrK58zM&fp=firefox&type=xhttp&sni=www.tgju.org&sid=5ca62fd4cea30bdf#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple`
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 14:31:37 UTC
-کانفیگ ویژه نپسترنت ا
-***🔥***
-**رایگان**
-برای استفاده از کانفیگ نپستر باید برنامه npv tunnel رو 
-از 
-[play store](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
-یا 
-[app store (ios) ](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-یا 
-[فایل تلگرامی](https://t.me/iphone02016vpn/24699)
- 
-دانلود کنید.
-اگه فیلترشکنت برای دانلود برنامه npv tunnel نسخه اندروید وصل نمیشه، برای راهنمایی نصب برنامه بدون نیاز به فیلترشکن 
-[روی من کلیک کن](https://t.me/iphone02016vpn/25081)
-.
-**🔺فایل رو دانلود و **
-در فایل منیجر و files 
-**ذخیره کنید**
-وارد اپ بشین قسمت کانفیگ +
-Impoet npvt config file 
-بزنید 
-کانفیگو انتخاب کنید خودکار وارد اپ میشه سپس اتصال بزنی
-د
- 
-***✋***
-****
-[#اندروید](?q=%23%D8%A7%D9%86%D8%AF%D8%B1%D9%88%DB%8C%D8%AF)
-** **
-[#آیفون](?q=%23%D8%A2%DB%8C%D9%81%D9%88%D9%86)
-** **
-[#پروکسی_رایگان](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-****
-[#npesternet](?q=%23npesternet)
-**  **
-[#MTProto](?q=%23MTProto)
-**  **
-[#npvTunnel](?q=%23npvTunnel)
-****
-[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
-** **
-[#پروکسی_تلگرام](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C_%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85)
-** **
-[#vpn](?q=%23vpn)
-** **
-[#singbox](?q=%23singbox)
-** **
-[#proxy](?q=%23proxy)
-** **
-[#v2ray](?q=%23v2ray)
-** **
-[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
-** **
-[#NapsternetV](?q=%23NapsternetV)
-** **
-[#iOS](?q=%23iOS)
-** **
-[#Config](?q=%23Config)
-***❤️***
-️
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-**+ نظرتون  ؟! 👍 OR 👎**
-
----
-
-### 🕒 2026-02-19 13:54:35 UTC
-`vless://1a78ba25-1f6f-4496-b2a7-3bfec130a734@free-httpcustom-free-httpcustomhfree-httpcustom-free-httpcustom.frre-plus-mobile.ir:443?mode=packet-up&path=%2Fvideo%2Fstream&security=tls&alpn=h2&encryption=none&insecure=0&host=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir&fp=chrome&type=xhttp&allowInsecure=0&sni=free-httpcustom-free-httpcustomifree-httpcustom-free-httpcustom.frre-plus-mobile.ir#%40mehrosaboran`
-``
-`vless://9ec38c74-61b6-4aff-8501-0cf7ae45dcc3@fix130.wizard2shop.com:2083?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=x1.pishi.lat&fp=android&type=ws&allowInsecure=0&sni=x1.pishi.lat#%40mehrosaboran`
-`vless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@162.159.194.86:2087?path=%2F&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#%40mehrosaboranvless://34911a7b-a3d9-47fe-ac0d-e07eeeea4864@45.130.125.160:2087?path=%2F&security=tls&encryption=none&insecure=0&host=amorix.abresani.com&type=ws&allowInsecure=0&sni=amorix.abresani.com#%40mehrosaboranvless://ccab17f9-00a7-4493-c4a6-bbdd9e22166e@3.72.18.221:443?security=none&encryption=none&headerType=none&type=tcp#%40mehrosaboran`
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 11:02:49 UTC
-***🆔***
- 
-[@iphone02016vpn](https://t.me/iphone02016vpn)
-+ نظرتون  ؟! 
-***👍***
- OR 
-***👎***
-
----
-
-### 🕒 2026-02-19 10:51:42 UTC
-پروکسی تلگرام 
-[پروکسی](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.18&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.23&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- 
-[پروکسی](https://t.me/proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.11&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-  
-[پروکسی](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.31&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=85.133.194.44&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
- | 
-[پروکسی](https://t.me/proxy?server=85.133.194.43&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 ***🆔***
  
 [@iphone02016vpn](https://t.me/iphone02016vpn)

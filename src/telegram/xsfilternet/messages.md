@@ -1,5 +1,89 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-21 10:21:37 UTC
+بروزرسانی: 2026-02-21 20:19:10 UTC
+
+### 🕒 2026-02-21 19:56:59 UTC
+> ↪️ **Forwarded**
+
+نسخه 1.0.1 منتشر شد.
+- اضافه شدن اعلان ها
+- مخفی شدن ایمیل کاربران
+- اضافه شدن فونت فارسی
+- تغییر ایموجی جمهوری اسلامی به پرچم زیبای شیر و خورشید
+[https://forum.iranguard.sbs](https://forum.iranguard.sbs/)
+
+---
+
+### 🕒 2026-02-21 19:24:57 UTC
+‏با این مقدار داخل عکس میتونید ‎پنلBpb خودتون قسمت ‎فرگمنت ورکر لس رو فعال کنید رفقا!
+***🚀***
+نکته:مقدار فرگمنت در هر نتی متفاوت ولی من این رو بهترین بوده واسم
+***💫***
+‎
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-21 19:15:34 UTC
+> ↪️ **Forwarded**
+
+[Avast Secureline](https://t.me/Eset_key_trial)
+ 
+Activation Code
+`FLHPW3-GD6UQ2-48CJDE`
+`4TP76R-BM5GBJ-48CJNW`
+`RJXU2V-RP6HAJ-48CJHN`
+`MHTHDT-47BU92-48CJGE`
+هر کلید 
+***💯***
+ کاربر
+
+---
+
+### 🕒 2026-02-21 16:53:44 UTC
+> ↪️ **Forwarded**
+
+**🔥**
+** تنها روشی که توی روزهای خونین دی‌ماه واقعاً وصل بود!**
+توی این ویدیو GFK Tunnel رو بهتون معرفی میکنم بین دو سرور خارج و ایران؛ روش ترکیبی قدرتمند از:
+***⚪️***
+ پروژه‌ی gfw_resist_tcp_proxy (از GFW-knocker عزیز، سازنده‌ی مهساNG)
+***⚪️***
+ پروژه‌ی paqctl (از SamNet-dev)
+***🌐***
+با تکنیک‌های Violated TCP + KCP + dual-backend، این تونل GFW ایران رو به راحتی دور می‌زنه و حتی تو شدیدترین فیلترینگ‌ها پایدار می‌مونه.
+***⚠️***
+ پیش‌نیازها و نکات مهم: 
+***1️⃣***
+ سرور ایران
+***2️⃣***
+ سرور خارج کشورهای اطراف مثل روسیه و امارات و ترکیه و...
+[دستورات استفاده شده توی ویدئو](https://t.me/MatinSenPaii/2042)
+***✉️***
+ 
+[تماشا در تلگرام ](https://t.me/MatinSenPaii/2041)
+***📹***
+ 
+[تماشا در یوتوب](https://youtu.be/BrONeIH8WPM)
+***💰***
+ 
+[دونیت](https://nowpayments.io/donation/matinsenpai)
+
+---
+
+### 🕒 2026-02-21 11:23:28 UTC
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-21 11:21:07 UTC
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-21 11:15:07 UTC
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-20 21:33:17 UTC
 درود به همه رفقا به لطف داش حسین کد اختصاصی چنل رو راه اندازی کردم داخل اپلیکیشن Mahsang شما با زدن این کد میتونید دسترسی به #کانفیگ های رایگان و #نامحدود ما داشته باشید!
@@ -206,48 +290,6 @@
 ***💫***
 ***🚀***
  (کلیک کنید کپی شه)  https://khsub.mahdi383ir.website/odyig5ctzqa8ykq1wuup/rkjzq97e2wjfdqgk   @xsfilternet
-
----
-
-### 🕒 2026-02-19 18:57:54 UTC
-vless://12808e09-a11a-45b5-b299-191cda50f681@core.speedmizban.net:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%2F%F0%9F%87%BA%F0%9F%87%B8%2F%F0%9F%87%AB%F0%9F%87%B7%20%40orangvpn
-نامحدود پر سرعت
-***🚀***
-***🔥***
-[@xsfilternet](https://t.me/xsfilternet)
-[@orangvpn](https://t.me/orangvpn)
-
----
-
-### 🕒 2026-02-19 18:51:33 UTC
-معرفی ابزار به زودی برای پیدا کردن ip لوکیشن و پورت ها برای هر پنلی که دارید یا ورکر و...
-به نظرم که شاهکاره دم اقا مهدی صدیقی نسب گرم به زودی لینک ابزار رو قرار میدم همراه با یک ابزار دیگه از ایشون رفقا!
-***🚀***
-***🥶***
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-19 17:56:20 UTC
-دوستان زنگ زدم اسنپ دیدم صدا نویز داره نگو بنده خدا پراید نبوده داره با B-2 میاد دنبالم از بس زیاده تو منطقه ازش پرسیدم چرا اومدی اینجا؟
-گفت:مذاکرات داره خوب پیش میره:))))
-[پروکسی](https://t.me/proxy?server=85.133.194.25&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-|
-[پروکسی](https://t.me/proxy?server=85.133.194.15&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA&amp;@e_s_v2ray)
-|
-[پروکسی](https://t.me/proxy?server=85.133.194.16&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-19 15:08:38 UTC
-کانفیگ نپستر 
-اختصاصی 4 لوکیشن
-رمز
-[@CluvexStudio](https://t.me/CluvexStudio)
-برای دوستانتون ارسال کنید!
-[@xsfilternet](https://t.me/xsfilternet)
-[@CluvexStudio](https://t.me/CluvexStudio)
 
 ---
 

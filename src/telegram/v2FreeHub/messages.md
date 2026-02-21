@@ -1,5 +1,5 @@
 # آرشیو کانال: @v2FreeHub
-بروزرسانی: 2026-02-21 10:20:57 UTC
+بروزرسانی: 2026-02-21 20:18:31 UTC
 
 ### 🕒 2026-02-20 20:06:06 UTC
 **🌍 SS | VLESS • Location: DE🇩🇪 RU🇷🇺 FR🇫🇷**
@@ -140,35 +140,6 @@
 [**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
 ** 👑**
 [**@v2FreeHub**](https://t.me/v2FreeHub)
-
----
-
-### 🕒 2026-02-19 11:05:00 UTC
-**🚀💥 آپدیت امروز سابلینک منتشر شد! | اتصال آزاد، سرعت بالا، بدون قطعی 🌍🔗**
-**🔗 لینک اتصال (کلیک کن):**
-`https://raw.githubusercontent.com/v2FreeHub/v2hub-configs/refs/heads/main/Sub-AutoUpdate`
-***♻️***
- 
-**Last Update: 2026,2,19 - 14:35**
-***📱***
- 
-**بعدش هر روز برای آپدیت فقط این کارو بکن:v2RayNG → Subscription → Update**
-***📲***
-** آموزش استفاده در v2RayNG:**
-[**Subscription → Add → Paste → Update**](https://t.me/v2FreeHub/58)
-**❤️ برای دوستات هم بفرست**
-[**#پاینده_ایران**](?q=%23%D9%BE%D8%A7%DB%8C%D9%86%D8%AF%D9%87_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
-** **
-[**#جاوید_شاه**](?q=%23%D8%AC%D8%A7%D9%88%DB%8C%D8%AF_%D8%B4%D8%A7%D9%87)
- 
-***👑***
-[**#VPN**](?q=%23VPN)
-** **
-[**#v2RayNG**](?q=%23v2RayNG)
-** **
-[**#AutoUpdate**](?q=%23AutoUpdate)
-[**@v2FreeHub**](https://t.me/v2FreeHub)
-** 🌐**
 
 ---
 

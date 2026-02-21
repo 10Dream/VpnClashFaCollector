@@ -1,5 +1,27 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-02-21 10:21:33 UTC
+بروزرسانی: 2026-02-21 20:19:05 UTC
+
+### 🕒 2026-02-21 19:38:01 UTC
+***🏢***
+ پروفایل: جولیو
+***✨***
+ نوع تجربه: تجربه مصاحبه
+برای مصاحبه شغلی که بعد از ارسال رزومه از طریق سایت کاریابی تماس گرفتن و رفتم
+جلسه اول با یک خانم محترم مکالمه داشتم که حرفه ای جلسه برگذار شد و در اخر چندسوال ...
+[https://tajrobe.wiki/review/oALZO](https://tajrobe.wiki/review/oALZO)
+
+---
+
+### 🕒 2026-02-21 18:43:04 UTC
+***🏢***
+ پروفایل: خودرو 45
+***✨***
+ نوع تجربه: تجربه مصاحبه
+بامن برای پوزیشن سی لول صحبت کردن و اولین مصاحبه ام HR بود
+(من فقط برای سی‌لول و دایرکتور اپلای میکردم و توی ۴ سال اخیر مصاحبه منابع انسانی نشدم و جلسه با منابع...
+[https://tajrobe.wiki/review/QQvpW](https://tajrobe.wiki/review/QQvpW)
+
+---
 
 ### 🕒 2026-02-20 20:03:57 UTC
 مخابرات:
@@ -75,35 +97,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%94%A
 دقیقاً همون اتفاقی که با کامپیوتر تو دهه ۸۰ افتاد. رابرت سولو گفته بود: «کامپیوتر رو همه‌جا می‌بینی جز تو آمار بهره‌وری.»
 ***✍️***
  Amir Afianian
-
----
-
-### 🕒 2026-02-19 17:47:46 UTC
-آپدیت جدید کلاینت شیر و خورشید 2026.02.18:  
-قابلیت به‌اشتراک‌گذاری اینترنت آزاد با دستگاه‌های دیگر روی شبکه از طریق HTTP و SOCKS پروکسی.
-این قابلیت را در تنظیمات برنامه می‌توانید فعال کنید (در اسکرین‌شات‌ها نشان داده شده). توصیه می‌کنم فقط روی شبکه‌های قابل اعتماد (مثلاً در منزل) استفاده کنید.
-می‌توانید آپدیت جدید را از اینجا دانلود کنید:
-[https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.02.18-5b197fc](https://github.com/shirokhorshid/shirokhorshid-android/releases/tag/v2026.02.18-5b197fc)
-
----
-
-### 🕒 2026-02-19 11:34:45 UTC
-تتر ۱۶۶ تومان
-
----
-
-### 🕒 2026-02-19 10:36:26 UTC
-سوال:
-سید، وب‌سرویس ارائه میدید برای ویکی‌تجربه؟
-یه صرفا اسم بیزنس/دامین رو پاس بدیم، ریت و امتیاز رو برگردونه.
-curl --request GET \
-  --url 'https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https%3A%2F%2Fafagh.info' \
-  --header 'Accept: */*' \
-  --header 'Accept-Encoding: gzip, deflate, br' \
-  --header 'Connection: keep-alive' \
-  --header 'User-Agent: EchoapiRuntime/1.1.0'
-مثال:
-[https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info](https://tajrobe.wiki/api/client/instagram/search?username=afaghgroup&website=https://afagh.info)
 
 ---
 

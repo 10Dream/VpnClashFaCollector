@@ -1,5 +1,96 @@
 # آرشیو کانال: @vpnRaya
-بروزرسانی: 2026-02-21 10:21:25 UTC
+بروزرسانی: 2026-02-21 20:18:58 UTC
+
+### 🕒 2026-02-21 20:10:18 UTC
+فردا یکشنبه موج گرما به اوج میرسد؛ دمای فردا ۶ تا ۱۴ درجه گرمتر از حالت عادی در این وقت از سال است.
+[ایفون](https://t.me/proxy?server=91.239.192.73&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+ | 
+[ایفون](https://t.me/proxy?server=91.239.192.80&amp;port=77777&amp;secret=EERigv%2F%2F%2F%2F%2F%2F+AAA%2F%2FgAAA%3D%3D)
+[همراه](https://t.me/proxy?server=195.254.165.18&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[همراه](https://t.me/proxy?server=195.254.165.68&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+[همراه](https://t.me/proxy?server=195.254.165.69&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[همراه](https://t.me/proxy?server=185.3.200.40&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[همراه](https://t.me/proxy?server=185.3.200.42&amp;port=45585&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ 
+[پروکسی](https://t.me/proxy?server=185.84.157.103&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.78&amp;port=65535&amp;secret=7hBEYoL_______gAAP_4AABiaXNjb3R0aS55ZWt0YW5ldC5jb20%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.68&amp;port=1234&amp;secret=ee1603010200010001fc030386e24c3add626973636f7474692e79656b74616e65742e636f6d)
+  
+[پروکسی](https://t.me/proxy?server=91.239.192.82&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.85&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.174&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=91.239.192.42&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwktLQ%3D%3D)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.109&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=91.239.192.81&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+ 
+[پروکسی](https://t.me/proxy?server=91.239.192.18&amp;port=3443&amp;secret=7lLIZ9x1mD-vS7N_kdUWTwkt)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.175&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.173&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.115.161.245&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.244&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.171&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+[پروکسی](https://t.me/proxy?server=185.3.200.170&amp;port=4055&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+ | 
+[پروکسی](https://t.me/proxy?server=185.3.200.30&amp;port=65535&amp;secret=ee10446282fffffffffff80000fff80000626973636f7474692e79656b74616e65742e636f6d)
+ | 
+[پروکسی](https://t.me/proxy?server=185.115.161.248&amp;port=9443&amp;secret=dd104462821249bd7ac519130220c25d09)
+ 
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
+
+### 🕒 2026-02-21 11:32:36 UTC
+دو دستگی عجیب غریب داخل دانشگاه!
+انگار لشگر کشی کردن هر دو طرف!
+[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** |**
+ 
+[همراه](https://t.me/proxy?server=185.84.157.102&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+**|**
+ 
+[همراه](https://t.me/proxy?server=195.254.165.233&amp;port=65535&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+**|**
+[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+** |**
+[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** | **
+[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
+** **
+|
+[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ |
+***🚀***
+ 
+[@v2ray_33](https://t.me/v2ray_33)
+
+---
 
 ### 🕒 2026-02-21 08:52:29 UTC
 ***🔶***
@@ -850,196 +941,6 @@ Link:
 
 ### 🕒 2026-02-19 21:19:55 UTC
 آیفون ۱۷ نیم میلیاردی هم دیدیم.
-[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** |**
-[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-19 20:15:42 UTC
-***🇮🇱***
-***🇮🇷***
- بنیامین نتانیاهو، نخست‌وزیر اسرائیل:
-اگر ایران به ما حمله کند، پاسخی دریافت خواهد کرد که حتی نمی‌تواند تصورش را بکند.
-نتانیاهو تأکید کرد اسرائیل برای «تمام سناریوها» آماده است و گفت منطقه خاورمیانه در یک «چهارراه حساس» قرار دارد.
-او مدعی شد با وجود آنچه دستاوردها خواند، «عناصر افراطی» از عقب‌نشینی خودداری کرده و در حال سازماندهی مجدد برای به چالش کشیدن اسرائیل هستند.
-[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** |**
-[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-19 19:18:29 UTC
-***💥***
- 
-**جدیدترین آپدیت اپلیکیشن رسمی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-****
-***✅***
- 
-[ورود](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- / 
-[ثبت نام](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- 
-**از**
- 
-**طریق اپلیکیشن 🌐 بالاترین ضرایب در سایت جهانی**
- 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🎖***
-**بزرگترین اسپانسر رسمی لالیگا و سری‌آ**
-
----
-
-### 🕒 2026-02-19 19:18:20 UTC
-> ↪️ **Forwarded**
-
-بازی جذاب 
-***🔴***
- لیل - ستاره سرخ 
-***🔴***
- را در 
-[1XBET](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
- پیش بینی کنید.
-***🔺***
- بالاترین ضریب ها در بین سایت های معتبر بین‌المللی 
-***📱***
- امکان تماشای بازی های مهم ورزشی در اپیکیشن
-***⚽️***
- اسپانسر رسمی پاریس سن ژرمن 
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🌐***
-Link: 
-[1XBET.COM](https://soxnr0iulrkh.info/L?tag=d_1516991m_2765c_&amp;site=1516991&amp;ad=2765)
-***🛑***
- برای ورود به سایت از وی پی ان (فیلترشکن) کشورهای ترکیه یا کانادا استفاده کنید
-***🛑***
-
----
-
-### 🕒 2026-02-19 19:17:53 UTC
-***💢***
-***🇮🇷***
- فوری/منابع امنیتی نزدیک به ایران از شهروندان ایرانی مقیم امارات،کویت،قطر،بحرین و اردن  که تاکنون موفق به خروج از این کشور ها نشده اند، می خواهند که سریعاً خاک این ۵ کشور را ترک کنند.
-[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** |**
-[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-19 19:15:35 UTC
-***✔️***
- 
-**مانور مشترک ایران و روسیه، شبیه‌سازی آزادسازی یک کشتی ربوده شده را به نمایش گذاشت.**
-[پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=91.239.192.153&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** |**
-[ایرانسل](https://t.me/proxy?server=185.3.200.172&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.186&amp;port=2054&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.185&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[ایرانسل](https://t.me/proxy?server=91.239.192.154&amp;port=7443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.191&amp;port=2053&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** | **
-[ایرانسل](https://t.me/proxy?server=185.3.200.136&amp;port=4455&amp;secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-** |**
-[آیفون](https://t.me/proxy?server=91.239.192.173&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.172&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[آیفون](https://t.me/proxy?server=91.239.192.175&amp;port=140409&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- |
-***🚀***
- 
-[@v2ray_33](https://t.me/v2ray_33)
-
----
-
-### 🕒 2026-02-19 19:15:11 UTC
-روزنامه تایمز انگلیس:
-انگلیس به آمریکا گفته نمیذاره از پایگاه‌هاش برای حمله به ایران استفاده بشه  
-***✅️***
 [پروکسی](https://t.me/proxy?server=195.254.165.71&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 ** | **
 [پروکسی](https://t.me/proxy?server=195.254.165.168&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)

@@ -1,5 +1,179 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-21 10:16:52 UTC
+بروزرسانی: 2026-02-21 20:14:37 UTC
+
+### 🕒 2026-02-21 19:12:09 UTC
+حتی قویترین احساسات هم با نادیده گرفته شدن ، منقضی می شوند.
+[همراه](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-21 19:00:15 UTC
+***🔴***
+رویترز: پس از مذاکرات در ژنو در روز سه‌شنبه، عراقچی گفت که دو طرف بر «اصول راهنما» توافق کردن، اما کاخ سفید اعلام کرد که هنوز فاصله زیادی بین دو طرف وجود داره.
+[همراه](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
+
+### 🕒 2026-02-21 18:59:50 UTC
+**📱**
+** اپلیکیشن اندروید بدون فیلتر ریتزوبت **
+***🔹***
+ 
+**ثبت نام آسان**
+ 
+***✅***
+***🔹***
+ 
+**رابط کاربری بسیار راحت و سریع**
+ 
+***✅***
+***🔹***
+** درگاه پرداخت کارت به کارت**
+ 
+***✅***
+***🔹***
+** درگاه پرداخت دلاری سریع**
+ 
+***✅***
+***🔹***
+ 
+**بونوس ۱۰۰ درصدی اولین واریز**
+ 
+***✅***
+***🔹***
+ 
+**بونوس ۱۰۰ درصدی واریز یکشنبه‌ها**
+ 
+***✅***
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+***⚡️***
+ 
+[@RitzoBet_ir](https://t.me/RitzoBet_ir)
+
+---
+
+### 🕒 2026-02-21 18:59:50 UTC
+***🔵***
+ تجربه‌ای فراتر از یک شرط‌بندی معمولی؛ در سایت بین المللی ریتزوبت
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+***1️⃣***
+***2️⃣***
+***3️⃣***
+***4️⃣***
+***⚡️***
+ زیرساخت حرفه‌ای و آسان
+***⚡️***
+ ضرایب رقابتی و آپشن های متفاوت
+***⚡️***
+ بونوس‌ 100% اولین واریز
+***⚡️***
+ بونوس 100% ورزشی یکشنبه‌ ها
+***🎰***
+ هر بازی : شروع یک برد بزرگ 
+[#RitzoBet](https://t.me/Ritzobet_ir/3141)
+***⁉️***
+ چرا ریتزوبت ؟
+***✔️***
+ بونوس خوش‌آمدگویی و ویژه روزانه
+***✔️***
+ بالاترین ضرایب ورزشی با تمام بازی ها
+***✔️***
+ امکان شارژ حساب با کارت بانکی
+***✔️***
+ محیط امن با پشتیبانی فارسی
+***📲***
+ 
+[**اپلیکیشن موبایل برای اندروید**](https://t.me/Ritzobet_ir/3141)
+***🌐***
+ 
+[https://RitzoBet.com](https://RitzoBet.com/)
+پشتیبان فارسی سایت ریتزوبت 
+***👇***
+g2
+***🅰***
+***⚡️***
+[@RitzoBetsupports](https://t.me/RitzoBetsupports)
+ 
+[#ریتزوبت #شرطبندی #پیشبینی](https://t.me/Ritzobet_ir/3141)
+
+---
+
+### 🕒 2026-02-21 14:23:58 UTC
+***🎙***
+یک منبع آگاه به رویترز:
+وقتی میانجی‌های عمانی پاکتی از طرف آمریکایی‌ها حاوی پیشنهادهای موشک رو تحویل دادن، عراقچی، حتی از باز کردن آن خودداری کرد و پس فرستاد!
+مقامات اسرائیلی معتقدن شکاف‌های بین واشنگتن و تهران غیرقابل پر شدنه.
+[همراه](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-21 09:38:05 UTC
 دهنت سرویس عباس چی به آمریکاییا گفتی که اینجوری دارن میان؟
@@ -423,110 +597,6 @@ Sponsored by
 نظر دیگران است،مابایداین خار را از بدن خود بیرون بکشیم
 نظردیگران هرلحظه میتواند تغییرکند نظر دیگران به نخی بند است
 همواره خودت باش ...
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 17:37:59 UTC
-چقدر از این تعریف رابرت فارست خوشم آمد و چقدر دقیق میگه که:
-نخستین انسانی که به جای پاسخ دادن به توهین، آن را نشنیده گرفت، نخستین پایه‌گذار فرهنگ و تمدن بشری بود.
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 15:00:11 UTC
-***⭕️***
- فاکس‌ نیوز:
-انتظار می‌رود ترامپ به‌زودی دستور اقدام نظامی علیه جمهوری اسلامی را صادر کند
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 12:15:40 UTC
-***🔴***
-سناتور لیندسی گراهام در مصاحبه با اسکای‌نیوز عربی: تصمیم آمریکا درباره ایران از قبل گرفته شده و این همه کشتی‌ بخاطر اینکه هوا در این فصل از سال خوبه، به اینجا نیمدن!
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 10:39:23 UTC
-‏در حال رفتن پیش آبراهام تا از نزدیک ببینم چه خواهد شد:
 [همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 

@@ -1,5 +1,15 @@
 # آرشیو کانال: @freewireguard
-بروزرسانی: 2026-02-21 10:21:46 UTC
+بروزرسانی: 2026-02-21 20:19:21 UTC
+
+### 🕒 2026-02-21 17:34:42 UTC
+`wireguard://yFTBlC5ZSmiecDIwKX7%2FoJ3TlVz0CENkz1ozsEjxNH8%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=220%2C34%2C72&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-21 21:04`
+
+---
+
+### 🕒 2026-02-21 14:34:38 UTC
+`wireguard://AFKcXm%2F7gW80BcSLo1kgTNQvWHDCd%2FLXDCwPHjcyx3Q%3D@162.159.192.4:2408?address=172.16.0.2%2F32&reserved=1%2C20%2C104&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-21 18:04`
+
+---
 
 ### 🕒 2026-02-21 06:34:28 UTC
 `wireguard://MGgFQBIpYFw2VjSd6rzlNi2xSYk95ex8BVjvKbCd%2FXE%3D@162.159.192.5:2408?address=172.16.0.2%2F32&reserved=30%2C192%2C21&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-21 10:04`
@@ -28,16 +38,6 @@
 
 ### 🕒 2026-02-20 06:33:58 UTC
 `wireguard://SLQM1iGPVovYSVkSPiyHJo7for5BfVoXBdhB%2BmPFxUE%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=220%2C50%2C126&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-20 10:03`
-
----
-
-### 🕒 2026-02-19 17:33:43 UTC
-`wireguard://IBHybJEVNPlvWIKIb%2Bjepe0aFisXAleu0LmxGK8F0GM%3D@162.159.192.3:2408?address=172.16.0.2%2F32&reserved=117%2C136%2C223&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-19 21:03`
-
----
-
-### 🕒 2026-02-19 14:33:38 UTC
-`wireguard://%2BF%2BiBuTQ7TwzXWb4C04UVLWq46YCNzX7tQaU4q4tN2Q%3D@162.159.192.3:4500?address=172.16.0.2%2F32&reserved=106%2C57%2C4&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-19 18:03`
 
 ---
 

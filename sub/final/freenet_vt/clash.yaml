@@ -465,18 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 2, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 3, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 4, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 5, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 6, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 7, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 8, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 9, server: 77.90.41.197, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 10, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 11, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt`, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt  § 2, server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: freenet_vt  § 2 2, server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: freenet_vt  § 3, server: 103.186.154.32, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
@@ -491,10 +479,6 @@ proxies:
   - {name: freenet_vt  § 0, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: freenet_vt  § 11, server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: freenet_vt  § 2 7, server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: freenet_vt 12, server: ll0ll.vip, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9dbc1ff-6364-4826-a973-71c0584116c4, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@freenet_vt`", server: G10.PRODNSSPEED10.IR, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: data-frm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-frm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 13, server: 66.103.210.150, port: 13485, type: vmess, uuid: 10f0133c-39c5-4224-f53d-ec4491114a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 14, server: id2.wpairplane.com, port: 9000, type: vmess, uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -511,18 +495,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -537,28 +509,12 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -573,28 +529,12 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -609,10 +549,6 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -628,18 +564,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -654,28 +578,12 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -690,28 +598,12 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
-      - freenet_vt 9
-      - freenet_vt 10
-      - freenet_vt 11
-      - freenet_vt`
       - freenet_vt  § 2
       - freenet_vt  § 2 2
       - freenet_vt  § 3
@@ -726,10 +618,6 @@ proxy-groups:
       - freenet_vt  § 0
       - freenet_vt  § 11
       - freenet_vt  § 2 7
-      - freenet_vt 12
-      - "@freenet_vt`"
-      - freenet_vt 13
-      - freenet_vt 14
   - name: دانلود منیجر 📥
     type: select
     proxies:
