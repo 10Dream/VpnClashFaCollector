@@ -466,22 +466,30 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: any@oneclickvpnkeys`, server: us1.anliangjifei.top, port: 12053, type: anytls, password: ae74dd32-c336-4be4-9c15-f6108292b3e5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 206.71.158.37:35000, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35@oneclickvpnkeys, server: 206.71.158.23, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46@oneclickvpnkeys, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 33@oneclickvpnkeys, server: 206.71.158.40, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 32@oneclickvpnkeys, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 2, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 3, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 4, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_58, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 5, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_63, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 6, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 206.71.158.41:35000, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 7, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: jnir.pichondan.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.175.249.174:35000 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_1, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 8, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 9, server: 77.90.41.197, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 Hong Kong, Hong Kong [BL]", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hkbgp.jjxcloud.xyz:8443 2, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 10, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: flyzone%3AeyCiXml9rpyfZLoVd65W92MgNikUqKXj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 11, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt`, server: 172.232.207.161, port: 6090, type: hysteria2, ports: 6090, password: freeflyzone1%3AT0JYDwuNHT3pdf3x9ftRTDg0Okwszjvj, obfs: salamander, obfs-password: etXTC5FrUoTkMu2xlBradrUQrLDMgHJ, sni: www.azki.com%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -501,22 +509,30 @@ proxy-groups:
     type: select
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: خودکار (بهترین پینگ) 🤖
@@ -526,22 +542,30 @@ proxy-groups:
     tolerance: 50
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -551,22 +575,30 @@ proxy-groups:
     tolerance: 50
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: اتصال پایدار 🔗
@@ -585,22 +617,30 @@ proxy-groups:
     interval: 600
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: توزیع بار (گردشی) 🔁
@@ -610,22 +650,30 @@ proxy-groups:
     interval: 600
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: توزیع بار (موقت) ⏳
@@ -635,22 +683,30 @@ proxy-groups:
     interval: 600
     proxies:
       - any@oneclickvpnkeys`
-      - 91.132.51.160:844
-      - 206.71.158.37:35000
+      - 35@oneclickvpnkeys
+      - 46@oneclickvpnkeys
+      - 33@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - freenet_vt
       - freenet_vt 2
       - freenet_vt 3
       - freenet_vt 4
+      - configraygan_58
       - freenet_vt 5
+      - configraygan_63
       - freenet_vt 6
+      - 206.71.158.41:35000
+      - "Telegram: @wiki_tajrobe"
+      - "@meliproxyy"
       - freenet_vt 7
+      - 5.175.249.174:35000
+      - 5.175.249.174:35000 2
+      - configraygan_1
       - freenet_vt 8
       - freenet_vt 9
-      - hkbgp.jjxcloud.xyz:8443
       - 🇭🇰 Hong Kong, Hong Kong [BL]
-      - hkbgp.jjxcloud.xyz:8443 2
       - freenet_vt 10
-      - "@meliproxyy"
+      - "@meliproxyy 2"
       - freenet_vt 11
       - freenet_vt`
   - name: دانلود منیجر 📥

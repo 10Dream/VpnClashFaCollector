@@ -1,5 +1,13 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-20 20:24:48 UTC
+بروزرسانی: 2026-02-21 01:07:40 UTC
+
+### 🕒 2026-02-20 21:33:17 UTC
+درود به همه رفقا به لطف داش حسین کد اختصاصی چنل رو راه اندازی کردم داخل اپلیکیشن Mahsang شما با زدن این کد میتونید دسترسی به #کانفیگ های رایگان و #نامحدود ما داشته باشید!
+***🔥***
+***🥶***
+  کدی که باید وارد کنید: bec3c324   @xsfilternet @Irdevs_dns
+
+---
 
 ### 🕒 2026-02-20 19:59:37 UTC
 > ↪️ **Forwarded**
@@ -271,22 +279,6 @@ Export wirguard configuration
 اگه داخل wgtunnel کار نکرد از داخل تنضیمات خود کانفیگ ۳ نقطه بزنید و mimic sip انتخاب کنید
 همراه اول ایرانسل اوکیه
 [@ConfigWireguard](https://t.me/ConfigWireguard)
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-18 21:05:31 UTC
-معرفی و راهنمایی اسکیریپت به زودی...
-ممنونم از سازنده اسکیریپ این اسکیریپ مخصوصا واسه ورکر و پیدا کردن ip تمیز عالیه به زودی 
-[#آموزش](?q=%23%D8%A2%D9%85%D9%88%D8%B2%D8%B4)
- های مربوطه رو میزارم رفقا!
-***🥰***
-***🥶***
-خود اسکیریپت:
-bash <(curl -fsSL https://raw.githubusercontent.com/Kolandone/Selector/main/Sel.sh)
-(قابل استفاده در 
-[ترموکس](https://play.google.com/store/apps/details?id=com.termux)
- اندروید)
 [@xsfilternet](https://t.me/xsfilternet)
 
 ---

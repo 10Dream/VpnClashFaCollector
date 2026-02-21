@@ -1,9 +1,27 @@
 # آرشیو کانال: @PewezaVPN
-بروزرسانی: 2026-02-20 20:20:15 UTC
+بروزرسانی: 2026-02-21 01:02:50 UTC
+
+### 🕒 2026-02-20 21:50:38 UTC
+**این پروکسی های اختصاصی تلگرام جدید ساخته شدن مناسب نت ملی**
+ 
+**برای همه اپراتورها**
+[**پروکسی Peweza اول**](https://t.me/proxy?server=makeup.duhpro.makeup&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+[**پروکسی Peweza دوم**](https://t.me/proxy?server=speed.adnabmc.ir&amp;port=22&amp;secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
+[**پروکسی Peweza سوم**](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**پروکسی Peweza چهارم**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی Peweza پنجم**](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+[**پروکسی Peweza ششم**](http://t.me/proxy?server=195.254.165.68&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+[**پروکسی Peweza هفتم**](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+این لیست پروکسی رو با عزیزاتون به اشتراک بذارید، ظرفیت بالاست و محدودیتی ندارن.
+***🔰***
+ 
+[@PewezaVPN](https://t.me/PewezaVPN)
+
+---
 
 ### 🕒 2026-02-20 19:56:06 UTC
 ***🔐***
-** مجموعه 9 کانفیگ جدید نت ملی اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری ویژه - 6با وارد کردن این فایل داخل نپستر 9 کانفیگ جدید VIP داخل برنامه اضافه میشود.**
+** مجموعه 11 کانفیگ جدید نت ملی اختصاصی برای اندروید و آیفون برنامه NPV Tunnel سری ویژه - 6با وارد کردن این فایل داخل نپستر 11 کانفیگ جدید VIP داخل برنامه اضافه میشود.**
 بعد از وارد کردن فایل با اینترنت عادی PING رو بزنید و Confirm کنید که یه تست گرفته بشه و به سرور هایی که پینگ بهتری دارن متصل بشید.
 برای اتصال چند ثانیه صبور باشید.
 با اکثر اینترنت ها تست شد.
@@ -247,17 +265,6 @@ WgTunnel-1(@PewezaVPN).sqlite3
 
 ### 🕒 2026-02-19 02:56:47 UTC
 **صبحتون بخیر، یه بک آپ شیک برای WG Tunnel همراه آموزشش بزودی..**
-
----
-
-### 🕒 2026-02-19 00:01:57 UTC
-**دوستان اندرویدی فیلترشکن Vless VPN آخرین نسخه مود شده، سرعت و اتصال خوبی دارهحتما دقت کنید همیشه با اینترنت عادی بدون فیلترشکن واردش بشید که پینگ سرور هارو درست بهتون بده**
-**آپلودش کردم رباتمون از لینک زیر میتونید دانلودش کنین:**
-[**t.me/Pewezabot?start=136926**](http://t.me/Pewezabot?start=136926)
-روی همه اپراتورها تست شد، خودش چندین سرور خوب داره که طبق پینگ میتونید به هر کدوم خواستید متصل بشید
-***🔰***
- 
-[@PewezaVPN](https://t.me/PewezaVPN)
 
 ---
 

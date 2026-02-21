@@ -1,5 +1,6954 @@
 # آرشیو کانال: @aristapnel
-بروزرسانی: 2026-02-20 20:21:57 UTC
+بروزرسانی: 2026-02-21 01:04:39 UTC
+
+### 🕒 2026-02-20 21:54:38 UTC
+***🔰***
+ 
+**پروکسی**
+:
+[tg://proxy?server=Df.filmne2t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=Df.filmne2t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=31334333310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=31334333310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=313343333310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=313343333310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=3133333433310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=3133333433310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=3133333433310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=3133333433310.full.filmne1t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[tg://proxy?server=Df.filmne2t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5](tg://proxy?server=Df.filmne2t.info&port=8080&secret=dd49a70de57a60174f18dfd7fe6ef6aaf5)
+[@aristapnel](https://t.me/aristapnel)
+
+---
+
+### 🕒 2026-02-20 21:54:09 UTC
+***🔰***
+ 
+**پروکسی:**
+[**پروکسی **](https://t.me/proxy?server=makeup.duhpro.makeup&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+[**پروکسی **](https://t.me/proxy?server=speed.adnabmc.ir&amp;port=22&amp;secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
+[**پروکسی **](https://t.me/proxy?server=85.133.194.34&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[**پروکسی**](https://t.me/proxy?server=85.133.194.17&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[**پروکسی **](https://t.me/proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+[**پروکسی **](http://t.me/proxy?server=195.254.165.68&amp;port=65535&amp;secret=10446282fffffffffff80000fff80000)
+[**پروکسی**](https://t.me/proxy?server=85.133.194.14&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@aristapnel](https://t.me/aristapnel)
+
+---
+
+### 🕒 2026-02-20 21:18:24 UTC
+***🌪️***
+ 
+**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
+ 
+***🌪️***
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`94`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:18 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:22 UTC
+***📡***
+ 
+**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
+ 
+***📡***
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`798`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:18 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:18 UTC
+***🛡️***
+ 
+**کانفیگ اختصاصی ClashMeta -  (Trojan)**
+ 
+***🛡️***
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`414`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:18 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:15 UTC
+***⚡***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VLess)**
+ 
+***⚡***
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`7615`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:18 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:11 UTC
+***🚀***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VMess)**
+ 
+***🚀***
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`585`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:18 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:07 UTC
+***🔌***
+ 
+** (TUIC)**
+ 
+***🔌***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`4`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#tuic](?q=%23tuic)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:18:03 UTC
+***🌀***
+ 
+**(Hysteria)**
+ 
+***🌀***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`3`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria](?q=%23hysteria)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:59 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`89`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:55 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`781`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:51 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`398`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:47 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`7394`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:42 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`541`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:38 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`8`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:34 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`37`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:31 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`29`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:27 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`339`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:17:23 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`66`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:17 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:36 UTC
+***🌪️***
+ 
+**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`94`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:14 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:33 UTC
+***📡***
+ 
+**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`798`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:14 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:30 UTC
+***🛡️***
+ 
+**کانفیگ اختصاصی ClashMeta -  (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`415`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:14 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:27 UTC
+***⚡***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`7612`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:14 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:23 UTC
+***🚀***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`588`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 21:14 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:19 UTC
+***🔌***
+ 
+** (TUIC)**
+ 
+***🔌***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`4`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#tuic](?q=%23tuic)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:16 UTC
+***🌀***
+ 
+**(Hysteria)**
+ 
+***🌀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`3`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria](?q=%23hysteria)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:12 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`89`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:08 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`781`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:04 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`398`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:14:00 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`7394`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:56 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`541`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:52 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`8`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:48 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`36`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:45 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`30`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:41 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`334`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 21:13:38 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`68`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 21:13 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:19 UTC
+***🌪️***
+ 
+**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`95`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 20:39 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:16 UTC
+***📡***
+ 
+**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`799`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 20:39 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:13 UTC
+***🛡️***
+ 
+**کانفیگ اختصاصی ClashMeta -  (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`392`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 20:39 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:10 UTC
+***⚡***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`7637`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 20:39 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:06 UTC
+***🚀***
+ 
+**کانفیگ اختصاصی ClashMeta -  (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد پروکسی‌ها: 
+`584`
+• فرمت: 
+`YAML`
+• به‌روزرسانی: 
+`2026/02/20 - 20:39 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود کنید
+***👈***
+ در نرم‌افزار ClashMeta وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:39:02 UTC
+***🔌***
+ 
+** (TUIC)**
+ 
+***🔌***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`4`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#tuic](?q=%23tuic)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:58 UTC
+***🌀***
+ 
+**(Hysteria)**
+ 
+***🌀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`3`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria](?q=%23hysteria)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:55 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`90`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:51 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`784`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:47 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`375`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:43 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`7437`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:39 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`539`
+• منبع: 
+`مخازن گیت‌هاب`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:35 UTC
+***🌪️***
+ 
+**(Hysteria2)**
+ 
+***🌪️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`8`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:32 UTC
+***📡***
+ 
+**(Shadowsocks)**
+ 
+***📡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`37`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
+***🔹***
+ 
+[Outline](https://apps.apple.com/app/outline-app/id1356178125)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#ss](?q=%23ss)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:28 UTC
+***🛡️***
+ 
+** (Trojan)**
+ 
+***🛡️***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`28`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Igniter](https://github.com/trojan-gfw/igniter/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Trojan](https://apps.apple.com/app/trojan/id689781934)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Trojan](https://github.com/trojan-gfw/trojan/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:24 UTC
+***⚡***
+ 
+** (VLess)**
+ 
+***⚡***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`343`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Xray](https://github.com/XTLS/Xray-core/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vless](?q=%23vless)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
+
+### 🕒 2026-02-20 20:38:21 UTC
+***🚀***
+ 
+** (VMess)**
+ 
+***🚀***
+>
+***📊***
+ 
+**آمار:**
+• تعداد کانفیگ‌ها: 
+`70`
+• منبع: 
+`کانال‌های تلگرام`
+• به‌روزرسانی: 
+`2026/02/20 - 20:38 UTC`
+***📱***
+ 
+**نرم‌افزارهای سازگار:**
+***🤖***
+ 
+**اندروید:**
+***🔹***
+ 
+[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
+***🔹***
+ 
+[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🔹***
+ 
+[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🍏***
+ 
+**آی‌اواس:**
+***🔹***
+ 
+[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
+***🔹***
+ 
+[Streisand](https://apps.apple.com/app/streisand/id6450534064)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***💻***
+ 
+**ویندوز:**
+***🔹***
+ 
+[v2rayN](https://github.com/2dust/v2rayN/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🔹***
+ 
+[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
+***🍎***
+ 
+**مک:**
+***🔹***
+ 
+[V2RayX](https://github.com/2dust/v2rayX/releases)
+***🔹***
+ 
+[FoXray](https://apps.apple.com/app/foxray/id6448898396)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***🐧***
+ 
+**لینوکس:**
+***🔹***
+ 
+[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
+***🔹***
+ 
+[v2rayA](https://github.com/v2rayA/v2rayA/releases)
+***🔹***
+ 
+[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
+***🔹***
+ 
+[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
+***🔹***
+ 
+[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
+***🔹***
+ 
+[SingBox](https://github.com/SagerNet/sing-box/releases)
+***🔹***
+ 
+[Hiddify](https://github.com/hiddify/hiddify-next/releases)
+***📥***
+ 
+**روش استفاده:**
+***👈***
+ فایل را دانلود یا کپی کنید
+***👈***
+ در نرم‌افزار مورد نظر وارد کنید
+***👈***
+ متصل شوید و لذت ببرید!
+==============================
+***🔗***
+ 
+[**https://t.me/aristapnel**](https://t.me/aristapnel)
+==============================
+[#arista](?q=%23arista)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#vpn](?q=%23vpn)
+ 
+[#freeconfig](?q=%23freeconfig)
+ 
+[#vless](?q=%23vless)
+ 
+[#vmess](?q=%23vmess)
+ 
+[#ss](?q=%23ss)
+ 
+[#trojan](?q=%23trojan)
+ 
+[#hysteria2](?q=%23hysteria2)
+ 
+[#clashmeta](?q=%23clashmeta)
+ 
+[#singbox](?q=%23singbox)
+ 
+[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
+ 
+[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
+
+---
 
 ### 🕒 2026-02-20 20:05:53 UTC
 ***📄***
@@ -15078,9124 +22027,6 @@
 [#vpn](?q=%23vpn)
  
 [#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:35 UTC
-***🚀***
- 
-**کانفیگ اختصاصی SingBox -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`568`
-• فرمت: 
-`BPF (Binary Processing Format)`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:32 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`107`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:29 UTC
-***📡***
- 
-**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`792`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:26 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی ClashMeta -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`408`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:23 UTC
-***⚡***
- 
-**کانفیگ اختصاصی ClashMeta -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7566`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:19 UTC
-***🚀***
- 
-**کانفیگ اختصاصی ClashMeta -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`568`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 17:29 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:15 UTC
-***🔌***
- 
-** (TUIC)**
- 
-***🔌***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`4`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#tuic](?q=%23tuic)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:11 UTC
-***🌀***
- 
-**(Hysteria)**
- 
-***🌀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`3`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria](?q=%23hysteria)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:07 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`103`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:29:03 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`781`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:59 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`395`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:55 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`7389`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:34 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`541`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:29 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`7`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:26 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`33`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:22 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`29`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:18 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`340`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 17:28:14 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`58`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 17:28 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:49 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی SingBox - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`109`
-• فرمت: 
-`BPF (JSON)`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:46 UTC
-***📡***
- 
-**کانفیگ اختصاصی SingBox - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`805`
-• فرمت: 
-`BPF (JSON)`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:43 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی SingBox -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`420`
-• فرمت: 
-`BPF (JSON)`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:40 UTC
-***⚡***
- 
-**کانفیگ اختصاصی SingBox -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7557`
-• فرمت: 
-`BPF (JSON)`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:36 UTC
-***🚀***
- 
-**کانفیگ اختصاصی SingBox -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`574`
-• فرمت: 
-`BPF (JSON)`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:33 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`109`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:31 UTC
-***📡***
- 
-**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`805`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:28 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی ClashMeta -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`420`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:25 UTC
-***⚡***
- 
-**کانفیگ اختصاصی ClashMeta -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7557`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:21 UTC
-***🚀***
- 
-**کانفیگ اختصاصی ClashMeta -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`574`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:41 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:17 UTC
-***🔌***
- 
-** (TUIC)**
- 
-***🔌***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`4`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#tuic](?q=%23tuic)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:13 UTC
-***🌀***
- 
-**(Hysteria)**
- 
-***🌀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`3`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria](?q=%23hysteria)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:10 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`105`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:06 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`795`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:41:02 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`407`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:58 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`7397`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:54 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`547`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:50 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`6`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:47 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`35`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:43 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`29`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:40 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`322`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:40:36 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`72`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:40 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:48 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی SingBox - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`101`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:45 UTC
-***📡***
- 
-**کانفیگ اختصاصی SingBox - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`787`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:42 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی SingBox -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`420`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:39 UTC
-***⚡***
- 
-**کانفیگ اختصاصی SingBox -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7576`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:36 UTC
-***🚀***
- 
-**کانفیگ اختصاصی SingBox -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`584`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:33 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`101`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:30 UTC
-***📡***
- 
-**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`787`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:27 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی ClashMeta -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`420`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:24 UTC
-***⚡***
- 
-**کانفیگ اختصاصی ClashMeta -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7576`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:21 UTC
-***🚀***
- 
-**کانفیگ اختصاصی ClashMeta -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`584`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 16:22 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:17 UTC
-***🔌***
- 
-** (TUIC)**
- 
-***🔌***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`4`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#tuic](?q=%23tuic)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:13 UTC
-***🌀***
- 
-**(Hysteria)**
- 
-***🌀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`3`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria](?q=%23hysteria)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:09 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`100`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:06 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`775`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:22:02 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`402`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:58 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`7365`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:54 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`536`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:50 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`4`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:47 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`35`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:43 UTC
-***🛡️***
- 
-** (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`56`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Igniter](https://github.com/trojan-gfw/igniter/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Trojan](https://apps.apple.com/app/trojan/id689781934)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Trojan-Qt5](https://github.com/trojan-gfw/trojan-qt/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Trojan](https://github.com/trojan-gfw/trojan/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:39 UTC
-***⚡***
- 
-** (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`336`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Xray](https://github.com/XTLS/Xray-core/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:21:36 UTC
-***🚀***
- 
-** (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`71`
-• منبع: 
-`کانال‌های تلگرام`
-• به‌روزرسانی: 
-`2026/02/20 - 16:21 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Streisand](https://apps.apple.com/app/streisand/id6450534064)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[V2RayX](https://github.com/2dust/v2rayX/releases)
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[v2rayA](https://github.com/v2rayA/v2rayA/releases)
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 16:05:11 UTC
-> ↪️ **Forwarded**
-
-تقویت شده
-
----
-
-### 🕒 2026-02-20 15:53:18 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی SingBox - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`98`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 15:53 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:53:15 UTC
-***📡***
- 
-**کانفیگ اختصاصی SingBox - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`788`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 15:53 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:53:12 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی SingBox -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`425`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 15:53 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:53:09 UTC
-***⚡***
- 
-**کانفیگ اختصاصی SingBox -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7509`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 15:53 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:53:04 UTC
-***🚀***
- 
-**کانفیگ اختصاصی SingBox -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`579`
-• فرمت: 
-`JSON`
-• به‌روزرسانی: 
-`2026/02/20 - 15:53 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار SingBox وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#singbox](?q=%23singbox)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:53:01 UTC
-***🌪️***
- 
-**کانفیگ اختصاصی ClashMeta - (Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`98`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:58 UTC
-***📡***
- 
-**کانفیگ اختصاصی ClashMeta - (Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`788`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:54 UTC
-***🛡️***
- 
-**کانفیگ اختصاصی ClashMeta -  (Trojan)**
- 
-***🛡️***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`425`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#trojan](?q=%23trojan)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:51 UTC
-***⚡***
- 
-**کانفیگ اختصاصی ClashMeta -  (VLess)**
- 
-***⚡***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`7509`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vless](?q=%23vless)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:47 UTC
-***🚀***
- 
-**کانفیگ اختصاصی ClashMeta -  (VMess)**
- 
-***🚀***
-***📊***
- 
-**آمار:**
-• تعداد پروکسی‌ها: 
-`579`
-• فرمت: 
-`YAML`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[ClashMeta For Android](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Clash Meta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Clash Verge](https://github.com/zzzgydi/clash-verge/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود کنید
-***👈***
- در نرم‌افزار ClashMeta وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#vmess](?q=%23vmess)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:43 UTC
-***🔌***
- 
-** (TUIC)**
- 
-***🔌***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`4`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#tuic](?q=%23tuic)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:39 UTC
-***🌀***
- 
-**(Hysteria)**
- 
-***🌀***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`3`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria](?q=%23hysteria)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:35 UTC
-***🌪️***
- 
-**(Hysteria2)**
- 
-***🌪️***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`96`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Nekobox](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[v2rayTUN](https://github.com/Forkgram/v2rayTUN/releases)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[FoXray](https://apps.apple.com/app/foxray/id6448898396)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Nekoray](https://github.com/MatsuriDayo/nekoray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
- 
-[#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
- 
-[#کانفیگ_رایگان](?q=%23%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF_%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86)
-
----
-
-### 🕒 2026-02-20 15:52:31 UTC
-***📡***
- 
-**(Shadowsocks)**
- 
-***📡***
-***📊***
- 
-**آمار:**
-• تعداد کانفیگ‌ها: 
-`773`
-• منبع: 
-`مخازن گیت‌هاب`
-• به‌روزرسانی: 
-`2026/02/20 - 15:52 UTC`
-***📱***
- 
-**نرم‌افزارهای سازگار:**
-***🤖***
- 
-**اندروید:**
-***🔹***
- 
-[Shadowsocks](https://play.google.com/store/apps/details?id=com.github.shadowsocks)
-***🔹***
- 
-[V2RayNG](https://play.google.com/store/apps/details?id=com.v2ray.ang)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Outline](https://play.google.com/store/apps/details?id=org.outline.android.client)
-***🔹***
- 
-[MahsaNG](https://github.com/GFW-knocker/MahsaNG/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍏***
- 
-**آی‌اواس:**
-***🔹***
- 
-[Shadowrocket](https://apps.apple.com/app/shadowrocket/id932747118)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[Potatso](https://apps.apple.com/app/potatso-lite/id1239860606)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***💻***
- 
-**ویندوز:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows/releases)
-***🔹***
- 
-[v2rayN](https://github.com/2dust/v2rayN/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🍎***
- 
-**مک:**
-***🔹***
- 
-[ShadowsocksX](https://github.com/shadowsocks/ShadowsocksX-NG/releases)
-***🔹***
- 
-[Outline](https://apps.apple.com/app/outline-app/id1356178125)
-***🔹***
- 
-[SingBox](https://apps.apple.com/app/sing-box/id6451272673)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***🐧***
- 
-**لینوکس:**
-***🔹***
- 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-qt5/releases)
-***🔹***
- 
-[Qv2ray](https://github.com/Qv2ray/Qv2ray/releases)
-***🔹***
- 
-[ClashVerge](https://github.com/zzzgydi/clash-verge/releases)
-***🔹***
- 
-[ClashMeta](https://github.com/MetaCubeX/Clash.Meta/releases)
-***🔹***
- 
-[SingBox](https://github.com/SagerNet/sing-box/releases)
-***🔹***
- 
-[Hiddify](https://github.com/hiddify/hiddify-next/releases)
-***📥***
- 
-**روش استفاده:**
-***👈***
- فایل را دانلود یا کپی کنید
-***👈***
- در نرم‌افزار مورد نظر وارد کنید
-***👈***
- متصل شوید و لذت ببرید!
-==============================
-***🔗***
- 
-[**https://t.me/aristapnel**](https://t.me/aristapnel)
-==============================
-[#arista](?q=%23arista)
- 
-[#ss](?q=%23ss)
- 
-[#vpn](?q=%23vpn)
- 
-[#freeconfig](?q=%23freeconfig)
- 
-[#vless](?q=%23vless)
- 
-[#vmess](?q=%23vmess)
- 
-[#ss](?q=%23ss)
- 
-[#trojan](?q=%23trojan)
- 
-[#hysteria2](?q=%23hysteria2)
- 
-[#clashmeta](?q=%23clashmeta)
- 
-[#singbox](?q=%23singbox)
  
 [#پنل_آریستا](?q=%23%D9%BE%D9%86%D9%84_%D8%A2%D8%B1%DB%8C%D8%B3%D8%AA%D8%A7)
  

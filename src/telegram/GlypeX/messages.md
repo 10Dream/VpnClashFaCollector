@@ -1,5 +1,157 @@
 # آرشیو کانال: @GlypeX
-بروزرسانی: 2026-02-20 20:19:45 UTC
+بروزرسانی: 2026-02-21 01:02:17 UTC
+
+### 🕒 2026-02-21 01:00:22 UTC
+**• New MTProto Proxies!**
+- February 21, 04:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-21 00:45:15 UTC
+**• New MTProto Proxies!**
+- February 21, 04:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-21 00:30:18 UTC
+**• New MTProto Proxies!**
+- February 21, 04:00
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-21 00:15:18 UTC
+**• New MTProto Proxies!**
+- February 21, 03:45
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-21 00:00:23 UTC
+**• New MTProto Proxies!**
+- February 21, 03:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 23:45:13 UTC
+**• New MTProto Proxies!**
+- February 21, 03:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 23:30:17 UTC
+**• New MTProto Proxies!**
+- February 21, 03:00
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 23:15:13 UTC
+**• New MTProto Proxies!**
+- February 21, 02:45
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 23:00:24 UTC
+**• New MTProto Proxies!**
+- February 21, 02:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 22:45:13 UTC
+**• New MTProto Proxies!**
+- February 21, 02:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 22:30:20 UTC
+**• New MTProto Proxies!**
+- February 21, 02:00
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 22:15:16 UTC
+**• New MTProto Proxies!**
+- February 21, 01:45
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 22:00:32 UTC
+**• New MTProto Proxies!**
+- February 21, 01:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 21:45:15 UTC
+**• New MTProto Proxies!**
+- February 21, 01:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 21:30:19 UTC
+**• New MTProto Proxies!**
+- February 21, 01:00
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 21:15:13 UTC
+**• New MTProto Proxies!**
+- February 21, 00:45
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 21:00:22 UTC
+**• New MTProto Proxies!**
+- February 21, 00:30
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 20:45:18 UTC
+**• New MTProto Proxies!**
+- February 21, 00:15
+> 
+[@Glype](https://t.me/Glype)
+
+---
+
+### 🕒 2026-02-20 20:30:18 UTC
+**• New MTProto Proxies!**
+- February 21, 00:00
+> 
+[@Glype](https://t.me/Glype)
+
+---
 
 ### 🕒 2026-02-20 20:15:14 UTC
 **• New MTProto Proxies!**
@@ -820,158 +972,6 @@
 ### 🕒 2026-02-20 01:15:20 UTC
 **• New MTProto Proxies!**
 - February 20, 04:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-20 01:00:20 UTC
-**• New MTProto Proxies!**
-- February 20, 04:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-20 00:45:11 UTC
-**• New MTProto Proxies!**
-- February 20, 04:15
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-20 00:30:16 UTC
-**• New MTProto Proxies!**
-- February 20, 04:00
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-20 00:15:11 UTC
-**• New MTProto Proxies!**
-- February 20, 03:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-20 00:00:22 UTC
-**• New MTProto Proxies!**
-- February 20, 03:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 23:45:11 UTC
-**• New MTProto Proxies!**
-- February 20, 03:15
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 23:30:26 UTC
-**• New MTProto Proxies!**
-- February 20, 03:00
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 23:15:11 UTC
-**• New MTProto Proxies!**
-- February 20, 02:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 23:00:21 UTC
-**• New MTProto Proxies!**
-- February 20, 02:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 22:45:15 UTC
-**• New MTProto Proxies!**
-- February 20, 02:15
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 22:30:33 UTC
-**• New MTProto Proxies!**
-- February 20, 02:00
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 22:15:11 UTC
-**• New MTProto Proxies!**
-- February 20, 01:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 22:00:20 UTC
-**• New MTProto Proxies!**
-- February 20, 01:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 21:45:21 UTC
-**• New MTProto Proxies!**
-- February 20, 01:15
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 21:30:16 UTC
-**• New MTProto Proxies!**
-- February 20, 01:00
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 21:15:12 UTC
-**• New MTProto Proxies!**
-- February 20, 00:45
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 21:00:43 UTC
-**• New MTProto Proxies!**
-- February 20, 00:30
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 20:45:11 UTC
-**• New MTProto Proxies!**
-- February 20, 00:15
-> 
-[@Glype](https://t.me/Glype)
-
----
-
-### 🕒 2026-02-19 20:30:18 UTC
-**• New MTProto Proxies!**
-- February 20, 00:00
 > 
 [@Glype](https://t.me/Glype)
 

@@ -1,5 +1,30 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-02-20 20:23:16 UTC
+بروزرسانی: 2026-02-21 01:06:01 UTC
+
+### 🕒 2026-02-20 21:33:23 UTC
+***🌙***
+
+---
+
+### 🕒 2026-02-20 21:33:16 UTC
+***✔️***
+ В подписку : 
+***➡️***
+[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
+Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
+***➡️***
+[Subscription](https://t.me/oneclickvpnkeys/22590)
+ is updated!
+Run the test and find the optimal configuration for you.
+***👈***
+[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
+!
+تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
+***🤩***
+ 
+[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
+
+---
 
 ### 🕒 2026-02-20 19:36:48 UTC
 ***⭐️***
@@ -875,31 +900,6 @@ fragment
 [SUB ***🇷🇺******🇮🇷******🇹🇲******🇨🇳***](https://t.me/oneclickvpnkeys/22590)
 `vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.218.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=d4727968a1fae56f#%F0%9F%85%BF%EF%B8%8F2%40oneclickvpnkeysvless://a25806c0-0e09-46a2-bd27-a94e92285ce9@84.54.48.238:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=chrome&security=reality&pbk=SlyS4DeFZ7Ic9r8wc-FNpxfQvCqzEe05RsmhZ4jsYm0&sid=3cc8ceccd9de7f#%F0%9F%91%942%40oneclickvpnkeysvless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn12.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn12.suio.me&allowInsecure=1#%F0%9F%91%9419%40oneclickvpnkeysvless://4393f658-e04e-4e66-aa9d-df79bcc120cb@144.31.100.120:443/?type=tcp&encryption=none&flow=&sni=google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#%F0%9F%91%9416%40oneclickvpnkeysvless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn12.suio.me&allowInsecure=1#%F0%9F%91%9423%40oneclickvpnkeysvless://18f72be7-0651-4037-928b-8a309d685796@45.157.232.144:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#%F0%9F%91%9428%40oneclickvpnkeysvless://405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8@deu549.worldbypass.org:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=deu549.worldbypass.org&allowInsecure=1#%F0%9F%91%9435%40oneclickvpnkeysvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.193.217:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%91%9440%40oneclickvpnkeysvless://f8ffc2f3-9d01-41f8-9b8a-833ea3176318@79.133.180.45:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.ok.ru&fp=chrome&security=reality&pbk=45ui5TpjfPf6HmRyT4M53XnR9tOXjpcLRLmaRyhlPiQ&sid=d7325e33#%F0%9F%91%9443%40oneclickvpnkeysvless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn11.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn11.suio.me&allowInsecure=1#%F0%9F%91%9475%40oneclickvpnkeysvless://260f19e2-41c2-4f0c-870f-ab7e28e72ef6@ip.shakhle.ir:2083/?type=ws&encryption=none&flow=&host=ipv4.yasharteam.com&path=%2F&security=tls&sni=ipv4.yasharteam.com&allowInsecure=1#%F0%9F%91%9487%40oneclickvpnkeysvless://32561144-434f-4752-a731-f35cd191ba4a@nl.roblugo.su:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.roblugo.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#%F0%9F%93%A518%40oneclickvpnkeysvless://66a3cb2d-f189-491e-b783-27d30a68c645@osn.takovpn.ru:443/?type=tcp&encryption=none&flow=&sni=www.google.com&fp=chrome&security=reality&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=54c71eb172a3#%F0%9F%93%A520%40oneclickvpnkeysvmess://eyJhZGQiOiIxNDEuOTUuMTI2LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFtZWtrLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk6UyNkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiamFtZWtrLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rapidpars.com&fp=chrome&security=reality&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45#%F0%9F%93%A527%40oneclickvpnkeysvless://32561144-434f-4752-a731-f35cd191ba4a@72.56.96.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nl.roblugo.su&fp=chrome&security=reality&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&sid=bbfb4f7a53e22dd3#%F0%9F%93%A530%40oneclickvpnkeysvless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br#%F0%9F%93%A532%40oneclickvpnkeys`
 ***✔️***
-[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-
----
-
-### 🕒 2026-02-18 21:10:41 UTC
-***🌙***
-
----
-
-### 🕒 2026-02-18 21:10:32 UTC
-***✔️***
- В подписку : 
-***➡️***
-[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
-Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
-***➡️***
-[Subscription](https://t.me/oneclickvpnkeys/22590)
- is updated!
-Run the test and find the optimal configuration for you.
-***👈***
-[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
-!
-تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
-***🤩***
- 
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
 
 ---

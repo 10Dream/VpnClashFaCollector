@@ -466,10 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 [openproxylist.com] vmess-RU", server: xg1a5.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a5.waimaohots.com}}, udp: true, tfo: false}
-  - {name: "[7084] - Telegram : @configraygan", server: 43.162.114.137, port: 59674, type: vmess, uuid: 6a4ce5b9-0d60-4a21-a8fe-897798019500, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[7132] - Telegram : @configraygan", server: 45.89.52.207, port: 39651, type: vmess, uuid: ac4c12c5-45f2-4398-a718-9983941ede2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @KIA_NET💥, server: 45.13.227.118, port: 80, type: vmess, uuid: 8ce64662-f8b8-4955-bdf2-a55b821bc4aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: ......................................................................................()...........................................................................................................................................................................................................................................................}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -487,10 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -498,10 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -509,10 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -529,10 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -540,10 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -551,10 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - 🇷🇺 [openproxylist.com] vmess-RU
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
   - name: دانلود منیجر 📥
     type: select
     proxies:

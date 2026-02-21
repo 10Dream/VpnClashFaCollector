@@ -1,5 +1,12 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-20 20:21:25 UTC
+بروزرسانی: 2026-02-21 01:04:05 UTC
+
+### 🕒 2026-02-20 21:26:11 UTC
+***🎶***
+ 
+**Dahani Jerideh Az Faryad-Shahin Najafi**
+
+---
 
 ### 🕒 2026-02-20 20:14:04 UTC
 [https://fixupx.com/conflict_radar/status/2024921188221550629/fa](https://fixupx.com/conflict_radar/status/2024921188221550629/fa)
@@ -469,22 +476,6 @@ Export wirguard configuration
 ### 🕒 2026-02-19 06:19:45 UTC
 ***🎙️***
  موشعلی راهکار سقوط خودش رو فاش کرد!
-
----
-
-### 🕒 2026-02-18 23:29:27 UTC
-[پروکسی](https://t.me/proxy?server=1.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=2.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=4.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=3.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-** **
-[پروکسی](https://t.me/proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
- 
-[پروکسی](https://t.me/proxy?server=33.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[پروکسی](https://t.me/proxy?server=44.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 
 ---
 

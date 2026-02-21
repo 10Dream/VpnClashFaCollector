@@ -1,5 +1,38 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-20 20:20:04 UTC
+بروزرسانی: 2026-02-21 01:02:38 UTC
+
+### 🕒 2026-02-21 00:42:39 UTC
+کانفیگ Npv Tunnel
+[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
+ | 
+[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+
+---
+
+### 🕒 2026-02-20 21:55:31 UTC
+`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NetAccount`
+`vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@pqh29v3.globalfymain.com:8880?encryption=none&security=none&sni=pqh29v3.globalfymain.com&type=grpc#NetAccount`
+`vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#NetAccount`
+
+---
+
+### 🕒 2026-02-20 20:53:18 UTC
+ترامپ دقایقی پیش برای اولین بار درباره تعداد کشته‌شدگان اعتراضات در ایران صحبت کرد و تعداد 32 هزار نفر رو اعلام کرد
+
+---
+
+### 🕒 2026-02-20 20:43:41 UTC
+> ↪️ **Forwarded**
+
+هم‌میهنان عزیز خارج از کشور،
+تصویری که شما در گردهمایی‌های «روز جهانی اقدام» در سراسر جهان به نمایش گذاشتید، تصویر واقعی ایران بود؛ تصویری باشکوه از صلح‌جویی، فرهنگ، تمدن، نظم و قانون‌مداری ایرانی؛ در نقطه مقابل تروریسم، عقب‌ماندگی، خشونت، هرج‌ومرج‌طلبی و افراطی‌گری جمهوری اسلامی.
+در روزها و هفته‌های پیش رو که هم‌میهنان ما در ایران، چشم‌انتظار کمک جهانی هستند، وظیفه ما این است که مطمئن شویم این کمک از راه خواهد رسید. از این رو، پیام شما به سیاستمداران و تصمیم‌گیران کشورهای میزبان‌تان بسیار روشن است: آنها که مانع از کمک‌رسانی به مردم ایران شوند رای و حمایت جامعه بزرگ ایرانیان خارج از کشور را نخواهند داشت، نه امروز و‌ نه در آینده. 
+من از همه شما می‌خواهم که هم‌چنان، نمایندگان شایسته ملت ایران باشید؛ مصمم و استوار، بابرنامه و باوقار، همچون «روز جهانی اقدام» به پیش بروید؛ چشم از هدف اصلی برندارید؛ از رفتارهایی که در شان ملت بزرگ‌ ایران نیست، بپرهیزید؛ و اجازه ندهید حاشیه‌ها و حاشیه‌سازان شما را از پیمودن مسیر پیروزی منحرف کنند.
+پاینده ایران،
+رضا پهلوی
+[@OfficialRezaPahlavi](https://t.me/OfficialRezaPahlavi)
+
+---
 
 ### 🕒 2026-02-20 19:33:43 UTC
 ترامپ دقایقی پیش برای اولین بار درباره تعداد کشته‌شدگان اعتراضات در ایران صحبت کرد و تعداد 32 هزار نفر رو اعلام کرد
@@ -11,14 +44,8 @@
 
 ---
 
-### 🕒 2026-02-20 19:16:43 UTC
-سوئد و آلمان و لهستان از ساعاتی پیش از شهروندان خود خواستند فورا ایران را ترک کنند  همچنین دقایقی قبل وزارت خارجه ژاپن از اتباع ژاپنی حاضر در خاورمیانه خواست فوراً از تأسیسات نظامی آمریکا در سراسر خاورمیانه دور شوند
-
----
-
 ### 🕒 2026-02-20 18:47:49 UTC
-سوئد و آلمان و لهستان از ساعاتی پیش از شهروندان خود خواستند فورا ایران را ترک کنند
-همچنین دقایقی قبل وزارت خارجه ژاپن از اتباع ژاپنی حاضر در خاورمیانه خواست فوراً از تأسیسات نظامی آمریکا در سراسر خاورمیانه دور شوند
+آلمان از ساعاتی پیش از شهروندان خود خواست فورا ایران را ترک کنند
 
 ---
 
@@ -282,24 +309,6 @@ Astra 19.2°E 11992 V 27500
 [https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](https://t.me/proxy?server=85.133.194.17&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQRueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
 [https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=collider.web-yektanet-com.info&port=443&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-19 00:53:59 UTC
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@160.153.1.198:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.145.29.138:443?type=ws&security=tls&path=/?ed=2560&Telegram+@WangCai2&sni=sni.111000.dynv6.net&fp=chrome#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@209.102.207.120:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2#NetAccount`
-`vless://6202b230-417c-4d8e-b624-0f71afa9c75d@217.163.76.254:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=/?ed=2560&Telegram+@WangCai2#NetAccount`
-`vless://79b5b31e-9557-4ea6-9ec5-450d7cdefecd@osn.takovpn.ru:443?type=tcp&security=reality&encryption=none&fp=chrome&pbk=ihtXyG0UidSbXjvCJXUhABwZGCCB62DUsVBFn_qVd3g&sid=1283729a0a9c1f&sni=google.com#NetAccount`
-
----
-
-### 🕒 2026-02-18 23:43:34 UTC
-کانفیگ Npv Tunnel
-[لینک دانلود داخلی برنامه برای اندروید](https://s34.picofile.com/d/8489366500/957a4a79-71f8-4ea1-8b82-5e144cd88410/_VPN_PRX_NPV.apk)
-[لینک دانلود داخلی دوم](https://uploadboy.com/mxp0xwl22w08)
- | 
-[لینک سوم](https://s1.mylinked.org/npv/Npv.apk)
 
 ---
 

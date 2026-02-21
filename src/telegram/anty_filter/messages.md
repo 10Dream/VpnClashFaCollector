@@ -1,5 +1,40 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-20 20:21:31 UTC
+بروزرسانی: 2026-02-21 01:04:11 UTC
+
+### 🕒 2026-02-20 22:34:48 UTC
+***🟢***
+ 
+**نسخه جدید**
+ 
+**فیلترشکن Plato VPN (اندروید)**
+• نسخه 1.4.7   
+[#پیشنهاد_ویژه](https://t.me/anty_filter/5704)
+ 
+نسخه مود شده و بدون محدودیت 
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+سرورهای این فیلترشکن برای هوش مصنوعی جمنای/Gemini جواب میده.
+این فیلترشکن نسخه آیفون هم داره؛ اگه به اپ‌استور دسترسی دارید، می‌تونید دانلود و استفاده کنید.
+← 
+[دانلود نسخه آیفون](https://apps.apple.com/us/app/platovpn-super-unlimited-proxy/id6444485605)
+ 
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/p1z7krm4q19k/Plato.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-20 20:50:34 UTC
+سرور ویتوری 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2YzgxNWJiODRjNzgxZGE1@51.75.168.50:13030#%40vpnbaz%20%F0%9F%A7%B6
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.115:8880?mode=gun&security=none&encryption=none&type=grpc#%40vpnbaz%20%F0%9F%A7%B8
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.16.2.90:443?path=%2F43.218.77.16&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=Pulavpn11.afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8C%B5
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@x-cite.dk:443?path=%2F185.186.245.40%3A81&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8F%80
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#%40vpnbaz%20%F0%9F%8E%B2
+vmess://eyJhZGQiOiI1Ny4xMjkuMjUuMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2cG5iYXog8J+SjiIsInNjeSI6ImF1dG8iLCJzbmkiOiJ5aWNodWVuZy5vcmciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJkZC5vcGVuYWNjZXNzbm9kZS5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im10YWxrLmdvb2dsZS5jb20iLCJpZCI6Ijc1MTkzYmVmLThkOGYtZTgyMy00MWUwLTJkZDA4M2RjMTM5OSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvQEphdmlkbmFtYW5JcmFuL0phdmlkLVNIQUgtS2luZ1JlemFQYWhsYXZpLyIsInBvcnQiOiI1MDIiLCJwcyI6IkB2cG5iYXog8J+nrSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-20 19:46:38 UTC
 سرور ویتوری 
@@ -9,37 +44,6 @@ vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218
 vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&insecure=0&host=afrcloud22.mmv.kr&type=ws&allowInsecure=0&sni=afrcloud22.mmv.kr#%40vpnbaz%20%E2%98%82%EF%B8%8F
 vless://9cb2d5c5-c5e0-409b-ad3b-7c057b7971b1@37.139.42.234:4443?security=reality&encryption=none&pbk=-kDgSQgouE56cqDIDwgCco1LNQ-8q61WllL5egDI0yI&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=6670#%40vpnbaz%20%F0%9F%8E%B1
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-20 19:45:36 UTC
-> ↪️ **Forwarded**
-
-فروش سرویس نسل جدید V2ray تانل متصل حتی در اختلالات شدید اینترنت 
-سرورهای متصل با همه اپراتورها
-***✅***
- نامحدود :
-یک ماهه تک کاربر : 250T
-یک ماهه دو کاربر : 300T
-دو ماهه تک کاربر : 500T
-دو ماهه دو کاربر : 600T
-***✅***
- حجمی :
-40 گیگ : 180T
-50 گیگ : 200T
-60 گیگ : 210T 
-70 گیگ : 220T
-80 گیگ : 230T
-90گیگ : 240T
-با سرعت بالا و پشتیبانی ۲۴ ساعته  
-***🌙***
-با خرید همزمان دو سرور، یک سرور ۴۰ گیگ هدیه بگیرید 
-***🎁***
-برای خرید، مشاوره و دریافت سرور تست به آیدی زیر پیام بدید:
-[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
-[@Foreignvpn_ad](https://t.me/Foreignvpn_ad)
-**کیفیت را با ما تجربه کنید**
-[#رضایت_شما_افتخار_ماست](?q=%23%D8%B1%D8%B6%D8%A7%DB%8C%D8%AA_%D8%B4%D9%85%D8%A7_%D8%A7%D9%81%D8%AA%D8%AE%D8%A7%D8%B1_%D9%85%D8%A7%D8%B3%D8%AA)
 
 ---
 
@@ -224,33 +228,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%87%BA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%87%AE%F0%9F%87%B3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%87%B9%F0%9F%87%B7
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-18 22:20:56 UTC
-***🟢***
- 
-**فیلترشکن V2 Speed VPN (اندروید)**
-• نسخه 1.1.5
-نسخه مود شده و بدون محدودیت 
-****
-امکان اتصال خودکار به بهترین سرور.
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-***📥***
-[لینک دانلود مستقیم این فیلترشکن ](http://uploadb.me/4ym12t3jdttu/V2SPEED.apk.html)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-18 21:44:14 UTC
-سرور ویتوری
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@20.108.15.110:443#%40vpnbaz%20%F0%9F%8E%80
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@131.145.23.4:443#%40vpnbaz%20%F0%9F%8C%B5
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@4.158.0.51:443#%40vpnbaz%20%E2%9B%B1%EF%B8%8F
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@51.104.204.185:443#%40vpnbaz%20%F0%9F%8E%A8
-vless://d5a62360-4b33-4e24-8656-7d9e038847a6@185.215.244.166:26008?security=none&encryption=none&headerType=http&type=tcp#%40vpnbaz%20%E2%98%82%EF%B8%8F
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@57.129.53.182:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#%40vpnbaz%20%F0%9F%8E%AF
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

@@ -467,14 +467,17 @@ rule-providers:
 proxies:
   - {name: "@mehrosaboran", server: 162.159.194.86, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran 2", server: 45.130.125.160, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 34911a7b-a3d9-47fe-ac0d-e07eeeea4864, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn آلمان`", server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🫶***, server: 144.31.92.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45d95284-05ce-4e8b-ad84-a6bcdfebcb59, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn mold`", server: 104.18.32.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn سوئیس`", server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***👏***, server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🙌***, server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran`", server: fix130.wizard2shop.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9ec38c74-61b6-4aff-8501-0cf7ae45dcc3, servername: x1.pishi.lat, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: x1.pishi.lat}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn fanland`", server: 31.56.205.56, port: 13612, type: vless, tls: true, packet-encoding: xudp, uuid: cbb94bf1-02cc-46ba-bc01-061b5f38e0ac, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mehrosaboran` 2", server: 3.72.18.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccab17f9-00a7-4493-c4a6-bbdd9e22166e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn German 1`", server: v2.dabache.top, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@iphone02016vpn آلمان` 2", server: 104.17.25.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2, servername: apii.onlineshoppingez.ir, network: ws, ws-opts: {path: /O1w0n3vYgFKYs7EzNAvLPvOp, headers: {Host: apii.onlineshoppingez.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,14 +496,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -509,14 +515,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -525,14 +534,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -550,14 +562,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -566,14 +581,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -582,14 +600,17 @@ proxy-groups:
     proxies:
       - "@mehrosaboran"
       - "@mehrosaboran 2"
+      - "@iphone02016vpn آلمان`"
       - ⚡Telegram - @prrofile_purple***🫶***
       - "@iphone02016vpn mold`"
+      - "@iphone02016vpn سوئیس`"
       - ⚡Telegram - @prrofile_purple***👏***
       - ⚡Telegram - @prrofile_purple***🙌***
       - "@mehrosaboran`"
       - "@iphone02016vpn fanland`"
       - "@mehrosaboran` 2"
       - "@iphone02016vpn German 1`"
+      - "@iphone02016vpn آلمان` 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

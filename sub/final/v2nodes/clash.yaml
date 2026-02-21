@@ -470,6 +470,7 @@ proxies:
   - {name: 🇨🇳 f.sdnlv0.cn:46253, server: f.sdnlv0.cn, port: 46253, type: ss, cipher: chacha20-ietf-poly1305, password: 13df5feb-756e-4627-bcee-497f3c81bab4, udp: true, tfo: false}
   - {name: 🇨🇳 xgrr.sdnlv0.cn:33220, server: xgrr.sdnlv0.cn, port: 33220, type: ss, cipher: chacha20-ietf-poly1305, password: 13df5feb-756e-4627-bcee-497f3c81bab4, udp: true, tfo: false}
   - {name: 🇨🇳 xgrr.sdnlv0.cn:48973, server: xgrr.sdnlv0.cn, port: 48973, type: ss, cipher: chacha20-ietf-poly1305, password: 13df5feb-756e-4627-bcee-497f3c81bab4, udp: true, tfo: false}
+  - {name: 206.71.148.7:27149, server: 206.71.148.7, port: 27149, type: ss, cipher: chacha20-ietf-poly1305, password: 2mHVomKnpjnveNEZOe30rO, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
@@ -485,7 +486,6 @@ proxies:
   - {name: 15.188.233.114:22223, server: 15.188.233.114, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.120.252.86:22223, server: 3.120.252.86, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.60.26:22223, server: 52.47.60.26, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.183.70.214:22223, server: 63.183.70.214, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.184.19:22222, server: 13.37.184.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.213.225:22222, server: 15.236.213.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.195.254.156:22222, server: 18.195.254.156, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -512,7 +512,6 @@ proxies:
   - {name: irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710, server: irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir, port: 5710, type: vless, tls: true, packet-encoding: xudp, uuid: 53f16931-63ed-1471-0326-d60b900beb52, servername: www.varzesh3.com, host: www.varzesh3.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dQYahYS6055ghu03hkvNxv9geHCJHqASFVbXs3v1jDw, short-id: e99768d076c05ab2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.239.108.97:443, server: 77.239.108.97, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 56e605ca-3192-4cb4-9465-cb67245e17fd, servername: www.bing.com, alpn: [h2], host: www.bing.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 3, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -532,9 +531,11 @@ proxies:
   - {name: 185.227.70.39:8443, server: 185.227.70.39, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9dbc1ff-6364-4826-a973-71c0584116c4, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ll0ll.vip:8443, server: ll0ll.vip, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9dbc1ff-6364-4826-a973-71c0584116c4, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ll0ll.vip:8443 2, server: ll0ll.vip, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9dbc1ff-6364-4826-a973-71c0584116c4, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: iranlir.speedtrade.top:36778, server: iranlir.speedtrade.top, port: 36778, type: vless, tls: true, packet-encoding: xudp, uuid: c20232f5-0b4d-4df0-9407-af291522a889, servername: iranlir.speedtrade.top, host: iranlir.speedtrade.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.233.57:33895, server: 62.60.233.57, port: 33895, type: vless, tls: true, packet-encoding: xudp, uuid: c5434982-3de9-4358-ad50-1d66b11f3354, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: wuCVyrTGxRwcTTvyd2qwKkH8KVphEppAyYRKAn1Z83w, short-id: 96b4c216341b08ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.56.205.56:13612, server: 31.56.205.56, port: 13612, type: vless, tls: true, packet-encoding: xudp, uuid: cbb94bf1-02cc-46ba-bc01-061b5f38e0ac, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: parsaprivae.isgood.host:22750, server: parsaprivae.isgood.host, port: 22750, type: vless, tls: true, packet-encoding: xudp, uuid: cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 83.228.230.174:46564, server: 83.228.230.174, port: 46564, type: vless, tls: true, packet-encoding: xudp, uuid: d022bf00-7885-45b5-a170-bd37cc515fe0, servername: cloudflare.com, host: cloudflare.com, path: /, reality-opts: {public-key: BRVg0Eufu2EeUPUp5PhBTD325dTi8M_SFxcpfqFzqz4, short-id: 3797}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: zyro.adslimit.info:2345, server: zyro.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, host: zyro.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.211.133.156:443, server: 80.211.133.156, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d443fb54-207c-4fa4-b9d8-3ae2a2957532, servername: gmail.com, alpn: [h2], host: gmail.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.12.144.89:443, server: 45.12.144.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d94c383d-cb22-4182-a0c0-ec2bc047996e, servername: cdnjs.com, host: cdnjs.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KTnlR0JPWc5b56rPgQhVTLMuhNgsVcq0eZWLBsespwQ, short-id: 039ac6674967d725}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,11 +543,11 @@ proxies:
   - {name: 91.196.34.130:443, server: 91.196.34.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: da11d62c-1996-4d2c-b2e6-e89c7a1265e9, servername: decdn9.suio.me, host: decdn9.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.144.53.37:8104, server: 45.144.53.37, port: 8104, type: vless, tls: true, packet-encoding: xudp, uuid: db27262a-4151-4c36-8e5f-2cf7fd387a0f, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4gcDJumxa0bTaHvrZRL4Hb5ItXPha6ZYZ0fGmMD_k0A, short-id: 9f4ca836ca270ef8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.233.83:39607, server: 62.60.233.83, port: 39607, type: vless, tls: true, packet-encoding: xudp, uuid: e1bb65c9-a67d-4fce-a6f4-7c8837caab8e, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 1_3eX95qudS9wpAvX3hrlj5frOgp5lUlwk7Xz_pCYyw, short-id: df0a16ba1a4880e9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇦🇪 dubaiski.cloud:443, server: dubaiski.cloud, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e2a10e9f-2d3e-4d49-ab59-d2ea39dfa3d1, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: W4hZiiPSnSBqrrYkD0z6J_DVR8wTfP5epmuQ6RbV_Sc, short-id: 43dcff53849b81e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.156.237.204:2051, server: 94.156.237.204, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: edc05328-3e8b-4268-ac76-0af4e53fdf81, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM, short-id: 305be87f337d1db7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 170.64.238.91:39218, server: 170.64.238.91, port: 39218, type: vless, tls: true, packet-encoding: xudp, uuid: fcbead98-fef8-4707-bd4f-1278935c9a44, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: usa.spacegate.ir, port: 443, type: vmess, uuid: a9402592-434d-4599-974d-5f46f9fe205b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usa.spacegate.ir, network: ws, ws-opts: {path: /, headers: {Host: usa.spacegate.ir}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: xg1a6.waimaohots.com, port: 443, type: vmess, uuid: 374bf01b-17cf-4e26-a7e8-6d1110e04978, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v1/graphql, headers: {Host: xg1a6.waimaohots.com}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-AE", server: dll.avaaaal.ir, port: 8443, type: vmess, uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dll.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cdge.avaaaal.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -568,6 +569,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -583,7 +585,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -610,7 +611,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -630,9 +630,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -640,11 +642,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -656,6 +658,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -671,7 +674,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -698,7 +700,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -718,9 +719,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -728,11 +731,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -744,6 +747,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -759,7 +763,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -786,7 +789,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -806,9 +808,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -816,11 +820,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -841,6 +845,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -856,7 +861,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -883,7 +887,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -903,9 +906,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -913,11 +918,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -929,6 +934,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -944,7 +950,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -971,7 +976,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -991,9 +995,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -1001,11 +1007,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1017,6 +1023,7 @@ proxy-groups:
       - 🇨🇳 f.sdnlv0.cn:46253
       - 🇨🇳 xgrr.sdnlv0.cn:33220
       - 🇨🇳 xgrr.sdnlv0.cn:48973
+      - 206.71.148.7:27149
       - 193.135.174.135:990
       - series-a2.samanehha.co:443
       - admin.c2.havij.co:443
@@ -1032,7 +1039,6 @@ proxy-groups:
       - 15.188.233.114:22223
       - 3.120.252.86:22223
       - 52.47.60.26:22223
-      - 63.183.70.214:22223
       - 13.37.184.19:22222
       - 15.236.213.225:22222
       - 18.195.254.156:22222
@@ -1059,7 +1065,6 @@ proxy-groups:
       - irancel.hamrah.comyahooo.iranusa.lorna.lornanet.ir:5710
       - 77.239.108.97:443
       - chatgpt.com:2096
-      - chatgpt.com:2096 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
@@ -1079,9 +1084,11 @@ proxy-groups:
       - 185.227.70.39:8443
       - ll0ll.vip:8443
       - ll0ll.vip:8443 2
+      - iranlir.speedtrade.top:36778
       - 62.60.233.57:33895
       - 31.56.205.56:13612
       - parsaprivae.isgood.host:22750
+      - 83.228.230.174:46564
       - zyro.adslimit.info:2345
       - 80.211.133.156:443
       - 45.12.144.89:443
@@ -1089,11 +1096,11 @@ proxy-groups:
       - 91.196.34.130:443
       - 45.144.53.37:8104
       - 62.60.233.83:39607
+      - 🇦🇪 dubaiski.cloud:443
       - 94.156.237.204:2051
       - 170.64.238.91:39218
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "[openproxylist.com] vmess-AE"
   - name: دانلود منیجر 📥
     type: select
     proxies:
