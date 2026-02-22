@@ -405,13 +405,20 @@ def main():
         
         for channel_name in channels:
             channel_path = os.path.join(src_dir, channel_name)
-            md_file = os.path.join(channel_path, "messages.md")
             
-            if not os.path.isfile(md_file):
-                continue
+            # تغییر کلیدی در این قسمت انجام شد: استفاده از فایل txt به جای md
+            txt_file = os.path.join(channel_path, "messages.txt")
+            
+            if not os.path.isfile(txt_file):
+                # برای اطمینان از سازگاری با فایل‌های قدیمی که هنوز حذف نشده‌اند
+                md_fallback = os.path.join(channel_path, "messages.md")
+                if os.path.isfile(md_fallback):
+                    txt_file = md_fallback
+                else:
+                    continue
                 
             try:
-                with open(md_file, "r", encoding="utf-8") as f:
+                with open(txt_file, "r", encoding="utf-8") as f:
                     content = f.read()
                 
                 channel_data, count = extract_configs_from_text(content)
