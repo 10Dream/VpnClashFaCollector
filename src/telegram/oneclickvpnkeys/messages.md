@@ -1,5 +1,58 @@
 # آرشیو کانال: @oneclickvpnkeys
-بروزرسانی: 2026-02-21 20:17:42 UTC
+بروزرسانی: 2026-02-22 01:10:29 UTC
+
+### 🕒 2026-02-21 21:04:21 UTC
+***🌙***
+
+---
+
+### 🕒 2026-02-21 21:04:15 UTC
+***✔️***
+ В подписку : 
+***➡️***
+[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
+Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
+***➡️***
+[Subscription](https://t.me/oneclickvpnkeys/22590)
+ is updated!
+Run the test and find the optimal configuration for you.
+***👈***
+[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
+!
+تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
+***🤩***
+ 
+[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
+
+---
+
+### 🕒 2026-02-21 20:44:24 UTC
+***⭐️***
+***7️⃣***
+ more configs here:
+ 
+***➡️***
+ 
+[SUB ***🇷🇺******🇮🇷******🇹🇲******🇨🇳***](https://t.me/oneclickvpnkeys/22590)
+`vless://27b6068a-e1e6-4675-ab14-87143c690390@144.217.133.97:30238/?type=tcp&encryption=none&flow=#%F0%9F%93%A491%40oneclickvpnkeysvless://8ae49b54-7eba-435b-b410-514bffe7bd17@37.139.34.145:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#%F0%9F%93%A495%40oneclickvpnkeysvless://8ae49b54-7eba-435b-b410-514bffe7bd17@158.160.223.36:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#%F0%9F%93%A493%40oneclickvpnkeysvless://8ae49b54-7eba-435b-b410-514bffe7bd17@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#%F0%9F%93%A497%40oneclickvpnkeysvless://8ae49b54-7eba-435b-b410-514bffe7bd17@84.252.143.25:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=48fccabc158a4c22#%F0%9F%93%A498%40oneclickvpnkeysvmess://eyJhZGQiOiJiZmJnLjJubi5jY3d1LmNjIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJiZmJnLjJubi5jY3d1LmNjIiwiaWQiOiI0ZTQ1YzFiNC05MTA3LTQ1ZGQtOTk5NS1jZGY3Y2JiNDRkOWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaVNSV1NLVUpLTnVYdlZ6c1lIbXNNcm5PIiwicG9ydCI6IjgwIiwicHMiOiLwn5OkOTJAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://0dde7988-1d5b-416f-8184-668b1a36bc48@146.185.240.23:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=205748bc0f24a747#%F0%9F%93%A4100%40oneclickvpnkeysvless://4e45c1b4-9107-45dd-9995-cdf7cbb44d9d@172.64.80.1:80/?type=ws&encryption=none&flow=&host=nnmkl.2nn.ccwu.cc&path=%2FhBasD7EdpBQ0zGAzsYHmsMrnO#%F0%9F%93%A499%40oneclickvpnkeysvless://fad0e68d-97c9-4fc7-86a5-08de489185e6@5.34.178.97:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=CsUm6jBZvd5KzFN8Klm9KYF5kiUmztspcA9InbcnwXM&sid=e49b4e3d5f46d5c2#%F0%9F%93%A496%40oneclickvpnkeysvless://b5088c0b-b717-4c7b-aed6-0d08a427b9e8@94.131.113.228:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fast.strelkavpn.ru&fp=chrome&security=reality&pbk=gUDEXo3UPF5WlJdIvpKMZbcLfKxMkiDyWgXjleD0aA4&sid=aa5d376d9d56#%F0%9F%93%A494%40oneclickvpnkeys`
+***✔️***
+[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
+
+---
+
+### 🕒 2026-02-21 20:38:03 UTC
+***⭐️***
+***6️⃣***
+ more configs here:
+ 
+***➡️***
+ 
+[SUB ***🇷🇺******🇮🇷******🇹🇲******🇨🇳***](https://t.me/oneclickvpnkeys/22590)
+`vless://913b07fe-eae9-4985-9a39-33acaba25a2c@fin-0001-xr.packet-drop-society.net:11443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=hls-svod.itunes.apple.com&fp=chrome&security=reality&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&sid=f79448a30d#%F0%9F%93%A477%40oneclickvpnkeysvless://6e67163a-95e2-422b-b966-774920649662@130.193.59.133:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&sid=f32140952ba18e18#%F0%9F%93%A480%40oneclickvpnkeysvless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.105.121:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=1929ef620e9b34f5#%F0%9F%93%A482%40oneclickvpnkeysvless://39ba3ceb-e864-40b2-8d9a-289cbfd115ac@103.113.68.144:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb7.strelkavpn.ru&fp=chrome&security=reality&pbk=Tk0Nz_w4u3oTP2EECmN1I62USd8ODnIaBpwOwUdjXBc&sid=aab930c84b21d7#%F0%9F%93%A479%40oneclickvpnkeysvless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.221.132:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%93%A487%40oneclickvpnkeysvless://182a355e-8ffc-4735-84b6-afbd83c98ff2@89.169.128.105:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%93%A486%40oneclickvpnkeysvless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.105.121:51102/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%93%A481%40oneclickvpnkeysvless://46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47@158.160.105.121:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc&sid=887c0d72e771a934#%F0%9F%93%A483%40oneclickvpnkeysvless://6251f84e-9c02-4140-921c-6b47d394fb96@40.160.14.104:8880/?type=grpc&encryption=none&flow=#%F0%9F%93%A490%40oneclickvpnkeysvless://d25caaab-e4b7-419f-9753-7229c7287f55@45.151.30.173:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ang12.fasssst.ru&fp=chrome&security=reality&pbk=FkukwtrnUTnH3H7HtmWdxZV6axzxP-yE63TcviTR9jA&sid=64318fb6091432#%F0%9F%93%A484%40oneclickvpnkeysvless://182a355e-8ffc-4735-84b6-afbd83c98ff2@37.139.33.15:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=m.vk.ru&fp=chrome&security=reality&pbk=7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg&sid=f4b4a6365558ea2e#%F0%9F%93%A489%40oneclickvpnkeysvmess://eyJhZGQiOiIyMTMuMTgzLjU0LjI0MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkN2Y1NjY4OC01NmEwLTQ0OGMtYmMwNC1mZDgzYzZhYzE3ZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+TpDc2QG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==hy2://545fb4e9-5794-4e20-be0c-e6d8689f91ac@129.153.25.59:35000/?insecure=1&sni=www.lamer.com.hk#%F0%9F%93%A488%40oneclickvpnkeysvless://03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4@77.110.114.1:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=srv27.outlinekeys.com&fp=chrome&security=reality&pbk=3zn513ilYXOJngXLRP0MUnK23HuB9TKLjQ7YG20dzTQ&sid=#%F0%9F%93%A485%40oneclickvpnkeysvless://5e18094c-18b1-4198-b211-96b40518cecf@107.181.147.22:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.techradar.com&fp=chrome&security=reality&pbk=Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE&sid=f6e197a0b9f2#%F0%9F%93%A478%40oneclickvpnkeys`
+***✔️***
+[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
+
+---
 
 ### 🕒 2026-02-21 13:59:48 UTC
 ***⭐️***
@@ -735,31 +788,6 @@ more configs here:
 [SUB ***🇷🇺******🇮🇷******🇹🇲******🇨🇳***](https://t.me/oneclickvpnkeys/22590)
 `vless://30c04389-bbcb-431f-9d47-a8ad24406bd4@45.134.218.222:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=stats.vk-portal.net&fp=chrome&security=reality&pbk=eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg&sid=d4727968a1fae56f#%F0%9F%85%BF%EF%B8%8F2%40oneclickvpnkeysvless://94a03e9a-74d5-4036-95e9-563cc19355de@decdn12.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn12.suio.me&allowInsecure=1#%F0%9F%91%9419%40oneclickvpnkeysvless://94a03e9a-74d5-4036-95e9-563cc19355de@62.133.60.50:443/?type=tcp&encryption=none&flow=&security=tls&sni=decdn12.suio.me&allowInsecure=1#%F0%9F%91%9423%40oneclickvpnkeysvless://18f72be7-0651-4037-928b-8a309d685796@45.157.232.144:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=google.com&fp=chrome&security=reality&pbk=qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU&sid=9eb31eb7572c0882#%F0%9F%91%9428%40oneclickvpnkeysvmess://eyJhZGQiOiIxNDEuOTUuMTI2LjEzNCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiamFtZWtrLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk6UyNkBvbmVjbGlja3ZwbmtleXMiLCJzY3kiOiJhdXRvIiwic25pIjoiamFtZWtrLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://0ecc93f5-f30d-47a2-a763-3efeb2a00cc8@94.130.132.223:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rapidpars.com&fp=chrome&security=reality&pbk=XwmblvweauAJK87G-he0C5OQ-S4Czs1X5BXnbJ7UkiU&sid=661ee8b0696b45#%F0%9F%93%A527%40oneclickvpnkeysvless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.18.34.21:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev&path=%2F9PnUgtdLG8Br#%F0%9F%93%A532%40oneclickvpnkeysvmess://eyJhZGQiOiI5Mi4yNDYuODcuMTcwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImNhZjkyMWM3LWFjNjMtNDBiYy1mYWExLWNkYTA5N2ZkN2U0MiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMTgzNTUiLCJwcyI6IvCfkJIyQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==vless://0e90f352-e9bc-4834-8ff6-49ba887eded4@109.172.55.122:443/?type=tcp&encryption=none&flow=&security=tls&sni=b12a6eea4807ca4e.1323.world&alpn=h2&allowInsecure=1#%F0%9F%90%9210%40oneclickvpnkeysvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@104.17.147.22:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%90%925%40oneclickvpnkeysvmess://eyJhZGQiOiI1Ny4xMjkuMjQuMTMxIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJrYW1wb25nLm9yZyIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwibmV0Ijoid3MiLCJwYXRoIjoibGlua3Z3cyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfkJIxQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiJrYW1wb25nLm9yZyIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%90%9220%40oneclickvpnkeysvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@173.245.58.75:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%90%9218%40oneclickvpnkeysvless://f3bf8732-4040-4132-b68a-2c137b75bbf3@91.84.105.61:25998/?type=tcp&encryption=none&flow=&sni=yahoo.com&fp=chrome&security=reality&pbk=Da5do6b68bgCVmWE66sKmhtN-lATbk-wEEww9jkweHM&sid=0ae9b755f28f#%F0%9F%90%9217%40oneclickvpnkeysvless://14818654-7689-453a-9a1f-4c72f89782d5@144.31.104.1:2040/?type=tcp&encryption=none&flow=&sni=tradingview.com&fp=chrome&security=reality&pbk=1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg&sid=50ed6f6007515d63#%F0%9F%90%9230%40oneclickvpnkeysvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@108.162.195.45:2096/?type=ws&encryption=none&flow=&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292&security=tls&sni=hetz.x-smm.com&allowInsecure=1#%F0%9F%90%9241%40oneclickvpnkeyssocks5://193.233.254.63:1080/#%F0%9F%A7%A62%40oneclickvpnkeys`
 ***✔️***
-[@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
-
----
-
-### 🕒 2026-02-19 21:17:53 UTC
-***🌙***
-
----
-
-### 🕒 2026-02-19 21:17:44 UTC
-***✔️***
- В подписку : 
-***➡️***
-[ПОДПИСКА](https://t.me/oneclickvpnkeys/22590)
-Добавлены конфиги для Туркменистана и РФ. Обновите подписку и тестируйте.
-***➡️***
-[Subscription](https://t.me/oneclickvpnkeys/22590)
- is updated!
-Run the test and find the optimal configuration for you.
-***👈***
-[اشتراک به روز شد](https://t.me/oneclickvpnkeys/22590)
-!
-تست را اجرا کنید و پیکربندی بهینه را برای شما پیدا کنید.
-***🤩***
- 
 [@oneclickvpnkeys](https://t.me/oneclickvpnkeys)
 
 ---

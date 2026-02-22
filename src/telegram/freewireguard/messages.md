@@ -1,5 +1,5 @@
 # آرشیو کانال: @freewireguard
-بروزرسانی: 2026-02-21 20:19:21 UTC
+بروزرسانی: 2026-02-22 01:12:13 UTC
 
 ### 🕒 2026-02-21 17:34:42 UTC
 `wireguard://yFTBlC5ZSmiecDIwKX7%2FoJ3TlVz0CENkz1ozsEjxNH8%3D@162.159.192.3:500?address=172.16.0.2%2F32&reserved=220%2C34%2C72&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-21 21:04`

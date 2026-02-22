@@ -1,5 +1,22 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-02-21 20:14:22 UTC
+بروزرسانی: 2026-02-22 01:06:55 UTC
+
+### 🕒 2026-02-21 21:52:24 UTC
+دانشجویان عزیز دمتون گرم بابت زنده نگه داشتن این انقلاب
+متاسفانه امروز نبودم که ویدیو هارو پوشش بدم
+این توییت خیلی حق بود خطاب به سه فاسد:
+ملا سنگر بازار رو از دست داد، چپ سنگر دانشگاه رو و مجاهد هم که کلاً سنگری نداشت.
+[motkhassess](https://x.com/motkhassess/status/2025229714961387692?s=46)
+
+---
+
+### 🕒 2026-02-21 21:39:11 UTC
+کانفیگ Npv Tunnel
+[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
+ | 
+[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
+
+---
 
 ### 🕒 2026-02-21 04:10:03 UTC
 [https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==](https://t.me/proxy?server=185.84.157.231&port=443&secret=FgMBAgABAAH8AxOG4kw63Q==)
@@ -98,72 +115,6 @@
 دارای نسخه های اندروید، آی او اس، ویندوز، مک و لینوکس
 فایل اندروید و ویندوز در پست بعدی
 ***👇***
-
----
-
-### 🕒 2026-02-19 23:50:44 UTC
-ساب V2ray
-`https://sany0116.jullianna.workers.dev/auto?b64`
-کپی کنید توی برنامه هایی که دارید بزنید (اگه توی هیدیفای اد میکنید نیاز به تست پینگ نیست)
-
----
-
-### 🕒 2026-02-19 23:18:44 UTC
-[https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=185.115.161.245&port=9443&secret=dd104462821249bd7ac519130220c25d09)
-[https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D](https://t.me/proxy?server=tnco.tncco.info.&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
-[https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=185.3.200.170&port=4055&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-
----
-
-### 🕒 2026-02-19 22:57:40 UTC
-مراسم چهلم جاویدنام سجاد شاقلانی، ۲۹ بهمن - الوند، قزوین
-
----
-
-### 🕒 2026-02-19 22:56:20 UTC
-مراسم چهلم جاویدنام سجاد شاقلانی، ۲۹ بهمن - الوند، قزوین
-
----
-
-### 🕒 2026-02-19 22:36:37 UTC
-`vless://9f269466-4cfc-4bc0-8982-c51f73a46a9c@you2.configyous.site:2002?type=tcp&security=none&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#NetAccount`
-`vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?path=%2F%3Fed%3D2080&security=none&encryption=none&host=bio.mehrsazi.ir&type=httpupgrade#NetAccount`
-`vless://a2626d27-e0f8-490d-b23c-c9ca0dea4ea9@Dnss.iraniranshopdashnoard.ir:2086?encryption=none&type=httpupgrade&host=bio.mehrsazi.ir&path=/?ed%3D2080#NetAccount`
-`vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@79.133.57.246:443?security=reality&encryption=none&pbk=5DAohRJhyu-EDGKzo1nMm1ez9lQS3hpPJRR6p3A0lEc&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=63d80d5199a2bc#NetAccount`
-`vless://213325c6-ef4b-4cdb-850b-24a06f2865c8@188.132.183.140:443?security=reality&encryption=none&pbk=tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=2gis.kz&sid=63d80d5199a2bc#NetAccount`
-
----
-
-### 🕒 2026-02-19 21:35:16 UTC
-[https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d](https://t.me/proxy?server=5.202.5.94&port=443&secret=ee01ad54e319d2426d9d5513a5974e01b1636c6f7564666c6172652e636f6d)
-
----
-
-### 🕒 2026-02-19 21:25:11 UTC
-مراسم چهلم جاویدنامان پروانه خجندی و آریا علیدوست - لاهیجان
-
----
-
-### 🕒 2026-02-19 21:23:39 UTC
-مراسم چهلم جاویدنام ارشاد شهبازی - لاهیجان
-
----
-
-### 🕒 2026-02-19 21:00:03 UTC
-دقایقی پیش یک هواپیما متعلق به ارتش جمهوری اسلامی توی همدان سقوط کرد و یکی از خلباناش کشته شد یه خلبان دیگش هم زخمی شده
-هنوز جنگ شروع نشده تلفاتشون شروع شد
-***😂***
-
----
-
-### 🕒 2026-02-19 20:24:30 UTC
-لحظاتی پیش:
-خبرنگار: شما امروز گفتین اتفاق بدی برای جمهوری اسلامی میفته اگه توافق نکنن
-ترامپ: واقعا اتفاق خیلی بدی میفته
-خبرنگار: واقعا چه اتفاق بدی میفته؟
-ترامپ: من که چیزی دربارش بهت نمیگم. یا به توافق خواهیم رسید یا برای اونا بدشانسی به بار خواهد اورد
-خبرنگار: اگه بخواین یه ضرب الاجل بگین اون چه زمانیه؟
-ترامپ: فکر کنم 10-15 روز کافی باشه حداکثر
 
 ---
 

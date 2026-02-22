@@ -1,5 +1,48 @@
 # آرشیو کانال: @ShadowSocks_s
-بروزرسانی: 2026-02-21 20:15:30 UTC
+بروزرسانی: 2026-02-22 01:08:07 UTC
+
+### 🕒 2026-02-21 21:10:29 UTC
+`vless://e73d4e2a-ac73-4948-960a-2c2dd57b7ea8@172.67.150.93:443?path=%2Fws&security=tls&encryption=none&insecure=0&host=yellow-disk-0edf.diyenec996.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=yellow-disk-0edf.diyenec996.workers.dev#NetAccountvless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.130.125.138:2096?path=/?ed=2560&/Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-Join-Proxyiranip-&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#NetAccount`
+`vless://53cddd30-34a1-32dd-b598-c1c4c8a0f813@104.16.249.46:443/?type=ws&encryption=none&flow=&host=dabaihk.webn.cc&path=%2Fdb1024a105975707&security=tls&sni=dabaihk.webn.cc&allowInsecure=1#NetAccount`
+`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjYxOjgwODA=#NetAccount`
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 21:09:26 UTC
+[https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.204&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.14&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=www.40-rooz-gozasht.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d](https://t.me/proxy?server=www.40-rooz-gozasht.info&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+[https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.201&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ](https://t.me/proxy?server=85.133.194.202&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[https://t.me/proxy?server=www.dagh1k.ir&port=22&secret=dd10dadd1e7c27a20098abb5bf53ca26a8](https://t.me/proxy?server=www.dagh1k.ir&port=22&secret=dd10dadd1e7c27a20098abb5bf53ca26a8)
+***🆔***
+ 
+[@ShadowSocks_s](https://t.me/ShadowSocks_s)
+
+---
+
+### 🕒 2026-02-21 20:39:42 UTC
+کی منتظر جنگه کجا حمله میشه
+
+---
+
+### 🕒 2026-02-21 20:38:38 UTC
+خاورمیانه عالیه
+
+---
+
+### 🕒 2026-02-21 20:38:34 UTC
+از اون ور به زیرساخت امارات حمله سایبری شد
+
+---
+
+### 🕒 2026-02-21 20:38:02 UTC
+این بین پاکستان به افغانستان حمله هوایی کرد
+
+---
 
 ### 🕒 2026-02-21 20:01:52 UTC
 کانال ۱۲ اسرائیل:
@@ -450,34 +493,6 @@ Each day, more of the world is with us in our fight for freedom.
 ---
 
 ### 🕒 2026-02-20 06:54:07 UTC
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 21:34:56 UTC
-> ↪️ **Forwarded**
-
-صحبت‌های خواهر مانی صفرپور در مراسم چهلم برادرش در لاهیجان با حضور گسترده مردم و سنج و دمام و شعار این گل پرپر شده 
-[#هدیه_به_میهن](?q=%23%D9%87%D8%AF%DB%8C%D9%87_%D8%A8%D9%87_%D9%85%DB%8C%D9%87%D9%86)
- شده
-[@mamlekate](https://t.me/mamlekate)
-
----
-
-### 🕒 2026-02-19 21:10:18 UTC
-[https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.211&port=4455&secret=ee1603010200010001fc030386e24c3ad3626973636F7474692E79656B74616E65742E636F6D)
-[https://t.me/proxy?server=185.84.157.100&port=443&secret=dd1603010200010001fc031386e24c3add](https://t.me/proxy?server=185.84.157.100&port=443&secret=dd1603010200010001fc031386e24c3add)
-[https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D](https://t.me/proxy?server=185.84.157.100&port=443&secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
-[https://t.me/proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D](https://t.me/proxy?server=185.84.157.230&port=443&secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
-***🆔***
- 
-[@ShadowSocks_s](https://t.me/ShadowSocks_s)
-
----
-
-### 🕒 2026-02-19 21:03:50 UTC
 ***🆔***
  
 [@ShadowSocks_s](https://t.me/ShadowSocks_s)

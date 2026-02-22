@@ -1,5 +1,29 @@
 # آرشیو کانال: @ProxyMTProto
-بروزرسانی: 2026-02-21 20:14:44 UTC
+بروزرسانی: 2026-02-22 01:07:16 UTC
+
+### 🕒 2026-02-21 20:28:01 UTC
+Server: 
+`azadi.minetor.co.uk`
+ 
+Port: 
+`443`
+Secret: 
+`3XnnAQIAAQAH8AMDhuJMOt0`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
+
+### 🕒 2026-02-21 20:28:01 UTC
+Server: 
+`Unknown`
+ 
+Port: 
+`88`
+Secret: 
+`7nnnAQIAAQAH8AMDhuJMOt0%3D`
+[@ProxyMTProto](https://t.me/ProxyMTProto)
+
+---
 
 ### 🕒 2026-02-21 19:30:01 UTC
 Server: 
@@ -448,30 +472,6 @@ Port:
 `2083`
 Secret: 
 `ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-19 20:28:02 UTC
-Server: 
-`Unknown`
- 
-Port: 
-`2083`
-Secret: 
-`ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d`
-[@ProxyMTProto](https://t.me/ProxyMTProto)
-
----
-
-### 🕒 2026-02-19 20:28:01 UTC
-Server: 
-`py.road-digger.info.`
- 
-Port: 
-`61016`
-Secret: 
-`7nnnAQIAAQAH8AMDhuJMOt0%3D`
 [@ProxyMTProto](https://t.me/ProxyMTProto)
 
 ---

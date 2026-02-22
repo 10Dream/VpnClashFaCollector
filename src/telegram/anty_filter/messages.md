@@ -1,5 +1,42 @@
 # آرشیو کانال: @anty_filter
-بروزرسانی: 2026-02-21 20:15:55 UTC
+بروزرسانی: 2026-02-22 01:08:34 UTC
+
+### 🕒 2026-02-21 22:42:39 UTC
+***🌀***
+ 
+**فیلترشکن Link VPN (اندروید)**
+• نسخه 1.3.0
+نسخه مود شده و بدون محدودیت 
+برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
+وصل نشد، مجدداً برای اتصال تلاش کنید.
+***📥***
+[لینک دانلود مستقیم این فیلترشکن ](https://uploadb.me/dojsp0jzjxmx/Link_.apk.html)
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-21 22:08:27 UTC
+سرور ویتوری 
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8C%B5
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%AB%9F
+vless://da1e9656-21fb-43d1-a1ab-0d2627b55758@vip-83.f-sub.cfd:1517?security=none&encryption=none&host=testspeed-foreign.tci.ir&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8C%B6%EF%B8%8F
+vless://ee9b0614-50ec-41b6-951b-e1d5d755fa4b@glob.thisiswe.uno:2053?path=%2F&security=tls&encryption=none&insecure=0&host=cd11.thisiswe.uno&fp=chrome&type=ws&allowInsecure=0#%40vpnbaz%20%F0%9F%9B%B8
+vless://9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63@vb24.homianco.ir:2096?security=reality&encryption=none&pbk=K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=42c0b628ba6a42a9#%40vpnbaz%20%F0%9F%8F%96%EF%B8%8F
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@45.145.40.26:443?security=reality&encryption=none&pbk=ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.cdn.stun.su&sid=4daa022e84f8edf2#%40vpnbaz%20%F0%9F%8D%AD
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
+
+### 🕒 2026-02-21 21:51:26 UTC
+سرور ویتوری 
+vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?security=none&encryption=none&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%8D%85
+vless://620e45f4-92f1-4be6-e118-3bc515509320@3.71.203.47:28279?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8F%B3%EF%B8%8F
+vless://db27952d-9de6-4a90-d508-0d2ab314d2f4@18.199.156.124:18694?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%A5%9D
+vless://aaaaaabb-4ddd-4eee-9fff-ffffffffffff@104.21.48.147:80?path=%2F64.181.218.67%3D443&security=none&encryption=none&host=afrcloud22.mmv.kr&type=ws#%40vpnbaz%20%F0%9F%8F%B4
+vless://6fab6cc6-e340-4073-93e1-c6c6802002c7@172.67.73.14:443?path=%2F167.179.110.68&security=tls&encryption=none&insecure=1&host=afrcloud22.mmv.kr&type=ws&allowInsecure=1&sni=afrcloud22.mmv.kr#%40vpnbaz%20%F0%9F%8F%80
+[@vpnbaz](https://t.me/vpnbaz)
+
+---
 
 ### 🕒 2026-02-21 19:31:02 UTC
 ***🟢***
@@ -14,40 +51,6 @@
  
 [دانلود فایل این کانفیگ با اینترنت داخلی روی گزینه دانلود با سرعت محدود کلیک کنید.](https://uploadb.me/2jj0l6wgwe88/S-NPV23.npvt.html)
 [@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-21 19:29:59 UTC
-> ↪️ **Forwarded**
-
-**لیست قیمت کانفینگ‌ v2rayNG و npv **
-**📶**
-یکماهه 20 گیگابایت |  100.000  تومان   
-***💵***
-یکماهه 30 گیگابایت |  140.000  تومان 
-***💵***
-یکماهه 40 گیگابایت |  180.000  تومان   
-***💵***
-هر کاربر اضافه +20.000
-**سازگار با تمامی اپراتورها **
-***📶***
-***📶***
-***📶***
-***🛜***
-***🛜***
-***🛜***
-**همراه با تست رایگان **
-***🔥***
-***🛡***
- 
-**آیدی پشتیبانی جهت خرید:**
- 
-[@Litesoop](https://t.me/Litesoop)
- 
-***☑️***
-**کانال اطلاع رسانی و رضایت:**
- 
-[@ghostVPN_pn](https://t.me/ghostVPN_pn)
 
 ---
 
@@ -224,31 +227,6 @@ vless://6e8535db-277c-4cb1-b578-efb4d874350f@193.111.236.87:2087?security=none&e
 vless://ea8af299-542e-4c7f-83d7-d1b97cd49f02@ir.aireacondicionadoalicante.eu:8000?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%40vpnbaz%20%F0%9F%9B%B8
 vless://283c14cf-e2d1-47bf-b997-fafd0d7f8402@my.kiomars.shop:6664?security=reality&encryption=none&pbk=RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM&headerType=none&fp=firefox&type=tcp&sni=play.google.com&sid=c3b6ed4da7a983c7#%40vpnbaz%20%F0%9F%8E%83
 vmess://eyJhZGQiOiJzMi5mb3J3YXJkc2Nkbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiN2E5NTNiNzEtNTA4YS00ZmVjLThlYjMtMmE4ZDlhOTQxM2MwIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMjA4OCIsInBzIjoiQHZwbmJheiDim6nvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-19 22:17:50 UTC
-***🔴***
- 
-**فیلترشکن Mona VPN (اندروید)**
-• نسخه 8.0
-برای اینترنت بین‌الملل، این VPN عملکرد خوبی داره.
-وصل نشد، مجدداً برای اتصال تلاش کنید.
-***📥***
-[دانلود MonaVPN از گوگل پلی ](https://play.google.com/store/apps/details?id=com.bddena.mona.monavp)
-[@vpnbaz](https://t.me/vpnbaz)
-
----
-
-### 🕒 2026-02-19 21:25:59 UTC
-سرور ویتوری 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#%40vpnbaz%20%F0%9F%A5%9D
-vless://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%8C%B6%EF%B8%8F
-vless://c02c072f-39ba-46bd-ba66-4791a6ccfbde@runtomon.runtome.sbs:4000?security=none&encryption=none&headerType=none&type=tcp#%40vpnbaz%20%F0%9F%AB%92
-trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#%40vpnbaz%20%F0%9F%8E%AD
-vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@L-i-qstream.khoone-khoobe-liqshowpars-q.ir:2002?security=reality&encryption=none&pbk=OUCuy7eLQ6hjd1YCAiYE669Hxylv1lNVfKNvtCbKjWs&headerType=none&fp=firefox&spx=%2Fliqvps.ir&type=tcp&sni=tgju.org&sid=85b6875cdc4f468c#%40vpnbaz%20%E2%98%82%EF%B8%8F
-vless://dac5ecb3-2ca8-4667-b630-75893cde81c0@w-w-w-yoyoliqip-irancell-co2.mobilekonj.ir:8443?mode=auto&security=tls&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=r-ru3-esteghlaliran.hyuundaiyadak.ir#%40vpnbaz%20%F0%9F%AA%B7
 [@vpnbaz](https://t.me/vpnbaz)
 
 ---

@@ -1,55 +1,58 @@
 # آرشیو کانال: @neo_proxy
-بروزرسانی: 2026-02-21 20:17:36 UTC
+بروزرسانی: 2026-02-22 01:10:21 UTC
 
-### 🕒 2026-02-21 20:16:25 UTC
-[**اقا یکی ازاین ایرپادا تو عکس واسم‌سفارش بده**](https://t.me/+UP_7tT9Phe9hOWU0)
-***🫤***
-
----
-
-### 🕒 2026-02-21 20:14:10 UTC
-[**رلتو سوپرایز کن**](https://t.me/+UP_7tT9Phe9hOWU0)
-***😍***
-***😍***
+### 🕒 2026-02-22 01:10:09 UTC
+[**تست اعتیاد به خود ارضایی : **](https://t.me/+ETISg-ckLrRkZjVk)
+** **
+***😓***
 
 ---
 
-### 🕒 2026-02-21 20:12:28 UTC
-[**رفتم یک گونی وسایل گرفتم**](https://t.me/+UP_7tT9Phe9hOWU0)
- 
-***🫵***
+### 🕒 2026-02-22 01:05:02 UTC
+[**دخترای ۱۵ تا ۲۵ سال اصلا خودارضایی نکنید چون ؛**](https://t.me/+ETISg-ckLrRkZjVk)
 
 ---
 
-### 🕒 2026-02-21 20:10:04 UTC
-[**پول ایرپاد با پیتزا یکیه😂**](https://t.me/+UP_7tT9Phe9hOWU0)
+### 🕒 2026-02-22 01:00:02 UTC
+[**عوارض خود ارضایی در دختران **](https://t.me/+ETISg-ckLrRkZjVk)
+** **
+***✨***
 
 ---
 
-### 🕒 2026-02-21 20:08:04 UTC
-با500 تومن چی بهت میدن؟ تقریبا هیچی امااینجا کلی ایرپاد و ساعت هوشمند داره و بهتون میفروشه: 
-***😍***
-***😍***
-[**https://t.me/+6FR4wGYSGBphNzM0**](https://t.me/+UP_7tT9Phe9hOWU0)
+### 🕒 2026-02-22 00:50:01 UTC
+***⚠️***
+ اگه از خودارضایی خسته شدی چند دقیقه وقت بذار و پست های این کانال رو بخون بشدت بهت کمک میکنه به زندگی عادی برگردی 
+[: @danestani](https://t.me/+ETISg-ckLrRkZjVk)
 
 ---
 
-### 🕒 2026-02-21 20:06:04 UTC
-واقعا ۵ تومن پول ساعت هوشمند میدی؟
-***😐***
-***😂***
-پس قیمتای اینجارو نبین افسرده میشی انقدر که ارزونن
-[**https://t.me/+6FR4wGYSGBphNzM0**](https://t.me/+UP_7tT9Phe9hOWU0)
-
----
-
-### 🕒 2026-02-21 20:04:04 UTC
-میخای برای دوست دخترت یه کادو میلیونی بخری پول نداری؟ بیا یه ایرپاد بخر با زیر 500 تومن
-***❤️***
-از کجا؟ اینجا
-***😍***
-***👇***
-[**https://t.me/+6FR4wGYSGBphNzM0**](https://t.me/+UP_7tT9Phe9hOWU0)
+### 🕒 2026-02-21 22:01:32 UTC
+تنهایی !
+گاهی تنها پناهِ آدم است...
+[پروکسی جدید ](https://t.me/proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[پروکسی](https://t.me/proxy?server=185.84.157.11&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.12&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.13&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.10&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.15&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.231&amp;port=443&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.3&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[پروکسی](https://t.me/proxy?server=185.84.157.21&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.22&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.24&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+ | 
+[پروکسی](https://t.me/proxy?server=185.84.157.28&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q==)
+[@neo_proxy](https://t.me/neo_proxy)
 
 ---
 

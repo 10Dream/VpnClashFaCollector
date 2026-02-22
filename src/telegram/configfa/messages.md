@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-21 20:16:32 UTC
+بروزرسانی: 2026-02-22 01:09:13 UTC
 
 ### 🕒 2026-02-21 10:21:22 UTC
 vless://8ae49b54-7eba-435b-b410-514bffe7bd17@79.137.175.44:8443?flow=xtls-rprx-vision&fp=random&packetEncoding=xudp&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23243

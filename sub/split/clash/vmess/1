@@ -466,22 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[7084] - Telegram : @configraygan", server: 43.162.114.137, port: 59674, type: vmess, uuid: 6a4ce5b9-0d60-4a21-a8fe-897798019500, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[7132] - Telegram : @configraygan", server: 45.89.52.207, port: 39651, type: vmess, uuid: ac4c12c5-45f2-4398-a718-9983941ede2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @KIA_NET💥, server: 45.13.227.118, port: 80, type: vmess, uuid: 8ce64662-f8b8-4955-bdf2-a55b821bc4aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: ......................................................................................()...........................................................................................................................................................................................................................................................}}, udp: true, tfo: false}
-  - {name: "[7122] - Telegram : @configraygan", server: 57.129.2.121, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
-  - {name: 1@oneclickvpnkeys, server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩, server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /linkvws, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
-  - {name: "@vpnbaz 💎", server: 57.129.25.23, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws}, udp: true, tfo: false}
-  - {name: "[7123] - Telegram : @configraygan", server: 57.129.25.24, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee👑☀️🦁🕊️2", server: 66.103.210.150, port: 13485, type: vmess, uuid: 10f0133c-39c5-4224-f53d-ec4491114a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt, server: 66.103.210.150, port: 13485, type: vmess, uuid: 10f0133c-39c5-4224-f53d-ec4491114a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 86@oneclickvpnkeys, server: 66.103.210.150, port: 13485, type: vmess, uuid: 10f0133c-39c5-4224-f53d-ec4491114a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 39@oneclickvpnkeys, server: 82.152.98.198, port: 2085, type: vmess, uuid: 052ceb67-79c7-45da-ba4b-42e659bb81fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 82.152.98.198, port: 2085, type: vmess, uuid: 052ceb67-79c7-45da-ba4b-42e659bb81fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: 82.152.98.88, port: 2085, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: 82.152.98.88, port: 2085, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 41@oneclickvpnkeys, server: 82.152.98.88, port: 2085, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,22 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -522,22 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -545,22 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -577,22 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -600,22 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -623,22 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - ""
-      - "[7084] - Telegram : @configraygan"
-      - "[7132] - Telegram : @configraygan"
-      - ⚡️Telegram - @KIA_NET💥
-      - "[7122] - Telegram : @configraygan"
-      - 1@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩
-      - "@vpnbaz 💎"
-      - "[7123] - Telegram : @configraygan"
-      - "@proxy_kafee👑☀️🦁🕊️2"
-      - freenet_vt
-      - 86@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - "@meliproxyy"
-      - "@meliproxyy 2"
-      - "@proxy_kafee"
-      - 41@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select
     proxies:

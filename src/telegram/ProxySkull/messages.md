@@ -1,5 +1,77 @@
 # آرشیو کانال: @ProxySkull
-بروزرسانی: 2026-02-21 20:14:49 UTC
+بروزرسانی: 2026-02-22 01:07:22 UTC
+
+### 🕒 2026-02-22 00:00:34 UTC
+**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+**🇮🇷**
+ 
+`1404/12/03`
+**🇬🇧**
+ 
+`2026/02/22`
+**🕒**
+ 
+`03:30:28`
+[***🇬🇧*** ᴘʀᴏxʏ](tg://proxy?server=87.248.149.168&amp;port=443000&amp;secret=EERigv//////+AAA//gAAA==)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=5.75.201.246&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
+ | 
+[***🇳🇱*** ᴘʀᴏxʏ](tg://proxy?server=195.18.10.239&amp;port=9999&amp;secret=FgMBAgABAAH8AwOG4kw63QDAAAARueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=adidas.extra-order.info.&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=vip.iran.net.y.ir.www.comparand.uk.bank.xyz.server1x.ir&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇭🇺*** ᴘʀᴏxʏ](tg://proxy?server=drum.loginom.info.&amp;port=23&amp;secret=eeNEgYdJvXrFGRMCIMJdCQtY2RueWVrdGFuZXQuY29tZmFyYWthdi5jb212YW4ubmFqdmEuY29tAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🆔***
+ 
+[@ZPrxy](https://t.me/ZPrxy)
+
+---
+
+### 🕒 2026-02-21 22:00:37 UTC
+**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
+❏❏❏❏❏❏❏❏❏❏❏❏❏❏
+**🇮🇷**
+ 
+`1404/12/03`
+**🇬🇧**
+ 
+`2026/02/22`
+**🕒**
+ 
+`01:30:32`
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=tirupati.yopxi.thanks.again.highly.possible.alo.alo-alo.info&amp;port=65535&amp;secret=7u7u7u7u7u7uHPHXMRAAAAA=)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.84.157.100&amp;port=443&amp;secret=3RYDAQIAAQAB_AMThuJMOt0%3D)
+ | 
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=85.133.194.41&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=nabitel.ps-fifaei.ir&amp;port=2083&amp;secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=erancell.v.hamrah.hugging.monopoly.czjlg.vip.melifot.help&amp;port=53556&amp;secret=H____wxV0R23OuE7AMyQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[***🇫🇷*** ᴘʀᴏxʏ](tg://proxy?server=bisda.be.u-lock-it.info&amp;port=443&amp;secret=7u7u7u7u7u7uHPHXMRAAAAA=)
+ | 
+[***🇺🇸*** ᴘʀᴏxʏ](tg://proxy?server=russia.publiclg.shop&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+ | 
+[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=www.hombus.co.uk.&amp;port=22&amp;secret=fgScoaLSXQYtLCM8VHoNng)
+[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=85.133.194.127&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=aishill.omram.jonam.zendegim.melifot.help&amp;port=53556&amp;secret=Aishael____nafasemanehCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+ | 
+[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=lite.2bd.net&amp;port=65534&amp;secret=eeccf8d1c423c36cc2b8a9be92dbf15b816c6974652e3262642e6e6574)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=arthur.joburg.heating.him.keep.going.hiking.bib.paipol.online&amp;port=65535&amp;secret=7qq7EAPJEttmapOakZCwAd0=)
+[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=cdn.gamelande.info.&amp;port=88&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
+ | 
+[***🇺🇸*** ᴘʀᴏxʏ](tg://proxy?server=hi.publiclg.shop&amp;port=8443&amp;secret=dd79e7010200010007f0030386e24c3add)
+ | 
+[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=baguette.handles.please.michael.features.kolo.bib.paipol.online&amp;port=53556&amp;secret=H____wxV0R23OuE7AMyQgCM4eFlnUldQOFpvTHVwZmNpaVI2ZkJFNDJMSXJxUW1yT2s4YzRCaVRaLi11cGRhdAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA)
+***🆔***
+ 
+[@ZPrxy](https://t.me/ZPrxy)
+
+---
 
 ### 🕒 2026-02-21 20:00:35 UTC
 **🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
@@ -740,57 +812,6 @@
  | 
 [***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=5.3pita.com&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
 [***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=5.75.206.5&amp;port=443&amp;secret=3XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt03XnnAQIAAQAH8AMDhuJMOt0)
-***🆔***
- 
-[@ZPrxy](https://t.me/ZPrxy)
-
----
-
-### 🕒 2026-02-20 00:00:52 UTC
-**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-**🇮🇷**
- 
-`1404/12/01`
-**🇬🇧**
- 
-`2026/02/20`
-**🕒**
- 
-`03:30:43`
-[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=www.spsctr.info.&amp;port=22&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=collider.web-yektanet-com.info&amp;port=443&amp;secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
- | 
-[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=185.84.157.6&amp;port=444&amp;secret=FgMBAgABAAH8AxOG4kw63Q%3D%3D)
- | 
-[***🏳️*** ᴘʀᴏxʏ](tg://proxy?server=8.3pita.com&amp;port=3389&amp;secret=dd79e344818749bd7ac519130220c25d09)
-[***🇨🇦*** ᴘʀᴏxʏ](tg://proxy?server=FullVasl.NetDataHub.com&amp;port=9443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[***🇩🇪*** ᴘʀᴏxʏ](tg://proxy?server=DNS.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
- | 
-[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=185.237.220.43&amp;port=155&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-***🆔***
- 
-[@ZPrxy](https://t.me/ZPrxy)
-
----
-
-### 🕒 2026-02-19 22:00:51 UTC
-**🇳⁮🇪⁮🇼   🇵 🇷⁮⁮🇴 🇽⁮🇾**
-❏❏❏❏❏❏❏❏❏❏❏❏❏❏
-**🇮🇷**
- 
-`1404/12/01`
-**🇬🇧**
- 
-`2026/02/20`
-**🕒**
- 
-`01:30:46`
-[***🇫🇷*** ᴘʀᴏxʏ](tg://proxy?server=45.67.139.229&amp;port=443&amp;secret=eed451f808fd60ed2c45f11d38fdbc88c8676f6f676c657461676d616e616765722e636f6d)
- | 
-[***🇫🇮*** ᴘʀᴏxʏ](tg://proxy?server=py.road-digger.info.&amp;port=61016&amp;secret=7nnnAQIAAQAH8AMDhuJMOt0%3D)
 ***🆔***
  
 [@ZPrxy](https://t.me/ZPrxy)

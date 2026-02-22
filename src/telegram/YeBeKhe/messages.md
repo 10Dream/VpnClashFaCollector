@@ -1,5 +1,15 @@
 # آرشیو کانال: @YeBeKhe
-بروزرسانی: 2026-02-21 20:15:50 UTC
+بروزرسانی: 2026-02-22 01:08:28 UTC
+
+### 🕒 2026-02-21 21:35:36 UTC
+[https://fixupx.com/iranintlbrk/status/2025319754207011205](https://fixupx.com/iranintlbrk/status/2025319754207011205)
+
+---
+
+### 🕒 2026-02-21 21:26:28 UTC
+[https://fixupx.com/coinvo/status/2025281787169997109/fa](https://fixupx.com/coinvo/status/2025281787169997109/fa)
+
+---
 
 ### 🕒 2026-02-21 19:15:15 UTC
 > ↪️ **Forwarded**
@@ -547,20 +557,6 @@ Subscriptions
 `https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_VLESS_RUS.txt`
 `https://raw.githubusercontent.com/igareck/vpn-configs-for-russia/refs/heads/main/BLACK_SS+All_RUS.txt`
 `https://raw.githubusercontent.com/4n0nymou3/multi-proxy-config-fetcher/refs/heads/main/configs/proxy_configs.txt`
-
----
-
-### 🕒 2026-02-19 22:38:45 UTC
-به گفته یک منبع در نیروی هوایی 
-[#ایران](?q=%23%D8%A7%DB%8C%D8%B1%D8%A7%D9%86)
-، نیروی هوافضای 
-[#سپاه_تروریستی_پاسداران](?q=%23%D8%B3%D9%BE%D8%A7%D9%87_%D8%AA%D8%B1%D9%88%D8%B1%DB%8C%D8%B3%D8%AA%DB%8C_%D9%BE%D8%A7%D8%B3%D8%AF%D8%A7%D8%B1%D8%A7%D9%86)
- امروز بعد از ظهر با استفاده از یکی از سامانه‌های پدافند هوایی خود، یک فروند فانتوم F-4E II از اسکادران ۳۱ شکاری تاکتیکی را در نزدیکی 
-[#همدان](?q=%23%D9%87%D9%85%D8%AF%D8%A7%D9%86)
- سرنگون کرد.
-خلبانان موفق شدند هواپیمای آسیب‌دیده را به پایگاه سوم شکاری تاکتیکی برگردانند، اما ارابه فرود به طور کامل باز نشد. پس از فرود شکمی، هواپیما از باند خارج شد. سرگرد مهدی فیروزمند کشته شد. کمک خلبان از هواپیما خارج شد و زنده ماند.
-خلبان قبل از فرود اضطراری، از شنیدن صدای انفجار و شوک در پایین هواپیمای خود خبر داد. سپس اعلام وضعیت اضطراری کرد و به سرعت به پایگاه بازگشت.
-نیروی هوایی معتقد است که سپاه این کار را انجام داده است، اما سپاه این موضوع را تکذیب می‌کند.
 
 ---
 

@@ -1,5 +1,50 @@
 # آرشیو کانال: @ProxyDaemi
-بروزرسانی: 2026-02-21 20:14:37 UTC
+بروزرسانی: 2026-02-22 01:07:08 UTC
+
+### 🕒 2026-02-21 22:05:04 UTC
+اسم من رضاست 
+***👍***
+***⚠️***
+**روزی که شروع کردم حساب بانکی م 0 بود امروز یکی از موفق ترین بیزنسمن ها هستم **
+***😎***
+توی یک مرحله کاملا رایگان بهت یاد میدم که چطور از داخل ایران با سرمایه کم درآمد دلاری داشته باشی 
+***📊***
+ 
+[https://t.me/+Nce-P8TRqMlhY2Y0](https://t.me/+Nce-P8TRqMlhY2Y0)
+[https://t.me/+Nce-P8TRqMlhY2Y0](https://t.me/+Nce-P8TRqMlhY2Y0)
+**فقط کافیه تو کانالم عضو بشی**
+ 
+***👆***
+***🅰***
+2
+
+---
+
+### 🕒 2026-02-21 20:21:11 UTC
+جنگ ۱۰۰ درصد شده فقط موضوع زمان شروعشه 
+[همراه](https://t.me/proxy?server=188.212.98.33&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ 
+[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+ | 
+[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
+[@ProxyDaemi](https://t.me/ProxyDaemi)
+ 
+***🔵***
+***💧***
+Sponsored by 
+[@rainbetcom](https://t.me/rainbetcom)
+ - 
+[rainbet.com](http://rainbet.com/)
+
+---
 
 ### 🕒 2026-02-21 19:12:09 UTC
 حتی قویترین احساسات هم با نادیده گرفته شدن ، منقضی می شوند.
@@ -198,82 +243,6 @@ Sponsored by
 [@rainbetcom](https://t.me/rainbetcom)
  - 
 [rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-21 09:38:03 UTC
-***💰***
-ریتزوبت تنها سایت بین المللی میباشد ، که به صورت هفتگی پرومو کد ثابت دریافت میکنید
-****
-**🙏**
-** **
-[آموزش شارژ حساب با کریپتو](https://t.me/Ritzobet_ir/2587)
-****
-**🙏**
-** **
-[آموزش شارژ حساب  ریالی در ریتزوبت](https://t.me/Ritzobet_ir/2588)
-***✅***
-ریتزوبت برندی با لایسنس معتبر در صنعت 
-[شرطبندی](https://t.me/Ritzobet_ir/3104)
- و 
-[پیشبینی](https://t.me/Ritzobet_ir/3104)
- مسابقات ورزشی و کازینویی 
-***👇***
-[https://t.me/+LB508WZyIr8xNmY0](https://t.me/+LB508WZyIr8xNmY0)
-
----
-
-### 🕒 2026-02-21 09:38:03 UTC
-***🏴󠁧󠁢󠁥󠁮󠁧󠁿***
-**پیش بینی مهم ترین مسابقات فوتبال در سایت بین المللی**
- 
-[**ریتزوبت**](https://RitzoBet.com/)
- 
-***💯***
-****
-***🤝***
- 
-[**لچه**](https://RitzoBet.com/)
- 
-***🆚***
- 
-[**اینتر میلان**](https://RitzoBet.com/)
-***🤝***
- 
-[**منچستر سیتی**](https://RitzoBet.com/)
-***🆚***
-[**نیوکاسل**](https://RitzoBet.com/)
-***1️⃣***
-***2️⃣***
-***3️⃣***
-***4️⃣***
- 
-***1️⃣***
-***2️⃣***
-***3️⃣***
- 
-***1️⃣***
-***2️⃣***
-***3️⃣***
-***4️⃣***
-***⚡️***
- بونوس 100% بونوس اولین واریز 
-***⚡️***
- بونوس 100% ورزشی یکشنبه‌ ها 
-***⚡️***
- آپشن های متنوع با ضریب بالا
-***📲***
-[**اپلیکیشن موبایل برای اندروید**](https://t.me/Ritzobet_ir/3141)
-***🌐***
- 
-[https://RitzoBet.com](https://RitzoBet.com/)
-***⚡️***
-پشتیبان فارسی سایت ریتزوبت 
-***👇***
-***🅰***
-r2
-***⚡️***
-[@RitzoBetsupports](https://t.me/RitzoBetsupports)
 
 ---
 
@@ -543,60 +512,6 @@ Sponsored by
 
 ### 🕒 2026-02-20 10:45:21 UTC
 از قرعه کشی خونه و ماشین رسیدیم به بنزین رایگان…
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 21:48:55 UTC
-دردی که به اشتراک گذاشته شود، نصف میشود؛ و شادی ای که به اشتراک گذاشته شود، دو برابر میشود!
-گویا با هم بودن در سختی‌ها و شادی‌ها حال دل آدم را بهتر میکند...
-[همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.55&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.51&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- 
-[پروکسی](https://t.me/proxy?server=188.212.98.50&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.58&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
- | 
-[پروکسی](https://t.me/proxy?server=188.212.98.40&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
-[@ProxyDaemi](https://t.me/ProxyDaemi)
- 
-***🔵***
-***💧***
-Sponsored by 
-[@rainbetcom](https://t.me/rainbetcom)
- - 
-[rainbet.com](http://rainbet.com/)
-
----
-
-### 🕒 2026-02-19 20:17:54 UTC
-نیمی از نگرانی‌های مامربوط به 
-نظر دیگران است،مابایداین خار را از بدن خود بیرون بکشیم
-نظردیگران هرلحظه میتواند تغییرکند نظر دیگران به نخی بند است
-همواره خودت باش ...
 [همراه](https://t.me/proxy?server=188.212.98.10&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
 [پروکسی](https://t.me/proxy?server=188.212.98.59&amp;port=8443&amp;secret=eeNEgYdJvXrFGRMCIMJdCQ)
  | 

@@ -465,14 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 137.184.174.93:8080, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,13 +485,8 @@ proxy-groups:
     type: select
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -504,13 +494,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -518,13 +503,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -541,13 +521,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -555,13 +530,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -569,13 +539,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b 4"
-      - 68.183.227.4:8080
-      - "***✅***@AR14N24b 5"
-      - "***✅***@AR14N24b 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:
