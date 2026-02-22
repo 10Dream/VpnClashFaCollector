@@ -477,7 +477,6 @@ proxies:
   - {name: ⚡Telegram - @ 3, server: vb24.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa 2, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "telegram : @Lrnbymaa`", server: G10.PRODNSSPEED10.IR, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: data-frm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-frm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.26.15.21:443, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.67.6.1:15948, server: 3.67.6.1, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -508,7 +507,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: خودکار (بهترین پینگ) 🤖
@@ -529,7 +527,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -550,7 +547,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: اتصال پایدار 🔗
@@ -580,7 +576,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: توزیع بار (گردشی) 🔁
@@ -601,7 +596,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: توزیع بار (موقت) ⏳
@@ -622,7 +616,6 @@ proxy-groups:
       - ⚡Telegram - @ 3
       - 104.21.48.147:80
       - lrnbymaa 2
-      - "telegram : @Lrnbymaa`"
       - 104.26.15.21:443
       - 3.67.6.1:15948
   - name: دانلود منیجر 📥
