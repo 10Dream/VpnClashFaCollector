@@ -465,10 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Capoit", server: 144.31.92.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 45d95284-05ce-4e8b-ad84-a6bcdfebcb59, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit 2", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit 3", server: f1.springpaatogh8.store, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6a1c81ad-1363-484a-9812-2508bc2ca606, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit`", server: 18.198.197.235, port: 22636, type: vless, tls: true, packet-encoding: xudp, uuid: a46011f9-1f63-4b75-9a4c-f34a08a42be8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit`", server: 94.183.150.123, port: 17077, type: vless, tls: true, packet-encoding: xudp, uuid: 5c262675-6eee-435a-9dbb-c36be5b09985, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 2", server: 188.121.117.97, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 761fa402-8dd2-4368-8c5a-0db4ee08c371, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,30 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -524,30 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Capoit"
-      - "@Capoit 2"
-      - "@Capoit 3"
       - "@Capoit`"
+      - "@Capoit` 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

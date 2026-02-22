@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.38.141.210:8388, server: 51.38.141.210, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
   - {name: 45.95.233.133:8388, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: vqyEdGysKQ9FkWHkPnow_fBNANcMRsNH, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
@@ -473,15 +472,9 @@ proxies:
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: 85.133.201.53:2526, server: 85.133.201.53, port: 2526, type: vless, tls: true, packet-encoding: xudp, uuid: 0a58ada9-9876-48f6-b44f-f23d51beb152, host: telewebion.com%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.62.160:15200, server: 3.72.62.160, port: 15200, type: vless, tls: true, packet-encoding: xudp, uuid: 5cfbed15-e39a-4067-b20b-9243bfb8c234, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.73.14:443, server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: v2tr.topacp.store:2053, server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: shop2.afraserver4.top:7335, server: shop2.afraserver4.top, port: 7335, type: vless, tls: true, packet-encoding: xudp, uuid: b1b25fba-c0d0-48ea-971b-5cf4aee373d1, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: zyro.adslimit.info:2345, server: zyro.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, host: zyro.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 151.101.9.67:80, server: 151.101.9.67, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: daac11cb-7acd-40fa-ae53-2af2d5993878, network: ws, ws-opts: {path: /ws, headers: {Host: arps.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glob.thisiswe.uno:2053, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glob.thisiswe.uno:2053 2, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno`, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno`}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -500,7 +493,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -508,15 +500,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: خودکار (بهترین پینگ) 🤖
@@ -525,7 +511,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -533,15 +518,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -550,7 +529,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -558,15 +536,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: اتصال پایدار 🔗
@@ -584,7 +556,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -592,15 +563,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: توزیع بار (گردشی) 🔁
@@ -609,7 +574,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -617,15 +581,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: توزیع بار (موقت) ⏳
@@ -634,7 +592,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.175.249.174:35000
       - 51.38.141.210:8388
       - 45.95.233.133:8388
       - series-a1.samanehha.co:443
@@ -642,15 +599,9 @@ proxy-groups:
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
-      - 78.38.246.150:8446
-      - 85.133.201.53:2526
       - 3.72.62.160:15200
-      - 172.67.73.14:443
-      - 104.21.48.147:80
-      - v2tr.topacp.store:2053
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
-      - 151.101.9.67:80
       - glob.thisiswe.uno:2053
       - glob.thisiswe.uno:2053 2
   - name: دانلود منیجر 📥

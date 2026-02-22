@@ -468,112 +468,235 @@ proxies:
   - {name: "| null | 99999ms | ***✅***@AR14N24b", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 104.17.148.22, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 524ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 548ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 262ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 697ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 484ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 845ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 417ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 343ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 387ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 575ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 628ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 696ms | ***✅***@AR14N24b, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 769ms |, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 685ms |, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 690ms | ***✅***@AR14N24b, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 195ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 280ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 643ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 683ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 199ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 705ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1064ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 358ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 332ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 524ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 358ms | ***✅***@AR14N24b, server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 609ms |, server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 537ms | ***✅***@AR14N24b, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 540ms |, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 519ms |, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 587ms | ***✅***@AR14N24b, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: www.speedtest.net, port: 8443, type: trojan, password: 0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241, sni: aged-sun-9128.danicng13.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trv9lthtdhp1hvnyc0/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560", headers: {Host: aged-sun-9128.danicng13.workers.dev}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b, server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
+  - {name: 🇭🇰 | HK | 988ms | ***✅***@AR14N24b, server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 125f929b-dbde-43b9-b498-695f1cd45d68, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1232ms | ***✅***@AR14N24b, server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1029ms | ***✅***@AR14N24b, server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 725ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 462ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fXCLcnSashhgSVE3HOw1VI85y", headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 729ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 613ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 433ms | ***✅***@AR14N24b, server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 464ms | ***✅***@AR14N24b, server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 406ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 497ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fXCLcnSashhgSVE3HOw1VI85y", headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 370ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 509ms | ***✅***@AR14N24b, server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%252FXCLcnSashhgSVE3HOw1VI85y", headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1021ms | ***✅***@AR14N24b, server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2, server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 12", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 13", server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: 22f86840-bcac-11ee-abea-1239d0255272, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 4", server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 14", server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 5", server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 15", server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 6", server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 16", server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 17", server: gggbnhj.10o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gggbnhj.10o.ccwu.cc, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 7", server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 18", server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 8", server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 19", server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 9", server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 20", server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 10", server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 21", server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2220ms | ***✅***@AR14N24b, server: bbbnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: bbbnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2128ms | ***✅***@AR14N24b, server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2161ms | ***✅***@AR14N24b, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2106ms | ***✅***@AR14N24b, server: hhhnju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2104ms | ***✅***@AR14N24b, server: hhhnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnmjki.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2003ms | ***✅***@AR14N24b, server: nnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnmjku.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2083ms | ***✅***@AR14N24b, server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2072ms | ***✅***@AR14N24b, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 2071ms | ***✅***@AR14N24b, server: vvvbbnhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbnhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbnhj.191266.xyz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 22", server: 188.114.97.82, port: 443, type: trojan, password: 2f211aae-3678-47a6-b231-46304443772f, sni: cdir-0203.wlfvip.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/trojanws?ed=2048", headers: {Host: cdir-0203.wlfvip.com}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 23", server: 3dfrt.dddc.us.ci, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: 3dfrt.dddc.us.ci, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 330ms | ***✅***@AR14N24b, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: /FYzt5jjXXYWmzP5D1vsO, headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 269ms | ***✅***@AR14N24b, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 327ms |, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1105ms | ***✅***@AR14N24b, server: 5.34.222.4, port: 43642, type: trojan, password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3, sni: iepl.usq1.cat.bilibili.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 24", server: 23.247.137.64, port: 443, type: trojan, password: 3c4e10af98c30972, sni: n2.gladns.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 374ms | ***✅***@AR14N24b, server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 336ms | ***✅***@AR14N24b, server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 25", server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 377ms | ***✅***@AR14N24b, server: bbgtr.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bBGtR.7777198.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bBGtR.7777198.XYz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 361ms | ***✅***@AR14N24b, server: bbgtr.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bBgtR.7777198.xYz, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 11", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 26", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 312ms | ***✅***@AR14N24b, server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 314ms | ***✅***@AR14N24b, server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 27", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 344ms | ***✅***@AR14N24b, server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 320ms | ***✅***@AR14N24b, server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 28", server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 383ms | ***✅***@AR14N24b, server: bbvfdr.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBvFdR.191262.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBvFdR.191262.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 404ms | ***✅***@AR14N24b, server: cccvbgt6.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: cCcVBGt6.890634.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: cCcVBGt6.890634.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 419ms | ***✅***@AR14N24b, server: cccvbgt6.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: cCcVBGt6.890634.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: cCcVBGt6.890634.xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 482ms | ***✅***@AR14N24b, server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 487ms | ***✅***@AR14N24b, server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 392ms | ***✅***@AR14N24b, server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: Dcvf.7777198.xyZ, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 29", server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 664ms | ***✅***@AR14N24b, server: fffbgh.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: FfFBGh.hUAngshanG.onLinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: FfFBGh.hUAngshanG.onLinE}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 863ms | ***✅***@AR14N24b, server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 564ms | ***✅***@AR14N24b, server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 30", server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 807ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1320ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1316ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1304ms |, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1703ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1461ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1770ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1740ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggBNh.7777198.Xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: ggBNh.7777198.Xyz}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 1479ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggbNH.7777198.xYZ, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 257ms |, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 510ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 570ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 560ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 557ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggBNh.7777198.Xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: ggBNh.7777198.Xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 9", server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 10", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4561ms | ***✅***@AR14N24b, server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4578ms |, server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4542ms | ***✅***@AR14N24b, server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4505ms | ***✅***@AR14N24b, server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 11", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 12", server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: 22f86840-bcac-11ee-abea-1239d0255272, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1560ms | ***✅***@AR14N24b, server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1588ms |, server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1650ms | ***✅***@AR14N24b, server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1654ms |, server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1613ms | ***✅***@AR14N24b, server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1991ms |, server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 13", server: gggbnhj.10o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gggbnhj.10o.ccwu.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1625ms |, server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1647ms | ***✅***@AR14N24b, server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1897ms | ***✅***@AR14N24b, server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1898ms |, server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1662ms |, server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1727ms | ***✅***@AR14N24b, server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1632ms |, server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1643ms | ***✅***@AR14N24b, server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 551ms | ***✅***@AR14N24b, server: bbbnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: bbbnmjki.932.pp.ua}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 394ms | ***✅***@AR14N24b, server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 397ms | ***✅***@AR14N24b, server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 695ms | ***✅***@AR14N24b, server: hhhnju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnju.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 562ms | ***✅***@AR14N24b, server: hhhnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnmjki.932.pp.ua}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1101ms | ***✅***@AR14N24b, server: nnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnmjku.932.pp.ua}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 593ms | ***✅***@AR14N24b, server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 647ms | ***✅***@AR14N24b, server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2, server: vvvbbnhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbnhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbnhj.191266.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 14", server: 188.114.97.82, port: 443, type: trojan, password: 2f211aae-3678-47a6-b231-46304443772f, sni: cdir-0203.wlfvip.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/trojanws?ed=2048", headers: {Host: cdir-0203.wlfvip.com}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 15", server: 3dfrt.dddc.us.ci, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: 3dfrt.dddc.us.ci, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 227ms | ***✅***@AR14N24b, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: /FYzt5jjXXYWmzP5D1vsO, headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 167ms | ***✅***@AR14N24b, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 218ms |, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 16", server: 5.34.222.4, port: 43642, type: trojan, password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3, sni: iepl.usq1.cat.bilibili.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 17", server: 23.247.137.64, port: 443, type: trojan, password: 3c4e10af98c30972, sni: n2.gladns.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 2578ms | ***✅***@AR14N24b, server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4230ms | ***✅***@AR14N24b, server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 18", server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 19", server: bbgtr.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bBGtR.7777198.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bBGtR.7777198.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 20", server: bbgtr.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bBgtR.7777198.xYz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 21", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 22", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 23", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 24", server: bbnhmjk.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BbNHmJK.191262.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BbNHmJK.191262.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 25", server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 26", server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 27", server: bbnmj.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bbNmj.191268.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: bbNmj.191268.xYZ}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3971ms | ***✅***@AR14N24b, server: bbvfdr.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBvFdR.191262.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBvFdR.191262.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 28", server: cccvbgt6.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: cCcVBGt6.890634.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: cCcVBGt6.890634.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 29", server: cccvbgt6.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: cCcVBGt6.890634.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: cCcVBGt6.890634.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 30", server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 31", server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 32", server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: Dcvf.7777198.xyZ, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 33", server: dcvf.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: DcVF.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: DcVF.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 34", server: fffbgh.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: FfFBGh.hUAngshanG.onLinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: FfFBGh.hUAngshanG.onLinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 35", server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4870ms | ***✅***@AR14N24b, server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 36", server: fffvbg.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: fffVBg.890634.xYZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: fffVBg.890634.xYZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 37", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4442ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 38", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 39", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 40", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 41", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 42", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggBNh.7777198.Xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: ggBNh.7777198.Xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 43", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggbNH.7777198.xYZ, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 44", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 45", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3915ms | ***✅***@AR14N24b, server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGbNH.7777198.xyZ, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: GGbNH.7777198.xyZ}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 46", server: ggbnh.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: ggBNh.7777198.Xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: ggBNh.7777198.Xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 47", server: ggbnhy.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GgBNhY.191262.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GgBNhY.191262.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 48", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 49", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 50", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 51", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 52", server: gggnhhy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: GGGNHHY.huanGshANg.ONlinE, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: GGGNHHY.huanGshANg.ONlinE}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 53", server: nnmjki9.191262.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: nnMJkI9.191262.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: nnMJkI9.191262.xYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 54", server: nnnmjkui.932.pp.ua, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: nNNMjKui.932.pp.Ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: nNNMjKui.932.pp.Ua}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: tyu.bb1.ccwu.cc, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: tYu.BB1.Ccwu.cC, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: tYu.BB1.Ccwu.cC}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 55", server: tyu.bb1.ccwu.cc, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: tYu.BB1.Ccwu.cC, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: tYu.BB1.Ccwu.cC}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: vbhk.999864.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vbHK.999864.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: vbHK.999864.xYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 56", server: vbhk.999864.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vbHK.999864.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: vbHK.999864.xYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 57", server: vvbght.932.pp.ua, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbght.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: vvbght.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 58", server: vvbghy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbghy.huangshang.online, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: vvbghy.huangshang.online}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 59", server: vvbghy.huangshang.online, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbghy.huangshang.online, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: vvbghy.huangshang.online}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: vvbnhjm.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbNHJm.890634.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: vvbNHJm.890634.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 60", server: vvbnhjm.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbNHJm.890634.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: vvbNHJm.890634.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 61", server: vvbnhjm.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbNHJm.890634.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: vvbNHJm.890634.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 62", server: vvbnhjm.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbNHJm.890634.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: vvbNHJm.890634.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 63", server: vvbnhjm.890634.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: vvbNHJm.890634.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: vvbNHJm.890634.XYz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: xxd.nu0.de5.net, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: xxD.nU0.De5.Net, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: xxD.nU0.De5.Net}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 64", server: xxd.nu0.de5.net, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: xxD.nU0.De5.Net, skip-cert-verify: false, network: ws, ws-opts: {path: /r862SIwqItkD5XgXAL, headers: {Host: xxD.nU0.De5.Net}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 201ms | ***✅***@AR14N24b, server: 3er.8900604.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: 3er.8900604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: 3er.8900604.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 225ms | ***✅***@AR14N24b, server: 5tyu.8900604.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: 5tyu.8900604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: 5tyu.8900604.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 219ms | ***✅***@AR14N24b, server: bhy.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: bhy.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: bhy.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 212ms | ***✅***@AR14N24b, server: bhy.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: bhy.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: bhy.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 202ms |, server: bhy.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: bhy.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: bhy.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 244ms | ***✅***@AR14N24b, server: bhy.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: bhy.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: bhy.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 178ms | ***✅***@AR14N24b, server: h7.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: h7.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: h7.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 183ms | ***✅***@AR14N24b, server: h7.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: h7.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: h7.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 153ms |, server: h7.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: h7.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: h7.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 168ms | ***✅***@AR14N24b, server: h7.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: h7.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: h7.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 197ms | ***✅***@AR14N24b, server: kk9.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: kk9.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: kk9.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 203ms | ***✅***@AR14N24b, server: kk9.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: kk9.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: kk9.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 169ms | ***✅***@AR14N24b, server: kk9.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: kk9.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: kk9.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 199ms |, server: kk9.89060004.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: kk9.89060004.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: kk9.89060004.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 330ms | ***✅***@AR14N24b, server: nhju.ae1autumn.indevs.in, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: nhju.ae1autumn.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: nhju.ae1autumn.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 289ms | ***✅***@AR14N24b, server: nhju.ae1autumn.indevs.in, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: nhju.ae1autumn.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fP23lDbkARo4gds7cXpDB5nO5", headers: {Host: nhju.ae1autumn.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 309ms |, server: nhju.ae1autumn.indevs.in, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: nhju.ae1autumn.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fP23lDbkARo4gds7cXpDB5nO5", headers: {Host: nhju.ae1autumn.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 267ms | ***✅***@AR14N24b, server: nhju.ae1autumn.indevs.in, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: nhju.ae1autumn.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: nhju.ae1autumn.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 268ms |, server: nhju.ae1autumn.indevs.in, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: nhju.ae1autumn.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: nhju.ae1autumn.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 542ms | ***✅***@AR14N24b, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 476ms |, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fP23lDbkARo4gds7cXpDB5nO5", headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 485ms | ***✅***@AR14N24b, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fP23lDbkARo4gds7cXpDB5nO5", headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 472ms |, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 504ms | ***✅***@AR14N24b, server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%252FP23lDbkARo4gds7cXpDB5nO5", headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 65", server: r56.bb0.ccwu.cc, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: r56.bb0.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%252FP23lDbkARo4gds7cXpDB5nO5", headers: {Host: r56.bb0.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 307ms | ***✅***@AR14N24b, server: zs.666470.xyz, port: 443, type: trojan, password: 4c205c81-5694-43fe-a287-af563a2ebc05, sni: zs.666470.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /P23lDbkARo4gds7cXpDB5nO5, headers: {Host: zs.666470.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3524ms | ***✅***@AR14N24b, server: bgt.1x2.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: bgt.1x2.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: bgt.1x2.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4021ms | ***✅***@AR14N24b, server: kklo.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: kklo.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: kklo.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: kklo.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: kklo.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: kklo.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3257ms |, server: m9o0.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: m9o0.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: m9o0.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3339ms | ***✅***@AR14N24b, server: m9o0.1xq.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: m9o0.1xq.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: m9o0.1xq.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4147ms |, server: nhj.1jj.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nhj.1jj.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nhj.1jj.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4787ms | ***✅***@AR14N24b, server: nhj.1jj.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nhj.1jj.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nhj.1jj.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 3998ms | ***✅***@AR14N24b, server: nmk9o.1yy.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmk9o.1yy.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nmk9o.1yy.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4000ms |, server: nmk9o.1yy.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmk9o.1yy.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nmk9o.1yy.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 66", server: nmki.1qq.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmki.1qq.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Fy1moM5CyNvYMZlzsYHmsMrnO", headers: {Host: nmki.1qq.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4219ms |, server: nmki.1qq.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmki.1qq.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nmki.1qq.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4320ms | ***✅***@AR14N24b, server: nmki.1qq.ccwu.cc, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nmki.1qq.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nmki.1qq.ccwu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4447ms |, server: nnmj.1x5.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nnmj.1x5.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nnmj.1x5.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4504ms | ***✅***@AR14N24b, server: nnmj.1x5.indevs.in, port: 443, type: trojan, password: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, sni: nnmj.1x5.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /y1moM5CyNvYMZlzsYHmsMrnO, headers: {Host: nnmj.1x5.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2, server: 9io.988988.shop, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: 9io.988988.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: 9io.988988.shop}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2, server: bmk.988988.shop, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bmk.988988.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: bmk.988988.shop}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 339ms | ***✅***@AR14N24b, server: bnhju.dddct.us.ci, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bnhju.dddct.us.ci, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: bnhju.dddct.us.ci}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 377ms |, server: bnhju.dddct.us.ci, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bnhju.dddct.us.ci, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: bnhju.dddct.us.ci}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 327ms | ***✅***@AR14N24b, server: bnhju.dddct.us.ci, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bnhju.dddct.us.ci, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: bnhju.dddct.us.ci}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 339ms |, server: bnhju.dddct.us.ci, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bnhju.dddct.us.ci, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: bnhju.dddct.us.ci}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 255ms | ***✅***@AR14N24b, server: bnhy7.986986.shop, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: bnhy7.986986.shop, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: bnhy7.986986.shop}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 137ms |, server: ghj.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: ghj.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: ghj.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 163ms | ***✅***@AR14N24b, server: ghj.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: ghj.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: ghj.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 133ms |, server: ghj.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: ghj.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: ghj.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 160ms | ***✅***@AR14N24b, server: ghj.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: ghj.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: ghj.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 218ms | ***✅***@AR14N24b, server: hji.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hji.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: hji.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 225ms |, server: hji.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hji.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: hji.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 191ms | ***✅***@AR14N24b, server: hji.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hji.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: hji.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 223ms |, server: hji.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hji.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: hji.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 156ms | ***✅***@AR14N24b, server: hnm.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hnm.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: hnm.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 168ms |, server: hnm.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hnm.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /4e633j8uZI4BWzwNzcYz, headers: {Host: hnm.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 160ms |, server: hnm.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hnm.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: hnm.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2, server: hnm.huangdi2025.dpdns.org, port: 443, type: trojan, password: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, sni: hnm.huangdi2025.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f4e633j8uZI4BWzwNzcYz", headers: {Host: hnm.huangdi2025.dpdns.org}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 67", server: mkouy.99890604.xyz, port: 443, type: trojan, password: 5196aae7-1479-4f3c-978b-68e74977b509, sni: mkouy.99890604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /mSZVb4DmOGWZIKMBivnR3, headers: {Host: mkouy.99890604.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 68", server: mkouy.99890604.xyz, port: 443, type: trojan, password: 5196aae7-1479-4f3c-978b-68e74977b509, sni: mkouy.99890604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fmSZVb4DmOGWZIKMBivnR3", headers: {Host: mkouy.99890604.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 69", server: mkouy.99890604.xyz, port: 443, type: trojan, password: 5196aae7-1479-4f3c-978b-68e74977b509, sni: mkouy.99890604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /mSZVb4DmOGWZIKMBivnR3, headers: {Host: mkouy.99890604.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 70", server: mkouy.99890604.xyz, port: 443, type: trojan, password: 5196aae7-1479-4f3c-978b-68e74977b509, sni: mkouy.99890604.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /mSZVb4DmOGWZIKMBivnR3, headers: {Host: mkouy.99890604.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 71", server: 104.16.250.22, port: 443, type: trojan, password: 519d06a5-f3a5-41bd-8f95-519ab65e20ed, sni: yss2o9nzv7hsgw2z.sggogo202510.top, skip-cert-verify: false, network: ws, ws-opts: {path: /images, headers: {Host: yss2o9nzv7hsgw2z.sggogo202510.top}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 72", server: 104.18.185.26, port: 443, type: trojan, password: 519d06a5-f3a5-41bd-8f95-519ab65e20ed, sni: yss2o9nzv7hsgw2z.sggogo202510.top, skip-cert-verify: false, network: ws, ws-opts: {path: /images, headers: {Host: yss2o9nzv7hsgw2z.sggogo202510.top}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253Fed%253D2048"}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 73", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253Fed%253D2048"}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 74", server: cf.090227.xyz, port: 443, type: trojan, password: 5a2c16f9, sni: pg.hhhhh.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: pg.hhhhh.eu.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 577ms | ***✅***@AR14N24b, server: bbbnmkl.taiwan2028.indevs.in, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: bBbNmKl.TAIwAn2028.IndEvs.In, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: bBbNmKl.TAIwAn2028.IndEvs.In}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 396ms | ***✅***@AR14N24b, server: bbbnmkl.taiwan2028.indevs.in, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: bBbNmKl.TAIwAn2028.IndEvs.In, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: bBbNmKl.TAIwAn2028.IndEvs.In}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 492ms | ***✅***@AR14N24b, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 469ms | ***✅***@AR14N24b, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 378ms | ***✅***@AR14N24b, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fhV829BTVzg35A6ueyyZnWd", headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 410ms | ***✅***@AR14N24b, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 432ms | ***✅***@AR14N24b, server: mmmhu.huangshang.online, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMMhU.HUangSHANG.onlIne, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMMhU.HUangSHANG.onlIne}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 268ms | ***✅***@AR14N24b, server: ghty.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: ghty.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: ghty.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 293ms |, server: ghty.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: ghty.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: ghty.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 309ms | ***✅***@AR14N24b, server: hju.huangdi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju.huangdi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: hju.huangdi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 376ms |, server: hju.huangdi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju.huangdi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: hju.huangdi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 274ms | ***✅***@AR14N24b, server: hju.huangdi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju.huangdi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: hju.huangdi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 296ms |, server: hju.huangdi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju.huangdi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: hju.huangdi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1148ms | ***✅***@AR14N24b, server: hju9.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju9.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: hju9.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1315ms |, server: hju9.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: hju9.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: hju9.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1074ms | ***✅***@AR14N24b, server: i9.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: i9.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: i9.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1110ms |, server: i9.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: i9.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: i9.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1036ms |, server: jiu.ok1.indevs.in, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: jiu.ok1.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: jiu.ok1.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1166ms | ***✅***@AR14N24b, server: jiu.ok1.indevs.in, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: jiu.ok1.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: jiu.ok1.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1171ms | ***✅***@AR14N24b, server: jjkii.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: jjkii.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: jjkii.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1190ms |, server: jjkii.003330333.xyz, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: jjkii.003330333.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: jjkii.003330333.xyz}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1144ms |, server: mk8.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mk8.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: mk8.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1160ms | ***✅***@AR14N24b, server: mk8.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mk8.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: mk8.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1051ms |, server: mk8.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mk8.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: mk8.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1137ms | ***✅***@AR14N24b, server: mk8.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mk8.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: mk8.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1073ms | ***✅***@AR14N24b, server: mki.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mki.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: mki.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1075ms |, server: mki.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mki.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /pdfbAl1zmvpSIH8OSONBms, headers: {Host: mki.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1064ms |, server: mki.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mki.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: mki.huangzi.eu.cc}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 1067ms | ***✅***@AR14N24b, server: mki.huangzi.eu.cc, port: 443, type: trojan, password: 5f6c3f92-7220-4275-b34d-57c04db3f967, sni: mki.huangzi.eu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fpdfbAl1zmvpSIH8OSONBms", headers: {Host: mki.huangzi.eu.cc}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -593,112 +716,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -708,112 +954,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -823,112 +1192,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -947,112 +1439,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1062,112 +1677,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1177,112 +1915,235 @@ proxy-groups:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
       - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇺🇸 | US | 524ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 548ms |
-      - 🇺🇸 | US | 262ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 697ms |
-      - 🇺🇸 | US | 484ms |
-      - 🇺🇸 | US | 845ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 417ms | ***✅***@AR14N24b
-      - "| null | 99999ms |"
-      - 🇺🇸 | US | 343ms |
-      - 🇺🇸 | US | 387ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 575ms |
-      - 🇺🇸 | US | 628ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 696ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 769ms |
-      - 🇺🇸 | US | 685ms |
-      - 🇺🇸 | US | 690ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 195ms |
+      - 🇺🇸 | US | 280ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 683ms |
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 705ms |
+      - 🇺🇸 | US | 1064ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 358ms |
+      - 🇺🇸 | US | 332ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 524ms |
+      - 🇺🇸 | US | 358ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 609ms |
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 540ms |
+      - 🇺🇸 | US | 519ms |
+      - 🇺🇸 | US | 587ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 4"
       - "| null | 99999ms | ***✅***@AR14N24b 5"
-      - 🇭🇰 | HK | 1026ms | ***✅***@AR14N24b
+      - 🇭🇰 | HK | 988ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 6"
-      - 🇺🇸 | US | 1232ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1029ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 725ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 462ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 729ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 433ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 464ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 406ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 509ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 7"
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1021ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 8"
-      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 9"
       - "| null | 99999ms | ***✅***@AR14N24b 10"
+      - 🇺🇸 | US | 4561ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4578ms |
+      - 🇺🇸 | US | 4542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4505ms | ***✅***@AR14N24b
+      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b 11"
-      - "| null | 99999ms | 3"
       - "| null | 99999ms | ***✅***@AR14N24b 12"
+      - 🇺🇸 | US | 1560ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1588ms |
+      - 🇺🇸 | US | 1650ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1654ms |
+      - 🇺🇸 | US | 1613ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1991ms |
       - "| null | 99999ms | ***✅***@AR14N24b 13"
-      - "| null | 99999ms | 4"
+      - 🇺🇸 | US | 1625ms |
+      - 🇺🇸 | US | 1647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1897ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1898ms |
+      - 🇺🇸 | US | 1662ms |
+      - 🇺🇸 | US | 1727ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1632ms |
+      - 🇺🇸 | US | 1643ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 551ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 394ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 397ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 695ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 562ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1101ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 593ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 647ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 370ms | ***✅***@AR14N24b 2
       - "| null | 99999ms | ***✅***@AR14N24b 14"
-      - "| null | 99999ms | 5"
       - "| null | 99999ms | ***✅***@AR14N24b 15"
-      - "| null | 99999ms | 6"
+      - 🇺🇸 | US | 227ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 167ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms |
       - "| null | 99999ms | ***✅***@AR14N24b 16"
       - "| null | 99999ms | ***✅***@AR14N24b 17"
-      - "| null | 99999ms | 7"
+      - 🇺🇸 | US | 2578ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4230ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 18"
-      - "| null | 99999ms | 8"
       - "| null | 99999ms | ***✅***@AR14N24b 19"
-      - "| null | 99999ms | 9"
       - "| null | 99999ms | ***✅***@AR14N24b 20"
-      - "| null | 99999ms | 10"
+      - "| null | 99999ms | 2"
       - "| null | 99999ms | ***✅***@AR14N24b 21"
-      - 🇺🇸 | US | 2220ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2128ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2161ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2106ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2104ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2003ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2083ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2072ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 2071ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 22"
       - "| null | 99999ms | ***✅***@AR14N24b 23"
-      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 269ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 327ms |
-      - 🇺🇸 | US | 1105ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 24"
-      - 🇺🇸 | US | 374ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 336ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 25"
-      - 🇺🇸 | US | 377ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 361ms | ***✅***@AR14N24b
-      - "| null | 99999ms | 11"
       - "| null | 99999ms | ***✅***@AR14N24b 26"
-      - 🇺🇸 | US | 312ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 314ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 27"
-      - 🇺🇸 | US | 344ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3971ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 28"
-      - 🇺🇸 | US | 383ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 404ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 419ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 482ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 487ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 392ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 29"
-      - 🇺🇸 | US | 664ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 863ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 564ms | ***✅***@AR14N24b
       - "| null | 99999ms | ***✅***@AR14N24b 30"
-      - 🇺🇸 | US | 807ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1320ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1316ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1304ms |
-      - 🇺🇸 | US | 1703ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1461ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1770ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1740ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 1479ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 257ms |
-      - 🇺🇸 | US | 510ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 570ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 560ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 557ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 31"
+      - "| null | 99999ms | ***✅***@AR14N24b 32"
+      - "| null | 99999ms | ***✅***@AR14N24b 33"
+      - "| null | 99999ms | ***✅***@AR14N24b 34"
+      - "| null | 99999ms | ***✅***@AR14N24b 35"
+      - 🇺🇸 | US | 4870ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 36"
+      - "| null | 99999ms | ***✅***@AR14N24b 37"
+      - 🇺🇸 | US | 4442ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 38"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 39"
+      - "| null | 99999ms | ***✅***@AR14N24b 40"
+      - "| null | 99999ms | ***✅***@AR14N24b 41"
+      - "| null | 99999ms | ***✅***@AR14N24b 42"
+      - "| null | 99999ms | ***✅***@AR14N24b 43"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 44"
+      - "| null | 99999ms | ***✅***@AR14N24b 45"
+      - 🇺🇸 | US | 3915ms | ***✅***@AR14N24b
+      - "| null | 99999ms | ***✅***@AR14N24b 46"
+      - "| null | 99999ms | ***✅***@AR14N24b 47"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b 48"
+      - "| null | 99999ms | ***✅***@AR14N24b 49"
+      - "| null | 99999ms | ***✅***@AR14N24b 50"
+      - "| null | 99999ms | ***✅***@AR14N24b 51"
+      - "| null | 99999ms | ***✅***@AR14N24b 52"
+      - "| null | 99999ms | ***✅***@AR14N24b 53"
+      - "| null | 99999ms | ***✅***@AR14N24b 54"
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 55"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 56"
+      - "| null | 99999ms | ***✅***@AR14N24b 57"
+      - "| null | 99999ms | ***✅***@AR14N24b 58"
+      - "| null | 99999ms | ***✅***@AR14N24b 59"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b 60"
+      - "| null | 99999ms | ***✅***@AR14N24b 61"
+      - "| null | 99999ms | ***✅***@AR14N24b 62"
+      - "| null | 99999ms | ***✅***@AR14N24b 63"
+      - "| null | 99999ms | 9"
+      - "| null | 99999ms | ***✅***@AR14N24b 64"
+      - 🇺🇸 | US | 201ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 212ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 202ms |
+      - 🇺🇸 | US | 244ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 178ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 153ms |
+      - 🇺🇸 | US | 168ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 197ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 203ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 169ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms |
+      - 🇺🇸 | US | 330ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 289ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 309ms |
+      - 🇺🇸 | US | 267ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms |
+      - 🇺🇸 | US | 497ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 542ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 476ms |
+      - 🇺🇸 | US | 485ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 472ms |
+      - 🇺🇸 | US | 504ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b 65"
+      - 🇺🇸 | US | 307ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3524ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4021ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 11"
+      - 🇺🇸 | US | 3257ms |
+      - 🇺🇸 | US | 3339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4147ms |
+      - 🇺🇸 | US | 4787ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 3998ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4000ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 66"
+      - 🇺🇸 | US | 4219ms |
+      - 🇺🇸 | US | 4320ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 4447ms |
+      - 🇺🇸 | US | 4504ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 199ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 183ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 339ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 377ms |
+      - 🇺🇸 | US | 327ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 339ms |
+      - 🇺🇸 | US | 255ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 137ms |
+      - 🇺🇸 | US | 163ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 133ms |
+      - 🇺🇸 | US | 160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 218ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 225ms |
+      - 🇺🇸 | US | 191ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 223ms |
+      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 168ms |
+      - 🇺🇸 | US | 160ms |
+      - 🇺🇸 | US | 219ms | ***✅***@AR14N24b 2
+      - "| null | 99999ms | ***✅***@AR14N24b 67"
+      - "| null | 99999ms | ***✅***@AR14N24b 68"
+      - "| null | 99999ms | ***✅***@AR14N24b 69"
+      - "| null | 99999ms | ***✅***@AR14N24b 70"
+      - "| null | 99999ms | ***✅***@AR14N24b 71"
+      - "| null | 99999ms | ***✅***@AR14N24b 72"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 73"
+      - "| null | 99999ms | ***✅***@AR14N24b 74"
+      - 🇺🇸 | US | 577ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 396ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 537ms | ***✅***@AR14N24b 2
+      - 🇺🇸 | US | 492ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 469ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 378ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 410ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 432ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 268ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 293ms |
+      - 🇺🇸 | US | 309ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 376ms |
+      - 🇺🇸 | US | 274ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 296ms |
+      - 🇺🇸 | US | 1148ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1315ms |
+      - 🇺🇸 | US | 1074ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1110ms |
+      - 🇺🇸 | US | 1036ms |
+      - 🇺🇸 | US | 1166ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1171ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1190ms |
+      - 🇺🇸 | US | 1144ms |
+      - 🇺🇸 | US | 1160ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1051ms |
+      - 🇺🇸 | US | 1137ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1073ms | ***✅***@AR14N24b
+      - 🇺🇸 | US | 1075ms |
+      - 🇺🇸 | US | 1064ms |
+      - 🇺🇸 | US | 1067ms | ***✅***@AR14N24b
   - name: دانلود منیجر 📥
     type: select
     proxies:

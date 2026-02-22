@@ -614,24 +614,6 @@ proxies:
   - {name: 135.125.245.131:12522, server: 135.125.245.131, port: 12522, type: ss, cipher: chacha20-ietf-poly1305, password: 3fd24b15f8619c97, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 85", server: 135.125.245.131, port: 12522, type: ss, cipher: chacha20-ietf-poly1305, password: 3fd24b15f8619c97, udp: true, tfo: false}
   - {name: 135.125.245.131:12522 2, server: 135.125.245.131, port: 12522, type: ss, cipher: chacha20-ietf-poly1305, password: 3fd24b15f8619c97, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 86", server: 135.125.245.131, port: 12522, type: ss, cipher: chacha20-ietf-poly1305, password: 3fd24b15f8619c97, udp: true, tfo: false}
-  - {name: 45.95.233.133:8388, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: vqyEdGysKQ9FkWHkPnow_fBNANcMRsNH, udp: true, tfo: false}
-  - {name: 45.95.233.133:8388 2, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: vqyEdGysKQ9FkWHkPnow_fBNANcMRsNH, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 87", server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: vqyEdGysKQ9FkWHkPnow_fBNANcMRsNH, udp: true, tfo: false}
-  - {name: switcher-nick-croquet.freesocks.work:443 2, server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: wwzVn2ZnHfqYa6l8EWh3eY, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 88", server: switcher-nick-croquet.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: wwzVn2ZnHfqYa6l8EWh3eY, udp: true, tfo: false}
-  - {name: api.melonpanel.ir:1080, server: api.melonpanel.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: x4WuCumDo-4ahFPPuhG6AuMn8cmgrmSK, udp: true, tfo: false}
-  - {name: عصر زامبی ها, server: api.melonpanel.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: x4WuCumDo-4ahFPPuhG6AuMn8cmgrmSK, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 89", server: api.melonpanel.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: x4WuCumDo-4ahFPPuhG6AuMn8cmgrmSK, udp: true, tfo: false}
-  - {name: 136.244.100.113:443, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: "@vpnbaz 🔐", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 90", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: "@meliproxyy 6", server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
-  - {name: 89.44.197.181:31348, server: 89.44.197.181, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 91", server: 89.44.197.181, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: zDLmeWRsfcFdKT1Tpy02xodEToqCldTxvZcRoPIZZtBdnIEL, udp: true, tfo: false}
-  - {name: 103.57.251.240:990, server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 92", server: 103.57.251.240, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 119.59.127.129:990, server: 119.59.127.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -797,24 +779,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -970,24 +934,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1143,24 +1089,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1325,24 +1253,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1498,24 +1408,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1671,24 +1563,6 @@ proxy-groups:
       - 135.125.245.131:12522
       - "***✅***@AR14N24b 85"
       - 135.125.245.131:12522 2
-      - "***✅***@AR14N24b 86"
-      - 45.95.233.133:8388
-      - 45.95.233.133:8388 2
-      - "***✅***@AR14N24b 87"
-      - switcher-nick-croquet.freesocks.work:443 2
-      - "***✅***@AR14N24b 88"
-      - api.melonpanel.ir:1080
-      - عصر زامبی ها
-      - "***✅***@AR14N24b 89"
-      - 136.244.100.113:443
-      - "@vpnbaz 🔐"
-      - "***✅***@AR14N24b 90"
-      - "@meliproxyy 6"
-      - 89.44.197.181:31348
-      - "***✅***@AR14N24b 91"
-      - 103.57.251.240:990
-      - "***✅***@AR14N24b 92"
-      - 119.59.127.129:990
   - name: دانلود منیجر 📥
     type: select
     proxies:

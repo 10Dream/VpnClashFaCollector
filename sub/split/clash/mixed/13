@@ -689,6 +689,7 @@ proxies:
   - {name: 172.64.152.23:2053 2, server: 172.64.152.23, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 3bca21fc-8ba8-4e1d-9155-710f8eb51ca4, servername: li2.xtondi.ir, network: ws, ws-opts: {path: /, headers: {Host: li2.xtondi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.152.23:2053 3, server: 172.64.152.23, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 3bca21fc-8ba8-4e1d-9155-710f8eb51ca4, servername: spn.tondha.ir, network: ws, ws-opts: {path: /, headers: {Host: spn.tondha.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 158.160.188.11:443, server: 158.160.188.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3cb2a159-dfeb-4db7-b3f0-33d0d6e4f554, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4, short-id: 1bbbfaf553e63d8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇨🇦 zone.ca.f2zone.ir:17759, server: zone.ca.f2zone.ir, port: 17759, type: vless, tls: true, packet-encoding: xudp, uuid: 3cbad916-d882-4773-8dfb-15564f2d29fe, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fi1.mahboob.top:2086, server: fi1.mahboob.top, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 3cee2d27-91da-b30c-8651-c6759443890f, host: fi1.mahboob.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: F1.HaMrAhCoNf.Ir:8443, server: F1.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3e2c0c52-2fa3-4851-823e-55865703cd1e, servername: sp.hamrahconfig.ir, network: ws, ws-opts: {path: /, headers: {Host: sp.hamrahconfig.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ea61064-dae6-4ce5-8e3b-451c7feab49f, servername: sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiMHF3bXNPUVFSYkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -702,6 +703,7 @@ proxies:
   - {name: 104.17.147.22:2096 4, server: 104.17.147.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_45, server: 104.17.147.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 9", server: 108.162.192.75, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22@oneclickvpnkeys, server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iphone02016vpn آلمان`", server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 108.162.193.217:2096, server: 108.162.193.217, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 41@oneclickvpnkeys, server: 108.162.195.45, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -715,6 +717,7 @@ proxies:
   - {name: betty.ns.cloudflare.com:2096, server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: betty.ns.cloudflare.com:2096 2, server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys, server: brenna.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 27@oneclickvpnkeys, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  2", server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪¹⁰⁶』, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -728,6 +731,7 @@ proxies:
   - {name: www.speedtest.net:2096, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN` 3", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:2096 2, server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 7@oneclickvpnkeys`, server: wolfb24.servers1mart.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f42b528-59ef-45f9-9ba3-6292ca46f909, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb24.servers1mart.ir:2096, server: wolfb24.servers1mart.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f42b528-59ef-45f9-9ba3-6292ca46f909, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 11", server: wolfb24.servers1mart.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f42b528-59ef-45f9-9ba3-6292ca46f909, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:2083, server: 188.114.98.0, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 3f47847a-1a7e-40be-932d-2573e9d3a518, servername: hgfvnde.afghanestan.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: hgfvnde.afghanestan.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -763,16 +767,13 @@ proxies:
   - {name: maxb06.ava-shop.ir:2096, server: maxb06.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 460ac740-4cc0-40de-bda1-fe71a449070a, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82@oneclickvpnkeys, server: 158.160.105.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 1929ef620e9b34f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81@oneclickvpnkeys, server: 158.160.105.121, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩, server: 158.160.105.121, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 83@oneclickvpnkeys, server: 158.160.105.121, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87@oneclickvpnkeys, server: 158.160.221.132, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 158.160.221.132:51102, server: 158.160.221.132, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2, server: 158.160.221.132, port: 51102, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 158.160.221.132:8443, server: 158.160.221.132, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.123.164.110:8443, server: 176.123.164.110, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇵🇱 Poland — #479", server: 176.123.164.110, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇵🇱 Poland — #480", server: 79.137.175.56, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3, server: 79.137.175.56, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.86.147.96:5443, server: 185.86.147.96, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 4706e106-9637-46fb-9536-1dacd57889fe, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ, short-id: a1b2c3d4e5f60789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 14", server: 185.86.147.96, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 4706e106-9637-46fb-9536-1dacd57889fe, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ, short-id: a1b2c3d4e5f60789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_67 2, server: 185.86.147.96, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 4706e106-9637-46fb-9536-1dacd57889fe, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ, short-id: a1b2c3d4e5f60789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -797,6 +798,7 @@ proxies:
   - {name: 57.129.53.182:23576, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 16", server: 142.248.80.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @ 2, server: 142.248.80.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4aff5de5-83dc-43c9-a33e-10e6fdb90ed2, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 11@oneclickvpnkeys, server: 3.71.10.234, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.71.10.234:44708, server: 3.71.10.234, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 17", server: 3.71.10.234, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.71.10.234:44708 2, server: 3.71.10.234, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -871,19 +873,6 @@ proxies:
   - {name: "@meliproxyy 25", server: firan.dtgoldservices.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 510d1634-6118-4639-8ba3-66d8d838b74d, servername: firan.dtgoldservices.com, host: firan.dtgoldservices.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`, server: 146.185.240.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: 205748bc0f24a747}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.185.240.23:8443, server: 146.185.240.23, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 72@oneclickvpnkeys, server: 84.252.136.245, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: 205748bc0f24a747}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2, server: 84.252.136.245, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇹🇷 Türkiye — #514", server: 89.169.162.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: 205748bc0f24a747}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.169.162.214:8443, server: 89.169.162.214, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3, server: 89.169.162.214, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8.35.211.210:443, server: 8.35.211.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b, servername: javad.fighterjavad8-faa.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: javad.fighterjavad8-faa.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8.35.211.75:8443, server: 8.35.211.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 51a0af77-a60c-4d9b-81a4-f50e1b38d90b, servername: javad.fighterjavad8-faa.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: javad.fighterjavad8-faa.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.250.75.178:443, server: 51.250.75.178, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 52bb06f4-74a2-4ac6-a0b5-06f54d68cf83, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: iobA_bK3A-Mj4IF65agM5VbKQdbI1FDtq4WaOPkRwU4, short-id: 1bbbfaf553e63d8c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.42.131:4443, server: 37.139.42.131, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 53133b3c-30f0-4fe8-8a92-e48238e260e9, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dZhZUzUZazKuWXXVfDk5Vm1X7rMDlTLiGCVq1OechlY, short-id: 1421a22b7618d51d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: reza.alphanet01.com:2098, server: reza.alphanet01.com, port: 2098, type: vless, tls: true, packet-encoding: xudp, uuid: 5341f83e-634d-4920-9391-a6ffadd15276, network: ws, ws-opts: {path: /PULAVPN, headers: {Host: play.google.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.250.0.147:443, server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 3f200574d011010f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 26", server: 172.234.130.82, port: 10001, type: vless, tls: true, packet-encoding: xudp, uuid: 53cd8178-2ee6-43d9-a2a7-881f287fd408, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM, short-id: 1a24af87}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 104.16.249.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813, servername: dabaihk.webn.cc, network: ws, ws-opts: {path: /db1024a105975707, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1124,6 +1113,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -1137,6 +1127,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -1150,6 +1141,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -1163,6 +1155,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -1198,16 +1191,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -1232,6 +1222,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -1306,19 +1297,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1549,6 +1527,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -1562,6 +1541,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -1575,6 +1555,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -1588,6 +1569,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -1623,16 +1605,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -1657,6 +1636,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -1731,19 +1711,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1974,6 +1941,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -1987,6 +1955,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -2000,6 +1969,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -2013,6 +1983,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -2048,16 +2019,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -2082,6 +2050,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -2156,19 +2125,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2408,6 +2364,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -2421,6 +2378,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -2434,6 +2392,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -2447,6 +2406,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -2482,16 +2442,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -2516,6 +2473,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -2590,19 +2548,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -2833,6 +2778,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -2846,6 +2792,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -2859,6 +2806,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -2872,6 +2820,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -2907,16 +2856,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -2941,6 +2887,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -3015,19 +2962,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -3258,6 +3192,7 @@ proxy-groups:
       - 172.64.152.23:2053 2
       - 172.64.152.23:2053 3
       - 158.160.188.11:443
+      - 🇨🇦 zone.ca.f2zone.ir:17759
       - fi1.mahboob.top:2086
       - F1.HaMrAhCoNf.Ir:8443
       - 6@oneclickvpnkeys
@@ -3271,6 +3206,7 @@ proxy-groups:
       - 104.17.147.22:2096 4
       - configraygan_45
       - "@meliproxyy 9"
+      - 22@oneclickvpnkeys
       - "@iphone02016vpn آلمان`"
       - 108.162.193.217:2096
       - 41@oneclickvpnkeys
@@ -3284,6 +3220,7 @@ proxy-groups:
       - betty.ns.cloudflare.com:2096
       - betty.ns.cloudflare.com:2096 2
       - 23@oneclickvpnkeys
+      - 27@oneclickvpnkeys
       - "  2"
       - ⚡️ | @configraygan『🇩🇪¹⁰⁶』
       - ⚡Telegram - @
@@ -3297,6 +3234,7 @@ proxy-groups:
       - www.speedtest.net:2096
       - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - www.speedtest.net:2096 2
+      - 7@oneclickvpnkeys`
       - wolfb24.servers1mart.ir:2096
       - "@meliproxyy 11"
       - 188.114.98.0:2083
@@ -3332,16 +3270,13 @@ proxy-groups:
       - maxb06.ava-shop.ir:2096
       - 82@oneclickvpnkeys
       - 81@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩
       - 83@oneclickvpnkeys
       - 87@oneclickvpnkeys
       - 158.160.221.132:51102
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 2
       - 158.160.221.132:8443
       - 176.123.164.110:8443
       - "🇵🇱 Poland — #479"
       - "🇵🇱 Poland — #480"
-      - برای اتصال دائمی جوین شو♂️ TelegramID ⌲Express_freevpn 🪩 3
       - 185.86.147.96:5443
       - "@meliproxyy 14"
       - configraygan_67 2
@@ -3366,6 +3301,7 @@ proxy-groups:
       - 57.129.53.182:23576
       - "@meliproxyy 16"
       - ⚡Telegram - @ 2
+      - 11@oneclickvpnkeys
       - 3.71.10.234:44708
       - "@meliproxyy 17"
       - 3.71.10.234:44708 2
@@ -3440,19 +3376,6 @@ proxy-groups:
       - "@meliproxyy 25"
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩`
       - 146.185.240.23:8443
-      - 72@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - "🇹🇷 Türkiye — #514"
-      - 89.169.162.214:8443
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 3
-      - 8.35.211.210:443
-      - 8.35.211.75:8443
-      - 51.250.75.178:443
-      - 37.139.42.131:4443
-      - reza.alphanet01.com:2098
-      - 51.250.0.147:443
-      - "@meliproxyy 26"
-      - NetAccount` 4
   - name: دانلود منیجر 📥
     type: select
     proxies:
