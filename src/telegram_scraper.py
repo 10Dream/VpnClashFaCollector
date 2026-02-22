@@ -153,7 +153,13 @@ def scrape_channel(username, lookback_days, max_pages, base_path, current_idx, t
                 seen.add(identifier)
 
         try:
-            with open(os.path.join(channel_dir, "messages.md"), "w", encoding="utf-8") as f:
+            # پاکسازی فایل‌های md قدیمی که باعث ارور گیت‌هاب می‌شدند
+            old_md_file = os.path.join(channel_dir, "messages.md")
+            if os.path.exists(old_md_file):
+                os.remove(old_md_file)
+
+            # ذخیره با فرمت جدید txt
+            with open(os.path.join(channel_dir, "messages.txt"), "w", encoding="utf-8") as f:
                 f.write(f"# آرشیو کانال: @{username}\n")
                 f.write(f"بروزرسانی: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M:%S')} UTC\n\n")
                 for m in unique_messages:
