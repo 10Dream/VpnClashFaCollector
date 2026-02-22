@@ -470,14 +470,11 @@ proxies:
   - {name: 71@oneclickvpnkeys, server: 51.250.46.121, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 001c68ea-7186-4d3e-863b-7b513e73e7a0, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8, short-id: 8cd9d7c88b8fd22c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: 51.250.46.121, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 001c68ea-7186-4d3e-863b-7b513e73e7a0, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8, short-id: 8cd9d7c88b8fd22c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.240.240:8443, server: 162.159.240.240, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0025a28e-11fa-4039-bbce-ba45edf8ab49, servername: ger.parogamers.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ger.parogamers.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 162.159.240.240, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0025a28e-11fa-4039-bbce-ba45edf8ab49, servername: ger.parogamers.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ger.parogamers.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 162.159.240.240, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0025a28e-11fa-4039-bbce-ba45edf8ab49, servername: ger.parogamers.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ger.parogamers.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 104.16.250.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00640161-0300-45ae-a08c-6b08476bbe7d, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /154.19.242.205=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.42.130:48837, server: 78.157.42.130, port: 48837, type: vless, tls: true, packet-encoding: xudp, uuid: 0098262c-48dc-49f0-874d-599d78474453, host: drive.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.120.182.246:3443, server: 109.120.182.246, port: 3443, type: vless, tls: true, packet-encoding: xudp, uuid: 00a1a0c0-483e-4fa1-b1b1-8578a64c7b85, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: E0v1eCplgozcf1FVIzwel92v7p-SjQbTY3beXtLQk0o, short-id: 99c3cbbde80525aa}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 104.16.250.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,14 +496,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -518,14 +512,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -537,14 +528,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -565,14 +553,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -584,14 +569,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -603,14 +585,11 @@ proxy-groups:
       - 71@oneclickvpnkeys
       - "***✅***@AR14N24b 2"
       - 162.159.240.240:8443
-      - "@meliproxyy"
       - "***✅***@AR14N24b 3"
+      - "@meliproxyy"
       - "***✅***@AR14N24b 4"
       - "***✅***@AR14N24b 5"
       - "***✅***@AR14N24b 6"
-      - "***✅***@AR14N24b 7"
-      - 78.157.42.130:48837
-      - 109.120.182.246:3443
   - name: دانلود منیجر 📥
     type: select
     proxies:

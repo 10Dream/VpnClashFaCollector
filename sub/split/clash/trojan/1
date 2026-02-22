@@ -485,7 +485,6 @@ proxies:
   - {name: hnnmk.0od.ccwu.cc:443 2, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 12", server: www.speedtest.net, port: 8443, type: trojan, password: 0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241, sni: aged-sun-9128.danicng13.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trv9lthtdhp1hvnyc0/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560", headers: {Host: aged-sun-9128.danicng13.workers.dev}}, udp: true, tfo: false}
-  - {name: 188.116.22.217:2083, server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 13", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 14", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 15", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 125f929b-dbde-43b9-b498-695f1cd45d68, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -530,7 +529,6 @@ proxies:
   - {name: "***✅***@AR14N24b 45", server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 46", server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 47", server: vvvbbnhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbnhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbnhj.191266.xyz}}, udp: true, tfo: false}
-  - {name: 188.114.97.82:443, server: 188.114.97.82, port: 443, type: trojan, password: 2f211aae-3678-47a6-b231-46304443772f, sni: cdir-0203.wlfvip.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/trojanws?ed=2048", headers: {Host: cdir-0203.wlfvip.com}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 48", server: 188.114.97.82, port: 443, type: trojan, password: 2f211aae-3678-47a6-b231-46304443772f, sni: cdir-0203.wlfvip.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/trojanws?ed=2048", headers: {Host: cdir-0203.wlfvip.com}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 49", server: 3dfrt.dddc.us.ci, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: 3dfrt.dddc.us.ci, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 50", server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: /FYzt5jjXXYWmzP5D1vsO, headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
@@ -719,11 +717,9 @@ proxies:
   - {name: "***✅***@AR14N24b`", server: 160.16.236.32, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.57.238:193, server: 160.16.57.238, port: 193, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 184", server: 160.16.57.238, port: 193, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 160.16.72.205:1281, server: 160.16.72.205, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 185", server: 160.16.72.205, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 160.16.72.205:1281 2, server: 160.16.72.205, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 160.16.72.205:1281, server: 160.16.72.205, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 186", server: 160.16.72.205, port: 1281, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 58.152.53.227:443, server: 58.152.53.227, port: 443, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 187", server: 58.152.53.227, port: 443, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 188", server: 58.152.53.227, port: 443, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 189", server: 58.152.53.227, port: 443, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
@@ -849,7 +845,6 @@ proxies:
   - {name: "***✅***@AR14N24b 272", server: uu.852224.xyz, port: 443, type: trojan, password: b020865b-7404-4894-ba65-a7414b10cda3, sni: uu.852224.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /iEIlQmeiFdOPjqSc7fzeJr, headers: {Host: uu.852224.xyz}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 273", server: uu.852224.xyz, port: 443, type: trojan, password: b020865b-7404-4894-ba65-a7414b10cda3, sni: uu.852224.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /iEIlQmeiFdOPjqSc7fzeJr, headers: {Host: uu.852224.xyz}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 274", server: bbbnhju.huangshang.online, port: 443, type: trojan, password: b9bb332d-5e0d-41af-adac-49362dde8661, sni: bbbnhju.huangshang.online, skip-cert-verify: false, network: ws, ws-opts: {path: /QmR662lkasAQbt5Q2GkKGWRMg, headers: {Host: bbbnhju.huangshang.online}}, udp: true, tfo: false}
-  - {name: bbbnhju.huangshang.online:443, server: bbbnhju.huangshang.online, port: 443, type: trojan, password: b9bb332d-5e0d-41af-adac-49362dde8661, sni: bbbnhju.huangshang.online, skip-cert-verify: false, network: ws, ws-opts: {path: /QmR662lkasAQbt5Q2GkKGWRMg, headers: {Host: bbbnhju.huangshang.online}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 275", server: bbbnhju.huangshang.online, port: 443, type: trojan, password: b9bb332d-5e0d-41af-adac-49362dde8661, sni: bbbnhju.huangshang.online, skip-cert-verify: false, network: ws, ws-opts: {path: /QmR662lkasAQbt5Q2GkKGWRMg, headers: {Host: bbbnhju.huangshang.online}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 276", server: hhhnmjk.191268.xyz, port: 443, type: trojan, password: b9bb332d-5e0d-41af-adac-49362dde8661, sni: hhhnmjk.191268.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fQmR662lkasAQbt5Q2GkKGWRMg", headers: {Host: hhhnmjk.191268.xyz}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 277", server: lll9.7777198.xyz, port: 443, type: trojan, password: b9bb332d-5e0d-41af-adac-49362dde8661, sni: lll9.7777198.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /QmR662lkasAQbt5Q2GkKGWRMg, headers: {Host: lll9.7777198.xyz}}, udp: true, tfo: false}
@@ -886,12 +881,10 @@ proxies:
   - {name: "***✅***@AR14N24b 303", server: www.digitalocean.com, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
   - {name: 🇮🇳 mhju.h2e.indevs.in:443, server: mhju.h2e.indevs.in, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mhju.h2e.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mhju.h2e.indevs.in}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 304", server: mhju.h2e.indevs.in, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mhju.h2e.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mhju.h2e.indevs.in}}, udp: true, tfo: false}
-  - {name: 🇮🇳 mhju.h2e.indevs.in:443 2, server: mhju.h2e.indevs.in, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mhju.h2e.indevs.in, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 305", server: mhju.h2e.indevs.in, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mhju.h2e.indevs.in, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mkl.2oo.ccwu.cc:443, server: mkl.2oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mkl.2oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mkl.2oo.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 306", server: mkl.2oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mkl.2oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mkl.2oo.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 307", server: mkl.2oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mkl.2oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mkl.2oo.ccwu.cc}}, udp: true, tfo: false}
-  - {name: mkl.2oo.ccwu.cc:443 2, server: mkl.2oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mkl.2oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mkl.2oo.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 308", server: mkl.2oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mkl.2oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mkl.2oo.ccwu.cc}}, udp: true, tfo: false}
   - {name: mmjk.3oo.ccwu.cc:443, server: mmjk.3oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mmjk.3oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mmjk.3oo.ccwu.cc}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 309", server: mmjk.3oo.ccwu.cc, port: 443, type: trojan, password: d5604db8-1f31-403d-a315-d8bafc70f7d2, sni: mmjk.3oo.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /mRjWgF9aMWcpQ8L96b, headers: {Host: mmjk.3oo.ccwu.cc}}, udp: true, tfo: false}
@@ -964,6 +957,13 @@ proxies:
   - {name: "***✅***@AR14N24b 356", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 357", server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 358", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 359", server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 360", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 361", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***🇩🇪***All³", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 362", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 363", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 364", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -1000,7 +1000,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -1045,7 +1044,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -1234,11 +1232,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -1364,7 +1360,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -1401,12 +1396,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -1479,6 +1472,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -1505,7 +1505,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -1550,7 +1549,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -1739,11 +1737,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -1869,7 +1865,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -1906,12 +1901,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -1984,6 +1977,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -2010,7 +2010,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -2055,7 +2054,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -2244,11 +2242,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -2374,7 +2370,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -2411,12 +2406,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -2489,6 +2482,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2524,7 +2524,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -2569,7 +2568,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -2758,11 +2756,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -2888,7 +2884,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -2925,12 +2920,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -3003,6 +2996,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -3029,7 +3029,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -3074,7 +3073,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -3263,11 +3261,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -3393,7 +3389,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -3430,12 +3425,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -3508,6 +3501,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -3534,7 +3534,6 @@ proxy-groups:
       - hnnmk.0od.ccwu.cc:443 2
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
-      - 188.116.22.217:2083
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b 15"
@@ -3579,7 +3578,6 @@ proxy-groups:
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
-      - 188.114.97.82:443
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
@@ -3768,11 +3766,9 @@ proxy-groups:
       - "***✅***@AR14N24b`"
       - 160.16.57.238:193
       - "***✅***@AR14N24b 184"
-      - 160.16.72.205:1281
       - "***✅***@AR14N24b 185"
-      - 160.16.72.205:1281 2
+      - 160.16.72.205:1281
       - "***✅***@AR14N24b 186"
-      - 58.152.53.227:443
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -3898,7 +3894,6 @@ proxy-groups:
       - "***✅***@AR14N24b 272"
       - "***✅***@AR14N24b 273"
       - "***✅***@AR14N24b 274"
-      - bbbnhju.huangshang.online:443
       - "***✅***@AR14N24b 275"
       - "***✅***@AR14N24b 276"
       - "***✅***@AR14N24b 277"
@@ -3935,12 +3930,10 @@ proxy-groups:
       - "***✅***@AR14N24b 303"
       - 🇮🇳 mhju.h2e.indevs.in:443
       - "***✅***@AR14N24b 304"
-      - 🇮🇳 mhju.h2e.indevs.in:443 2
       - "***✅***@AR14N24b 305"
       - mkl.2oo.ccwu.cc:443
       - "***✅***@AR14N24b 306"
       - "***✅***@AR14N24b 307"
-      - mkl.2oo.ccwu.cc:443 2
       - "***✅***@AR14N24b 308"
       - mmjk.3oo.ccwu.cc:443
       - "***✅***@AR14N24b 309"
@@ -4013,6 +4006,13 @@ proxy-groups:
       - "***✅***@AR14N24b 356"
       - "***✅***@AR14N24b 357"
       - "***✅***@AR14N24b 358"
+      - "***✅***@AR14N24b 359"
+      - "***✅***@AR14N24b 360"
+      - "***✅***@AR14N24b 361"
+      - "***🇩🇪***All³"
+      - "***✅***@AR14N24b 362"
+      - "***✅***@AR14N24b 363"
+      - "***✅***@AR14N24b 364"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -466,16 +466,16 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: V 81 @Outline_Vpn, server: 162.159.153.231, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 73 @Outline_Vpn, server: 185.162.231.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 89 @Outline_Vpn, server: 185.16.110.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 87 @Outline_Vpn, server: 188.114.98.0, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 90 @Outline_Vpn`, server: 188.114.98.0, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 82 @Outline_Vpn, server: 188.114.99.243, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 80 @Outline_Vpn, server: 188.244.122.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 84 @Outline_Vpn, server: 192.0.54.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 74 @Outline_Vpn, server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 72 @Outline_Vpn, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 75 @Outline_Vpn, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 86 @Outline_Vpn, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: ProxyVPN11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /, headers: {Host: ProxyVPN11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 88 @Outline_Vpn, server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 85 @Outline_Vpn`, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 83 @Outline_Vpn, server: cdn.zoom.us, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /138.2.5.136=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 76 @Outline_Vpn`, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,16 +493,16 @@ proxy-groups:
     type: select
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -510,16 +510,16 @@ proxy-groups:
     tolerance: 50
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -527,16 +527,16 @@ proxy-groups:
     tolerance: 50
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -553,16 +553,16 @@ proxy-groups:
     interval: 600
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -570,16 +570,16 @@ proxy-groups:
     interval: 600
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -587,16 +587,16 @@ proxy-groups:
     interval: 600
     proxies:
       - V 81 @Outline_Vpn
-      - V 73 @Outline_Vpn
+      - V 89 @Outline_Vpn
+      - V 87 @Outline_Vpn
+      - V 90 @Outline_Vpn`
       - V 82 @Outline_Vpn
       - V 80 @Outline_Vpn
       - V 84 @Outline_Vpn
-      - V 74 @Outline_Vpn
-      - V 72 @Outline_Vpn
-      - V 75 @Outline_Vpn
+      - V 86 @Outline_Vpn
+      - V 88 @Outline_Vpn
       - V 85 @Outline_Vpn`
       - V 83 @Outline_Vpn
-      - V 76 @Outline_Vpn`
   - name: دانلود منیجر 📥
     type: select
     proxies:

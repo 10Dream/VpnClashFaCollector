@@ -569,30 +569,30 @@ proxies:
   - {name: chatgpt.com:2052, server: chatgpt.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: poe.com:443 2, server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1fc730-c184-415c-932b-37c8812c8736, servername: yor.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yor.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧", server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom3, server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: wandering-term-f40f.moshe01.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: wandering-term-f40f.moshe01.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 3", server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: 141.101.120.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: divine-term-f5b2.olav95.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: divine-term-f5b2.olav95.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 4", server: 141.101.120.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: divine-term-f5b2.olav95.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: divine-term-f5b2.olav95.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanomvpn, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: odd-frog-6731.amiya45.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: odd-frog-6731.amiya45.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom1, server: 172.67.192.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: holy-dawn-e9ec.jonas05-ba6.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: holy-dawn-e9ec.jonas05-ba6.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇺🇸⁹⁹』, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 5", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SPEEDS_VPN1-🫆", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_48, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ip.sb:443, server: ip.sb, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.tara132.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: sany.tara132.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟", server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 2", server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 6", server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankkhanom12, server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bitter-bird-3d79.alfredo-443.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bitter-bird-3d79.alfredo-443.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom9, server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bold-heart-552a.zion-9a8.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bold-heart-552a.zion-9a8.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 5", server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-violet-d45c.anthony900.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-violet-d45c.anthony900.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇬🇧 3", server: stock.hostmonit.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 2", server: stock.hostmonit.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2560", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 7", server: stock.hostmonit.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 6", server: stock.hostmonit.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.base64encode.org:443, server: www.base64encode.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.tara132.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed", headers: {Host: sany.tara132.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 3", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 8", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom10, server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bold-heart-552a.zion-9a8.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bold-heart-552a.zion-9a8.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 7", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-frost-a3f4.loyal341.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: nameless-frost-a3f4.loyal341.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.wto.org:443, server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sany.tara132.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: sany.tara132.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 9", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: wandering-term-f40f.moshe01.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: wandering-term-f40f.moshe01.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 8", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: wandering-term-f40f.moshe01.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: wandering-term-f40f.moshe01.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:443 4, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 643a3034-d3f9-4e03-acde-0e6ab3a238fb, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /54.203.85.46, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 643a3034-d3f9-4e03-acde-0e6ab3a238fb, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /54.203.85.46, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -607,7 +607,7 @@ proxies:
   - {name: 104.17.147.22:443, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a36be1d-7c78-4885-8a1f-bedf5ba7db1c, servername: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/rN50nmm9L1DeY73C?ed=2560", headers: {Host: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8a36be1d-7c78-4885-8a1f-bedf5ba7db1c, servername: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/rN50nmm9L1DeY73C?ed=2560", headers: {Host: luCky-LAB-AC6D.CAveyi8071.WoRkeRS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:443 6, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90b9fe99-5bd4-4fa8-a290-4987833adb22, servername: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed", headers: {Host: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 10", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90b9fe99-5bd4-4fa8-a290-4987833adb22, servername: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed", headers: {Host: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90b9fe99-5bd4-4fa8-a290-4987833adb22, servername: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiZGZqSnhwWmI5NzQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed", headers: {Host: TCK-cmhdwom6Nlm1k50eeLCBh6kUM4Ob.S90786383.workErs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.18.250.214:443, server: 185.18.250.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 90d41578-2041-4b68-a8eb-18f22acab21a, servername: posit.kindling.workers.dev, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: /ws, headers: {Host: posit.kindling.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 9", server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91a6fd31-8095-4b81-b9e7-89f31e2868ef, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇺🇸⁹²』, server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 91a6fd31-8095-4b81-b9e7-89f31e2868ef, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -749,30 +749,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -787,7 +787,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』
@@ -919,30 +919,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -957,7 +957,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』
@@ -1089,30 +1089,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -1127,7 +1127,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』
@@ -1268,30 +1268,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -1306,7 +1306,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』
@@ -1438,30 +1438,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -1476,7 +1476,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』
@@ -1608,30 +1608,30 @@ proxy-groups:
       - chatgpt.com:2052
       - poe.com:443 2
       - "@MARAMBASHI 🇬🇧"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - irankhanom3
       - "@meliproxyy 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@meliproxyy 4"
+      - irankhanomvpn
+      - irankhanom1
       - ⚡️ | @configraygan『🇺🇸⁹⁹』
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - "@SPEEDS_VPN1-🫆"
       - configraygan_48
       - chatgpt.com:2096
       - ip.sb:443
       - "@MARAMBASHI 💟"
       - "@MARAMBASHI 🇬🇧 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 6"
+      - irankkhanom12
+      - irankhanom9
       - "@meliproxyy 5"
       - "@MARAMBASHI 🇬🇧 3"
       - "@MARAMBASHI 💟 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
       - "@meliproxyy 6"
       - www.base64encode.org:443
       - "@MARAMBASHI 💟 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN 8"
+      - irankhanom10
       - "@meliproxyy 7"
       - www.wto.org:443
-      - "***🐦‍🔥***-@SPEEDS_VPN 9"
       - "@meliproxyy 8"
       - chatgpt.com:443 4
       - "***🐦‍🔥***-@SPEEDS_VPN`"
@@ -1646,7 +1646,7 @@ proxy-groups:
       - 104.17.147.22:443
       - www.speedtest.net:443
       - chatgpt.com:443 6
-      - "***🐦‍🔥***-@SPEEDS_VPN 10"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - 185.18.250.214:443
       - "@meliproxyy 9"
       - ⚡️ | @configraygan『🇺🇸⁹²』

@@ -469,6 +469,77 @@ proxies:
   - {name: "***✅***@AR14N24b 2", server: 104.17.148.22, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: www.speedtest.net, port: 8443, type: trojan, password: "%3AU%5D2hAN7Y%5BKa0Eb_", sni: TEst-63W.PaGEs.deV, skip-cert-verify: false, network: ws, ws-opts: {path: "/tre6QQRE1ue6YL7k30/NzIuMTMuMTIyLjEzNw==?ed=2560", headers: {Host: TEst-63W.PaGEs.deV}}, udp: true, tfo: false}
   - {name: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443, server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, port: 8443, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087, server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, port: 2087, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2, server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, port: 2053, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083, server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, port: 2083, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev}}, udp: true, tfo: false}
+  - {name: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096, server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, port: 2096, type: trojan, password: !<str> 031322, sni: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f%3fed%3d2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev}}, udp: true, tfo: false}
+  - {name: hnnmk.0od.ccwu.cc:443, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: hnnmk.0od.ccwu.cc:443 2, server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: hnnmk.0od.ccwu.cc, port: 443, type: trojan, password: 077a4330-7cb0-4d4b-8feb-7ceb3cd43f69, sni: hnnmk.0od.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /WRcZ5LrfKfYKaAHx8c, headers: {Host: hnnmk.0od.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: www.speedtest.net, port: 8443, type: trojan, password: 0e5d5ebb-a1bf-4d7a-9494-8b67e9d78241, sni: aged-sun-9128.danicng13.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trv9lthtdhp1hvnyc0/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560", headers: {Host: aged-sun-9128.danicng13.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: green2.cdntencentmusic.com, port: 35501, type: trojan, password: 125f929b-dbde-43b9-b498-695f1cd45d68, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: ghj.ok7.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ghj.ok7.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ghj.ok7.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fXCLcnSashhgSVE3HOw1VI85y", headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: ilop.uk2033.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: ilop.uk2033.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%252FXCLcnSashhgSVE3HOw1VI85y", headers: {Host: ilop.uk2033.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: u8.ok8.ccwu.cc, port: 443, type: trojan, password: 1338f666-2fcc-4538-bc29-1ebf89624383, sni: u8.ok8.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: /XCLcnSashhgSVE3HOw1VI85y, headers: {Host: u8.ok8.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: 🇨🇳 y.taiwan2029.indevs.in:443, server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fRXvyoH0kyRosKkycyrxcJWNVFC21", headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: Telegram-Eag1e_YT:1, server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: Telegram-Eag1e_YT, port: 1, type: trojan, password: !<str> 1, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: 22f86840-bcac-11ee-abea-1239d0255272, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: bbbnhju.1xa.ccwu.cc:443, server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: bbbnhju.1xa.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: bbbnhju.1xa.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: bbbnhju.1xa.ccwu.cc}}, udp: true, tfo: false}
+  - {name: ddccvvbn.09o.ccwu.cc:443, server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: ddccvvbn.09o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ddccvvbn.09o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ddccvvbn.09o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: gbnhju.02o.ccwu.cc:443, server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: gbnhju.02o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gbnhju.02o.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: gbnhju.02o.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: gggbnhj.10o.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: gggbnhj.10o.ccwu.cc, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ikkmmmh.890603.xyz:443, server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: ikkmmmh.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: ikkmmmh.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: ikkmmmh.890603.xyz}}, udp: true, tfo: false}
+  - {name: mmjjjnggh.0og.ccwu.cc:443, server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: mmjjjnggh.0og.ccwu.cc, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: mmjjjnggh.0og.ccwu.cc, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: mmjjjnggh.0og.ccwu.cc}}, udp: true, tfo: false}
+  - {name: nnmmkk999.890602.xyz:443, server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: nnmmkk999.890602.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnmmkk999.890602.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnmmkk999.890602.xyz}}, udp: true, tfo: false}
+  - {name: nnnmmkkkio.890603.xyz:443, server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: nnnmmkkkio.890603.xyz, port: 443, type: trojan, password: 2bfded8d-6a7c-4c18-aaa5-fc65b955d50c, sni: nnnmmkkkio.890603.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2f7vMsF4VUuJ3dX414bl", headers: {Host: nnnmmkkkio.890603.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: bbbnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: bbbnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: bbbnmjki.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: gggbnh.www890604.dpdns.org, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gggbnh.www890604.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gggbnh.www890604.dpdns.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: hhhnju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnju.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: hhhnmjki.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: hhhnmjki.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: hhhnmjki.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: nnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnmjku.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: nnnmjku.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: nnnmjku.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: nnnmjku.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: vvvbbbnhj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbbnhj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbbnhj.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: vvvbbnhj.191266.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbbnhj.191266.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbbnhj.191266.xyz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 48", server: 188.114.97.82, port: 443, type: trojan, password: 2f211aae-3678-47a6-b231-46304443772f, sni: cdir-0203.wlfvip.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/trojanws?ed=2048", headers: {Host: cdir-0203.wlfvip.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: 3dfrt.dddc.us.ci, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: 3dfrt.dddc.us.ci, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: /FYzt5jjXXYWmzP5D1vsO, headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: thj.huangzi.cfd:443, server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: thj.huangzi.cfd, port: 443, type: trojan, password: 34778794-72e8-4862-b1e7-6e6c3ba894be, sni: thj.huangzi.cfd, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fFYzt5jjXXYWmzP5D1vsO", headers: {Host: thj.huangzi.cfd}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: 5.34.222.4, port: 43642, type: trojan, password: 347ca311-8fc2-499c-8fe1-bd0ecb50f1b3, sni: iepl.usq1.cat.bilibili.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 53", server: 23.247.137.64, port: 443, type: trojan, password: 3c4e10af98c30972, sni: n2.gladns.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: bbbhny.191268.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: BBbhNY.191268.xYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fr862SIwqItkD5XgXAL", headers: {Host: BBbhNY.191268.xYz}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: bbgtr.7777198.xyz, port: 443, type: trojan, password: 4115f84d-3b03-4b03-babf-21b36b2f9c03, sni: bBGtR.7777198.XYz, skip-cert-verify: false, network: ws, ws-opts: {path: "%2fr862SIwqItkD5XgXAL", headers: {Host: bBGtR.7777198.XYz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,6 +560,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -499,6 +641,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -509,6 +722,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,6 +812,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -538,6 +893,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -548,6 +974,77 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - masterserver1-masterserver1-masterserver1-masterserver1.doloti4975.workers.dev:8443
+      - "***✅***@AR14N24b 4"
+      - masterserver1-masterserver1-masterserver1-masterserver1.nopere9229.workers.dev:2087
+      - "***✅***@AR14N24b 5"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053
+      - "***✅***@AR14N24b 6"
+      - masterserver1-masterserver1-masterserver1-masterserver1.vivov74504.workers.dev:2053 2
+      - "***✅***@AR14N24b 7"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xolom10222.workers.dev:2083
+      - "***✅***@AR14N24b 8"
+      - masterserver1-masterserver1-masterserver1-masterserver1.xqvyetsl.workers.dev:2096
+      - "***✅***@AR14N24b 9"
+      - hnnmk.0od.ccwu.cc:443
+      - "***✅***@AR14N24b 10"
+      - hnnmk.0od.ccwu.cc:443 2
+      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 15"
+      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 17"
+      - "***✅***@AR14N24b 18"
+      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 21"
+      - "***✅***@AR14N24b 22"
+      - "***✅***@AR14N24b 23"
+      - "***✅***@AR14N24b 24"
+      - "***✅***@AR14N24b 25"
+      - 🇨🇳 y.taiwan2029.indevs.in:443
+      - "***✅***@AR14N24b 26"
+      - "***✅***@AR14N24b 27"
+      - "***✅***@AR14N24b 28"
+      - Telegram-Eag1e_YT:1
+      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 30"
+      - bbbnhju.1xa.ccwu.cc:443
+      - "***✅***@AR14N24b 31"
+      - ddccvvbn.09o.ccwu.cc:443
+      - "***✅***@AR14N24b 32"
+      - gbnhju.02o.ccwu.cc:443
+      - "***✅***@AR14N24b 33"
+      - "***✅***@AR14N24b 34"
+      - ikkmmmh.890603.xyz:443
+      - "***✅***@AR14N24b 35"
+      - mmjjjnggh.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 36"
+      - nnmmkk999.890602.xyz:443
+      - "***✅***@AR14N24b 37"
+      - nnnmmkkkio.890603.xyz:443
+      - "***✅***@AR14N24b 38"
+      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 40"
+      - "***✅***@AR14N24b 41"
+      - "***✅***@AR14N24b 42"
+      - "***✅***@AR14N24b 43"
+      - "***✅***@AR14N24b 44"
+      - "***✅***@AR14N24b 45"
+      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 47"
+      - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - thj.huangzi.cfd:443
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - "***✅***@AR14N24b 54"
+      - "***✅***@AR14N24b 55"
+      - "***✅***@AR14N24b 56"
+      - "***✅***@AR14N24b 57"
   - name: دانلود منیجر 📥
     type: select
     proxies:

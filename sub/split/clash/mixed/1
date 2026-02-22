@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: any@oneclickvpnkeys`, server: us1.anliangjifei.top, port: 12053, type: anytls, password: ae74dd32-c336-4be4-9c15-f6108292b3e5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 44@oneclickvpnkeys, server: 129.151.251.122, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88@oneclickvpnkeys, server: 129.153.25.59, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57@oneclickvpnkeys`, server: 143.47.32.143, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
@@ -503,7 +502,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -531,7 +529,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -559,7 +556,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -596,7 +592,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -624,7 +619,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -652,7 +646,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`

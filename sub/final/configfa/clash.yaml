@@ -471,6 +471,12 @@ proxies:
   - {name: "🇵🇱 Poland — #480", server: 79.137.175.56, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9bd28-82ab-4a50-9e20-dbf6a1eb1e47, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 Germany — #99", server: 144.31.221.8, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bc7d558-1943-44de-bd82-56920bc9383e, servername: test.spectrum.vu, host: test.spectrum.vu, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇹🇷 Türkiye — #514", server: 89.169.162.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 51278ccf-c9ad-438c-b9e7-12de5a9ac021, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: 205748bc0f24a747}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom3, server: 104.18.110.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: wandering-term-f40f.moshe01.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: wandering-term-f40f.moshe01.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanomvpn, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: odd-frog-6731.amiya45.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: odd-frog-6731.amiya45.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom1, server: 172.67.192.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: holy-dawn-e9ec.jonas05-ba6.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: holy-dawn-e9ec.jonas05-ba6.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankkhanom12, server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bitter-bird-3d79.alfredo-443.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bitter-bird-3d79.alfredo-443.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom9, server: pae.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bold-heart-552a.zion-9a8.workers.dev, network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bold-heart-552a.zion-9a8.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: irankhanom10, server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: bold-heart-552a.zion-9a8.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: bold-heart-552a.zion-9a8.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 2", server: proxy.rahmancloud.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6b279ab4-10e8-4e66-fb5d-9092c6709a1e, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: proxy.rahmancloud.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 3", server: proxy.rahmancloud.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6b279ab4-10e8-4e66-fb5d-9092c6709a1e, servername: proxy.rahmancloud.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: proxy.rahmancloud.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 4", server: 85.133.196.69, port: 36659, type: vless, tls: true, packet-encoding: xudp, uuid: 71890dce-0a26-4d68-8281-e541a5abd3df, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -521,6 +527,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -561,6 +573,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -601,6 +619,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -650,6 +674,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -690,6 +720,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -730,6 +766,12 @@ proxy-groups:
       - "🇵🇱 Poland — #480"
       - "🇩🇪 Germany — #99"
       - "🇹🇷 Türkiye — #514"
+      - irankhanom3
+      - irankhanomvpn
+      - irankhanom1
+      - irankkhanom12
+      - irankhanom9
+      - irankhanom10
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"

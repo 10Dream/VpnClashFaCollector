@@ -479,6 +479,7 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩, server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys, server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
+  - {name: 23@oneclickvpnkeys, server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: 26@oneclickvpnkeys, server: 141.95.126.134, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jamekk.org, network: ws, ws-opts: {path: linkvws, headers: {Host: jamekk.org}}, udp: true, tfo: false}
@@ -534,6 +535,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys
@@ -579,6 +581,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys
@@ -624,6 +627,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys
@@ -678,6 +682,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys
@@ -723,6 +728,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys
@@ -768,6 +774,7 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
       - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
+      - 23@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
       - 26@oneclickvpnkeys

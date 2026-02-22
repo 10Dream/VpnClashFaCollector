@@ -469,12 +469,11 @@ proxies:
   - {name: hamedvpns, server: 51.83.52.172, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1@oneclickvpnkeys, server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: "@vpnbaz 💎", server: 57.129.25.23, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws}, udp: true, tfo: false}
-  - {name: "@proxy_kafee👑☀️🦁🕊️2", server: 66.103.210.150, port: 13485, type: vmess, uuid: 10f0133c-39c5-4224-f53d-ec4491114a59, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 39@oneclickvpnkeys, server: 82.152.98.198, port: 2085, type: vmess, uuid: 052ceb67-79c7-45da-ba4b-42e659bb81fa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 41@oneclickvpnkeys, server: 82.152.98.88, port: 2085, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8@oneclickvpnkeys, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩, server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys, server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
@@ -493,6 +492,7 @@ proxies:
   - {name: 19@oneclickvpnkeys, server: cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🧭", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: frc.teamv.ir, port: 443, type: vmess, uuid: 3ccdd2af-37ea-4439-a35c-70416ff34211, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: frc.teamv.ir, network: ws, ws-opts: {path: /6MByUo6MYuosAGOCfsv4W, headers: {Host: frc.teamv.ir}}, udp: true, tfo: false}
   - {name: 68@oneclickvpnkeys, server: gbnh.0nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: gbnh.0nn.ccwu.cc}}, udp: true, tfo: false}
   - {name: 59@oneclickvpnkeys, server: hgtrojan.zabc.net, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hgtrojan.zabc.net, network: ws, ws-opts: {path: /e6395c20, headers: {Host: hgtrojan.zabc.net}}, udp: true, tfo: false}
   - {name: 79@oneclickvpnkeys, server: mghnnbj.1yy.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: mghnnbj.1yy.ccwu.cc}}, udp: true, tfo: false}
@@ -520,12 +520,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -544,6 +543,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
@@ -561,12 +561,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -585,6 +584,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
@@ -602,12 +602,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -626,6 +625,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
@@ -652,12 +652,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -676,6 +675,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
@@ -693,12 +693,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -717,6 +716,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
@@ -734,12 +734,11 @@ proxy-groups:
       - hamedvpns
       - 1@oneclickvpnkeys
       - "@vpnbaz 💎"
-      - "@proxy_kafee👑☀️🦁🕊️2"
       - 39@oneclickvpnkeys
       - 41@oneclickvpnkeys
-      - 8@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "@PewezaVPN (تلگرام)"
       - 25@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
       - 53@oneclickvpnkeys
@@ -758,6 +757,7 @@ proxy-groups:
       - 19@oneclickvpnkeys
       - "@vpnbaz 🧭"
       - "@proxy_kafee"
+      - "@proxy_kafee 2"
       - 68@oneclickvpnkeys
       - 59@oneclickvpnkeys
       - 79@oneclickvpnkeys
