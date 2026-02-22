@@ -73,12 +73,15 @@ jobs:
         if: github.event_name == 'schedule' || inputs.run_web == true
         run: python src/web_generator.py
 
+      - name: Disable Jekyll for GitHub Pages
+        run: touch .nojekyll
+
       - name: Sync and Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update: Archive(3-days), Proxies & Web Panel [$(date)]"
-          # اینجا src/telegram/** را اضافه کردیم تا آرشیو ۳ روزه شما حذف نشود و باقی بماند
-          file_pattern: 'sub/** index.html src/telegram/**'
+          # فایل .nojekyll به لیست کامیت اضافه شد تا مشکل بیلد گیت‌هاب پیجز حل شود
+          file_pattern: 'sub/** index.html src/telegram/** .nojekyll'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           push_options: '--force'
