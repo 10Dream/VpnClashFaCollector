@@ -73,19 +73,15 @@ jobs:
         if: github.event_name == 'schedule' || inputs.run_web == true
         run: python src/web_generator.py
 
-      - name: 6. Bulletproof Jekyll Fix (Exclude Folders)
+      - name: 6. Fast Static Page Setup
         run: |
           touch .nojekyll
-          echo "exclude:" > _config.yml
-          echo "  - src/" >> _config.yml
-          echo "  - sub/" >> _config.yml
-          echo "  - config/" >> _config.yml
 
       - name: Sync and Commit Changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Auto-update: Proxies, Web Panel & Jekyll Fix [$(date)]"
-          file_pattern: 'sub/** index.html src/telegram/** .nojekyll _config.yml'
+          commit_message: "Auto-update: Proxies (TXT format) & Web Panel [$(date)]"
+          file_pattern: 'sub/** index.html src/telegram/** .nojekyll'
           commit_user_name: github-actions[bot]
           commit_user_email: github-actions[bot]@users.noreply.github.com
           push_options: '--force'
