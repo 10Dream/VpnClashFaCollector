@@ -465,8 +465,17 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "***✅***@AR14N24b", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: configraygan_54, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: configraygan_59, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
   - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +492,51 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +552,51 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 68.183.227.4:8080
       - "***✅***@AR14N24b"
+      - configraygan_54
+      - configraygan_59
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 2"
+      - "@meliproxyy"
+      - 149.102.149.207:80
+      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 4"
+      - 68.183.227.4:8080
+      - "***✅***@AR14N24b 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:

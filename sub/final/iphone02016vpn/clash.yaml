@@ -465,14 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "%***🆔***", server: 46.38.143.236, port: 60633, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=, udp: true, tfo: false}
   - {name: "@iphone02016vpn بریتانیا`", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "@iphone02016vpn`", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "%***🆔*** 2", server: 3.1.195.148, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@iphone02016vpn هلند`", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 2", server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @iphone02016vpn us`, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "%***🆔*** 3", server: 163.172.29.106, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ea6b03ef-8356-4a8c-abe4-eade7a4806e4, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +486,33 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +528,33 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "%***🆔***"
       - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
-      - "%***🆔*** 2"
       - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 2"
       - 🇺🇸 @iphone02016vpn us`
-      - "%***🆔*** 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:

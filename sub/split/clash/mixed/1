@@ -465,6 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 95@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 98@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 44@oneclickvpnkeys, server: 129.151.251.122, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88@oneclickvpnkeys, server: 129.153.25.59, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57@oneclickvpnkeys`, server: 143.47.32.143, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,6 +493,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -507,6 +511,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -523,6 +529,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -548,6 +556,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -564,6 +574,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`
@@ -580,6 +592,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 95@oneclickvpnkeys
+      - 98@oneclickvpnkeys
       - 44@oneclickvpnkeys
       - 88@oneclickvpnkeys
       - 57@oneclickvpnkeys`

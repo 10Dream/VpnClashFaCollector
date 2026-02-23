@@ -466,19 +466,26 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@MARAMBASHI 💟", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶", server: 62.133.63.167, port: 61377, type: ss, cipher: chacha20-ietf-poly1305, password: E12yZBPC7y8SnmkSYjf0Wl, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 2", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 3", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪", server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪 2", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶 2", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 4", server: 104.17.147.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: "/45.76.183.217=49292/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: "/45.76.183.217=49292#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶`", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: "/45.76.183.217=49292/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪 3", server: 3.72.62.160, port: 15200, type: vless, tls: true, packet-encoding: xudp, uuid: 5cfbed15-e39a-4067-b20b-9243bfb8c234, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪 4", server: 185.162.231.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=#TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶 3", server: 172.66.47.45, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 5", server: 78.157.62.185, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪 5", server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: "/167.179.110.68=8443/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶 4", server: z.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 837b6716-6901-4b4d-a49f-2b6ac9306aa3, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=2048", headers: {Host: gerrma.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪`", server: z.ssl.fastly.net, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 837b6716-6901-4b4d-a49f-2b6ac9306aa3, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: gerrma.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶 5", server: 81.12.91.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: baac1234-ad18-49db-8c5a-7c57aa0e981f, servername: www.git-scm.com, host: www.git-scm.com, path: /, reality-opts: {public-key: U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM, short-id: e081d94bd1f9bd56}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟 6", server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d230f0f7-6826-4f8e-8dbb-69ee2c837358, servername: beh2.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh2.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇩🇪 6", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🥶 6", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -496,19 +503,26 @@ proxy-groups:
     type: select
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -516,19 +530,26 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -536,19 +557,26 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -565,19 +593,26 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -585,19 +620,26 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -605,19 +647,26 @@ proxy-groups:
     interval: 600
     proxies:
       - "@MARAMBASHI 💟"
+      - "@MARAMBASHI 🥶"
       - "@MARAMBASHI 💟 2"
       - "@MARAMBASHI 💟 3"
       - "@MARAMBASHI 🇩🇪"
       - "@MARAMBASHI 🇩🇪 2"
+      - "@MARAMBASHI 🥶 2"
       - "@MARAMBASHI 💟 4"
       - "@MARAMBASHI 💟`"
+      - "@MARAMBASHI 🥶`"
       - "@MARAMBASHI 🇩🇪 3"
       - "@MARAMBASHI 🇩🇪 4"
+      - "@MARAMBASHI 🥶 3"
       - "@MARAMBASHI 💟 5"
       - "@MARAMBASHI 🇩🇪 5"
+      - "@MARAMBASHI 🥶 4"
       - "@MARAMBASHI 🇩🇪`"
+      - "@MARAMBASHI 🥶 5"
       - "@MARAMBASHI 💟 6"
       - "@MARAMBASHI 🇩🇪 6"
+      - "@MARAMBASHI 🥶 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:

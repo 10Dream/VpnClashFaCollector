@@ -465,10 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "| null | 99999ms | 🪢95@oneclickvpnkeys", server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🪢98@oneclickvpnkeys", server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤44@oneclickvpnkeys", server: 129.151.251.122, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤88@oneclickvpnkeys", server: 129.153.25.59, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤57@oneclickvpnkeys`", server: 143.47.32.143, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 📤38@oneclickvpnkeys`", server: dd.openaccessnode.com, port: 989, type: hysteria2, ports: 989, password: 75193bef8d8fe82341e02dd083dc1399, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi", sni: dd.ircybersec.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| SE | 598ms | 📤38@oneclickvpnkeys`", server: dd.openaccessnode.com, port: 989, type: hysteria2, ports: 989, password: 75193bef8d8fe82341e02dd083dc1399, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi", sni: dd.ircybersec.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤35@oneclickvpnkeys", server: 129.151.193.163, port: 50000, type: hysteria2, ports: 50000, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤27@oneclickvpnkeys", server: 132.145.28.17, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤30@oneclickvpnkeys`", server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,10 +493,12 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
@@ -507,10 +511,12 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
@@ -523,10 +529,12 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
@@ -548,10 +556,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
@@ -564,10 +574,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
@@ -580,10 +592,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "| null | 99999ms | 🪢95@oneclickvpnkeys"
+      - "| null | 99999ms | 🪢98@oneclickvpnkeys"
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
+      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
       - "| null | 99999ms | 📤27@oneclickvpnkeys"
       - "| null | 99999ms | 📤30@oneclickvpnkeys`"
