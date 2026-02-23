@@ -467,12 +467,19 @@ rule-providers:
 proxies:
   - {name: 51.38.141.210:8388, server: 51.38.141.210, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
   - {name: 45.95.233.133:8388, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: vqyEdGysKQ9FkWHkPnow_fBNANcMRsNH, udp: true, tfo: false}
+  - {name: api.melonpanel.ir:1080, server: api.melonpanel.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: x4WuCumDo-4ahFPPuhG6AuMn8cmgrmSK, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 20.90.81.219:443, server: 20.90.81.219, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 18.157.165.17:443, server: 18.157.165.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.72.62.160:15200, server: 3.72.62.160, port: 15200, type: vless, tls: true, packet-encoding: xudp, uuid: 5cfbed15-e39a-4067-b20b-9243bfb8c234, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: fi1.mahboob.top:2086, server: fi1.mahboob.top, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 5ef655fa-2673-b270-3d94-7cf976fb17a3, host: fi1.mahboob.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 135.125.168.181:778, server: 135.125.168.181, port: 778, type: vless, tls: true, packet-encoding: xudp, uuid: 76b3e296-787a-3788-ef75-a1700ef1d034, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.184.2.43:50459, server: 18.184.2.43, port: 50459, type: vless, tls: true, packet-encoding: xudp, uuid: 86f5fd99-a502-41de-a5cd-ebd671049b31, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.99.8.3:2083, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: shop2.afraserver4.top:7335, server: shop2.afraserver4.top, port: 7335, type: vless, tls: true, packet-encoding: xudp, uuid: b1b25fba-c0d0-48ea-971b-5cf4aee373d1, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: zyro.adslimit.info:2345, server: zyro.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, host: zyro.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glob.thisiswe.uno:2053, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -495,12 +502,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
@@ -513,12 +527,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
@@ -531,12 +552,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
@@ -558,12 +586,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
@@ -576,12 +611,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
@@ -594,12 +636,19 @@ proxy-groups:
     proxies:
       - 51.38.141.210:8388
       - 45.95.233.133:8388
+      - api.melonpanel.ir:1080
       - series-a1.samanehha.co:443
       - 20.90.81.219:443
       - admin.c2.havij.co:443
       - 82.38.31.35:8080
       - 82.38.31.61:8080
+      - 18.157.165.17:443
       - 3.72.62.160:15200
+      - fi1.mahboob.top:2086
+      - 135.125.168.181:778
+      - 18.184.2.43:50459
+      - 91.99.8.3:2083
+      - 104.21.48.147:80
       - shop2.afraserver4.top:7335
       - zyro.adslimit.info:2345
       - glob.thisiswe.uno:2053
