@@ -465,44 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| TR | 532ms | ***✅***@AR14N24b", server: 185.123.101.64, port: 2376, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7, udp: true, tfo: false}
-  - {name: "| IE | 3107ms | ***✅***@AR14N24b", server: 38.180.152.210, port: 8881, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 136ms |, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 139ms | ***✅***@AR14N24b, server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 137ms | ***✅***@AR14N24b, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 138ms |, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 125ms |, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 131ms | ***✅***@AR14N24b, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 140ms | @vpnbaz 🎩, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 152ms |, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 156ms | ***✅***@AR14N24b, server: 94.72.127.58, port: 443, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 150ms | ***✅***@AR14N24b, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 160ms |, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 149.102.132.184, port: 80, type: ss, cipher: aes-256-gcm, password: ldjmwoNqgQqqc43j, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 124ms | ***✅***@AR14N24b, server: 154.38.176.7, port: 443, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 121ms | @meliproxyy, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 148ms |, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 151ms | ***✅***@AR14N24b, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 145ms |, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 180ms | ***✅***@AR14N24b, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 149.28.164.55, port: 443, type: ss, cipher: aes-256-gcm, password: pzoNdPbhqT1Xd7WS, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 2", server: 194.233.75.190, port: 80, type: ss, cipher: aes-256-gcm, password: qKvfX7yQnT99OMu3, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 194.233.75.190, port: 80, type: ss, cipher: aes-256-gcm, password: qKvfX7yQnT99OMu3, udp: true, tfo: false}
-  - {name: 🇸🇬 | SG | 786ms | ***✅***@AR14N24b, server: 194.233.75.190, port: 443, type: ss, cipher: aes-256-gcm, password: qKvfX7yQnT99OMu3, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 170ms | ***✅***@AR14N24b, server: 94.72.127.55, port: 443, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 396ms |, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 398ms | ***✅***@AR14N24b, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 399ms | configraygan_54, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 413ms | configraygan_59, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 391ms | @meliproxyy, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 394ms | ***✅***@AR14N24b, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`, server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 3", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 182ms | ***✅***@AR14N24b, server: 154.53.57.143, port: 443, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -519,132 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -660,132 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| TR | 532ms | ***✅***@AR14N24b"
-      - "| IE | 3107ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 82ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁶』
-      - 🇺🇸 | US | 136ms |
-      - 🇺🇸 | US | 139ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 137ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 138ms |
-      - 🇺🇸 | US | 125ms |
-      - 🇺🇸 | US | 131ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | @vpnbaz 🎩
-      - 🇺🇸 | US | 152ms |
-      - 🇺🇸 | US | 156ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 150ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 160ms |
-      - "| null | 99999ms |"
       - "| null | 99999ms | ***✅***@AR14N24b"
-      - 🇺🇸 | US | 124ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 140ms | ⚡️+|+@configraygan『🇺🇸¹⁵⁷』
-      - 🇺🇸 | US | 121ms | @meliproxyy
-      - 🇺🇸 | US | 148ms |
-      - 🇺🇸 | US | 151ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 145ms |
-      - 🇺🇸 | US | 180ms | ***✅***@AR14N24b
-      - "| null | 99999ms | ***✅***@AR14N24b 2"
-      - "| null | 99999ms | 2"
-      - "| null | 99999ms | ***✅***@AR14N24b 3"
-      - 🇸🇬 | SG | 786ms | ***✅***@AR14N24b
-      - 🇺🇸 | US | 170ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 396ms |
-      - 🇬🇧 | GB | 398ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 399ms | configraygan_54
-      - 🇬🇧 | GB | 413ms | configraygan_59
-      - 🇬🇧 | GB | 391ms | @meliproxyy
-      - 🇬🇧 | GB | 394ms | ***✅***@AR14N24b
-      - 🇬🇧 | GB | 423ms | برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩`
-      - "| null | 99999ms | 3"
-      - "| null | 99999ms | ***✅***@AR14N24b 4"
-      - 🇺🇸 | US | 182ms | ***✅***@AR14N24b
   - name: دانلود منیجر 📥
     type: select
     proxies:

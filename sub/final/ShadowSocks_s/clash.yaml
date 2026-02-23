@@ -470,15 +470,19 @@ proxies:
   - {name: https://t.me/ConfigX2ray 2, server: 89.110.70.175, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: gOR0l6osnBlm4r_bmk9bOw, udp: true, tfo: false}
   - {name: NetAccount`, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 104.16.249.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813, servername: dabaihk.webn.cc, network: ws, ws-opts: {path: /db1024a105975707, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 104.16.249.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813, servername: dabaihk.webn.cc, network: ws, ws-opts: {path: /db1024a105975707, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تلگرام ‎@Confixio 🔴4`, server: 193.58.119.134, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8451143f-2778-4c9e-f669-391bae9dadbb, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount, server: 146.190.227.252, port: 42855, type: vless, tls: true, packet-encoding: xudp, uuid: 95a90af3-5729-4308-9465-8147cc97621f, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccoun`, server: 94.131.8.19, port: 45448, type: vless, tls: true, packet-encoding: xudp, uuid: 96fcf8cc-535d-46c4-b8f9-76058df48e3b, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: MmEVCRy11fz67vYJQWyA2aZPMBzv2le2cus1XSSI0E, short-id: 958639bf55e679}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 62.182.196.134, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 62.182.196.134, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 2, server: 29754276fa8fa003.reni-z1.maf-tahas.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: d230f0f7-6826-4f8e-8dbb-69ee2c837358, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg, short-id: ea0e387f2b260e0d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 3, server: c39ad595ba159c74.reni-z1.maf-tahas.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: d230f0f7-6826-4f8e-8dbb-69ee2c837358, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 58yfyRJyku8oddKvCIBHz0K8LrTWKr3qTe-DMUcrWEg, short-id: ea0e387f2b260e0d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 4, server: 172.67.150.93, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e73d4e2a-ac73-4948-960a-2c2dd57b7ea8, servername: yellow-disk-0edf.diyenec996.workers.dev, network: ws, ws-opts: {path: /ws, headers: {Host: yellow-disk-0edf.diyenec996.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -501,14 +505,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -521,14 +529,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -541,14 +553,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -570,14 +586,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -590,14 +610,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -610,14 +634,18 @@ proxy-groups:
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
       - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccoun`
-      - NetAccount` 4
+      - NetAccount` 6
       - NetAccount 2
       - NetAccount 3
-      - NetAccount` 5
+      - NetAccount` 7
       - NetAccount 4
+      - NetAccount` 8
+      - NetAccount` 9
   - name: دانلود منیجر 📥
     type: select
     proxies:

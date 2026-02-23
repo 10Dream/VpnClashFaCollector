@@ -466,19 +466,9 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: lrnbymaa, server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 3.68.186.119:28427, server: 3.68.186.119, port: 28427, type: vless, tls: true, packet-encoding: xudp, uuid: 32e80ab8-a9b8-4d5e-a9ad-60b161eadf88, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.72.1.0:44708, server: 3.72.1.0, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 54.180.129.73:443, server: 54.180.129.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.125.18.51:39781, server: 3.125.18.51, port: 39781, type: vless, tls: true, packet-encoding: xudp, uuid: 5ffb4a1a-255c-4d51-93ce-ac731c8e94d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa`, server: 162.159.153.231, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.162.231.138:2096, server: 185.162.231.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa 2, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @ 2, server: vb24.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 9b2e6a8c-0d5e-4c38-b3e3-f9329a079d63, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lrnbymaa 3, server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.26.15.21:443, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.67.6.1:15948, server: 3.67.6.1, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vpnsal, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -497,19 +487,9 @@ proxy-groups:
     type: select
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -518,19 +498,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -539,19 +509,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: اتصال پایدار 🔗
     type: url-test
@@ -569,19 +529,9 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -590,19 +540,9 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -611,19 +551,9 @@ proxy-groups:
     interval: 600
     proxies:
       - lrnbymaa
-      - 3.68.186.119:28427
-      - ⚡Telegram - @
-      - 3.72.1.0:44708
-      - 54.180.129.73:443
-      - 3.125.18.51:39781
       - lrnbymaa`
-      - 185.162.231.138:2096
       - lrnbymaa 2
-      - ⚡Telegram - @ 2
-      - 104.21.48.147:80
       - lrnbymaa 3
-      - 104.26.15.21:443
-      - 3.67.6.1:15948
       - vpnsal
   - name: دانلود منیجر 📥
     type: select

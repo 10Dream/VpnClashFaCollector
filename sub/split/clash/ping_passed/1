@@ -470,13 +470,12 @@ proxies:
   - {name: "| null | 99999ms | 📤44@oneclickvpnkeys", server: 129.151.251.122, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤88@oneclickvpnkeys", server: 129.153.25.59, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤57@oneclickvpnkeys`", server: 143.47.32.143, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| SE | 598ms | 📤38@oneclickvpnkeys`", server: dd.openaccessnode.com, port: 989, type: hysteria2, ports: 989, password: 75193bef8d8fe82341e02dd083dc1399, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi", sni: dd.ircybersec.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 📤38@oneclickvpnkeys`", server: dd.openaccessnode.com, port: 989, type: hysteria2, ports: 989, password: 75193bef8d8fe82341e02dd083dc1399, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi", sni: dd.ircybersec.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 📤35@oneclickvpnkeys", server: 129.151.193.163, port: 50000, type: hysteria2, ports: 50000, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 📤27@oneclickvpnkeys", server: 132.145.28.17, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 📤30@oneclickvpnkeys`", server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 📤16@oneclickvpnkeys", server: 152.70.176.68, port: 1, type: hysteria2, ports: 1, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40i", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -498,13 +497,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -516,13 +514,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -534,13 +531,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -561,13 +557,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -579,13 +574,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -597,13 +591,12 @@ proxy-groups:
       - "| null | 99999ms | 📤44@oneclickvpnkeys"
       - "| null | 99999ms | 📤88@oneclickvpnkeys"
       - "| null | 99999ms | 📤57@oneclickvpnkeys`"
-      - "| SE | 598ms | 📤38@oneclickvpnkeys`"
+      - "| null | 99999ms | 📤38@oneclickvpnkeys`"
       - "| null | 99999ms | 📤35@oneclickvpnkeys"
-      - "| null | 99999ms | 📤27@oneclickvpnkeys"
-      - "| null | 99999ms | 📤30@oneclickvpnkeys`"
-      - "| null | 99999ms | 📤16@oneclickvpnkeys"
       - "| null | 99999ms |"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

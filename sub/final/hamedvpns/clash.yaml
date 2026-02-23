@@ -465,7 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: hamedvpns, server: 51.83.52.172, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.75.168.50:13030, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: 62.113.114.116:42320, server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: BShcek5ydIWbXEnhI2vIym, udp: true, tfo: false}
+  - {name: 45.95.233.133:8388, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: KEN_L6msL8rmuSPywR4M0qM_1_txZ8D5, udp: true, tfo: false}
+  - {name: 20.90.250.133:443, server: 20.90.250.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: ایرانسل, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: 91.107.253.99:33133, server: 91.107.253.99, port: 33133, type: vless, tls: true, packet-encoding: xudp, uuid: 22470ee7-74b2-4b23-b164-bc87930d7e96, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.155.209:2052, server: 172.64.155.209, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hamedvpns, server: trurk-plus.iranman.shop, port: 4301, type: vless, tls: true, packet-encoding: xudp, uuid: 6280bb8e-8486-4129-a98e-0d227ddc5410, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,6 +490,14 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -489,6 +505,14 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -496,6 +520,14 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: اتصال پایدار 🔗
     type: url-test
@@ -512,6 +544,14 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -519,6 +559,14 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -526,6 +574,14 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 51.75.168.50:13030
+      - 141.95.106.127:11201
+      - 62.113.114.116:42320
+      - 45.95.233.133:8388
+      - 20.90.250.133:443
+      - ایرانسل
+      - 91.107.253.99:33133
+      - 172.64.155.209:2052
       - hamedvpns
   - name: دانلود منیجر 📥
     type: select
