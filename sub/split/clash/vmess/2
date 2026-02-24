@@ -507,7 +507,6 @@ proxies:
   - {name: "@proxy_kafee", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: ⚡ | @configraygan〜🇧🇩〝, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2, server: tgju.org, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
-  - {name: 92@oneclickvpnkeys, server: bfbg.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: bfbg.2nn.ccwu.cc}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪³』, server: cf.090227.xyz, port: 443, type: vmess, uuid: 290cc691-3ac6-4387-98a1-25c8eb8ca2ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sgal.dagrate.eu.org, network: ws, ws-opts: {path: /, headers: {Host: sgal.dagrate.eu.org}}, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vpnsal, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
@@ -572,7 +571,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
@@ -627,7 +625,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
@@ -682,7 +679,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
@@ -746,7 +742,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
@@ -801,7 +796,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
@@ -856,7 +850,6 @@ proxy-groups:
       - "@proxy_kafee"
       - ⚡ | @configraygan〜🇧🇩〝
       - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
-      - 92@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal

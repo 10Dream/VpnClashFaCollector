@@ -1,5 +1,72 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-24 01:07:15 UTC
+بروزرسانی: 2026-02-24 10:41:17 UTC
+
+### 🕒 2026-02-24 04:59:34 UTC
+wireguard://SLQM1iGPVovYSVkSPiyHJo7for5BfVoXBdhB%2BmPFxUE%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=220%2C50%2C126&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-20 10:03
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
+PrivateKey = QLd/KZTinPP5CpCkItTU1WQcWfhhp8WdGBJ5KkH+yEg=
+DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+PersistentKeepalive = 30
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = [2606:4700:d1::4eb4:32ba:453a:5e01]:859
+و فایل .conf پشتیبانی کنه
+
+---
+
+### 🕒 2026-02-24 02:03:57 UTC
+> ↪️ **Forwarded**
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#irankhanom5
+
+---
+
+### 🕒 2026-02-24 02:03:57 UTC
+> ↪️ **Forwarded**
+
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
+[78.38.246.150:8446#irankhanom3](http://78.38.246.150:8446/#irankhanom3)
+
+---
+
+### 🕒 2026-02-24 02:03:56 UTC
+> ↪️ **Forwarded**
+
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#irankhanom2
+
+---
+
+### 🕒 2026-02-24 02:03:56 UTC
+> ↪️ **Forwarded**
+
+ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
+[78.38.246.150:8446#irankhanom1](http://78.38.246.150:8446/#irankhanom1)
+
+---
+
+### 🕒 2026-02-24 02:03:56 UTC
+> ↪️ **Forwarded**
+
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.224.0:443?path=%2Fsni.111000.v6.navy%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&security=tls&encryption=none&host=noisy-grass-82b2.maelys-a42.workers.dev&type=ws&sni=noisy-grass-82b2.maelys-a42.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86%D9%85%20%DB%B2
+
+---
+
+### 🕒 2026-02-24 02:03:56 UTC
+> ↪️ **Forwarded**
+
+vless://003ef206-46b6-3701-ab77-b03debe7511f@162.159.224.0:443?path=%2Fdabaihk.webn.cc%2Fdb1024143bf11354&security=tls&encryption=none&host=red-grass-4779.synthia-c16.workers.dev&type=ws&sni=red-grass-4779.synthia-c16.workers.dev#%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D8%AE%D8%A7%D9%86%D9%85%20%DB%B1
+
+---
 
 ### 🕒 2026-02-23 12:10:29 UTC
 > ↪️ **Forwarded**
@@ -63,95 +130,6 @@ vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@c.pabloping.cloud:2052?mode=auto&pa
 همه لازم نیست بدونن 
 vless://nasnet@162.19.10.94:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191094-direct.sharghdaily.co&insecure=0&allowInsecure=0&type=tcp&headerType=none#%F0%9F%A4%AB%20%D9%87%D9%85%D9%87%20%D9%84%D8%A7%D8%B2%D9%85%20%D9%86%DB%8C%D8%B3%D8%AA%20%D8%A8%D8%AF%D9%88%D9%86%D9%86%20%7C%20%40panbehnet
 [https://t.me/panbehnet](https://t.me/panbehnet)
-
----
-
-### 🕒 2026-02-22 10:13:06 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@162.159.224.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=odd-frog-6731.amiya45.workers.dev&fp=chrome&type=ws&sni=odd-frog-6731.amiya45.workers.dev#irankhanomvpn
-***🌐***
- اطلاعات تماس:
-کانال: 
-[@IranKhanomChannel](https://t.me/IranKhanomChannel)
-پشتیبانی: 
-[@IranKhanomSupport](https://t.me/IranKhanomSupport)
-
----
-
-### 🕒 2026-02-22 10:13:06 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.67.192.0:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&host=holy-dawn-e9ec.jonas05-ba6.workers.dev&type=ws&sni=holy-dawn-e9ec.jonas05-ba6.workers.dev#irankhanom1
-[@irankhanomvpn](https://t.me/irankhanomvpn)
-
----
-
-### 🕒 2026-02-22 10:13:06 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@pae.com:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&host=bitter-bird-3d79.alfredo-443.workers.dev&type=ws&sni=bitter-bird-3d79.alfredo-443.workers.dev#irankkhanom12
-[@irankhanomvpn](https://t.me/irankhanomvpn)
-
----
-
-### 🕒 2026-02-22 10:13:05 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@www.wto.org:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=bold-heart-552a.zion-9a8.workers.dev&fp=chrome&type=ws&sni=bold-heart-552a.zion-9a8.workers.dev#irankhanom10
-[@irankhanomvpn](https://t.me/irankhanomvpn)
-
----
-
-### 🕒 2026-02-22 10:13:05 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@pae.com:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&encryption=none&host=bold-heart-552a.zion-9a8.workers.dev&type=ws&sni=bold-heart-552a.zion-9a8.workers.dev#irankhanom9
-[@irankhanomvpn](https://t.me/irankhanomvpn)
-
----
-
-### 🕒 2026-02-22 10:13:05 UTC
-> ↪️ **Forwarded**
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.18.110.121:443?path=%2Fsni.111000.dynv6.net%2F%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=wandering-term-f40f.moshe01.workers.dev&fp=chrome&type=ws&sni=wandering-term-f40f.moshe01.workers.dev#irankhanom3
-[@irankhanomvpn](https://t.me/irankhanomvpn)
-
----
-
-### 🕒 2026-02-22 10:13:05 UTC
-> ↪️ **Forwarded**
-
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
-[78.38.246.150:8446#irankhanom1](http://78.38.246.150:8446/#irankhanom1)
-
----
-
-### 🕒 2026-02-22 02:26:00 UTC
-> ↪️ **Forwarded**
-
-کانفیگ فری موقت
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4NFd1Q3VtRG8tNGFoRlBQdWhHNkF1TW44Y21ncm1TSw@api.melonpanel.ir:1080?#%D8%B9%D8%B5%D8%B1%20%D8%B2%D8%A7%D9%85%D8%A8%DB%8C%20%D9%87%D8%A7
-
----
-
-### 🕒 2026-02-22 02:18:24 UTC
-socks://MFVDV0x4elc0VDNZbHFYaThnY3JsMFRvOkBWaXBfZnJhZ21lbnRfdjJyYXk@lu-lux.pvdata.host:1080#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://71890dce-0a26-4d68-8281-e541a5abd3df@85.133.196.69:36659?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@b.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=updn.pabloping.pro&type=xhttp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-fm2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-fm2.netsnap.ir.#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=all-um2.netsnap.ir.&fp=firefox&type=ws&allowInsecure=0&sni=all-um2.netsnap.ir.#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InYycmF5MS5kb3phcHAueHl6IiwiaWQiOiI2MDQ0MTU0OC1iNjhlLTQzYjItODE5MS1lM2I4ODRiZTRiM2MiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbE1uc1pVTjQvIiwicG9ydCI6Ijg0NDMiLCJwcyI6IvCfkqsgQFBld2V6YVZQTiAo2KrZhNqv2LHYp9mFKSIsInNjeSI6Im5vbmUiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8313#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@bim.iranheroo.ir:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=proxy.rahmancloud.ir#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://6b279ab4-10e8-4e66-fb5d-9092c6709a1e@proxy.rahmancloud.ir:8443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=proxy.rahmancloud.ir&fp=chrome&type=ws&allowInsecure=0#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping%2F%3FTELEGRAM-Confixio_Confixio_Confixio_Confixio_Confixio&security=none&encryption=none&host=nlbv2.pabloping.pro&type=xhttp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-vless://2271c50f-ac7a-4d7f-8b04-64085b0daa56@a.pabloping.cloud:2052?mode=auto&path=%2Fpabloping&security=none&encryption=none&host=atus.pabloping.pro&type=xhttp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
-ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
-[78.38.246.150:8446#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29](http://78.38.246.150:8446/#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29)
-vless://f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8@87.236.38.66:2087?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 
 ---
 

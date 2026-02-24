@@ -476,6 +476,7 @@ proxies:
   - {name: "@iphone02016vpn` 4", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 5", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: ⚡ 2, server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "%***🆔***", server: vipi11.abdulkhanioffline.pw, port: 22527, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3d266a-ce3c-4fa9-b252-95144b7bc443, host: cafebazaar.snapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 Germany, server: nl-amst-node.genadata.online, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇦 Canada, server: 104.17.148.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 Poland, server: 172.64.158.2, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -484,7 +485,11 @@ proxies:
   - {name: 🇨🇦 Canada 2, server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @iphone02016vpn us`, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 3, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%***🆔*** 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%***🆔*** 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 4, server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%***🆔*** 4", server: cf.mtpmio.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: a2b5ed44-6d39-4a41-97e1-c643508d73d9, servername: api.mtpmio.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/api?ed=1024", headers: {Host: api.mtpmio.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "%***🆔*** 5", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -513,6 +518,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -521,7 +527,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -540,6 +550,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -548,7 +559,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -567,6 +582,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -575,7 +591,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: اتصال پایدار 🔗
     type: url-test
@@ -603,6 +623,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -611,7 +632,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -630,6 +655,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -638,7 +664,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -657,6 +687,7 @@ proxy-groups:
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
       - ⚡ 2
+      - "%***🆔***"
       - 🇩🇪 Germany
       - 🇨🇦 Canada
       - 🇵🇱 Poland
@@ -665,7 +696,11 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - 🇺🇸 @iphone02016vpn us`
       - United 3
+      - "%***🆔*** 2"
+      - "%***🆔*** 3"
       - United 4
+      - "%***🆔*** 4"
+      - "%***🆔*** 5"
       - ""
   - name: دانلود منیجر 📥
     type: select
