@@ -465,6 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: " 2", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
   - {name: "@meliproxyy-v4cr5cx3", server: 82.152.98.88, port: 2086, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy-s6urqkut", server: 82.152.98.198, port: 2086, type: vmess, uuid: 5da10a90-dd83-4300-bb9c-ad50765fa8e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: afcgy9oo, server: 87.120.219.124, port: 2086, type: vmess, uuid: e6a866ca-1756-44ed-9866-a9949f2bad38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -484,6 +486,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo
@@ -493,6 +497,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo
@@ -502,6 +508,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo
@@ -520,6 +528,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo
@@ -529,6 +539,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo
@@ -538,6 +550,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - ""
+      - " 2"
       - "@meliproxyy-v4cr5cx3"
       - "@meliproxyy-s6urqkut"
       - afcgy9oo

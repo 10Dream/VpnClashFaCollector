@@ -465,9 +465,123 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 194.87.216.140:443, server: 194.87.216.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f62e3a25-c28c-432d-9cf9-86ec37dc145c, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.95.233.133:443, server: 45.95.233.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f62e3a25-c28c-432d-9cf9-86ec37dc145c, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪⁶』, server: 77.91.68.70, port: 55983, type: vless, tls: true, packet-encoding: xudp, uuid: f667a096-5231-4cfb-8759-92bb32473139, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg, short-id: 0e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77.91.68.70:55983, server: 77.91.68.70, port: 55983, type: vless, tls: true, packet-encoding: xudp, uuid: f667a096-5231-4cfb-8759-92bb32473139, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg, short-id: 0e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee", server: 62.106.66.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6vhgfwgUYXfr0ECgNirxE, host: m.vk.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[10469] - Telegram : @configraygan", server: 62.106.66.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6vhgfwgUYXfr0ECgNirxE, host: m.vk.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.239.111.109:5443, server: 87.239.111.109, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: f70200ef-8816-4bf2-830d-801f7d10ea37, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UZZZh7NCnRvU1y7D45FgrZFwIDVIrdLm8TVjx6IudGQ, short-id: a1b2c3d4e5f60789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[10543] - Telegram : @configraygan", server: 188.244.122.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, servername: juzibaipiao.5112233.xyz, network: ws, ws-opts: {path: /, headers: {Host: juzibaipiao.5112233.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 90@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 20664, type: vless, tls: true, packet-encoding: xudp, uuid: f8159636-4476-4e46-f303-a9c5abc6e7ff, servername: addons.mozilla.org, host: addons.mozilla.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DHfbDzp8n6DqI5aGd6SLZjENaueaiWwayVDlkpWULVU, short-id: 35c2cb29}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 96@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 20664, type: vless, tls: true, packet-encoding: xudp, uuid: f8159636-4476-4e46-f303-a9c5abc6e7ff, servername: addons.mozilla.org, host: addons.mozilla.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DHfbDzp8n6DqI5aGd6SLZjENaueaiWwayVDlkpWULVU, short-id: 35c2cb29}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.111.84.187:8443, server: 212.111.84.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f831dbe0-2e90-4b0f-8150-2b21d9baae3f, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 887c0d72e771a934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.101.120.101:2052, server: 141.101.120.101, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.101.121.252:2052, server: 141.101.121.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.101.121.47:2052, server: 141.101.121.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nodejs.org:2052, server: nodejs.org, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ️ | @configraygan『🇩🇪¹¹⁰』, server: 3.72.67.177, port: 48764, type: vless, tls: true, packet-encoding: xudp, uuid: f8f72d24-17a1-46a2-cb10-3a433bd6e831, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ️ | @configraygan『🇩🇪⁷⁸』, server: 3.72.67.177, port: 48764, type: vless, tls: true, packet-encoding: xudp, uuid: f8f72d24-17a1-46a2-cb10-3a433bd6e831, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_9, server: 3.72.67.177, port: 48764, type: vless, tls: true, packet-encoding: xudp, uuid: f8f72d24-17a1-46a2-cb10-3a433bd6e831, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_37, server: reza.alphanet01.com, port: 39884, type: vless, tls: true, packet-encoding: xudp, uuid: f9052450-c202-4143-86ea-d5c856c1bc91, network: ws, ws-opts: {path: "/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_48, server: reza.alphanet01.com, port: 39884, type: vless, tls: true, packet-encoding: xudp, uuid: f9052450-c202-4143-86ea-d5c856c1bc91, network: ws, ws-opts: {path: "/--Telegram---@PULAVPN/---@PULAVPN/---@PULAVPN/---@PULAVPN?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 109.172.55.157:19547, server: 109.172.55.157, port: 19547, type: vless, tls: true, packet-encoding: xudp, uuid: f9cdb2e1-939c-4470-b322-14b7313dec48, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: -zsPOGrZY1Dlb6eypa5V_OPaLBpT66FX3cSo0mNX8SI, short-id: 47ee5c592c1672cf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: 18.156.128.77, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩, server: 18.156.128.77, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 3", server: 18.159.108.197, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[10516] - Telegram : @configraygan", server: 18.159.108.197, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 18.159.108.197, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 158.160.48.34, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ️ | @configraygan『🇩🇪¹⁷³』, server: 178.154.223.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: 178.154.223.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 185.120.59.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: 193.124.254.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: 51.250.85.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: 78.40.116.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: 84.201.139.60, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771738621285604, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 62.3.12.148:443, server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771739566537608, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩, server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771739566537608, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771739566537608, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy`", server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771739566537608, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.67.73.14:443, server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fab0c6f7-b621-4070-963c-011b354cc863, servername: chat3.fun, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /realtime, headers: {Host: chat3.fun}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 support.zoom.us:80, server: support.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 96@oneclickvpnkeys 2, server: 5.34.178.97, port: 3443, type: vless, tls: true, packet-encoding: xudp, uuid: fad0e68d-97c9-4fc7-86a5-08de489185e6, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CsUm6jBZvd5KzFN8Klm9KYF5kiUmztspcA9InbcnwXM, short-id: e49b4e3d5f46d5c2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 47@oneclickvpnkeys, server: 169.40.2.234, port: 22750, type: vless, tls: true, packet-encoding: xudp, uuid: fbc6ffba-5161-4983-88de-7c814d1b692b, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_11, server: 3.66.163.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_61, server: 3.66.163.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_69, server: 3.68.213.97, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_108, server: 3.71.206.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 3.76.223.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[10526] - Telegram : @configraygan", server: 3.76.223.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 9", server: 3.76.223.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_16, server: 3.76.223.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 66@oneclickvpnkeys, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.128.134.181:34816, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 10", server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 55@oneclickvpnkeys, server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⭐17@oneclickvpn, server: 95.164.53.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg, short-id: 701775cae5f3a793}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.158.118:9000, server: 193.151.158.118, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 193.151.158.118, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.158.183:9000, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.158.91:9000, server: 193.151.158.91, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 193.151.158.91, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@SPEEDS_VPN1-🫆", server: 193.151.158.91, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 217.114.40.151:9000, server: 217.114.40.151, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443, server: join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe387417-4166-47f9-a863-706254f306d8, servername: join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.138.232:443, server: 162.159.138.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fedc279b-ccb3-4205-bb47-31ac79ae4e7a, servername: jenaei.movieland.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: static43498}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 190.93.244.96:2087, server: 190.93.244.96, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ff932085-992a-4a05-9361-6f6f9ddd56d9, servername: fb.lightningc.ir, network: ws, ws-opts: {path: "@mehrosaboran,@mehrosaboran", headers: {Host: fb.lightningc.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.180.45.245:443, server: 5.180.45.245, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: id8114764549, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eAYRUxYWFPrYyI5iVXTYSeQHBEW6yvv1__GAtGIlglA, short-id: 68}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 135.220.73.1:443, server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 11", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 20.218.137.249:443, server: 20.218.137.249, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-20218137249-direct.yektanet.co, alpn: [http%2f1.1], host: jina-20218137249-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 20.218.137.249:443 2, server: 20.218.137.249, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-20218137249-direct.yektanet.co, host: jina-20218137249-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 20.79.160.49:443, server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, alpn: [http%2f1.1], host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 20.79.160.49:443 2, server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, alpn: [http%2f1.1], host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4.182.217.232:443, server: 4.182.217.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-4182217232-direct.yektanet.co, host: jina-4182217232-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4.185.113.10:443, server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: [h2%2Chttp%2F1.1], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4.185.113.10:443 2, server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: همه لازم نیست بدونن | @panbehnet, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 2, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 3, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 4, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 5, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 6, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 7, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ️ | @configraygan『🇫🇷¹⁴⁸』, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, alpn: ["h2,http/1.1"], host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_52, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, alpn: ["h2,http/1.1"], host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_67, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.19.10.94:443 8, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vpnbaz 🧸", server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_51, server: 162.19.10.99, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191099-direct.sharghdaily.co, alpn: ["h2,http/1.1"], host: nasnet-162191099-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇫🇷¹⁰⁷』, server: 57.129.64.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-5712964102-direct.sharghdaily.co, alpn: ["h2,http/1.1"], host: nasnet-5712964102-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_80, server: 57.129.64.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-5712964102-direct.sharghdaily.co, alpn: ["h2,http/1.1"], host: nasnet-5712964102-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.253.26.39:442, server: 188.253.26.39, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: nothing_88147cqsru, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0, short-id: 6ac998b514}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇳🇱²』, server: 188.253.26.39, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: nothing_88147cqsru, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: T_gyZwngrYUe24q6-mieGT9WJfzja0PQad_y_SnhBk0, short-id: 6ac998b514}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 81.208.170.142:1500, server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: sGLzG6kUwBpZd73sW0nq, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 151.101.194.133:443, server: 151.101.194.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: telegram-id-ArV2ray, servername: mio.splashthat.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray,telegram-ArV2ray?ed=2048", headers: {Host: mio.splashthat.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: " 2", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: "@meliproxyy-v4cr5cx3", server: 82.152.98.88, port: 2086, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy-s6urqkut", server: 82.152.98.198, port: 2086, type: vmess, uuid: 5da10a90-dd83-4300-bb9c-ad50765fa8e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: afcgy9oo, server: 87.120.219.124, port: 2086, type: vmess, uuid: e6a866ca-1756-44ed-9866-a9949f2bad38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: n1752248946.4u9ma.icu, port: 443, type: vmess, uuid: ef167986-d154-4409-88b1-757efb6ae823, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1752248946.4u9ma.icu}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 2", server: n1753101277.4u9ma.icu, port: 443, type: vmess, uuid: 6ea48dfe-7de2-45dc-9267-d4d9effad9fc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753101277.4u9ma.icu}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 3", server: n1753356361.lie5d.cyou, port: 443, type: vmess, uuid: cdfd9787-dac8-4c1e-9ae5-104e23a9d994, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753356361.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 4", server: n1753356378.4u9ma.icu, port: 443, type: vmess, uuid: 37b20639-0d6e-46f2-9db5-472201b10cdd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753356378.4u9ma.icu}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 5", server: n1761296897.lie5d.cyou, port: 443, type: vmess, uuid: 5ecc3086-93cf-42e3-956b-f2180e042537, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296897.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: n1749032906.kzxds.cn, port: 443, type: vmess, uuid: c3337e26-c0e0-4625-ad62-bfa8d19991a4, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1749032906.kzxds.cn}}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-SE", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[10533] - Telegram : @configraygan", server: 43.162.114.137, port: 59674, type: vmess, uuid: 6a4ce5b9-0d60-4a21-a8fe-897798019500, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 47@oneclickvpnkeys, server: 45.13.227.118, port: 80, type: vmess, uuid: 8ce64662-f8b8-4955-bdf2-a55b821bc4aa, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoiNDBNWGY3Z0NPd0loZ2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: ......................................................................................()...........................................................................................................................................................................................................................................................}}, udp: true, tfo: false}
   - {name: "[10458] - Telegram : @configraygan", server: 45.32.45.45, port: 14760, type: vmess, uuid: dbf7a6e4-d518-4f9b-a55e-27ef892ffac1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ♡ | @configraygan〜🇩63🇩〝, server: 47.243.205.58, port: 443, type: vmess, uuid: 4f86a909-836d-4643-b650-d812144a1fa9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214912.wpg27.xyz, network: ws, ws-opts: {path: /, headers: {Host: n1761214912.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹³』, server: 47.250.45.234, port: 8613, type: vmess, uuid: 80039b4d-bac0-4f89-82c7-54fad3b0a1ea, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048"}, udp: true, tfo: false}
+  - {name: ⭐41@oneclickvpnkeys, server: 57.128.189.222, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
+  - {name: ⭐52@oneclickvpnkeys, server: 57.128.216.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
+  - {name: V 100 @Outline_Vpn, server: 57.129.121.229, port: 2095, type: vmess, uuid: 0e8fff5f-1b26-4f4e-af53-f301ede828f2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⭐35@oneclickvpnkeys, server: 57.129.24.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
   - {name: 1@oneclickvpnkeys, server: 57.129.24.131, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: linkvws, headers: {Host: 57.129.25.20}}, udp: true, tfo: false}
   - {name: ⭐30@oneclickvpnkeys, server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 57.129.25.20, network: ws, ws-opts: {path: linkvws, headers: {Host: 57.129.25.20}}, udp: true, tfo: false}
@@ -479,22 +593,29 @@ proxies:
   - {name: ⭐24@oneclickvpnkeys, server: 57.129.59.201, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: ⭐21@oneclickvpnkeys, server: 57.129.64.157, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
   - {name: ⭐14@oneclickvpnkeys, server: 87.120.219.124, port: 2086, type: vmess, uuid: e6a866ca-1756-44ed-9866-a9949f2bad38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩, server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹』, server: 95.164.4.88, port: 80, type: vmess, uuid: 24b6bbfb-9b27-4f17-bd32-67523bf487d9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys, server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
-  - {name: 53@oneclickvpnkeys, server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🥶", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
   - {name: "[10532] - Telegram : @configraygan", server: 104.26.14.85, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
+  - {name: ⭐39@oneclickvpnkeys, server: 141.94.155.229, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
   - {name: 26@oneclickvpnkeys, server: 141.95.126.134, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: jamekk.org, network: ws, ws-opts: {path: linkvws, headers: {Host: jamekk.org}}, udp: true, tfo: false}
+  - {name: ⭐89@oneclickvpnkeys, server: 148.113.153.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹¹』, server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
+  - {name: ⭐90@oneclickvpnkeys, server: 15.235.85.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
   - {name: "[10471] - Telegram : @configraygan", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 76@oneclickvpnkeys, server: 213.183.54.243, port: 443, type: vmess, uuid: d7f56688-56a0-448c-bc04-fd83c6ac17d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2, server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹²』, server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 4", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: ⚡ | @configraygan〜🇧🇩〝, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3, server: tgju.org, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
   - {name: 92@oneclickvpnkeys, server: bfbg.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: bfbg.2nn.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee🎁🕊️", server: cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪³』, server: cf.090227.xyz, port: 443, type: vmess, uuid: 290cc691-3ac6-4387-98a1-25c8eb8ca2ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sgal.dagrate.eu.org, network: ws, ws-opts: {path: /, headers: {Host: sgal.dagrate.eu.org}}, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vpnsal, server: digitalocean.com, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/NASNET/cdn?ed=2560", headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee 2", server: frc.teamv.ir, port: 443, type: vmess, uuid: 3ccdd2af-37ea-4439-a35c-70416ff34211, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: frc.teamv.ir, network: ws, ws-opts: {path: /6MByUo6MYuosAGOCfsv4W, headers: {Host: frc.teamv.ir}}, udp: true, tfo: false}
+  - {name: "@proxy_kafee 5", server: frc.teamv.ir, port: 443, type: vmess, uuid: 3ccdd2af-37ea-4439-a35c-70416ff34211, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: frc.teamv.ir, network: ws, ws-opts: {path: /6MByUo6MYuosAGOCfsv4W, headers: {Host: frc.teamv.ir}}, udp: true, tfo: false}
+  - {name: "🇭🇰 [openproxylist.com] vmess-HK 6", server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761296877.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: ⚡ | @configraygan〜🇩�4〝, server: n1761214919.mv7wh.tech, port: 443, type: vmess, uuid: c592f040-faff-47dc-a464-9bccf2dd4e7b, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214919.mv7wh.tech, network: ws, ws-opts: {path: /, headers: {Host: n1761214919.mv7wh.tech}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -511,9 +632,123 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -525,31 +760,152 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -561,31 +917,152 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -597,22 +1074,29 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -628,9 +1112,123 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -642,31 +1240,152 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -678,31 +1397,152 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "[10533] - Telegram : @configraygan"
+      - 194.87.216.140:443
+      - 45.95.233.133:443
+      - ⚡️ | @configraygan『🇩🇪⁶』
+      - 77.91.68.70:55983
+      - "@proxy_kafee"
+      - "[10469] - Telegram : @configraygan"
+      - 87.239.111.109:5443
+      - "[10543] - Telegram : @configraygan"
+      - 90@oneclickvpnkeys
+      - 96@oneclickvpnkeys
+      - 212.111.84.187:8443
+      - 141.101.120.101:2052
+      - 141.101.121.252:2052
+      - 141.101.121.47:2052
+      - nodejs.org:2052
+      - ️ | @configraygan『🇩🇪¹¹⁰』
+      - ️ | @configraygan『🇩🇪⁷⁸』
+      - configraygan_9
+      - configraygan_37
+      - configraygan_48
+      - 109.172.55.157:19547
+      - "@proxy_kafee 2"
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩
+      - "@proxy_kafee 3"
+      - "[10516] - Telegram : @configraygan"
+      - "@meliproxyy"
+      - "@meliproxyy 2"
+      - ️ | @configraygan『🇩🇪¹⁷³』
+      - "@meliproxyy 3"
+      - "@meliproxyy 4"
+      - "@meliproxyy 5"
+      - "@meliproxyy 6"
+      - "@meliproxyy 7"
+      - "@meliproxyy 8"
+      - 62.3.12.148:443
+      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "@meliproxyy`"
+      - 172.67.73.14:443
+      - www.speedtest.net:443
+      - 🇺🇸 support.zoom.us:80
+      - 96@oneclickvpnkeys 2
       - 47@oneclickvpnkeys
+      - configraygan_11
+      - configraygan_61
+      - configraygan_69
+      - configraygan_108
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "[10526] - Telegram : @configraygan"
+      - "@meliproxyy 9"
+      - configraygan_16
+      - 66@oneclickvpnkeys
+      - 104.128.134.181:34816
+      - "@meliproxyy 10"
+      - 55@oneclickvpnkeys
+      - ⭐17@oneclickvpn
+      - 193.151.158.118:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - NetAccount`
+      - 193.151.158.183:9000
+      - 193.151.158.91:9000
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@SPEEDS_VPN1-🫆"
+      - 217.114.40.151:9000
+      - join-masterserver1-join-masterserver1-join-masterserver1.noxovap698.workers.dev:443
+      - 162.159.138.232:443
+      - 190.93.244.96:2087
+      - 5.180.45.245:443
+      - 135.220.73.1:443
+      - "@meliproxyy 11"
+      - 20.218.137.249:443
+      - 20.218.137.249:443 2
+      - 20.79.160.49:443
+      - 20.79.160.49:443 2
+      - 4.182.217.232:443
+      - 4.185.113.10:443
+      - 4.185.113.10:443 2
+      - همه لازم نیست بدونن | @panbehnet
+      - 162.19.10.94:443
+      - 162.19.10.94:443 2
+      - 162.19.10.94:443 3
+      - 162.19.10.94:443 4
+      - 162.19.10.94:443 5
+      - 162.19.10.94:443 6
+      - 162.19.10.94:443 7
+      - ️ | @configraygan『🇫🇷¹⁴⁸』
+      - configraygan_52
+      - configraygan_67
+      - 162.19.10.94:443 8
+      - "@vpnbaz 🧸"
+      - configraygan_51
+      - ⚡️ | @configraygan『🇫🇷¹⁰⁷』
+      - configraygan_80
+      - 188.253.26.39:442
+      - ⚡️ | @configraygan『🇳🇱²』
+      - 81.208.170.142:1500
+      - 151.101.194.133:443
+      - ""
+      - " 2"
+      - "@meliproxyy-v4cr5cx3"
+      - "@meliproxyy-s6urqkut"
+      - afcgy9oo
+      - 🇭🇰 [openproxylist.com] vmess-HK
+      - 🇭🇰 [openproxylist.com] vmess-HK 2
+      - 🇭🇰 [openproxylist.com] vmess-HK 3
+      - 🇭🇰 [openproxylist.com] vmess-HK 4
+      - 🇭🇰 [openproxylist.com] vmess-HK 5
+      - 🇯🇵 [openproxylist.com] vmess-JP
+      - "[openproxylist.com] vmess-SE"
+      - "[10533] - Telegram : @configraygan"
       - "[10458] - Telegram : @configraygan"
+      - ♡ | @configraygan〜🇩63🇩〝
+      - ⚡️ | @configraygan『🇩🇪¹³』
+      - ⭐41@oneclickvpnkeys
+      - ⭐52@oneclickvpnkeys
+      - V 100 @Outline_Vpn
+      - ⭐35@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - ⭐30@oneclickvpnkeys
@@ -714,22 +1554,29 @@ proxy-groups:
       - ⭐24@oneclickvpnkeys
       - ⭐21@oneclickvpnkeys
       - ⭐14@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩
+      - ⚡️ | @configraygan『🇩🇪¹』
       - "@PewezaVPN (تلگرام)"
       - 23@oneclickvpnkeys
-      - برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩 2
-      - 53@oneclickvpnkeys
       - "@MARAMBASHI 🥶"
       - "[10532] - Telegram : @configraygan"
+      - ⭐39@oneclickvpnkeys
       - 26@oneclickvpnkeys
+      - ⭐89@oneclickvpnkeys
+      - ⚡️ | @configraygan『🇩🇪¹¹』
+      - ⭐90@oneclickvpnkeys
       - "[10471] - Telegram : @configraygan"
-      - "@proxy_kafee"
-      - 76@oneclickvpnkeys
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 2
+      - ⚡️ | @configraygan『🇩🇪¹²』
+      - "@proxy_kafee 4"
+      - ⚡ | @configraygan〜🇧🇩〝
+      - برای اتصال دائمی جوین شو💠 TelegramID ⌲Express_freevpn 🪩 3
       - 92@oneclickvpnkeys
-      - "@proxy_kafee🎁🕊️"
+      - ⚡️ | @configraygan『🇩🇪³』
       - 19@oneclickvpnkeys
       - vpnsal
-      - "@proxy_kafee 2"
+      - "@proxy_kafee 5"
+      - 🇭🇰 [openproxylist.com] vmess-HK 6
+      - ⚡ | @configraygan〜🇩�4〝
   - name: دانلود منیجر 📥
     type: select
     proxies:

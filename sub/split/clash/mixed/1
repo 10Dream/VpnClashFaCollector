@@ -467,15 +467,10 @@ rule-providers:
 proxies:
   - {name: 95@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 98@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 44@oneclickvpnkeys, server: 129.151.251.122, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 88@oneclickvpnkeys, server: 129.153.25.59, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 57@oneclickvpnkeys`, server: 143.47.32.143, port: 35000, type: hysteria2, ports: 35000, password: 545fb4e9-5794-4e20-be0c-e6d8689f91ac, sni: www.lamer.com.hk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 38@oneclickvpnkeys`, server: dd.openaccessnode.com, port: 989, type: hysteria2, ports: 989, password: 75193bef8d8fe82341e02dd083dc1399, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-King-Reza-Pahlavi", sni: dd.ircybersec.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35@oneclickvpnkeys, server: 129.151.193.163, port: 50000, type: hysteria2, ports: 50000, password: f40ca239-4a76-4808-b56c-84d4e9969939, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.132.51.160:844 2, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.175.249.174:35000 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40i", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,15 +489,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -511,15 +501,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -528,15 +513,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -554,15 +534,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -571,15 +546,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -588,15 +558,10 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
-      - 44@oneclickvpnkeys
-      - 88@oneclickvpnkeys
-      - 57@oneclickvpnkeys`
-      - 38@oneclickvpnkeys`
-      - 35@oneclickvpnkeys
-      - 5.175.249.174:35000
-      - "@proxy_kafee"
+      - 91.132.51.160:844
+      - 91.132.51.160:844 2
+      - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
-      - 5.175.249.174:35000 2
   - name: دانلود منیجر 📥
     type: select
     proxies:
