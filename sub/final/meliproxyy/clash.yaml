@@ -466,33 +466,33 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: 51.38.141.210, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
+  - {name: "@meliproxyy 2", server: 46.38.143.236, port: 60633, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=, udp: true, tfo: false}
+  - {name: "@meliproxyy 3", server: 51.38.141.210, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
-  - {name: "@meliproxyy 3", server: 20.90.250.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@meliproxyy 4", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@meliproxyy 5", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@meliproxyy 6", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
-  - {name: "@meliproxyy 7", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
-  - {name: "@meliproxyy 8", server: 51.145.90.229, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "@meliproxyy 9", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: "@meliproxyy 4", server: 20.90.250.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@meliproxyy 5", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@meliproxyy 6", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "@meliproxyy 7", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
+  - {name: "@meliproxyy 8", server: 57.129.95.198, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: d6b0973401858b29, udp: true, tfo: false}
+  - {name: "@meliproxyy 9", server: 51.145.90.229, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
+  - {name: "@meliproxyy 10", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "***🇩🇪***All⁵", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "@meliproxyy 10", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@meliproxyy 11", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@meliproxyy 12", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@meliproxyy 12", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@meliproxyy 13", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***🇩🇪***All⁶", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@meliproxyy 13", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@meliproxyy 14", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@meliproxyy` 2", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "@meliproxyy 14", server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: "@meliproxyy 15", server: ca05.oportal.cc, port: 443, type: trojan, password: adb13850-7e70-492e-85b2-01184801d587, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 15", server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
+  - {name: "@meliproxyy 16", server: ca05.oportal.cc, port: 443, type: trojan, password: adb13850-7e70-492e-85b2-01184801d587, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🇩🇪***All⁵ 2", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 16", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "@meliproxyy 17", server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 18", server: 54.38.214.29, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 19", server: 83.147.255.191, port: 448, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 17", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 18", server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 19", server: 54.38.214.29, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 20", server: 83.147.255.191, port: 448, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 3", server: 83.166.255.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: api-maps.yandex.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 20", server: 13.39.219.34, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 21", server: 51.44.96.183, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 22", server: 3.72.76.6, port: 35301, type: vless, tls: true, packet-encoding: xudp, uuid: 0792cb1b-214b-48cd-d1ee-7750ff1e8cd7, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 22", server: 18.193.112.70, port: 35301, type: vless, tls: true, packet-encoding: xudp, uuid: 0792cb1b-214b-48cd-d1ee-7750ff1e8cd7, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 23", server: 178.17.59.73, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 423bccc9c13fb509}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 24", server: F1.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0da640df-a497-4ec2-8705-707c44705f47, servername: sp.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: sp.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 25", server: 185.21.9.91, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -501,156 +501,133 @@ proxies:
   - {name: "@meliproxyy` 4", server: nl04-vlr01.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 86e999a2cdc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 27", server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 28", server: 18.185.103.109, port: 11860, type: vless, tls: true, packet-encoding: xudp, uuid: 23993086-1e23-4c64-8126-a4fc1d7af735, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 29", server: 3.64.228.17, port: 25349, type: vless, tls: true, packet-encoding: xudp, uuid: 24d851c4-baaf-49f4-ad36-11b548983a5b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 30", server: 3.64.165.20, port: 37183, type: vless, tls: true, packet-encoding: xudp, uuid: 275ea421-8419-4d72-9348-4c4e9b5b2f1f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 31", server: 5.160.144.77, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0e561e-d8ab-45f8-becb-09692e2d4bf0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 32", server: staging.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ba7f500-017b-4891-87a0-e4e62a4ad52d, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg, short-id: 9409f73c2fd7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 33", server: 3.75.190.216, port: 28427, type: vless, tls: true, packet-encoding: xudp, uuid: 32e80ab8-a9b8-4d5e-a9ad-60b161eadf88, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 29", server: 3.64.165.20, port: 37183, type: vless, tls: true, packet-encoding: xudp, uuid: 275ea421-8419-4d72-9348-4c4e9b5b2f1f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 30", server: 5.160.144.77, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0e561e-d8ab-45f8-becb-09692e2d4bf0, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 31", server: staging.lastilhame.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ba7f500-017b-4891-87a0-e4e62a4ad52d, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg, short-id: 9409f73c2fd7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 32", server: glob.thisiswe.uno, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 3238e861-cfd2-4ebf-d325-2bd8100cf63e, servername: jamal.thisiswe.uno, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night, headers: {Host: jamal.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 33", server: glob.thisiswe.uno, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 3238e861-cfd2-4ebf-d325-2bd8100cf63e, servername: jamal.thisiswe.uno, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: jamal.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 34", server: maxa19.box11x0.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 34228fd2-9a65-4bc2-9d10-1573a276ed10, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 35", server: 185.207.198.254, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 34c01e61-f4f3-4afb-a83b-406caf8caa33, servername: Telegram-channel-WangCai2, network: ws, ws-opts: {path: /Telegram🇨🇳, headers: {Host: Telegram-channel-WangCai2}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 36", server: 72.56.108.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38707963-acf6-4e72-8db6-94faba4b5844, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A, short-id: 3f8a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 37", server: 158.160.192.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a4624bf-cd9f-413b-82c8-06476b7f6de6, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 38", server: 108.162.194.176, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 35", server: 72.56.108.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38707963-acf6-4e72-8db6-94faba4b5844, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A, short-id: 3f8a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 36", server: 158.160.192.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3a4624bf-cd9f-413b-82c8-06476b7f6de6, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 37", server: 108.162.194.176, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 38", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 39", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 40", server: betty.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 41", server: brenna.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 42", server: delilah.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 43", server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 44", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 45", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 46", server: 3.77.202.229, port: 48307, type: vless, tls: true, packet-encoding: xudp, uuid: 42436f1d-5bdd-4b3a-8649-a17ef75e9672, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 47", server: 51.158.206.80, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 48", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 49", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 50", server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 51", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 52", server: 3.65.204.239, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 53", server: 13.38.230.180, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 5", server: 15.164.241.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 54", server: 18.177.121.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 6", server: 3.10.164.176, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 7", server: 44.244.55.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 55", server: 54.181.0.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 56", server: 18.199.91.228, port: 36632, type: vless, tls: true, packet-encoding: xudp, uuid: 4d259f79-e02b-4aa3-ebde-92c177df2d87, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 57", server: jeff.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 533ce090-76f8-49bb-bb55-8d516acf5116, servername: lhbmp.washington-wall.sbs, network: ws, ws-opts: {path: /true, headers: {Host: lhbmp.washington-wall.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 8", server: 51.250.65.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 048fe5c8be4bb687}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 58", server: nl01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 59", server: nl01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 60", server: 45.131.209.130, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 61", server: 3.123.31.148, port: 15200, type: vless, tls: true, packet-encoding: xudp, uuid: 5cfbed15-e39a-4067-b20b-9243bfb8c234, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 62", server: 141.101.121.169, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 63", server: 3.126.152.0, port: 28279, type: vless, tls: true, packet-encoding: xudp, uuid: 620e45f4-92f1-4be6-e118-3bc515509320, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 64", server: 3.72.75.121, port: 28279, type: vless, tls: true, packet-encoding: xudp, uuid: 620e45f4-92f1-4be6-e118-3bc515509320, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 65", server: 152.53.49.144, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 66", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 643a3034-d3f9-4e03-acde-0e6ab3a238fb, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /54.203.85.46, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 67", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6876434f-13cb-4cbb-b053-63fe67f4bffe, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 68", server: 3.71.102.229, port: 19285, type: vless, tls: true, packet-encoding: xudp, uuid: 68820b0d-b836-435c-e3d5-c4ce8b97f0ac, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 69", server: 3.71.206.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 69c3ec92-9c48-44bc-cfbc-a37ee0c4461a, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 9", server: proxy.rahmancloud.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6b279ab4-10e8-4e66-fb5d-9092c6709a1e, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: proxy.rahmancloud.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 70", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 71", server: 146.103.104.157, port: 51715, type: vless, tls: true, packet-encoding: xudp, uuid: 74afe148-0f1e-11f1-aacd-525400b8e428, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oIzaj42OvbOicJzXkOKaPJkuA6vdwDWTkO63_PbfSHg, short-id: ccbfae725b5b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 72", server: 18.159.113.31, port: 16763, type: vless, tls: true, packet-encoding: xudp, uuid: 7a5dc2d1-8560-47de-8df9-2a1c5f8fd3ec, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 73", server: 3.70.155.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b471aa5-9344-4567-96a9-82bec6427f85, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 74", server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 10", server: 93.115.25.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 75", server: 18.184.2.43, port: 50459, type: vless, tls: true, packet-encoding: xudp, uuid: 86f5fd99-a502-41de-a5cd-ebd671049b31, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 76", server: 3.122.120.50, port: 48091, type: vless, tls: true, packet-encoding: xudp, uuid: 8833d369-c1ec-4c1c-e7ad-39c40b520ccd, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 77", server: 5.104.108.47, port: 50605, type: vless, tls: true, packet-encoding: xudp, uuid: 89d5cc8d-e42f-45b0-d673-71578a39ae47, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 78", server: 3.120.186.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e4e9b67-9294-43dd-e01a-22823d8cefab, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 79", server: 3.72.38.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e4e9b67-9294-43dd-e01a-22823d8cefab, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 80", server: 51.75.69.164, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: 90d41578-2041-4b68-a8eb-18f22acab21a, servername: 51.75.69.164, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cdn-cgi}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 81", server: 18.196.124.254, port: 49159, type: vless, tls: true, packet-encoding: xudp, uuid: 929358d5-8d10-4a0e-afe0-58d563d6ee42, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 82", server: 62.133.60.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn12.suio.me, host: decdn12.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 83", server: 185.208.79.133, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 40", server: brenna.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 41", server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 42", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 43", server: www.speedtest.net, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 44", server: 3.77.202.229, port: 48307, type: vless, tls: true, packet-encoding: xudp, uuid: 42436f1d-5bdd-4b3a-8649-a17ef75e9672, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 45", server: 51.158.206.80, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 46", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 47", server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 48", server: 3.65.204.239, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 49", server: 18.177.121.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 5", server: 3.10.164.176, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 6", server: 44.244.55.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 50", server: 57.182.243.243, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 51", server: jeff.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 533ce090-76f8-49bb-bb55-8d516acf5116, servername: lhbmp.washington-wall.sbs, network: ws, ws-opts: {path: /true, headers: {Host: lhbmp.washington-wall.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 7", server: 51.250.65.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 048fe5c8be4bb687}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 52", server: nl01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 53", server: nl01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 54", server: 45.131.209.130, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 55", server: 3.127.218.176, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5921e091-fd96-473e-ed51-626e6b61f089, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 56", server: 3.72.75.121, port: 28279, type: vless, tls: true, packet-encoding: xudp, uuid: 620e45f4-92f1-4be6-e118-3bc515509320, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 57", server: 152.53.49.144, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 58", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 643a3034-d3f9-4e03-acde-0e6ab3a238fb, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /54.203.85.46, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 59", server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6876434f-13cb-4cbb-b053-63fe67f4bffe, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 60", server: 3.71.102.229, port: 19285, type: vless, tls: true, packet-encoding: xudp, uuid: 68820b0d-b836-435c-e3d5-c4ce8b97f0ac, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 61", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 62", server: 146.103.104.157, port: 51715, type: vless, tls: true, packet-encoding: xudp, uuid: 74afe148-0f1e-11f1-aacd-525400b8e428, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oIzaj42OvbOicJzXkOKaPJkuA6vdwDWTkO63_PbfSHg, short-id: ccbfae725b5b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 8", server: maxb08.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 63", server: 3.121.207.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b471aa5-9344-4567-96a9-82bec6427f85, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 64", server: 3.70.155.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b471aa5-9344-4567-96a9-82bec6427f85, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 65", server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 9", server: 93.115.25.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 66", server: 5.104.108.47, port: 50605, type: vless, tls: true, packet-encoding: xudp, uuid: 89d5cc8d-e42f-45b0-d673-71578a39ae47, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 67", server: 3.71.14.0, port: 15728, type: vless, tls: true, packet-encoding: xudp, uuid: 8c721849-ca15-4c8b-f888-ced9da4e5d9f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 68", server: 3.120.186.36, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e4e9b67-9294-43dd-e01a-22823d8cefab, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 69", server: 51.75.69.164, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: 90d41578-2041-4b68-a8eb-18f22acab21a, servername: 51.75.69.164, alpn: [h2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: cdn-cgi}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 70", server: 18.196.124.254, port: 49159, type: vless, tls: true, packet-encoding: xudp, uuid: 929358d5-8d10-4a0e-afe0-58d563d6ee42, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 71", server: 62.133.60.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn12.suio.me, host: decdn12.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 72", server: 185.208.79.133, port: 38463, type: vless, tls: true, packet-encoding: xudp, uuid: 9706248e-259e-4738-9cde-a3f7e11be4b8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.99.8.3:2083, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1@meliproxyy}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 11", server: 3.122.56.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a5a118d-06ab-4064-fe4b-89e47f1368b2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 10", server: 3.122.56.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a5a118d-06ab-4064-fe4b-89e47f1368b2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 73", server: 45.94.215.23, port: 5522, type: vless, tls: true, packet-encoding: xudp, uuid: V2ray_fa3t, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🇩🇪***All³", server: 94.131.123.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a44e0875-210f-4941-9062-89b6361a14c6, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4, short-id: 8bcfe256cf216fd8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 84", server: 18.153.105.111, port: 44829, type: vless, tls: true, packet-encoding: xudp, uuid: a5927ac1-b40c-4b4a-81c3-39b294209167, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 12", server: A1tun.diesevip.shop, port: 2080, type: vless, tls: true, packet-encoding: xudp, uuid: a68f795d-a69b-4e89-b2b0-a611453e7f34, host: A1tun.diesevip.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 85", server: 62.204.42.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 13", server: 77.83.245.171, port: 43816, type: vless, tls: true, packet-encoding: xudp, uuid: a893f940-8725-4b3e-8b77-caa1380e95dc, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU, short-id: 2aa4fcbeaed2ad23}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 11", server: A1tun.diesevip.shop, port: 2080, type: vless, tls: true, packet-encoding: xudp, uuid: a68f795d-a69b-4e89-b2b0-a611453e7f34, host: A1tun.diesevip.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 74", server: 62.204.42.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 12", server: 77.83.245.171, port: 43816, type: vless, tls: true, packet-encoding: xudp, uuid: a893f940-8725-4b3e-8b77-caa1380e95dc, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU, short-id: 2aa4fcbeaed2ad23}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🇩🇪***All¹", server: 77.83.245.171, port: 43816, type: vless, tls: true, packet-encoding: xudp, uuid: a893f940-8725-4b3e-8b77-caa1380e95dc, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU, short-id: 2aa4fcbeaed2ad23}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 86", server: 92.42.203.170, port: 5690, type: vless, tls: true, packet-encoding: xudp, uuid: a9c28cf3-1962-8824-1175-a69268a0e213, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 87", server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 75", server: 92.42.203.170, port: 5690, type: vless, tls: true, packet-encoding: xudp, uuid: a9c28cf3-1962-8824-1175-a69268a0e213, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 76", server: 104.16.2.90, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: Pulavpn11.afrcloud22.mmv.kr, network: ws, ws-opts: {path: /43.218.77.16, headers: {Host: Pulavpn11.afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🇩🇪***All²", server: glob.thisiswe.uno, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aab1a536-7a2c-4357-a0e0-8cdde41845c6, servername: nobitex.sylu.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: nobitex.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 88", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 89", server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 90", server: 3.64.211.185, port: 32016, type: vless, tls: true, packet-encoding: xudp, uuid: af07a5ea-e637-41bd-f88f-bc4493b645a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 91", server: xboxgame-dl.com, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: af338e79-8259-4662-a0ff-db6df2414501, servername: xboxgame-dl.com, host: xboxgame-dl.com, path: /, reality-opts: {public-key: J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E, short-id: 8d4981fb6742b104}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 92", server: 162.159.48.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 93", server: 162.159.51.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 94", server: 162.159.8.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 95", server: 172.64.159.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 96", server: 172.64.97.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 77", server: 104.16.80.144, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 78", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 13", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 79", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 80", server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 81", server: xboxgame-dl.com, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: af338e79-8259-4662-a0ff-db6df2414501, servername: xboxgame-dl.com, host: xboxgame-dl.com, path: /, reality-opts: {public-key: J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E, short-id: 8d4981fb6742b104}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 82", server: 162.159.48.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 83", server: 162.159.51.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 84", server: 162.159.8.69, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 85", server: 172.64.159.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 86", server: 172.64.97.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 14", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 97", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 98", server: 82.146.63.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b0296751-2953-44f2-b550-5b369cf5c40a, servername: fast.fasssst.online, host: fast.fasssst.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xkg1al8427LIPxqkzf9w1KVB0OYITN7XneAIvnX0Bio, short-id: 2148df5d34}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 99", server: 18.197.68.115, port: 32127, type: vless, tls: true, packet-encoding: xudp, uuid: b13770a6-29e5-45fd-d5fd-53837a41380c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 15", server: 3.72.60.141, port: 48686, type: vless, tls: true, packet-encoding: xudp, uuid: b1f221a1-8f01-4a81-befc-69874ebe70e0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 100", server: vip-82.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: b33c513c-9869-4147-9933-99f39271b824, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 101", server: 87.228.101.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 4a3ad88ff867a295}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 102", server: 45.66.163.75, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b58583bb-7b63-4a92-a1c2-728cb33d3750, servername: msn.com, host: msn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 103", server: 81.12.91.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: baac1234-ad18-49db-8c5a-7c57aa0e981f, servername: www.git-scm.com, host: www.git-scm.com, path: /, reality-opts: {public-key: U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM, short-id: e081d94bd1f9bd56}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 104", server: 92.61.70.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bb0f3b3d-a3d1-429a-9b75-263bd9200b6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0, short-id: 9e0d1218f82e3630}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 87", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 88", server: 87.228.101.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 4a3ad88ff867a295}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 89", server: 45.66.163.75, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b58583bb-7b63-4a92-a1c2-728cb33d3750, servername: msn.com, host: msn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 90", server: 81.12.91.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: baac1234-ad18-49db-8c5a-7c57aa0e981f, servername: www.git-scm.com, host: www.git-scm.com, path: /, reality-opts: {public-key: U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM, short-id: e081d94bd1f9bd56}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 91", server: 92.61.70.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bb0f3b3d-a3d1-429a-9b75-263bd9200b6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0, short-id: 9e0d1218f82e3630}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.61.70.38:443, server: 92.61.70.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bb0f3b3d-a3d1-429a-9b75-263bd9200b6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0, short-id: 9e0d1218f82e3630@meliproxyy}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 16", server: 64.188.104.168, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 105", server: 18.192.49.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c21ba381-5808-4098-b94d-86c468a683d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 106", server: 3.64.193.9, port: 58366, type: vless, tls: true, packet-encoding: xudp, uuid: c43f0850-9ef2-4af9-c903-871e31788758, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 107", server: c8f7b1ab85189cf5.first.sapienza-mahan.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4baefee-fc4c-42ed-b19c-5d5f7dad36ba, servername: harro-likeh1.sdcards1.ir, network: ws, ws-opts: {path: /, headers: {Host: harro-likeh1.sdcards1.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 108", server: 94.184.13.2, port: 5369, type: vless, tls: true, packet-encoding: xudp, uuid: c63f2a64-23f1-4273-9a0b-bd5953dae616, servername: refersion.com, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 109", server: 188.114.97.3, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 110", server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c8091326-4fe1-4d77-a3ec-c92bd6683f0d, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 111", server: firan.dtgoldservices.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c8acb46c-b441-41a4-839f-9aa8b191b769, servername: firan.dtgoldservices.com, host: firan.dtgoldservices.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 112", server: 18.196.0.111, port: 49732, type: vless, tls: true, packet-encoding: xudp, uuid: c90beaad-6def-4346-daa6-b54050816922, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 113", server: 130.193.59.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c915a857-a088-4292-b182-25cb30507275, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 114", server: 45.13.119.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: fran.scroogethebest.com, host: fran.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 115", server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 116", server: 85.133.161.168, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cf00eb1a-a0b3-4e48-b917-0578f2f9566f, network: ws, ws-opts: {path: /v1/stream/trk, headers: {Host: anten.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 117", server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 118", server: vb04.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 17", server: vb27.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 119", server: 104.19.42.190, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d654ecf6-bef4-4088-81a9-d12e04da0236, servername: qa1.xiaotiyan.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: qa1.xiaotiyan.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 120", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 18", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 19", server: jafarturkvpn.toxicts.ir, port: 1009, type: vless, tls: true, packet-encoding: xudp, uuid: db6447b5-e7ca-4805-91f3-729246887f54, host: jafarturkvpn.toxicts.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 121", server: 3.70.52.26, port: 27369, type: vless, tls: true, packet-encoding: xudp, uuid: dd99ecde-81e0-4b42-ea94-4923fee6b57c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 122", server: 141.101.121.115, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 123", server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 124", server: 162.159.152.225, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e91bff38-7a13-44ab-9c43-4a476add78d0, servername: ger2.nilmmd.shop, network: ws, ws-opts: {path: /, headers: {Host: ger2.nilmmd.shop}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 125", server: 163.172.29.106, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ea6b03ef-8356-4a8c-abe4-eade7a4806e4, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 15", server: 64.188.104.168, port: 40721, type: vless, tls: true, packet-encoding: xudp, uuid: bf3e8944-8d26-47de-8748-b9aa74cce974, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk, short-id: df8611c07d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 92", server: 18.192.49.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c21ba381-5808-4098-b94d-86c468a683d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 93", server: 3.64.193.9, port: 58366, type: vless, tls: true, packet-encoding: xudp, uuid: c43f0850-9ef2-4af9-c903-871e31788758, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 94", server: c8f7b1ab85189cf5.first.sapienza-mahan.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4baefee-fc4c-42ed-b19c-5d5f7dad36ba, servername: harro-likeh1.sdcards1.ir, network: ws, ws-opts: {path: /, headers: {Host: harro-likeh1.sdcards1.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 95", server: 94.184.13.2, port: 5369, type: vless, tls: true, packet-encoding: xudp, uuid: c63f2a64-23f1-4273-9a0b-bd5953dae616, servername: refersion.com, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 96", server: 188.114.97.3, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 97", server: 130.193.59.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c915a857-a088-4292-b182-25cb30507275, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 98", server: 45.13.119.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: fran.scroogethebest.com, host: fran.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 99", server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 100", server: 85.133.161.168, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cf00eb1a-a0b3-4e48-b917-0578f2f9566f, network: ws, ws-opts: {path: /v1/stream/trk, headers: {Host: anten.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 101", server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 102", server: almas4.alireza031.shop, port: 44873, type: vless, tls: true, packet-encoding: xudp, uuid: d1df455e-55e1-43a0-a3de-78efdb79a212, network: ws, ws-opts: {path: /ALMAS4#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night, headers: {Host: D2R57.divarcdn.com%2C0ziwu.snappfood.ir%2CBXTLd.yjc.ir%2C1QjBQ.digikala.com%2C7fYt7.tic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 103", server: vb04.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 104", server: 104.19.42.190, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d654ecf6-bef4-4088-81a9-d12e04da0236, servername: qa1.xiaotiyan.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: qa1.xiaotiyan.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 16", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 17", server: jafarturkvpn.toxicts.ir, port: 1009, type: vless, tls: true, packet-encoding: xudp, uuid: db6447b5-e7ca-4805-91f3-729246887f54, host: jafarturkvpn.toxicts.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 18", server: mp.kharazmi.top, port: 3890, type: vless, tls: true, packet-encoding: xudp, uuid: ddd76bd7-6fce-4654-94da-5d75f1ed5690, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 105", server: 141.101.121.115, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 106", server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 107", server: 162.159.152.225, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e91bff38-7a13-44ab-9c43-4a476add78d0, servername: ger2.nilmmd.shop, network: ws, ws-opts: {path: /, headers: {Host: ger2.nilmmd.shop}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 108", server: 163.172.29.106, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ea6b03ef-8356-4a8c-abe4-eade7a4806e4, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.46.200:443, server: 152.53.46.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d@meliproxyy}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 126", server: 193.46.81.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 127", server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 128", server: de.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 129", server: s1.eldoradu.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: eb851d15-afc1-40ee-abb7-793772853f6a, servername: kcx4.sellink.ir, network: ws, ws-opts: {path: /, headers: {Host: kcx4.sellink.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 130", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 131", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 132", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 133", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 134", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 135", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 136", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 137", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 138", server: nekopingbot.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 139", server: 18.199.94.219, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 140", server: 18.199.94.219, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 141", server: 3.122.94.225, port: 44657, type: vless, tls: true, packet-encoding: xudp, uuid: f02e7479-cbc7-475f-ee6a-ee1cd20c5628, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 142", server: 103.231.75.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f078abea-a480-44c7-a785-4436c767835a, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U, short-id: 0bce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 143", server: germ2.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 144", server: ndrl.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 145", server: 89.44.240.116, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: f5625566-9b18-44ed-8837-ddcba63fb6d6, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 146", server: ov-france1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 147", server: 18.159.108.197, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 148", server: animallzoo-love-zoo-nect.giggoopanel.ir, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: fc4ec719-ce0a-3729-9d6f-ea5478e2765c, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 149", server: 3.76.223.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 150", server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 151", server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 152", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 153", server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy-v4cr5cx3", server: 82.152.98.88, port: 2086, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy-s6urqkut", server: 82.152.98.198, port: 2086, type: vmess, uuid: 5da10a90-dd83-4300-bb9c-ad50765fa8e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: afcgy9oo, server: 87.120.219.124, port: 2086, type: vmess, uuid: e6a866ca-1756-44ed-9866-a9949f2bad38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 154", server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
+  - {name: "@meliproxyy 109", server: 193.46.81.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 110", server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 111", server: de.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 112", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 113", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 114", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 115", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 116", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 117", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 19", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 118", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 119", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 120", server: nekopingbot.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 121", server: 3.122.94.225, port: 44657, type: vless, tls: true, packet-encoding: xudp, uuid: f02e7479-cbc7-475f-ee6a-ee1cd20c5628, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 122", server: 103.231.75.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f078abea-a480-44c7-a785-4436c767835a, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U, short-id: 0bce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 123", server: germ2.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 124", server: ndrl.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 125", server: ov-france1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 126", server: animallzoo-love-zoo-nect.giggoopanel.ir, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: fc4ec719-ce0a-3729-9d6f-ea5478e2765c, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 127", server: 219.79.98.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4, servername: www.icloud.com, host: www.icloud.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 128", server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 129", server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 130", server: 94.184.17.223, port: 200, type: vless, tls: true, packet-encoding: xudp, uuid: ff741be3-2e01-474d-955b-0370e3f29a3e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 131", server: 94.184.17.223, port: 400, type: vless, tls: true, packet-encoding: xudp, uuid: ff741be3-2e01-474d-955b-0370e3f29a3e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 132", server: 135.220.73.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-135220731-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-135220731-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 133", server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 134", server: 104.19.37.10, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /NASNET/cdn, headers: {Host: nasnet-571299667.rahavard365.co}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -669,30 +646,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -724,82 +701,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -809,18 +789,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -830,29 +807,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -861,30 +815,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -916,82 +870,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -1001,18 +958,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -1022,29 +976,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1053,30 +984,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -1108,82 +1039,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -1193,18 +1127,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -1214,29 +1145,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1254,30 +1162,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -1309,82 +1217,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -1394,18 +1305,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -1415,29 +1323,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1446,30 +1331,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -1501,82 +1386,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -1586,18 +1474,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -1607,29 +1492,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1638,30 +1500,30 @@ proxy-groups:
     proxies:
       - "@meliproxyy"
       - "@meliproxyy 2"
-      - "@meliproxyy`"
       - "@meliproxyy 3"
+      - "@meliproxyy`"
       - "@meliproxyy 4"
       - "@meliproxyy 5"
       - "@meliproxyy 6"
       - "@meliproxyy 7"
       - "@meliproxyy 8"
       - "@meliproxyy 9"
-      - "***🇩🇪***All⁵"
       - "@meliproxyy 10"
+      - "***🇩🇪***All⁵"
       - "@meliproxyy 11"
       - "@meliproxyy 12"
-      - "***🇩🇪***All⁶"
       - "@meliproxyy 13"
-      - "@meliproxyy` 2"
+      - "***🇩🇪***All⁶"
       - "@meliproxyy 14"
+      - "@meliproxyy` 2"
       - "@meliproxyy 15"
-      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 16"
+      - "***🇩🇪***All⁵ 2"
       - "@meliproxyy 17"
       - "@meliproxyy 18"
       - "@meliproxyy 19"
-      - "@meliproxyy` 3"
       - "@meliproxyy 20"
+      - "@meliproxyy` 3"
       - "@meliproxyy 21"
       - "@meliproxyy 22"
       - "@meliproxyy 23"
@@ -1693,82 +1555,85 @@ proxy-groups:
       - "@meliproxyy 47"
       - "@meliproxyy 48"
       - "@meliproxyy 49"
+      - "@meliproxyy` 5"
+      - "@meliproxyy` 6"
       - "@meliproxyy 50"
       - "@meliproxyy 51"
+      - "@meliproxyy` 7"
       - "@meliproxyy 52"
       - "@meliproxyy 53"
-      - "@meliproxyy` 5"
       - "@meliproxyy 54"
-      - "@meliproxyy` 6"
-      - "@meliproxyy` 7"
       - "@meliproxyy 55"
       - "@meliproxyy 56"
       - "@meliproxyy 57"
-      - "@meliproxyy` 8"
       - "@meliproxyy 58"
       - "@meliproxyy 59"
       - "@meliproxyy 60"
       - "@meliproxyy 61"
       - "@meliproxyy 62"
+      - "@meliproxyy` 8"
       - "@meliproxyy 63"
       - "@meliproxyy 64"
       - "@meliproxyy 65"
+      - "@meliproxyy` 9"
       - "@meliproxyy 66"
       - "@meliproxyy 67"
       - "@meliproxyy 68"
       - "@meliproxyy 69"
-      - "@meliproxyy` 9"
       - "@meliproxyy 70"
       - "@meliproxyy 71"
       - "@meliproxyy 72"
-      - "@meliproxyy 73"
-      - "@meliproxyy 74"
+      - 91.99.8.3:2083
       - "@meliproxyy` 10"
+      - "@meliproxyy 73"
+      - "***🇩🇪***All³"
+      - "@meliproxyy` 11"
+      - "@meliproxyy 74"
+      - "@meliproxyy` 12"
+      - "***🇩🇪***All¹"
       - "@meliproxyy 75"
       - "@meliproxyy 76"
+      - "***🇩🇪***All²"
       - "@meliproxyy 77"
       - "@meliproxyy 78"
+      - "@meliproxyy` 13"
       - "@meliproxyy 79"
       - "@meliproxyy 80"
       - "@meliproxyy 81"
       - "@meliproxyy 82"
       - "@meliproxyy 83"
-      - 91.99.8.3:2083
-      - "@meliproxyy` 11"
-      - "***🇩🇪***All³"
       - "@meliproxyy 84"
-      - "@meliproxyy` 12"
       - "@meliproxyy 85"
-      - "@meliproxyy` 13"
-      - "***🇩🇪***All¹"
       - "@meliproxyy 86"
+      - "@meliproxyy` 14"
       - "@meliproxyy 87"
-      - "***🇩🇪***All²"
       - "@meliproxyy 88"
       - "@meliproxyy 89"
       - "@meliproxyy 90"
       - "@meliproxyy 91"
+      - 92.61.70.38:443
+      - "@meliproxyy` 15"
       - "@meliproxyy 92"
       - "@meliproxyy 93"
       - "@meliproxyy 94"
       - "@meliproxyy 95"
       - "@meliproxyy 96"
-      - "@meliproxyy` 14"
       - "@meliproxyy 97"
       - "@meliproxyy 98"
       - "@meliproxyy 99"
-      - "@meliproxyy` 15"
       - "@meliproxyy 100"
       - "@meliproxyy 101"
       - "@meliproxyy 102"
       - "@meliproxyy 103"
       - "@meliproxyy 104"
-      - 92.61.70.38:443
       - "@meliproxyy` 16"
+      - "@meliproxyy` 17"
+      - "@meliproxyy` 18"
       - "@meliproxyy 105"
       - "@meliproxyy 106"
       - "@meliproxyy 107"
       - "@meliproxyy 108"
+      - 152.53.46.200:443
       - "@meliproxyy 109"
       - "@meliproxyy 110"
       - "@meliproxyy 111"
@@ -1778,18 +1643,15 @@ proxy-groups:
       - "@meliproxyy 115"
       - "@meliproxyy 116"
       - "@meliproxyy 117"
+      - "@meliproxyy` 19"
       - "@meliproxyy 118"
-      - "@meliproxyy` 17"
       - "@meliproxyy 119"
       - "@meliproxyy 120"
-      - "@meliproxyy` 18"
-      - "@meliproxyy` 19"
       - "@meliproxyy 121"
       - "@meliproxyy 122"
       - "@meliproxyy 123"
       - "@meliproxyy 124"
       - "@meliproxyy 125"
-      - 152.53.46.200:443
       - "@meliproxyy 126"
       - "@meliproxyy 127"
       - "@meliproxyy 128"
@@ -1799,29 +1661,6 @@ proxy-groups:
       - "@meliproxyy 132"
       - "@meliproxyy 133"
       - "@meliproxyy 134"
-      - "@meliproxyy 135"
-      - "@meliproxyy 136"
-      - "@meliproxyy 137"
-      - "@meliproxyy 138"
-      - "@meliproxyy 139"
-      - "@meliproxyy 140"
-      - "@meliproxyy 141"
-      - "@meliproxyy 142"
-      - "@meliproxyy 143"
-      - "@meliproxyy 144"
-      - "@meliproxyy 145"
-      - "@meliproxyy 146"
-      - "@meliproxyy 147"
-      - "@meliproxyy 148"
-      - "@meliproxyy 149"
-      - "@meliproxyy 150"
-      - "@meliproxyy 151"
-      - "@meliproxyy 152"
-      - "@meliproxyy 153"
-      - "@meliproxyy-v4cr5cx3"
-      - "@meliproxyy-s6urqkut"
-      - afcgy9oo
-      - "@meliproxyy 154"
   - name: دانلود منیجر 📥
     type: select
     proxies:

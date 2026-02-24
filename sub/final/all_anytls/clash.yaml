@@ -465,7 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: any@oneclickvpnkeys`, server: us1.anliangjifei.top, port: 12053, type: anytls, password: ae74dd32-c336-4be4-9c15-f6108292b3e5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64@oneclickvpnkeys, server: 45.221.98.14, port: 59901, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 62@oneclickvpnkeys, server: tw.399403.xyz, port: 8443, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - any@oneclickvpnkeys`
+      - 64@oneclickvpnkeys
+      - 62@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -468,10 +468,8 @@ proxies:
   - {name: ⚡, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: The, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: United, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: "@iphone02016vpn بریتانیا`", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "@iphone02016vpn`", server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 2", server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@iphone02016vpn هلند`", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 3", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 4", server: 185.18.250.252, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: "@iphone02016vpn` 5", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
@@ -483,7 +481,6 @@ proxies:
   - {name: "@iphone02016vpn` 6", server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 2, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇨🇦 Canada 2, server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @iphone02016vpn us`, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 3, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig", path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -510,10 +507,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -525,7 +520,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"
@@ -542,10 +536,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -557,7 +549,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"
@@ -574,10 +565,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -589,7 +578,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"
@@ -615,10 +603,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -630,7 +616,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"
@@ -647,10 +632,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -662,7 +645,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"
@@ -679,10 +661,8 @@ proxy-groups:
       - ⚡
       - The
       - United
-      - "@iphone02016vpn بریتانیا`"
       - "@iphone02016vpn`"
       - "@iphone02016vpn` 2"
-      - "@iphone02016vpn هلند`"
       - "@iphone02016vpn` 3"
       - "@iphone02016vpn` 4"
       - "@iphone02016vpn` 5"
@@ -694,7 +674,6 @@ proxy-groups:
       - "@iphone02016vpn` 6"
       - United 2
       - 🇨🇦 Canada 2
-      - 🇺🇸 @iphone02016vpn us`
       - United 3
       - "%***🆔*** 2"
       - "%***🆔*** 3"

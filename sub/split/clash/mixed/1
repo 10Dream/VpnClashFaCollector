@@ -467,8 +467,8 @@ rule-providers:
 proxies:
   - {name: 95@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 98@oneclickvpnkeys, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.132.51.160:844 2, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sss.ikun6.dpdns.org:27995, server: sss.ikun6.dpdns.org, port: 27995, type: hysteria2, ports: 27995, password: 1y4HweESOT, sni: azure.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, sni: www.refersion.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -489,8 +489,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: خودکار (بهترین پینگ) 🤖
@@ -501,8 +501,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -513,8 +513,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: اتصال پایدار 🔗
@@ -534,8 +534,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: توزیع بار (گردشی) 🔁
@@ -546,8 +546,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: توزیع بار (موقت) ⏳
@@ -558,8 +558,8 @@ proxy-groups:
     proxies:
       - 95@oneclickvpnkeys
       - 98@oneclickvpnkeys
+      - sss.ikun6.dpdns.org:27995
       - 91.132.51.160:844
-      - 91.132.51.160:844 2
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
   - name: دانلود منیجر 📥

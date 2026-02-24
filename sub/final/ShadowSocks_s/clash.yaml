@@ -465,13 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: https://t.me/ConfigX2ray, server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: Ow8iSExQNaobZPY9bJ4EPI, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray`, server: 20.90.250.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray 2, server: 89.110.70.175, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: gOR0l6osnBlm4r_bmk9bOw, udp: true, tfo: false}
   - {name: NetAccount`, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: NetAccount` 2, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: تلگرام ‎@Confixio 🔴4`, server: 193.58.119.134, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8451143f-2778-4c9e-f669-391bae9dadbb, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount, server: 146.190.227.252, port: 42855, type: vless, tls: true, packet-encoding: xudp, uuid: 95a90af3-5729-4308-9465-8147cc97621f, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 4, server: 62.182.196.134, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 5, server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -493,13 +489,9 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
@@ -511,13 +503,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
@@ -529,13 +517,9 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
@@ -556,13 +540,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
@@ -574,13 +554,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
@@ -592,13 +568,9 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - https://t.me/ConfigX2ray 2
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - تلگرام ‎@Confixio 🔴4`
       - NetAccount
       - NetAccount` 4
       - NetAccount` 5
