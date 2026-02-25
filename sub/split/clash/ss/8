@@ -465,11 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: 137.184.174.93:8080, server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 104.21.55.47, port: 2087, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 149.248.62.163, port: 9131, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: 193.151.158.112:9000, server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹⁰⁵』, server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 77.83.245.171, port: 43816, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 91.198.110.37, port: 36089, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: vip-79.f-sub.cfd:1517, server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: ⚡️ | @configraygan『🇩🇪¹¹⁰』, server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: 107.155.57.51:8080, server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -488,9 +496,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -499,9 +515,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -510,9 +534,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -530,9 +562,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -541,9 +581,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -552,9 +600,17 @@ proxy-groups:
     proxies:
       - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
+      - 193.151.158.112:9000
+      - ⚡️ | @configraygan『🇩🇪¹⁰⁵』
       - "***✅***@AR14N24b 3"
-      - 137.184.174.93:8080
       - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
+      - vip-79.f-sub.cfd:1517
+      - ⚡️ | @configraygan『🇩🇪¹¹⁰』
+      - "***✅***@AR14N24b 6"
+      - 107.155.57.51:8080
+      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 8"
   - name: دانلود منیجر 📥
     type: select
     proxies:

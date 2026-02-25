@@ -467,15 +467,17 @@ rule-providers:
 proxies:
   - {name: "| null | 99999ms | 🥾64@oneclickvpnkeys", server: 45.221.98.14, port: 59901, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🥾62@oneclickvpnkeys", server: tw.399403.xyz, port: 8443, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🥾65@oneclickvpnkeys", server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🥾59@oneclickvpnkeys`", server: 160.16.143.152, port: 443, type: hysteria2, ports: 443, password: 4E8F0CEC-DF1E-4876-8897-56B7CED64D05, obfs: salamander, obfs-password: 2g7feub2, sni: ops-tyo.dexlos.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🥾61@oneclickvpnkeys", server: 160.16.208.122, port: 443, type: hysteria2, ports: 443, password: 4E8F0CEC-DF1E-4876-8897-56B7CED64D05, obfs: salamander, obfs-password: 2g7feub2, sni: ops-tyo.dexlos.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🥾60@oneclickvpnkeys", server: 160.16.104.77, port: 443, type: hysteria2, ports: 443, password: 81206489-BD9D-4916-B1F4-D1554689EEA5, obfs: salamander, obfs-password: 2g7feub2, sni: ops-tyo.dexlos.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🥎60@oneclickvpnkeys", server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys, server: 43.153.7.213, port: 8443, type: hysteria2, ports: 8443, password: dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 💫 @PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms |", server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys, server: 43.153.7.213, port: 8443, type: hysteria2, ports: 8443, password: dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065, sni: bing.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 808ms |", server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 659ms |, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام), server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 138ms |, server: 43.153.7.213, port: 8443, type: hysteria2, ports: 8443, password: dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -494,15 +496,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -511,15 +515,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -528,15 +534,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -554,15 +562,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -571,15 +581,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -588,15 +600,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | 🥾64@oneclickvpnkeys"
       - "| null | 99999ms | 🥾62@oneclickvpnkeys"
-      - "| null | 99999ms | 🥾65@oneclickvpnkeys"
+      - 🇺🇸 | US | 131ms | 🥾65@oneclickvpnkeys
       - "| null | 99999ms | 🥾59@oneclickvpnkeys`"
       - "| null | 99999ms | 🥾61@oneclickvpnkeys"
       - "| null | 99999ms | 🥾60@oneclickvpnkeys"
       - "| null | 99999ms | 🥎60@oneclickvpnkeys"
-      - 🇺🇸 | US | 291ms | 🥾66@oneclickvpnkeys
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - 🇺🇸 | US | 93ms | 🥾66@oneclickvpnkeys
+      - "| TR | 808ms |"
       - "| null | 99999ms |"
+      - 🇳🇱 | NL | 659ms |
+      - 🇩🇪 | DE | 847ms | 💫 @PewezaVPN (تلگرام)
+      - 🇺🇸 | US | 138ms |
   - name: دانلود منیجر 📥
     type: select
     proxies:

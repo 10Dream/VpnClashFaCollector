@@ -465,8 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 104.21.55.47, port: 2087, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 149.248.62.163, port: 9131, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』", server: 193.151.158.112, port: 9000, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 77.83.245.171, port: 43816, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: 91.198.110.37, port: 36089, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』", server: vip-79.f-sub.cfd, port: 1517, type: ss, cipher: "null", password: "null", udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 8", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,6 +496,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -493,6 +515,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -501,6 +534,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -518,6 +562,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -526,6 +581,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -534,6 +600,17 @@ proxy-groups:
     proxies:
       - "| null | 99999ms | ***✅***@AR14N24b"
       - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁰⁵』"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹¹⁰』"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 8"
   - name: دانلود منیجر 📥
     type: select
     proxies:

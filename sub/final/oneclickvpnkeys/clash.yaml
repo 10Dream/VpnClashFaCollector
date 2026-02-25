@@ -476,40 +476,26 @@ proxies:
   - {name: 22@oneclickvpnkeys, server: 141.193.213.199, port: 443, type: trojan, password: 557a788e-4d35-448b-8eba-4b844be87b14, sni: ukmp1pz6n5doe90u.tkgogocsgo.top, skip-cert-verify: false, network: ws, ws-opts: {path: /images, headers: {Host: ukmp1pz6n5doe90u.tkgogocsgo.top}}, udp: true, tfo: false}
   - {name: 26@oneclickvpnkeys, server: 23.227.38.43, port: 443, type: trojan, password: 557a788e-4d35-448b-8eba-4b844be87b14, sni: ukmp1pz6n5doe90u.tkgogocsgo.top, skip-cert-verify: false, network: ws, ws-opts: {path: /images, headers: {Host: ukmp1pz6n5doe90u.tkgogocsgo.top}}, udp: true, tfo: false}
   - {name: ⭐23@oneclickvpnkeys, server: sdfgtyu.0h0.ccwu.cc, port: 443, type: trojan, password: 9e308743-bc58-4109-b8a8-c2c686959c65, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 33@oneclickvpnkeys, server: mfyousheng.nl.eu.org, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: 78@oneclickvpnkeys, server: hl-freedom-2.undef.network, port: 443, type: trojan, password: Tn2Bf0iRwJkJQgDk6gX6x81RB, sni: hl-freedom-2.undef.network, skip-cert-verify: false, network: ws, ws-opts: {path: /f2fc2a1f, headers: {Host: hl-freedom-2.undef.network}}, udp: true, tfo: false}
-  - {name: ⭐62@oneclickvpnkeys, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: ⭐93@oneclickvpnkeys`, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: ⭐61@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 66@oneclickvpnkeys`, server: 172.64.155.209, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 30@oneclickvpnkeys, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15@oneclickvpnkeys, server: 143.20.37.17, port: 20000, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1@oneclickvpnkeys, server: 143.20.37.17, port: 50000, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4@oneclickvpnkeys, server: 37.114.48.20, port: 43697, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 16@oneclickvpnkeys, server: 37.114.48.20, port: 61000, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐91@oneclickvpnkeys, server: 159.69.162.184, port: 43233, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐85@oneclickvpnkeys, server: 159.69.162.184, port: 43393, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 42@oneclickvpnkeys, server: dll3maghz3.chooktashakorabi.com, port: 41019, type: vless, tls: true, packet-encoding: xudp, uuid: 000f318f-d045-4262-af1d-383c43443e8a, host: dll3maghz3.chooktashakorabi.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64@oneclickvpnkeys 2, server: 198.105.123.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐2@oneclickvpnkeys, server: 95.128.157.249, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐40@oneclickvpnkeys, server: fr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐69@oneclickvpnkeys, server: 193.233.231.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐77@oneclickvpnkeys, server: 83.147.255.191, port: 448, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐71@oneclickvpnkeys`, server: 83.166.255.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: api-maps.yandex.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys 2, server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0518234d-4953-5a33-ab33-ea81f5a884e0, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys, server: 51.44.96.183, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐81@oneclickvpnkeys, server: 51.250.13.191, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 05a819d6-f2bd-4cc2-b707-4b79f66a810a, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: CP0ZyiYDnBUn-q9LOsFxPPviqfdeXMNeGaFak9ApEUU, short-id: b72523ab}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43@oneclickvpnkeys, server: 178.17.59.73, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 423bccc9c13fb509}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐13@oneclickvpnkeys, server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐46@oneclickvpnkeys, server: 89.106.89.112, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys, server: 45.141.234.196, port: 51472, type: vless, tls: true, packet-encoding: xudp, uuid: 0c49f1d8-3d34-473b-bebf-9d9a4811db62, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI, short-id: ab4398ec00fc775d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104@oneclickvpnkeys, server: g.sandesh.qzz.io, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1027b850-de79-4a94-b337-eccdac28e141, servername: g.sandesh.qzz.io, network: ws, ws-opts: {path: /vless, headers: {Host: g.sandesh.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 27@oneclickvpnkeys, server: telegram.vpnazadie.store, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 128a854c-13ab-472e-b418-139869e82df6, network: ws, ws-opts: {path: /vless-ntls, headers: {Host: vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46@oneclickvpnkeys, server: 94.131.104.225, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐58@oneclickvpnkeys, server: 94.131.104.229, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐60@oneclickvpnkeys, server: riga-node.genadata.online, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐38@oneclickvpnkeys, server: 72.56.105.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1500c3af-f77f-4074-88e3-5711580c165d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: XULYONRrHQh6bKl_xUdm-N10rA7wtcpleyDGmTYI4XI, short-id: 3383}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐78@oneclickvpnkeys, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 59@oneclickvpnkeys, server: 157.173.127.233, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17a6e953-8fac-428c-b86c-8585722b0b52, servername: analytics.google.com, host: analytics.google.com, path: /, reality-opts: {public-key: MbTwpwMFXu8duJgVMb_jFpqEuopSWJW1FPH_D6fZAEM, short-id: 1f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐31@oneclickvpnkeys, server: 194.107.126.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51@oneclickvpnkeys, server: 194.107.126.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95@oneclickvpnkeys, server: 158.160.223.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 19121ef6-5849-468e-a997-2f763aa4f416, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 105@oneclickvpnkeys, server: 79.137.175.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 19121ef6-5849-468e-a997-2f763aa4f416, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -518,61 +504,49 @@ proxies:
   - {name: 47@oneclickvpnkeys, server: est01-vlr01.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 8453e5fd9af927}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 20@oneclickvpnkeys, server: ita01-vlr02.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 22@oneclickvpnkeys`, server: nl04-vlr01.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 86e999a2cdc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐56@oneclickvpnkeys, server: sktr.berkeart.ir, port: 19702, type: vless, tls: true, packet-encoding: xudp, uuid: 1f3b130d-7d29-45d1-b5aa-adc5cd94a885, servername: check-host.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 61@oneclickvpnkeys 2, server: sktr.berkeart.ir, port: 19702, type: vless, tls: true, packet-encoding: xudp, uuid: 1f3b130d-7d29-45d1-b5aa-adc5cd94a885, servername: check-host.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6@oneclickvpnkeys 2, server: 45.136.126.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203b0744-f943-4bba-a8d2-cab635467c46, servername: google.com, host: google.com, path: /, reality-opts: {public-key: _L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0, short-id: d020b2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54@oneclickvpnkeys, server: 188.132.183.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: 2gis.kz, host: 2gis.kz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81@oneclickvpnkeys, server: 188.132.183.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: 2gis.kz, host: 2gis.kz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys, server: 147.45.178.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 299ee660-0ad5-4366-9b34-f4bb51eb73ee, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8@oneclickvpnkeys, server: 147.45.178.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 299ee660-0ad5-4366-9b34-f4bb51eb73ee, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7@oneclickvpnkeys, server: 194.87.216.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 299ee660-0ad5-4366-9b34-f4bb51eb73ee, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40@oneclickvpnkeys, server: 217.154.38.156, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a8391ef-383c-4321-ac25-89b50973ab73, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w, short-id: 2e0f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐75@oneclickvpnkeys, server: 51.250.13.191, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ccc79ce-fc14-4c41-9886-fac51e585f23, servername: www.kinopoisk.ru, host: www.kinopoisk.ru, path: /, reality-opts: {public-key: PchHZmLIkC4jTpr4nIjDiRtFbCbubkTk7U-RyL0mi0w, short-id: 22a3708320}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 55@oneclickvpnkeys, server: 188.34.193.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 309fa273-6579-4cb2-9143-7cad50401eba, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY, short-id: 7cad5040}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 73@oneclickvpnkeys, server: 72.56.108.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38707963-acf6-4e72-8db6-94faba4b5844, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A, short-id: 3f8a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87@oneclickvpnkeys, server: 103.113.70.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b9ff760-6b22-467b-a54f-e25a82a40908, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: xbbOyx0nk3ch1TczCJvSg-km5ac0NM7MgRbFSLCMXyU, short-id: 8397}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐37@oneclickvpnkeys, server: 5.75.194.45, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c52be42-33b4-40e1-be1e-16b96f5af73f, network: ws, ws-opts: {path: /DarkTeam_VPN, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys, server: 108.162.194.176, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: 108.162.195.45, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7@oneclickvpnkeys 2, server: wolfb24.servers1mart.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f42b528-59ef-45f9-9ba3-6292ca46f909, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 86@oneclickvpnkeys, server: 178.154.224.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 41@oneclickvpnkeys`, server: 193.178.226.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: nl.denditop.site, host: nl.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐65@oneclickvpnkeys, server: 77.83.245.193, port: 11777, type: vless, tls: true, packet-encoding: xudp, uuid: 40a7f95c-f861-4f04-9a6e-55d624c7582c, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: Yx7qVnlZif4zOda3OjieAZm352SaGzy0bNT67xNKGxQ, short-id: a6f7168a7c3e2f77}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: 91.242.229.129, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 41095a25-f24f-4754-9d26-58d828cf9785, servername: nl18.fastlanehosting.ru, alpn: [h2%2Chttp%2F1.1], host: nl18.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐68@oneclickvpnkeys, server: 212.227.95.106, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 438f81f8-aa18-4261-820a-87ee42122d0e, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: XxphGtGbyJegOM0QIy65eyC8g3dzlKOMY0tWFBnTCWc, short-id: a0cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐45@oneclickvpnkeys, server: 51.158.206.80, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46@oneclickvpnkeys 2, server: 162.159.134.61, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4658bc5b-f644-466d-8a90-b8a3fa0faa78, network: ws, ws-opts: {path: /vless-ntls, headers: {Host: vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58@oneclickvpnkeys, server: 51.158.206.87, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐47@oneclickvpnkeys, server: 193.233.134.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bc7d558-1943-44de-bd82-56920bc9383e, servername: free.spectrum.vu, host: free.spectrum.vu, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qNyuqiky1x0VL88_KzItJpZNQ1DfkSPTBf5BBLJRrnA, short-id: 28b11f1e725a23ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 32@oneclickvpnkeys, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 14@oneclickvpnkeys, server: free2.spectrum.vu, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bc7d558-1943-44de-bd82-56920bc9383e, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, reality-opts: {public-key: 9Ow4bZxApNkRwAjQxyr_aZsBcJGc__jemUA7__BbZTE, short-id: ab1c1a11}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 96@oneclickvpnkeys, server: 85.239.59.149, port: 4312, type: vless, tls: true, packet-encoding: xudp, uuid: 4c3a2f39-dc52-4322-ac66-83010d12bfc0, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐50@oneclickvpnkeys, server: jeff.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 533ce090-76f8-49bb-bb55-8d516acf5116, servername: lhbmp.washington-wall.sbs, network: ws, ws-opts: {path: /true, headers: {Host: lhbmp.washington-wall.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐76@oneclickvpnkeys, server: 51.250.83.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53b2c46d-bc0a-4696-9d87-6bfa77a60d1f, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 33554379411b3219}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 39@oneclickvpnkeys, server: 104.19.53.153, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4ddc5541-4f74-4498-ad6e-7ed173af679c, servername: pg.anjue39.qzz.io, alpn: [h3], network: ws, ws-opts: {path: /, headers: {Host: pg.anjue39.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 21@oneclickvpnkeys, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92@oneclickvpnkeys, server: 178.154.253.80, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5787d9c1-d2cc-4171-a3c9-014bcd49c30b, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 101@oneclickvpnkeys, server: 37.139.33.15, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5787d9c1-d2cc-4171-a3c9-014bcd49c30b, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 97@oneclickvpnkeys, server: 37.139.33.15, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5787d9c1-d2cc-4171-a3c9-014bcd49c30b, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 8ba12e75110b7a9c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 90@oneclickvpnkeys, server: 89.169.128.105, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5787d9c1-d2cc-4171-a3c9-014bcd49c30b, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 8ba12e75110b7a9c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 26@oneclickvpnkeys 2, server: nl01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐86@oneclickvpnkeys, server: us01.bearvpn.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5797a04f-7636-46df-9354-fd74c2264a28, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91@oneclickvpnkeys, server: 198.62.62.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5a4abb78-ecd7-4d68-ab2a-c11a3842f261, servername: tar.alabama-tigr.info, network: ws, ws-opts: {path: /love, headers: {Host: tar.alabama-tigr.info}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐63@oneclickvpnkeys, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45@oneclickvpnkeys, server: 172.64.155.209, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐74@oneclickvpnkeys, server: 79.174.94.49, port: 14065, type: vless, tls: true, packet-encoding: xudp, uuid: 5eb1160d-e6e4-4918-942a-3e02dc4450d4, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 6_hMGHFRodRl4rUOlv0mJJBC-9en9gNpypLiNqBAuw0, short-id: 281902}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐92@oneclickvpnkeys, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐79@oneclickvpnkeys, server: 51.250.13.191, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d8b19b9-6d0c-4844-93d8-e1b87f72226b, servername: web.max.ru, host: web.max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0esXSTe5YLKpPWeLCiDvQlFwmxZ_pXeTxTdUDiW5_3g, short-id: 90a13f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57@oneclickvpnkeys, server: 92.60.78.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6897c181-24b1-4880-8660-e6c5c7ee13c7, servername: www.tradingview.com, host: www.tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY, short-id: 9917d2350096}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 57.129.133.88, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐42@oneclickvpnkeys, server: wolf2.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028, host: wolf2.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31@oneclickvpnkeys, server: 146.103.104.157, port: 51715, type: vless, tls: true, packet-encoding: xudp, uuid: 74afe148-0f1e-11f1-aacd-525400b8e428, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: oIzaj42OvbOicJzXkOKaPJkuA6vdwDWTkO63_PbfSHg, short-id: ccbfae725b5b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62@oneclickvpnkeys`, server: dd.openaccessnode.com, port: 5228, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: mtalk.google.com, host: mtalk.google.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐88@oneclickvpnkeys, server: 178.154.253.80, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7825f2d1-cdc2-4186-9ad5-377afa912104, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐87@oneclickvpnkeys`, server: 89.169.128.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7825f2d1-cdc2-4186-9ad5-377afa912104, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7zd9mJilgjOrg_ohtw23Vmio-pdnYqeP_r-kiWt87Cg, short-id: 2715592069f36fe7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 76@oneclickvpnkeys, server: lit.vpnspacev.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7affe6ed-3783-4570-b1c7-c8049a94bb9f, servername: vpnspacev.com, host: vpnspacev.com, path: /, reality-opts: {public-key: zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE, short-id: 1f9364}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 75@oneclickvpnkeys, server: 157.173.127.227, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7bda027c-cbc8-488f-864f-cfb415cd8d77, servername: analytics.google.com, host: analytics.google.com, path: /, reality-opts: {public-key: q70yFMTo4Dz6IWwVcL9icqgJPgyIuv3j3n5fZxym6kg, short-id: 40e3350da285}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35@oneclickvpnkeys, server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 56@oneclickvpnkeys, server: 185.227.149.123, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐64@oneclickvpnkeys, server: 93.115.25.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7c3f08c8-7b3b-4028-91d8-378a18c2b62a, servername: mycatcollection.com, host: mycatcollection.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 71@oneclickvpnkeys, server: 65.109.208.248, port: 21235, type: vless, tls: true, packet-encoding: xudp, uuid: 7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63@oneclickvpnkeys, server: 144.31.19.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 86c1486c-2eba-533c-b4a6-a551ae6ea479, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: aVQ6548j7g-y7RuZQknB40mb5oQCInKzxW1s1NM1t0M, short-id: ffffffffff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 16@oneclickvpnkeys 2, server: 45.149.115.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b648e4c-ac38-4809-951b-e1c8862b13d1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI, short-id: 96}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 49@oneclickvpnkeys, server: fi.connectv.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b70357d-b654-4a29-85de-e5fef1afefbd, servername: fi.connectv.net, host: fi.connectv.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85@oneclickvpnkeys, server: 45.82.251.115, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84@oneclickvpnkeys`, server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79@oneclickvpnkeys, server: 45.82.251.195, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -583,53 +557,49 @@ proxies:
   - {name: 100@oneclickvpnkeys, server: 158.160.105.121, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 92ef5d45-3008-4c70-929e-1000223a0ba9, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 1929ef620e9b34f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93@oneclickvpnkeys, server: 176.123.164.110, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 92ef5d45-3008-4c70-929e-1000223a0ba9, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Qddpg8luihgzgx4g4uMJklXzlrMCd8L1igJSWrRUvSc, short-id: 1929ef620e9b34f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4@oneclickvpnkeys 2, server: 62.133.60.50, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94a03e9a-74d5-4036-95e9-563cc19355de, servername: decdn12.suio.me, host: decdn12.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐44@oneclickvpnkeys, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 10@oneclickvpnkeys`, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37@oneclickvpnkeys, server: 193.233.231.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9754b2d7-7772-473e-93f7-a2dadd08782b, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15@oneclickvpnkeys 2, server: 104.16.139.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98aec3c3-d957-4363-9933-018e533c7c06, servername: uk.dlaparat.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: uk.dlaparat.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52@oneclickvpnkeys, server: 144.31.111.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a384c715-aeb5-45e8-859b-f687ca6c083f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ, short-id: 9f35da6c9412b832}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 17@oneclickvpnkeys, server: 5.180.97.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a384c715-aeb5-45e8-859b-f687ca6c083f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ, short-id: 9f35da6c9412b832}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐67@oneclickvpnkeys, server: 94.131.123.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a44e0875-210f-4941-9062-89b6361a14c6, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: i5a8i2AWUSMZ-rYA6hGBRCBBoe7W5ah33SCdF5JkMk4, short-id: 8bcfe256cf216fd8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18@oneclickvpnkeys, server: 185.162.11.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 29@oneclickvpnkeys, server: 62.204.42.162, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐54@oneclickvpnkeys, server: 45.248.37.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a92ff4a9-8e31-4b8b-88c7-7c99454e25b6, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: a3wxOmmJ95RHcuVYvxGusowLy8c6a4amlbS2OxMNTHc, short-id: 52ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐100@oneclickvpnkeys, server: 79.137.175.44, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aa33c2f4-46bc-4818-bf50-723a1e8d33d0, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐98@oneclickvpnkeys, server: 84.252.143.25, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aa33c2f4-46bc-4818-bf50-723a1e8d33d0, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐94@oneclickvpnkeys, server: 84.252.143.25, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aa33c2f4-46bc-4818-bf50-723a1e8d33d0, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg, short-id: 04bf0403f96e5b4b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐51@oneclickvpnkeys, server: glob.thisiswe.uno, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aab1a536-7a2c-4357-a0e0-8cdde41845c6, servername: nobitex.sylu.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: nobitex.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51@oneclickvpnkeys 2, server: 77.83.245.171, port: 43816, type: vless, tls: true, packet-encoding: xudp, uuid: a893f940-8725-4b3e-8b77-caa1380e95dc, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 2mpSbwY9np514lX_koLsYqF23ybAkdjZ_qNIA5qw7jU, short-id: 2aa4fcbeaed2ad23}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 34@oneclickvpnkeys, server: 45.130.125.198, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aab1a536-7a2c-4357-a0e0-8cdde41845c6, servername: nobitex.sylu.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: nobitex.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 27@oneclickvpnkeys 2, server: xboxgame-dl.com, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: af338e79-8259-4662-a0ff-db6df2414501, servername: xboxgame-dl.com, host: xboxgame-dl.com, path: /, reality-opts: {public-key: J6v3yhXsfUyoPDmw3Beq9YSxqlW2Ir_5PpULj1xQX2E, short-id: 8d4981fb6742b104}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐95@oneclickvpnkeys, server: 66.179.82.126, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b1267991-59ff-4b67-b141-97e3ced4e7c8, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs, short-id: 2f2a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐80@oneclickvpnkeys, server: 45.66.163.75, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b58583bb-7b63-4a92-a1c2-728cb33d3750, servername: msn.com, host: msn.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys, server: 45.15.125.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8, short-id: db49831a996244d8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐96@oneclickvpnkeys, server: 84.252.136.245, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bace8139-2adc-48ed-ace5-a2cc9720e31d, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐97@oneclickvpnkeys, server: 89.169.162.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bace8139-2adc-48ed-ace5-a2cc9720e31d, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: 205748bc0f24a747}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐99@oneclickvpnkeys, server: 89.169.162.214, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bace8139-2adc-48ed-ace5-a2cc9720e31d, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 48@oneclickvpnkeys, server: 92.61.70.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bb0f3b3d-a3d1-429a-9b75-263bd9200b6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0, short-id: 9e0d1218f82e3630}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 50@oneclickvpnkeys, server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: be016e95-d119-44d7-8a79-677740d5116d, servername: vpn.nnet.online, network: ws, ws-opts: {path: /vless-tls, headers: {Host: vpn.nnet.online}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys 2, server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: be016e95-d119-44d7-8a79-677740d5116d, servername: vpn.nnet.online, network: ws, ws-opts: {path: /vless-tls, headers: {Host: vpn.nnet.online}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐57@oneclickvpnkeys, server: 103.231.75.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4e055e5-c9dd-44ae-8daf-2f0f344dcbdb, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U, short-id: 0bce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 48@oneclickvpnkeys 2, server: 144.31.18.73, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 47@oneclickvpnkeys 2, server: 144.31.18.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35@oneclickvpnkeys 2, server: 144.31.232.228, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45@oneclickvpnkeys 2, server: 144.31.232.229, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 55@oneclickvpnkeys 2, server: 37.139.35.53, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: 8hdXyv-YBQIaA2xgOfT2nhfna5y5s19qbZD-SpMZ6hg, short-id: dd700a46e27751d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 56@oneclickvpnkeys 2, server: 37.139.35.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: sso.passport.yandex.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: oWi1Dm7iMdTGeh-BI8rwKcnIaqeG2zF874NrSpPEPlI, short-id: 77cf23bd7f73c97a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52@oneclickvpnkeys 2, server: 79.174.95.163, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: ads.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8@oneclickvpnkeys 2, server: de.appav.net, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 29@oneclickvpnkeys 2, server: fi.appav.online, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 41@oneclickvpnkeys, server: fi.appav.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 28@oneclickvpnkeys`, server: lt.appav.online, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: goya.rutube.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 31@oneclickvpnkeys 2, server: nl.appav.online, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18@oneclickvpnkeys 2, server: nl.appav.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐32@oneclickvpnkeys, server: 91.84.113.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c7ce12e1-3caf-4aa3-9ea2-ac294d3c1ac3, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: kjuk6kiPzQdy7aBA9-6RM2tJU2Ke2s_aN8pucLeOg3Q, short-id: 37da}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐59@oneclickvpnkeys`, server: 87.239.252.186, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c819f3b4-0c46-4ad3-8b6c-beef5215be4a, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uf64ptbhMNcLWuwEfOzQB7qgn725h6w9DmKRteQQPwg, short-id: 036861b20a94}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89@oneclickvpnkeys, server: 62.60.176.237, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: c88811ea-fead-4e2d-b34d-7d8725896304, network: ws, ws-opts: {path: Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-Telegramjoin:@V2Ray_Rolly-}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 50@oneclickvpnkeys, server: solitary-voice-62ec.alird7575.workers.dev, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c8dff83b-54f8-41b2-8829-7f6b01a9f187, network: ws, ws-opts: {path: /, headers: {Host: solitary-voice-62ec.alird7575.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐84@oneclickvpnkeys, server: 130.193.59.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c915a857-a088-4292-b182-25cb30507275, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 50@oneclickvpnkeys 2, server: solitary-voice-62ec.alird7575.workers.dev, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c8dff83b-54f8-41b2-8829-7f6b01a9f187, network: ws, ws-opts: {path: /, headers: {Host: solitary-voice-62ec.alird7575.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 60@oneclickvpnkeys 3, server: 137.184.218.169, port: 36925, type: vless, tls: true, packet-encoding: xudp, uuid: c9fd0fb1-8251-4106-b09a-f4b426736f67, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐15@oneclickvpnkeys, server: 62.141.42.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cc976b15-418b-4f0b-89ce-cd685ffbaf20, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc, short-id: 81}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 12@oneclickvpnkeys, server: deu469.unboundworld.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cc9f7840-757a-430b-bddc-a73478bea434, servername: www.t3n.de, host: www.t3n.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77@oneclickvpnkeys, server: 185.171.202.58, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: fran.scroogethebest.com, host: fran.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐66@oneclickvpnkeys, server: 45.13.119.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: fran.scroogethebest.com, host: fran.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐48@oneclickvpnkeys, server: 5.254.85.151, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐19@oneclickvpnkeys, server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3@oneclickvpnkeys 2, server: 143.20.37.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, servername: omni.rizing.app, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: jss}, reality-opts: {public-key: ETSpJ3bDQKKqN_iVmikA0ga_2rPobkV_OgEDgusQ3TI, short-id: 67f026556706}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103@oneclickvpnkeys, server: 84.252.136.245, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cf7e9fda-affd-4b2b-a002-c49222fa0ca8, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04, short-id: c6ef72e4635d15a5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐49@oneclickvpnkeys, server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 42@oneclickvpnkeys, server: 51.38.64.226, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37@oneclickvpnkeys, server: zyro.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, host: zyro.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 40@oneclickvpnkeys`, server: 93.185.165.50, port: 55211, type: vless, tls: true, packet-encoding: xudp, uuid: d14660cf-44f0-4b47-af50-dac98e19d46d, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5D6U_DRxkNF9I6Sa87j6jvHD_HvhZ9j53rAbZE8Y7lQ, short-id: 1885}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 42@oneclickvpnkeys 2, server: 51.38.64.226, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37@oneclickvpnkeys 2, server: zyro.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: d3b5fdf3-bdcb-4dec-b46b-c06b5d828f73, host: zyro.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 20@oneclickvpnkeys 2, server: 91.99.97.155, port: 4450, type: vless, tls: true, packet-encoding: xudp, uuid: d4158776-598f-471d-afac-0e70b75396df, servername: play.google.com, host: play.google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94@oneclickvpnkeys, server: 104.24.55.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d435363f-b221-428b-94d2-8d0db0113b60, servername: fancy-disk-fbb6.tmpesterouglas.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: fancy-disk-fbb6.tmpesterouglas.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐70@oneclickvpnkeys, server: logggg.nammknammknammknammknammkb2.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d4de1f64-bf3c-4d97-9663-0091f8c07359, servername: logggg.nammknammknammknammknammkb2.ir, host: logggg.nammknammknammknammknammkb2.ir, path: /, reality-opts: {public-key: RravQN06gzsNsm5ojEhZGrxBgLGEpqEThtHEltdjpBk, short-id: b3d76d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 39@oneclickvpnkeys, server: vb04.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 53@oneclickvpnkeys 2, server: 89.208.221.7, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d4d987db-ed6c-4e49-be3b-e84bbd3d0112, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 28Q4Bqx4332xw-HKOZ6ogd-2G6ijTvXbDIzilr3dXyk, short-id: 2733a7c750}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 39@oneclickvpnkeys 2, server: vb04.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 36@oneclickvpnkeys, server: 104.19.35.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d654ecf6-bef4-4088-81a9-d12e04da0236, servername: qa1.xiaotiyan.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: qa1.xiaotiyan.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 12@oneclickvpnkeys`, server: 104.19.42.190, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d654ecf6-bef4-4088-81a9-d12e04da0236, servername: qa1.xiaotiyan.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: qa1.xiaotiyan.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 44@oneclickvpnkeys, server: 8.39.125.170, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d654ecf6-bef4-4088-81a9-d12e04da0236, servername: qa1.xiaotiyan.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: qa1.xiaotiyan.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -637,52 +607,45 @@ proxies:
   - {name: 102@oneclickvpnkeys, server: ott.abhizzz.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d6aa725e-6092-4858-97f7-df3d14ce36bd, servername: ott.abhizzz.net, network: ws, ws-opts: {path: /vless, headers: {Host: ott.abhizzz.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82@oneclickvpnkeys, server: 130.193.59.133, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: df21eeae-7011-41d1-b8d0-b39ea5bcf8ac, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88@oneclickvpnkeys, server: 130.193.59.133, port: 51101, type: vless, tls: true, packet-encoding: xudp, uuid: df21eeae-7011-41d1-b8d0-b39ea5bcf8ac, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐53@oneclickvpnkeys, server: 45.144.52.222, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e01c27ad-aeb4-40cc-9288-5d0bd4419e11, servername: moktana.digital, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3@oneclickvpnkeys 3, server: 146.103.102.82, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: /getWorkerUpdates}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐73@oneclickvpnkeys, server: shop2.afraserver4.top, port: 7335, type: vless, tls: true, packet-encoding: xudp, uuid: e3432a7a-d3fb-4bfa-8f05-df9d5aea638d, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 59@oneclickvpnkeys` 2, server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: e332f028-d343-5b44-8016-b3130f39e133, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys, server: 138.124.186.202, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys 2, server: deu666.lackerdeu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2@oneclickvpnkeys 2, server: deu666.lackerdeu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7@oneclickvpnkeys 3, server: 1.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 49@oneclickvpnkeys, server: 3.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 38@oneclickvpnkeys 2, server: 2.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 49@oneclickvpnkeys 2, server: 3.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 43@oneclickvpnkeys 2, server: 4.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys 2, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐82@oneclickvpnkeys, server: 104.17.239.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh29v7.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐83@oneclickvpnkeys, server: 45.130.125.160, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e52d56bb-8376-408e-92d7-cdd896efd3c4, servername: jafarservices.jafarghasemiturk.ir, network: ws, ws-opts: {path: /ws, headers: {Host: jafarservices.jafarghasemiturk.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 30@oneclickvpnkeys 2, server: 141.101.121.115, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys 2, server: 162.159.36.5, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐33@oneclickvpnkeys, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐33@oneclickvpnkeys`, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 21@oneclickvpnkeys 2, server: 162.159.152.225, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e91bff38-7a13-44ab-9c43-4a476add78d0, servername: ger2.nilmmd.shop, network: ws, ws-opts: {path: /, headers: {Host: ger2.nilmmd.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13@oneclickvpnkeys 2, server: ipw2.ariahost1.top, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, servername: SmArT.wEsTyAlI.iNfO, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 54@oneclickvpnkeys, server: 152.53.66.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐72@oneclickvpnkeys, server: 193.46.81.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54@oneclickvpnkeys 2, server: 152.53.66.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 193.46.81.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐55@oneclickvpnkeys, server: de.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 58@oneclickvpnkeys 2, server: 188.132.183.233, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72@oneclickvpnkeys, server: 51.250.103.219, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: eh.vk.com, host: eh.vk.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 70@oneclickvpnkeys, server: 51.250.107.80, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: eh.vk.com, host: eh.vk.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 68@oneclickvpnkeys, server: finhub.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 32@oneclickvpnkeys, server: germ2.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 32@oneclickvpnkeys 2, server: germ2.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 25@oneclickvpnkeys 2, server: ndrl.vpnhub.shop, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 44@oneclickvpnkeys 2, server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1@oneclickvpnkeys 2, server: 45.66.163.125, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f3d114-a1a8-4bd1-a719-82433c9c9efe, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xnOaFzwkXEpemEfqc-KDke8-ZacdnK-OgsZ5Kh6HICE, short-id: 99e9f1405ab7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐36@oneclickvpnkeys, server: 185.156.72.124, port: 52042, type: vless, tls: true, packet-encoding: xudp, uuid: f557eadb-1715-4c0b-aaae-f9b9577d827d, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: Z23_1wSIy1CNUEB7YEJwPZzCEsMTmzTNGe_h5bzEMHY, short-id: 8e8dcb9a67bf43f1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 69@oneclickvpnkeys, server: 87.242.103.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f5a8e5fb-baa8-48cb-a62a-930c97c29eb2, servername: ya.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: 98aKRSTSW_8Fpd8e63HOuqLhnlGvZrTD5EBPTMy0tBc, short-id: 7dcd0c337708}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 34@oneclickvpnkeys, server: ov-france1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 33@oneclickvpnkeys, server: animallzoo-love-zoo-nect.giggoopanel.ir, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: fc4ec719-ce0a-3729-9d6f-ea5478e2765c, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 34@oneclickvpnkeys 2, server: ov-france1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f5c47e9c-914a-4a91-a81e-a5a77bc10fc1, network: ws, ws-opts: {path: /vless/, headers: {Host: ov-france1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 33@oneclickvpnkeys 2, server: animallzoo-love-zoo-nect.giggoopanel.ir, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: fc4ec719-ce0a-3729-9d6f-ea5478e2765c, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 74@oneclickvpnkeys, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 36@oneclickvpnkeys 2, server: 78.153.139.68, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4, short-id: 58c512b4422e2517}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 28@oneclickvpnkeys, server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys 2, server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐41@oneclickvpnkeys, server: 57.128.189.222, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
-  - {name: ⭐52@oneclickvpnkeys, server: 57.128.216.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
-  - {name: ⭐35@oneclickvpnkeys, server: 57.129.24.125, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
   - {name: ⭐30@oneclickvpnkeys, server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 57.129.25.20, network: ws, ws-opts: {path: linkvws, headers: {Host: 57.129.25.20}}, udp: true, tfo: false}
   - {name: ⭐5@oneclickvpnkeys, server: 57.129.25.23, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
   - {name: ⭐18@oneclickvpnkeys, server: 57.129.28.216, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}, udp: true, tfo: false}
   - {name: ⭐24@oneclickvpnkeys, server: 57.129.59.201, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: 9@oneclickvpnkeys, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⭐39@oneclickvpnkeys, server: 141.94.155.229, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
-  - {name: ⭐89@oneclickvpnkeys, server: 148.113.153.109, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
-  - {name: ⭐90@oneclickvpnkeys, server: 15.235.85.147, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
-  - {name: 57@oneclickvpnkeys, server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 57@oneclickvpnkeys 2, server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 98@oneclickvpnkeys, server: id2.wpairplane.com, port: 9000, type: vmess, uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -711,40 +674,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -753,61 +702,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -818,53 +755,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -872,52 +805,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -936,40 +862,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -978,61 +890,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -1043,53 +943,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -1097,52 +993,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -1161,40 +1050,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -1203,61 +1078,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -1268,53 +1131,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -1322,52 +1181,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
@@ -1395,40 +1247,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -1437,61 +1275,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -1502,53 +1328,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -1556,52 +1378,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -1620,40 +1435,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -1662,61 +1463,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -1727,53 +1516,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -1781,52 +1566,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1845,40 +1623,26 @@ proxy-groups:
       - 22@oneclickvpnkeys
       - 26@oneclickvpnkeys
       - ⭐23@oneclickvpnkeys
+      - 33@oneclickvpnkeys
       - 78@oneclickvpnkeys
-      - ⭐62@oneclickvpnkeys
-      - ⭐93@oneclickvpnkeys`
-      - ⭐61@oneclickvpnkeys
       - 66@oneclickvpnkeys`
       - 30@oneclickvpnkeys
       - 15@oneclickvpnkeys
       - 1@oneclickvpnkeys
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
-      - ⭐91@oneclickvpnkeys
-      - ⭐85@oneclickvpnkeys
+      - 42@oneclickvpnkeys
       - 64@oneclickvpnkeys 2
       - ⭐2@oneclickvpnkeys
-      - ⭐40@oneclickvpnkeys
-      - ⭐69@oneclickvpnkeys
-      - ⭐77@oneclickvpnkeys
-      - ⭐71@oneclickvpnkeys`
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
-      - ⭐81@oneclickvpnkeys
       - 43@oneclickvpnkeys
       - ⭐13@oneclickvpnkeys
-      - ⭐46@oneclickvpnkeys
       - 25@oneclickvpnkeys
       - 104@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 46@oneclickvpnkeys
-      - ⭐58@oneclickvpnkeys
-      - ⭐60@oneclickvpnkeys
-      - ⭐38@oneclickvpnkeys
-      - ⭐78@oneclickvpnkeys
       - 59@oneclickvpnkeys
-      - ⭐31@oneclickvpnkeys
       - 51@oneclickvpnkeys
       - 95@oneclickvpnkeys
       - 105@oneclickvpnkeys
@@ -1887,61 +1651,49 @@ proxy-groups:
       - 47@oneclickvpnkeys
       - 20@oneclickvpnkeys
       - 22@oneclickvpnkeys`
-      - ⭐56@oneclickvpnkeys
       - 61@oneclickvpnkeys 2
       - 6@oneclickvpnkeys 2
+      - 54@oneclickvpnkeys
       - 81@oneclickvpnkeys
       - 2@oneclickvpnkeys
       - 8@oneclickvpnkeys
       - 7@oneclickvpnkeys
       - 40@oneclickvpnkeys
-      - ⭐75@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - 73@oneclickvpnkeys
       - 87@oneclickvpnkeys
-      - ⭐37@oneclickvpnkeys
       - 24@oneclickvpnkeys
       - 38@oneclickvpnkeys
       - 7@oneclickvpnkeys 2
       - 86@oneclickvpnkeys
       - 41@oneclickvpnkeys`
-      - ⭐65@oneclickvpnkeys
       - 19@oneclickvpnkeys
-      - ⭐68@oneclickvpnkeys
-      - ⭐45@oneclickvpnkeys
+      - 46@oneclickvpnkeys 2
       - 58@oneclickvpnkeys
-      - ⭐47@oneclickvpnkeys
+      - 32@oneclickvpnkeys
       - 14@oneclickvpnkeys
       - 96@oneclickvpnkeys
-      - ⭐50@oneclickvpnkeys
-      - ⭐76@oneclickvpnkeys
+      - 39@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 92@oneclickvpnkeys
       - 101@oneclickvpnkeys
       - 97@oneclickvpnkeys
       - 90@oneclickvpnkeys
       - 26@oneclickvpnkeys 2
-      - ⭐86@oneclickvpnkeys
       - 91@oneclickvpnkeys
-      - ⭐63@oneclickvpnkeys
       - 45@oneclickvpnkeys
-      - ⭐74@oneclickvpnkeys
-      - ⭐92@oneclickvpnkeys
-      - ⭐79@oneclickvpnkeys
+      - 57@oneclickvpnkeys
       - 53@oneclickvpnkeys
-      - ⭐42@oneclickvpnkeys
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys`
-      - ⭐88@oneclickvpnkeys
-      - ⭐87@oneclickvpnkeys`
       - 76@oneclickvpnkeys
       - 75@oneclickvpnkeys
       - 35@oneclickvpnkeys
       - 56@oneclickvpnkeys
-      - ⭐64@oneclickvpnkeys
       - 71@oneclickvpnkeys
       - 63@oneclickvpnkeys
       - 16@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - 85@oneclickvpnkeys
       - 84@oneclickvpnkeys`
       - 79@oneclickvpnkeys
@@ -1952,53 +1704,49 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - 93@oneclickvpnkeys
       - 4@oneclickvpnkeys 2
-      - ⭐44@oneclickvpnkeys
       - 10@oneclickvpnkeys`
+      - 37@oneclickvpnkeys
       - 15@oneclickvpnkeys 2
       - 52@oneclickvpnkeys
       - 17@oneclickvpnkeys
-      - ⭐67@oneclickvpnkeys
       - 18@oneclickvpnkeys
       - 29@oneclickvpnkeys
-      - ⭐54@oneclickvpnkeys
-      - ⭐100@oneclickvpnkeys
-      - ⭐98@oneclickvpnkeys
-      - ⭐94@oneclickvpnkeys
-      - ⭐51@oneclickvpnkeys
+      - 51@oneclickvpnkeys 2
+      - 34@oneclickvpnkeys
       - 27@oneclickvpnkeys 2
-      - ⭐95@oneclickvpnkeys
-      - ⭐80@oneclickvpnkeys
       - 5@oneclickvpnkeys
-      - ⭐96@oneclickvpnkeys
-      - ⭐97@oneclickvpnkeys
-      - ⭐99@oneclickvpnkeys
       - 48@oneclickvpnkeys
+      - 50@oneclickvpnkeys
       - 24@oneclickvpnkeys 2
-      - ⭐57@oneclickvpnkeys
+      - 48@oneclickvpnkeys 2
+      - 47@oneclickvpnkeys 2
+      - 35@oneclickvpnkeys 2
+      - 45@oneclickvpnkeys 2
+      - 55@oneclickvpnkeys 2
+      - 56@oneclickvpnkeys 2
+      - 52@oneclickvpnkeys 2
       - 8@oneclickvpnkeys 2
       - 29@oneclickvpnkeys 2
+      - 41@oneclickvpnkeys
       - 28@oneclickvpnkeys`
+      - 31@oneclickvpnkeys 2
       - 18@oneclickvpnkeys 2
-      - ⭐32@oneclickvpnkeys
-      - ⭐59@oneclickvpnkeys`
       - 89@oneclickvpnkeys
-      - 50@oneclickvpnkeys
-      - ⭐84@oneclickvpnkeys
+      - 50@oneclickvpnkeys 2
+      - 60@oneclickvpnkeys 3
       - ⭐15@oneclickvpnkeys
       - 12@oneclickvpnkeys
       - 77@oneclickvpnkeys
-      - ⭐66@oneclickvpnkeys
-      - ⭐48@oneclickvpnkeys
       - ⭐19@oneclickvpnkeys
       - 3@oneclickvpnkeys 2
       - 103@oneclickvpnkeys
-      - ⭐49@oneclickvpnkeys
-      - 42@oneclickvpnkeys
-      - 37@oneclickvpnkeys
+      - 40@oneclickvpnkeys`
+      - 42@oneclickvpnkeys 2
+      - 37@oneclickvpnkeys 2
       - 20@oneclickvpnkeys 2
       - 94@oneclickvpnkeys
-      - ⭐70@oneclickvpnkeys
-      - 39@oneclickvpnkeys
+      - 53@oneclickvpnkeys 2
+      - 39@oneclickvpnkeys 2
       - 36@oneclickvpnkeys
       - 12@oneclickvpnkeys`
       - 44@oneclickvpnkeys
@@ -2006,52 +1754,45 @@ proxy-groups:
       - 102@oneclickvpnkeys
       - 82@oneclickvpnkeys
       - 88@oneclickvpnkeys
-      - ⭐53@oneclickvpnkeys
       - 3@oneclickvpnkeys 3
-      - ⭐73@oneclickvpnkeys
+      - 59@oneclickvpnkeys` 2
       - 11@oneclickvpnkeys
       - 11@oneclickvpnkeys 2
       - 2@oneclickvpnkeys 2
       - 7@oneclickvpnkeys 3
-      - 49@oneclickvpnkeys
+      - 38@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys 2
+      - 43@oneclickvpnkeys 2
       - 23@oneclickvpnkeys 2
-      - ⭐82@oneclickvpnkeys
-      - ⭐83@oneclickvpnkeys
       - 30@oneclickvpnkeys 2
       - 19@oneclickvpnkeys 2
       - ⭐33@oneclickvpnkeys
       - ⭐33@oneclickvpnkeys`
       - 21@oneclickvpnkeys 2
       - 13@oneclickvpnkeys 2
-      - 54@oneclickvpnkeys
-      - ⭐72@oneclickvpnkeys
+      - 54@oneclickvpnkeys 2
       - 67@oneclickvpnkeys
-      - ⭐55@oneclickvpnkeys
+      - 58@oneclickvpnkeys 2
       - 72@oneclickvpnkeys
       - 70@oneclickvpnkeys
       - 68@oneclickvpnkeys
-      - 32@oneclickvpnkeys
+      - 32@oneclickvpnkeys 2
       - 25@oneclickvpnkeys 2
+      - 44@oneclickvpnkeys 2
       - 1@oneclickvpnkeys 2
-      - ⭐36@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 34@oneclickvpnkeys
-      - 33@oneclickvpnkeys
+      - 34@oneclickvpnkeys 2
+      - 33@oneclickvpnkeys 2
       - 74@oneclickvpnkeys
+      - 36@oneclickvpnkeys 2
       - 28@oneclickvpnkeys
       - 5@oneclickvpnkeys 2
-      - ⭐41@oneclickvpnkeys
-      - ⭐52@oneclickvpnkeys
-      - ⭐35@oneclickvpnkeys
       - ⭐30@oneclickvpnkeys
       - ⭐5@oneclickvpnkeys
       - ⭐18@oneclickvpnkeys
       - ⭐24@oneclickvpnkeys
       - 9@oneclickvpnkeys
-      - ⭐39@oneclickvpnkeys
-      - ⭐89@oneclickvpnkeys
-      - ⭐90@oneclickvpnkeys
-      - 57@oneclickvpnkeys
+      - 57@oneclickvpnkeys 2
       - 98@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select

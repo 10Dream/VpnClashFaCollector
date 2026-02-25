@@ -466,12 +466,13 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: NetAccount`, server: 147.45.178.107, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 104.18.32.47, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 4, server: 172.64.33.91, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 185.234.57.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b824f264-8cc3-4669-9f60-47b51ed1aa11, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ, short-id: f9fe}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 144.31.18.73, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 89.208.221.7, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d4d987db-ed6c-4e49-be3b-e84bbd3d0112, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 28Q4Bqx4332xw-HKOZ6ogd-2G6ijTvXbDIzilr3dXyk, short-id: 2733a7c750}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 104.18.32.47, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e31085f9-7f55-4a7d-b00e-ce94149477cb, network: ws, ws-opts: {path: "/?ed", headers: {Host: PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -495,6 +496,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -508,6 +510,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -521,6 +524,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -543,6 +547,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -556,6 +561,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -569,6 +575,7 @@ proxy-groups:
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount` 8
   - name: دانلود منیجر 📥
     type: select
     proxies:
