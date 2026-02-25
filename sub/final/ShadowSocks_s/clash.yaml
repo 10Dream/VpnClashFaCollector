@@ -465,14 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount`, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 147.45.178.107, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
+  - {name: NetAccount`, server: ru.vz-or.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 16958ba9-fd17-4910-986e-f32d079b3528, servername: sun9-38.userapi.com, host: sun9-38.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RJETAkoZ6lowmwc5f0HtPy00c3dfojqQuypriLExXRE, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 104.18.32.47, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 172.64.33.91, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61113265-3e78-4012-8f42-692b5069ddac, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /140.245.53.45=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount, server: 146.190.227.252, port: 42855, type: vless, tls: true, packet-encoding: xudp, uuid: 95a90af3-5729-4308-9465-8147cc97621f, alpn: [h2%2Chttp%2F1.1], path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 62.182.196.134, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 45.145.40.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
+      - NetAccount 2
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount` 6
-      - NetAccount` 7
   - name: دانلود منیجر 📥
     type: select
     proxies:

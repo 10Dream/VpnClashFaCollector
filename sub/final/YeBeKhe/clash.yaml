@@ -465,14 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: api.melonpanel.ir:1080, server: api.melonpanel.ir, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: x4WuCumDo-4ahFPPuhG6AuMn8cmgrmSK, udp: true, tfo: false}
-  - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: 18.157.165.17:443, server: 18.157.165.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: fi1.mahboob.top:2086, server: fi1.mahboob.top, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 5ef655fa-2673-b270-3d94-7cf976fb17a3, host: fi1.mahboob.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 135.125.168.181:778, server: 135.125.168.181, port: 778, type: vless, tls: true, packet-encoding: xudp, uuid: 76b3e296-787a-3788-ef75-a1700ef1d034, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.184.2.43:50459, server: 18.184.2.43, port: 50459, type: vless, tls: true, packet-encoding: xudp, uuid: 86f5fd99-a502-41de-a5cd-ebd671049b31, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.99.8.3:2083, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1`}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 85.133.230.101:20600, server: 85.133.230.101, port: 20600, type: vless, tls: true, packet-encoding: xudp, uuid: 4ed7a337-17d8-486f-b243-f7e561d6a8ee, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 135.125.168.181:878, server: 135.125.168.181, port: 878, type: vless, tls: true, packet-encoding: xudp, uuid: 89ed95bb-c4cd-09b8-2c39-1a728c58ec16, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.82.251.208:8880, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vip-78.f-sub.cfd:1517, server: vip-78.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: a1049f7f-6e81-4735-bdb9-c7c5a6d88ba6, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8add82d-0a0a-4f3b-a22e-c74f83da73b9, servername: afrcloud22.mmv.kr`, network: ws, ws-opts: {path: /138.2.64.229=443, headers: {Host: afrcloud22.mmv.kr`}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +486,33 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +528,33 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - api.melonpanel.ir:1080
-      - admin.c2.havij.co:443
-      - 18.157.165.17:443
-      - fi1.mahboob.top:2086
-      - 135.125.168.181:778
-      - 18.184.2.43:50459
-      - 91.99.8.3:2083
-      - 104.21.48.147:80
+      - 85.133.230.101:20600
+      - 135.125.168.181:878
+      - 45.82.251.208:8880
+      - vip-78.f-sub.cfd:1517
+      - chatgpt.com:443
   - name: دانلود منیجر 📥
     type: select
     proxies:
