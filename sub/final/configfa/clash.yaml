@@ -471,16 +471,25 @@ proxies:
   - {name: ایران خانم ۱, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: red-grass-4779.synthia-c16.workers.dev, network: ws, ws-opts: {path: /dabaihk.webn.cc/db1024143bf11354, headers: {Host: red-grass-4779.synthia-c16.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ایران خانم ۲, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: noisy-grass-82b2.maelys-a42.workers.dev, network: ws, ws-opts: {path: "/sni.111000.v6.navy/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: noisy-grass-82b2.maelys-a42.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 2", server: 85.133.200.78, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 3", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 4", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 5", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 6", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 3", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 4", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 5", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 6", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 7", server: F1.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9edb457e-da77-4143-b885-6d46cd0fd812, servername: sp.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: sp.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 8", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 9", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 10", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 11", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Test, server: 162.159.48.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: afbde932-3421-4f4c-9997-41ee00e18dc7, servername: nst.maroufgym.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /ws, headers: {Host: nst.maroufgym.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 7", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 8", server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: d5a5511a-29ed-495c-9b7c-152a326c09c5, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 9", server: 87.236.38.66, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 10", server: bim.iranheroo.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 12", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c805b05e-339d-40e0-8787-432d97a27345, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 13", server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: d5a5511a-29ed-495c-9b7c-152a326c09c5, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 14", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 15", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 16", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 17", server: 87.236.38.66, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 18", server: bim.iranheroo.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: f16f97fc-f9fa-42f7-8286-fcbaf63f6bb8, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: همه لازم نیست بدونن | @panbehnet, server: 162.19.10.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: nasnet, servername: nasnet-162191094-direct.sharghdaily.co, host: nasnet-162191094-direct.sharghdaily.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام) 19", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -507,12 +516,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -529,12 +547,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -551,12 +578,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -582,12 +618,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -604,12 +649,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -626,12 +680,21 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - "@PewezaVPN (تلگرام) 5"
       - "@PewezaVPN (تلگرام) 6"
-      - Test
       - "@PewezaVPN (تلگرام) 7"
       - "@PewezaVPN (تلگرام) 8"
       - "@PewezaVPN (تلگرام) 9"
       - "@PewezaVPN (تلگرام) 10"
+      - "@PewezaVPN (تلگرام) 11"
+      - Test
+      - "@PewezaVPN (تلگرام) 12"
+      - "@PewezaVPN (تلگرام) 13"
+      - "@PewezaVPN (تلگرام) 14"
+      - "@PewezaVPN (تلگرام) 15"
+      - "@PewezaVPN (تلگرام) 16"
+      - "@PewezaVPN (تلگرام) 17"
+      - "@PewezaVPN (تلگرام) 18"
       - همه لازم نیست بدونن | @panbehnet
+      - "@PewezaVPN (تلگرام) 19"
   - name: دانلود منیجر 📥
     type: select
     proxies:

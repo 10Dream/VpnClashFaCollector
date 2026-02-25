@@ -493,10 +493,18 @@ proxies:
   - {name: 🇨🇦 Canada 2, server: norman.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 3, server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔***, server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: United 4, server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 4", server: cf.mtpmio.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: a2b5ed44-6d39-4a41-97e1-c643508d73d9, servername: api.mtpmio.com, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/api?ed=1024", headers: {Host: api.mtpmio.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 5", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 2, server: 193.84.255.103, port: 7071, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 3, server: 217.60.238.167, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 4, server: 217.60.238.167, port: 8084, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 5, server: my.kiomars.shop, port: 6664, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 6, server: my.kiomars.shop, port: 6665, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 7, server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram***🆔*** 8, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn`", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "", server: 172.64.149.182, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-5712964102.sharghdaily.co}}, udp: true, tfo: false}
 proxy-groups:
@@ -543,10 +551,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: خودکار (بهترین پینگ) 🤖
@@ -583,10 +599,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -623,10 +647,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: اتصال پایدار 🔗
@@ -672,10 +704,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: توزیع بار (گردشی) 🔁
@@ -712,10 +752,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: توزیع بار (موقت) ⏳
@@ -752,10 +800,18 @@ proxy-groups:
       - 🇨🇦 Canada 2
       - United 3
       - "%***🆔*** 2"
+      - ⚡Telegram***🆔***
       - "%***🆔*** 3"
       - United 4
       - "%***🆔*** 4"
       - "%***🆔*** 5"
+      - ⚡Telegram***🆔*** 2
+      - ⚡Telegram***🆔*** 3
+      - ⚡Telegram***🆔*** 4
+      - ⚡Telegram***🆔*** 5
+      - ⚡Telegram***🆔*** 6
+      - ⚡Telegram***🆔*** 7
+      - ⚡Telegram***🆔*** 8
       - "***🆔***@iphone02016vpn`"
       - ""
   - name: دانلود منیجر 📥

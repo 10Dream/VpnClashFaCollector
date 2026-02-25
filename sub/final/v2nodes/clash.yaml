@@ -472,6 +472,7 @@ proxies:
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 108.181.0.177:8388, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true, tfo: false}
   - {name: 45.9.75.37:8000, server: 45.9.75.37, port: 8000, type: ss, cipher: chacha20-ietf-poly1305, password: VDJvfsN6h-gV38q9chvtPaBHvc9qtWGf, udp: true, tfo: false}
+  - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 212.56.42.211:20329, server: 212.56.42.211, port: 20329, type: ss, cipher: chacha20-ietf-poly1305, password: c25cd23def59bd42, udp: true, tfo: false}
   - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
@@ -484,7 +485,6 @@ proxies:
   - {name: 160.16.132.38:3419, server: 160.16.132.38, port: 3419, type: trojan, password: 64a59181551b5773e390bd717a7b7c06, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.198.227.190:15363, server: 43.198.227.190, port: 15363, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.198.227.190:50446, server: 43.198.227.190, port: 50446, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇨🇦 ca05.oportal.cc:443, server: ca05.oportal.cc, port: 443, type: trojan, password: adb13850-7e70-492e-85b2-01184801d587, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.158.87.156:22223, server: 18.158.87.156, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.234.50:22223, server: 35.181.234.50, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.96.183:22223, server: 51.44.96.183, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -501,7 +501,6 @@ proxies:
   - {name: tr.prod.n7.homes:8443, server: tr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.163.211.158:8443, server: 95.163.211.158, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: eh.vk.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: xyz}, reality-opts: {public-key: wSQIBnAc0cYO9JitaNcgZ2LwkTix0_dXVpDjnZxDrCE, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.162.245:22224, server: 15.188.162.245, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.181.24.193:22224, server: 63.181.24.193, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: germ-node.genadata.online:2040, server: germ-node.genadata.online, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: germ-node.genadata.online:2040 2, server: germ-node.genadata.online, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl-amst-node.genadata.online:2040, server: nl-amst-node.genadata.online, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -519,29 +518,28 @@ proxies:
   - {name: 162.248.166.74:4444, server: 162.248.166.74, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.248.166.75:4444, server: 162.248.166.75, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.248.166.78:4444, server: 162.248.166.78, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ita01-vlr02.tcp-reset-club.net:443, server: ita01-vlr02.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.98.189.37:443, server: 141.98.189.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1eaf75e0-f279-4a21-8075-f83496cc4b6e, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ds2v7_Z5UvJNDrorDTev4ojxveaG8jyR7GgGzn_ruig, short-id: f161}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 147.45.178.107:443, server: 147.45.178.107, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 299ee660-0ad5-4366-9b34-f4bb51eb73ee, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.87.216.140:443, server: 194.87.216.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 299ee660-0ad5-4366-9b34-f4bb51eb73ee, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nPcUKydxoRI66O3tT9O4QCZpLjOBvkGsiXG7pDX1BBw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 217.154.38.156:443, server: 217.154.38.156, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a8391ef-383c-4321-ac25-89b50973ab73, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: kWxGUQ6QtaU-SCCt8Ht-POUPS6Ue6w-KyHjxb1AYQ1w, short-id: 2e0f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.160.144.77:443, server: 5.160.144.77, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0e561e-d8ab-45f8-becb-09692e2d4bf0, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fl.v2online3.site:24025, server: fl.v2online3.site, port: 24025, type: vless, tls: true, packet-encoding: xudp, uuid: 2ec06433-4bde-4282-8199-bdd0327126fd, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.108.252:443, server: 72.56.108.252, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38707963-acf6-4e72-8db6-94faba4b5844, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: FV_Zfr_YpvUVYmLpggwOwoJdiYVsmAqgXqDIGAILP3A, short-id: 3f8a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.113.70.21:443, server: 103.113.70.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b9ff760-6b22-467b-a54f-e25a82a40908, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: xbbOyx0nk3ch1TczCJvSg-km5ac0NM7MgRbFSLCMXyU, short-id: 8397}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.75.194.45:8443, server: 5.75.194.45, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c52be42-33b4-40e1-be1e-16b96f5af73f, network: ws, ws-opts: {path: /DarkTeam_VPN, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wolfb24.servers1mart.ir:2096, server: wolfb24.servers1mart.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f42b528-59ef-45f9-9ba3-6292ca46f909, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: jeff.ns.cloudflare.com:443, server: jeff.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 533ce090-76f8-49bb-bb55-8d516acf5116, servername: lhbmp.washington-wall.sbs, network: ws, ws-opts: {path: /true, headers: {Host: lhbmp.washington-wall.sbs}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 79.174.94.49:14065, server: 79.174.94.49, port: 14065, type: vless, tls: true, packet-encoding: xudp, uuid: 5eb1160d-e6e4-4918-942a-3e02dc4450d4, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: 6_hMGHFRodRl4rUOlv0mJJBC-9en9gNpypLiNqBAuw0, short-id: 281902}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: trurk-plus.iranman.shop:4301, server: trurk-plus.iranman.shop, port: 4301, type: vless, tls: true, packet-encoding: xudp, uuid: 6280bb8e-8486-4129-a98e-0d227ddc5410, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.32.43.252:15717, server: 37.32.43.252, port: 15717, type: vless, tls: true, packet-encoding: xudp, uuid: 665b51bb-b60b-4653-dab5-cc7fc3125380, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dd.openaccessnode.com:2197 3, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dd.openaccessnode.com:50 2, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nlcdn6.suio.me:443, server: nlcdn6.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8664a37d-40c9-47f0-8619-d9199651be2c, servername: nlcdn6.suio.me, host: nlcdn6.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s842.ccgfw.top:443, server: s842.ccgfw.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e, servername: u708330u0378s842.ccgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.99.8.3:2083, server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.voxyvpn.ru:8443, server: de.voxyvpn.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9ada8158-d7be-4ee3-a0ae-ff185efc08d9, servername: apple.com, host: apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l78iryfyBl_JIg0KXgb0VQ3zxfhtkD1odwO09qs9SH4, short-id: deadbeef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 fl.voxyvpn.ru:443, server: fl.voxyvpn.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9ada8158-d7be-4ee3-a0ae-ff185efc08d9, servername: dl.google.com, host: dl.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L7DF7bQGLb1hLQxHoDqnsd7WMAo8bklWteoXqKYwAl8, short-id: deadbeef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 47.83.153.19:59750, server: 47.83.153.19, port: 59750, type: vless, tls: true, packet-encoding: xudp, uuid: 9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.180.97.139:443, server: 5.180.97.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a384c715-aeb5-45e8-859b-f687ca6c083f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ, short-id: 9f35da6c9412b832}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip-77.f-sub.cfd:1517, server: vip-77.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: a4250967-b055-4573-bf10-5a691b0fd771, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nodejs.org:443, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /178.128.80.43=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -551,7 +549,6 @@ proxies:
   - {name: nodejs.org:443 5, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nodejs.org:443 6, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY/47.130.35.116, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nodejs.org:443 7, server: nodejs.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY/47.130.35.116, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: glob.thisiswe.uno:8443, server: glob.thisiswe.uno, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: aab1a536-7a2c-4357-a0e0-8cdde41845c6, servername: nobitex.sylu.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: nobitex.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.9.4.211:443, server: 37.9.4.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac, servername: 5post-gate.x5.ru, host: 5post-gate.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: a76ea384b29a4f79}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.228.101.143:443, server: 87.228.101.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b4f272ea-cd4f-4df9-9929-1c6b49c0b6ac, servername: rutube.ru, host: rutube.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 4a3ad88ff867a295}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.61.70.38:443, server: 92.61.70.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bb0f3b3d-a3d1-429a-9b75-263bd9200b6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jqOwroc2Ua1reEEybEQHxbPt4-Yyo3I5h9M4eZLZ2n0, short-id: 9e0d1218f82e3630}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -561,7 +558,6 @@ proxies:
   - {name: max-tun2.max-pro-service.ir:9900, server: max-tun2.max-pro-service.ir, port: 9900, type: vless, tls: true, packet-encoding: xudp, uuid: d431f39e-dc71-49cc-99e1-f4c0bd208f42, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.234.57.216:443, server: 185.234.57.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d50ef9ea-7adf-4b45-977a-16bca0f11584, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ, short-id: f9fe}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.163.181.208:44452, server: 95.163.181.208, port: 44452, type: vless, tls: true, packet-encoding: xudp, uuid: d5226296-c3ec-435b-a1c8-a81c770b3c2a, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: vb27.homianco.ir:2096, server: vb27.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.136.149.145:443, server: 45.136.149.145, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ddb913e5-492f-42e8-baec-93c9c5d333d6, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 83ZRQEAaJx3rV-EDhk5TFnBoDjTr7TfGKlq7FgA-WRY, short-id: 58a3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 217.25.90.152:443, server: 217.25.90.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e1c3f008-34e1-4fc4-a4bd-ed7c00c2add8, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: u81SSCfLePekqTfssqKUJt5WHNIexpLzjLf-RPbI9ho, short-id: 8061}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 deu666.lackerdeu.org:443, server: deu666.lackerdeu.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -570,6 +566,7 @@ proxies:
   - {name: 194.85.249.173:433, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.152.225:2087, server: 162.159.152.225, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e91bff38-7a13-44ab-9c43-4a476add78d0, servername: ger2.nilmmd.shop, network: ws, ws-opts: {path: /, headers: {Host: ger2.nilmmd.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: by.cdn.titun.su:443, server: by.cdn.titun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: by.cdn.titun.su, host: by.cdn.titun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0L6FE1vTechnKhN9LxFgmcDzqGVIfEQz8ZBGfvzKGzg, short-id: cad317b20db4aad2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080, server: etherfox.mzerati.vip.gift.cdn-pardaz.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: eda30ec9-8200-449e-8cde-ccd8a558c2e3, servername: etherfox.mzerati.vip.gift.cdn-pardaz.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], host: etherfox.mzerati.vip.gift.cdn-pardaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.130.125.198:2053, server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 213.176.19.224:443, server: 213.176.19.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f19f22be-134b-4904-8347-245f31fe3800, servername: tr7.strelkavpn.ru, host: tr7.strelkavpn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: UCXPPx6xuh21NtqvboGsl-hf1y-LSpwB37K-vzlxyyM, short-id: 68039fa078}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.43.79.73:443, server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -598,6 +595,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -610,7 +608,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -627,7 +624,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -645,29 +641,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -677,7 +672,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -687,7 +681,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -696,6 +689,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443
@@ -714,6 +708,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -726,7 +721,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -743,7 +737,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -761,29 +754,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -793,7 +785,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -803,7 +794,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -812,6 +802,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443
@@ -830,6 +821,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -842,7 +834,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -859,7 +850,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -877,29 +867,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -909,7 +898,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -919,7 +907,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -928,6 +915,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443
@@ -955,6 +943,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -967,7 +956,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -984,7 +972,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -1002,29 +989,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -1034,7 +1020,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -1044,7 +1029,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -1053,6 +1037,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443
@@ -1071,6 +1056,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -1083,7 +1069,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -1100,7 +1085,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -1118,29 +1102,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -1150,7 +1133,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -1160,7 +1142,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -1169,6 +1150,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443
@@ -1187,6 +1169,7 @@ proxy-groups:
       - 193.135.174.135:990
       - 108.181.0.177:8388
       - 45.9.75.37:8000
+      - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 212.56.42.211:20329
       - admin.c2.havij.co:443
@@ -1199,7 +1182,6 @@ proxy-groups:
       - 160.16.132.38:3419
       - 43.198.227.190:15363
       - 43.198.227.190:50446
-      - 🇨🇦 ca05.oportal.cc:443
       - 18.158.87.156:22223
       - 35.181.234.50:22223
       - 51.44.96.183:22223
@@ -1216,7 +1198,6 @@ proxy-groups:
       - tr.prod.n7.homes:8443
       - 95.163.211.158:8443
       - 15.188.162.245:22224
-      - 63.181.24.193:22224
       - germ-node.genadata.online:2040
       - germ-node.genadata.online:2040 2
       - 🇳🇱 nl-amst-node.genadata.online:2040
@@ -1234,29 +1215,28 @@ proxy-groups:
       - 162.248.166.74:4444
       - 162.248.166.75:4444
       - 162.248.166.78:4444
+      - ita01-vlr02.tcp-reset-club.net:443
       - 141.98.189.37:443
       - 147.45.178.107:443
       - 194.87.216.140:443
-      - 217.154.38.156:443
-      - 5.160.144.77:443
       - fl.v2online3.site:24025
       - 72.56.108.252:443
       - 103.113.70.21:443
       - 5.75.194.45:8443
       - wolfb24.servers1mart.ir:2096
       - jeff.ns.cloudflare.com:443
-      - 79.174.94.49:14065
       - trurk-plus.iranman.shop:4301
       - 37.32.43.252:15717
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - nlcdn6.suio.me:443
       - s842.ccgfw.top:443
       - 91.99.8.3:2083
       - 🇩🇪 de.voxyvpn.ru:8443
       - 🇷🇺 fl.voxyvpn.ru:443
+      - 47.83.153.19:59750
       - 5.180.97.139:443
       - vip-77.f-sub.cfd:1517
       - nodejs.org:443
@@ -1266,7 +1246,6 @@ proxy-groups:
       - nodejs.org:443 5
       - nodejs.org:443 6
       - nodejs.org:443 7
-      - glob.thisiswe.uno:8443
       - 37.9.4.211:443
       - 87.228.101.143:443
       - 92.61.70.38:443
@@ -1276,7 +1255,6 @@ proxy-groups:
       - max-tun2.max-pro-service.ir:9900
       - 185.234.57.216:443
       - 95.163.181.208:44452
-      - vb27.homianco.ir:2096
       - 45.136.149.145:443
       - 217.25.90.152:443
       - 🇩🇪 deu666.lackerdeu.org:443
@@ -1285,6 +1263,7 @@ proxy-groups:
       - 194.85.249.173:433
       - 162.159.152.225:2087
       - by.cdn.titun.su:443
+      - etherfox.mzerati.vip.gift.cdn-pardaz.ir:8080
       - 45.130.125.198:2053
       - 213.176.19.224:443
       - 45.43.79.73:443

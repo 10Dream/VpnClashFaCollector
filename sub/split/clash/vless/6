@@ -466,72 +466,130 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "***✅***@AR14N24b", server: 151.101.2.216, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: "%74%65%6c%65%67%72%61%6d%2d%41%72%56%32%72%61%79", network: ws, ws-opts: {path: "/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry", headers: {Host: v2.fxpw13ls.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.146.173.68:2095, server: 185.146.173.68, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: -DIGIV2RAY-, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: 185.146.173.68, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: -DIGIV2RAY-, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.146.173.68:2095 2, server: 185.146.173.68, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: -DIGIV2RAY-, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: cloudflare-dns.com:2095, server: cloudflare-dns.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: cloudflare-dns.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 159.69.162.184:42944, server: 159.69.162.184, port: 42944, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[12578] - Telegram : @configraygan", server: 159.69.162.184, port: 42944, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 159.69.162.184, port: 42944, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐91@oneclickvpnkeys, server: 159.69.162.184, port: 43233, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐85@oneclickvpnkeys, server: 159.69.162.184, port: 43393, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: www.visa.cn, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: dzsgccvheprdb3tb7fztj4rlpowg.worker.ddns-ip.net, network: ws, ws-opts: {path: "/@Marisa_kristi?ip=183.104.97.23:30000", headers: {Host: dzsgccvheprdb3tb7fztj4rlpowg.worker.ddns-ip.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: www.visa.cn, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: dzsgccvheprdb3tb7fztj4rlpowg.worker.ddns-ip.net, network: ws, ws-opts: {path: "/@Marisa_kristi?ip=183.104.97.23:30000", headers: {Host: dzsgccvheprdb3tb7fztj4rlpowg.worker.ddns-ip.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: dll3maghz3.chooktashakorabi.com, port: 41019, type: vless, tls: true, packet-encoding: xudp, uuid: 000f318f-d045-4262-af1d-383c43443e8a, host: dll3maghz3.chooktashakorabi.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 51.250.117.173, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 001c68ea-7186-4d3e-863b-7b513e73e7a0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ef9Xx816A-obDKokFDIV5acO4E8A23MErXdh5ki4wj4, short-id: 63d703b12f253ffb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 51.250.46.121, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 001c68ea-7186-4d3e-863b-7b513e73e7a0, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Po6vtOwHYjzS-ibY01_2yrvhpw7jhOBDFesZKMcxUi8, short-id: 8cd9d7c88b8fd22c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 104.17.25.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: dll3maghz3.chooktashakorabi.com, port: 41019, type: vless, tls: true, packet-encoding: xudp, uuid: 000f318f-d045-4262-af1d-383c43443e8a, host: dll3maghz3.chooktashakorabi.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 51.250.117.173, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 001c68ea-7186-4d3e-863b-7b513e73e7a0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ef9Xx816A-obDKokFDIV5acO4E8A23MErXdh5ki4wj4, short-id: 63d703b12f253ffb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.16.250.22:443, server: 104.16.250.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 104.16.250.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 104.17.25.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.18.185.26:443, server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ایران خانم ۱, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: red-grass-4779.synthia-c16.workers.dev, network: ws, ws-opts: {path: /dabaihk.webn.cc/db1024143bf11354, headers: {Host: red-grass-4779.synthia-c16.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: A.fastlynew.hosting-ip.com:443, server: A.fastlynew.hosting-ip.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0048827b-860e-4d14-9726-5bda54fb9132, servername: looabxz.global.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: looabxz.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: A.fastlynew.hosting-ip.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0048827b-860e-4d14-9726-5bda54fb9132, servername: looabxz.global.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: looabxz.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.43.165:5443, server: 37.139.43.165, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 0072c543-c2c1-48ff-9e20-8a3bb8480473, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM, short-id: 6c0dc6f1a1e926de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 37.139.43.165, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 0072c543-c2c1-48ff-9e20-8a3bb8480473, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM, short-id: 6c0dc6f1a1e926de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.73.14:443, server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 01036a14-7758-4795-b453-2625aa8ee2b5, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 01036a14-7758-4795-b453-2625aa8ee2b5, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 103.113.71.158, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 130.49.177.145:8443, server: 130.49.177.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 130.49.177.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 130.49.177.161, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 130.49.179.101, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 130.49.179.202, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 138.124.31.171, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: 138.124.70.128, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 138.124.70.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 138.124.70.194, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 138.124.70.21, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: 138.124.70.229, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: 138.124.73.189, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 138.124.73.200, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 138.124.73.246:8443, server: 138.124.73.246, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 138.124.73.246, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 25", server: 138.124.73.252, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 26", server: 138.124.73.80, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 138.124.73.94:8443, server: 138.124.73.94, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 27", server: 138.124.73.94, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 28", server: 178.17.51.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.120.59.126:8443, server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 29", server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.120.59.126:8443 2, server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇳 s1.db-link.in:443, server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: A.fastlynew.hosting-ip.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0048827b-860e-4d14-9726-5bda54fb9132, servername: looabxz.global.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: looabxz.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00640161-0300-45ae-a08c-6b08476bbe7d, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /154.19.242.205=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00640161-0300-45ae-a08c-6b08476bbe7d, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /154.19.242.205=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 37.139.43.165, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 0072c543-c2c1-48ff-9e20-8a3bb8480473, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM, short-id: 6c0dc6f1a1e926de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443 2, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00d1eaf8-14a6-4ea7-a939-e80ad114a819, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /130.185.164.217=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00d1eaf8-14a6-4ea7-a939-e80ad114a819, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /130.185.164.217=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: 172.67.73.14, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 01036a14-7758-4795-b453-2625aa8ee2b5, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443 3, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 01036a14-7758-4795-b453-2625aa8ee2b5, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /138.2.89.238=43254, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 01036a14-7758-4795-b453-2625aa8ee2b5, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /138.2.89.238=43254, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 130.49.177.145, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: 130.49.177.161, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: 130.49.179.202, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: 138.124.31.171, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 138.124.70.128, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 138.124.70.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: 138.124.70.194, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: 138.124.70.21, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: 138.124.70.229, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: 138.124.73.246, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: 138.124.73.252, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 138.124.73.31:8443, server: 138.124.73.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: 138.124.73.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 138.124.73.33:8443, server: 138.124.73.33, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: 138.124.73.33, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: 138.124.73.94, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: 178.17.51.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 30", server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 31", server: 185.120.59.15, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: 185.120.59.162, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: 185.120.59.3, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 34", server: 185.120.59.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: 185.120.59.94, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: 193.8.184.251, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 37", server: 194.87.24.20, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 194.87.24.28:8443, server: 194.87.24.28, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 38", server: 194.87.24.28, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 39", server: 194.87.24.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 40", server: 194.87.24.32, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 41", server: 194.87.24.34, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 42", server: 194.87.24.35, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 43", server: 194.87.24.40, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 44", server: 194.87.24.41, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 45", server: 194.87.24.47, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 46", server: 194.87.24.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: 185.120.59.126, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: 185.120.59.15, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: 185.120.59.162, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.120.59.48:8443, server: 185.120.59.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: 185.120.59.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔***", server: 185.120.59.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: 185.120.59.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: 193.8.184.251, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: 194.87.24.20, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: 194.87.24.28, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: 194.87.24.31, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: 194.87.24.32, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: 194.87.24.33, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: 194.87.24.34, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: 194.87.24.35, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: 194.87.24.37, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 48", server: 194.87.24.38, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: 194.87.24.39, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: 194.87.24.40, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: 194.87.24.41, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 194.87.24.43, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: 194.87.24.47, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 53", server: 194.87.24.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64@oneclickvpnkeys, server: 198.105.123.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.169.127.247:8443, server: 31.169.127.247, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 47", server: 31.169.127.247, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 48", server: 45.112.194.207, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: 31.169.127.247, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.12.254.127:8443, server: 45.12.254.127, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: 45.12.254.127, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 14@oneclickvpnkeys, server: 92.118.231.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: 92.118.231.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 92.118.231.187:8443, server: 92.118.231.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95.128.157.249:8443, server: 95.128.157.249, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⭐2@oneclickvpnkeys, server: 95.128.157.249, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: 95.128.157.249, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de.prod.n7.homes:8443, server: de.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 58", server: de.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 de.prod.n7.homes:8443 2, server: de.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⭐40@oneclickvpnkeys, server: fr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 fr.prod.n7.homes:8443, server: fr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 59", server: fr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tr.prod.n7.homes:8443, server: tr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 60", server: 18.185.240.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0154d742-3233-4c61-f81c-7407fcf28b87, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 1ssd4r.1xh.ccwu.cc:443, server: 1ssd4r.1xh.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: 1ssd4r.1xh.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 61", server: 1ssd4r.1xh.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: 1ssd4r.1xh.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: bnmjki.1xe.ccwu.cc:443, server: bnmjki.1xe.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: bnmjki.1xe.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 62", server: bnmjki.1xe.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: bnmjki.1xe.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cdfvgbt.457.pp.ua:443, server: cdfvgbt.457.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: cdfvgbt.457.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 63", server: cdfvgbt.457.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: cdfvgbt.457.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nnmjjui.1xb.ccwu.cc:443, server: nnmjjui.1xb.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: nnmjjui.1xb.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 64", server: nnmjjui.1xb.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: nnmjjui.1xb.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nnnghby.0og.ccwu.cc:443, server: nnnghby.0og.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: nnnghby.0og.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 65", server: nnnghby.0og.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: nnnghby.0og.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vffgtyi.445.pp.ua:443, server: vffgtyi.445.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vffgtyi.445.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 66", server: vffgtyi.445.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vffgtyi.445.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vvbgghyu.445.pp.ua:443, server: vvbgghyu.445.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vvbgghyu.445.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 67", server: vvbgghyu.445.pp.ua, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vvbgghyu.445.pp.ua, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: vvvbghy.1xd.ccwu.cc:443, server: vvvbghy.1xd.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vvvbghy.1xd.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 68", server: vvvbghy.1xd.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 025cb923-a637-4d35-a504-0c1d7a277617, servername: vvvbghy.1xd.ccwu.cc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: e9fKNGws5QOzdjv6FWWwqHfDg}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇰🇷 afrcloud22.mmv.kr:443 4, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 026f6d6a-8850-4394-8b3e-2145bef6ca81, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /44.244.220.166=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 69", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 026f6d6a-8850-4394-8b3e-2145bef6ca81, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /44.244.220.166=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 70", server: 51.250.117.173, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 0285981a-178f-4fe2-b603-fc3e172b6bf2, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Z1PBEkRcz_GSf4D3452Y_PdZeEVr0XZ3pGZkMBleI3U, short-id: f16927958981f934}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: " ", server: 54.38.214.29, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 54.38.214.29, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: go.adslimit.info:2345, server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 71", server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: go.adslimit.info:2345 2, server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 72", server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 2", server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 73", server: 91.99.218.107, port: 51269, type: vless, tls: true, packet-encoding: xudp, uuid: 0341d8f2-99e0-4f6c-af0a-345ac26815cf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 74", server: ab.fxgoldensignals.com, port: 51269, type: vless, tls: true, packet-encoding: xudp, uuid: 0341d8f2-99e0-4f6c-af0a-345ac26815cf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 75", server: 37.139.43.165, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 034bd356-a017-490d-aae1-b460a50f9502, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM, short-id: 6c0dc6f1a1e926de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 3", server: F1.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 03624650-2513-4a3f-b7eb-e82fd0c24f3d, servername: dark-meadow-com.pfqxsyh.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: dark-meadow-com.pfqxsyh.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.97.0:443, server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6, servername: stipulations.gelatin.workers.dev, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: stipulations.gelatin.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 76", server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6, servername: stipulations.gelatin.workers.dev, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: stipulations.gelatin.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.139.184:443, server: 144.31.139.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: stats.vk-portal.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 77", server: 144.31.139.184, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: stats.vk-portal.net, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -549,32 +607,33 @@ proxy-groups:
     type: select
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -582,26 +641,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -611,10 +669,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -622,32 +738,33 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -655,26 +772,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -684,10 +800,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -695,32 +869,33 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -728,26 +903,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -757,10 +931,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -777,32 +1009,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -810,26 +1043,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -839,10 +1071,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -850,32 +1140,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -883,26 +1174,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -912,10 +1202,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -923,32 +1271,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 185.146.173.68:2095
       - "***✅***@AR14N24b 2"
-      - 185.146.173.68:2095 2
-      - cloudflare-dns.com:2095
       - "***✅***@AR14N24b 3"
+      - 159.69.162.184:42944
+      - "[12578] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 4"
       - ⭐91@oneclickvpnkeys
       - ⭐85@oneclickvpnkeys
-      - "***✅***@AR14N24b 4"
-      - "@proxy_kafee"
       - "***✅***@AR14N24b 5"
+      - "@proxy_kafee"
       - "***✅***@AR14N24b 6"
       - "***✅***@AR14N24b 7"
-      - ایران خانم ۱
-      - A.fastlynew.hosting-ip.com:443
+      - 104.16.250.22:443
       - "***✅***@AR14N24b 8"
-      - 37.139.43.165:5443
       - "***✅***@AR14N24b 9"
-      - 172.67.73.14:443
+      - 104.18.185.26:443
       - "***✅***@AR14N24b 10"
+      - ایران خانم ۱
+      - 🇮🇳 s1.db-link.in:443
       - "***✅***@AR14N24b 11"
-      - 130.49.177.145:8443
       - "***✅***@AR14N24b 12"
+      - 🇰🇷 afrcloud22.mmv.kr:443
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b 14"
+      - 🇰🇷 afrcloud22.mmv.kr:443 2
       - "***✅***@AR14N24b 15"
       - "***✅***@AR14N24b 16"
+      - 🇰🇷 afrcloud22.mmv.kr:443 3
       - "***✅***@AR14N24b 17"
       - "***✅***@AR14N24b 18"
       - "***✅***@AR14N24b 19"
@@ -956,26 +1305,25 @@ proxy-groups:
       - "***✅***@AR14N24b 21"
       - "***✅***@AR14N24b 22"
       - "***✅***@AR14N24b 23"
-      - 138.124.73.246:8443
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - 138.124.73.94:8443
       - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
-      - 185.120.59.126:8443
+      - 138.124.73.31:8443
       - "***✅***@AR14N24b 29"
-      - 185.120.59.126:8443 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - 138.124.73.33:8443
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
+      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
+      - 185.120.59.48:8443
       - "***✅***@AR14N24b 37"
-      - 194.87.24.28:8443
+      - "***🆔***"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -985,10 +1333,68 @@ proxy-groups:
       - "***✅***@AR14N24b 44"
       - "***✅***@AR14N24b 45"
       - "***✅***@AR14N24b 46"
-      - 64@oneclickvpnkeys
-      - 31.169.127.247:8443
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
+      - "***✅***@AR14N24b 49"
+      - "***✅***@AR14N24b 50"
+      - "***✅***@AR14N24b 51"
+      - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 52"
+      - "***✅***@AR14N24b 53"
+      - 64@oneclickvpnkeys
+      - 31.169.127.247:8443
+      - "***✅***@AR14N24b 54"
+      - 45.12.254.127:8443
+      - "***✅***@AR14N24b 55"
+      - 14@oneclickvpnkeys
+      - "***✅***@AR14N24b 56"
+      - 92.118.231.187:8443
+      - 95.128.157.249:8443
+      - ⭐2@oneclickvpnkeys
+      - "***✅***@AR14N24b 57"
+      - 🇩🇪 de.prod.n7.homes:8443
+      - "***✅***@AR14N24b 58"
+      - 🇩🇪 de.prod.n7.homes:8443 2
+      - ⭐40@oneclickvpnkeys
+      - 🇫🇷 fr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 59"
+      - tr.prod.n7.homes:8443
+      - "***✅***@AR14N24b 60"
+      - 1ssd4r.1xh.ccwu.cc:443
+      - "***✅***@AR14N24b 61"
+      - bnmjki.1xe.ccwu.cc:443
+      - "***✅***@AR14N24b 62"
+      - cdfvgbt.457.pp.ua:443
+      - "***✅***@AR14N24b 63"
+      - nnmjjui.1xb.ccwu.cc:443
+      - "***✅***@AR14N24b 64"
+      - nnnghby.0og.ccwu.cc:443
+      - "***✅***@AR14N24b 65"
+      - vffgtyi.445.pp.ua:443
+      - "***✅***@AR14N24b 66"
+      - vvbgghyu.445.pp.ua:443
+      - "***✅***@AR14N24b 67"
+      - vvvbghy.1xd.ccwu.cc:443
+      - "***✅***@AR14N24b 68"
+      - 🇰🇷 afrcloud22.mmv.kr:443 4
+      - "***✅***@AR14N24b 69"
+      - "***✅***@AR14N24b 70"
+      - " "
+      - "@meliproxyy"
+      - go.adslimit.info:2345
+      - "***✅***@AR14N24b 71"
+      - go.adslimit.info:2345 2
+      - "***✅***@AR14N24b 72"
+      - "@proxy_kafee 2"
+      - "***✅***@AR14N24b` 2"
+      - "***✅***@AR14N24b 73"
+      - "***✅***@AR14N24b 74"
+      - "***✅***@AR14N24b 75"
+      - "***✅***@AR14N24b` 3"
+      - 188.114.97.0:443
+      - "***✅***@AR14N24b 76"
+      - 144.31.139.184:443
+      - "***✅***@AR14N24b 77"
   - name: دانلود منیجر 📥
     type: select
     proxies:
