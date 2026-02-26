@@ -465,335 +465,331 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 195.154.202.112:18292, server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 154.17.31.189, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: 154.17.31.189:18829, server: 154.17.31.189, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: dmitmalibu.szxcn.net:18829, server: dmitmalibu.szxcn.net, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
   - {name: 51.159.103.137:18290, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 217.30.10.18, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 217.30.10.70, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 217.30.10.70, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 217.30.10.70, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 217.30.10.70, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 217.30.10.70, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 25", server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 26", server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 27", server: 103.186.154.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 156.146.38.167, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 141.98.101.179, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 217.30.10.18, port: 9027, type: ss, cipher: aes-256-cfb, password: EXN3S3eQpjE7EJu8, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 217.30.10.18, port: 9006, type: ss, cipher: aes-256-cfb, password: FAdUvMJUq5vDgKEq, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 217.30.10.70, port: 9014, type: ss, cipher: aes-256-cfb, password: KnJGad3FqTvjqbaX, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 217.30.10.18, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: 217.30.10.70, port: 9003, type: ss, cipher: aes-256-cfb, password: JdmRK9gMEqFgs8nP, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 217.30.10.70, port: 9011, type: ss, cipher: aes-256-cfb, password: M3t2ZEQcMGRWBjRa, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: 217.30.10.18, port: 9053, type: ss, cipher: aes-256-cfb, password: SBM7R883jBmnqe6C, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: 217.30.10.18, port: 9097, type: ss, cipher: aes-256-cfb, password: Sn5B7jTqr76aCJT8, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: 217.30.10.18, port: 9026, type: ss, cipher: aes-256-cfb, password: QWDDvVE9npNurQfA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 217.30.10.18, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: 217.30.10.70, port: 9042, type: ss, cipher: aes-256-cfb, password: S7KwUu7yBy58S3Ga, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: 217.30.10.18, port: 9079, type: ss, cipher: aes-256-cfb, password: TPqX8edgbAURcAMb, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: 217.30.10.70, port: 9033, type: ss, cipher: aes-256-cfb, password: UTJA57ypk2XKQpnm, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 217.30.10.18, port: 9032, type: ss, cipher: aes-256-cfb, password: UWZQeLRWnkqgkseq, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 217.30.10.70, port: 9001, type: ss, cipher: aes-256-cfb, password: UkXRsXvR6buDMG2Y, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: 217.30.10.18, port: 9025, type: ss, cipher: aes-256-cfb, password: XPtzA9sCug3SPR4c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: 103.186.154.11, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: 103.186.154.12, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.139:38388, server: 103.186.154.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 28", server: 103.186.154.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 29", server: 103.186.154.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 30", server: 103.186.154.143, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: 103.186.154.13, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: 103.186.154.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: 103.186.154.143, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.146:38388, server: 103.186.154.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.147:38388, server: 103.186.154.147, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.14:38388, server: 103.186.154.14, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.152:38388, server: 103.186.154.152, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 31", server: 103.186.154.153, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: 103.186.154.153, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.155:38388, server: 103.186.154.155, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: 103.186.154.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: 103.186.154.156, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.158:38388, server: 103.186.154.158, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.164:38388, server: 103.186.154.164, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 34", server: 103.186.154.166, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: 103.186.154.165, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: 103.186.154.166, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.167:38388, server: 103.186.154.167, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: 103.186.154.168, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: 103.186.154.169, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 37", server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: 103.186.154.168, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: 103.186.154.169, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: 103.186.154.172, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.173:38388, server: 103.186.154.173, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 38", server: 103.186.154.175, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 39", server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 40", server: 103.186.154.177, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 41", server: 103.186.154.178, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 42", server: 103.186.154.179, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 43", server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 44", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 45", server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 46", server: 103.186.154.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 47", server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 48", server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 49", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 50", server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 51", server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 52", server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: 103.186.154.175, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: 103.186.154.176, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: 103.186.154.177, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: 103.186.154.178, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: 103.186.154.179, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: 103.186.154.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: 103.186.154.180, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: 103.186.154.181, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: 103.186.154.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: 103.186.154.184, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: 103.186.154.185, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 48", server: 103.186.154.186, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: 103.186.154.187, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: 103.186.154.188, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: 103.186.154.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.190:38388, server: 103.186.154.190, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 53", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 54", server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 55", server: 103.186.154.193, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 56", server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 57", server: 103.186.154.195, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 58", server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 59", server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 60", server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 61", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 62", server: 103.186.154.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 63", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 64", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 65", server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 66", server: 103.186.154.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 67", server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 68", server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 69", server: 103.186.154.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 70", server: 103.186.154.210, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 71", server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 72", server: 103.186.154.212, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 73", server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 74", server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 75", server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 76", server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 77", server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 78", server: 103.186.154.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 79", server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 80", server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 81", server: 103.186.154.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 82", server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 83", server: 103.186.154.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 84", server: 103.186.154.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 85", server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 86", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: 103.186.154.191, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 53", server: 103.186.154.192, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: 103.186.154.193, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: 103.186.154.194, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: 103.186.154.195, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: 103.186.154.197, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 58", server: 103.186.154.198, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 59", server: 103.186.154.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 60", server: 103.186.154.200, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 61", server: 103.186.154.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 62", server: 103.186.154.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 63", server: 103.186.154.204, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 64", server: 103.186.154.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 65", server: 103.186.154.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 66", server: 103.186.154.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 67", server: 103.186.154.208, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 68", server: 103.186.154.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 69", server: 103.186.154.210, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 70", server: 103.186.154.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 71", server: 103.186.154.212, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 72", server: 103.186.154.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 73", server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 74", server: 103.186.154.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 75", server: 103.186.154.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 76", server: 103.186.154.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 77", server: 103.186.154.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 78", server: 103.186.154.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 79", server: 103.186.154.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 80", server: 103.186.154.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 81", server: 103.186.154.227, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 82", server: 103.186.154.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 83", server: 103.186.154.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 84", server: 103.186.154.231, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 85", server: 103.186.154.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.233:38388, server: 103.186.154.233, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 87", server: 103.186.154.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 88", server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 89", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 90", server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 86", server: 103.186.154.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 87", server: 103.186.154.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 88", server: 103.186.154.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 89", server: 103.186.154.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.238:38388, server: 103.186.154.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 91", server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 92", server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 93", server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 94", server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 95", server: 103.186.154.243, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 96", server: 103.186.154.244, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 97", server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 98", server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 99", server: 103.186.154.248, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 100", server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 101", server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 102", server: 103.186.154.251, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 103", server: 103.186.154.252, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 104", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 90", server: 103.186.154.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 91", server: 103.186.154.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 92", server: 103.186.154.241, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 93", server: 103.186.154.242, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 94", server: 103.186.154.243, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 95", server: 103.186.154.244, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 96", server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 97", server: 103.186.154.246, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 98", server: 103.186.154.248, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 99", server: 103.186.154.249, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 100", server: 103.186.154.250, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 101", server: 103.186.154.251, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 102", server: 103.186.154.252, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 103", server: 103.186.154.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.28:38388, server: 103.186.154.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 105", server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 106", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 107", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 108", server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 109", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 110", server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 111", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 112", server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 113", server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 114", server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 115", server: 103.186.154.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 116", server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 104", server: 103.186.154.29, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 105", server: 103.186.154.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 106", server: 103.186.154.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 107", server: 103.186.154.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 108", server: 103.186.154.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 109", server: 103.186.154.36, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 110", server: 103.186.154.37, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 111", server: 103.186.154.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 112", server: 103.186.154.40, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 113", server: 103.186.154.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 114", server: 103.186.154.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 115", server: 103.186.154.44, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.46:38388, server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.154.47:38388, server: 103.186.154.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 117", server: 103.186.154.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 118", server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 119", server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 120", server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 121", server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 122", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 123", server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 124", server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 125", server: 103.186.154.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 126", server: 103.186.154.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 127", server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 128", server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 129", server: 103.186.154.63, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 130", server: 103.186.154.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 131", server: 103.186.154.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 132", server: 103.186.154.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 133", server: 103.186.154.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 134", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 135", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 136", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 137", server: 103.186.154.74, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 138", server: 103.186.154.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 139", server: 103.186.154.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 140", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 141", server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 142", server: 103.186.155.101, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 143", server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 144", server: 103.186.155.105, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 145", server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 146", server: 103.186.155.107, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 147", server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 148", server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 149", server: 103.186.155.110, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 150", server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 151", server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 152", server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 153", server: 103.186.155.115, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 116", server: 103.186.154.48, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 117", server: 103.186.154.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 118", server: 103.186.154.4, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 119", server: 103.186.154.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 120", server: 103.186.154.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 121", server: 103.186.154.53, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 122", server: 103.186.154.55, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 123", server: 103.186.154.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 124", server: 103.186.154.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 125", server: 103.186.154.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 126", server: 103.186.154.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 127", server: 103.186.154.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 128", server: 103.186.154.63, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 129", server: 103.186.154.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 130", server: 103.186.154.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 131", server: 103.186.154.67, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 132", server: 103.186.154.68, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 133", server: 103.186.154.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 134", server: 103.186.154.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 135", server: 103.186.154.73, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 136", server: 103.186.154.74, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 137", server: 103.186.154.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 138", server: 103.186.154.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 139", server: 103.186.154.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 140", server: 103.186.154.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 141", server: 103.186.155.101, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 142", server: 103.186.155.102, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 143", server: 103.186.155.105, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 144", server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 145", server: 103.186.155.107, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 146", server: 103.186.155.109, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 147", server: 103.186.155.10, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 148", server: 103.186.155.110, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 149", server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 150", server: 103.186.155.112, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 151", server: 103.186.155.114, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 152", server: 103.186.155.115, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.116:38388, server: 103.186.155.116, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 154", server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 155", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 156", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 157", server: 103.186.155.120, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 158", server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 153", server: 103.186.155.117, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 154", server: 103.186.155.118, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 155", server: 103.186.155.119, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 156", server: 103.186.155.120, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 157", server: 103.186.155.122, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.123:38388, server: 103.186.155.123, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 159", server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 160", server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 161", server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 162", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 163", server: 103.186.155.130, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 158", server: 103.186.155.124, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 159", server: 103.186.155.126, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 160", server: 103.186.155.127, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 161", server: 103.186.155.128, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 162", server: 103.186.155.130, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.131:38388, server: 103.186.155.131, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 164", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 165", server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 166", server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 167", server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 168", server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 169", server: 103.186.155.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 170", server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 163", server: 103.186.155.132, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 164", server: 103.186.155.133, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 165", server: 103.186.155.136, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 166", server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 167", server: 103.186.155.139, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 168", server: 103.186.155.140, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 169", server: 103.186.155.141, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.142:38388, server: 103.186.155.142, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 171", server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 172", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 173", server: 103.186.155.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 174", server: 103.186.155.147, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 175", server: 103.186.155.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 176", server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 177", server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 178", server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 179", server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 180", server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 170", server: 103.186.155.144, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 171", server: 103.186.155.145, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 172", server: 103.186.155.146, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 173", server: 103.186.155.147, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 174", server: 103.186.155.148, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 175", server: 103.186.155.149, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 176", server: 103.186.155.150, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 177", server: 103.186.155.15, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 178", server: 103.186.155.17, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 179", server: 103.186.155.183, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b`", server: 103.186.155.18, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 181", server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 182", server: 103.186.155.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 183", server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 184", server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 185", server: 103.186.155.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 186", server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 180", server: 103.186.155.19, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 181", server: 103.186.155.202, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 182", server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 183", server: 103.186.155.205, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 184", server: 103.186.155.206, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 185", server: 103.186.155.207, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.20:38388, server: 103.186.155.20, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.211:38388, server: 103.186.155.211, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 187", server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 188", server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 189", server: 103.186.155.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 190", server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 191", server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 192", server: 103.186.155.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 193", server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 194", server: 103.186.155.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 195", server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 196", server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 197", server: 103.186.155.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 198", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 199", server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 186", server: 103.186.155.213, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 187", server: 103.186.155.214, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 188", server: 103.186.155.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 189", server: 103.186.155.21, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 190", server: 103.186.155.220, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 191", server: 103.186.155.221, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 192", server: 103.186.155.222, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 193", server: 103.186.155.223, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 194", server: 103.186.155.224, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 195", server: 103.186.155.228, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 196", server: 103.186.155.229, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 197", server: 103.186.155.230, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 198", server: 103.186.155.232, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 2", server: 103.186.155.234, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 200", server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 199", server: 103.186.155.235, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 3", server: 103.186.155.236, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 201", server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 202", server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 200", server: 103.186.155.237, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 201", server: 103.186.155.238, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 4", server: 103.186.155.239, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 203", server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 204", server: 103.186.155.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 205", server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 202", server: 103.186.155.23, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 203", server: 103.186.155.240, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 204", server: 103.186.155.24, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 5", server: 103.186.155.25, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 206", server: 103.186.155.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 207", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 208", server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 209", server: 103.186.155.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 210", server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 211", server: 103.186.155.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 205", server: 103.186.155.26, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 206", server: 103.186.155.28, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 207", server: 103.186.155.30, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 208", server: 103.186.155.31, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 209", server: 103.186.155.33, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 210", server: 103.186.155.34, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.35:38388, server: 103.186.155.35, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 212", server: 103.186.155.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 213", server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 214", server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 215", server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 216", server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 217", server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 211", server: 103.186.155.38, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 212", server: 103.186.155.39, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 213", server: 103.186.155.3, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 214", server: 103.186.155.42, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 215", server: 103.186.155.43, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 216", server: 103.186.155.45, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 6", server: 103.186.155.46, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 218", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 217", server: 103.186.155.49, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.50:38388, server: 103.186.155.50, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.51:38388, server: 103.186.155.51, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 219", server: 103.186.155.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 220", server: 103.186.155.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 221", server: 103.186.155.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 222", server: 103.186.155.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 223", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 224", server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 218", server: 103.186.155.52, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 219", server: 103.186.155.57, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 220", server: 103.186.155.58, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 221", server: 103.186.155.59, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 222", server: 103.186.155.60, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 223", server: 103.186.155.61, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 7", server: 103.186.155.62, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 8", server: 103.186.155.64, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 225", server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 226", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 224", server: 103.186.155.65, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 225", server: 103.186.155.66, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 9", server: 103.186.155.69, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 10", server: 103.186.155.70, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 227", server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 228", server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 226", server: 103.186.155.71, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 227", server: 103.186.155.75, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 11", server: 103.186.155.77, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 12", server: 103.186.155.78, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 13", server: 103.186.155.79, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 229", server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 228", server: 103.186.155.80, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 103.186.155.82:38388, server: 103.186.155.82, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 14", server: 103.186.155.8, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 15", server: 103.186.155.9, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 230", server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 231", server: 217.30.10.70, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 232", server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 233", server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 234", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 235", server: 217.30.10.70, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 236", server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 237", server: 217.30.10.70, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 238", server: 217.30.10.70, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 239", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 240", server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 241", server: 38.60.223.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 242", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 243", server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 244", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 245", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 229", server: 217.30.10.18, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 230", server: 217.30.10.70, port: 9005, type: ss, cipher: aes-256-cfb, password: ZET59LF6DvCC8KVt, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 231", server: 217.30.10.18, port: 9064, type: ss, cipher: aes-256-cfb, password: cp8pRSUAyLhTfVWH, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 232", server: 217.30.10.18, port: 9000, type: ss, cipher: aes-256-cfb, password: a3GFYt36Sm82Vys9, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 233", server: 217.30.10.18, port: 9098, type: ss, cipher: aes-256-cfb, password: aLpQtfEZe445QyHk, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 234", server: 217.30.10.70, port: 9070, type: ss, cipher: aes-256-cfb, password: bf7v334KKDV3YDhH, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 235", server: 217.30.10.18, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 236", server: 217.30.10.70, port: 9084, type: ss, cipher: aes-256-cfb, password: c3NtHJ5ujV2tGDfj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 237", server: 217.30.10.70, port: 9010, type: ss, cipher: aes-256-cfb, password: f63gg8EruDnUrmz4, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 238", server: 185.193.49.88, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 239", server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 240", server: 38.60.223.8, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 241", server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 242", server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 243", server: 217.30.10.18, port: 9088, type: ss, cipher: aes-256-cfb, password: f8npKgNzdkss2ytn, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 244", server: 217.30.10.18, port: 9018, type: ss, cipher: aes-256-cfb, password: fG2artUmHfNT2cX7, udp: true, tfo: false}
   - {name: 217.30.10.18:9040, server: 217.30.10.18, port: 9040, type: ss, cipher: aes-256-cfb, password: p9z5BVADH2YFs3MN, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 246", server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 247", server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 248", server: 217.30.10.70, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 245", server: 221.139.79.57, port: 13979, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 246", server: 218.237.185.230, port: 4652, type: ss, cipher: aes-256-cfb, password: qwerREWQ@@, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 247", server: 217.30.10.70, port: 9056, type: ss, cipher: aes-256-cfb, password: rNBfNuuANFCAk7KB, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 16", server: 217.30.10.18, port: 9094, type: ss, cipher: aes-256-cfb, password: rpgbNnU9rDDU4aWZ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 249", server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 250", server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 251", server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 248", server: 217.30.10.18, port: 9093, type: ss, cipher: aes-256-cfb, password: wfLC2y7rzZyCmuyt, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 249", server: 217.30.10.70, port: 9060, type: ss, cipher: aes-256-cfb, password: ueLXVkvh4hckhErQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 250", server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
   - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 252", server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 251", server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
   - {name: 154.12.242.150:80, server: 154.12.242.150, port: 80, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
   - {name: 57.129.121.229:8443, server: 57.129.121.229, port: 8443, type: ss, cipher: aes-256-gcm, password: 46d51/8QMy48k57CIfS1C5yx2IHsjoEnPJYb7zXDfAc=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 253", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: 54554c1a-b9b3-44be-be9a-7f506dc9cea5, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 254", server: 185.111.156.33, port: 80, type: ss, cipher: aes-256-gcm, password: 5mCH4624QflO1cFR, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 252", server: 84.200.91.158, port: 443, type: ss, cipher: aes-256-gcm, password: 54554c1a-b9b3-44be-be9a-7f506dc9cea5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 253", server: 185.111.156.33, port: 80, type: ss, cipher: aes-256-gcm, password: 5mCH4624QflO1cFR, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "@MARAMBASHI ♥", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 154.53.60.197:80, server: 154.53.60.197, port: 80, type: ss, cipher: aes-256-gcm, password: 8rb580EBG4l7tO8K, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 255", server: 2.58.81.221, port: 80, type: ss, cipher: aes-256-gcm, password: 9dQS3geeylyrRth9, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 254", server: 2.58.81.221, port: 80, type: ss, cipher: aes-256-gcm, password: 9dQS3geeylyrRth9, udp: true, tfo: false}
   - {name: 46.250.254.170:80, server: 46.250.254.170, port: 80, type: ss, cipher: aes-256-gcm, password: BedufgztHO3B5Kqe, udp: true, tfo: false}
   - {name: 62.146.172.130:80, server: 62.146.172.130, port: 80, type: ss, cipher: aes-256-gcm, password: LYXiIUJ0FutnTzBG, udp: true, tfo: false}
   - {name: 62.146.171.59:80, server: 62.146.171.59, port: 80, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
   - {name: 154.53.63.42:80, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 154.53.63.42:80 2, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 256", server: 144.126.145.77, port: 80, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 255", server: 144.126.145.77, port: 80, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, udp: true, tfo: false}
   - {name: 149.102.152.25:80, server: 149.102.152.25, port: 80, type: ss, cipher: aes-256-gcm, password: RLUoaU4nh8b8Mqq7, udp: true, tfo: false}
   - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 17", server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 94.156.250.148:7001, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 46.250.254.174:80, server: 46.250.254.174, port: 80, type: ss, cipher: aes-256-gcm, password: Tqd9GppXpXB8rpc8, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 257", server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 256", server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
   - {name: 149.102.132.186:80, server: 149.102.132.186, port: 80, type: ss, cipher: aes-256-gcm, password: YhzqOeJsfuZ9rkkc, udp: true, tfo: false}
   - {name: 149.102.132.180:80, server: 149.102.132.180, port: 80, type: ss, cipher: aes-256-gcm, password: ZTiO11KwZG3S7aET, udp: true, tfo: false}
   - {name: 154.53.60.212:80, server: 154.53.60.212, port: 80, type: ss, cipher: aes-256-gcm, password: ZfbPFDdeBj0B1Txs, udp: true, tfo: false}
   - {name: 209.126.5.209:80, server: 209.126.5.209, port: 80, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 258", server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 257", server: 64.176.215.70, port: 443, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 259", server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 258", server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
   - {name: 64.176.215.70:80, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
   - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 94.72.127.58:80 2, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
@@ -804,15 +800,15 @@ proxies:
   - {name: 154.12.240.141:80, server: 154.12.240.141, port: 80, type: ss, cipher: aes-256-gcm, password: mK7eN3z276Tr0vVA, udp: true, tfo: false}
   - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: 154.38.176.7:80 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 260", server: 172.105.244.165, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 259", server: 172.105.244.165, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
   - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: 94.72.127.55:80 2, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: "[12581] - Telegram : @configraygan", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 261", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 260", server: 149.102.149.207, port: 443, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: 154.53.57.143:80, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 262", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 263", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 261", server: 107.155.57.51, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 262", server: 137.184.174.93, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -829,11 +825,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -859,27 +852,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -894,8 +887,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -929,13 +922,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -949,8 +942,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -962,9 +955,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -1001,28 +994,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -1032,16 +1025,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -1054,55 +1047,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -1118,46 +1111,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -1168,26 +1160,23 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -1213,27 +1202,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -1248,8 +1237,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -1283,13 +1272,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -1303,8 +1292,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -1316,9 +1305,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -1355,28 +1344,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -1386,16 +1375,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -1408,55 +1397,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -1472,46 +1461,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -1522,26 +1510,23 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -1567,27 +1552,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -1602,8 +1587,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -1637,13 +1622,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -1657,8 +1642,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -1670,9 +1655,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -1709,28 +1694,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -1740,16 +1725,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -1762,55 +1747,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -1826,46 +1811,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -1876,15 +1860,15 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1900,11 +1884,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -1930,27 +1911,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -1965,8 +1946,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -2000,13 +1981,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -2020,8 +2001,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -2033,9 +2014,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -2072,28 +2053,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -2103,16 +2084,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -2125,55 +2106,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -2189,46 +2170,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -2239,26 +2219,23 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -2284,27 +2261,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -2319,8 +2296,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -2354,13 +2331,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -2374,8 +2351,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -2387,9 +2364,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -2426,28 +2403,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -2457,16 +2434,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -2479,55 +2456,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -2543,46 +2520,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -2593,26 +2569,23 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 195.154.202.112:18292
-      - "***✅***@AR14N24b"
-      - 154.17.31.189:18829
-      - dmitmalibu.szxcn.net:18829
       - 51.159.103.137:18290
+      - "***✅***@AR14N24b"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b 3"
       - "***✅***@AR14N24b 4"
@@ -2638,27 +2611,27 @@ proxy-groups:
       - "***✅***@AR14N24b 24"
       - "***✅***@AR14N24b 25"
       - "***✅***@AR14N24b 26"
-      - "***✅***@AR14N24b 27"
       - 103.186.154.139:38388
+      - "***✅***@AR14N24b 27"
       - "***✅***@AR14N24b 28"
       - "***✅***@AR14N24b 29"
-      - "***✅***@AR14N24b 30"
       - 103.186.154.146:38388
       - 103.186.154.147:38388
       - 103.186.154.14:38388
       - 103.186.154.152:38388
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 30"
       - 103.186.154.155:38388
-      - "***✅***@AR14N24b 32"
+      - "***✅***@AR14N24b 31"
       - 103.186.154.158:38388
       - 103.186.154.164:38388
+      - "***✅***@AR14N24b 32"
       - "***✅***@AR14N24b 33"
-      - "***✅***@AR14N24b 34"
       - 103.186.154.167:38388
+      - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
-      - "***✅***@AR14N24b 37"
       - 103.186.154.173:38388
+      - "***✅***@AR14N24b 37"
       - "***✅***@AR14N24b 38"
       - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
@@ -2673,8 +2646,8 @@ proxy-groups:
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - 103.186.154.190:38388
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
@@ -2708,13 +2681,13 @@ proxy-groups:
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - 103.186.154.233:38388
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
-      - "***✅***@AR14N24b 90"
       - 103.186.154.238:38388
+      - "***✅***@AR14N24b 90"
       - "***✅***@AR14N24b 91"
       - "***✅***@AR14N24b 92"
       - "***✅***@AR14N24b 93"
@@ -2728,8 +2701,8 @@ proxy-groups:
       - "***✅***@AR14N24b 101"
       - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
-      - "***✅***@AR14N24b 104"
       - 103.186.154.28:38388
+      - "***✅***@AR14N24b 104"
       - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
@@ -2741,9 +2714,9 @@ proxy-groups:
       - "***✅***@AR14N24b 113"
       - "***✅***@AR14N24b 114"
       - "***✅***@AR14N24b 115"
-      - "***✅***@AR14N24b 116"
       - 103.186.154.46:38388
       - 103.186.154.47:38388
+      - "***✅***@AR14N24b 116"
       - "***✅***@AR14N24b 117"
       - "***✅***@AR14N24b 118"
       - "***✅***@AR14N24b 119"
@@ -2780,28 +2753,28 @@ proxy-groups:
       - "***✅***@AR14N24b 150"
       - "***✅***@AR14N24b 151"
       - "***✅***@AR14N24b 152"
-      - "***✅***@AR14N24b 153"
       - 103.186.155.116:38388
+      - "***✅***@AR14N24b 153"
       - "***✅***@AR14N24b 154"
       - "***✅***@AR14N24b 155"
       - "***✅***@AR14N24b 156"
       - "***✅***@AR14N24b 157"
-      - "***✅***@AR14N24b 158"
       - 103.186.155.123:38388
+      - "***✅***@AR14N24b 158"
       - "***✅***@AR14N24b 159"
       - "***✅***@AR14N24b 160"
       - "***✅***@AR14N24b 161"
       - "***✅***@AR14N24b 162"
-      - "***✅***@AR14N24b 163"
       - 103.186.155.131:38388
+      - "***✅***@AR14N24b 163"
       - "***✅***@AR14N24b 164"
       - "***✅***@AR14N24b 165"
       - "***✅***@AR14N24b 166"
       - "***✅***@AR14N24b 167"
       - "***✅***@AR14N24b 168"
       - "***✅***@AR14N24b 169"
-      - "***✅***@AR14N24b 170"
       - 103.186.155.142:38388
+      - "***✅***@AR14N24b 170"
       - "***✅***@AR14N24b 171"
       - "***✅***@AR14N24b 172"
       - "***✅***@AR14N24b 173"
@@ -2811,16 +2784,16 @@ proxy-groups:
       - "***✅***@AR14N24b 177"
       - "***✅***@AR14N24b 178"
       - "***✅***@AR14N24b 179"
-      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 180"
       - "***✅***@AR14N24b 181"
       - "***✅***@AR14N24b 182"
       - "***✅***@AR14N24b 183"
       - "***✅***@AR14N24b 184"
       - "***✅***@AR14N24b 185"
-      - "***✅***@AR14N24b 186"
       - 103.186.155.20:38388
       - 103.186.155.211:38388
+      - "***✅***@AR14N24b 186"
       - "***✅***@AR14N24b 187"
       - "***✅***@AR14N24b 188"
       - "***✅***@AR14N24b 189"
@@ -2833,55 +2806,55 @@ proxy-groups:
       - "***✅***@AR14N24b 196"
       - "***✅***@AR14N24b 197"
       - "***✅***@AR14N24b 198"
-      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 200"
+      - "***✅***@AR14N24b 199"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 200"
       - "***✅***@AR14N24b 201"
-      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 202"
       - "***✅***@AR14N24b 203"
       - "***✅***@AR14N24b 204"
-      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 205"
       - "***✅***@AR14N24b 206"
       - "***✅***@AR14N24b 207"
       - "***✅***@AR14N24b 208"
       - "***✅***@AR14N24b 209"
       - "***✅***@AR14N24b 210"
-      - "***✅***@AR14N24b 211"
       - 103.186.155.35:38388
+      - "***✅***@AR14N24b 211"
       - "***✅***@AR14N24b 212"
       - "***✅***@AR14N24b 213"
       - "***✅***@AR14N24b 214"
       - "***✅***@AR14N24b 215"
       - "***✅***@AR14N24b 216"
-      - "***✅***@AR14N24b 217"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 218"
+      - "***✅***@AR14N24b 217"
       - 103.186.155.50:38388
       - 103.186.155.51:38388
+      - "***✅***@AR14N24b 218"
       - "***✅***@AR14N24b 219"
       - "***✅***@AR14N24b 220"
       - "***✅***@AR14N24b 221"
       - "***✅***@AR14N24b 222"
       - "***✅***@AR14N24b 223"
-      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b` 7"
       - "***✅***@AR14N24b` 8"
+      - "***✅***@AR14N24b 224"
       - "***✅***@AR14N24b 225"
-      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
+      - "***✅***@AR14N24b 226"
       - "***✅***@AR14N24b 227"
-      - "***✅***@AR14N24b 228"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - "***✅***@AR14N24b` 13"
-      - "***✅***@AR14N24b 229"
+      - "***✅***@AR14N24b 228"
       - 103.186.155.82:38388
       - "***✅***@AR14N24b` 14"
       - "***✅***@AR14N24b` 15"
+      - "***✅***@AR14N24b 229"
       - "***✅***@AR14N24b 230"
       - "***✅***@AR14N24b 231"
       - "***✅***@AR14N24b 232"
@@ -2897,46 +2870,45 @@ proxy-groups:
       - "***✅***@AR14N24b 242"
       - "***✅***@AR14N24b 243"
       - "***✅***@AR14N24b 244"
-      - "***✅***@AR14N24b 245"
       - 217.30.10.18:9040
+      - "***✅***@AR14N24b 245"
       - "***✅***@AR14N24b 246"
       - "***✅***@AR14N24b 247"
-      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b` 16"
+      - "***✅***@AR14N24b 248"
       - "***✅***@AR14N24b 249"
       - "***✅***@AR14N24b 250"
-      - "***✅***@AR14N24b 251"
       - 66.94.125.178:80
-      - "***✅***@AR14N24b 252"
+      - "***✅***@AR14N24b 251"
       - 154.12.242.150:80
       - 57.129.121.229:8443
+      - "***✅***@AR14N24b 252"
       - "***✅***@AR14N24b 253"
-      - "***✅***@AR14N24b 254"
       - 144.217.164.29:12000
       - 15.204.247.49:12000
       - "@MARAMBASHI ♥"
       - 57.128.214.100:12000
       - 154.53.60.197:80
-      - "***✅***@AR14N24b 255"
+      - "***✅***@AR14N24b 254"
       - 46.250.254.170:80
       - 62.146.172.130:80
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - "***✅***@AR14N24b 256"
+      - "***✅***@AR14N24b 255"
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - "***✅***@AR14N24b` 17"
       - 94.156.250.148:7001
       - 46.250.254.174:80
-      - "***✅***@AR14N24b 257"
+      - "***✅***@AR14N24b 256"
       - 149.102.132.186:80
       - 149.102.132.180:80
       - 154.53.60.212:80
       - 209.126.5.209:80
-      - "***✅***@AR14N24b 258"
+      - "***✅***@AR14N24b 257"
       - برای اتصال دائمی جوین شو🔐 TelegramID ⌲Express_freevpn 🪩
-      - "***✅***@AR14N24b 259"
+      - "***✅***@AR14N24b 258"
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
@@ -2947,15 +2919,15 @@ proxy-groups:
       - 154.12.240.141:80
       - 154.38.176.7:80
       - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 260"
+      - "***✅***@AR14N24b 259"
       - 94.72.127.55:80
       - 94.72.127.55:80 2
       - "[12581] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 261"
+      - "***✅***@AR14N24b 260"
       - 149.102.149.207:80
       - 154.53.57.143:80
+      - "***✅***@AR14N24b 261"
       - "***✅***@AR14N24b 262"
-      - "***✅***@AR14N24b 263"
   - name: دانلود منیجر 📥
     type: select
     proxies:

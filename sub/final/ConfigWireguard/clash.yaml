@@ -469,6 +469,15 @@ proxies:
   - {name: 135.125.168.181:878, server: 135.125.168.181, port: 878, type: vless, tls: true, packet-encoding: xudp, uuid: 89ed95bb-c4cd-09b8-2c39-1a728c58ec16, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.82.251.208:8880, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip-78.f-sub.cfd:1517, server: vip-78.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: a1049f7f-6e81-4735-bdb9-c7c5a6d88ba6, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3, server: 185.19.33.226, port: 42525, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: amazon.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗨𝗦𝗔 𝘃𝟮, server: 185.92.181.154, port: 2043, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗙𝗿𝗮𝗻𝗰𝗲, server: 194.120.24.160, port: 42568, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗨𝗞`, server: 31.57.46.47, port: 42532, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗔𝗳𝗿𝗶𝗰𝗮, server: 45.144.49.18, port: 42321, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹, server: 45.91.193.124, port: 41617, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗧𝘂𝗿𝗸𝗲𝘆, server: 46.8.229.139, port: 2080, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗣𝗼𝗹𝗮𝗻𝗱, server: poland.speedtesty.xyz, port: 42328, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝗨𝘀𝗮, server: usa.speedbluepanel.sbs, port: 42354, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8add82d-0a0a-4f3b-a22e-c74f83da73b9, servername: afrcloud22.mmv.kr`, network: ws, ws-opts: {path: /138.2.64.229=443, headers: {Host: afrcloud22.mmv.kr`}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -490,6 +499,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -501,6 +519,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -512,6 +539,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: اتصال پایدار 🔗
     type: url-test
@@ -532,6 +568,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -543,6 +588,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -554,6 +608,15 @@ proxy-groups:
       - 135.125.168.181:878
       - 45.82.251.208:8880
       - vip-78.f-sub.cfd:1517
+      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
+      - 𝗨𝗦𝗔 𝘃𝟮
+      - 𝗙𝗿𝗮𝗻𝗰𝗲
+      - 𝗨𝗞`
+      - 𝗔𝗳𝗿𝗶𝗰𝗮
+      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
+      - 𝗧𝘂𝗿𝗸𝗲𝘆
+      - 𝗣𝗼𝗹𝗮𝗻𝗱
+      - 𝗨𝘀𝗮
       - chatgpt.com:443
   - name: دانلود منیجر 📥
     type: select

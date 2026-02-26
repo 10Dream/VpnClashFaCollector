@@ -724,7 +724,6 @@ proxies:
   - {name: 35.158.180.45:22223 2, server: 35.158.180.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[13514] - Telegram : @configraygan", server: 35.158.180.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 187", server: 35.158.60.29, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.44.96.183:22223, server: 51.44.96.183, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.120.114:22223, server: 52.57.120.114, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 188", server: 52.57.120.114, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.181.122.119:22223, server: 63.181.122.119, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -1043,7 +1042,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223
@@ -1352,7 +1350,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223
@@ -1661,7 +1658,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223
@@ -1979,7 +1975,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223
@@ -2288,7 +2283,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223
@@ -2597,7 +2591,6 @@ proxy-groups:
       - 35.158.180.45:22223 2
       - "[13514] - Telegram : @configraygan"
       - "***✅***@AR14N24b 187"
-      - 51.44.96.183:22223
       - 52.57.120.114:22223
       - "***✅***@AR14N24b 188"
       - 63.181.122.119:22223

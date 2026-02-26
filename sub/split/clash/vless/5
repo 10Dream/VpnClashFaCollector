@@ -465,10 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 213.21.222.169:8448, server: 213.21.222.169, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 6d490cef-0b49-459d-a72c-0bb0210f3dd0, servername: www.dropbox.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: northern}, reality-opts: {public-key: HmwN8oi777opOr9k07wavuqiDt8axjC3pdpwt0-hoGk, short-id: c5670edd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.9.75.37:443, server: 45.9.75.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d490cef-0b49-459d-a72c-0bb0210f3dd0, servername: api.vk.me, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: northern}, reality-opts: {public-key: LHYLFvUULY6gKeBtLbAMNwVvnc-z2UCvuHYalPQqwEk, short-id: fbc66f620fae3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: CHAtgPT.coM:443, server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d57becf-27f3-4136-9289-a2ae5449af83, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: V 108 @Outline_Vpn, server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 114 @Outline_Vpn`, server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 57.129.133.88, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -904,7 +900,6 @@ proxies:
   - {name: configraygan_63, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.128.70:443, server: 172.66.128.70, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /156.244.1.250=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇰🇷 afrcloud22.mmv.kr:80, server: afrcloud22.mmv.kr, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /91.90.195.38:443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 16", server: alalucarne.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /185.186.245.40:81, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 cdn.zoom.us:443, server: cdn.zoom.us, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /138.2.5.136=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_23 2, server: cdn.zoom.us, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /138.2.5.136=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🎩", server: cdn.zoom.us, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /138.2.5.136=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -936,6 +931,11 @@ proxies:
   - {name: email.swiftraci.org:443 2, server: email.swiftraci.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: acd3f06c-0543-498b-b5d3-f7a25fbde50b, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Cs45TZ-4YKa8fWZ72YJcIcQCKipWsoYNZHEqFvs-PTE, short-id: bc06a5b31009}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dns1.bustyyetkin.monster:443 3, server: dns1.bustyyetkin.monster, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad5005c1-4ae2-46ae-a3b6-292c049c50f3, servername: www.hollywoodreporter.com, host: www.hollywoodreporter.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4SvSS7EqHyV_LDW4vB2f7UIj6x_GXsR3vMnqnaxspHo, short-id: d30283c91923}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 24", server: 104.16.80.144, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.16.80.144:2087, server: 104.16.80.144, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: "/?TELEGRAM--KANAL--AppsoonerVPN--AppsoonerVPN--AppsoonerVPN--AppsoonerVPN--AppsoonerVPN--AppsoonerVPN", headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 104.16.80.144, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN", headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🇧🇷 2", server: 104.16.80.144, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy 25", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy` 7", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -952,10 +952,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -1391,7 +1387,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -1423,16 +1418,17 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -1868,7 +1864,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -1900,16 +1895,17 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -2345,7 +2341,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -2377,6 +2372,11 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2392,10 +2392,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -2831,7 +2827,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -2863,16 +2858,17 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -3308,7 +3304,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -3340,16 +3335,17 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 213.21.222.169:8448
-      - 45.9.75.37:443
-      - CHAtgPT.coM:443
-      - V 108 @Outline_Vpn
       - V 114 @Outline_Vpn`
       - "@meliproxyy`"
       - 53@oneclickvpnkeys
@@ -3785,7 +3781,6 @@ proxy-groups:
       - configraygan_63
       - 172.66.128.70:443
       - 🇰🇷 afrcloud22.mmv.kr:80
-      - "@proxy_kafee 16"
       - 🇺🇸 cdn.zoom.us:443
       - configraygan_23 2
       - "@vpnbaz 🎩"
@@ -3817,6 +3812,11 @@ proxy-groups:
       - email.swiftraci.org:443 2
       - dns1.bustyyetkin.monster:443 3
       - "@meliproxyy 24"
+      - 104.16.80.144:2087
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - "@MARAMBASHI 🇧🇷 2"
+      - "@meliproxyy 25"
+      - "@meliproxyy` 7"
   - name: دانلود منیجر 📥
     type: select
     proxies:

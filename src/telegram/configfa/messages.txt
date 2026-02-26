@@ -1,5 +1,5 @@
 # آرشیو کانال: @configfa
-بروزرسانی: 2026-02-26 04:00:52 UTC
+بروزرسانی: 2026-02-26 10:39:16 UTC
 
 ### 🕒 2026-02-25 11:24:22 UTC
 > ↪️ **Forwarded**
@@ -68,29 +68,6 @@ vless://ad8a28d6-a327-4ccc-9335-41fdd9738437@ip-data.turkserver.ir:2087?path=%2F
 vless://6bf2c61f-db69-4e00-9dc5-249b83e69d73@srvfree.iranai.space:41314?security=none&encryption=none&host=%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn&headerType=http&type=tcp#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29
 ss://Y2hhY2hhMjAtcG9seTEzMDU6NmUzZTQzZjQtMTJiNy00MmYxLThiOTMtNDFhMTUyZDU2MTJk@
 [78.38.246.150:8446#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29](http://78.38.246.150:8446/#%F0%9F%92%AB%20%40PewezaVPN%20%28%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%29)
-
----
-
-### 🕒 2026-02-24 04:59:34 UTC
-wireguard://SLQM1iGPVovYSVkSPiyHJo7for5BfVoXBdhB%2BmPFxUE%3D@162.159.192.5:500?address=172.16.0.2%2F32&reserved=220%2C50%2C126&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=5&wnoisedelay=5&wpayloadsize=40-90#ZHK 2026-02-20 10:03
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
-PrivateKey = QLd/KZTinPP5CpCkItTU1WQcWfhhp8WdGBJ5KkH+yEg=
-DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
-MTU = 1280
-Jc = 4
-Jmin = 40
-Jmax = 70
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-PersistentKeepalive = 30
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = [2606:4700:d1::4eb4:32ba:453a:5e01]:859
-و فایل .conf پشتیبانی کنه
 
 ---
 

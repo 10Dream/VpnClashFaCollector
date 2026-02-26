@@ -466,12 +466,24 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: freenet_vt, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: freenet_vt 2, server: 18.192.210.130, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt`, server: 3.70.45.81, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a0891e86-ce1f-4e1b-e47c-84c890f1b130, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 3, server: 185.162.11.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 4, server: panel.p4rsw.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aea1a64f-60fa-4891-86fc-53be8758fc65, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt` 2, server: 18.159.131.55, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c21ba381-5808-4098-b94d-86c468a683d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 5, server: 91.242.229.129, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8, servername: nl18.fastlanehosting.ru, alpn: [h2%2Chttp%2F1.1], host: nl18.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 2, server: 188.114.97.3, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
+  - {name: freenet_vt 3, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: freenet_vt 4, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 5, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 6, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 7, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: freenet_vt 8, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 9, server: www.creationlong.org, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: freenet_vt 10, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 11, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: freenet_vt`, server: www.gossipglove.com, port: 443, type: trojan, password: humanity, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment}, udp: true, tfo: false}
+  - {name: freenet_vt 12, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: freenet_vt 13, server: 18.192.210.130, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt` 2, server: 3.70.45.81, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a0891e86-ce1f-4e1b-e47c-84c890f1b130, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 14, server: 185.162.11.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 15, server: panel.p4rsw.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aea1a64f-60fa-4891-86fc-53be8758fc65, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt` 3, server: 18.159.131.55, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c21ba381-5808-4098-b94d-86c468a683d9, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 16, server: 91.242.229.129, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: c3d8bdd0-777e-47b0-b7d4-28cc1b160ad8, servername: nl18.fastlanehosting.ru, alpn: [h2%2Chttp%2F1.1], host: nl18.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,11 +502,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -503,11 +527,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -516,11 +552,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -538,11 +586,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -551,11 +611,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -564,11 +636,23 @@ proxy-groups:
     proxies:
       - freenet_vt
       - freenet_vt 2
-      - freenet_vt`
       - freenet_vt 3
       - freenet_vt 4
-      - freenet_vt` 2
       - freenet_vt 5
+      - freenet_vt 6
+      - freenet_vt 7
+      - freenet_vt 8
+      - freenet_vt 9
+      - freenet_vt 10
+      - freenet_vt 11
+      - freenet_vt`
+      - freenet_vt 12
+      - freenet_vt 13
+      - freenet_vt` 2
+      - freenet_vt 14
+      - freenet_vt 15
+      - freenet_vt` 3
+      - freenet_vt 16
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,8 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 167.71.136.139:443, server: 167.71.136.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 167.71.91.150:443, server: 167.71.91.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 167.88.160.144:8443, server: 167.88.160.144, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 167.99.36.26:443, server: 167.99.36.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram@AliXTso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 168.138.192.16:54584, server: 168.138.192.16, port: 54584, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -876,14 +874,13 @@ proxies:
   - {name: "@meliproxyy`", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: srvfree.iranai.space:41314 2, server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: /---, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 6", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 12", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 2", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_14, server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_6, server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 13", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---40proxy_kafeeV2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 12", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---40proxy_kafeeV2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 2", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---TELEGRAM---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig---Vegaconfig", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Lrnbymaa 🤞🏻", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 14", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 13", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2, server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_15, server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -892,6 +889,10 @@ proxies:
   - {name: "@PewezaVPN (تلگرام) 4", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 fi.divinevpnconnect.ru:443, server: fi.divinevpnconnect.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6c1e7b2f-7376-4658-98e6-3a2d0f582c51, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: fygfmVgp2H6Y4ECbiDODx57Zz4CTNGFLYGtCqC31xiM, short-id: 1da66e71}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.223.168.238:8448, server: 185.223.168.238, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 6d490cef-0b49-459d-a72c-0bb0210f3dd0, servername: www.dropbox.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: northern}, reality-opts: {public-key: HmwN8oi777opOr9k07wavuqiDt8axjC3pdpwt0-hoGk, short-id: c5670edd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 213.21.222.169:8448, server: 213.21.222.169, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 6d490cef-0b49-459d-a72c-0bb0210f3dd0, servername: www.dropbox.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: northern}, reality-opts: {public-key: HmwN8oi777opOr9k07wavuqiDt8axjC3pdpwt0-hoGk, short-id: c5670edd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.9.75.37:443, server: 45.9.75.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d490cef-0b49-459d-a72c-0bb0210f3dd0, servername: api.vk.me, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: northern}, reality-opts: {public-key: LHYLFvUULY6gKeBtLbAMNwVvnc-z2UCvuHYalPQqwEk, short-id: fbc66f620fae3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: CHAtgPT.coM:443, server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d57becf-27f3-4136-9289-a2ae5449af83, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: V 108 @Outline_Vpn, server: 104.26.14.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6fab6cc6-e340-4073-93e1-c6c6802002c7, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /167.179.110.68=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -908,8 +909,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -1319,14 +1318,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -1335,14 +1333,16 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -1752,14 +1752,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -1768,14 +1767,16 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -2185,14 +2186,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -2201,6 +2201,10 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -2216,8 +2220,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -2627,14 +2629,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -2643,14 +2644,16 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -3060,14 +3063,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -3076,14 +3078,16 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 167.71.136.139:443
-      - 167.71.91.150:443
       - 167.88.160.144:8443
       - 167.99.36.26:443
       - 168.138.192.16:54584
@@ -3493,14 +3497,13 @@ proxy-groups:
       - "@meliproxyy`"
       - srvfree.iranai.space:41314 2
       - "@meliproxyy 6"
-      - "@proxy_kafee 12"
       - "@PewezaVPN (تلگرام) 2"
       - configraygan_14
       - configraygan_6
-      - "@proxy_kafee 13"
+      - "@proxy_kafee 12"
       - "%***🆔*** 2"
       - "@Lrnbymaa 🤞🏻"
-      - "@proxy_kafee 14"
+      - "@proxy_kafee 13"
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩 2
       - "@PewezaVPN (تلگرام) 3"
       - configraygan_15
@@ -3509,6 +3512,10 @@ proxy-groups:
       - "@PewezaVPN (تلگرام) 4"
       - 🇷🇺 fi.divinevpnconnect.ru:443
       - 185.223.168.238:8448
+      - 213.21.222.169:8448
+      - 45.9.75.37:443
+      - CHAtgPT.coM:443
+      - V 108 @Outline_Vpn
   - name: دانلود منیجر 📥
     type: select
     proxies:

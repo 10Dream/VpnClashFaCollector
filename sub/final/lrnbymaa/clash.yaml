@@ -468,6 +468,7 @@ proxies:
   - {name: 1 آلمان | @LRNBYMAA, server: ip.clo.pydri.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 12e4f472-0260-4e5d-a486-b1e790548bcb, servername: de-turbopydar.photopydar.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/ws?ed=2560", headers: {Host: de-turbopydar.photopydar.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: فرانسه | @LRNBYMAA, server: ip2.clo.pydri.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 12e4f472-0260-4e5d-a486-b1e790548bcb, servername: fr-turbopydar.photopydar.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/ws?ed=2560", headers: {Host: fr-turbopydar.photopydar.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: امریکا | @LRNBYMAA, server: ip2.clo.pydri.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 12e4f472-0260-4e5d-a486-b1e790548bcb, servername: us-turbopydar.photopydar.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/ws?ed=2560", headers: {Host: us-turbopydar.photopydar.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Lrnbymaa اختصاصی`", server: 185.226.118.143, port: 43019, type: vless, tls: true, packet-encoding: xudp, uuid: 17a6c797-9234-41b4-f2b9-07360cf74793, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Lrnbymaa 🕊`", server: ipbaz.ping-box.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@LRNBYMAA`", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Lrnbymaa 🤞🏻", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -493,6 +494,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"
@@ -508,6 +510,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"
@@ -523,6 +526,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"
@@ -547,6 +551,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"
@@ -562,6 +567,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"
@@ -577,6 +583,7 @@ proxy-groups:
       - 1 آلمان | @LRNBYMAA
       - فرانسه | @LRNBYMAA
       - امریکا | @LRNBYMAA
+      - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🕊`"
       - "@LRNBYMAA`"
       - "@Lrnbymaa 🤞🏻"

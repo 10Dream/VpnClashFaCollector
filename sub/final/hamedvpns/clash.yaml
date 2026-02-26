@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇳🇱 nl, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: bpb-, server: chatgpt.com, port: 2087, type: trojan, password: hp321456, sni: hP71.pagEs.DEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trJVbwlGfF6GxIZXtU/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==, headers: {Host: hP71.pagEs.DEv}}, udp: true, tfo: false}
   - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: chz.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: chz.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: rau.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: rau.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,7 +490,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
@@ -507,7 +505,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
@@ -523,7 +520,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
@@ -548,7 +544,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
@@ -564,7 +559,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
@@ -580,7 +574,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱 nl
       - bpb-
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
       - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"

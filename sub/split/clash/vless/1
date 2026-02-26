@@ -481,7 +481,6 @@ proxies:
   - {name: "***✅***@AR14N24b 8", server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.185.26:443, server: 104.18.185.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: ["h3,h2"], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ایران خانم ۱, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: red-grass-4779.synthia-c16.workers.dev, network: ws, ws-opts: {path: /dabaihk.webn.cc/db1024143bf11354, headers: {Host: red-grass-4779.synthia-c16.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: dabaihk.webn.cc, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024143bf11354, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00640161-0300-45ae-a08c-6b08476bbe7d, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /154.19.242.205=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 12", server: 37.139.43.165, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 0072c543-c2c1-48ff-9e20-8a3bb8480473, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _lcfyQtkjviQ8gAZLKJfbg9p2_UC4Voz5S5c3iL7SFM, short-id: 6c0dc6f1a1e926de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -527,7 +526,6 @@ proxies:
   - {name: 🇩🇪 de.prod.n7.homes:8443, server: de.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.prod.n7.homes:8443 2, server: de.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 37", server: fr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tr.prod.n7.homes:8443, server: tr.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: 95.38.38.238, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 0202580c-7393-4c99-8f6a-7f58ac25b14a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 38", server: 95.38.38.238, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 0202580c-7393-4c99-8f6a-7f58ac25b14a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_8, server: 95.38.38.238, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 0202580c-7393-4c99-8f6a-7f58ac25b14a, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -723,6 +721,7 @@ proxies:
   - {name: lit.litiran.ir:2083, server: lit.litiran.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0215d2-3aa7-40e1-b380-45b257eae241, servername: almaani2.litstore.ir, network: ws, ws-opts: {path: /, headers: {Host: almaani2.litstore.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lit3.litiran.ir:2083, server: lit3.litiran.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0215d2-3aa7-40e1-b380-45b257eae241, servername: photos-ge1.kafeistanbul.shop, network: ws, ws-opts: {path: /, headers: {Host: photos-ge1.kafeistanbul.shop}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lit5.litiran.ir:2083, server: lit5.litiran.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 0f0215d2-3aa7-40e1-b380-45b257eae241, servername: videogame-ge2.litiran.ir, network: ws, ws-opts: {path: /, headers: {Host: videogame-ge2.litiran.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 165.22.49.27:2567, server: 165.22.49.27, port: 2567, type: vless, tls: true, packet-encoding: xudp, uuid: 0f021ee3-772e-4e24-e0d1-415a2e4a61e1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 160", server: 165.22.49.27, port: 2567, type: vless, tls: true, packet-encoding: xudp, uuid: 0f021ee3-772e-4e24-e0d1-415a2e4a61e1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan_61, server: 165.22.49.27, port: 2567, type: vless, tls: true, packet-encoding: xudp, uuid: 0f021ee3-772e-4e24-e0d1-415a2e4a61e1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 161", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f1b6d8d-3f8c-4713-b32d-c94947083485, servername: apexbhao1.qzz.io, network: ws, ws-opts: {path: /43.218.77.16=1443, headers: {Host: apexbhao1.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -970,7 +969,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -1016,7 +1014,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -1212,6 +1209,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
@@ -1449,7 +1447,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -1495,7 +1492,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -1691,6 +1687,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
@@ -1928,7 +1925,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -1974,7 +1970,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -2170,6 +2165,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
@@ -2416,7 +2412,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -2462,7 +2457,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -2658,6 +2652,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
@@ -2895,7 +2890,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -2941,7 +2935,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -3137,6 +3130,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
@@ -3374,7 +3368,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "***✅***@AR14N24b 9"
       - 104.18.185.26:443
-      - ایران خانم ۱
       - "***✅***@AR14N24b 10"
       - "***✅***@AR14N24b 11"
       - "***✅***@AR14N24b 12"
@@ -3420,7 +3413,6 @@ proxy-groups:
       - 🇩🇪 de.prod.n7.homes:8443
       - 🇩🇪 de.prod.n7.homes:8443 2
       - "***✅***@AR14N24b 37"
-      - tr.prod.n7.homes:8443
       - "@proxy_kafee`"
       - "***✅***@AR14N24b 38"
       - configraygan_8
@@ -3616,6 +3608,7 @@ proxy-groups:
       - lit.litiran.ir:2083
       - lit3.litiran.ir:2083
       - lit5.litiran.ir:2083
+      - 165.22.49.27:2567
       - "***✅***@AR14N24b 160"
       - configraygan_61
       - "***✅***@AR14N24b 161"
