@@ -466,14 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 206.71.158.41:35000, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.38.143.236:60633, server: 46.38.143.236, port: 60633, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: HnzIN1CLGGEh+mD/uzbbvTQc/Alq+hkmrC7Po3D4k4E=, udp: true, tfo: false}
-  - {name: 51.75.168.50:13030, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
-  - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
-  - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: 82.38.31.148:8080, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 45.159.148.130:2093, server: 45.159.148.130, port: 2093, type: vless, tls: true, packet-encoding: xudp, uuid: 2ee95306-39b9-439b-b583-a0203b6a4e81, network: ws, ws-opts: {path: /DownloAdMusic, headers: {Host: www.speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxa06.gaterserver.ir:2096, server: maxa06.gaterserver.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 42f4be04-31d7-477d-9549-c1f79c6b9ee0, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.101.115.71:443, server: 141.101.115.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e125438-1a39-440e-95fc-36b9dec03e5f, servername: adderall.adaspoloandco.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /faq, headers: {Host: adderall.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,14 +498,6 @@ proxy-groups:
     type: select
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443
@@ -536,14 +520,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443
@@ -566,14 +542,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443
@@ -605,14 +573,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443
@@ -635,14 +595,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443
@@ -665,14 +617,6 @@ proxy-groups:
     interval: 600
     proxies:
       - 206.71.158.41:35000
-      - 46.38.143.236:60633
-      - 51.75.168.50:13030
-      - 57.129.94.79:11206
-      - series-a1.samanehha.co:443
-      - 82.38.31.176:8080
-      - admin.c2.havij.co:443
-      - 82.38.31.148:8080
-      - 82.38.31.35:8080
       - 45.159.148.130:2093
       - maxa06.gaterserver.ir:2096
       - 141.101.115.71:443

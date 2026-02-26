@@ -465,21 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***🆔***", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 9nkUgSHn4Rnesx6BPMKZJGcBDa6mXVPJKLa9e48zF8NVC16hXefJSK5VdNH6Qv7US2CgR7YXtUsUVFNj8RvMXBBfH9gVwLnw, udp: true, tfo: false}
-  - {name: "***🆔*** 2", server: 93.174.164.89, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bc801a7cac5f134, udp: true, tfo: false}
-  - {name: "***🆔*** 3", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa, udp: true, tfo: false}
+  - {name: "***🆔***", server: 93.174.164.89, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bc801a7cac5f134, udp: true, tfo: false}
   - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "***🆔*** 4", server: 211.20.245.139, port: 3462, type: trojan, password: 736cd94d-7b94-3e44-8106-3419f64eaf09, sni: 45.32.28.232, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 5", server: 59.125.131.163, port: 3462, type: trojan, password: 736cd94d-7b94-3e44-8106-3419f64eaf09, sni: 45.32.28.232, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 6", server: 185.120.59.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 7", server: 194.87.31.160, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: st.okcdn.ru, host: st.okcdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34, short-id: 39a1eb3ec417cd66}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 8", server: 65.109.196.245, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 04e9a9d6-2ba8-4d0d-a508-3e10fa668a86, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 9", server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0518234d-4953-5a33-ab33-ea81f5a884e0, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 2", server: 211.20.245.139, port: 3462, type: trojan, password: 736cd94d-7b94-3e44-8106-3419f64eaf09, sni: 45.32.28.232, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 3", server: 59.125.131.163, port: 3462, type: trojan, password: 736cd94d-7b94-3e44-8106-3419f64eaf09, sni: 45.32.28.232, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 4", server: 185.120.59.48, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 5", server: 194.87.31.160, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 03dd7e7c-8d2a-4cd2-b920-f5ed564fc8c4, servername: st.okcdn.ru, host: st.okcdn.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: P-3bYKbPp5YeCefayC3S3PvLanBv_lp0p_5qfrjbM34, short-id: 39a1eb3ec417cd66}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 6", server: 65.109.196.245, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 04e9a9d6-2ba8-4d0d-a508-3e10fa668a86, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 7", server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0518234d-4953-5a33-ab33-ea81f5a884e0, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔***", server: vipi11.abdulkhanioffline.pw, port: 22527, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3d266a-ce3c-4fa9-b252-95144b7bc443, host: cafebazaar.snapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 10", server: 64.188.117.71, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 11", server: 84.234.28.75, port: 8276, type: vless, tls: true, packet-encoding: xudp, uuid: 2ab537a3-484b-4546-b3f9-42524fdc7ce9, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: 34tAykdTer8UPMP8u4yK9oOWG0qaoRp91Ge_yqTsKiw, short-id: 11fc5f260a203f63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔*** 12", server: 95.164.53.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg, short-id: 701775cae5f3a793}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 8", server: 64.188.117.71, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 9", server: 84.234.28.75, port: 8276, type: vless, tls: true, packet-encoding: xudp, uuid: 2ab537a3-484b-4546-b3f9-42524fdc7ce9, servername: aparat.com, host: aparat.com, path: /, reality-opts: {public-key: 34tAykdTer8UPMP8u4yK9oOWG0qaoRp91Ge_yqTsKiw, short-id: 11fc5f260a203f63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🆔*** 10", server: 95.164.53.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg, short-id: 701775cae5f3a793}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn", server: 18.159.35.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 2", server: 18.192.210.130, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%***🆔*** 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -518,20 +516,18 @@ proxy-groups:
     type: select
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"
@@ -560,20 +556,18 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"
@@ -602,20 +596,18 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"
@@ -653,20 +645,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"
@@ -695,20 +685,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"
@@ -737,20 +725,18 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🆔***"
-      - "***🆔*** 2"
-      - "***🆔*** 3"
       - admin.c1.webramz.co:443
       - series-a2.samanehha.co:443
+      - "***🆔*** 2"
+      - "***🆔*** 3"
       - "***🆔*** 4"
       - "***🆔*** 5"
       - "***🆔*** 6"
       - "***🆔*** 7"
+      - "%***🆔***"
       - "***🆔*** 8"
       - "***🆔*** 9"
-      - "%***🆔***"
       - "***🆔*** 10"
-      - "***🆔*** 11"
-      - "***🆔*** 12"
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
       - "%***🆔*** 2"

@@ -469,15 +469,11 @@ proxies:
   - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, sni: www.refersion.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nnnnnnnnn.huangshang.online:27446, server: nnnnnnnnn.huangshang.online, port: 27446, type: ss, cipher: 2022-blake3-aes-256-gcm, password: MjM5N2E4ODhjMWQ5NDMxZWE3MWU4ZTQ1YTk4YmFkMzg=:YjliYjMzMmQ1ZTBkNDFhZmFkYWM0OTM2MmRkZTg2NjE=, udp: true, tfo: false}
   - {name: 57.128.191.90:8388, server: 57.128.191.90, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: R532mRBv3acPAGakeITDQWJRxyym0pxqvzJPmWCFwHU=, udp: true, tfo: false}
-  - {name: 57.128.191.90:8388 2, server: 57.128.191.90, port: 8388, type: ss, cipher: 2022-blake3-aes-256-gcm, password: R532mRBv3acPAGakeITDQWJRxyym0pxqvzJPmWCFwHU=, udp: true, tfo: false}
   - {name: 57.128.191.90:8390, server: 57.128.191.90, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: R532mRBv3acPAGakeITDQWJRxyym0pxqvzJPmWCFwHU=, udp: true, tfo: false}
-  - {name: 51.38.141.210:8389, server: 51.38.141.210, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
-  - {name: 51.38.141.210:8390, server: 51.38.141.210, port: 8390, type: ss, cipher: 2022-blake3-aes-256-gcm, password: dCmwaTQxKk6QAMzFnQdHkRhxHF1duniBX4OV9xIzLEE=, udp: true, tfo: false}
   - {name: 57.131.42.19:8389, server: 57.131.42.19, port: 8389, type: ss, cipher: 2022-blake3-aes-256-gcm, password: et1sgh1iQaWzsw201JX2eexN1Ai6QmIGcZIlvlC5L54=, udp: true, tfo: false}
   - {name: 193.29.139.162:8080, server: 193.29.139.162, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 193.29.139.157:8080, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 193.29.139.206:8080, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
-  - {name: 162.19.208.118:50285, server: 162.19.208.118, port: 50285, type: ss, cipher: chacha20-ietf-poly1305, password: 4anGtou86vGB7r1lOm5n8g, udp: true, tfo: false}
   - {name: 185.5.38.111:55988, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 4ju873evpjeaAi8Zq12YoRHWp63o5exdnZ71aUg1YEChiPTc2HkasYhUBxRz7UGi4K6cLrsGaU6b44H4Qa6f4cJn3zBp2cnX, udp: true, tfo: false}
   - {name: 38.242.222.183:11201, server: 38.242.222.183, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 52671647af0cffa0, udp: true, tfo: false}
   - {name: 38.54.93.107:11201, server: 38.54.93.107, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 5654d957c5f61640, udp: true, tfo: false}
@@ -515,7 +511,6 @@ proxies:
   - {name: 163.171.181.30:11201, server: 163.171.181.30, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 32a9a16d8a041c98, udp: true, tfo: false}
   - {name: 92.38.149.110:31348, server: 92.38.149.110, port: 31348, type: ss, cipher: chacha20-ietf-poly1305, password: 351q6zQEEgP2hVB8WOAYmOZzzXqMq5AEVuDDOMjpnAgJMJKG, udp: true, tfo: false}
   - {name: 62.133.63.21:1080, server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: wGovub7bISYdNqQs55b-9w, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 6, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: yCpSJMYkFQepG4o4QNKyo7qotpREJzwS1bbkyHNauphrKgYUhU3BLE1nbAeTqYZh8rM9KRexnYNgEWBmtZH1rjxd2biDqXJM, udp: true, tfo: false}
   - {name: 136.244.100.113:443, server: 136.244.100.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: yODLXVLz2FWNTFeSSng3Fm, udp: true, tfo: false}
   - {name: fran.pcmode.org:2375, server: fran.pcmode.org, port: 2375, type: ss, cipher: chacha20-ietf-poly1305, password: z9ehuhyBRFXKGX0mwqMHSg, udp: true, tfo: false}
   - {name: usaa.pcmode.org:2376, server: usaa.pcmode.org, port: 2376, type: ss, cipher: chacha20-ietf-poly1305, password: z9ehuhyBRFXKGX0mwqMHSg, udp: true, tfo: false}
@@ -543,46 +538,35 @@ proxies:
   - {name: 79.127.200.169:990, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 103.106.228.247:990 2, server: 103.106.228.247, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 173.234.29.2:990, server: 173.234.29.2, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 7, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: AgxyePdT6DnALxzttQRzGHJP2bitAeHnbukf6aTjC9xdYkxQQ1YK71DKEmJNc3DY8CCq1z46oCy6Dc1oZi6Q4532Nv8Swcy7, udp: true, tfo: false}
-  - {name: 62.113.114.116:42320, server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: BShcek5ydIWbXEnhI2vIym, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 8, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 9, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 6, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: AgxyePdT6DnALxzttQRzGHJP2bitAeHnbukf6aTjC9xdYkxQQ1YK71DKEmJNc3DY8CCq1z46oCy6Dc1oZi6Q4532Nv8Swcy7, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 7, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 8, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9, udp: true, tfo: false}
   - {name: mx2.drawnrisha.one:55988, server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9, udp: true, tfo: false}
   - {name: 🇷🇺 basic-ru-1.undef.network:35686, server: basic-ru-1.undef.network, port: 35686, type: ss, cipher: chacha20-ietf-poly1305, password: IElNXAaTf5U9WtbJerrgzP4Lf, udp: true, tfo: false}
   - {name: 91.216.155.20:41348, server: 91.216.155.20, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: J4iEGQCsfDUMvKSI8JL6pB6aT4neZEsIwmcWt1, udp: true, tfo: false}
   - {name: 91.216.155.20:41348 2, server: 91.216.155.20, port: 41348, type: ss, cipher: chacha20-ietf-poly1305, password: J4iEGQCsfDUMvKSI8JL6pB6aT4neZEsIwmcWt1, udp: true, tfo: false}
   - {name: 95.164.113.198:53829, server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, udp: true, tfo: false}
-  - {name: 95.164.113.198:53829 2, server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, udp: true, tfo: false}
-  - {name: 95.164.113.198:53829 3, server: 95.164.113.198, port: 53829, type: ss, cipher: chacha20-ietf-poly1305, password: Kbm3xoK04p4OhoqVpEzdlj, udp: true, tfo: false}
   - {name: exchange.gameaurela.click:52952, server: exchange.gameaurela.click, port: 52952, type: ss, cipher: chacha20-ietf-poly1305, password: LMSNh21TrXjR2ok25Q2nE8ENT2zoBmPvka3RCCUAHZELCnWoekVjvaf89qwcRkdbxEfep2bc2aUtmnxqvF1ayQRez1JHjULj, udp: true, tfo: false}
   - {name: media.mothyleela.cfd:40521, server: media.mothyleela.cfd, port: 40521, type: ss, cipher: chacha20-ietf-poly1305, password: LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW, udp: true, tfo: false}
-  - {name: 212.192.14.234:24441, server: 212.192.14.234, port: 24441, type: ss, cipher: chacha20-ietf-poly1305, password: Ow8iSExQNaobZPY9bJ4EPI, udp: true, tfo: false}
   - {name: 194.87.216.140:8388, server: 194.87.216.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: P5BTMb7UDDGaKG-4Q8_QvZ3m_GscUp8m, udp: true, tfo: false}
   - {name: 193.29.139.199:8080, server: 193.29.139.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
   - {name: 193.29.139.217:8080, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: 124.217.247.205:51348, server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: 🇳🇱 nl.voxy-gen.ru:9999, server: nl.voxy-gen.ru, port: 9999, type: ss, cipher: chacha20-ietf-poly1305, password: RzvYK_YXsRjQXd02Ca_wJcZpR4K7uPYZ, udp: true, tfo: false}
   - {name: 🇷🇺 basic-ru-0.undef.network:42095, server: basic-ru-0.undef.network, port: 42095, type: ss, cipher: chacha20-ietf-poly1305, password: VCFAk7Hc8FI27kHavKAfJpamy, udp: true, tfo: false}
-  - {name: 213.21.222.169:8080, server: 213.21.222.169, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: VDJvfsN6h-gV38q9chvtPaBHvc9qtWGf, udp: true, tfo: false}
   - {name: 45.9.75.37:8000, server: 45.9.75.37, port: 8000, type: ss, cipher: chacha20-ietf-poly1305, password: VDJvfsN6h-gV38q9chvtPaBHvc9qtWGf, udp: true, tfo: false}
-  - {name: 45.9.75.37:8000 2, server: 45.9.75.37, port: 8000, type: ss, cipher: chacha20-ietf-poly1305, password: VDJvfsN6h-gV38q9chvtPaBHvc9qtWGf, udp: true, tfo: false}
   - {name: 213.109.147.242:62685, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
-  - {name: 213.109.147.242:62685 2, server: 213.109.147.242, port: 62685, type: ss, cipher: chacha20-ietf-poly1305, password: VpKABcOpNNA0l5G2AVOmw8, udp: true, tfo: false}
   - {name: 20.108.42.173:443, server: 20.108.42.173, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 4.158.0.51:443, server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 10, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: ZEZ2bfFbViC9usN1WB4xqvyzEuUhPA2uuUYZmjKAWTQc3mErhCaVHmZbbWgVG9oi1VHhz12KP2gAWC8LZJ4imWhypAD9PG3u, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 11, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: ZEZ2bfFbViC9usN1WB4xqvyzEuUhPA2uuUYZmjKAWTQc3mErhCaVHmZbbWgVG9oi1VHhz12KP2gAWC8LZJ4imWhypAD9PG3u, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 9, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: ZEZ2bfFbViC9usN1WB4xqvyzEuUhPA2uuUYZmjKAWTQc3mErhCaVHmZbbWgVG9oi1VHhz12KP2gAWC8LZJ4imWhypAD9PG3u, udp: true, tfo: false}
   - {name: 57.129.69.122:27130, server: 57.129.69.122, port: 27130, type: ss, cipher: chacha20-ietf-poly1305, password: a3027c931ae07bce, udp: true, tfo: false}
-  - {name: 5.188.4.103:11201, server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 5.188.4.103:11204, server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 147.135.78.88:11201, server: 147.135.78.88, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7f8d870c0ca04bc, udp: true, tfo: false}
   - {name: 217.77.3.68:28954, server: 217.77.3.68, port: 28954, type: ss, cipher: chacha20-ietf-poly1305, password: a586ae8d773f250f, udp: true, tfo: false}
   - {name: 213.156.137.142:43659, server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 12, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 10, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true, tfo: false}
   - {name: mx2.drawnrisha.one:55988 2, server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bZ87amPpdG7KuWM62bKtm1KHoowuVjnV8CKtq653ymHcg2dPYcPJfnaQ61stuAjr2ZiLDaqH56XpkxEYuwDzzRrMWieebWGt, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 13, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bg9rGNza4dcmnDAXMiBaa4pUf9q8fc2EDePQ96UDfJrmohfvK7L27bLsJW2jikJPw97LYW76ypYK347TtUKZ6ebkw5Zf6C4s, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 11, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: bg9rGNza4dcmnDAXMiBaa4pUf9q8fc2EDePQ96UDfJrmohfvK7L27bLsJW2jikJPw97LYW76ypYK347TtUKZ6ebkw5Zf6C4s, udp: true, tfo: false}
   - {name: 212.56.42.211:20329, server: 212.56.42.211, port: 20329, type: ss, cipher: chacha20-ietf-poly1305, password: c25cd23def59bd42, udp: true, tfo: false}
   - {name: 193.29.139.227:8080, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: 51.178.114.83:11202, server: 51.178.114.83, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: d5b878cbb46f3e33, udp: true, tfo: false}
@@ -594,86 +578,52 @@ proxies:
   - {name: 62.133.63.21:1080 2, server: 62.133.63.21, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: epQs-YAC-uzcpXDHp6ONoQ, udp: true, tfo: false}
   - {name: 66.94.113.2:27115, server: 66.94.113.2, port: 27115, type: ss, cipher: chacha20-ietf-poly1305, password: fc343864d4064051, udp: true, tfo: false}
   - {name: 38.135.24.131:443, server: 38.135.24.131, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 14, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 15, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 16, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 12, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 13, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: iZDJs2CDckHKqJ5W7cpvCq2veqsqWn95iqs6Kr6F3YNnyMsk2uPdRrChQfShvH1v56Br1qWEW44qJna5QcMcZF7RCJmdvwuq, udp: true, tfo: false}
   - {name: 82.38.31.176:8080, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.176:8080 2, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.176:8080 3, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.179:8080, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.179:8080 2, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.179:8080 3, server: 82.38.31.179, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.184:8080, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.184:8080 2, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.184:8080 3, server: 82.38.31.184, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.186:8080, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.186:8080 2, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.187:8080, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.187:8080 2, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.187:8080 3, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.190:8080, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.190:8080 2, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.191:8080, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.191:8080 2, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.191:8080 3, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.191:8080 4, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.194:8080, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.194:8080 2, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.199:8080, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.199:8080 2, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.199:8080 3, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.202:8080, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.202:8080 2, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.205:8080, server: 82.38.31.205, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.208:8080, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.208:8080 2, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.208:8080 3, server: 82.38.31.208, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.210:8080, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.210:8080 2, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.210:8080 3, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.214:8080, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.214:8080 2, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.214:8080 3, server: 82.38.31.214, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.217:8080, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.217:8080 2, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.218:8080, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.176:8080 4, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.186:8080 3, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.187:8080 4, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.190:8080 3, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.191:8080 5, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.194:8080 3, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.199:8080 4, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.202:8080 3, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.210:8080 4, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 82.38.31.217:8080 3, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.176:8080 2, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.186:8080 2, server: 82.38.31.186, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.187:8080 2, server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.190:8080 2, server: 82.38.31.190, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.191:8080 2, server: 82.38.31.191, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.194:8080 2, server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.199:8080 2, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.202:8080 2, server: 82.38.31.202, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.210:8080 2, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.217:8080 2, server: 82.38.31.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 82.38.31.218:8080 2, server: 82.38.31.218, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: 57.129.140.88:8388 2, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: 185.5.38.111:55988 17, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: k7xW6N5SAVpgeqi1wd7s7yxD7S8PxaehUM5W8apHrQi3pSoDRXScoAPk8SVa4mKbvRjrgENU3dUgzTgp9T3rrXinaDe4CXYk, udp: true, tfo: false}
+  - {name: 185.5.38.111:55988 14, server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: k7xW6N5SAVpgeqi1wd7s7yxD7S8PxaehUM5W8apHrQi3pSoDRXScoAPk8SVa4mKbvRjrgENU3dUgzTgp9T3rrXinaDe4CXYk, udp: true, tfo: false}
   - {name: 20.108.41.100:443, server: 20.108.41.100, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: admin.c2.havij.co:443, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
   - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.101:8080 2, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.101:8080 3, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.103:8080, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.103:8080 2, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.122:8080, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.122:8080 2, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.124:8080, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.124:8080 2, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.146:8080, server: 82.38.31.146, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.148:8080, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.61:8080, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.152:8080, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.204:8080, server: 193.29.139.204, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.235:8080, server: 193.29.139.235, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.148:8080 2, server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.103:8080 3, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.122:8080 3, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.124:8080 3, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.103:8080 2, server: 82.38.31.103, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.122:8080, server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.124:8080 2, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.35:8080, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.61:8080 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.89:8080, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -681,12 +631,6 @@ proxies:
   - {name: 82.38.31.99:8080, server: 82.38.31.99, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 178.17.61.67:5790, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
   - {name: 178.17.61.67:5790 2, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: 178.17.61.67:5790 3, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: 178.17.61.67:5790 4, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: 178.17.61.67:5790 5, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: 178.17.61.67:5790 6, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: 4.158.0.51:443 2, server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 82.38.31.189:8080, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 167.160.90.51:11475, server: 167.160.90.51, port: 11475, type: ss, cipher: aes-128-gcm, password: 523z2fgrd7jx0z5xv6o5, udp: true, tfo: false}
   - {name: 195.154.202.112:18292, server: 195.154.202.112, port: 18292, type: ss, cipher: aes-128-gcm, password: Hc2yn6UjVCbaPO33TQ93MUtofOLRHm7A, udp: true, tfo: false}
   - {name: 154.17.31.189:18829, server: 154.17.31.189, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
@@ -728,7 +672,6 @@ proxies:
   - {name: 62.146.171.59:80, server: 62.146.171.59, port: 80, type: ss, cipher: aes-256-gcm, password: MEmsQeJtPF1GMwJm, udp: true, tfo: false}
   - {name: 154.53.63.42:80, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 154.53.63.42:80 2, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
-  - {name: 154.53.63.42:80 3, server: 154.53.63.42, port: 80, type: ss, cipher: aes-256-gcm, password: SM7WYtAwvBORXKjI, udp: true, tfo: false}
   - {name: 149.102.152.25:80, server: 149.102.152.25, port: 80, type: ss, cipher: aes-256-gcm, password: RLUoaU4nh8b8Mqq7, udp: true, tfo: false}
   - {name: 141.164.45.187:7001, server: 141.164.45.187, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 94.156.250.148:7001, server: 94.156.250.148, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
@@ -740,7 +683,6 @@ proxies:
   - {name: 64.176.215.70:80, server: 64.176.215.70, port: 80, type: ss, cipher: aes-256-gcm, password: hbhO0xomsJzhO24F, udp: true, tfo: false}
   - {name: 94.72.127.58:80, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 94.72.127.58:80 2, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
-  - {name: 94.72.127.58:80 3, server: 94.72.127.58, port: 80, type: ss, cipher: aes-256-gcm, password: jJHq807bQ7TM0yOh, udp: true, tfo: false}
   - {name: 62.146.171.57:80, server: 62.146.171.57, port: 80, type: ss, cipher: aes-256-gcm, password: jd9FR12wprKPNJHg, udp: true, tfo: false}
   - {name: 154.53.63.32:80, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
   - {name: 154.53.63.32:80 2, server: 154.53.63.32, port: 80, type: ss, cipher: aes-256-gcm, password: k6ruJuwgAUxIrkHb, udp: true, tfo: false}
@@ -750,7 +692,6 @@ proxies:
   - {name: 154.38.176.7:80 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: 94.72.127.55:80 2, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 94.72.127.55:80 3, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
   - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
   - {name: 154.53.57.143:80, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
   - {name: chatgpt.com:2083, server: chatgpt.com, port: 2083, type: trojan, password: !<str> 000123, sni: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev}}, udp: true, tfo: false}
@@ -759,7 +700,6 @@ proxies:
   - {name: 104.18.34.41:2087, server: 104.18.34.41, port: 2087, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sedac13124.workers.dev}}, udp: true, tfo: false}
   - {name: 108.162.198.151:443, server: 108.162.198.151, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.pifirib369.workers.dev}}, udp: true, tfo: false}
   - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, port: 8443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev}}, udp: true, tfo: false}
-  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, port: 2053, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev}}, udp: true, tfo: false}
   - {name: 104.21.10.137:2096, server: 104.21.10.137, port: 2096, type: trojan, password: !<str> 1313, sni: v2ngnet-v2ngnet-v2ngnet-v2ngnet.lolew54648.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngnet-v2ngnet-v2ngnet-v2ngnet.lolew54648.workers.dev}}, udp: true, tfo: false}
   - {name: 160.16.138.24:193, server: 160.16.138.24, port: 193, type: trojan, password: 262f1d150049457ac1d6e66b020fa980, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.85.33:3419, server: 160.16.85.33, port: 3419, type: trojan, password: 262f1d150049457ac1d6e66b020fa980, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
@@ -2006,15 +1946,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -2052,7 +1988,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -2080,46 +2015,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -2131,86 +2055,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -2218,12 +2108,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -2265,7 +2149,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -2277,7 +2160,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -2287,7 +2169,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -2296,7 +2177,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419
@@ -3533,15 +3413,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -3579,7 +3455,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -3607,46 +3482,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -3658,86 +3522,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -3745,12 +3575,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -3792,7 +3616,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -3804,7 +3627,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -3814,7 +3636,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -3823,7 +3644,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419
@@ -5060,15 +4880,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -5106,7 +4922,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -5134,46 +4949,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -5185,86 +4989,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -5272,12 +5042,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -5319,7 +5083,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -5331,7 +5094,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -5341,7 +5103,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -5350,7 +5111,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419
@@ -6596,15 +6356,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -6642,7 +6398,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -6670,46 +6425,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -6721,86 +6465,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -6808,12 +6518,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -6855,7 +6559,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -6867,7 +6570,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -6877,7 +6579,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -6886,7 +6587,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419
@@ -8123,15 +7823,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -8169,7 +7865,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -8197,46 +7892,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -8248,86 +7932,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -8335,12 +7985,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -8382,7 +8026,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -8394,7 +8037,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -8404,7 +8046,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -8413,7 +8054,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419
@@ -9650,15 +9290,11 @@ proxy-groups:
       - 91.132.51.160:844
       - nnnnnnnnn.huangshang.online:27446
       - 57.128.191.90:8388
-      - 57.128.191.90:8388 2
       - 57.128.191.90:8390
-      - 51.38.141.210:8389
-      - 51.38.141.210:8390
       - 57.131.42.19:8389
       - 193.29.139.162:8080
       - 193.29.139.157:8080
       - 193.29.139.206:8080
-      - 162.19.208.118:50285
       - 185.5.38.111:55988
       - 38.242.222.183:11201
       - 38.54.93.107:11201
@@ -9696,7 +9332,6 @@ proxy-groups:
       - 163.171.181.30:11201
       - 92.38.149.110:31348
       - 62.133.63.21:1080
-      - 185.5.38.111:55988 6
       - 136.244.100.113:443
       - fran.pcmode.org:2375
       - usaa.pcmode.org:2376
@@ -9724,46 +9359,35 @@ proxy-groups:
       - 79.127.200.169:990
       - 103.106.228.247:990 2
       - 173.234.29.2:990
+      - 185.5.38.111:55988 6
       - 185.5.38.111:55988 7
-      - 62.113.114.116:42320
       - 185.5.38.111:55988 8
-      - 185.5.38.111:55988 9
       - mx2.drawnrisha.one:55988
       - 🇷🇺 basic-ru-1.undef.network:35686
       - 91.216.155.20:41348
       - 91.216.155.20:41348 2
       - 95.164.113.198:53829
-      - 95.164.113.198:53829 2
-      - 95.164.113.198:53829 3
       - exchange.gameaurela.click:52952
       - media.mothyleela.cfd:40521
-      - 212.192.14.234:24441
       - 194.87.216.140:8388
       - 193.29.139.199:8080
       - 193.29.139.217:8080
-      - 124.217.247.205:51348
       - 🇳🇱 nl.voxy-gen.ru:9999
       - 🇷🇺 basic-ru-0.undef.network:42095
-      - 213.21.222.169:8080
       - 45.9.75.37:8000
-      - 45.9.75.37:8000 2
       - 213.109.147.242:62685
-      - 213.109.147.242:62685 2
       - 20.108.42.173:443
       - 4.158.0.51:443
-      - admin.c1.webramz.co:443
       - series-a1.samanehha.co:443
-      - 185.5.38.111:55988 10
-      - 185.5.38.111:55988 11
+      - 185.5.38.111:55988 9
       - 57.129.69.122:27130
-      - 5.188.4.103:11201
       - 5.188.4.103:11204
       - 147.135.78.88:11201
       - 217.77.3.68:28954
       - 213.156.137.142:43659
-      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 10
       - mx2.drawnrisha.one:55988 2
-      - 185.5.38.111:55988 13
+      - 185.5.38.111:55988 11
       - 212.56.42.211:20329
       - 193.29.139.227:8080
       - 51.178.114.83:11202
@@ -9775,86 +9399,52 @@ proxy-groups:
       - 62.133.63.21:1080 2
       - 66.94.113.2:27115
       - 38.135.24.131:443
-      - 185.5.38.111:55988 14
-      - 185.5.38.111:55988 15
-      - 185.5.38.111:55988 16
+      - 185.5.38.111:55988 12
+      - 185.5.38.111:55988 13
       - 82.38.31.176:8080
-      - 82.38.31.176:8080 2
-      - 82.38.31.176:8080 3
       - 82.38.31.179:8080
-      - 82.38.31.179:8080 2
-      - 82.38.31.179:8080 3
       - 82.38.31.184:8080
-      - 82.38.31.184:8080 2
-      - 82.38.31.184:8080 3
       - 82.38.31.186:8080
-      - 82.38.31.186:8080 2
       - 82.38.31.187:8080
-      - 82.38.31.187:8080 2
-      - 82.38.31.187:8080 3
       - 82.38.31.190:8080
-      - 82.38.31.190:8080 2
       - 82.38.31.191:8080
-      - 82.38.31.191:8080 2
-      - 82.38.31.191:8080 3
-      - 82.38.31.191:8080 4
       - 82.38.31.194:8080
-      - 82.38.31.194:8080 2
       - 82.38.31.199:8080
-      - 82.38.31.199:8080 2
-      - 82.38.31.199:8080 3
       - 82.38.31.202:8080
-      - 82.38.31.202:8080 2
       - 82.38.31.205:8080
       - 82.38.31.208:8080
-      - 82.38.31.208:8080 2
-      - 82.38.31.208:8080 3
       - 82.38.31.210:8080
-      - 82.38.31.210:8080 2
-      - 82.38.31.210:8080 3
       - 82.38.31.214:8080
-      - 82.38.31.214:8080 2
-      - 82.38.31.214:8080 3
       - 82.38.31.217:8080
-      - 82.38.31.217:8080 2
       - 82.38.31.218:8080
-      - 82.38.31.176:8080 4
-      - 82.38.31.186:8080 3
-      - 82.38.31.187:8080 4
-      - 82.38.31.190:8080 3
-      - 82.38.31.191:8080 5
-      - 82.38.31.194:8080 3
-      - 82.38.31.199:8080 4
-      - 82.38.31.202:8080 3
-      - 82.38.31.210:8080 4
-      - 82.38.31.217:8080 3
+      - 82.38.31.176:8080 2
+      - 82.38.31.186:8080 2
+      - 82.38.31.187:8080 2
+      - 82.38.31.190:8080 2
+      - 82.38.31.191:8080 2
+      - 82.38.31.194:8080 2
+      - 82.38.31.199:8080 2
+      - 82.38.31.202:8080 2
+      - 82.38.31.210:8080 2
+      - 82.38.31.217:8080 2
       - 82.38.31.218:8080 2
       - 57.129.140.88:8388
-      - 57.129.140.88:8388 2
-      - 185.5.38.111:55988 17
+      - 185.5.38.111:55988 14
       - 20.108.41.100:443
-      - admin.c2.havij.co:443
       - 82.38.31.101:8080
-      - 82.38.31.101:8080 2
-      - 82.38.31.101:8080 3
       - 82.38.31.103:8080
-      - 82.38.31.103:8080 2
-      - 82.38.31.122:8080
-      - 82.38.31.122:8080 2
       - 82.38.31.124:8080
-      - 82.38.31.124:8080 2
       - 82.38.31.146:8080
       - 82.38.31.148:8080
       - 82.38.31.61:8080
-      - 82.38.31.62:8080
       - 193.29.139.151:8080
       - 193.29.139.152:8080
       - 193.29.139.204:8080
       - 193.29.139.235:8080
       - 82.38.31.148:8080 2
-      - 82.38.31.103:8080 3
-      - 82.38.31.122:8080 3
-      - 82.38.31.124:8080 3
+      - 82.38.31.103:8080 2
+      - 82.38.31.122:8080
+      - 82.38.31.124:8080 2
       - 82.38.31.35:8080
       - 82.38.31.61:8080 2
       - 82.38.31.89:8080
@@ -9862,12 +9452,6 @@ proxy-groups:
       - 82.38.31.99:8080
       - 178.17.61.67:5790
       - 178.17.61.67:5790 2
-      - 178.17.61.67:5790 3
-      - 178.17.61.67:5790 4
-      - 178.17.61.67:5790 5
-      - 178.17.61.67:5790 6
-      - 4.158.0.51:443 2
-      - 82.38.31.189:8080
       - 167.160.90.51:11475
       - 195.154.202.112:18292
       - 154.17.31.189:18829
@@ -9909,7 +9493,6 @@ proxy-groups:
       - 62.146.171.59:80
       - 154.53.63.42:80
       - 154.53.63.42:80 2
-      - 154.53.63.42:80 3
       - 149.102.152.25:80
       - 141.164.45.187:7001
       - 94.156.250.148:7001
@@ -9921,7 +9504,6 @@ proxy-groups:
       - 64.176.215.70:80
       - 94.72.127.58:80
       - 94.72.127.58:80 2
-      - 94.72.127.58:80 3
       - 62.146.171.57:80
       - 154.53.63.32:80
       - 154.53.63.32:80 2
@@ -9931,7 +9513,6 @@ proxy-groups:
       - 154.38.176.7:80 2
       - 94.72.127.55:80
       - 94.72.127.55:80 2
-      - 94.72.127.55:80 3
       - 149.102.149.207:80
       - 154.53.57.143:80
       - chatgpt.com:2083
@@ -9940,7 +9521,6 @@ proxy-groups:
       - 104.18.34.41:2087
       - 108.162.198.151:443
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - 104.21.10.137:2096
       - 160.16.138.24:193
       - 160.16.85.33:3419

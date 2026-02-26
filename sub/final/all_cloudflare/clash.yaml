@@ -501,110 +501,107 @@ proxies:
   - {name: "***✅***@AR14N24b 29", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cetih83556.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 30", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev, port: 8443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.ixobadf.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 31", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev, port: 2096, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jakec78925.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, port: 2053, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev}}, udp: true, tfo: false}
-  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, port: 2053, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev, port: 443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, port: 2087, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 34", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, port: 2087, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, port: 2087, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b`", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 37", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 38", server: 162.159.35.176, port: 443, type: trojan, password: !<str> 1234, sni: masterserver1-masterserver1-masterserver1-masterserver1.xcvxrds.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xcvxrds.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, port: 2083, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: 162.159.35.176, port: 443, type: trojan, password: !<str> 1234, sni: masterserver1-masterserver1-masterserver1-masterserver1.xcvxrds.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.xcvxrds.workers.dev}}, udp: true, tfo: false}
   - {name: 104.21.10.137:2096, server: 104.21.10.137, port: 2096, type: trojan, password: !<str> 1313, sni: v2ngnet-v2ngnet-v2ngnet-v2ngnet.lolew54648.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngnet-v2ngnet-v2ngnet-v2ngnet.lolew54648.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 39", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2048"}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 40", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253Fed%253D2048"}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 41", server: de1.test3.net, port: 443, type: trojan, password: 78f9bf50-bce8-11ee-8913-1239d0255272, sni: chatbuzzteambhm.chatbuzzt7150.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 42", server: 172.66.44.230, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: 162.159.33.95, port: 80, type: trojan, password: 54aa90f6-46f5-417d-82ff-fe1197cf88fd, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253Fed%253D2048"}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: de1.test3.net, port: 443, type: trojan, password: 78f9bf50-bce8-11ee-8913-1239d0255272, sni: chatbuzzteambhm.chatbuzzt7150.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: 172.66.44.230, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2Ftro8sFW1S91B6sZrM1%3Fed%3D2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: koma-yt.pages.dev, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tro8sFW1S91B6sZrM1?ed=2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 43", server: koma-yt.pages.dev, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tro8sFW1S91B6sZrM1?ed=2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 44", server: koma-yt.pages.dev, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/tro8sFW1S91B6sZrM1?ed=2560", headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 45", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: A4u%5Ep%28_UR%2AF6, sni: 027.eLECTROcelLCO-cf-027.WorKerS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 027.eLECTROcelLCO-cf-027.WorKerS.Dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: A4u%5Ep%28_UR%2AF6, sni: 027.eLECTROcelLCO-cf-027.WorKerS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 027.eLECTROcelLCO-cf-027.WorKerS.Dev}}, udp: true, tfo: false}
   - {name: 8.39.125.191:2083, server: 8.39.125.191, port: 2083, type: trojan, password: Nova-Proxy, sni: spring-queen-a95f.cewon19053.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring-queen-a95f.cewon19053.workers.dev}}, udp: true, tfo: false}
   - {name: join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443, server: join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev, port: 443, type: trojan, password: Nova-Proxy, sni: join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 46", server: chatgpt.com, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: chatgpt.com, port: 443, type: trojan, password: Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q, sni: mfyousheng.nl.eu.org, skip-cert-verify: false, network: ws, ws-opts: {path: /tjwsLhx0SFASG4l9FERJ1g, headers: {Host: mfyousheng.nl.eu.org}}, udp: true, tfo: false}
   - {name: chatgpt.com:8443, server: chatgpt.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 47", server: de1.test3.net, port: 443, type: trojan, password: b8841c50-c3ad-11ee-9be0-1239d0255272, sni: chatbuzzteambhm.chatbuzzt7150.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: de1.test3.net, port: 443, type: trojan, password: b8841c50-c3ad-11ee-9be0-1239d0255272, sni: chatbuzzteambhm.chatbuzzt7150.workers.dev, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: 172.66.44.87, port: 443, type: trojan, password: bpb-trojan, sni: 10-bPb-woRKEr-panEL.PaGES.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trzf4cT2bn8MYJ0wE4?ed=2560", headers: {Host: 10-bPb-woRKEr-panEL.PaGES.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 48", server: 172.66.44.87, port: 443, type: trojan, password: bpb-trojan, sni: 10-bPb-woRKEr-panEL.PaGES.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trzf4cT2bn8MYJ0wE4?ed=2560", headers: {Host: 10-bPb-woRKEr-panEL.PaGES.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 49", server: 172.66.44.87, port: 443, type: trojan, password: bpb-trojan, sni: 10-bPb-woRKEr-panEL.PaGES.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/trzf4cT2bn8MYJ0wE4?ed=2560", headers: {Host: 10-bPb-woRKEr-panEL.PaGES.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 50", server: 172.66.44.87, port: 8443, type: trojan, password: bpb-trojan, sni: 10-bpb-WoRkER-pAnEl.pAGEs.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/trpXEf7QIPdwhQjYkV?ed=2560", headers: {Host: 10-bpb-WoRkER-pAnEl.pAGEs.DeV}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 51", server: 104.19.174.68, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 52", server: www.digitalocean.com, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: 172.66.44.87, port: 8443, type: trojan, password: bpb-trojan, sni: 10-bpb-WoRkER-pAnEl.pAGEs.DeV, skip-cert-verify: false, network: ws, ws-opts: {path: "/trpXEf7QIPdwhQjYkV?ed=2560", headers: {Host: 10-bpb-WoRkER-pAnEl.pAGEs.DeV}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: 104.19.174.68, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: www.digitalocean.com, port: 443, type: trojan, password: d0298536-d670-4045-bbb1-ddd5ea68683e, sni: azadnet-5vk.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/azadnet-5vk.pages.dev/?ed=2560&PROT_TYPE=trojan", headers: {Host: azadnet-5vk.pages.dev}}, udp: true, tfo: false}
   - {name: "@vpnbaz 🎳", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 53", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 54", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 55", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 56", server: 104.18.8.232, port: 2086, type: trojan, password: fsJC%3Ca%292Atn%3B, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: freedom, sni: 047.eleCTROCelLco-Cf-047.woRkers.DEV, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoienRVUEM4N2p6dXE2Wm0iLCJwcm90b2NvbCI6InRyIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 047.eleCTROCelLco-Cf-047.woRkers.DEV}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: 104.18.8.232, port: 2086, type: trojan, password: fsJC%3Ca%292Atn%3B, skip-cert-verify: false, network: ws, ws-opts: {path: /eyJqdW5rIjoidm1qTWdrQzQxTyIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=}, udp: true, tfo: false}
   - {name: bpb-, server: chatgpt.com, port: 2087, type: trojan, password: hp321456, sni: hP71.pagEs.DEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trJVbwlGfF6GxIZXtU/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==, headers: {Host: hP71.pagEs.DEv}}, udp: true, tfo: false}
   - {name: chatgpt.com:443/, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 57", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 58", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 59", server: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, port: 443, type: trojan, password: masterserver1, sni: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 58", server: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, port: 443, type: trojan, password: masterserver1, sni: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 2", server: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, port: 443, type: trojan, password: masterserver1, sni: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 60", server: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, port: 443, type: trojan, password: masterserver1, sni: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 59", server: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, port: 443, type: trojan, password: masterserver1, sni: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.narijow360.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 3", server: join-v2ngnet-join-v2ngnet-join-v2ngnet.colib63603.workers.dev, port: 2083, type: trojan, password: v2ngnet, sni: join-v2ngnet-join-v2ngnet-join-v2ngnet.colib63603.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: join-v2ngnet-join-v2ngnet-join-v2ngnet.colib63603.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 61", server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 62", server: cloudflare-dns.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 63", server: support.cloudflare.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnm-fangbinxingnmsl-666.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnm-fangbinxingnmsl-666.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ایران خانم ۱, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: red-grass-4779.synthia-c16.workers.dev, network: ws, ws-opts: {path: /dabaihk.webn.cc/db1024143bf11354, headers: {Host: red-grass-4779.synthia-c16.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 64", server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6, servername: stipulations.gelatin.workers.dev, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: stipulations.gelatin.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 65", server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: "/🔒 [By EbraSha]", headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 66", server: 026.electrocellco-cf-026.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 064059ce-23b9-45d3-953d-57d4c5092874, servername: 026.elEctrOCELLCo-cF-026.wORKERs.deV, alpn: [http/1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: 026.elEctrOCELLCo-cF-026.wORKERs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 67", server: 141.193.213.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 68", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 69", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 70", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0836463b-214f-4af6-aa85-85a56a62388e, servername: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/8eaZJhRwB5zzDy81?ed=2560", headers: {Host: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 71", server: 025.electrocellco-cf-025.workers.dev, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 0b93fd13-de5c-4ca5-8530-435bfa2a0955, servername: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 72", server: 104.16.164.44, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 73", server: 104.16.30.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 74", server: 104.17.143.243, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 75", server: 104.17.169.216, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 76", server: 104.18.41.75, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 77", server: 104.18.81.143, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 78", server: 104.19.163.160, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 79", server: 104.19.32.128, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 80", server: 104.19.32.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 81", server: 104.19.35.216, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 60", server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 61", server: cloudflare-dns.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnmfangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 62", server: support.cloudflare.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-0000-0000-000000000000, servername: cnmfangbinxing.cnm-fangbinxingnmsl-666.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxing.cnm-fangbinxingnmsl-666.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 63", server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03896a37-db8f-44ed-8ce1-45a1577f6da6, servername: stipulations.gelatin.workers.dev, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZzIxRUF6V2JFOW5IRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: stipulations.gelatin.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 64", server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: "/🔒 [By EbraSha]", headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 65", server: 026.electrocellco-cf-026.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 064059ce-23b9-45d3-953d-57d4c5092874, servername: 026.elEctrOCELLCo-cF-026.wORKERs.deV, alpn: [http/1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: 026.elEctrOCELLCo-cF-026.wORKERs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 66", server: 141.193.213.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 67", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 68", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 69", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0836463b-214f-4af6-aa85-85a56a62388e, servername: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/8eaZJhRwB5zzDy81?ed=2560", headers: {Host: d2127A49-flAT-wooD-C4B5.mILia-AkbARpOor.WorkERs.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 70", server: 025.electrocellco-cf-025.workers.dev, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 0b93fd13-de5c-4ca5-8530-435bfa2a0955, servername: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV, network: ws, ws-opts: {path: "/eyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 025.ELEcTROcELLco-Cf-025.wORkeRS.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 71", server: 104.16.164.44, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 72", server: 104.16.30.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 73", server: 104.17.143.243, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 74", server: 104.17.169.216, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 75", server: 104.18.41.75, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 76", server: 104.18.81.143, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 77", server: 104.19.163.160, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 78", server: 104.19.32.128, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 79", server: 104.19.32.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 80", server: 104.19.35.216, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 4", server: 104.19.54.173, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 82", server: 162.159.34.121, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 83", server: 162.159.34.235, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 84", server: 162.159.34.60, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 85", server: 198.41.211.114, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 86", server: amirvpn.amirhm00100.workers.dev, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 81", server: 162.159.34.121, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 82", server: 162.159.34.235, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 83", server: 162.159.34.60, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 84", server: 198.41.211.114, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 85", server: amirvpn.amirhm00100.workers.dev, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 5", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ec1c958-0087-4ca6-b4b2-b846c0f62419, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /45.32.100.46=13802, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 87", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf, servername: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 88", server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 89", server: chatgpt.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 90", server: www.visa.com.sg, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 91", server: 104.16.164.243, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 143acd5a-9d9f-4616-a8fe-5fae4804292b, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mahdi3363mb.fares-mahdi3363.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 92", server: 104.21.80.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 93", server: 172.67.172.86, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 94", server: vpnpro.eshghiabolfazl2009.workers.dev, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 95", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17a0304a-f972-42c1-9c66-2fdf977804d3, servername: COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv, network: ws, ws-opts: {path: "/eyJqdW5rIjoia0JSSDZLUVdwNFVVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 96", server: 104.18.125.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 97", server: cloudflare.182682.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 98", server: saas.sin.fan, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: "/?ed", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 99", server: gardconfig12.bnam38637.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f034338-33a3-40f7-8e82-e4042e8410af, servername: gardconfig12.bnam38637.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: gardconfig12.bnam38637.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 100", server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1ff4b4b9-af9f-4708-ab43-97dcc832e748, servername: 008.eLECtROCELlco-Cf-008.wOrkerS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiOG16aDZBdVhsZ1JNQk54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNS4zNS43MC4xNTUiLCIxNDguMjUxLjE1Ny4xMjciLCIyLjU5LjE4My4xOTgiXX0=?ed=2560", headers: {Host: 008.eLECtROCELlco-Cf-008.wOrkerS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 101", server: store.ubi.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203d9487-1656-4824-bb09-99c73ecd36c6, servername: zrf-czr.pages.dev, network: ws, ws-opts: {path: "/zrf?ed=2560", headers: {Host: zrf-czr.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 102", server: 014.electrocellco-cf-014.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203e82ed-a6b7-416a-b04e-ba8a20d8a0c4, servername: 014.ELectRoceLlCO-Cf-014.worKeRS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 014.ELectRoceLlCO-Cf-014.worKeRS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 86", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 11e9eea1-b1a9-4f02-a1a1-b24f7664b1cf, servername: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV, network: ws, ws-opts: {path: /eyJqdW5rIjoiYW1sczlYWkFHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: ancIEnt-HeaRt-60c5.dPccgIzieB.WoRKers.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 87", server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 88", server: chatgpt.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 89", server: www.visa.com.sg, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 90", server: 104.16.164.243, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 143acd5a-9d9f-4616-a8fe-5fae4804292b, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mahdi3363mb.fares-mahdi3363.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 91", server: 104.21.80.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 92", server: 172.67.172.86, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 93", server: vpnpro.eshghiabolfazl2009.workers.dev, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 94", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17a0304a-f972-42c1-9c66-2fdf977804d3, servername: COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv, network: ws, ws-opts: {path: "/eyJqdW5rIjoia0JSSDZLUVdwNFVVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: COLD-mEADOW-c530.kANEkIKOOOn18-6821.WorKERs.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 95", server: 104.18.125.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 96", server: cloudflare.182682.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 97", server: saas.sin.fan, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: "/?ed", headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 98", server: gardconfig12.bnam38637.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f034338-33a3-40f7-8e82-e4042e8410af, servername: gardconfig12.bnam38637.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: gardconfig12.bnam38637.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 99", server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1ff4b4b9-af9f-4708-ab43-97dcc832e748, servername: 008.eLECtROCELlco-Cf-008.wOrkerS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiOG16aDZBdVhsZ1JNQk54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNS4zNS43MC4xNTUiLCIxNDguMjUxLjE1Ny4xMjciLCIyLjU5LjE4My4xOTgiXX0=?ed=2560", headers: {Host: 008.eLECtROCELlco-Cf-008.wOrkerS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 100", server: store.ubi.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203d9487-1656-4824-bb09-99c73ecd36c6, servername: zrf-czr.pages.dev, network: ws, ws-opts: {path: "/zrf?ed=2560", headers: {Host: zrf-czr.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 101", server: 014.electrocellco-cf-014.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203e82ed-a6b7-416a-b04e-ba8a20d8a0c4, servername: 014.ELectRoceLlCO-Cf-014.worKeRS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQkdrUldRNHQzR2MzVHkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: 014.ELectRoceLlCO-Cf-014.worKeRS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mci.buzzmuzzpanel.online:443, server: mci.buzzmuzzpanel.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20e295db-a6af-4006-bfd6-91453f169968, servername: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 103", server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 212b5b6b-9f98-4dc9-841d-b0531df9ef17, servername: tWiLigHt-DarKneSs-3857.VisTi2408.WoRkErS.DEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZml0Wk5CT2V4ZmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: tWiLigHt-DarKneSs-3857.VisTi2408.WoRkErS.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 104", server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 25efc727-e853-49ba-9609-3c20009d0e7a, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: winbiss-0tpka6-v1.winbiss.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 105", server: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2642f6bb-78e3-4163-afdd-7eaa11f5775c, servername: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 102", server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 212b5b6b-9f98-4dc9-841d-b0531df9ef17, servername: tWiLigHt-DarKneSs-3857.VisTi2408.WoRkErS.DEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiZml0Wk5CT2V4ZmQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: tWiLigHt-DarKneSs-3857.VisTi2408.WoRkErS.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 103", server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 25efc727-e853-49ba-9609-3c20009d0e7a, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: winbiss-0tpka6-v1.winbiss.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 104", server: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2642f6bb-78e3-4163-afdd-7eaa11f5775c, servername: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.werone3887.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2730487f-0ed5-4f04-92d5-f95f9253d4f4, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 106", server: 104.18.38.47, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 107", server: 162.159.36.20, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 108", server: 162.159.36.5, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 109", server: 172.64.149.209, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 105", server: 104.18.38.47, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 106", server: 162.159.36.20, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 107", server: 162.159.36.5, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 108", server: 172.64.149.209, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 6", server: 198.41.222.50, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, servername: 198.41.222.50, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 198.41.222.50}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 110", server: vip2.kaixincloud.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 109", server: vip2.kaixincloud.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 7", server: vip3.kaixincloud.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: "/eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=?ed=2560", headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 111", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a667767-995c-4892-9719-f52c3db2b0f2, servername: sanYUuu.paGES.dEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiQVpjSG1wcDBtd0lHbm05byIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: sanYUuu.paGES.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 110", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2a667767-995c-4892-9719-f52c3db2b0f2, servername: sanYUuu.paGES.dEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiQVpjSG1wcDBtd0lHbm05byIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: sanYUuu.paGES.dEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 8", server: 104.16.9.24, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2ac6e527-6410-48ce-b9ba-cc8135ee2a3b, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: fragrant-recipe-09f4.wopecuyubak61.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 9", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ad80cff-5ef8-416a-a663-22c147264faa, servername: sonya-3nl.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiRnpna0hyZFRQRmNqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: sonya-3nl.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 10", server: yg1.ygkkk.dpdns.org, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2f0f84ed-9e4c-40ef-8a6c-286839e11a63, servername: hmedrza.ghwhdr51.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: hmedrza.ghwhdr51.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 112", server: yg1.ygkkk.dpdns.org, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2f0f84ed-9e4c-40ef-8a6c-286839e11a63, network: ws, ws-opts: {path: 🔒, headers: {Host: hmedrza.ghwhdr51.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 111", server: yg1.ygkkk.dpdns.org, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2f0f84ed-9e4c-40ef-8a6c-286839e11a63, network: ws, ws-opts: {path: 🔒, headers: {Host: hmedrza.ghwhdr51.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 11", server: www.visa.com.sg, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 363a6072-05d7-48d5-8f19-312b05fdd9cd, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 12", server: 002.inc-electrocell-001-002.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 36a857e4-f3d4-43aa-8b90-d7da849da989, servername: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 002.Inc-ElectROcElL-001-002.WoRKERS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: restless-dew-894b.amirhost4.workers.dev:443, server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /@freenettir, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -622,7 +619,6 @@ proxies:
   - {name: "@meliproxyy 3", server: 57.182.243.243, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[12494] - Telegram : @configraygan", server: 188.121.118.55, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54ef4ecf-ff37-436a-be13-95c8a8a1114d, servername: vIrGiNiAvPn-nL.pAgEs.dEv, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: vIrGiNiAvPn-nL.pAgEs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 21@oneclickvpnkeys, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ایران خانم ۲, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: noisy-grass-82b2.maelys-a42.workers.dev, network: ws, ws-opts: {path: "/sni.111000.v6.navy/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: noisy-grass-82b2.maelys-a42.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🍊", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[12545] - Telegram : @configraygan", server: www.wto.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: wandering-term-f40f.moshe01.workers.dev, alpn: [http/1.1], network: ws, ws-opts: {path: "/sni.111000.dynv6.net/?ed=2560", headers: {Host: wandering-term-f40f.moshe01.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -709,51 +705,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -771,14 +765,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -794,24 +788,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -829,7 +822,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"
@@ -906,51 +898,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -968,14 +958,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -991,24 +981,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -1026,7 +1015,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"
@@ -1103,51 +1091,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -1165,14 +1151,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -1188,24 +1174,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -1223,7 +1208,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"
@@ -1309,51 +1293,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -1371,14 +1353,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -1394,24 +1376,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -1429,7 +1410,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"
@@ -1506,51 +1486,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -1568,14 +1546,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -1591,24 +1569,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -1626,7 +1603,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"
@@ -1703,51 +1679,49 @@ proxy-groups:
       - "***✅***@AR14N24b 30"
       - "***✅***@AR14N24b 31"
       - "***✅***@AR14N24b 32"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053
       - "***✅***@AR14N24b 33"
       - "***✅***@AR14N24b 34"
       - "***✅***@AR14N24b 35"
-      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b`"
+      - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
-      - "***✅***@AR14N24b 38"
       - 104.21.10.137:2096
-      - "***✅***@AR14N24b 39"
+      - "***✅***@AR14N24b 38"
       - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***✅***@AR14N24b 39"
       - "***✅***@AR14N24b 40"
       - "***✅***@AR14N24b 41"
       - "***✅***@AR14N24b 42"
       - "***✅***@AR14N24b 43"
       - "***✅***@AR14N24b 44"
-      - "***✅***@AR14N24b 45"
       - 8.39.125.191:2083
       - join-masterserver1-join-masterserver1-join-masterserver1.pecmvdd.workers.dev:443
-      - "***✅***@AR14N24b 46"
+      - "***✅***@AR14N24b 45"
       - chatgpt.com:8443
+      - "***✅***@AR14N24b 46"
       - "***✅***@AR14N24b 47"
       - "***✅***@AR14N24b 48"
       - "***✅***@AR14N24b 49"
       - "***✅***@AR14N24b 50"
       - "***✅***@AR14N24b 51"
-      - "***✅***@AR14N24b 52"
       - "@vpnbaz 🎳"
+      - "***✅***@AR14N24b 52"
       - "***✅***@AR14N24b 53"
       - "***✅***@AR14N24b 54"
       - "***✅***@AR14N24b 55"
-      - "***✅***@AR14N24b 56"
       - bpb-
       - chatgpt.com:443/
-      - "***✅***@AR14N24b 57"
+      - "***✅***@AR14N24b 56"
       - chatgpt.com:443
+      - "***✅***@AR14N24b 57"
       - "***✅***@AR14N24b 58"
-      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 2"
-      - "***✅***@AR14N24b 60"
+      - "***✅***@AR14N24b 59"
       - "***✅***@AR14N24b` 3"
+      - "***✅***@AR14N24b 60"
       - "***✅***@AR14N24b 61"
       - "***✅***@AR14N24b 62"
       - "***✅***@AR14N24b 63"
-      - ایران خانم ۱
       - "***✅***@AR14N24b 64"
       - "***✅***@AR14N24b 65"
       - "***✅***@AR14N24b 66"
@@ -1765,14 +1739,14 @@ proxy-groups:
       - "***✅***@AR14N24b 78"
       - "***✅***@AR14N24b 79"
       - "***✅***@AR14N24b 80"
-      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b` 4"
+      - "***✅***@AR14N24b 81"
       - "***✅***@AR14N24b 82"
       - "***✅***@AR14N24b 83"
       - "***✅***@AR14N24b 84"
       - "***✅***@AR14N24b 85"
-      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b` 5"
+      - "***✅***@AR14N24b 86"
       - "***✅***@AR14N24b 87"
       - "***✅***@AR14N24b 88"
       - "***✅***@AR14N24b 89"
@@ -1788,24 +1762,23 @@ proxy-groups:
       - "***✅***@AR14N24b 99"
       - "***✅***@AR14N24b 100"
       - "***✅***@AR14N24b 101"
-      - "***✅***@AR14N24b 102"
       - mci.buzzmuzzpanel.online:443
+      - "***✅***@AR14N24b 102"
       - "***✅***@AR14N24b 103"
       - "***✅***@AR14N24b 104"
-      - "***✅***@AR14N24b 105"
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
+      - "***✅***@AR14N24b 105"
       - "***✅***@AR14N24b 106"
       - "***✅***@AR14N24b 107"
       - "***✅***@AR14N24b 108"
-      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 6"
-      - "***✅***@AR14N24b 110"
+      - "***✅***@AR14N24b 109"
       - "***✅***@AR14N24b` 7"
-      - "***✅***@AR14N24b 111"
+      - "***✅***@AR14N24b 110"
       - "***✅***@AR14N24b` 8"
       - "***✅***@AR14N24b` 9"
       - "***✅***@AR14N24b` 10"
-      - "***✅***@AR14N24b 112"
+      - "***✅***@AR14N24b 111"
       - "***✅***@AR14N24b` 11"
       - "***✅***@AR14N24b` 12"
       - restless-dew-894b.amirhost4.workers.dev:443
@@ -1823,7 +1796,6 @@ proxy-groups:
       - "@meliproxyy 3"
       - "[12494] - Telegram : @configraygan"
       - 21@oneclickvpnkeys
-      - ایران خانم ۲
       - "@vpnbaz 🍊"
       - "***🐦‍🔥***-@SPEEDS_VPN`"
       - "[12545] - Telegram : @configraygan"

@@ -466,10 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: irankhanom2, server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
-  - {name: irankhanom5, server: 213.156.137.142, port: 43659, type: ss, cipher: chacha20-ietf-poly1305, password: a8201bbd740420bb, udp: true, tfo: false}
-  - {name: ایران خانم ۱, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 003ef206-46b6-3701-ab77-b03debe7511f, servername: red-grass-4779.synthia-c16.workers.dev, network: ws, ws-opts: {path: /dabaihk.webn.cc/db1024143bf11354, headers: {Host: red-grass-4779.synthia-c16.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ایران خانم ۲, server: 162.159.224.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: noisy-grass-82b2.maelys-a42.workers.dev, network: ws, ws-opts: {path: "/sni.111000.v6.navy/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: noisy-grass-82b2.maelys-a42.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام) 4", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -500,10 +496,6 @@ proxy-groups:
     type: select
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -524,10 +516,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -548,10 +536,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -581,10 +565,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -605,10 +585,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"
@@ -629,10 +605,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)"
-      - irankhanom2
-      - irankhanom5
-      - ایران خانم ۱
-      - ایران خانم ۲
       - "@PewezaVPN (تلگرام) 2"
       - "@PewezaVPN (تلگرام) 3"
       - "@PewezaVPN (تلگرام) 4"

@@ -465,8 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 64@oneclickvpnkeys, server: 45.221.98.14, port: 59901, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62@oneclickvpnkeys, server: tw.399403.xyz, port: 8443, type: anytls, password: dongtaiwang.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 59@oneclickvpnkeys`, server: 160.16.143.152, port: 443, type: hysteria2, ports: 443, password: 4E8F0CEC-DF1E-4876-8897-56B7CED64D05, obfs: salamander, obfs-password: 2g7feub2, sni: ops-tyo.dexlos.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 61@oneclickvpnkeys, server: 160.16.208.122, port: 443, type: hysteria2, ports: 443, password: 4E8F0CEC-DF1E-4876-8897-56B7CED64D05, obfs: salamander, obfs-password: 2g7feub2, sni: ops-tyo.dexlos.com, skip-cert-verify: false, udp: true, tfo: false}
@@ -485,7 +483,7 @@ proxies:
   - {name: 4@oneclickvpnkeys, server: 37.114.48.20, port: 43697, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 16@oneclickvpnkeys, server: 37.114.48.20, port: 61000, type: tuic, uuid: ce247dd9-adb8-465b-8e6a-3f841eccfd70, password: ce247dd9-adb8-465b-8e6a-3f841eccfd70, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 42@oneclickvpnkeys, server: dll3maghz3.chooktashakorabi.com, port: 41019, type: vless, tls: true, packet-encoding: xudp, uuid: 000f318f-d045-4262-af1d-383c43443e8a, host: dll3maghz3.chooktashakorabi.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 64@oneclickvpnkeys 2, server: 198.105.123.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64@oneclickvpnkeys, server: 198.105.123.133, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐2@oneclickvpnkeys, server: 95.128.157.249, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 010c8bf7-0a43-404f-a6c5-2427acb4d476, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys 2, server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0518234d-4953-5a33-ab33-ea81f5a884e0, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23@oneclickvpnkeys, server: 51.44.96.183, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -663,8 +661,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -683,7 +679,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
@@ -851,8 +847,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -871,7 +865,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
@@ -1039,8 +1033,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -1059,7 +1051,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
@@ -1236,8 +1228,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -1256,7 +1246,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
@@ -1424,8 +1414,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -1444,7 +1432,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
@@ -1612,8 +1600,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 64@oneclickvpnkeys
-      - 62@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 59@oneclickvpnkeys`
       - 61@oneclickvpnkeys
@@ -1632,7 +1618,7 @@ proxy-groups:
       - 4@oneclickvpnkeys
       - 16@oneclickvpnkeys
       - 42@oneclickvpnkeys
-      - 64@oneclickvpnkeys 2
+      - 64@oneclickvpnkeys
       - ⭐2@oneclickvpnkeys
       - 65@oneclickvpnkeys 2
       - 23@oneclickvpnkeys
