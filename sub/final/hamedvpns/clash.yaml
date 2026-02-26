@@ -465,16 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 51.75.168.50:13030, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
-  - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: 62.113.114.116:42320, server: 62.113.114.116, port: 42320, type: ss, cipher: chacha20-ietf-poly1305, password: BShcek5ydIWbXEnhI2vIym, udp: true, tfo: false}
-  - {name: 45.95.233.133:8388, server: 45.95.233.133, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: KEN_L6msL8rmuSPywR4M0qM_1_txZ8D5, udp: true, tfo: false}
-  - {name: 20.90.250.133:443, server: 20.90.250.133, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 🇳🇱 nl, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: ایرانسل, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: 91.107.253.99:33133, server: 91.107.253.99, port: 33133, type: vless, tls: true, packet-encoding: xudp, uuid: 22470ee7-74b2-4b23-b164-bc87930d7e96, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.64.155.209:2052, server: 172.64.155.209, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedvpns, server: trurk-plus.iranman.shop, port: 4301, type: vless, tls: true, packet-encoding: xudp, uuid: 6280bb8e-8486-4129-a98e-0d227ddc5410, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: bpb-, server: chatgpt.com, port: 2087, type: trojan, password: hp321456, sni: hP71.pagEs.DEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trJVbwlGfF6GxIZXtU/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==, headers: {Host: hP71.pagEs.DEv}}, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: chz.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: chz.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: rau.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: rau.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3", server: bunney.foxline.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: arashmastermarly.b-cdn.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: arashmastermarly.b-cdn.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4", server: ip1.foxline.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: manly-xro.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: manly-xro.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5", server: ocoman.izumii.ir, port: 8002, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: 527jKuAA9NDmBT1awVij74Qdfl4aRk_pqcGQSOvfbCM, short-id: cdb321e1bb50034a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`", server: poli.appleseraj.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: isranrol.appleseraj.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: isranrol.appleseraj.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6", server: poli.appleseraj.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: nurenburs.appleseraj.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: nurenburs.appleseraj.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7", server: poli.appleseraj.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: nigeria.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: nigeria.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,48 +491,48 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -548,48 +548,48 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 51.75.168.50:13030
-      - 141.95.106.127:11201
-      - 62.113.114.116:42320
-      - 45.95.233.133:8388
-      - 20.90.250.133:443
       - 🇳🇱 nl
-      - ایرانسل
-      - 91.107.253.99:33133
-      - 172.64.155.209:2052
-      - hamedvpns
+      - bpb-
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
+      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
   - name: دانلود منیجر 📥
     type: select
     proxies:
