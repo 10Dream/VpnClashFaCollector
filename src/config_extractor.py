@@ -90,9 +90,194 @@ CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatg
 
 NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{p}:\/\/' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/proxy\?|tg:\/\/proxy\?|[()\[\]"\'\s])'
 
+BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
+VALID_SS_CIPHERS = {
+    "aes-128-ctr", "aes-192-ctr", "aes-256-ctr",
+    "aes-128-cfb", "aes-192-cfb", "aes-256-cfb",
+    "aes-128-gcm", "aes-192-gcm", "aes-256-gcm",
+    "aes-128-ccm", "aes-192-ccm", "aes-256-ccm",
+    "aes-128-gcm-siv", "aes-256-gcm-siv",
+    "chacha20-ietf", "chacha20", "xchacha20",
+    "chacha20-ietf-poly1305", "xchacha20-ietf-poly1305",
+    "chacha8-ietf-poly1305", "xchacha8-ietf-poly1305",
+    "2022-blake3-aes-128-gcm", "2022-blake3-aes-256-gcm", "2022-blake3-chacha20-poly1305",
+    "lea-128-gcm", "lea-192-gcm", "lea-256-gcm",
+    "rabbit128-poly1305", "aegis-128l", "aegis-256", "aez-384",
+    "deoxys-ii-256-128", "rc4-md5", "none"
+}
+
+
 # ==========================================
 # توابع کمکی (Helper Functions)
 # ==========================================
+
+
+
+def normalize_b64(raw):
+    if not raw:
+        return None
+    raw = raw.strip().replace('-', '+').replace('_', '/')
+    raw += '=' * ((4 - len(raw) % 4) % 4)
+    try:
+        return base64.b64decode(raw).decode('utf-8')
+    except Exception:
+        return None
+
+
+def parse_proxy_min(link):
+    link = link.strip()
+    low = link.lower()
+    try:
+        if low.startswith('vmess://'):
+            payload = normalize_b64(link[8:])
+            if not payload:
+                return None
+            data = json.loads(payload)
+            return {'type': 'vmess', 'server': data.get('add', ''), 'port': int(data.get('port', 0) or 0), 'uuid': data.get('id', '')}
+
+        if low.startswith('vless://'):
+            u = urlparse(re.sub(r'^vless://', 'http://', link, flags=re.IGNORECASE))
+            q = parse_qs(u.query)
+            return {
+                'type': 'vless', 'server': u.hostname or '', 'port': u.port or 0, 'uuid': u.username or '',
+                'security': (q.get('security') or [''])[0],
+                'reality_public_key': (q.get('pbk') or [''])[0],
+                'reality_short_id': (q.get('sid') or [''])[0],
+            }
+
+        if low.startswith('trojan://'):
+            u = urlparse(re.sub(r'^trojan://', 'http://', link, flags=re.IGNORECASE))
+            return {'type': 'trojan', 'server': u.hostname or '', 'port': u.port or 0, 'password': u.username or ''}
+
+        if low.startswith('tuic://'):
+            u = urlparse(re.sub(r'^tuic://', 'http://', link, flags=re.IGNORECASE))
+            return {'type': 'tuic', 'server': u.hostname or '', 'port': u.port or 0, 'uuid': u.username or '', 'password': u.password or ''}
+
+        if low.startswith('hysteria2://') or low.startswith('hy2://'):
+            u = urlparse(re.sub(r'^(hysteria2|hy2)://', 'http://', link, flags=re.IGNORECASE))
+            return {'type': 'hysteria2', 'server': u.hostname or '', 'port': u.port or 0, 'password': u.username or ''}
+
+        if low.startswith('hysteria://'):
+            u = urlparse(re.sub(r'^hysteria://', 'http://', link, flags=re.IGNORECASE))
+            q = parse_qs(u.query)
+            auth = (q.get('auth') or q.get('obfsParam') or [''])[0]
+            return {'type': 'hysteria', 'server': u.hostname or '', 'port': u.port or 0, 'auth_str': auth}
+
+        if low.startswith('wireguard://') or low.startswith('wg://'):
+            u = urlparse(re.sub(r'^(wireguard|wg)://', 'http://', link, flags=re.IGNORECASE))
+            q = parse_qs(u.query)
+            return {'type': 'wireguard', 'server': u.hostname or '', 'port': u.port or 51820, 'private-key': u.username or (q.get('privateKey') or [''])[0]}
+
+        if low.startswith('snell://'):
+            u = urlparse(re.sub(r'^snell://', 'http://', link, flags=re.IGNORECASE))
+            q = parse_qs(u.query)
+            return {'type': 'snell', 'server': u.hostname or '', 'port': u.port or 0, 'psk': u.username or (q.get('psk') or [''])[0]}
+
+        if low.startswith('ssh://'):
+            u = urlparse(re.sub(r'^ssh://', 'http://', link, flags=re.IGNORECASE))
+            q = parse_qs(u.query)
+            return {
+                'type': 'ssh', 'server': u.hostname or '', 'port': u.port or 22,
+                'user': u.username or '', 'password': u.password or '', 'private-key': (q.get('private-key') or [''])[0]
+            }
+
+        if low.startswith('ss://'):
+            ss = link[5:].split('#', 1)[0]
+            if '@' in ss:
+                auth, host_part = ss.split('@', 1)
+                auth_decoded = normalize_b64(auth) or auth
+            else:
+                decoded = normalize_b64(ss)
+                if not decoded or '@' not in decoded:
+                    return None
+                auth_decoded, host_part = decoded.split('@', 1)
+            if ':' not in auth_decoded or ':' not in host_part:
+                return None
+            method, password = auth_decoded.split(':', 1)
+            server, port = host_part.rsplit(':', 1)
+            return {'type': 'ss', 'server': server, 'port': int(port or 0), 'cipher': method, 'password': password}
+
+        if low.startswith('ssr://'):
+            decoded = normalize_b64(link[6:])
+            if not decoded:
+                return None
+            core = decoded.split('/', 1)[0]
+            parts = core.split(':')
+            if len(parts) < 6:
+                return None
+            server, port, protocol, method, obfs, b64_pass = parts[:6]
+            password = normalize_b64(b64_pass) or b64_pass
+            return {'type': 'ssr', 'server': server, 'port': int(port or 0), 'protocol': protocol, 'cipher': method, 'obfs': obfs, 'password': password}
+    except Exception:
+        return None
+
+    return None
+
+
+def is_problematic_proxy(link):
+    p = parse_proxy_min(link)
+    if not p:
+        return True
+
+    server = str(p.get('server', '')).strip().lower()
+    port = p.get('port')
+    if not server or not isinstance(port, int) or port < 1 or port > 65535:
+        return True
+    if any(b in server for b in BLOCKED_SERVERS):
+        return True
+
+    ptype = p.get('type')
+    if ptype in {'vmess', 'vless'} and not p.get('uuid'):
+        return True
+    if ptype in {'trojan', 'hysteria2'} and not p.get('password'):
+        return True
+    if ptype == 'wireguard' and not p.get('private-key'):
+        return True
+    if ptype == 'hysteria' and not p.get('auth_str'):
+        return True
+    if ptype == 'tuic' and (not p.get('uuid') or not p.get('password')):
+        return True
+    if ptype == 'snell' and not p.get('psk'):
+        return True
+    if ptype == 'ssh' and (not p.get('user') or (not p.get('password') and not p.get('private-key'))):
+        return True
+
+    if ptype == 'ss':
+        cipher = str(p.get('cipher', '')).lower()
+        if not cipher or not p.get('password') or cipher not in VALID_SS_CIPHERS:
+            return True
+    if ptype == 'ssr':
+        cipher = str(p.get('cipher', '')).lower()
+        if not p.get('password') or not p.get('protocol') or not p.get('obfs') or cipher not in VALID_SS_CIPHERS:
+            return True
+
+    if ptype == 'vless' and str(p.get('security', '')).lower() == 'reality':
+        pbk = str(p.get('reality_public_key', '')).replace('=', '').strip()
+        sid = str(p.get('reality_short_id', '')).strip()
+        if len(pbk) != 43 or not re.fullmatch(r'[A-Za-z0-9\-_]+', pbk):
+            return True
+        if sid and (len(sid) > 16 or len(sid) % 2 != 0 or not re.fullmatch(r'[0-9a-fA-F]+', sid)):
+            return True
+
+    return False
+
+
+def filter_problematic_configs(data_map):
+    filtered = {k: set() for k in data_map.keys()}
+    removed = 0
+
+    for proto, lines in data_map.items():
+        if proto == 'tg':
+            filtered[proto].update(lines)
+            continue
+        for line in lines:
+            if is_problematic_proxy(line):
+                removed += 1
+            else:
+                filtered[proto].add(line)
+
+    logger.info(f"Problematic proxy filter: kept={sum(len(v) for v in filtered.values())}, removed={removed}")
+    return filtered
 
 def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
@@ -233,7 +418,7 @@ def write_files_standard(data_map, output_dir):
     - tg_android: فقط ناسازگار با دسکتاپ (بدون اشتراک با بالا)
     - tg: همه موارد (میکس)
     """
-    final_map = merge_hysteria(data_map)
+    final_map = filter_problematic_configs(merge_hysteria(data_map))
     
     if not any(final_map.values()): 
         logger.debug(f"No configs to write for {output_dir}")
@@ -378,7 +563,7 @@ def process_split_mode():
         content = fetch_url_content(url)
         if content:
             extracted, count = extract_configs_from_text(content)
-            merged_data = merge_hysteria(extracted)
+            merged_data = filter_problematic_configs(merge_hysteria(extracted))
             
             all_configs = []
             for proto, lines in merged_data.items():
