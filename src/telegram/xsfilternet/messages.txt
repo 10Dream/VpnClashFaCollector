@@ -1,5 +1,37 @@
 # آرشیو کانال: @xsfilternet
-بروزرسانی: 2026-02-26 10:42:03 UTC
+بروزرسانی: 2026-02-26 20:31:39 UTC
+
+### 🕒 2026-02-26 19:47:59 UTC
+ساب لینک نامحدود رفقا
+***🚀***
+***💫***
+(به 
+[مجموع ساب ها ](https://t.me/xsfilternet/1765)
+اضافه شد)
+`https://sub.v-enzo.com/sub/TXlTZWxmLDE3NjkzODI1NzkRQbzilUTkI`
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
+
+### 🕒 2026-02-26 16:59:56 UTC
+لیست ابزار هایی که بنده منتشر کردم مربوط به دسترسی به 
+[#اینترنت](?q=%23%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA)
+ با تشکر از شما جهت حمایت و انرژی رفقا
+***💙***
+***☯️***
+ابزار تست mtu برای مقدار نت و فیلترشکن:
+[https://xsparvin.github.io/MTU_pahlavi/](https://xsparvin.github.io/MTU_pahlavi/)
+ابزار تست Dns آنلاین:
+[https://xsparvin.github.io/dns-test/](https://xsparvin.github.io/dns-test/)
+ابزار مجموع تست ها و دسترسی آسان به وب ها:
+[https://xsparvin.github.io/index.html/](https://xsparvin.github.io/index.html/)
+گیتهاب بنده جهت حمایت از پروژه(star)
+***⭐️***
+***👇***
+[https://github.com/xsparvin](https://github.com/xsparvin)
+[@xsfilternet](https://t.me/xsfilternet)
+
+---
 
 ### 🕒 2026-02-25 20:50:35 UTC
 لینک 
@@ -108,60 +140,6 @@ Karing
 به یاد 
 [#محمد_جواد_حضوری](?q=%23%D9%85%D8%AD%D9%85%D8%AF_%D8%AC%D9%88%D8%A7%D8%AF_%D8%AD%D8%B6%D9%88%D8%B1%DB%8C)
  
-[@xsfilternet](https://t.me/xsfilternet)
-
----
-
-### 🕒 2026-02-24 14:42:23 UTC
-کانفیگ جدید پنل bpb دست ساز 
-***😎***
-قابل استفاده در 
-***👈***
- 
-[مهسا](https://github.com/GFW-knocker/MahsaNG/releases)
- 
-***👉***
- و 
-***👈***
- 
-[نیکا](https://github.com/mahsanet/NikaNG/releases)
- 
-***👉***
-حتماً مهسا ان جی و نیکا رو نصب کنید و حتماً از تنظیمات فرگمنت را فعال کنید .
-برخی از دوستان داخل ویتورای بدون فرگمنت هم متصل شدن .
-{"remarks":"
-***💧***
-bpb-hamedp71","log":{"loglevel":"warning"},"dns":{"hosts":{"geosite:category-ads-all":["127.0.0.1"],"geosite:category-ads-ir":["127.0.0.1"]},"servers":[{"address":"fakedns","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"]},"https://8.8.8.8/dns-query",{"address":"8.8.8.8","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"],"expectIPs":["geoip:ir","geoip:cn","geoip:ru"],"skipFallback":true}],"queryStrategy":"UseIP","tag":"dns"},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"socks-in"},{"port":10809,"protocol":"http","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"104.18.32.47","port":2087,"users":[{"id":"046a045f-ca11-4123-b7fc-c1b8061f0785","encryption":"none","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"wsSettings":{"headers":{"Host":"hp71.pages.dev","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},"path":"/9hjz9tZ5KkRfrdKt/dHVyay5yYWRpY2FsaXphdGlvbi5pcg==?ed=2560"},"tlsSettings":{"allowInsecure":false,"fingerprint":"randomized","alpn":["h2","http/1.1"],"serverName":"hP71.pAGes.dEV"}},"tag":"proxy"},{"tag":"fragment","protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-20","interval":"1-1"},"domainStrategy":"UseIPv4v6"},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":30,"tcpNoDelay":true}}},{"protocol":"dns","tag":"dns-out"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["socks-in","http-in"],"port":"53","outboundTag":"dns-out","type":"field"},{"ip":["8.8.8.8"],"port":"53","network":"udp","outboundTag":"direct","type":"field"},{"domain":["geosite:category-ir","geosite:cn"],"outboundTag":"direct","type":"field"},{"ip":["geoip:ir","geoip:cn"],"outboundTag":"direct","type":"field"},{"domain":["geosite:category-ads-all","geosite:category-ads-ir"],"outboundTag":"block","type":"field"},{"network":"udp","port":"443","outboundTag":"block","type":"field"},{"network":"tcp,udp","outboundTag":"proxy","type":"field"}]},"stats":{}}
-**❤️ اشتراک گذاری یادتون نره 💚**
-..
-[@xsfilternet](https://t.me/xsfilternet)
-***❤️***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-24 12:30:43 UTC
-اینترنت رو دوباره گرون کردید؟
-اشکال نداره 
-ریدم تو شرفتون
-مشکلات مردم رو بیشتر میکنید؟
-اشکال نداره 
-ریدم تو شرفتون
-دلال بازی فیلترشکن رو راه میندازید؟
-اشکال نداره
-ریدم به همتون
-ولی حرومزاده ها ما ادامه داریم شده از جیبمون بزنیم نمیزاریم شما لجن زاده ها بتونید نت رو قطع کنید و خوابه به سمت ملی رفتن رو ببینید سیم کارت سفیدای حرومی
-بچهای اینترنت آزاد نمیزاره پول فیلترشکن بره تو جیب هر حرومی دیگه!
-زمان عادل ترین قاضیه هر چند که الان خوابیده
-***♻️***
 [@xsfilternet](https://t.me/xsfilternet)
 
 ---
