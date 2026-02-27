@@ -465,22 +465,113 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "| null | 99999ms | ***✅***@AR14N24b", server: 51.250.14.48, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f7bb4816-e86c-4fd7-83f7-af4305a0c253, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| SE | 955ms | 🐯33@oneclickvpnkeys", server: sub.himikvpn.online, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f7f18360-fbdf-45b5-93f4-4e47a29e595b, servername: pimg.mycdn.me, host: pimg.mycdn.me, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qJHmudCfwVqVt8M5g3JHxeI_IKUUIrfb0PIVFG_NJU4, short-id: 60e0c27fcabb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』, server: 159.195.60.150, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f81fac6d-88e7-45e3-b19e-084527859fba, servername: info.marfanet.com, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: /api/v1/events, headers: {Host: info.marfanet.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』, server: 159.195.60.150, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f81fac6d-88e7-45e3-b19e-084527859fba, servername: info.marfanet.com, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: /api/v1/events, headers: {Host: info.marfanet.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan", server: 159.195.60.150, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f81fac6d-88e7-45e3-b19e-084527859fba, servername: info.marfanet.com, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: /api/v1/events, headers: {Host: info.marfanet.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』", server: 3.77.237.142, port: 37673, type: vless, tls: true, packet-encoding: xudp, uuid: f843f1a2-a769-4356-85bb-68954d2fa20d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』", server: 3.77.237.142, port: 37673, type: vless, tls: true, packet-encoding: xudp, uuid: f843f1a2-a769-4356-85bb-68954d2fa20d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_20", server: 3.77.237.142, port: 37673, type: vless, tls: true, packet-encoding: xudp, uuid: f843f1a2-a769-4356-85bb-68954d2fa20d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_40", server: 3.77.237.142, port: 37673, type: vless, tls: true, packet-encoding: xudp, uuid: f843f1a2-a769-4356-85bb-68954d2fa20d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy", server: 3.77.237.142, port: 37673, type: vless, tls: true, packet-encoding: xudp, uuid: f843f1a2-a769-4356-85bb-68954d2fa20d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @MARAMBASHI 💚`", server: 45.12.30.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f84ab055-3ffe-4a90-aad3-30596550b03c, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms |", server: reserved.fastnodegate.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f84cadb07ef447bfafeeb88a4c88a12c, servername: fastnodegate.com, alpn: [h2%2Chttp%2F1.1], host: fastnodegate.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM, short-id: 70}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14370]+-+Telegram+:+@configraygan", server: reserved.fastnodegate.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f84cadb07ef447bfafeeb88a4c88a12c, servername: fastnodegate.com, alpn: ["h2,http/1.1"], host: fastnodegate.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM, short-id: 70}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』", server: reserved.fastnodegate.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f84cadb07ef447bfafeeb88a4c88a12c, servername: fastnodegate.com, alpn: ["h2,http/1.1"], host: fastnodegate.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM, short-id: 70}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy 2", server: reserved.fastnodegate.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f84cadb07ef447bfafeeb88a4c88a12c, servername: fastnodegate.com, host: fastnodegate.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM, short-id: 70}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee", server: reserved.fastnodegate.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f84cadb07ef447bfafeeb88a4c88a12c, servername: fastnodegate.com, host: fastnodegate.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nJ6XfI-g6Opkwd3HTkcxJL38NmEAf_IorIYksckcZEM, short-id: 70}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b, server: 104.20.1.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: exemplary-milkytsxqiqyso.sportland.company.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: 104.20.1.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: exemplary-milkytsxqiqyso.sportland.company.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 2", server: 104.20.1.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: exemplary-milkytsxqiqyso.sportland.company.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 3", server: 141.101.120.101, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 2", server: 141.101.120.101, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 3424ms |, server: 141.101.121.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 3", server: 141.101.121.252, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 4", server: 141.101.121.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b`", server: 141.101.121.47, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: /%3Fed, headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 3299ms |, server: 172.66.128.70, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 2", server: 172.66.128.70, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: f8ae018b-b84d-4c9b-b03b-4642c3a25977, network: ws, ws-opts: {path: "/?ed", headers: {Host: ExEMplAry-MILkytsxQiQYso.sPortlaNd.CoMPANy.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 5", server: 79.137.202.25, port: 55330, type: vless, tls: true, packet-encoding: xudp, uuid: f9bde857-cb58-4e73-8b18-60abe895c88e, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 3", server: 79.137.202.25, port: 55330, type: vless, tls: true, packet-encoding: xudp, uuid: f9bde857-cb58-4e73-8b18-60abe895c88e, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [12499]+-+Telegram+:+@configraygan", server: 62.3.12.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa-6065669680-1771739566537608, servername: steampowered.com, host: steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2rjzbqQ49m-jpfzhiuBNb8Izwwjw0dIg5JAKdv-B2kE, short-id: d1d42381ba35}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_37", server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 366ms | ***✅***@AR14N24b, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fa335d1c-e6d1-48bb-99a3-f06710a29043, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /130.185.164.213=8443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 557ms |, server: support.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 559ms | ***✅***@AR14N24b, server: support.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru, server: 45.15.128.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fad2b7e0-d80c-4b7b-a84f-d86e0e49f627, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BSsqyfTD-avgb1CyUdy_qJA95HwyMadBMJt7-EQjggk, short-id: e473bbc75224b9df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 6", server: 14.102.228.41, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: fae371fe-b27e-4354-9913-400596208387, servername: dl12.peymod.com, alpn: ["http/1.1,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-%40ViV2ray%2F2053"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 4", server: 14.102.228.41, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: fae371fe-b27e-4354-9913-400596208387, servername: dl12.peymod.com, alpn: ["http/1.1,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-%40ViV2ray%2F2053"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 4", server: 14.102.228.41, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: fae371fe-b27e-4354-9913-400596208387, servername: dl12.peymod.com, alpn: ["http/1.1,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-%40ViV2ray%2F2053"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14443]+-+Telegram+:+@configraygan", server: 14.102.228.41, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: fae371fe-b27e-4354-9913-400596208387, servername: dl12.peymod.com, alpn: ["http/1.1,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL-%40V2RIRAN-TEL--%40V2RIRAN-JOIN-%40V2RIRAN-TEL--%40V2RIRAN-%40ViV2ray%2F2053"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 7", server: shaparak.ultrrasound.com, port: 19949, type: vless, tls: true, packet-encoding: xudp, uuid: fb098fc0-b41d-430d-9b92-49705687904e, network: ws, ws-opts: {path: /, headers: {Host: telewebion.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 5", server: shaparak.ultrrasound.com, port: 19949, type: vless, tls: true, packet-encoding: xudp, uuid: fb098fc0-b41d-430d-9b92-49705687904e, network: ws, ws-opts: {path: /, headers: {Host: telewebion.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 8", server: es2.vpnbyvinarsky.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658, servername: es2.vpnbyvinarsky.ru, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /chat, headers: {Host: es2.vpnbyvinarsky.ru}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 5", server: es2.vpnbyvinarsky.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658, servername: es2.vpnbyvinarsky.ru, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /chat, headers: {Host: es2.vpnbyvinarsky.ru}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 286ms | ***✅***@AR14N24b, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc487688-af40-4393-ae6c-6b80188a65b4, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /216.128.140.218=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 791ms | ***✅***@AR14N24b, server: afrcloud22.mmv.kr, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc8b6c4c-bbc4-4533-88a6-0cf225bf4a66, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /3.0.50.69=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』", server: 18.185.89.219, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』", server: 18.185.89.219, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_13", server: 18.185.89.219, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | configraygan_33", server: 18.185.89.219, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fca42527-0f5f-4227-9554-ba32702fe90c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 9", server: 219.79.98.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fcfc091d-81a4-40b7-cbdc-8eb7683617a4, servername: www.icloud.com, host: www.icloud.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 3025ms | @meliproxyy, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 | RU | 3046ms |, server: 104.128.134.181, port: 34816, type: vless, tls: true, packet-encoding: xudp, uuid: fd058cd3-55fa-43ce-a634-1920b7d12c45, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| FI | 1354ms | 📊36@oneclickvpnkeys", server: 78.153.139.68, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d7-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pekfYPV5U8EjfQ4_zS5c6I2NnOZ2jUlyMGAWa4FWPF4, short-id: 58c512b4422e2517}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys, server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』", server: 193.151.158.112, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 10", server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b` 6", server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy`", server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』", server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @MARAMBASHI 🇧🇷", server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy 3", server: 193.151.158.183, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 1132ms |", server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩", server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 2853ms | configraygan_16", server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN", server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 3312ms | ***✅***@AR14N24b`", server: 91.132.51.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fed05faf-401f-3412-b658-5c96f3095dd0, servername: www.refersion.com, host: www.refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qzm3WJz3wvusnMdBDNbj-XboJZWGqClcXOOcM-LexkQ, short-id: e164b85aec8a7422}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14359]+-+Telegram+:+@configraygan", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』", server: 94.184.17.223, port: 200, type: vless, tls: true, packet-encoding: xudp, uuid: ff741be3-2e01-474d-955b-0370e3f29a3e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』", server: 94.184.17.223, port: 400, type: vless, tls: true, packet-encoding: xudp, uuid: ff741be3-2e01-474d-955b-0370e3f29a3e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IT | 1025ms |", server: 37.139.33.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff75f310-a705-4063-b9a9-d9387d11e600, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IT | 1048ms | ***✅***@AR14N24b", server: 37.139.33.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff75f310-a705-4063-b9a9-d9387d11e600, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 6419bed7fd0a2cff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IT | 1023ms |", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff75f310-a705-4063-b9a9-d9387d11e600, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IT | 1026ms | ***✅***@AR14N24b`", server: 37.139.33.57, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ff75f310-a705-4063-b9a9-d9387d11e600, servername: m.vk.ru, host: m.vk.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: _CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM, short-id: 4ffc99daad0f261f}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [13505]+-+Telegram+:+@configraygan", server: nodegcf.azurka.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff84dbed-bbfb-42d8-b397-b0ec025fb570, servername: nodegcf.azurka.org, network: ws, ws-opts: {path: /ws, headers: {Host: nodegcf.azurka.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 11", server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, alpn: [http/1.1], host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 6", server: 20.79.160.49, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-207916049-direct.yektanet.co, alpn: [http/1.1], host: jina-207916049-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 2", server: 46.8.31.94, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: m3DNSziinlblZ5H76Rwvnh, servername: kz6.alice, host: kz6.alice, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 12", server: 172.232.129.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: vaslbemonn, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | ***✅***@AR14N24b 7", server: 172.232.129.211, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: vaslbemonn, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI", server: dll.avaaaal.ir, port: 8443, type: vmess, uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dll.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cdge.avaaaal.ir}}, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys, server: 104.17.148.22, port: 80, type: vmess, uuid: 2632e7db-a0ce-4d20-9368-1473f6de239c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net.newpath.xyz-my.eu.org}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | 💫 @PewezaVPN (تلگرام)", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14432] - Telegram : @configraygan", server: 104.26.14.137, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tr1-smart.adelping.com.}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🐯27@oneclickvpnkeys", server: 104.26.15.137, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tr1-smart.adelping.com.}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | [12541] - Telegram : @configraygan", server: 104.26.15.85, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-571296497.iranpress.co}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 157.173.206.47, port: 57449, type: vmess, uuid: 4f6d0ce6-0406-447c-f307-21a6aa7fe6b2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan", server: 188.114.96.3, port: 443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sy4.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: sy4.620720.xyz}}, udp: true, tfo: false}
+  - {name: 🇨🇳 | TW | 475ms | @meliproxyy, server: 165.154.195.38, port: 35034, type: vmess, uuid: 959a8caf-4cea-43d0-a548-3628e7ddfafc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14381] - Telegram : @configraygan", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | [14396] - Telegram : @configraygan", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan", server: 188.114.96.3, port: 443, type: vmess, uuid: 516d8a7a-3f0b-41d3-bad0-246116381516, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sy4.620720.xyz, network: ws, ws-opts: {path: /, headers: {Host: sy4.620720.xyz}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | [13523] - Telegram : @configraygan", server: 2.144.20.41, port: 8082, type: vmess, uuid: 0334df2a-a21a-4a12-9da0-3179a5c91fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ⭐30@oneclickvpnkeys", server: 57.129.25.20, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 57.129.25.20, network: ws, ws-opts: {path: linkvws, headers: {Host: 57.129.25.20}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | ⭐5@oneclickvpnkeys", server: 57.129.25.23, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: yichueng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: yichueng.org}}, udp: true, tfo: false}
   - {name: "🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK", server: 8.210.197.138, port: 1004, type: vmess, uuid: a13d3f6b-b961-4512-fc8a-9f1d908937b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 8.210.197.138}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🐯97@oneclickvpnkeys", server: 8.210.197.138, port: 1006, type: vmess, uuid: 5075953b-cc1b-4b2c-e3f6-df4ca6b8e11c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "| null | 99999ms | [12531] - Telegram : @configraygan", server: 91.107.151.30, port: 32156, type: vmess, uuid: 56de8e43-9f19-49fd-a394-635790d8a70b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| SE | 505ms | 🥎57@oneclickvpnkeys", server: dd.openaccessnode.com, port: 502, type: vmess, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan", server: id2.wpairplane.com, port: 9000, type: vmess, uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🥎98@oneclickvpnkeys", server: id2.wpairplane.com, port: 9000, type: vmess, uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan", server: nmki.1yy.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: nmki.1yy.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee 2", server: nett118.servernettt.shop, port: 35925, type: vmess, uuid: 28979b80-47b6-452a-81ef-2f5415698553, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys, server: bnhhy.1ll.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: bnhhy.1ll.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan", server: id2.wpairplane.com, port: 9000, type: vmess, uuid: 77aad73d-03e7-441b-9bc5-98d13535ba3e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | Telegram : @Lrnbymaa ✈️", server: irnet.greenetplus.ir, port: 110, type: vmess, uuid: 511cf440-33fc-4cfc-b8a7-2b955a72702a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: irnet.greenetplus.ir}}, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys, server: mzoom.bypassvpn.site, port: 443, type: vmess, uuid: 8e5673e0-1979-4ee1-a8c1-5a257d2cbf48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mzoom.bypassvpn.site, network: ws, ws-opts: {path: /vmess, headers: {Host: mzoom.bypassvpn.site}}, udp: true, tfo: false}
+  - {name: "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan", server: nmki.1yy.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: nmki.1yy.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @proxy_kafee 3", server: nett118.servernettt.shop, port: 35925, type: vmess, uuid: 28979b80-47b6-452a-81ef-2f5415698553, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| ID | 1079ms | 🐯90@oneclickvpnkeys", server: neva.azlan.biz.id, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: neva.azlan.biz.id, network: ws, ws-opts: {path: /vmess, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
+  - {name: 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys, server: payload.xyz-my.eu.org, port: 443, type: vmess, uuid: 1491462a-979a-4ac0-b5dd-7409a91e62fb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: payload.xyz-my.eu.org, network: ws, ws-opts: {path: /vmess, headers: {Host: payload.xyz-my.eu.org}}, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys, server: yyynm.2nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: yyynm.2nn.ccwu.cc}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,66 +588,339 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -572,66 +936,339 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
-      - "| null | 99999ms | [12541] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee"
+      - "| null | 99999ms | ***✅***@AR14N24b"
+      - "| SE | 955ms | 🐯33@oneclickvpnkeys"
+      - 🇩🇪 | DE | 1353ms | ⚡️+|+@configraygan『🇩🇪⁶³』
+      - 🇩🇪 | DE | 2718ms | ⚡️+|+@configraygan『🇩🇪⁸』
+      - 🇩🇪 | DE | 914ms | [12523]+-+Telegram+:+@configraygan
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁷』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁴⁰』"
+      - "| null | 99999ms | configraygan_20"
+      - "| null | 99999ms | configraygan_40"
       - "| null | 99999ms | @meliproxyy"
-      - "🇦🇺 | AU | 1444ms | [12540] - Telegram : @configraygan"
+      - "| null | 99999ms | @MARAMBASHI 💚`"
+      - "| null | 99999ms |"
+      - "| null | 99999ms | [14370]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁹⁸』"
+      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @proxy_kafee"
+      - 🇳🇱 | NL | 2855ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 3545ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
+      - "| null | 99999ms | 2"
+      - "| null | 99999ms | 3"
+      - "| null | 99999ms | ***✅***@AR14N24b 2"
+      - 🇳🇱 | NL | 3424ms |
+      - "| null | 99999ms | ***✅***@AR14N24b 3"
+      - "| null | 99999ms | 4"
+      - "| null | 99999ms | ***✅***@AR14N24b`"
+      - 🇳🇱 | NL | 3299ms |
+      - "| null | 99999ms | ***✅***@AR14N24b` 2"
+      - "| null | 99999ms | 5"
+      - "| null | 99999ms | ***✅***@AR14N24b` 3"
+      - "| null | 99999ms | [12499]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | configraygan_37"
+      - 🇺🇸 | US | 366ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 557ms |
+      - 🇸🇬 | SG | 559ms | ***✅***@AR14N24b
+      - 🇳🇱 | NL | 802ms | 🇦🇲 @proxy_kafee | 🥭🔥 max.ru
+      - "| null | 99999ms | 6"
+      - "| null | 99999ms | ***✅***@AR14N24b 4"
+      - "| null | 99999ms | ***✅***@AR14N24b` 4"
+      - "| null | 99999ms | [14443]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 7"
+      - "| null | 99999ms | ***✅***@AR14N24b 5"
+      - "| null | 99999ms | 8"
+      - "| null | 99999ms | ***✅***@AR14N24b` 5"
+      - 🇺🇸 | US | 286ms | ***✅***@AR14N24b
+      - 🇸🇬 | SG | 791ms | ***✅***@AR14N24b
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪³³』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪¹⁰』"
+      - "| null | 99999ms | configraygan_13"
+      - "| null | 99999ms | configraygan_33"
+      - "| null | 99999ms | 9"
+      - 🇷🇺 | RU | 2999ms | ***✅***@AR14N24b
+      - 🇷🇺 | RU | 3025ms | @meliproxyy
+      - 🇷🇺 | RU | 3046ms |
+      - "| FI | 1354ms | 📊36@oneclickvpnkeys"
+      - 🇳🇱 | NL | 660ms | 🥎28@oneclickvpnkeys
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪¹⁹』"
+      - "| null | 99999ms | 10"
+      - "| null | 99999ms | ***✅***@AR14N24b` 6"
+      - "| null | 99999ms | @meliproxyy`"
+      - "| null | 99999ms | ⚡️+|+@configraygan『🇩🇪²⁰』"
+      - "| null | 99999ms | @MARAMBASHI 🇧🇷"
+      - "| null | 99999ms | @meliproxyy 3"
+      - "| TR | 1132ms |"
+      - "| TR | 1686ms | برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩"
+      - "| TR | 2853ms | configraygan_16"
+      - "| TR | 2901ms | ***🐦‍🔥***-@SPEEDS_VPN"
+      - "| TR | 3312ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [14359]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁹』"
+      - "| null | 99999ms | 💎+|+@configraygan『🇩🇪⁵⁸』"
+      - "| IT | 1025ms |"
+      - "| IT | 1048ms | ***✅***@AR14N24b"
+      - "| IT | 1023ms |"
+      - "| IT | 1026ms | ***✅***@AR14N24b`"
+      - "| null | 99999ms | [13505]+-+Telegram+:+@configraygan"
+      - "| null | 99999ms | 11"
+      - "| null | 99999ms | ***✅***@AR14N24b 6"
+      - "| null | 99999ms | @proxy_kafee 2"
+      - "| null | 99999ms | 12"
+      - "| null | 99999ms | ***✅***@AR14N24b 7"
+      - "| null | 99999ms | 🇫🇮[openproxylist.com] vmess-FI"
+      - 🇸🇬 | SG | 736ms | 🐯75@oneclickvpnkeys
+      - "| null | 99999ms | 💫 @PewezaVPN (تلگرام)"
+      - "| null | 99999ms | [14432] - Telegram : @configraygan"
+      - "| null | 99999ms | 🐯27@oneclickvpnkeys"
+      - "| null | 99999ms | [12541] - Telegram : @configraygan"
+      - 🇨🇳 | TW | 475ms | @meliproxyy
+      - "| null | 99999ms | [14381] - Telegram : @configraygan"
+      - "| null | 99999ms | [14396] - Telegram : @configraygan"
+      - "🇦🇺 | AU | 832ms | [12540] - Telegram : @configraygan"
       - "| null | 99999ms | [13523] - Telegram : @configraygan"
+      - 🇺🇸 | US | 564ms | 🐯76@oneclickvpnkeys
       - "| null | 99999ms | ⭐30@oneclickvpnkeys"
       - "| null | 99999ms | ⭐5@oneclickvpnkeys"
       - 🇭🇰 | null | 99999ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| null | 99999ms | 🐯97@oneclickvpnkeys"
       - "| null | 99999ms | [12531] - Telegram : @configraygan"
-      - 🇳🇱 | NL | 1019ms | 📊9@oneclickvpnkeys
-      - "| SE | 505ms | 🥎57@oneclickvpnkeys"
-      - "🇮🇳 | IN | 688ms | [12533] - Telegram : @configraygan"
-      - "| null | 99999ms | 🥎98@oneclickvpnkeys"
-      - "🇺🇸 | US | 3984ms | [12500] - Telegram : @configraygan"
-      - "| null | 99999ms | @proxy_kafee 2"
+      - 🇳🇱 | NL | 501ms | 📊9@oneclickvpnkeys
+      - 🇺🇸 | US | 952ms | 🐯43@oneclickvpnkeys
+      - "🇮🇳 | IN | 709ms | [12533] - Telegram : @configraygan"
+      - "| null | 99999ms | Telegram : @Lrnbymaa ✈️"
+      - 🇸🇬 | SG | 871ms | 🐯87@oneclickvpnkeys
+      - "🇺🇸 | US | 894ms | [12500] - Telegram : @configraygan"
+      - "| null | 99999ms | @proxy_kafee 3"
+      - "| ID | 1079ms | 🐯90@oneclickvpnkeys"
+      - 🇸🇬 | SG | 1220ms | 🐯81@oneclickvpnkeys
+      - 🇺🇸 | US | 962ms | 🐯44@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select
     proxies:

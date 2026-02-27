@@ -1,5 +1,109 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-26 20:29:30 UTC
+بروزرسانی: 2026-02-27 01:07:33 UTC
+
+### 🕒 2026-02-26 22:03:22 UTC
+فایل نصبی V2raygg 
+***👆***
+***👆***
+***🚨***
+جهت استفاده برای کسایی که 
+[bpb Unlimited](https://t.me/hamedvpns/17673)
+ براشون کار نداد میتونن رو این تست کنن
+ 
+لینک: 
+[برنامه نصب کننده apks](https://play.google.com/store/apps/details?id=com.mtv.sai)
+ 
+***✔️***
+نکته: اول برنامه رو تو گوشی ذخیره کنید بعد نصب کنید اگه حالت عادی نشد با نصب کننده بالا تست کنید 
+***✅***
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-26 21:22:48 UTC
+فایل نصبی Gold v2ray 
+***👆***
+***👆***
+***🚨***
+جهت استفاده برای کسایی که 
+[bpb Unlimited ](https://t.me/hamedvpns/17673)
+براشون کار نداد میتونن رو این تست کنن 
+لینک 
+[گیت‌هاب برنامه](https://github.com/syncrexor/GoldV2ray/releases/download/100/goldv2ray_v100.1.10.24.apk)
+ 
+***✔️***
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-26 20:56:47 UTC
+هر کی آموزش ساخت bpb نامحدود میخواد بره به اون پست که لینکش رو میزارم لایک بزاره :
+[https://t.me/hamedvpns/17673](https://t.me/hamedvpns/17673)
+***👇***
+***👇***
+***👇***
+***👇***
+***👇***
+***👆***
+***👆***
+***👆***
+***👆***
+***👆***
+***👆***
+
+---
+
+### 🕒 2026-02-26 20:36:26 UTC
+کانفیگ جدید پنل bpb دست ساز 
+***😎***
+قابل استفاده در 
+***👈***
+ 
+[مهسا](https://github.com/GFW-knocker/MahsaNG/releases)
+ 
+***👉***
+ و 
+***👈***
+ 
+[نیکا](https://github.com/mahsanet/NikaNG/releases)
+ 
+***👉***
+حتماً مهسا ان جی و نیکا رو نصب کنید و حتماً از تنظیمات فرگمنت را فعال کنید .
+برخی از دوستان داخل ویتورای بدون فرگمنت هم متصل شدن .
+{"remarks":"
+***💧***
+ hamedp71-bpb","log":{"loglevel":"warning"},"dns":{"hosts":{"geosite:category-ads-all":["127.0.0.1"],"geosite:category-ads-ir":["127.0.0.1"]},"servers":[{"address":"fakedns","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"]},"https://8.8.8.8/dns-query",{"address":"8.8.8.8","domains":["geosite:category-ir","geosite:cn","geosite:category-ru"],"expectIPs":["geoip:ir","geoip:cn","geoip:ru"],"skipFallback":true}],"queryStrategy":"UseIPv4","tag":"dns"},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"socks-in"},{"port":10809,"protocol":"http","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"trojan","settings":{"servers":[{"address":"104.17.74.223","port":443,"password":"hp321456","level":8}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"wsSettings":{"headers":{"Host":"hp71.pages.dev"},"path":"/tr3DlhRfMu0FJFxFeo/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==?ed=2560"},"tlsSettings":{"allowInsecure":false,"fingerprint":"randomized","alpn":["h2","http/1.1"],"serverName":"hP71.pAgES.Dev"}},"tag":"proxy"},{"tag":"fragment","protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-20","interval":"1-1"},"domainStrategy":"UseIPv4"},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":30,"tcpNoDelay":true}}},{"protocol":"dns","tag":"dns-out"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["socks-in","http-in"],"port":"53","outboundTag":"dns-out","type":"field"},{"ip":["8.8.8.8"],"port":"53","network":"udp","outboundTag":"direct","type":"field"},{"domain":["geosite:category-ir","geosite:cn"],"outboundTag":"direct","type":"field"},{"ip":["geoip:ir","geoip:cn"],"outboundTag":"direct","type":"field"},{"domain":["geosite:category-ads-all","geosite:category-ads-ir"],"outboundTag":"block","type":"field"},{"network":"udp","port":"443","outboundTag":"block","type":"field"},{"network":"tcp,udp","outboundTag":"proxy","type":"field"}]},"stats":{}}
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
 
 ### 🕒 2026-02-26 19:15:49 UTC
 ساب لینک کلش متا (علی)

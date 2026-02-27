@@ -468,10 +468,14 @@ proxies:
   - {name: 60@oneclickvpnkeys, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys, server: 150.241.79.106, port: 1935, type: hysteria2, ports: 1935, password: germany_hysteria2_fastlane_5devbouui:d6PbiWJIc6RAIokX8S7ZyXEm6SjqfvXA, sni: de2.h.fastlanehosting.ru, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt`, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 206.71.158.41:35000, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt 3, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hkbgp.jjxcloud.xyz:8443, server: hkbgp.jjxcloud.xyz, port: 8443, type: hysteria2, ports: 8443, password: cd7e0971-4b98-41fc-9ecb-1267a2b0e4f4, sni: hkbgp.jjxcloud.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.153.7.213:8443, server: 43.153.7.213, port: 8443, type: hysteria2, ports: 8443, password: dMqSvWDoY0h8wJA4H7ZWJDFLDLF52065, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 150.241.79.106:1935, server: 150.241.79.106, port: 1935, type: hysteria2, ports: 1935, password: germany_hysteria2_fastlane_wxue2k6d6%3A3Vbo9kzJszWmSzGIjnoytB2F98O023VD, sni: de2.h.fastlanehosting.ru, skip-cert-verify: false, udp: true, tfo: false}
@@ -494,10 +498,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
@@ -510,10 +518,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
@@ -526,10 +538,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
@@ -551,10 +567,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
@@ -567,10 +587,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
@@ -583,10 +607,14 @@ proxy-groups:
       - 60@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - freenet_vt
+      - freenet_vt`
       - 206.71.158.41:35000
       - 5.175.249.174:35000
       - "@PewezaVPN (تلگرام)"
       - "@meliproxyy"
+      - freenet_vt 2
+      - freenet_vt 3
       - hkbgp.jjxcloud.xyz:8443
       - 43.153.7.213:8443
       - 150.241.79.106:1935
