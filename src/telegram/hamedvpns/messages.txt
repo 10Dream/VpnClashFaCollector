@@ -1,5 +1,207 @@
 # آرشیو کانال: @hamedvpns
-بروزرسانی: 2026-02-27 10:31:44 UTC
+بروزرسانی: 2026-02-27 20:22:59 UTC
+
+### 🕒 2026-02-27 18:30:07 UTC
+کانفیگ جدید پنل bpb دست ساز 
+***😎***
+قابل استفاده در 
+***👈***
+ 
+[مهسا](https://github.com/GFW-knocker/MahsaNG/releases)
+ 
+***👉***
+ و 
+***👈***
+ 
+[نیکا](https://github.com/mahsanet/NikaNG/releases)
+ 
+***👉***
+حتماً مهسا ان جی و نیکا رو نصب کنید و حتماً از تنظیمات فرگمنت را فعال کنید .
+برخی از دوستان داخل ویتورای بدون فرگمنت هم متصل شدن .
+{"remarks":"
+***🦦***
+ hamedvpns","log":{"loglevel":"warning"},"dns":{"hosts":{"geosite:category-ads-all":["127.0.0.1"],"geosite:category-ads-ir":["127.0.0.1"]},"servers":[{"address":"fakedns","domains":["geosite:category-ir"]},"https://8.8.8.8/dns-query",{"address":"8.8.8.8","domains":["full:cdnjs.com"],"skipFallback":true},{"address":"8.8.8.8","domains":["geosite:category-ir"],"expectIPs":["geoip:ir"],"skipFallback":true}],"queryStrategy":"UseIPv4","tag":"dns"},"inbounds":[{"port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"socks-in"},{"port":10809,"protocol":"http","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"destOverride":["http","tls","fakedns"],"enabled":true,"routeOnly":true},"tag":"http-in"},{"listen":"127.0.0.1","port":10853,"protocol":"dokodemo-door","settings":{"address":"1.1.1.1","network":"tcp,udp","port":53},"tag":"dns-in"}],"outbounds":[{"protocol":"vless","settings":{"vnext":[{"address":"cdnjs.com","port":443,"users":[{"id":"473f3086-3a28-4beb-8c9e-a21a82be52f0","encryption":"none","level":8}]}]},"streamSettings":{"network":"ws","security":"tls","sockopt":{"dialerProxy":"fragment"},"wsSettings":{"headers":{"Host":"no-bpb.pages.dev","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"},"path":"/5yygd7xCEmsg7l0D?ed=2560"},"tlsSettings":{"allowInsecure":false,"fingerprint":"randomized","alpn":["h2","http/1.1"],"serverName":"nO-bPB.PAGES.DeV"}},"tag":"proxy"},{"tag":"fragment","protocol":"freedom","settings":{"fragment":{"packets":"tlshello","length":"10-15","interval":"1-3"},"domainStrategy":"UseIPv4"},"streamSettings":{"sockopt":{"tcpKeepAliveIdle":30,"tcpNoDelay":true}}},{"protocol":"dns","tag":"dns-out"},{"protocol":"freedom","settings":{},"tag":"direct"},{"protocol":"blackhole","settings":{"response":{"type":"http"}},"tag":"block"}],"policy":{"levels":{"8":{"connIdle":300,"downlinkOnly":1,"handshake":4,"uplinkOnly":1}},"system":{"statsOutboundUplink":true,"statsOutboundDownlink":true}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"inboundTag":["dns-in"],"outboundTag":"dns-out","type":"field"},{"inboundTag":["socks-in","http-in"],"port":"53","outboundTag":"dns-out","type":"field"},{"ip":["8.8.8.8"],"port":"53","network":"udp","outboundTag":"direct","type":"field"},{"domain":["geosite:private","geosite:category-ir","geosite:category-ads-all","geosite:category-ads-ir"],"outboundTag":"direct","type":"field"},{"ip":["geoip:private","geoip:ir"],"outboundTag":"direct","type":"field"},{"network":"udp","port":"443","outboundTag":"block","type":"field"},{"network":"tcp,udp","outboundTag":"proxy","type":"field"}]},"stats":{}}
+**❤️ اشتراک گذاری یادتون نره 💚**
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-27 18:16:22 UTC
+ساب لینک کلش متا (علی)  https://zaya.io/C-Meta  بروزرسانی شد 
+***❤️***
+  اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
+***👇🏻***
+ :   https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt   ری اکشن فراموش نشه 
+***💚***
+***🫶🏻***
+***❤️***
+   سربرگ جدید برای همراه اول عالیه…
+
+---
+
+### 🕒 2026-02-27 18:16:01 UTC
+ساب لینک کلش متا (علی)
+`https://zaya.io/C-Meta`
+بروزرسانی شد 
+***❤️***
+اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
+***👇🏻***
+ : 
+`https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt`
+**ری اکشن فراموش نشه 💚🫶🏻❤️**
+سربرگ جدید برای همراه اول عالیه 
+***🔥***
+کانفیگ تمام سربرگ ها بروز شدند ، امیدوارم متصل بشید در هر شرایطی 
+***🩸***
+[آموزش استفاده](https://t.me/hamedvpns/16709?single)
+ 
+***👉🏻***
+***👉🏻***
+دانلود 
+[کلش متا](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
+ و 
+[Flclash](https://github.com/chen08209/FlClash/releases)
+ 
+***👉🏻***
+***👉🏻***
+برای آیفون دار ها ، 
+[کارینگ](https://apps.apple.com/us/app/karing/id6472431552)
+ استفاده کنید 
+***👉🏻***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍🏻***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-27 17:39:08 UTC
+کانفیگ تست مخصوص OpenVPN 
+اشتراک گذاری یادتون نره 
+***🫶***
+[نصب برنامه OpenVPN connect](https://t.me/hamedvpns/13522)
+ 
+ 
+..
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-27 13:52:55 UTC
+داری پیامو فوروارد می‌کنی یه ری اکشن هم بزن 
+***🦦***
+
+---
+
+### 🕒 2026-02-27 12:25:39 UTC
+فایل ورکر پنل bpb کانال 
+***👆***
+***👆***
+..
+[**آموزش ساخت پنل نامحدود bpb **](https://t.me/hamedvpns/17696)
+**👉**
+**تعدادی آیپی تمیز دائمی :**
+ 
+***👇***
+***👇***
+`zzula.ir , 104.18.32.47 , 69.84.182.152 , chat.openai.com , chatgpt.com , ip.sb , creativecommons.org , cdnjs.com , www.wto.org , ipw.nscl.ir , time.is , malaysia.com , www.csgo.com , www.visa.com.hk`
+کپی کنید و داخل پنل در قسمت Clean IP بزنید .
+..
+**💚 اشتراک گذاری یادتون نره ❤️**
+تنها خواسته ما از شما لایک و اشتراک گذاری پست های کانال هست .
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک   |   Like 
+***👍***
+***❤️***
+اشتراک بزارین   |   Share 
+***⭐***
+
+---
+
+### 🕒 2026-02-27 12:25:24 UTC
+آموزش ساخت پنل bpb unlimited 
+***🦦***
+Video from : Ali 
+***✔️***
+1. وارد حساب 
+[کلودفلیر](https://www.cloudflare.com/)
+ خودتون بشید یا اگر ندارید بسازید.
+2. از قسمت Storage and database وارد Worker KV بشید.
+3. یه KV namespace دلخواه درست کنید.
+4. سپس از قسمت Compute وارد Worker and Pages بشید.
+5. روی دکمه آبی رنگ بزنید و بعد گزینه Get Started را میزنید.
+6. سپس گزینه دوم یعنی drag and drop your files را میزنید و بعد یک اسم دلخواه میزنید و دکمه Create Project رو میزنید.
+7. در مرحله بعد برمیگردید به Worker and Pages و وارد تنظیمات پیجسی که ساختین میشین.
+8. و وارد بخش settings پیجس خودتون میشین.
+9. توی قسمت Binding روی KV namespace کلیک کنید.
+10. حتما توی قسمت Varible Name باید حرف hp بنویسید.
+11. حالا KV که ساخته بودید رو انتخاب کنید.
+12. سپس از قسمت variables and secrets باید یک 
+[UUID](https://www.uuidgenerator.net/)
+ و یک PASS اضافه کنید که PASS را دلخواه بنویسید.
+13. و بعد از گزینه Create Deployment فایل ورکر رو آپلود میکنید و تمام ، پنل شما ساخته شد .
+[**✅ لینک سایت دریافت UUID**](https://www.uuidgenerator.net/)
+ 
+***👉***
+***👉***
+[**✅ فایل ورکر پنل👉**](https://t.me/hamedvpns/17697)
+***👉***
+[**✅ چند تا آیپی تمیز دائمی**](https://t.me/hamedvpns/17697)
+***✔️***
+‌‌
+[@hamedvpns](https://t.me/hamedvpns)
+ 
+***☑️***
+لایک  |  Like 
+***👍***
+***❤️***
+اشتراک بزارین  |  Share 
+***⭐️***
+
+---
+
+### 🕒 2026-02-27 11:31:04 UTC
+نمایی از پنل نامحدود bpb کانال خدماتی حامد 
+***😎***
+تصویر رو کامل نگاه کنید بازش کنید 
+***😁***
+لوگو از علی عزیز 
+***🫠***
+
+---
+
+### 🕒 2026-02-27 11:16:07 UTC
+درسته امشب ممکن هست جنگ بشه ولی من عهدشکنی نمیکنم و آموزش bpb نامحدود خودمون رو میزارم براتون 
+***😎***
+..
+آموزش آماده هست ، متن رو بنویسم بفرستم به همراه فایل ورکرش .
+
+---
 
 ### 🕒 2026-02-27 08:35:03 UTC
 پنل bpb نامحدود دست‌ساز توسط خودم و علی در حال بازسازی هست تا ساعاتی دیگر هم آموزش پنل و هم تا شب خود پنل در اختیارتان قرار خواهد گرفت 
@@ -735,204 +937,6 @@ Port : 500
  اشتراک گذاری یادتون نره 
 ***💚***
 ..
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-25 19:36:05 UTC
-فردا یک ساب لینک از کانفیگ های پنل نامحدود bpb خودمون میزارم تا تو کل تلگرام پخشش کنید 
-***😁***
-***🔥***
-..
-
----
-
-### 🕒 2026-02-25 18:41:23 UTC
-کانفیگ اهدایی اعضای کانال Dragon 
-حجم کانفیگ ۲۰۰ گیگ 
-vmess://eyJhZGQiOiIxNTkuMTk1LjMzLjk2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6Ijc2MDc1MzhhLTRmMzMtNDk0YS04YTE1LWZkMTAwNTlmNDgxYyIsIm5ldCI6InhodHRwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDE0NzMiLCJwcyI6IuKAjNiv2LHYp9qv2YjZhiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInYiOiIyIn0=
-تست با خودتون 
-***⭐***
-
----
-
-### 🕒 2026-02-25 18:33:21 UTC
-**ریمیکس کوردی + پاپ >>>🖤**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-
----
-
-### 🕒 2026-02-25 18:33:21 UTC
-کاملش 
-***👇***
-***👇***
-
----
-
-### 🕒 2026-02-25 18:33:21 UTC
-غم ، ما مردم ایران را به هم نزدیک‌تر میکند.
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-
----
-
-### 🕒 2026-02-25 18:03:17 UTC
-برای فردا و پس فردا آموزش‌های خوبی در حال ساخت هست .
-پنل های خوشگلمون 
-***😁***
-***😎***
- 
-ری اکشن با خودتون 
-***⭐***
-***🔥***
-***❤️***
-***😎***
-***⚡***
-..
-
----
-
-### 🕒 2026-02-25 17:29:57 UTC
-ساب لینک کلش متا (علی)
-`https://zaya.io/C-Meta`
-بروزرسانی شد 
-***❤️***
-اگر واسه کسی هم وارد نمیشه از این لینک استفاده کنه 
-***👇🏻***
- : 
-`https://raw.githubusercontent.com/Ali-Anv1/C-Meta/refs/heads/main/C-Meta.txt`
-**ری اکشن فراموش نشه 💚🫶🏻❤️**
-سربرگ جدید برای همراه اول عالیه 
-***🔥***
-کانفیگ تمام سربرگ ها بروز شدند ، امیدوارم متصل بشید در هر شرایطی 
-***🩸***
-[آموزش استفاده](https://t.me/hamedvpns/16709?single)
- 
-***👉🏻***
-***👉🏻***
-دانلود 
-[کلش متا](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)
- و 
-[Flclash](https://github.com/chen08209/FlClash/releases)
- 
-***👉🏻***
-***👉🏻***
-برای آیفون دار ها ، 
-[کارینگ](https://apps.apple.com/us/app/karing/id6472431552)
- استفاده کنید 
-***👉🏻***
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍🏻***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-25 15:54:36 UTC
-`vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@ip1.foxline.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=manly-xro.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=manly-xro.global.ssl.fastly.net#%F0%9F%87%AE%F0%9F%87%B8%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@bunney.foxline.ir:443?path=%2F%3Fed%3D2048&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=1&host=arashmastermarly.b-cdn.net&fp=chrome&type=ws&allowInsecure=1&sni=arashmastermarly.b-cdn.net#%F0%9F%87%B1%F0%9F%87%BB%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@ocoman.izumii.ir:8002?security=reality&encryption=none&pbk=527jKuAA9NDmBT1awVij74Qdfl4aRk_pqcGQSOvfbCM&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=cdb321e1bb50034a#%F0%9F%87%B4%F0%9F%87%B2%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=1&host=nigeria.mastermarly.ir&type=ws&allowInsecure=1&sni=nigeria.mastermarly.ir#%F0%9F%87%B3%F0%9F%87%AC%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@belnn.appleseraj.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=chz.mastermarly.ir&fp=chrome&type=ws&allowInsecure=0&sni=chz.mastermarly.ir#%F0%9F%87%B5%F0%9F%87%B1%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@belnn.appleseraj.ir:2053?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=rau.mastermarly.ir&fp=chrome&type=ws&allowInsecure=0&sni=rau.mastermarly.ir#%F0%9F%87%B7%F0%9F%87%BA%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=nurenburs.appleseraj.ir&type=ws&allowInsecure=0&sni=nurenburs.appleseraj.ir#%F0%9F%87%A9%F0%9F%87%AA%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7vless://6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90@poli.appleseraj.ir:2096?path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=isranrol.appleseraj.ir&type=ws&allowInsecure=0&sni=isranrol.appleseraj.ir#%F0%9F%87%B9%F0%9F%87%B7%7C%20%F0%9D%91%BD%F0%9D%91%B0%F0%9D%91%B7%E2%9E%A0%F0%9D%90%952%F0%9D%90%AB%F0%9D%90%9A%F0%9D%90%B2_%F0%9D%90%80%F0%9D%90%8C%20%7C%20%F0%9F%87%AE%F0%9F%87%B7`
-بزن روش کپی میشه لوکیشن جدیده 
-حجم 50G
-اهدای شده توسط ممبر عزیزمون
-
----
-
-### 🕒 2026-02-25 15:22:12 UTC
-تم تلگرام ایران 
-***🫀***
-[https://t.me/addtheme/f9AUUsqL4Uaido3h](https://t.me/addtheme/f9AUUsqL4Uaido3h)
-اندروید 
-***👆🏻***
-[https://t.me/addtheme/zPcM2dcG90QmrsAj](https://t.me/addtheme/zPcM2dcG90QmrsAj)
-آیفون 
-***👆🏻***
-دوست داشتید استفاده کنید 
-***❤️***
-
----
-
-### 🕒 2026-02-25 14:58:34 UTC
-ری اکشن بزنید قلبوم درد میگیره 
-***🦦***
-
----
-
-### 🕒 2026-02-25 14:58:11 UTC
-متصل موشکی 
-***😎***
- 
-مولتی لوکیشن 
-***💎***
-***🔑***
- 
-`hamedvpns`
- 
-***👈***
- رمز عبور 
-بزنید به نپسترنت و حالشو ببرید 
-***🔥***
-[لینک نصب نپسترنت](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
- 
-***👉***
-***👉***
- 
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐️***
-
----
-
-### 🕒 2026-02-25 12:39:43 UTC
-[https://t.me/hamedvpns/17546](https://t.me/hamedvpns/17546)
-توت‌فرنگی یادتون نره نصب داشته باشید ، کانفیگای منم داخلش هست 
-***😎***
-***😂***
-**بزنید بترکونید 💚 نسخه جدیدش هست .**
-‌‌
-[@hamedvpns](https://t.me/hamedvpns)
- 
-***☑️***
-لایک   |   Like 
-***👍***
-***❤️***
-اشتراک بزارین   |   Share 
-***⭐***
-
----
-
-### 🕒 2026-02-25 11:06:12 UTC
-کانفیگ نامحدود پنل bpb 
-***🫠***
-Bpb unlimited 
-***😎***
-trojan://hp321456@chatgpt.com:2087?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&fp=randomized&host=hp71.pages.dev&path=%2FtrJVbwlGfF6GxIZXtU%2FUHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA%3D%3D&security=tls&sni=hP71.pagEs.DEv&type=ws#bpb-
-***😎***
-hamedp71
-تست کنید ببینید با چه کلاینتی و چه نتی براتون متصل میشه 
-***✔️***
 ‌‌
 [@hamedvpns](https://t.me/hamedvpns)
  

@@ -465,20 +465,27 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@PewezaVPN (تلگرام)", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 2", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 3", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 4", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 5", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2Fmtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn---mtmvpn", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 6", server: F1.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9edb457e-da77-4143-b885-6d46cd0fd812, servername: sp.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: sp.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 7", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 8", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 9", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-um2.netsnap.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: all-um2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 10", server: ip-data.turkserver.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ad8a28d6-a327-4ccc-9335-41fdd9738437, servername: all-fm2.netsnap.ir., network: ws, ws-opts: {path: /, headers: {Host: all-fm2.netsnap.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 11", server: pxqhkkokwtgf.eu-central-1.clawcloudrun.com, port: 43144, type: vless, tls: true, packet-encoding: xudp, uuid: d749c2c0-4ba4-45fe-f8f4-2f422d689a21, servername: devblogs.microsoft.com, host: devblogs.microsoft.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 12", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 13", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام) 14", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray1.dozapp.xyz, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: 128-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 089-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 035-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 046-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 016-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36600, type: hysteria2, ports: 36600, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 130-🐭@GheychiAmoozesh, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 062-🐭@GheychiAmoozesh, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 019-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.170, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 094-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 113-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 031-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 021-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 022-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 075-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 106-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: 072-🇸🇬 🐭@GheychiAmoozesh, server: 16.163.102.116, port: 52951, type: trojan, password: BxceQaOe, sni: t.me%25252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 118-🐭@GheychiAmoozesh, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 081-🐭@GheychiAmoozesh, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 082-🐭@GheychiAmoozesh, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: 017-🐭@GheychiAmoozesh, server: foriran.mizbanit.com, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 009-🐭@GheychiAmoozesh, server: 5.196.29.123, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -495,60 +502,81 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -564,60 +592,81 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@PewezaVPN (تلگرام)"
-      - "@PewezaVPN (تلگرام) 2"
-      - "@PewezaVPN (تلگرام) 3"
-      - "@PewezaVPN (تلگرام) 4"
-      - "@PewezaVPN (تلگرام) 5"
-      - "@PewezaVPN (تلگرام) 6"
-      - "@PewezaVPN (تلگرام) 7"
-      - "@PewezaVPN (تلگرام) 8"
-      - "@PewezaVPN (تلگرام) 9"
-      - "@PewezaVPN (تلگرام) 10"
-      - "@PewezaVPN (تلگرام) 11"
-      - "@PewezaVPN (تلگرام) 12"
-      - "@PewezaVPN (تلگرام) 13"
-      - "@PewezaVPN (تلگرام) 14"
+      - 128-🐭@GheychiAmoozesh
+      - 089-🐭@GheychiAmoozesh
+      - 035-🐭@GheychiAmoozesh
+      - 046-🐭@GheychiAmoozesh
+      - 016-🐭@GheychiAmoozesh
+      - 130-🐭@GheychiAmoozesh
+      - 062-🐭@GheychiAmoozesh
+      - 019-🇻🇳 🐭@GheychiAmoozesh
+      - 094-🇻🇳 🐭@GheychiAmoozesh
+      - 113-🇻🇳 🐭@GheychiAmoozesh
+      - 031-🇻🇳 🐭@GheychiAmoozesh
+      - 021-🇻🇳 🐭@GheychiAmoozesh
+      - 022-🇻🇳 🐭@GheychiAmoozesh
+      - 075-🇻🇳 🐭@GheychiAmoozesh
+      - 106-🇻🇳 🐭@GheychiAmoozesh
+      - 072-🇸🇬 🐭@GheychiAmoozesh
+      - 118-🐭@GheychiAmoozesh
+      - 081-🐭@GheychiAmoozesh
+      - 082-🐭@GheychiAmoozesh
+      - 017-🐭@GheychiAmoozesh
+      - 009-🐭@GheychiAmoozesh
   - name: دانلود منیجر 📥
     type: select
     proxies:

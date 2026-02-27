@@ -467,13 +467,17 @@ rule-providers:
 proxies:
   - {name: NetAccount`, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: NetAccount` 2, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: admin.c2.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: kaQH3hGdcP80XEDI, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 185.234.57.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b824f264-8cc3-4669-9f60-47b51ed1aa11, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 2Z2meC9rRAMD3k52ne8dh8PdfRNpOs5T9yObPyFkXyQ, short-id: f9fe}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 144.31.18.73, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: apple.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: UpdateService}, reality-opts: {public-key: J6NuOlIq3ypdTFc1TMhDDKmF8BWPnNWZq1EkxD7K-lQ, short-id: 6da16b1335651b38}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c843ed62-34da-44be-87b8-8b4ad34f6deb, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: f1.springpaatogh8.store, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c843ed62-34da-44be-87b8-8b4ad34f6deb, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: 89.208.221.7, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d4d987db-ed6c-4e49-be3b-e84bbd3d0112, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 28Q4Bqx4332xw-HKOZ6ogd-2G6ijTvXbDIzilr3dXyk, short-id: 2733a7c750}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 104.18.32.47, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e31085f9-7f55-4a7d-b00e-ce94149477cb, network: ws, ws-opts: {path: "/?ed", headers: {Host: PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a7baca1-8048-4a91-8316-595b36657a54, servername: VvvGGyU.IrAN1912.DpDns.ORg, network: ws, ws-opts: {path: /v4mECBsrKh5tvsvinsGGg, headers: {Host: VvvGGyU.IrAN1912.DpDns.ORg}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a942a11-2178-4b10-af73-15b1cfee99df, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /185.186.245.205=81, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, servername: vbhj.dddct.us.ci, network: ws, ws-opts: {path: /UzlFfVDyqJL3rI4BWzwNzcYz, headers: {Host: vbhj.dddct.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, servername: BbbNHJ.890634.XYz, network: ws, ws-opts: {path: /s2VHv9VUVzg35A6ueyyZnWd, headers: {Host: BbbNHJ.890634.XYz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1fc730-c184-415c-932b-37c8812c8736, servername: yor.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yor.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: 185.243.112.61, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: 31.128.34.165, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: f1.springpaatogh8.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c843ed62-34da-44be-87b8-8b4ad34f6deb, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 13, server: f1.springpaatogh8.store, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: c843ed62-34da-44be-87b8-8b4ad34f6deb, servername: digikala.sorza.ir, network: ws, ws-opts: {path: "/?ed=2560 PuLaFreeBOT PuLaVPN PuLaVPN PuLaVPN", headers: {Host: digikala.sorza.ir}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -499,6 +503,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -514,6 +522,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -529,6 +541,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -553,6 +569,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -568,6 +588,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -583,6 +607,10 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
+      - NetAccount` 10
+      - NetAccount` 11
+      - NetAccount` 12
+      - NetAccount` 13
   - name: دانلود منیجر 📥
     type: select
     proxies:
