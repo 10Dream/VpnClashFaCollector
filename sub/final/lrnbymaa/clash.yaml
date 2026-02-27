@@ -467,6 +467,8 @@ rule-providers:
 proxies:
   - {name: "@Lrnbymaa اختصاصی`", server: 185.226.118.143, port: 43019, type: vless, tls: true, packet-encoding: xudp, uuid: 17a6c797-9234-41b4-f2b9-07360cf74793, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Lrnbymaa 🤞🏻", server: srvfree.iranai.space, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: "%2F---V2RRVIP", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 USA  🇺🇸 @Lrnbymaa, server: 45.15.125.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8, short-id: db49831a996244d8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa, server: 1.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Lrnbymaa 🗽`", server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -486,6 +488,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -495,6 +499,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -504,6 +510,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -522,6 +530,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -531,6 +541,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -540,6 +552,8 @@ proxy-groups:
     proxies:
       - "@Lrnbymaa اختصاصی`"
       - "@Lrnbymaa 🤞🏻"
+      - 🇺🇸 USA  🇺🇸 @Lrnbymaa
+      - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
       - "@Lrnbymaa 🗽`"
   - name: دانلود منیجر 📥
     type: select

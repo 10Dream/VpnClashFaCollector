@@ -469,20 +469,12 @@ proxies:
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn", server: 18.159.35.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ffb5c28-97b3-4056-c72e-ba0de6272c05, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 2", server: 18.192.210.130, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔***, server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn`", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 3", server: 3.70.45.81, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a0891e86-ce1f-4e1b-e47c-84c890f1b130, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.162.11.223:443, server: 185.162.11.223, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: یام‌یام پروکسی, server: 92.42.203.170, port: 5690, type: vless, tls: true, packet-encoding: xudp, uuid: a9c28cf3-1962-8824-1175-a69268a0e213, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 2, server: 193.84.255.103, port: 7071, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 3, server: 217.60.238.167, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 4, server: 217.60.238.167, port: 8084, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 5, server: my.kiomars.shop, port: 6664, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 6, server: my.kiomars.shop, port: 6665, type: vless, tls: true, packet-encoding: xudp, uuid: e0ff845c-92d7-4f9b-81f5-53bf9625aac4, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 7, server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***@iphone02016vpn 4", server: 45.130.125.198, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: kaja.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: kaja.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram***🆔*** 8, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -503,20 +495,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -527,20 +511,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -551,20 +527,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -584,20 +552,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -608,20 +568,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -632,20 +584,12 @@ proxy-groups:
       - series-a2.samanehha.co:443
       - "***🆔***@iphone02016vpn"
       - "***🆔***@iphone02016vpn 2"
-      - ⚡Telegram***🆔***
       - "***🆔***@iphone02016vpn`"
       - "***🆔***@iphone02016vpn 3"
       - 185.162.11.223:443
       - یام‌یام پروکسی
       - 104.21.48.147:80
-      - ⚡Telegram***🆔*** 2
-      - ⚡Telegram***🆔*** 3
-      - ⚡Telegram***🆔*** 4
-      - ⚡Telegram***🆔*** 5
-      - ⚡Telegram***🆔*** 6
-      - ⚡Telegram***🆔*** 7
       - "***🆔***@iphone02016vpn 4"
-      - ⚡Telegram***🆔*** 8
   - name: دانلود منیجر 📥
     type: select
     proxies:
