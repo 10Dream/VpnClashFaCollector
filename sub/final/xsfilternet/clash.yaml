@@ -465,7 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇳🇱, server: 2.144.20.41, port: 8082, type: vmess, uuid: 0334df2a-a21a-4a12-9da0-3179a5c91fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: testdaily.snapmax.shop, port: 3535, type: vless, tls: true, packet-encoding: xudp, uuid: 4163012c-43a8-40d5-f445-696945f79a0c, host: testdaily.snapmax.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hp71, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 71, server: h35.tiptop-1.top, port: 42082, type: vless, tls: true, packet-encoding: xudp, uuid: c554b6bc-fb9d-4f2d-902b-b3809759a4df, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -482,21 +484,27 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -512,21 +520,27 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇳🇱
+      - NetAccount
+      - hp71
+      - 71
   - name: دانلود منیجر 📥
     type: select
     proxies:

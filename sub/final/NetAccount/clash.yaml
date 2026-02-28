@@ -465,31 +465,50 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount`, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: NetAccount, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: NetAccount`, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount, server: 89.106.89.112, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: sr4.laptopstock7.com, port: 3030, type: vless, tls: true, packet-encoding: xudp, uuid: 17b16eb9-c1d0-4c12-8520-0b400567d8e4, servername: tgju.org, host: tgju.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 2, server: 104.20.1.252, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 33e1a095-1e25-4198-bfe7-ec312e4f98ee, network: ws, ws-opts: {path: "/?ed", headers: {Host: CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 193.151.152.235, port: 4086, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 193.151.152.235, port: 6312, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 51.158.206.80, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 3, server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a7baca1-8048-4a91-8316-595b36657a54, servername: VvvGGyU.IrAN1912.DpDns.ORg, network: ws, ws-opts: {path: /v4mECBsrKh5tvsvinsGGg, headers: {Host: VvvGGyU.IrAN1912.DpDns.ORg}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a942a11-2178-4b10-af73-15b1cfee99df, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /185.186.245.205=81, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, servername: vbhj.dddct.us.ci, network: ws, ws-opts: {path: /UzlFfVDyqJL3rI4BWzwNzcYz, headers: {Host: vbhj.dddct.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 13, server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 5b6c6456-8544-4099-9f06-fc2e219a9baa, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 14, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, servername: BbbNHJ.890634.XYz, network: ws, ws-opts: {path: /s2VHv9VUVzg35A6ueyyZnWd, headers: {Host: BbbNHJ.890634.XYz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 15, server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 16, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1fc730-c184-415c-932b-37c8812c8736, servername: yor.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yor.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 17, server: 185.243.112.61, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 18, server: 31.128.34.165, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 4, server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 5, server: 138.124.186.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e346f220-4ca4-4f69-a66b-52e992b3b625, servername: www.fh-aachen.de, host: www.fh-aachen.de, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 6, server: 104.21.224.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6c7ed63-89db-4ae1-a3f8-7a722921b3b2, servername: apii.onlineshoppingez.ir, network: ws, ws-opts: {path: /O1w0n3vYgFKYs7EzNAvLPvOp, headers: {Host: apii.onlineshoppingez.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: WS-None | @KIA_NET, server: pq-hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-hungary1.09vpn.com}}, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount 2, server: ggbnhy.890699.xyz, port: 443, type: trojan, password: 98b419ef-83a2-4d1b-a23d-566b7f24477b, sni: GGbnHY.890699.XYZ, skip-cert-verify: false, network: ws, ws-opts: {path: /Klh0x8wtLpTGA5AqzZ2Mj, headers: {Host: GGbnHY.890699.XYZ}}, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, servername: 1, host: 1, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 13, server: cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: "/?ed=443", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 14, server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: "/?ed=443", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 15, server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: "/?ed=443", skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 16, server: 193.151.152.235, port: 4086, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 17, server: 193.151.152.235, port: 6312, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 18, server: testdaily.snapmax.shop, port: 3535, type: vless, tls: true, packet-encoding: xudp, uuid: 4163012c-43a8-40d5-f445-696945f79a0c, host: testdaily.snapmax.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 19, server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 20, server: in.ketabdaan.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d2c76f5-3eff-41bc-a265-cfef996cd2fb, alpn: [h3%2Ch2%2Chttp%2F1.1], host: in.ketabdaan.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 21, server: 91.231.144.169, port: 6556, type: vless, tls: true, packet-encoding: xudp, uuid: 4f21615d-d8c1-466a-88b0-4a86ac3907cf, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 22, server: 46.38.138.28, port: 28131, type: vless, tls: true, packet-encoding: xudp, uuid: 5a3691c4-01e8-4bf1-a88e-faf876138660, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 23, server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 24, server: norbert-2.conf-tun.site, port: 11112, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee40272-88da-455f-84f2-afe1e7bf6a99, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 25, server: 4qphdr11cwbdcy9o7q.lunargnome.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 782b8b33-087b-446b-b4cf-1c0d87f1cf08, servername: khodepi2.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: khodepi2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 26, server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 27, server: dns5.golden-ping.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 83e2dd06-7cbf-40d2-8eac-302030552943, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 28, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 29, server: h36.tiptop-1.top, port: 33779, type: vless, tls: true, packet-encoding: xudp, uuid: a5de6d2b-6c79-46d1-b0c5-34ab23796111, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 30, server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 31, server: irm2.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: irm2.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 32, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 33, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 34, server: h35.tiptop-1.top, port: 42082, type: vless, tls: true, packet-encoding: xudp, uuid: c554b6bc-fb9d-4f2d-902b-b3809759a4df, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 35, server: 94.182.142.8, port: 4545, type: vless, tls: true, packet-encoding: xudp, uuid: cc437fd4-a83e-47b4-b059-6b5a97f76572, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 36, server: 45.139.11.195, port: 23758, type: vless, tls: true, packet-encoding: xudp, uuid: d83068c1-3176-4f54-8552-15417cb01dea, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 37, server: 185.147.26.26, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 38, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount 3, server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 48061616-3880-448e-81e1-347e84440b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: t.me/Kia_Net 🗡️, server: uuujki.7777112.xyz, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: uuujki.7777112.xyz, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: uuujki.7777112.xyz}}, udp: true, tfo: false}
+  - {name: t.me/Kia_Net ❤️🩹, server: vvvbnhju.932.pp.ua, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vvvbnhju.932.pp.ua, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: vvvbnhju.932.pp.ua}}, udp: true, tfo: false}
+  - {name: t.me/Kia_Net 💗, server: gbnh.7777112.xyz, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: gbnh.7777112.xyz, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -506,18 +525,17 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -527,28 +545,47 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -558,28 +595,47 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -589,10 +645,30 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -608,18 +684,17 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -629,28 +704,47 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -660,28 +754,47 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - NetAccount
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
-      - NetAccount
       - NetAccount` 4
       - NetAccount` 5
-      - NetAccount 2
       - NetAccount` 6
       - NetAccount` 7
+      - NetAccount 2
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount 3
       - NetAccount` 10
       - NetAccount` 11
       - NetAccount` 12
@@ -691,10 +804,30 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NetAccount 4
-      - NetAccount 5
-      - NetAccount 6
-      - WS-None | @KIA_NET
+      - NetAccount` 19
+      - NetAccount` 20
+      - NetAccount` 21
+      - NetAccount` 22
+      - NetAccount` 23
+      - NetAccount` 24
+      - NetAccount` 25
+      - NetAccount` 26
+      - NetAccount` 27
+      - NetAccount` 28
+      - NetAccount` 29
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - NetAccount` 35
+      - NetAccount` 36
+      - NetAccount` 37
+      - NetAccount` 38
+      - NetAccount 3
+      - t.me/Kia_Net 🗡️
+      - t.me/Kia_Net ❤️🩹
+      - t.me/Kia_Net 💗
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,13 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 2, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a7baca1-8048-4a91-8316-595b36657a54, servername: VvvGGyU.IrAN1912.DpDns.ORg, network: ws, ws-opts: {path: /v4mECBsrKh5tvsvinsGGg, headers: {Host: VvvGGyU.IrAN1912.DpDns.ORg}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 3, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a942a11-2178-4b10-af73-15b1cfee99df, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /185.186.245.205=81, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 4, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4ed4ac41-4b56-42c4-b31c-4d7bc36f74ce, servername: vbhj.dddct.us.ci, network: ws, ws-opts: {path: /UzlFfVDyqJL3rI4BWzwNzcYz, headers: {Host: vbhj.dddct.us.ci}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount`, server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 5b6c6456-8544-4099-9f06-fc2e219a9baa, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, servername: BbbNHJ.890634.XYz, network: ws, ws-opts: {path: /s2VHv9VUVzg35A6ueyyZnWd, headers: {Host: BbbNHJ.890634.XYz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1fc730-c184-415c-932b-37c8812c8736, servername: yor.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: yor.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: NetAccount 3, server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: 46.38.138.28, port: 28131, type: vless, tls: true, packet-encoding: xudp, uuid: 5a3691c4-01e8-4bf1-a88e-faf876138660, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 5b6c6456-8544-4099-9f06-fc2e219a9baa, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: dns5.golden-ping.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 83e2dd06-7cbf-40d2-8eac-302030552943, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 94.182.142.8, port: 4545, type: vless, tls: true, packet-encoding: xudp, uuid: cc437fd4-a83e-47b4-b059-6b5a97f76572, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,10 +494,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -504,10 +510,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -517,10 +526,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -539,10 +551,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -552,10 +567,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -565,10 +583,13 @@ proxy-groups:
       - NetAccount
       - NetAccount 2
       - NetAccount 3
-      - NetAccount 4
       - NetAccount`
       - NetAccount` 2
       - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
   - name: دانلود منیجر 📥
     type: select
     proxies:

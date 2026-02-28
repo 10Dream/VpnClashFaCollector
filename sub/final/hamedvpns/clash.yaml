@@ -465,15 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: bpb-, server: chatgpt.com, port: 2087, type: trojan, password: hp321456, sni: hP71.pagEs.DEv, skip-cert-verify: false, network: ws, ws-opts: {path: /trJVbwlGfF6GxIZXtU/UHJveHlJUC5ERS50cDIwMjQuQ01MaXVzc3NzLm5ldA==, headers: {Host: hP71.pagEs.DEv}}, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: chz.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: chz.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2", server: belnn.appleseraj.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: rau.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: rau.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3", server: bunney.foxline.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: arashmastermarly.b-cdn.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: arashmastermarly.b-cdn.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4", server: ip1.foxline.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: manly-xro.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: manly-xro.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5", server: ocoman.izumii.ir, port: 8002, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: 527jKuAA9NDmBT1awVij74Qdfl4aRk_pqcGQSOvfbCM, short-id: cdb321e1bb50034a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`", server: poli.appleseraj.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: isranrol.appleseraj.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: isranrol.appleseraj.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6", server: poli.appleseraj.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: nurenburs.appleseraj.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: nurenburs.appleseraj.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7", server: poli.appleseraj.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6246ddc5-b1d7-40d4-9f4d-b38ec5a53a90, servername: nigeria.mastermarly.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: nigeria.mastermarly.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: m2.masih1-ah.site:57070, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: hp71, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Hiddify", server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 71, server: h35.tiptop-1.top, port: 42082, type: vless, tls: true, packet-encoding: xudp, uuid: c554b6bc-fb9d-4f2d-902b-b3809759a4df, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - bpb-
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 2"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 3"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 4"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 5"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷`"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 6"
-      - "| 𝑽𝑰𝑷➠𝐕2𝐫𝐚𝐲_𝐀𝐌 | 🇮🇷 7"
+      - m2.masih1-ah.site:57070
+      - hp71
+      - "@Hiddify"
+      - 71
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,10 +465,39 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "Telegram: @wiki_tajrobe", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 2", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 3", server: 193.151.152.235, port: 4086, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 4", server: 193.151.152.235, port: 6312, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 2", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 3", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 4", server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: lady.negin2.cfd:24401, server: lady.negin2.cfd, port: 24401, type: vless, tls: true, packet-encoding: xudp, uuid: 02580b35-7bb5-456d-cfe7-859e400530d9, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 5", server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, servername: 1, host: 1, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095, server: cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 6", server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 7", server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 213.165.58.87:12345, server: 213.165.58.87, port: 12345, type: vless, tls: true, packet-encoding: xudp, uuid: 0929623b-c920-4687-9077-38185714725a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 8", server: n.masih1-ah.site, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: 1b4e2fd9-dcf1-48ca-82a2-521828fced48, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 9", server: 193.151.152.235, port: 4086, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 10", server: 193.151.152.235, port: 6312, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.120.220.29:60341, server: 185.120.220.29, port: 60341, type: vless, tls: true, packet-encoding: xudp, uuid: 48c96042-be48-4c66-a6b1-a89c8b77382c, network: ws, ws-opts: {path: /f458ufh4i5fcdfasdhkvtrvn}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 11", server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: m2.masih1-ah.site:57070, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46.38.138.28:28131, server: 46.38.138.28, port: 28131, type: vless, tls: true, packet-encoding: xudp, uuid: 5a3691c4-01e8-4bf1-a88e-faf876138660, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 12", server: 4qphdr11cwbdcy9o7q.lunargnome.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 782b8b33-087b-446b-b4cf-1c0d87f1cf08, servername: khodepi2.global.ssl.fastly.net, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: khodepi2.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: nice11.armoserver.top:3782, server: nice11.armoserver.top, port: 3782, type: vless, tls: true, packet-encoding: xudp, uuid: 7f54e49b-e093-4154-acb3-266d48597d30, host: nice11.armoserver.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: beat.raynomusic.ir:8880, server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: beat.raynomusic.ir:8880 2, server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 13", server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lady.negin2.cfd:24401 2, server: lady.negin2.cfd, port: 24401, type: vless, tls: true, packet-encoding: xudp, uuid: b6af5815-c6c5-4747-aa09-8d234ca45037, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇬🇧 england.socialxxmedia.com:49470, server: england.socialxxmedia.com, port: 49470, type: vless, tls: true, packet-encoding: xudp, uuid: bdef2f7d-6c53-6eae-e646-903b6a817563, servername: england.socialxxmedia.com, host: england.socialxxmedia.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 14", server: england.socialxxmedia.com, port: 49470, type: vless, tls: true, packet-encoding: xudp, uuid: bdef2f7d-6c53-6eae-e646-903b6a817563, servername: england.socialxxmedia.com, host: england.socialxxmedia.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 15", server: k5.adamak.top, port: 11035, type: vless, tls: true, packet-encoding: xudp, uuid: c52064f6-67f3-43cd-ada7-29d3cc1623cd, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.80.19.203:8081, server: 212.80.19.203, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf2de4-495d-45f1-bf5e-00da3b58796f, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 16", server: 212.80.19.203, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf2de4-495d-45f1-bf5e-00da3b58796f, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 2", server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 92320c5a-fffb-40c8-841d-609193ed21bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 17", server: 94.139.180.83, port: 443, type: vmess, uuid: 7bd44611-f2ca-4ad0-bed5-2fe8f2387d68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 18", server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 19", server: line1.bsgermdubra.com, port: 51660, type: vmess, uuid: 0b67b1c0-678d-463b-86ef-ccdf755a959e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,6 +518,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -499,6 +557,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -509,6 +596,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,6 +644,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -538,6 +683,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -548,6 +722,35 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe 2"
       - "Telegram: @wiki_tajrobe 3"
       - "Telegram: @wiki_tajrobe 4"
+      - lady.negin2.cfd:24401
+      - "Telegram: @wiki_tajrobe 5"
+      - cdntr202.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website:1095
+      - "Telegram: @wiki_tajrobe 6"
+      - "Telegram: @wiki_tajrobe 7"
+      - 213.165.58.87:12345
+      - "Telegram: @wiki_tajrobe 8"
+      - "Telegram: @wiki_tajrobe 9"
+      - "Telegram: @wiki_tajrobe 10"
+      - 185.120.220.29:60341
+      - "Telegram: @wiki_tajrobe 11"
+      - m2.masih1-ah.site:57070
+      - 46.38.138.28:28131
+      - "Telegram: @wiki_tajrobe 12"
+      - nice11.armoserver.top:3782
+      - beat.raynomusic.ir:8880
+      - beat.raynomusic.ir:8880 2
+      - "Telegram: @wiki_tajrobe 13"
+      - lady.negin2.cfd:24401 2
+      - 🇬🇧 england.socialxxmedia.com:49470
+      - "Telegram: @wiki_tajrobe 14"
+      - "Telegram: @wiki_tajrobe 15"
+      - 212.80.19.203:8081
+      - "Telegram: @wiki_tajrobe 16"
+      - "@filembad"
+      - "@filembad 2"
+      - "Telegram: @wiki_tajrobe 17"
+      - "Telegram: @wiki_tajrobe 18"
+      - "Telegram: @wiki_tajrobe 19"
   - name: دانلود منیجر 📥
     type: select
     proxies:

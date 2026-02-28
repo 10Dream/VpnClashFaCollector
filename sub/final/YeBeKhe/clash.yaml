@@ -465,11 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 85.133.230.101:20600, server: 85.133.230.101, port: 20600, type: vless, tls: true, packet-encoding: xudp, uuid: 4ed7a337-17d8-486f-b243-f7e561d6a8ee, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 135.125.168.181:878, server: 135.125.168.181, port: 878, type: vless, tls: true, packet-encoding: xudp, uuid: 89ed95bb-c4cd-09b8-2c39-1a728c58ec16, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.82.251.208:8880, server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: vip-78.f-sub.cfd:1517, server: vip-78.f-sub.cfd, port: 1517, type: vless, tls: true, packet-encoding: xudp, uuid: a1049f7f-6e81-4735-bdb9-c7c5a6d88ba6, host: testspeed-foreign.tci.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8add82d-0a0a-4f3b-a22e-c74f83da73b9, servername: afrcloud22.mmv.kr`, network: ws, ws-opts: {path: /138.2.64.229=443, headers: {Host: afrcloud22.mmv.kr`}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit`", server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 2", server: cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 3", server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,33 +484,27 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -528,33 +520,27 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 85.133.230.101:20600
-      - 135.125.168.181:878
-      - 45.82.251.208:8880
-      - vip-78.f-sub.cfd:1517
-      - chatgpt.com:443
+      - "@Capoit`"
+      - "@Capoit` 2"
+      - "@Capoit` 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:
