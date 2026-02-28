@@ -465,15 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3, server: 185.19.33.226, port: 42525, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: amazon.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗨𝗦𝗔 𝘃𝟮, server: 185.92.181.154, port: 2043, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗙𝗿𝗮𝗻𝗰𝗲, server: 194.120.24.160, port: 42568, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗨𝗞`, server: 31.57.46.47, port: 42532, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗔𝗳𝗿𝗶𝗰𝗮, server: 45.144.49.18, port: 42321, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹, server: 45.91.193.124, port: 41617, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗧𝘂𝗿𝗸𝗲𝘆, server: 46.8.229.139, port: 2080, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗣𝗼𝗹𝗮𝗻𝗱, server: poland.speedtesty.xyz, port: 42328, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: www.play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 𝗨𝘀𝗮, server: usa.speedbluepanel.sbs, port: 42354, type: vless, tls: true, packet-encoding: xudp, uuid: a6cbe945-19cb-4b69-b5ea-910e7141b2ed, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 DE, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 🇬🇧 200.0 GB 𝗗𝗮𝘆𝘀 𝗟𝗲𝗳𝘁:∞-Iran3
-      - 𝗨𝗦𝗔 𝘃𝟮
-      - 𝗙𝗿𝗮𝗻𝗰𝗲
-      - 𝗨𝗞`
-      - 𝗔𝗳𝗿𝗶𝗰𝗮
-      - 𝗚𝗲𝗿𝗺𝗮𝗻𝘆¹
-      - 𝗧𝘂𝗿𝗸𝗲𝘆
-      - 𝗣𝗼𝗹𝗮𝗻𝗱
-      - 𝗨𝘀𝗮
+      - 🇩🇪 DE
   - name: دانلود منیجر 📥
     type: select
     proxies:

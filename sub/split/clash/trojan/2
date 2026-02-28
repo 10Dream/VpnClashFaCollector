@@ -465,48 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev, port: 443, type: trojan, password: join-masterserver1, sni: join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: join-masterserver1-join-masterserver1-join-masterserver1.galajih191.workers.dev}}, udp: true, tfo: false}
-  - {name: 154.203.183.119:443, server: 154.203.183.119, port: 443, type: trojan, password: pingUserForApp189, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[15322] - Telegram : @configraygan", server: 154.203.183.119, port: 443, type: trojan, password: pingUserForApp189, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 154.203.183.119, port: 443, type: trojan, password: pingUserForApp189, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 154.203.183.119:443 2, server: 154.203.183.119, port: 443, type: trojan, password: pingUserForApp189, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 154.203.183.119, port: 443, type: trojan, password: pingUserForApp189, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[14442] - Telegram : @configraygan", server: 13.37.41.238, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[14382] - Telegram : @configraygan", server: 13.39.176.199, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.236.70.126:22223, server: 15.236.70.126, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 15.236.70.126, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.236.70.126:22223 2, server: 15.236.70.126, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[15331] - Telegram : @configraygan", server: 15.236.70.126, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 15.236.70.126, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.158.180.45:22223, server: 35.158.180.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[13514] - Telegram : @configraygan", server: 35.158.180.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.29.103.93:22223, server: 52.29.103.93, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 52.29.103.93, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.29.103.93:22223 2, server: 52.29.103.93, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 52.29.103.93, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[14385] - Telegram : @configraygan", server: 13.39.176.199, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.236.70.126:22222, server: 15.236.70.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 15.236.70.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15.236.70.126:22222 2, server: 15.236.70.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[15329] - Telegram : @configraygan", server: 15.236.70.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 15.236.70.126, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[13510] - Telegram : @configraygan", server: 35.158.180.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.29.103.93:22222, server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.29.103.93:22222 2, server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.57.206.229:22222, server: 52.57.206.229, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 22b.net:2087, server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420/, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420/ 2, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 2, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -524,47 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -572,47 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -620,47 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -677,47 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -725,47 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -773,47 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
-      - 154.203.183.119:443
-      - "[15322] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 154.203.183.119:443 2
-      - "***✅***@AR14N24b 3"
-      - "[14442] - Telegram : @configraygan"
-      - "[14382] - Telegram : @configraygan"
-      - 15.236.70.126:22223
-      - "***✅***@AR14N24b 4"
-      - 15.236.70.126:22223 2
-      - "[15331] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 5"
-      - 35.158.180.45:22223
-      - "[13514] - Telegram : @configraygan"
-      - 52.29.103.93:22223
-      - "***✅***@AR14N24b 6"
-      - 52.29.103.93:22223 2
-      - "***✅***@AR14N24b 7"
-      - "[14385] - Telegram : @configraygan"
-      - 15.236.70.126:22222
-      - "***✅***@AR14N24b 8"
-      - 15.236.70.126:22222 2
-      - "[15329] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 9"
-      - "[13510] - Telegram : @configraygan"
-      - 52.29.103.93:22222
-      - "***✅***@AR14N24b 10"
-      - 52.29.103.93:22222 2
-      - "***✅***@AR14N24b 11"
-      - 52.57.206.229:22222
-      - 22b.net:2087
-      - "***✅***@AR14N24b 12"
-      - 80.173.231.254:12420/
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420/ 2
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 2
-      - "***✅***@AR14N24b 16"
-      - "***✅***@AR14N24b 17"
   - name: دانلود منیجر 📥
     type: select
     proxies:

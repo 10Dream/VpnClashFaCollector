@@ -473,6 +473,7 @@ proxies:
   - {name: 11@oneclickvpnkeys, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5@oneclickvpnkeys, server: 150.241.79.106, port: 1935, type: hysteria2, ports: 1935, password: germany_hysteria2_fastlane_5devbouui:d6PbiWJIc6RAIokX8S7ZyXEm6SjqfvXA, sni: de2.h.fastlanehosting.ru, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.132.51.160:844, server: 91.132.51.160, port: 844, type: hysteria2, ports: 844, password: 5046SHWqk6, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 181.214.99.162:35000, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 181.214.99.162:35000 2, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -484,7 +485,6 @@ proxies:
   - {name: "@meliproxyy 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt` 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 5.175.249.174:35000 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt 3, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -510,6 +510,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -521,7 +522,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -537,6 +537,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -548,7 +549,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -564,6 +564,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -575,7 +576,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: اتصال پایدار 🔗
     type: url-test
@@ -600,6 +600,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -611,7 +612,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -627,6 +627,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -638,7 +639,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -654,6 +654,7 @@ proxy-groups:
       - 11@oneclickvpnkeys
       - 5@oneclickvpnkeys
       - 91.132.51.160:844
+      - 13@oneclickvpnkeys
       - 181.214.99.162:35000
       - "@proxy_kafee"
       - 181.214.99.162:35000 2
@@ -665,7 +666,6 @@ proxy-groups:
       - "@meliproxyy 2"
       - freenet_vt 2
       - freenet_vt` 2
-      - 5.175.249.174:35000 2
       - freenet_vt 3
   - name: دانلود منیجر 📥
     type: select

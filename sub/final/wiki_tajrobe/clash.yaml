@@ -465,22 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 206.71.158.41:35000, server: 206.71.158.41, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.159.148.130:2093, server: 45.159.148.130, port: 2093, type: vless, tls: true, packet-encoding: xudp, uuid: 2ee95306-39b9-439b-b583-a0203b6a4e81, network: ws, ws-opts: {path: /DownloAdMusic, headers: {Host: www.speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: maxa06.gaterserver.ir:2096, server: maxa06.gaterserver.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 42f4be04-31d7-477d-9549-c1f79c6b9ee0, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 141.101.115.71:443, server: 141.101.115.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e125438-1a39-440e-95fc-36b9dec03e5f, servername: adderall.adaspoloandco.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /faq, headers: {Host: adderall.adaspoloandco.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ipbaz.ping-box.com:2096, server: ipbaz.ping-box.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: srv-c0.netmaster.cam:8008, server: srv-c0.netmaster.cam, port: 8008, type: vless, tls: true, packet-encoding: xudp, uuid: 66120db8-209e-a826-47c1-df38a3230e47, servername: 1, network: ws, ws-opts: {path: /, headers: {Host: 1}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62.60.159.133:55992, server: 62.60.159.133, port: 55992, type: vless, tls: true, packet-encoding: xudp, uuid: 96ca0ac0-163a-4066-9128-8770e1a810da, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.232.157.252:2053, server: 172.232.157.252, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.76.248.84:58445, server: 3.76.248.84, port: 58445, type: vless, tls: true, packet-encoding: xudp, uuid: a9d5dd8b-9eb3-4b4f-f69b-90abc8af99c9, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.48.147:80, server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /66.42.51.60, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.180.92:443, server: 172.67.180.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: web.abcallcenter.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/--Telegram---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN?ed=2560", headers: {Host: web.abcallcenter.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.67.169.177:40869, server: 3.67.169.177, port: 40869, type: vless, tls: true, packet-encoding: xudp, uuid: de41e034-f3b5-4465-b616-552f2019885a, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tun3.myextraordinary.ir:10005, server: tun3.myextraordinary.ir, port: 10005, type: vless, tls: true, packet-encoding: xudp, uuid: ec2d831b-f6a1-4daf-b213-a1ce9ae61b41, host: tun3.myextraordinary.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: glob.thisiswe.uno:2053, server: glob.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: p1.thisiswe.uno, network: ws, ws-opts: {path: /, headers: {Host: p1.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 103.231.75.185:443, server: 103.231.75.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f078abea-a480-44c7-a785-4436c767835a, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ve8spuAYBeV8j7QnofoqGecdYl1KZYYcykiyHHzNg1U, short-id: 0bce}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 2", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 3", server: 193.151.152.235, port: 4086, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 4", server: 193.151.152.235, port: 6312, type: vless, tls: true, packet-encoding: xudp, uuid: 39e57b95-315d-4fca-84cc-7b0bf4e9ac15, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,66 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -572,66 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 206.71.158.41:35000
-      - 45.159.148.130:2093
-      - maxa06.gaterserver.ir:2096
-      - 141.101.115.71:443
-      - ipbaz.ping-box.com:2096
-      - srv-c0.netmaster.cam:8008
-      - 62.60.159.133:55992
-      - 172.232.157.252:2053
-      - 3.76.248.84:58445
-      - 104.21.48.147:80
-      - www.speedtest.net:443
-      - 172.67.180.92:443
-      - 3.67.169.177:40869
-      - tun3.myextraordinary.ir:10005
-      - glob.thisiswe.uno:2053
-      - 103.231.75.185:443
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

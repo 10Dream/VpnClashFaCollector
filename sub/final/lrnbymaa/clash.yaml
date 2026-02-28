@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Lrnbymaa اختصاصی`", server: 185.226.118.143, port: 43019, type: vless, tls: true, packet-encoding: xudp, uuid: 17a6c797-9234-41b4-f2b9-07360cf74793, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "تلگرام ما : Lrnbymaa@`", server: games.shabroo.com, port: 6690, type: vless, tls: true, packet-encoding: xudp, uuid: 9b4fd9d0-0508-4bcb-b60e-4275adb878bb, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 USA  🇺🇸 @Lrnbymaa, server: 45.15.125.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: b9e5c4b7-1e9b-4ca5-82dc-43f3a440484c, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YF_Vfx9VdDFXKM4bL1RZx6vsUqlSMtT56wPt987Aul8, short-id: db49831a996244d8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa, server: 1.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -485,7 +484,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
@@ -495,7 +493,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
@@ -505,7 +502,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
@@ -524,7 +520,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
@@ -534,7 +529,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa
@@ -544,7 +538,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Lrnbymaa اختصاصی`"
       - "تلگرام ما : Lrnbymaa@`"
       - 🇺🇸 USA  🇺🇸 @Lrnbymaa
       - 🇳🇱 Netherlands  🇳🇱 @Lrnbymaa

@@ -472,6 +472,7 @@ proxies:
   - {name: "@MARAMBASHI 🇧🇷", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}, udp: true, tfo: false}
   - {name: "@vpnbaz 🥎", server: 57.129.59.201, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: 97@oneclickvpnkeys, server: 8.210.197.138, port: 1006, type: vmess, uuid: 5075953b-cc1b-4b2c-e3f6-df4ca6b8e11c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: 94.232.247.164, port: 44030, type: vmess, uuid: 22c396a3-95da-4be8-beef-834d17d75784, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @SOSkeyNET, server: 00p.dddc.us.ci, port: 443, type: vmess, uuid: 34778794-72e8-4862-b1e7-6e6c3ba894be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 00p.dddc.us.ci, network: ws, ws-opts: {path: /qlWiWOdPkCVqBXYWmzP5D1vsO, headers: {Host: 00p.dddc.us.ci}}, udp: true, tfo: false}
   - {name: 75@oneclickvpnkeys, server: 104.17.148.22, port: 80, type: vmess, uuid: 2632e7db-a0ce-4d20-9368-1473f6de239c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net.newpath.xyz-my.eu.org}}, udp: true, tfo: false}
   - {name: ⚡️ | @configraygan『🇩🇪¹』, server: 104.21.74.78, port: 443, type: vmess, uuid: 4115f84d-3b03-4b03-babf-21b36b2f9c03, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fFfVfBg.890634.XYZ, network: ws, ws-opts: {path: /GgigazFGDGDgVTDItkD5XgXAL, headers: {Host: fFFVbG.890634.XyZ}}, udp: true, tfo: false}
@@ -501,7 +502,6 @@ proxies:
   - {name: ⚡️Telegram - @SOSkeyNET 4, server: drty.1c0.ccwu.cc, port: 443, type: vmess, uuid: 34778794-72e8-4862-b1e7-6e6c3ba894be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: drty.1c0.ccwu.cc, network: ws, ws-opts: {path: /qlWiWOdPkCVqBXYWmzP5D1vsO, headers: {Host: drty.1c0.ccwu.cc}}, udp: true, tfo: false}
   - {name: 79@oneclickvpnkeys, server: fbnhu.0wu.ccwu.cc, port: 80, type: vmess, uuid: 8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /y3ME81hpTJWwd4RJBAQ5Ah, headers: {Host: fbnhu.0wu.ccwu.cc}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @SOSkeyNET 5, server: hy.dddc.us.ci, port: 443, type: vmess, uuid: 34778794-72e8-4862-b1e7-6e6c3ba894be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hy.dddc.us.ci, network: ws, ws-opts: {path: /qlWiWOdPkCVqBXYWmzP5D1vsO, headers: {Host: hy.dddc.us.ci}}, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: ip3.phonoma.ir, port: 443, type: vmess, uuid: 9bd3b246-212d-4994-b1c3-cda8ed02fce6, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cdn.olaf.space, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: cdn.olaf.space}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @SOSkeyNET 6, server: kkjl.dddc.us.ci, port: 443, type: vmess, uuid: 34778794-72e8-4862-b1e7-6e6c3ba894be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kkjl.dddc.us.ci, network: ws, ws-opts: {path: /qlWiWOdPkCVqBXYWmzP5D1vsO, headers: {Host: kkjl.dddc.us.ci}}, udp: true, tfo: false}
   - {name: 87@oneclickvpnkeys, server: mzoom.bypassvpn.site, port: 443, type: vmess, uuid: 8e5673e0-1979-4ee1-a8c1-5a257d2cbf48, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mzoom.bypassvpn.site, network: ws, ws-opts: {path: /vmess, headers: {Host: mzoom.bypassvpn.site}}, udp: true, tfo: false}
   - {name: 90@oneclickvpnkeys, server: neva.azlan.biz.id, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: neva.azlan.biz.id, network: ws, ws-opts: {path: /vmess, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
@@ -510,6 +510,7 @@ proxies:
   - {name: ⚡️Telegram - @SOSkeyNET 8, server: nnmkgh.6hh.ccwu.cc, port: 443, type: vmess, uuid: 5f6c3f92-7220-4275-b34d-57c04db3f967, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: nnmkgh.6hh.ccwu.cc, network: ws, ws-opts: {path: /KnuT4XBUucXkOSONBms, headers: {Host: nnmkgh.6hh.ccwu.cc}}, udp: true, tfo: false}
   - {name: 81@oneclickvpnkeys, server: payload.xyz-my.eu.org, port: 443, type: vmess, uuid: 1491462a-979a-4ac0-b5dd-7409a91e62fb, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: payload.xyz-my.eu.org, network: ws, ws-opts: {path: /vmess, headers: {Host: payload.xyz-my.eu.org}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩, server: pq-Hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
+  - {name: WS-None | @KIA_NET, server: pq-hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: "[15269] - Telegram : @configraygan", server: pq-hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: 80@oneclickvpnkeys, server: rfghnj.0gg.ccwu.cc, port: 80, type: vmess, uuid: 8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /y3ME81hpTJWwd4RJBAQ5Ah, headers: {Host: rfghnj.0gg.ccwu.cc}}, udp: true, tfo: false}
 proxy-groups:
@@ -535,6 +536,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -564,7 +566,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -573,6 +574,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
@@ -588,6 +590,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -617,7 +620,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -626,6 +628,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -641,6 +644,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -670,7 +674,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -679,6 +682,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: اتصال پایدار 🔗
@@ -703,6 +707,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -732,7 +737,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -741,6 +745,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
@@ -756,6 +761,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -785,7 +791,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -794,6 +799,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
@@ -809,6 +815,7 @@ proxy-groups:
       - "@MARAMBASHI 🇧🇷"
       - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
+      - 🇫🇷 [openproxylist.com] vmess-FR
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
       - ⚡️ | @configraygan『🇩🇪¹』
@@ -838,7 +845,6 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 4
       - 79@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET 5
-      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - ⚡️Telegram - @SOSkeyNET 6
       - 87@oneclickvpnkeys
       - 90@oneclickvpnkeys
@@ -847,6 +853,7 @@ proxy-groups:
       - ⚡️Telegram - @SOSkeyNET 8
       - 81@oneclickvpnkeys
       - برای اتصال دائمی جوین شو👾 TelegramID ⌲Express_freevpn 🪩
+      - WS-None | @KIA_NET
       - "[15269] - Telegram : @configraygan"
       - 80@oneclickvpnkeys
   - name: دانلود منیجر 📥
