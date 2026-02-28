@@ -466,11 +466,11 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: germany.spacegate.ir, port: 443, type: vmess, uuid: f2ab4c63-d860-40d5-b3dd-c5f93beb223f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: germany.spacegate.ir}}, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-FI", server: dll.avaaaal.ir, port: 8443, type: vmess, uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dll.avaaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cdge.avaaaal.ir}}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-TR", server: 45.141.151.236, port: 14466, type: vmess, uuid: f429d63c-ae81-49a8-ef17-7351dc4abd8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /api/v3}, udp: true, tfo: false}
   - {name: 009-🐭@GheychiAmoozesh, server: 5.196.29.123, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "[15274] - Telegram : @configraygan", server: 51.158.151.24, port: 20104, type: vmess, uuid: 40e306a6-7cab-40ac-a085-a961895eb11b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇧🇷", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}, udp: true, tfo: false}
-  - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: 8.210.197.138, port: 1004, type: vmess, uuid: a13d3f6b-b961-4512-fc8a-9f1d908937b8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 8.210.197.138}}, udp: true, tfo: false}
+  - {name: "@vpnbaz 🥎", server: 57.129.59.201, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
   - {name: 97@oneclickvpnkeys, server: 8.210.197.138, port: 1006, type: vmess, uuid: 5075953b-cc1b-4b2c-e3f6-df4ca6b8e11c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @SOSkeyNET, server: 00p.dddc.us.ci, port: 443, type: vmess, uuid: 34778794-72e8-4862-b1e7-6e6c3ba894be, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 00p.dddc.us.ci, network: ws, ws-opts: {path: /qlWiWOdPkCVqBXYWmzP5D1vsO, headers: {Host: 00p.dddc.us.ci}}, udp: true, tfo: false}
   - {name: 75@oneclickvpnkeys, server: 104.17.148.22, port: 80, type: vmess, uuid: 2632e7db-a0ce-4d20-9368-1473f6de239c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net.newpath.xyz-my.eu.org}}, udp: true, tfo: false}
@@ -486,7 +486,6 @@ proxies:
   - {name: "[14396] - Telegram : @configraygan", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[15268] - Telegram : @configraygan", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[15246] - Telegram : @configraygan", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "[13523] - Telegram : @configraygan", server: 2.144.20.41, port: 8082, type: vmess, uuid: 0334df2a-a21a-4a12-9da0-3179a5c91fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[15304] - Telegram : @configraygan", server: 2.144.20.41, port: 8082, type: vmess, uuid: 0334df2a-a21a-4a12-9da0-3179a5c91fbe, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 76@oneclickvpnkeys, server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
   - {name: "🇲🇾 [openproxylist.com] vmess-MY", server: 23.27.28.15, port: 5735, type: vmess, uuid: 87c50702-71cf-47ca-aee4-ab304d28839e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
@@ -530,11 +529,11 @@ proxy-groups:
     type: select
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -550,7 +549,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
@@ -584,11 +582,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -604,7 +602,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
@@ -638,11 +635,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -658,7 +655,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
@@ -701,11 +697,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -721,7 +717,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
@@ -755,11 +750,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -775,7 +770,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
@@ -809,11 +803,11 @@ proxy-groups:
     interval: 600
     proxies:
       - 🇩🇪 [openproxylist.com] vmess-DE
-      - "[openproxylist.com] vmess-FI"
+      - "[openproxylist.com] vmess-TR"
       - 009-🐭@GheychiAmoozesh
       - "[15274] - Telegram : @configraygan"
       - "@MARAMBASHI 🇧🇷"
-      - 🇭🇰 [openproxylist.com] vmess-HK
+      - "@vpnbaz 🥎"
       - 97@oneclickvpnkeys
       - ⚡️Telegram - @SOSkeyNET
       - 75@oneclickvpnkeys
@@ -829,7 +823,6 @@ proxy-groups:
       - "[14396] - Telegram : @configraygan"
       - "[15268] - Telegram : @configraygan"
       - "[15246] - Telegram : @configraygan"
-      - "[13523] - Telegram : @configraygan"
       - "[15304] - Telegram : @configraygan"
       - 76@oneclickvpnkeys
       - 🇲🇾 [openproxylist.com] vmess-MY
