@@ -465,26 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 128-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 089-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 035-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 046-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 016-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36600, type: hysteria2, ports: 36600, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 130-🐭@GheychiAmoozesh, server: 82.38.31.199, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 062-🐭@GheychiAmoozesh, server: 82.38.31.210, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: 019-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.170, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 094-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.218, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 113-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.154.245, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 031-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.137, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 021-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.203, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 022-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.226, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 075-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.47, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 106-🇻🇳 🐭@GheychiAmoozesh, server: 103.186.155.76, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: 072-🇸🇬 🐭@GheychiAmoozesh, server: 16.163.102.116, port: 52951, type: trojan, password: BxceQaOe, sni: t.me%25252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 118-🐭@GheychiAmoozesh, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 081-🐭@GheychiAmoozesh, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: 082-🐭@GheychiAmoozesh, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: 017-🐭@GheychiAmoozesh, server: foriran.mizbanit.com, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: https://t.me/ConfigX2ray, server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/ConfigX2ray 2, server: M.kejar.ir, port: 6002, type: vless, tls: true, packet-encoding: xudp, uuid: 37d12b73-7315-4d9a-b6ac-bbebe1498945, network: ws, ws-opts: {path: /, headers: {Host: fast.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.206.124.158:443, server: 43.206.124.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -504,7 +484,6 @@ proxies:
   - {name: https://t.me/ConfigX2ray 4, server: 3.70.241.237, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cbf69c40-f872-4cfb-858e-dd143468b272, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.71.15.84:30707, server: 3.71.15.84, port: 30707, type: vless, tls: true, packet-encoding: xudp, uuid: d2715e46-c315-4613-8c99-a32566d12926, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.221.58:18694, server: 3.127.221.58, port: 18694, type: vless, tls: true, packet-encoding: xudp, uuid: db27952d-9de6-4a90-d508-0d2ab314d2f4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 009-🐭@GheychiAmoozesh, server: 5.196.29.123, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -521,26 +500,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -560,33 +519,12 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -606,33 +544,12 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -652,7 +569,6 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -668,26 +584,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -707,33 +603,12 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -753,33 +628,12 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
-      - 130-🐭@GheychiAmoozesh
-      - 062-🐭@GheychiAmoozesh
-      - 019-🇻🇳 🐭@GheychiAmoozesh
-      - 094-🇻🇳 🐭@GheychiAmoozesh
-      - 113-🇻🇳 🐭@GheychiAmoozesh
-      - 031-🇻🇳 🐭@GheychiAmoozesh
-      - 021-🇻🇳 🐭@GheychiAmoozesh
-      - 022-🇻🇳 🐭@GheychiAmoozesh
-      - 075-🇻🇳 🐭@GheychiAmoozesh
-      - 106-🇻🇳 🐭@GheychiAmoozesh
-      - 072-🇸🇬 🐭@GheychiAmoozesh
-      - 118-🐭@GheychiAmoozesh
-      - 081-🐭@GheychiAmoozesh
-      - 082-🐭@GheychiAmoozesh
-      - 017-🐭@GheychiAmoozesh
       - https://t.me/ConfigX2ray
       - https://t.me/ConfigX2ray 2
       - 43.206.124.158:443
@@ -799,7 +653,6 @@ proxy-groups:
       - https://t.me/ConfigX2ray 4
       - 3.71.15.84:30707
       - 3.127.221.58:18694
-      - 009-🐭@GheychiAmoozesh
   - name: دانلود منیجر 📥
     type: select
     proxies:

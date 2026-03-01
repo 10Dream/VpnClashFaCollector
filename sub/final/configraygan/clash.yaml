@@ -465,41 +465,238 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: ⚡Telegram - @configraygan, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 2, server: dddfghyju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: dddfghyju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: dddfghyju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 3, server: gbnh.7777112.xyz, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: gbnh.7777112.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 4, server: ggbnhj.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: ggbnhj.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: ggbnhj.932.pp.ua}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 5, server: vvvbnj.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: vvvbnj.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: vvvbnj.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 6, server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 7, server: nji9768.006660666.xyz, port: 443, type: trojan, password: 795ef99b-3260-4d18-ac98-5130bba9f168, sni: nji9768.006660666.xyz, skip-cert-verify: false, network: ws, ws-opts: {path: /OkVaxoknnGWI7hLRpJ1, headers: {Host: nji9768.006660666.xyz}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 8, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 9, server: www.calmlunch.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 10, server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan چنل تلگرام🛡", server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan", server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan 2", server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 11, server: n.masih1-ah.site, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: 1b4e2fd9-dcf1-48ca-82a2-521828fced48, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan چنل تلگرام🛡 2", server: M.kejar.ir, port: 6002, type: vless, tls: true, packet-encoding: xudp, uuid: 37d12b73-7315-4d9a-b6ac-bbebe1498945, network: ws, ws-opts: {path: /, headers: {Host: fast.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @@configraygan V1", server: address1.vector-reactor.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53e3ad33-7ca3-0393-f8db-3c56cca64686, servername: app.vector-reactor.ir, alpn: [http/1.1], network: ws, ws-opts: {path: "/wss?ed=2048", headers: {Host: app.vector-reactor.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan", server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 12, server: cdnnim234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: a72d80b3-bc39-4122-b280-343681d0ceb7, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@@configraygan V1 🍁", server: ge.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac1f64ca-3d3d-4c98-abef-883155e94f26, servername: ge.x2net.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ge.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan 3", server: england.socialxxmedia.com, port: 49470, type: vless, tls: true, packet-encoding: xudp, uuid: bdef2f7d-6c53-6eae-e646-903b6a817563, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan V2", server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 13, server: k5.adamak.top, port: 11035, type: vless, tls: true, packet-encoding: xudp, uuid: c52064f6-67f3-43cd-ada7-29d3cc1623cd, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @@configraygan V18", server: us.x2fastt.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d268df3a-b47d-46fc-994f-41f6f9da5aa9, servername: us.x2fastt.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: us.x2fastt.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 14, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v5.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 15, server: mika.newdesigne.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f0690abb-47d3-4730-b92a-a81fe04adefc, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan چنل تلگرام🛡 3", server: 212.80.19.203, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf2de4-495d-45f1-bf5e-00da3b58796f, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan 4", server: 212.80.19.203, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f3bf2de4-495d-45f1-bf5e-00da3b58796f, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @configraygan, server: 94.139.180.83, port: 443, type: vmess, uuid: 7bd44611-f2ca-4ad0-bed5-2fe8f2387d68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan 5", server: 94.139.180.83, port: 443, type: vmess, uuid: 7bd44611-f2ca-4ad0-bed5-2fe8f2387d68, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan V1", server: GR1-Public-IR.g2gstore.ir, port: 9119, type: vmess, uuid: ae56511d-6b39-454b-847b-b711782d18cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @configraygan 2, server: line1.bsgermdubra.com, port: 51660, type: vmess, uuid: 0b67b1c0-678d-463b-86ef-ccdf755a959e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram:  @@configraygan V13", server: mac.pkpowerking.xyz, port: 34082, type: vmess, uuid: 91dce55e-47c7-4176-be61-21b1122d9c40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan چنل تلگرام🛡 4", server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ⚡️Telegram - @configraygan 3, server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan 6", server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17260] - Telegram : @configraygan", server: 135.125.10.106, port: 10018, type: ss, cipher: chacha20-ietf-poly1305, password: 4b4763efefa95114, udp: true, tfo: false}
+  - {name: "[17209] - Telegram : @configraygan", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "[16961] - Telegram : @configraygan", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "[16978] - Telegram : @configraygan", server: 163.171.206.24, port: 44235, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
+  - {name: "[16960] - Telegram : @configraygan", server: 31.210.50.196, port: 12422, type: ss, cipher: chacha20-ietf-poly1305, password: Oqt9kgyMGBiOAJPG4uZXlv, udp: true, tfo: false}
+  - {name: "@configraygan", server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: "@configraygan 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "[16964] - Telegram : @configraygan", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, udp: true, tfo: false}
+  - {name: "@configraygan 3", server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
+  - {name: "[17181] - Telegram : @configraygan", server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
+  - {name: "[16962] - Telegram : @configraygan", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: "[17166] - Telegram : @configraygan", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "[17254] - Telegram : @configraygan", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "[17262] - Telegram : @configraygan", server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: "[17259] - Telegram : @configraygan", server: 188.116.22.217, port: 2083, type: trojan, password: 0zmdDXd0Qt5ff_7Qg67R-Rtq4Tmt4c, sni: xo.e0f.cx, skip-cert-verify: false, network: ws, ws-opts: {path: /trojan-ws, headers: {Host: xo.e0f.cx}}, udp: true, tfo: false}
+  - {name: "[17199] - Telegram : @configraygan", server: y.taiwan2029.indevs.in, port: 443, type: trojan, password: 1798b14b-aee0-4008-ba9a-2e53877761b4, sni: y.taiwan2029.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /RXvyoH0kyRosKkycyrxcJWNVFC21, headers: {Host: y.taiwan2029.indevs.in}}, udp: true, tfo: false}
+  - {name: "[17191] - Telegram : @configraygan", server: ggbnhj.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: ggbnhj.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: ggbnhj.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "[17211] - Telegram : @configraygan", server: ggbnhj.932.pp.ua, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: ggbnhj.932.pp.ua, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: ggbnhj.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "[17196] - Telegram : @configraygan", server: mmkk.www890604.dpdns.org, port: 443, type: trojan, password: 5cccb4da-8aee-4b01-be84-2056265e52dc, sni: mMKK.WwW890604.DpdNS.OrG, skip-cert-verify: false, network: ws, ws-opts: {path: /hV829BTVzg35A6ueyyZnWd, headers: {Host: mMKK.WwW890604.DpdNS.OrG}}, udp: true, tfo: false}
+  - {name: "[17210] - Telegram : @configraygan", server: 149.28.151.140, port: 443, type: trojan, password: 842b5f9dd11e458d8613c907c4cc5723, sni: www.gpt123.one, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16984] - Telegram : @configraygan", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "[16990] - Telegram : @configraygan", server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "[16991] - Telegram : @configraygan", server: 172.67.180.92, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "[17219] - Telegram : @configraygan", server: 185.18.250.245, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "[17178] - Telegram : @configraygan", server: 13.39.219.34, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17193] - Telegram : @configraygan", server: 18.159.99.186, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17190] - Telegram : @configraygan", server: 18.159.99.186, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17217] - Telegram : @configraygan", server: 159.69.162.184, port: 42622, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17233] - Telegram : @configraygan", server: 159.69.162.184, port: 42622, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17236] - Telegram : @configraygan", server: 159.69.162.184, port: 42944, type: vless, tls: true, packet-encoding: xudp, uuid: 00000000-0000-4000-8000-000000000000, servername: sub.mot.ip-ddns.com, network: ws, ws-opts: {path: /, headers: {Host: sub.mot.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17242] - Telegram : @configraygan", server: 54.38.214.29, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17240] - Telegram : @configraygan", server: go.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 0331b690-79fc-49d5-85f0-54faa4eff89f, host: go.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17228] - Telegram : @configraygan", server: 172.64.84.146, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 03993135-ae86-433f-94d4-7bad33d7fc22, servername: AZaDnEt-sTm-uSa.PagES.dev, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: AZaDnEt-sTm-uSa.PagES.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17222] - Telegram : @configraygan", server: shop5.ahoohost3.top, port: 7339, type: vless, tls: true, packet-encoding: xudp, uuid: 040e864f-d29f-42b6-999e-8d4f298ffb67, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17239] - Telegram : @configraygan", server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 042bbe0e-c755-4b6b-8b75-707de798a790, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17168] - Telegram : @configraygan", server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 0485aebb-2626-4b1d-a995-c7c66dc44e10, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17176] - Telegram : @configraygan", server: 13.39.219.34, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17192] - Telegram : @configraygan", server: 18.159.99.186, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17006] - Telegram : @configraygan", server: 213.176.1.45, port: 45471, type: vless, tls: true, packet-encoding: xudp, uuid: 068f7784-c1c4-4ef7-b820-40759589c4ac, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡", server: de-3-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡ 2", server: tak8.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net%2F%3FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17241] - Telegram : @configraygan", server: 217.13.104.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0adc7c2b-a11b-4470-964e-e79d256dd1d0, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -cDQPpiRCwOtfQ22cdCd3NkDlqpubdklZXaFGhwUfS8, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17224] - Telegram : @configraygan", server: 217.13.104.15, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0adc7c2b-a11b-4470-964e-e79d256dd1d0, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: dcO8bQEVUFCdwPBpe7o1Dh7wjEryVtEV_dteYVm8LWw, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17234] - Telegram : @configraygan", server: 152.53.116.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d328214-7ebc-413a-9820-2260b38d2242, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho, short-id: 7554}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17247] - Telegram : @configraygan", server: 144.31.104.1, port: 2040, type: vless, tls: true, packet-encoding: xudp, uuid: 14818654-7689-453a-9a1f-4c72f89782d5, servername: tradingview.com, host: tradingview.com, path: /, reality-opts: {public-key: 1RJ2ulM9UyAC8PFy194dV0RTZI6xF6U4CGClhNz9fTg, short-id: 50ed6f6007515d63}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17013] - Telegram : @configraygan", server: 91.99.160.145, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 153ee04c-dcc1-4ef8-a146-8fb31cec1f48, host: zula.ir%2F%3FTELEGRAM%40JOKERRVPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17169] - Telegram : @configraygan", server: 172.66.43.117, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1679af35-6dd6-4c09-ae3b-18f239217f3e, servername: rAyAn-007.pArViN.DpDnS.OrG, network: ws, ws-opts: {path: /, headers: {Host: rAyAn-007.pArViN.DpDnS.OrG}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16992] - Telegram : @configraygan", server: game.pineappled.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17249] - Telegram : @configraygan", server: 46.151.26.175, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17244] - Telegram : @configraygan", server: 87.229.34.164, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0ad61b-1be2-4cda-9979-984a965b0da5, servername: github.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE, short-id: aa7e96542880027a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17167] - Telegram : @configraygan", server: zerotrust.0ppenheimer.com, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 1b7987a1-595b-49a2-9cc4-ce87d7104419, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17173] - Telegram : @configraygan", server: 5.182.38.91, port: 17267, type: vless, tls: true, packet-encoding: xudp, uuid: 1c7fcc38-e6be-43c5-875f-b8de2516b9f2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk, short-id: 4ae260}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan, server: amin2.atlasz.ir, port: 446, type: vless, tls: true, packet-encoding: xudp, uuid: 1eb573db-365b-34f2-e5e1-43ced8643353, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17248] - Telegram : @configraygan", server: 146.190.227.252, port: 20340, type: vless, tls: true, packet-encoding: xudp, uuid: 20037d17-d670-4e6a-9dba-4d190e5ed7d8, alpn: ["h2,http/1.1"], path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17223] - Telegram : @configraygan", server: simurgh.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 20adc847-4159-4f39-b79f-d563b660945f, host: simurgh.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17255] - Telegram : @configraygan", server: 188.132.183.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 213325c6-ef4b-4cdb-850b-24a06f2865c8, servername: 2gis.kz, host: 2gis.kz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: tQshkBu8_I2WDLqhS0kssD7F0uKl6vkvK9egXVXjsQE, short-id: 63d80d5199a2bc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16971] - Telegram : @configraygan", server: 172.67.171.46, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 236a784b-2506-4236-b336-00f2f792986a, network: ws, ws-opts: {path: /vless, headers: {Host: Nl2.vless.site.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 2, server: 31.133.0.133, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 3, server: 51.159.6.227, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 4, server: 51.91.102.163, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: cyuxj212pnq.chinat.indevs.in, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: cyuxj212pnq.chinat.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 5, server: 54.36.100.7, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 6, server: 54.36.99.234, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: cyuxj212pnq.chinat.indevs.in, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: cyuxj212pnq.chinat.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 7, server: 94.23.147.223, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 8, server: 95.182.96.30, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 9, server: next.bestirspeed.top, port: 1008, type: vless, tls: true, packet-encoding: xudp, uuid: 27511a97-b005-4b76-8fb6-84a6b66997b0, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: limited @configraygan, server: next.bestirspeed.top, port: 1008, type: vless, tls: true, packet-encoding: xudp, uuid: 27511a97-b005-4b76-8fb6-84a6b66997b0, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17232] - Telegram : @configraygan", server: 159.65.119.20, port: 32152, type: vless, tls: true, packet-encoding: xudp, uuid: 299bab62-bba7-4f3c-aa30-b35c12da2b89, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 10, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 29f41479-bb72-4cd4-955f-89dc509a3408, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16980] - Telegram : @configraygan", server: 172.66.128.70, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 2a2a8023-3b4b-407d-a00a-7beb5a158148, network: ws, ws-opts: {path: "/?ed", headers: {Host: SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 11, server: Blue9.webjob7.eu, port: 48486, type: vless, tls: true, packet-encoding: xudp, uuid: 2cf00aaa-898f-4883-9eb7-ce5b56a1c1dd, servername: dash.cloudflare.com, host: dash.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: I2bozyAqYo5CxnJZ_WtX5uP_BcaujVBfXnYu85sU2FM, short-id: a629f128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/configraygan 🎖VIP, server: Tr1.Xn--fjQYeXxiDv2znoe9rK1n8aGb1E05q.XN--6qQ79v59WHUl.COM, port: 2344, type: vless, tls: true, packet-encoding: xudp, uuid: 2dafa16c-74da-4528-802f-342b216beb1c, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 12, server: 85.133.230.38, port: 201, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd7b94d-0f47-4cc2-9888-487316011439, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16958] - Telegram : @configraygan", server: fl.v2online3.site, port: 24025, type: vless, tls: true, packet-encoding: xudp, uuid: 2ec06433-4bde-4282-8199-bdd0327126fd, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17261] - Telegram : @configraygan", server: my.kiomars.shop, port: 6664, type: vless, tls: true, packet-encoding: xudp, uuid: 3432abbc-85da-42fe-8997-4d9041d4c923, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 4", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡ 3", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 1", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 2 2", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 3 2", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan - نت ملی ⚡", server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan - نت ملی ⚡, server: webb.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 3757a383-ca03-4d85-a4f0-5c9602a8949a, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡ 4", server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 3e4e8d50-bcc7-47d2-8047-321e0de9b633, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها, server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 3e4e8d50-bcc7-47d2-8047-321e0de9b633, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17016] - Telegram : @configraygan", server: 162.159.152.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3f9c8463-8610-3ed8-86c8-a26713067825, servername: dabaius2.sylu.net, network: ws, ws-opts: {path: /db10240eb751d6ab, headers: {Host: dabaius2.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 13, server: speed.iranspace.space, port: 56028, type: vless, tls: true, packet-encoding: xudp, uuid: 419890d4-bc77-4b33-8f9f-0d8b1b4abd41, host: speed.iranspace.space, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @configraygan", server: vpn.nnet.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 421a5536-c3c8-45ab-aa36-2ff032c6d44e, servername: vpn.nnet.online, network: ws, ws-opts: {path: /vless-tls, headers: {Host: vpn.nnet.online}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16977] - Telegram : @configraygan", server: 104.16.245.120, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16972] - Telegram : @configraygan", server: 104.17.114.70, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17189] - Telegram : @configraygan", server: 104.17.122.107, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16976] - Telegram : @configraygan", server: 104.17.122.200, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17230] - Telegram : @configraygan", server: 104.17.204.144, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17226] - Telegram : @configraygan", server: 104.18.230.82, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17018] - Telegram : @configraygan", server: 104.18.46.90, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16988] - Telegram : @configraygan", server: 104.18.92.157, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16973] - Telegram : @configraygan", server: 104.18.94.119, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17188] - Telegram : @configraygan", server: 198.41.212.228, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 435bda4c-fe5e-42c9-a3ad-15334943b38a, network: ws, ws-opts: {path: /, headers: {Host: us3.rtacg.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16968] - Telegram : @configraygan", server: luna2-backup.moftping.com, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 4483177b-737a-481a-b0ac-77cccadf65bd, network: ws, ws-opts: {path: /, headers: {Host: luna2-backup.moftping.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17214] - Telegram : @configraygan", server: 193.151.145.6, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 44e08e17-a223-43bd-a9d1-39413ff8b56e, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 5", server: ultra.jahanover.sbs, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 44ebb276-4c2a-4969-9a4f-ceebc050baf1, host: ultra.jahanover.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17229] - Telegram : @configraygan", server: 192.200.160.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 48198295-b7ba-4b5c-8d85-085d55a6c869, servername: xind.ylks.link, network: ws, ws-opts: {path: /blue, headers: {Host: xind.ylks.link}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17194] - Telegram : @configraygan", server: 94.184.24.235, port: 56001, type: vless, tls: true, packet-encoding: xudp, uuid: 48e3ec8d-44ce-4542-aa4d-a48573e0d423, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17195] - Telegram : @configraygan", server: 18.192.210.130, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17203] - Telegram : @configraygan", server: 3.72.1.0, port: 44708, type: vless, tls: true, packet-encoding: xudp, uuid: 4ba18e09-571e-4b81-a360-8d74bb3a903e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17002] - Telegram : @configraygan", server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 53cddd30-34a1-32dd-b598-c1c4c8a0f813, servername: dabaihk.webn.cc, network: ws, ws-opts: {path: /db1024a105975707, headers: {Host: dabaihk.webn.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17010] - Telegram : @configraygan", server: 104.21.3.219, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57ba2ab1-a283-42eb-82ee-dc3561a805b8, servername: ovhwuxian.pai50288.uk, network: ws, ws-opts: {path: /57ba2ab1, headers: {Host: ovhwuxian.pai50288.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16979] - Telegram : @configraygan", server: srv2-germany.hajimamadcloud.com.tr, port: 1992, type: vless, tls: true, packet-encoding: xudp, uuid: 5aba97c1-6f55-45b4-9539-86ab5ca0bc7a, host: skyroom.online%2C+%2Bigap.net%2C+%2Bgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17174] - Telegram : @configraygan", server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 5b002005-7fb1-413e-8cbd-08e50c87c2ea, network: ws, ws-opts: {path: /, headers: {Host: wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17184] - Telegram : @configraygan", server: 172.67.227.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5da27733-3527-479e-bb81-4c5a9c75d83f, servername: viphamester.wolfmoon.ir, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: okala.com}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 6", server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17182] - Telegram : @configraygan", server: 78.110.120.51, port: 22242, type: vless, tls: true, packet-encoding: xudp, uuid: 5e643328-05a4-4e79-a89c-d98e0929113b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16996] - Telegram : @configraygan", server: royalhost.zearocloud.com, port: 2810, type: vless, tls: true, packet-encoding: xudp, uuid: 5f492f37-b67d-4fe8-9ea7-6a3a328e09d9, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17017] - Telegram : @configraygan", server: 104.129.166.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17007] - Telegram : @configraygan", server: 104.254.140.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16998] - Telegram : @configraygan", server: 138.2.95.61, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳 @wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17012] - Telegram : @configraygan", server: 141.193.213.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17201] - Telegram : @configraygan", server: 162.159.153.231, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17170] - Telegram : @configraygan", server: 188.244.122.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17180] - Telegram : @configraygan", server: 188.42.88.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17005] - Telegram : @configraygan", server: 190.93.245.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17172] - Telegram : @configraygan", server: 198.62.62.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?Telegram🇨🇳+@WangCai2=", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16997] - Telegram : @configraygan", server: 213.202.218.198, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17003] - Telegram : @configraygan", server: 216.205.52.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16987] - Telegram : @configraygan", server: 43.156.181.203, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳 @wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17177] - Telegram : @configraygan", server: 45.38.170.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🎖@alixtso", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16983] - Telegram : @configraygan", server: 5.161.50.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17008] - Telegram : @configraygan", server: 57.129.137.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17204] - Telegram : @configraygan", server: 64.238.203.14, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17179] - Telegram : @configraygan", server: 8.223.63.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17004] - Telegram : @configraygan", server: 92.53.188.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17206] - Telegram : @configraygan", server: 85.133.195.204, port: 26480, type: vless, tls: true, packet-encoding: xudp, uuid: 6919e588-cff3-4c1b-b7a3-3ca0ada5fb69, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17202] - Telegram : @configraygan", server: data.cloudvibe.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ba7bd1b-46d0-4fa0-8771-9df6e7186a4d, servername: data-um110.netsnap.ir, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /R8I9Yqu0DxpQB2NKCxLA, headers: {Host: data-um110.netsnap.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17246] - Telegram : @configraygan", server: 57.129.133.88, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17009] - Telegram : @configraygan", server: 172.64.149.80, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 733a9a09-ba93-4e73-b1f3-ae0bcbd88310, servername: noisy-paper-6b70.grirbp.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: noisy-paper-6b70.grirbp.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17208] - Telegram : @configraygan", server: 3.121.110.238, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7396c077-f5cb-4808-84ca-92f268d79b3d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17207] - Telegram : @configraygan", server: p.purplemodule.com, port: 48144, type: vless, tls: true, packet-encoding: xudp, uuid: 791ceabb-4d99-f97e-d009-2de7f5c3e669, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17221] - Telegram : @configraygan", server: shop2.afraserver4.top, port: 7335, type: vless, tls: true, packet-encoding: xudp, uuid: 7bf5480b-a130-4e9d-a9d2-07f354653853, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan_07624598964, server: test.fotoniha.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7d066e5f-cc0e-4f96-ba21-ded8e27773a0, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16970] - Telegram : @configraygan", server: 162.159.134.233, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82fdc77c-5def-4930-89a6-afb5cc609d4b, network: ws, ws-opts: {path: /VPN_PROXY66.VPN_PROXY66, headers: {Host: github-_-_-_-_-_-vpn_proxy66_marg_bar_khamenei.proxy66.shop.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17213] - Telegram : @configraygan", server: www.speedtest.net, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8598c32f-13ba-4d7b-92fa-4c3f3bd90722, servername: Autumn-CREDIt-C78B.GiveL80562.WOrKERs.dev, alpn: [http/1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoic29QWllQdEpwUVFScXFkOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: Autumn-CREDIt-C78B.GiveL80562.WOrKERs.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 14, server: c5viip.forredeye.com, port: 4015, type: vless, tls: true, packet-encoding: xudp, uuid: 8b67a778-e406-44db-8f35-f6d236f45428, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17258] - Telegram : @configraygan", server: 85.133.204.179, port: 59036, type: vless, tls: true, packet-encoding: xudp, uuid: 8c26c19d-123d-454d-9529-ff737d0450f6, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 7", server: 185.143.232.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8db1cdac-dc81-46f5-82c8-27cba56a62b4, servername: 1.1.1.1.hitgram.ir, alpn: [http/1.1], network: ws, ws-opts: {path: /ed, headers: {Host: 1.1.1.1.hitgram.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan - ویژه, server: entekhabat.iran.asiatech.numthree.iranvatanam.com, port: 813, type: vless, tls: true, packet-encoding: xudp, uuid: 951feaf5-c793-47c7-86fc-db85501ff9c8, host: skyroom.online%2C+igap.net%2C+gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17250] - Telegram : @configraygan", server: 146.190.227.252, port: 42855, type: vless, tls: true, packet-encoding: xudp, uuid: 95a90af3-5729-4308-9465-8147cc97621f, alpn: ["h2,http/1.1"], path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17220] - Telegram : @configraygan", server: shop.onlineserver2.top, port: 7320, type: vless, tls: true, packet-encoding: xudp, uuid: 978608ba-cac7-461e-af6a-d99d2b53155e, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17243] - Telegram : @configraygan", server: 62.182.195.78, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17185] - Telegram : @configraygan", server: 162.251.82.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9bd4142c-7025-4405-9350-33851fdb4ecc, servername: de2pq.itsvpns.app, network: ws, ws-opts: {path: /ws, headers: {Host: de2pq.itsvpns.app}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17231] - Telegram : @configraygan", server: 206.238.237.203, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a13df940-020c-465f-bc89-ee5279b5cd6a, servername: kka.ylks.link, network: ws, ws-opts: {path: /blue, headers: {Host: kka.ylks.link}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17187] - Telegram : @configraygan", server: 185.146.173.58, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: a3c48196-a190-48d8-9af2-c59b2d4c3b71, network: ws, ws-opts: {path: /servernet, headers: {Host: dcc5.servernet.fun.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17205] - Telegram : @configraygan", server: n1761184273.mv7wh.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, servername: n1761184273.mv7wh.tech, network: ws, ws-opts: {path: /a4c6bbd7-6ea5-44b2-9829-08f5ae615d49, headers: {Host: n1761184273.mv7wh.tech}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17212] - Telegram : @configraygan", server: 104.21.48.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: aaaaaabb-4ddd-4eee-9fff-ffffffffffff, network: ws, ws-opts: {path: /64.181.218.67=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 15, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: ab47daec-b355-4c06-ae7c-834d194d571d, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16967] - Telegram : @configraygan", server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17014] - Telegram : @configraygan", server: v2tr.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ada6ebdd-bdfa-44fb-989c-672051790aeb, host: v2tr.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16986] - Telegram : @configraygan", server: 85.133.228.75, port: 8881, type: vless, tls: true, packet-encoding: xudp, uuid: b079ca85-f436-4e6f-8444-45ebc42526df, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: porttt4.webchipro2.ir:3040, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: b9653688-1470-f844-f106-a12f10fb3517, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 8", server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: b9653688-1470-f844-f106-a12f10fb3517, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan چنل تلگرام🛡", server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: b9653688-1470-f844-f106-a12f10fb3517, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17015] - Telegram : @configraygan", server: 162.159.194.86, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ba099f67-fc1f-4339-b36e-bcbbcc38fe8f, servername: amorix.abresani.com, network: ws, ws-opts: {path: /, headers: {Host: amorix.abresani.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16956] - Telegram : @configraygan", server: 81.12.91.189, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: baac1234-ad18-49db-8c5a-7c57aa0e981f, servername: www.git-scm.com, host: www.git-scm.com, path: /, reality-opts: {public-key: U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM, short-id: e081d94bd1f9bd56}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17216] - Telegram : @configraygan", server: 94.183.150.123, port: 7731, type: vless, tls: true, packet-encoding: xudp, uuid: bbf63379-c8aa-41a3-b0e2-bc4474bf81fc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17186] - Telegram : @configraygan", server: 23.227.39.222, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: c4000cda-6237-4702-ac6a-024444978b8e, servername: BPB-JUly.PaGeS.dEv, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: "/y0xrkaaBOQCyQR8T?ed=2560", headers: {Host: BPB-JUly.PaGeS.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17251] - Telegram : @configraygan", server: c8f7b1ab85189cf5.first.sapienza-mahan.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c4baefee-fc4c-42ed-b19c-5d5f7dad36ba, servername: harro-likeh1.sdcards1.ir, network: ws, ws-opts: {path: /, headers: {Host: harro-likeh1.sdcards1.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 9", server: srv-germany.hajimamadcloud.com.tr, port: 1991, type: vless, tls: true, packet-encoding: xudp, uuid: c922f5cd-134e-4ce6-be9e-da246ef93216, host: skyroom.online%2C+igap.net%2C+gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17256] - Telegram : @configraygan", server: parsaprivae.isgood.host, port: 22750, type: vless, tls: true, packet-encoding: xudp, uuid: cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 16, server: parsaprivae.isgood.host, port: 22750, type: vless, tls: true, packet-encoding: xudp, uuid: cc1d0ad9-d4ac-4b7e-a9ba-048fa96a9e1e, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17238] - Telegram : @configraygan", server: sec.nuumbshoop.xyz, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cc70e6e0-ab83-4e10-e685-116e9930b90d, servername: sec.nuumbshoop.xyz, host: sec.nuumbshoop.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17171] - Telegram : @configraygan", server: 5.254.85.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ccedb1b1-35f3-46d1-a85a-c699eef5f3e1, servername: germany.scroogethebest.com, host: germany.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17165] - Telegram : @configraygan", server: ir.api.clothesshopping.ir, port: 19163, type: vless, tls: true, packet-encoding: xudp, uuid: ce7331c5-a28c-4478-ae06-2a2c5b5416fe, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan, server: ir.api.clothesshopping.ir, port: 19163, type: vless, tls: true, packet-encoding: xudp, uuid: ce7331c5-a28c-4478-ae06-2a2c5b5416fe, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17183] - Telegram : @configraygan", server: 104.17.147.22, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: cfb6d9ad-7a14-4061-b159-8902fd73bb58, network: ws, ws-opts: {path: "/DIGIV2RAY--DigiV2ray--digiv2ray--DIGIV2RAY--DigiV2ray--digiv2ray--DigiV2ray--DigiV2ray?ed=1024", headers: {Host: www.speedtest.net.ftp.debian.org.xn--ihqvla424c49bba047b50okggl0rcfo5o3aus3a.website.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16994] - Telegram : @configraygan", server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17011] - Telegram : @configraygan", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16995] - Telegram : @configraygan", server: 158.178.234.153, port: 18757, type: vless, tls: true, packet-encoding: xudp, uuid: d10b0612-2b05-47c2-99c1-53f0b109d07d, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17235] - Telegram : @configraygan", server: 3.67.95.76, port: 17506, type: vless, tls: true, packet-encoding: xudp, uuid: d16bab5b-a68d-4280-c340-d3e865f2a858, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 17, server: 3.67.95.76, port: 17506, type: vless, tls: true, packet-encoding: xudp, uuid: d16bab5b-a68d-4280-c340-d3e865f2a858, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16975] - Telegram : @configraygan", server: 104.18.27.94, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: aryoovpn.commen-esoteric-0q.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 10", server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: d4d6d359-939e-4e26-b74b-d5bfcfccca0e, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 18, server: 188.244.122.136, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d5657005-94be-4198-80cf-f9a814bad404, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16989] - Telegram : @configraygan", server: 172.67.98.212, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dac5b2de-7df9-4d38-ba41-f98ceb19bd75, servername: sandWorm.PaGES.DEv, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /07n1q4ys4Pwba7qM, headers: {Host: sandWorm.PaGES.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 19, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: e30898f5-a810-4dbb-9cdb-dec742414e03, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 20, server: 82.22.40.109, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17175] - Telegram : @configraygan", server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17237] - Telegram : @configraygan", server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 21, server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17245] - Telegram : @configraygan", server: v2.dabache.top, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 22, server: v2.dabache.top, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡ 5", server: tak9.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: e8211fe8-059b-46e7-8f52-e5c61da5fee2, host: www.speedtest.net%2F%3FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17252] - Telegram : @configraygan", server: hd.pelatiposi.info, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, servername: splash.VaRtAlReX.iNfO, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan F1", server: ir3.yooznet.top, port: 9001, type: vless, tls: true, packet-encoding: xudp, uuid: ebb0c7d6-0983-41c6-95c8-fd6351dd254c, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 23, server: ir3.yooznet.top, port: 9001, type: vless, tls: true, packet-encoding: xudp, uuid: ebb0c7d6-0983-41c6-95c8-fd6351dd254c, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17264] - Telegram : @configraygan", server: 3.70.204.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec7414ac-4550-414d-afed-5f7ec74ddc32, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 24, server: 3.70.204.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec7414ac-4550-414d-afed-5f7ec74ddc32, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17227] - Telegram : @configraygan", server: 172.104.175.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ecb90d6e-1bbf-42ec-a742-822fad6936da, servername: sg-full.privateip.net, host: sg-full.privateip.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 25, server: 172.104.175.11, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ecb90d6e-1bbf-42ec-a742-822fad6936da, servername: sg-full.privateip.net, host: sg-full.privateip.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17257] - Telegram : @configraygan", server: 94.156.237.204, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: edc05328-3e8b-4268-ac76-0af4e53fdf81, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM, short-id: 305be87f337d1db7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 26, server: 94.156.237.204, port: 2051, type: vless, tls: true, packet-encoding: xudp, uuid: edc05328-3e8b-4268-ac76-0af4e53fdf81, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: W4RbkpY1YsjA499rCDIGkJtBG6yhhCrpPVN7i53i0HM, short-id: 305be87f337d1db7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16959] - Telegram : @configraygan", server: nekopingbot.thisiswe.uno, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ee9b0614-50ec-41b6-951b-e1d5d755fa4b, servername: cd11.thisiswe.uno, network: ws, ws-opts: {path: "/?Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY-Telegram-ICV2RAY?ed=512", headers: {Host: cd11.thisiswe.uno}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 27, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f5ecae54-e502-4504-a5f6-018002dad489, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17263] - Telegram : @configraygan", server: 18.156.128.77, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 28, server: 18.156.128.77, port: 15948, type: vless, tls: true, packet-encoding: xudp, uuid: f9f8289a-ce61-45d4-e7a3-5b1c6b9c126d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17253] - Telegram : @configraygan", server: 170.64.238.91, port: 39218, type: vless, tls: true, packet-encoding: xudp, uuid: fcbead98-fef8-4707-bd4f-1278935c9a44, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 29, server: 170.64.238.91, port: 39218, type: vless, tls: true, packet-encoding: xudp, uuid: fcbead98-fef8-4707-bd4f-1278935c9a44, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17225] - Telegram : @configraygan", server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @configraygan 30, server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fd325093-cdb5-4a73-980e-af2ec0444310, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16974] - Telegram : @configraygan", server: 104.21.25.31, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fd3f257e-60c1-4093-bb3b-7e71f8007c4f, network: ws, ws-opts: {path: /vless, headers: {Host: No1.vless.site.}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16993] - Telegram : @configraygan", server: 4.185.113.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: jina, servername: jina-418511310-direct.yektanet.co, alpn: ["h2,http/1.1"], host: jina-418511310-direct.yektanet.co, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16981] - Telegram : @configraygan", server: 47.243.205.58, port: 443, type: vmess, uuid: 4f86a909-836d-4643-b650-d812144a1fa9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214912.wpg27.xyz, network: ws, ws-opts: {path: /, headers: {Host: n1761214912.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: ⚡️Telegram - @configraygan, server: 81.12.83.250, port: 51, type: vmess, uuid: 81ffe8f0-cf9d-5a94-95cd-f27d9b5f8f21, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️Telegram - @configraygan 2, server: 81.12.33.166, port: 1006, type: vmess, uuid: 06c1c105-8c61-4f3f-b9e8-45613fe2c477, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17001] - Telegram : @configraygan", server: 82.152.98.198, port: 2086, type: vmess, uuid: 5da10a90-dd83-4300-bb9c-ad50765fa8e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17000] - Telegram : @configraygan", server: 82.152.98.88, port: 2086, type: vmess, uuid: 8aa8d990-dea8-431f-b62d-cc70f3ba4de8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16999] - Telegram : @configraygan", server: 87.120.219.124, port: 2086, type: vmess, uuid: e6a866ca-1756-44ed-9866-a9949f2bad38, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️Telegram - @configraygan 3, server: 94.232.247.164, port: 44030, type: vmess, uuid: 22c396a3-95da-4be8-beef-834d17d75784, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16957] - Telegram : @configraygan", server: 104.21.69.44, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
+  - {name: "[16969] - Telegram : @configraygan", server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
+  - {name: "@configraygan 11", server: turk1.net.net, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560", headers: {Host: tr1-smart.adelping.com.}}, udp: true, tfo: false}
+  - {name: configraygan 1, server: x1.mehradservice.com, port: 4451, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/configraygan, server: x1.mehradservice.com, port: 4451, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan 2, server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan 3, server: x3.mehradservice.com, port: 4452, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2  configraygan 4, server: x4.mehradservice.com, port: 4452, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: configraygan 5, server: x5.mehradservice.com, port: 4452, type: vmess, uuid: 6a656fdc-7c3d-4dc3-a90a-0779315f936c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🚀| با ما متصل بمون⚡ 6", server: blog.topspeedarash.com, port: 4351, type: vmess, uuid: c9688320-4732-4091-b21f-6b6113099fee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[17198] - Telegram : @V2All", server: cf.090227.xyz, port: 443, type: vmess, uuid: 290cc691-3ac6-4387-98a1-25c8eb8ca2ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sgal.dagrate.eu.org, network: ws, ws-opts: {path: /, headers: {Host: sgal.dagrate.eu.org}}, udp: true, tfo: false}
+  - {name: "[16985] - Telegram : @configraygan", server: cpannel.iranucshop.ir, port: 2085, type: vmess, uuid: 2c72c667-093c-47a5-a108-493c93282b57, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16963] - Telegram : @configraygan", server: dll.avaaaal.ir, port: 8443, type: vmess, uuid: 725f5fcd-721d-40a0-ba6b-3c7477633110, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: cdge.avaaal.ir, network: ws, ws-opts: {path: /, headers: {Host: cdge.avaaaal.ir}}, udp: true, tfo: false}
+  - {name: "@configraygan چنل تلگرام🛡 2", server: gallery.freeworlld-ir.net, port: 42078, type: vmess, uuid: 6e4b8698-152b-44ef-a100-7aa4f93482da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 12", server: ger.server-vip.com, port: 7081, type: vmess, uuid: c22efb9f-3d63-47fd-99b7-a4ab871942cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[16982] - Telegram : @configraygan", server: n1747624280.lie5d.cyou, port: 443, type: vmess, uuid: 49dcf4b4-81eb-4fe2-91d3-86dc2e27ced5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1747624280.lie5d.cyou, network: ws, ws-opts: {path: /, headers: {Host: n1747624280.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: https://t.me/configraygan 2, server: s1.hamishe.cloud, port: 110, type: vmess, uuid: 27bad9b8-3beb-4dbd-ab3a-af383dd01094, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡️Telegram - @configraygan 4, server: sv4.warzone1.in, port: 25489, type: vmess, uuid: 8d652a31-ca61-aa32-7294-9af15c65608e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -516,7 +713,63 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -525,39 +778,236 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -566,39 +1016,236 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -607,32 +1254,173 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -648,7 +1436,63 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -657,39 +1501,236 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -698,39 +1739,236 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[17260] - Telegram : @configraygan"
+      - "[17209] - Telegram : @configraygan"
+      - "[16961] - Telegram : @configraygan"
+      - "[16978] - Telegram : @configraygan"
+      - "[16960] - Telegram : @configraygan"
+      - "@configraygan"
+      - "@configraygan 2"
+      - "[16964] - Telegram : @configraygan"
+      - "@configraygan 3"
+      - "[17181] - Telegram : @configraygan"
+      - "[16962] - Telegram : @configraygan"
+      - "[17166] - Telegram : @configraygan"
+      - "[17254] - Telegram : @configraygan"
+      - "[17262] - Telegram : @configraygan"
+      - "[17259] - Telegram : @configraygan"
+      - "[17199] - Telegram : @configraygan"
+      - "[17191] - Telegram : @configraygan"
+      - "[17211] - Telegram : @configraygan"
+      - "[17196] - Telegram : @configraygan"
+      - "[17210] - Telegram : @configraygan"
+      - "[16984] - Telegram : @configraygan"
+      - "[16990] - Telegram : @configraygan"
+      - "[16991] - Telegram : @configraygan"
+      - "[17219] - Telegram : @configraygan"
+      - "[17178] - Telegram : @configraygan"
+      - "[17193] - Telegram : @configraygan"
+      - "[17190] - Telegram : @configraygan"
+      - "[17217] - Telegram : @configraygan"
+      - "[17233] - Telegram : @configraygan"
+      - "[17236] - Telegram : @configraygan"
+      - "[17242] - Telegram : @configraygan"
+      - "[17240] - Telegram : @configraygan"
+      - "[17228] - Telegram : @configraygan"
+      - "[17222] - Telegram : @configraygan"
+      - "[17239] - Telegram : @configraygan"
+      - "[17168] - Telegram : @configraygan"
+      - "[17176] - Telegram : @configraygan"
+      - "[17192] - Telegram : @configraygan"
+      - "[17006] - Telegram : @configraygan"
+      - "@configraygan 🚀| با ما متصل بمون⚡"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 2"
+      - "[17241] - Telegram : @configraygan"
+      - "[17224] - Telegram : @configraygan"
+      - "[17234] - Telegram : @configraygan"
+      - "[17247] - Telegram : @configraygan"
+      - "[17013] - Telegram : @configraygan"
+      - "[17169] - Telegram : @configraygan"
+      - "[16992] - Telegram : @configraygan"
+      - "[17249] - Telegram : @configraygan"
+      - "[17244] - Telegram : @configraygan"
+      - "[17167] - Telegram : @configraygan"
+      - "[17173] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan
+      - "[17248] - Telegram : @configraygan"
+      - "[17223] - Telegram : @configraygan"
+      - "[17255] - Telegram : @configraygan"
+      - "[16971] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 2
       - ⚡Telegram - @configraygan 3
       - ⚡Telegram - @configraygan 4
@@ -739,32 +1977,173 @@ proxy-groups:
       - ⚡Telegram - @configraygan 7
       - ⚡Telegram - @configraygan 8
       - ⚡Telegram - @configraygan 9
+      - limited @configraygan
+      - "[17232] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 10
-      - "@configraygan چنل تلگرام🛡"
-      - "Telegram: @configraygan"
-      - "Telegram: @configraygan 2"
+      - "[16980] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 11
-      - "@configraygan چنل تلگرام🛡 2"
-      - "Telegram:  @@configraygan V1"
-      - "@configraygan"
+      - https://t.me/configraygan 🎖VIP
       - ⚡Telegram - @configraygan 12
-      - "@@configraygan V1 🍁"
-      - "Telegram: @configraygan 3"
-      - "@configraygan V2"
+      - "[16958] - Telegram : @configraygan"
+      - "[17261] - Telegram : @configraygan"
+      - "@configraygan 4"
+      - "@configraygan 🚀| با ما متصل بمون⚡ 3"
+      - "@configraygan 1"
+      - "@configraygan 2 2"
+      - "@configraygan 3 2"
+      - "@configraygan - نت ملی ⚡"
+      - configraygan - نت ملی ⚡
+      - "@configraygan 🚀| با ما متصل بمون⚡ 4"
+      - →🇫🇮 ᴛᴜɴ₁ ×𝟭.𝟱 نیم‌بها
+      - "[17016] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 13
-      - "Telegram:  @@configraygan V18"
+      - "اگه میخوای قطع نشی جوین شو : @configraygan"
+      - "[16977] - Telegram : @configraygan"
+      - "[16972] - Telegram : @configraygan"
+      - "[17189] - Telegram : @configraygan"
+      - "[16976] - Telegram : @configraygan"
+      - "[17230] - Telegram : @configraygan"
+      - "[17226] - Telegram : @configraygan"
+      - "[17018] - Telegram : @configraygan"
+      - "[16988] - Telegram : @configraygan"
+      - "[16973] - Telegram : @configraygan"
+      - "[17188] - Telegram : @configraygan"
+      - "[16968] - Telegram : @configraygan"
+      - "[17214] - Telegram : @configraygan"
+      - "@configraygan 5"
+      - "[17229] - Telegram : @configraygan"
+      - "[17194] - Telegram : @configraygan"
+      - "[17195] - Telegram : @configraygan"
+      - "[17203] - Telegram : @configraygan"
+      - "[17002] - Telegram : @configraygan"
+      - "[17010] - Telegram : @configraygan"
+      - "[16979] - Telegram : @configraygan"
+      - "[17174] - Telegram : @configraygan"
+      - "[17184] - Telegram : @configraygan"
+      - "@configraygan 6"
+      - "[17182] - Telegram : @configraygan"
+      - "[16996] - Telegram : @configraygan"
+      - "[17017] - Telegram : @configraygan"
+      - "[17007] - Telegram : @configraygan"
+      - "[16998] - Telegram : @configraygan"
+      - "[17012] - Telegram : @configraygan"
+      - "[17201] - Telegram : @configraygan"
+      - "[17170] - Telegram : @configraygan"
+      - "[17180] - Telegram : @configraygan"
+      - "[17005] - Telegram : @configraygan"
+      - "[17172] - Telegram : @configraygan"
+      - "[16997] - Telegram : @configraygan"
+      - "[17003] - Telegram : @configraygan"
+      - "[16987] - Telegram : @configraygan"
+      - "[17177] - Telegram : @configraygan"
+      - "[16983] - Telegram : @configraygan"
+      - "[17008] - Telegram : @configraygan"
+      - "[17204] - Telegram : @configraygan"
+      - "[17179] - Telegram : @configraygan"
+      - "[17004] - Telegram : @configraygan"
+      - "[17206] - Telegram : @configraygan"
+      - "[17202] - Telegram : @configraygan"
+      - "[17246] - Telegram : @configraygan"
+      - "[17009] - Telegram : @configraygan"
+      - "[17208] - Telegram : @configraygan"
+      - "[17207] - Telegram : @configraygan"
+      - "[17221] - Telegram : @configraygan"
+      - configraygan_07624598964
+      - "[16970] - Telegram : @configraygan"
+      - "[17213] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 14
+      - "[17258] - Telegram : @configraygan"
+      - "@configraygan 7"
+      - configraygan - ویژه
+      - "[17250] - Telegram : @configraygan"
+      - "[17220] - Telegram : @configraygan"
+      - "[17243] - Telegram : @configraygan"
+      - "[17185] - Telegram : @configraygan"
+      - "[17231] - Telegram : @configraygan"
+      - "[17187] - Telegram : @configraygan"
+      - "[17205] - Telegram : @configraygan"
+      - "[17212] - Telegram : @configraygan"
       - ⚡Telegram - @configraygan 15
-      - "@configraygan چنل تلگرام🛡 3"
-      - "Telegram: @configraygan 4"
+      - "[16967] - Telegram : @configraygan"
+      - "[17014] - Telegram : @configraygan"
+      - "[16986] - Telegram : @configraygan"
+      - porttt4.webchipro2.ir:3040
+      - "@configraygan 8"
+      - "@configraygan چنل تلگرام🛡"
+      - "[17015] - Telegram : @configraygan"
+      - "[16956] - Telegram : @configraygan"
+      - "[17216] - Telegram : @configraygan"
+      - "[17186] - Telegram : @configraygan"
+      - "[17251] - Telegram : @configraygan"
+      - "@configraygan 9"
+      - "[17256] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 16
+      - "[17238] - Telegram : @configraygan"
+      - "[17171] - Telegram : @configraygan"
+      - "[17165] - Telegram : @configraygan"
+      - configraygan
+      - "[17183] - Telegram : @configraygan"
+      - "[16994] - Telegram : @configraygan"
+      - "[17011] - Telegram : @configraygan"
+      - "[16995] - Telegram : @configraygan"
+      - "[17235] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 17
+      - "[16975] - Telegram : @configraygan"
+      - "@configraygan 10"
+      - ⚡Telegram - @configraygan 18
+      - "[16989] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 19
+      - ⚡Telegram - @configraygan 20
+      - "[17175] - Telegram : @configraygan"
+      - "[17237] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 21
+      - "[17245] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 22
+      - "@configraygan 🚀| با ما متصل بمون⚡ 5"
+      - "[17252] - Telegram : @configraygan"
+      - "@configraygan F1"
+      - ⚡Telegram - @configraygan 23
+      - "[17264] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 24
+      - "[17227] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 25
+      - "[17257] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 26
+      - "[16959] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 27
+      - "[17263] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 28
+      - "[17253] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 29
+      - "[17225] - Telegram : @configraygan"
+      - ⚡Telegram - @configraygan 30
+      - "[16974] - Telegram : @configraygan"
+      - "[16993] - Telegram : @configraygan"
+      - "[16981] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan
-      - "Telegram: @configraygan 5"
-      - "@configraygan V1"
       - ⚡️Telegram - @configraygan 2
-      - "Telegram:  @@configraygan V13"
-      - "@configraygan چنل تلگرام🛡 4"
+      - "[17001] - Telegram : @configraygan"
+      - "[17000] - Telegram : @configraygan"
+      - "[16999] - Telegram : @configraygan"
       - ⚡️Telegram - @configraygan 3
-      - "Telegram: @configraygan 6"
+      - "[16957] - Telegram : @configraygan"
+      - "[16969] - Telegram : @configraygan"
+      - "@configraygan 11"
+      - configraygan 1
+      - https://t.me/configraygan
+      - configraygan 2
+      - configraygan 3
+      - 2  configraygan 4
+      - configraygan 5
+      - "@configraygan 🚀| با ما متصل بمون⚡ 6"
+      - "[17198] - Telegram : @V2All"
+      - "[16985] - Telegram : @configraygan"
+      - "[16963] - Telegram : @configraygan"
+      - "@configraygan چنل تلگرام🛡 2"
+      - "@configraygan 12"
+      - "[16982] - Telegram : @configraygan"
+      - https://t.me/configraygan 2
+      - ⚡️Telegram - @configraygan 4
   - name: دانلود منیجر 📥
     type: select
     proxies:

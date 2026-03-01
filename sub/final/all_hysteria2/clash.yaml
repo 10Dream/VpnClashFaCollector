@@ -465,16 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 128-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35000, type: hysteria2, ports: 35000, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 089-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 35200, type: hysteria2, ports: 35200, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 035-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36300, type: hysteria2, ports: 36300, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 046-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 016-🐭@GheychiAmoozesh, server: 206.71.158.37, port: 36600, type: hysteria2, ports: 36600, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94@oneclickvpnkeys, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt`, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6@oneclickvpnkeys, server: api.kermanshahi.org, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -492,16 +486,10 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -509,16 +497,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -526,16 +508,10 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
@@ -552,16 +528,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -569,16 +539,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -586,16 +550,10 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 128-🐭@GheychiAmoozesh
-      - 089-🐭@GheychiAmoozesh
-      - 035-🐭@GheychiAmoozesh
-      - 046-🐭@GheychiAmoozesh
-      - 016-🐭@GheychiAmoozesh
       - 13@oneclickvpnkeys
-      - "@meliproxyy"
+      - 94@oneclickvpnkeys
       - 5.175.249.174:35000
-      - "@meliproxyy 2"
-      - freenet_vt`
+      - "@meliproxyy"
       - 6@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select
