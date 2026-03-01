@@ -466,36 +466,42 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: NetAccount`, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: dns25.golden-ping.ir, port: 41136, type: vless, tls: true, packet-encoding: xudp, uuid: 062473c3-a5a4-5f10-c192-92ebdf83f59e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: gr1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 31bdae38-ab95-499a-8105-2fe7c45a8240, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: hub1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 31bdae38-ab95-499a-8105-2fe7c45a8240, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: testdaily.snapmax.shop, port: 3535, type: vless, tls: true, packet-encoding: xudp, uuid: 4163012c-43a8-40d5-f445-696945f79a0c, host: testdaily.snapmax.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: in.ketabdaan.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4d2c76f5-3eff-41bc-a265-cfef996cd2fb, alpn: [h3%2Ch2%2Chttp%2F1.1], host: in.ketabdaan.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: 91.231.144.169, port: 6556, type: vless, tls: true, packet-encoding: xudp, uuid: 4f21615d-d8c1-466a-88b0-4a86ac3907cf, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: 46.38.138.28, port: 28131, type: vless, tls: true, packet-encoding: xudp, uuid: 5a3691c4-01e8-4bf1-a88e-faf876138660, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 13, server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 14, server: cdnnim234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 6506726b-548f-4c23-b183-de4e33253602, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 15, server: 157.119.188.249, port: 6610, type: vless, tls: true, packet-encoding: xudp, uuid: 80816cd5-dcd1-4a7b-b12d-1b8561a5f097, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 16, server: my.kiomars.shop, port: 6664, type: vless, tls: true, packet-encoding: xudp, uuid: 80816cd5-dcd1-4a7b-b12d-1b8561a5f097, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 17, server: dns5.golden-ping.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 83e2dd06-7cbf-40d2-8eac-302030552943, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 18, server: h36.tiptop-1.top, port: 33779, type: vless, tls: true, packet-encoding: xudp, uuid: a5de6d2b-6c79-46d1-b0c5-34ab23796111, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: cdntr222.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: v2arm.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 1445513e-3933-475a-a917-85406cab3ccf, host: v2arm.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: sr4.laptopstock7.com, port: 3030, type: vless, tls: true, packet-encoding: xudp, uuid: 17b16eb9-c1d0-4c12-8520-0b400567d8e4, servername: tgju.org, host: tgju.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wVG0SzD_MnGA_q_DtgzirtOY8bGIeZwxrHd7aoK8Uwk, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 13, server: g2-de2-hz.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 2471c5fc-8a93-434b-8caf-177ff8849936, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 14, server: denl1314.atlasg.ir, port: 1314, type: vless, tls: true, packet-encoding: xudp, uuid: 2d47e6df-962d-4527-b089-30e4ff82e3d7, host: denl1314.atlasg.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 15, server: denl1314.atlasg.ir, port: 1314, type: vless, tls: true, packet-encoding: xudp, uuid: 2d47e6df-962d-4527-b089-30e4ff82e3d7, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 16, server: gr1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 31bdae38-ab95-499a-8105-2fe7c45a8240, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 17, server: hub1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 31bdae38-ab95-499a-8105-2fe7c45a8240, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 18, server: 178.154.224.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 19, server: 216.57.104.101, port: 57657, type: vless, tls: true, packet-encoding: xudp, uuid: 4e16911e-97f3-4d17-93a1-1817cb4bf3f7, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bsKjZwDZI_Skf6iYeDGy_-z8ZSFtAsqA1gSgseBH-DM, short-id: ac06167a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 20, server: cdnnim234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 6506726b-548f-4c23-b183-de4e33253602, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 21, server: 217.13.104.121, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 6bc98441-e1e0-4304-8174-a41a91e0cc11, servername: alfabank.ru, host: alfabank.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: cDLK-I36SU8b7H7u-ZFyoMTjVKnbfQfKjhQvzTf13Dw, short-id: f6f561090bdf7bf4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 22, server: 217.13.104.121, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6bc98441-e1e0-4304-8174-a41a91e0cc11, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ, short-id: 0669a3e6b300d069}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 23, server: 217.13.104.121, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 6bc98441-e1e0-4304-8174-a41a91e0cc11, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM, short-id: 5cae63084b3281f3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 24, server: 157.119.188.249, port: 6610, type: vless, tls: true, packet-encoding: xudp, uuid: 80816cd5-dcd1-4a7b-b12d-1b8561a5f097, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 25, server: my.kiomars.shop, port: 6664, type: vless, tls: true, packet-encoding: xudp, uuid: 80816cd5-dcd1-4a7b-b12d-1b8561a5f097, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: RSnbrHpLJYL8AtxWie8gbcnfs68h9rHAZX-gS3EQtSM, short-id: c3b6ed4da7a983c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 26, server: uu.salar0938.in, port: 22193, type: vless, tls: true, packet-encoding: xudp, uuid: 88ce4824-e88e-40a6-a461-2edfbcbccda2, host: parsabr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NeteAccount`, server: dl.salarcloud.ir, port: 22548, type: vless, tls: true, packet-encoding: xudp, uuid: a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b, host: dl.salarcloud.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 19, server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 20, server: irm2.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: irm2.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 21, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 22, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 23, server: h35.tiptop-1.top, port: 42082, type: vless, tls: true, packet-encoding: xudp, uuid: c554b6bc-fb9d-4f2d-902b-b3809759a4df, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 24, server: netherland.mytopmedia.pro, port: 28961, type: vless, tls: true, packet-encoding: xudp, uuid: d3b81f05-3ebe-2a25-f487-f9c6f89b7195, servername: netherland.mytopmedia.sbs, host: netherland.mytopmedia.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 25, server: 45.139.11.195, port: 23758, type: vless, tls: true, packet-encoding: xudp, uuid: d83068c1-3176-4f54-8552-15417cb01dea, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 26, server: 94.101.191.11, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d9e40483-30ae-4076-8c8d-8d380f46ea33, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 27, server: 185.147.26.26, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 28, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 29, server: fan.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb343efc-e80b-4112-9f80-3c35904bba9b, servername: fan.x2net.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: fan.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount, server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 48061616-3880-448e-81e1-347e84440b81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 27, server: ge.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ac1f64ca-3d3d-4c98-abef-883155e94f26, servername: ge.x2net.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ge.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 28, server: 212.193.26.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf77f272-4220-4655-ab76-5ccdf0d2a60f, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY, short-id: 6c6082a2223c1d03}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 29, server: 212.193.26.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf77f272-4220-4655-ab76-5ccdf0d2a60f, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY, short-id: 6c6082a2223c1d03}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 30, server: netherland.mytopmedia.pro, port: 28961, type: vless, tls: true, packet-encoding: xudp, uuid: d3b81f05-3ebe-2a25-f487-f9c6f89b7195, servername: netherland.mytopmedia.sbs, host: netherland.mytopmedia.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 31, server: 143.20.236.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 32, server: 94.101.191.11, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d9e40483-30ae-4076-8c8d-8d380f46ea33, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 33, server: 94.101.191.11, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d9e40483-30ae-4076-8c8d-8d380f46ea33, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 34, server: fan.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb343efc-e80b-4112-9f80-3c35904bba9b, servername: fan.x2net.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: fan.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇹🇷 Turkey 1 | ⅓, server: tr1.iranishops.com, port: 443, type: vmess, uuid: ccd4fb25-87d3-5f0a-3bbe-d1067f2c8c9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Netherland 1 | ⅓, server: nl1.iranishops.com, port: 443, type: vmess, uuid: ccd4fb25-87d3-5f0a-3bbe-d1067f2c8c9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -530,7 +536,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -539,10 +544,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -567,7 +579,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -576,10 +587,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -604,7 +622,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -613,10 +630,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -650,7 +674,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -659,10 +682,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -687,7 +717,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -696,10 +725,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -724,7 +760,6 @@ proxy-groups:
       - NetAccount` 16
       - NetAccount` 17
       - NetAccount` 18
-      - NeteAccount`
       - NetAccount` 19
       - NetAccount` 20
       - NetAccount` 21
@@ -733,10 +768,17 @@ proxy-groups:
       - NetAccount` 24
       - NetAccount` 25
       - NetAccount` 26
+      - NeteAccount`
       - NetAccount` 27
       - NetAccount` 28
       - NetAccount` 29
-      - NetAccount
+      - NetAccount` 30
+      - NetAccount` 31
+      - NetAccount` 32
+      - NetAccount` 33
+      - NetAccount` 34
+      - 🇹🇷 Turkey 1 | ⅓
+      - Netherland 1 | ⅓
   - name: دانلود منیجر 📥
     type: select
     proxies:

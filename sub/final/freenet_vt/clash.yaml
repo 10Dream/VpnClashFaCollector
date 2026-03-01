@@ -466,16 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: freenet_vt`, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: freenet_vt 2, server: 181.215.18.92, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3e9176f8-2d79-4259-b66e-48c7d23398dc, servername: google.com, alpn: [h2%2Chttp%2F1.1], host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: KWSjlwoF8TwmwGbOItbe89ZWkjw0m1vUNpSDf55nZwI, short-id: d9c2d8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt` 2, server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 3, server: 95.163.211.13, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72adc5b8-146a-4bfe-921b-5c9e1df016e0, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 33554379411b3219}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 4, server: 104.16.139.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98aec3c3-d957-4363-9933-018e533c7c06, servername: uk.dlaparat.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: uk.dlaparat.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt` 3, server: 31.185.108.8, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram%253A%2540Free_VPN_CH, servername: tn1rr.qzz.io, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 5, server: 193.58.119.134, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c5da451e-4597-4abf-c102-d573d78d2bb2, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 6, server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 7, server: 193.151.158.133, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: fe08cb95-a7bd-48d3-b3e8-e083ab8cd9bc, host: "%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 8, server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,16 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -510,16 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -527,16 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -553,16 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -570,16 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -587,16 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - freenet_vt`
-      - freenet_vt
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
-      - freenet_vt 4
-      - freenet_vt` 3
-      - freenet_vt 5
-      - freenet_vt 6
-      - freenet_vt 7
-      - freenet_vt 8
   - name: دانلود منیجر 📥
     type: select
     proxies:

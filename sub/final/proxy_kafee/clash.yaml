@@ -465,36 +465,23 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@proxy_kafee", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 2", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxy_kafee, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: "@proxy_kafee 3", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "@proxy_kafee 4", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: proxy_kafee`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "@proxy_kafee 5", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee 6", server: bld.justmanagexd.ir, port: 3424, type: vless, tls: true, packet-encoding: xudp, uuid: 0e32384e-aba6-4c1e-83bb-e443ff167586, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 7", server: clx.justmanagexd.ir, port: 50905, type: vless, tls: true, packet-encoding: xudp, uuid: 0e32384e-aba6-4c1e-83bb-e443ff167586, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 8", server: load.justmanagexd.ir, port: 50908, type: vless, tls: true, packet-encoding: xudp, uuid: 0e32384e-aba6-4c1e-83bb-e443ff167586, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 9", server: riri.justmanagexd.ir, port: 50907, type: vless, tls: true, packet-encoding: xudp, uuid: 0e32384e-aba6-4c1e-83bb-e443ff167586, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 10", server: 45.136.126.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 203b0744-f943-4bba-a8d2-cab635467c46, servername: google.com, host: google.com, path: /, reality-opts: {public-key: _L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0, short-id: d020b2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: دکتر نیک@proxy_kafee`, server: mtn3.persiangames.link, port: 2472, type: vless, tls: true, packet-encoding: xudp, uuid: 25b8253c-459d-4246-feff-8704baeefaa6, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: 51.158.206.98, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 11", server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee` 2", server: gr1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 12", server: hub1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 13", server: moh1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 14", server: 154.218.15.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 15", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 16", server: dnsquery.egistration.ir, port: 1403, type: vless, tls: true, packet-encoding: xudp, uuid: 72f1e59b-2fbb-494b-b816-1515de48f433, servername: www.tgju.org, host: www.tgju.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B8K-gW-hQ-AsaLhWL2FySTUZDTneweYDLQAv-WxxN3U, short-id: 071e93f8e7de73d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 17", server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 18", server: 91.99.8.3, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 9748d6dc-d7a8-45cd-b4df-00476cac75f8, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: kXDA4ViroJGcSoIE6ik6aHoCwENHsSr207X68KSYHSw, short-id: d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 19", server: vb05.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee` 3", server: 143.20.236.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 20", server: 1.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 21", server: 2.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 22", server: 4.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 23", server: 82.22.40.109, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 24", server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 3", server: hub1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 4", server: moh1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 5", server: 154.218.15.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 6", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 7", server: dnsquery.egistration.ir, port: 1403, type: vless, tls: true, packet-encoding: xudp, uuid: 72f1e59b-2fbb-494b-b816-1515de48f433, servername: www.tgju.org, host: www.tgju.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: B8K-gW-hQ-AsaLhWL2FySTUZDTneweYDLQAv-WxxN3U, short-id: 071e93f8e7de73d1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 8", server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 9", server: 1.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 10", server: 2.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 11", server: 4.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 12", server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -511,108 +498,69 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -628,108 +576,69 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@proxy_kafee"
-      - "@proxy_kafee 2"
       - proxy_kafee
+      - proxy_kafee`
+      - "@proxy_kafee"
+      - دکتر نیک@proxy_kafee`
+      - "@proxy_kafee`"
+      - "@proxy_kafee 2"
+      - "@proxy_kafee` 2"
       - "@proxy_kafee 3"
       - "@proxy_kafee 4"
-      - proxy_kafee`
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
       - "@proxy_kafee 7"
       - "@proxy_kafee 8"
       - "@proxy_kafee 9"
       - "@proxy_kafee 10"
-      - دکتر نیک@proxy_kafee`
-      - "@proxy_kafee`"
       - "@proxy_kafee 11"
-      - "@proxy_kafee` 2"
       - "@proxy_kafee 12"
-      - "@proxy_kafee 13"
-      - "@proxy_kafee 14"
-      - "@proxy_kafee 15"
-      - "@proxy_kafee 16"
-      - "@proxy_kafee 17"
-      - "@proxy_kafee 18"
-      - "@proxy_kafee 19"
-      - "@proxy_kafee` 3"
-      - "@proxy_kafee 20"
-      - "@proxy_kafee 21"
-      - "@proxy_kafee 22"
-      - "@proxy_kafee 23"
-      - "@proxy_kafee 24"
   - name: دانلود منیجر 📥
     type: select
     proxies:

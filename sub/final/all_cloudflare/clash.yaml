@@ -465,33 +465,34 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: Chatgpt.com:2083, server: Chatgpt.com, port: 2083, type: trojan, password: !<str> 000123, sni: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: Chatgpt.com, port: 2083, type: trojan, password: !<str> 000123, sni: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: masterserver1-masterserver1-masterserver1-masterserver1.mokeyox493.workers.dev}}, udp: true, tfo: false}
+  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, port: 8443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, port: 8443, type: trojan, password: !<str> 1111, sni: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev}}, udp: true, tfo: false}
+  - {name: chatbuzzteambhm.chatbuzzt7150.workers.dev:443, server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: 22f86840-bcac-11ee-abea-1239d0255272, sni: de1.test3.net, skip-cert-verify: false, network: ws, ws-opts: {path: /howdy, headers: {Host: de1.test3.net}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: chatbuzzteambhm.chatbuzzt7150.workers.dev, port: 443, type: trojan, password: 22f86840-bcac-11ee-abea-1239d0255272, sni: de1.test3.net, skip-cert-verify: false, network: ws, ws-opts: {path: /howdy, headers: {Host: de1.test3.net}}, udp: true, tfo: false}
   - {name: 77@oneclickvpnkeys, server: 172.66.44.230, port: 8443, type: trojan, password: 8r%3C%5B9%27l6hAO%238ZQi, sni: Koma-YT.PAGeS.Dev, skip-cert-verify: false, network: ws, ws-opts: {path: /tro8sFW1S91B6sZrM1, headers: {Host: Koma-YT.PAGeS.Dev}}, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 172.67.119.227, port: 8443, type: trojan, password: Nova-Proxy, sni: aliem.derisvx.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: aliem.derisvx.workers.dev}}, udp: true, tfo: false}
   - {name: 8.39.125.191:2083, server: 8.39.125.191, port: 2083, type: trojan, password: Nova-Proxy, sni: spring-queen-a95f.cewon19053.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring-queen-a95f.cewon19053.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 8.39.125.191, port: 2083, type: trojan, password: Nova-Proxy, sni: spring-queen-a95f.cewon19053.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring-queen-a95f.cewon19053.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 8.39.125.191, port: 2083, type: trojan, password: Nova-Proxy, sni: spring-queen-a95f.cewon19053.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: spring-queen-a95f.cewon19053.workers.dev}}, udp: true, tfo: false}
   - {name: chatgpt.com:8443, server: chatgpt.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: chatgpt.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: chatgpt.com, port: 8443, type: trojan, password: T9BpZIVMNv, sni: sweden.vmaxpanel.com, skip-cert-verify: false, network: ws, ws-opts: {path: /amd, headers: {Host: sweden.vmaxpanel.com}}, udp: true, tfo: false}
   - {name: 082-🐭@GheychiAmoozesh, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 026d15a6-0b97-4883-a229-ec4325afb0de, servername: 023.ELeCtROCellCo-Cf-023.WOrKeRs.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiemFTMldmWW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 023.ELeCtROCellCo-Cf-023.WOrKeRs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 064059ce-23b9-45d3-953d-57d4c5092874, servername: 026.elEctrOCELLCo-cF-026.wORKERs.deV, network: ws, ws-opts: {path: /eyJqdW5rIjoieUVOZzhGTTh2OWdLcVYzRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0, headers: {Host: 026.elEctrOCELLCo-cF-026.wORKERs.deV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: V 124 @Outline_Vpn`, server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:443 2, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2052, server: chatgpt.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 12d75b7d-8fdf-4785-8d62-d836854e7e63, network: ws, ws-opts: {path: "🔒 ", headers: {Host: parking-nfchbwa1-v2.parking-1ab.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 56@oneclickvpnkeys, server: 104.21.80.5, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54@oneclickvpnkeys, server: 172.67.172.86, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 14e1775b-d92c-455b-8db3-e6c6d61909e0, network: ws, ws-opts: {path: /, headers: {Host: vpnpro.eshghiabolfazl2009.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 34@oneclickvpnkeys, server: 104.17.147.22, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1ff4b4b9-af9f-4708-ab43-97dcc832e748, servername: 008.eLECtROCELlco-Cf-008.wOrkerS.dev, network: ws, ws-opts: {path: /eyJqdW5rIjoiOG16aDZBdVhsZ1JNQk54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiNS4zNS43MC4xNTUiLCIxNDguMjUxLjE1Ny4xMjciLCIyLjU5LjE4My4xOTgiXX0=, headers: {Host: 008.eLECtROCELlco-Cf-008.wOrkerS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mci.buzzmuzzpanel.online:443, server: mci.buzzmuzzpanel.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20e295db-a6af-4006-bfd6-91453f169968, servername: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: mci.buzzmuzzpanel.online, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20e295db-a6af-4006-bfd6-91453f169968, servername: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoiSFM1N0lLQmx2UU1qRzlnTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: 057.ElecTRocElLco-Cf-057.wOrKeRs.dEv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2730487f-0ed5-4f04-92d5-f95f9253d4f4, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2730487f-0ed5-4f04-92d5-f95f9253d4f4, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 198.41.222.50:8080, server: 198.41.222.50, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: /eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=, headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 14@oneclickvpnkeys, server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 25efc727-e853-49ba-9609-3c20009d0e7a, network: ws, ws-opts: {path: /, headers: {Host: winbiss-0tpka6-v1.winbiss.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 66@oneclickvpnkeys, server: 198.41.222.50, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: /eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=, headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 198.41.222.50, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: /eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=, headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 66@oneclickvpnkeys`, server: 198.41.222.50, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 27950cc1-85b4-4ecc-ad3a-4507360504af, network: ws, ws-opts: {path: /eyJqdW5rIjoiQjE1UDBKNGN6UnEzNjg2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTg1LjIxMy4yMTEuMjkiLCIzMS40NC4yLjU3IiwiNzcuMjQ2LjEwOC4xMzAiXX0=, headers: {Host: 031.electrocellco-cf-031.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2ad80cff-5ef8-416a-a663-22c147264faa, servername: sonya-3nl.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiRnpna0hyZFRQRmNqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ, headers: {Host: sonya-3nl.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 14@oneclickvpnkeys, server: yg1.ygkkk.dpdns.org, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 2f0f84ed-9e4c-40ef-8a6c-286839e11a63, network: ws, ws-opts: {path: "/\x1f512", headers: {Host: hmedrza.ghwhdr51.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80@oneclickvpnkeys, server: 104.18.32.47, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ea61064-dae6-4ce5-8e3b-451c7feab49f, servername: sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiMHF3bXNPUVFSYkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: sWeEt-sgV2ray.XIHiJoP617-075.wOrKErs.DEv}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: restless-dew-894b.amirhost4.workers.dev:443, server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /@freenettir, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /@freenettir, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /@freenettir, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89@oneclickvpnkeys, server: 104.16.220.214, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys, server: 104.19.35.190, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 104.19.36.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -499,57 +500,66 @@ proxies:
   - {name: 85@oneclickvpnkeys, server: 172.64.52.166, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 68@oneclickvpnkeys, server: 198.41.223.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 69@oneclickvpnkeys, server: 27.50.48.8, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8.35.211.150:443, server: 8.35.211.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 8.35.211.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 86@oneclickvpnkeys, server: 8.35.211.150, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8.35.211.239:443, server: 8.35.211.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88@oneclickvpnkeys, server: 8.35.211.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 8.35.211.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: bestcf.030101.xyz:443, server: bestcf.030101.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: bestcf.030101.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: blog.811520.xyz:443, server: blog.811520.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: blog.811520.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 8.35.211.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ---:443, server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ---:443 2, server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: ---, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.179.222.102:443, server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.179.222.102:443 2, server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 18.179.222.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 2", server: 18.180.156.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.206.124.158:443, server: 43.206.124.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 43.206.124.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: 43.206.124.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 3", server: 43.206.124.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c26ebc3-7784-46d8-b52a-7b0ccae6f4b4, servername: chatgpt.com, host: chatgpt.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TGlPtfVzGIVpMauPRMGJj2Uu6GUiCpu5ZizIIjw-wx4, short-id: f5}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 34@oneclickvpnkeys 2, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:443 2, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, servername: BbbNHJ.890634.XYz, network: ws, ws-opts: {path: /s2VHv9VUVzg35A6ueyyZnWd, headers: {Host: BbbNHJ.890634.XYz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cccb4da-8aee-4b01-be84-2056265e52dc, servername: BbbNHJ.890634.XYz, network: ws, ws-opts: {path: /s2VHv9VUVzg35A6ueyyZnWd, headers: {Host: BbbNHJ.890634.XYz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.66.202.57:443, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee", server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 30@oneclickvpnkeys`, server: 173.245.59.190, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 6a3df9d6-7b68-444e-a6df-f01053912c30, network: ws, ws-opts: {path: /eyJqdW5rIjoiNEhiZlQ5dmVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTAuMTU2LjIyMS41NCJdfQ==, headers: {Host: sefaefawafa.ydyoeieiwhgi.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:443 3, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6b2d40f5-9db1-4964-aa9d-103d2a37fac6, servername: steep-Fog-3339.iRwo5.wOrkeRS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoid2swREI1QW43c1QyOWUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: steep-Fog-3339.iRwo5.wOrkeRS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6b2d40f5-9db1-4964-aa9d-103d2a37fac6, servername: steep-Fog-3339.iRwo5.wOrkeRS.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoid2swREI1QW43c1QyOWUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: steep-Fog-3339.iRwo5.wOrkeRS.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: CHAtgPT.coM:443, server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d57becf-27f3-4136-9289-a2ae5449af83, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d57becf-27f3-4136-9289-a2ae5449af83, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:443 3, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fc1188-430f-4a3c-a64e-af9023819899, servername: 002.w4WL4V1cpTKY.wOrKers.dev, network: ws, ws-opts: {path: /eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ, headers: {Host: 002.w4WL4V1cpTKY.wOrKers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 72fc1188-430f-4a3c-a64e-af9023819899, servername: 002.w4WL4V1cpTKY.wOrKers.dev, network: ws, ws-opts: {path: /eyJqdW5rIjoiYUlWS29Zd2xjZmdFZjk4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ, headers: {Host: 002.w4WL4V1cpTKY.wOrKers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: wangcai157.cloudflare.182682.xyz:8880, server: wangcai157.cloudflare.182682.xyz, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 7890ce31-9a25-4fd4-90e7-80e5823ff510, servername: Telegram-channel-WangCai2, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560", headers: {Host: Telegram-channel-WangCai2}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: wangcai157.cloudflare.182682.xyz, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 7890ce31-9a25-4fd4-90e7-80e5823ff510, servername: Telegram-channel-WangCai2, network: ws, ws-opts: {path: "/Telegram🇨🇳@WangCai2/?ed=2560", headers: {Host: Telegram-channel-WangCai2}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:443 4, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: parmis-1tk63j.parmis.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parmis-1tk63j.parmis.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: parmis-1tk63j.parmis.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: parmis-1tk63j.parmis.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6d57becf-27f3-4136-9289-a2ae5449af83, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.21.94.80:2083, server: 104.21.94.80, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 6df800b7-d053-5232-9d0d-ac6c80a44e6c, servername: arkarain.arkarain-co.WoRKers.DeV, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: "vless-ws/?ed=2048", headers: {Host: arkarain.arkarain-co.WoRKers.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: 104.21.94.80, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 6df800b7-d053-5232-9d0d-ac6c80a44e6c, servername: arkarain.arkarain-co.WoRKers.DeV, alpn: ["h3,h2,http/1.1"], network: ws, ws-opts: {path: "vless-ws/?ed=2048", headers: {Host: arkarain.arkarain-co.WoRKers.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 33@oneclickvpnkeys, server: 104.19.151.106, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 73d17f62-d0c0-4c90-903c-a2b3f3806cca, network: ws, ws-opts: {path: /, headers: {Host: fragrant-tooth-a5b7.cajeba6448.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 27@oneclickvpnkeys, server: 172.64.153.235, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e, network: ws, ws-opts: {path: /9PnUgtdLG8Br, headers: {Host: spring-flower-3254.magicnight101.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.16.40.145:80, server: 104.16.40.145, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 818a98bf-e7d0-45d5-800b-24d4058234c6, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: still-smoke-881e-ppal03.cabit21569.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 104.16.40.145, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 818a98bf-e7d0-45d5-800b-24d4058234c6, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: still-smoke-881e-ppal03.cabit21569.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: docs.cloudflare.com:2095, server: docs.cloudflare.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxingnmsl.sb-fangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 2", server: docs.cloudflare.com, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 86c50e3a-5b87-49dd-bd20-03c7f2735e40, network: ws, ws-opts: {path: /, headers: {Host: cnmfangbinxingnmsl.sb-fangbinxing-nmsl.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 17@oneclickvpnkeys, server: 104.18.6.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11@oneclickvpnkeys, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount`, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 173.245.59.53, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a36c66e0-b38a-42db-b647-76cb9e544203, servername: po-7ll.pages.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: po-7ll.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.16.158.162:80, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: /, headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72@oneclickvpnkeys, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: /, headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: /, headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9@oneclickvpnkeys, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: /, headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 22@oneclickvpnkeys, server: 104.18.14.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7e84660-8f5c-43ba-b635-cc394c5be4b9, network: ws, ws-opts: {path: /, headers: {Host: amita-b17wejf6-v2.amita.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 25@oneclickvpnkeys, server: 104.18.15.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7e84660-8f5c-43ba-b635-cc394c5be4b9, network: ws, ws-opts: {path: /, headers: {Host: amita-b17wejf6-v2.amita.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad6e47ed-11b2-455e-8763-4e492a8b3d16, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad6e47ed-11b2-455e-8763-4e492a8b3d16, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ad6e47ed-11b2-455e-8763-4e492a8b3d16, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 26@oneclickvpnkeys, server: 104.21.22.135, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aec0d3be-77ba-4372-a011-1e073df0dd7e, servername: rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0, headers: {Host: rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 26@oneclickvpnkeys 2, server: 104.21.22.135, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: aec0d3be-77ba-4372-a011-1e073df0dd7e, servername: rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: /eyJqdW5rIjoiQjZ4Q0g4SVFnUFEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0, headers: {Host: rOyAL-DrEAm-1ee7.i-R-tuNL.woRKeRS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443, server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b1620800-d06d-4a6f-a07f-e610eb3217b6, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b1620800-d06d-4a6f-a07f-e610eb3217b6, servername: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 55@oneclickvpnkeys, server: 104.24.39.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf4c614f-c46d-4db9-b031-62f7e4b85c2c, servername: hex.1tb.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: hex.1tb.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:80, server: chatgpt.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c3f75f0e-3fe6-4037-95be-ec869c453dfc, network: ws, ws-opts: {path: /eyJqdW5rIjoiZUtoUTZYaXU3TmIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119, headers: {Host: 024.electrocellco-cf-024.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22@oneclickvpnkeys 2, server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 3", server: 104.21.18.41, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: dd0cfef0-fda9-47ec-8a65-49d7bc004f82, servername: nic3-1.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /--Telegram---@MiTiVPN/---@MiTiVPN, headers: {Host: nic3-1.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 4", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🆔***", server: x1.fusionx.top, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: e2d7587b-a8df-48f7-8047-43adbb8d054d, host: chatgpt.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.38.129:80, server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 34@oneclickvpnkeys 2, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: CHAtgPT.coM:443 2, server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc48fb05-f513-486d-9577-80d225bc1169, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: CHAtgPT.coM, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fc48fb05-f513-486d-9577-80d225bc1169, servername: kkiihh-iran-abc-iran-1993.kinghooman.com, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?ed=36555336645-8ccc8855-ccckkjs-api1231", headers: {Host: kkiihh-iran-abc-iran-1993.kinghooman.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b` 3", server: 162.159.38.129, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: "/?ed%3D2048", headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 28@oneclickvpnkeys, server: 104.19.222.169, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, network: ws, ws-opts: {path: /gfdn0yadxgfr, headers: {Host: index.arcane509.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇸🇬 www.visa.com.sg:8443, server: www.visa.com.sg, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f9a07fed-364e-42f2-ac3f-18708ccd0024, servername: surena-persian-gulf.user6909f13ce4d14.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: surena-persian-gulf.user6909f13ce4d14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: www.visa.com.sg, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f9a07fed-364e-42f2-ac3f-18708ccd0024, servername: surena-persian-gulf.user6909f13ce4d14.workers.dev, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: surena-persian-gulf.user6909f13ce4d14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -566,33 +576,34 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -600,56 +611,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -657,33 +677,34 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -691,56 +712,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -748,33 +778,34 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -782,56 +813,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -848,33 +888,34 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -882,56 +923,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -939,33 +989,34 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -973,56 +1024,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1030,33 +1090,34 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Chatgpt.com:2083
+      - "***✅***@AR14N24b"
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.cagakow937.workers.dev:8443
+      - "***✅***@AR14N24b 2"
+      - chatbuzzteambhm.chatbuzzt7150.workers.dev:443
+      - "***✅***@AR14N24b 3"
       - 77@oneclickvpnkeys
       - "@meliproxyy"
       - 8.39.125.191:2083
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 4"
       - chatgpt.com:8443
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 5"
       - 082-🐭@GheychiAmoozesh
       - 38@oneclickvpnkeys
-      - chatgpt.com:443
       - V 124 @Outline_Vpn`
-      - chatgpt.com:443 2
-      - "***✅***@AR14N24b 3"
+      - chatgpt.com:2052
       - 56@oneclickvpnkeys
       - 54@oneclickvpnkeys
       - 34@oneclickvpnkeys
-      - mci.buzzmuzzpanel.online:443
-      - "***✅***@AR14N24b 4"
-      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.jovego2551.workers.dev:443
-      - "***✅***@AR14N24b 5"
-      - 198.41.222.50:8080
-      - 66@oneclickvpnkeys
-      - "***✅***@AR14N24b 6"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 14@oneclickvpnkeys
+      - 66@oneclickvpnkeys
+      - 66@oneclickvpnkeys`
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - 80@oneclickvpnkeys
       - restless-dew-894b.amirhost4.workers.dev:443
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
+      - chatgpt.com:443
+      - "***✅***@AR14N24b`"
       - 89@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
@@ -1064,56 +1125,65 @@ proxy-groups:
       - 85@oneclickvpnkeys
       - 68@oneclickvpnkeys
       - 69@oneclickvpnkeys
-      - 8.35.211.150:443
-      - "***✅***@AR14N24b 8"
       - 86@oneclickvpnkeys
       - 8.35.211.239:443
       - 88@oneclickvpnkeys
-      - "***✅***@AR14N24b 9"
-      - bestcf.030101.xyz:443
-      - "***✅***@AR14N24b 10"
-      - blog.811520.xyz:443
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - ---:443
-      - "***✅***@AR14N24b 12"
+      - "***✅***@AR14N24b 8"
       - "@meliproxyy`"
+      - ---:443 2
+      - "***✅***@AR14N24b 9"
       - 18.179.222.102:443
-      - "***✅***@AR14N24b 13"
+      - "***✅***@AR14N24b 10"
       - "@meliproxyy 2"
+      - 18.179.222.102:443 2
+      - "***✅***@AR14N24b 11"
       - "@meliproxyy` 2"
       - 43.206.124.158:443
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 12"
       - "@meliproxyy` 3"
+      - 34@oneclickvpnkeys 2
+      - chatgpt.com:443 2
+      - "***✅***@AR14N24b 13"
+      - 172.66.202.57:443
+      - "***✅***@AR14N24b 14"
       - "@proxy_kafee"
       - 30@oneclickvpnkeys`
-      - CHAtgPT.coM:443
-      - "***✅***@AR14N24b 15"
       - chatgpt.com:443 3
+      - "***✅***@AR14N24b 15"
+      - CHAtgPT.coM:443
       - "***✅***@AR14N24b 16"
-      - wangcai157.cloudflare.182682.xyz:8880
+      - 104.21.94.80:2083
       - "***✅***@AR14N24b 17"
-      - chatgpt.com:443 4
+      - 33@oneclickvpnkeys
+      - 27@oneclickvpnkeys
+      - 104.16.40.145:80
       - "***✅***@AR14N24b 18"
+      - docs.cloudflare.com:2095
+      - "***✅***@AR14N24b` 2"
+      - 17@oneclickvpnkeys
       - 11@oneclickvpnkeys
       - NetAccount`
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
-      - 104.16.158.162:80
       - 72@oneclickvpnkeys
-      - "***✅***@AR14N24b 19"
+      - 9@oneclickvpnkeys
       - 22@oneclickvpnkeys
+      - 25@oneclickvpnkeys
       - v2ngfast-v2ngfast-v2ngfast-v2ngfast.bolot91687.workers.dev:443
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 19"
       - 26@oneclickvpnkeys
-      - 26@oneclickvpnkeys 2
+      - v2ngfast-v2ngfast-v2ngfast-v2ngfast.wenet91172.workers.dev:443
+      - "***✅***@AR14N24b 20"
       - 55@oneclickvpnkeys
-      - chatgpt.com:80
+      - 22@oneclickvpnkeys 2
       - "@meliproxyy 3"
       - "@meliproxyy 4"
       - "***🆔***"
       - 162.159.38.129:80
-      - "***✅***@AR14N24b`"
-      - 34@oneclickvpnkeys 2
-      - CHAtgPT.coM:443 2
+      - "***✅***@AR14N24b` 3"
+      - 28@oneclickvpnkeys
+      - 🇸🇬 www.visa.com.sg:8443
       - "***✅***@AR14N24b 21"
   - name: دانلود منیجر 📥
     type: select
