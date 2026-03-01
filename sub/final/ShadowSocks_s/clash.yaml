@@ -471,10 +471,11 @@ proxies:
   - {name: NetAccount`, server: cdnirpish234.b2n.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1087, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 2, server: cdnirtr16.2ad.ir.nic.stp.debian.org.ubuntu.ir.reservedns.website, port: 1095, type: vless, tls: true, packet-encoding: xudp, uuid: 06442da2-c71e-4f5d-b2f3-e327b3f515b5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 46.38.138.28, port: 28131, type: vless, tls: true, packet-encoding: xudp, uuid: 5a3691c4-01e8-4bf1-a88e-faf876138660, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 5b6c6456-8544-4099-9f06-fc2e219a9baa, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: dns5.golden-ping.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 83e2dd06-7cbf-40d2-8eac-302030552943, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 94.182.142.8, port: 4545, type: vless, tls: true, packet-encoding: xudp, uuid: cc437fd4-a83e-47b4-b059-6b5a97f76572, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: dns5.golden-ping.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 83e2dd06-7cbf-40d2-8eac-302030552943, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NeteAccount`, server: dl.salarcloud.ir, port: 22548, type: vless, tls: true, packet-encoding: xudp, uuid: a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b, host: dl.salarcloud.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: tun.biostart.ir, port: 10300, type: vless, tls: true, packet-encoding: xudp, uuid: ab065397-ac5e-46fc-9dab-296973f69704, host: ir22.uploadboy.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 94.182.142.8, port: 4545, type: vless, tls: true, packet-encoding: xudp, uuid: cc437fd4-a83e-47b4-b059-6b5a97f76572, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: fan.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb343efc-e80b-4112-9f80-3c35904bba9b, servername: fan.x2net.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: fan.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -498,6 +499,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
@@ -514,6 +516,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
@@ -530,6 +533,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
@@ -555,6 +559,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
@@ -571,6 +576,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7
@@ -587,6 +593,7 @@ proxy-groups:
       - NetAccount` 2
       - NetAccount` 3
       - NetAccount` 4
+      - NeteAccount`
       - NetAccount` 5
       - NetAccount` 6
       - NetAccount` 7

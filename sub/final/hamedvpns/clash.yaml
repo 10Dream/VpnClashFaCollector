@@ -467,7 +467,9 @@ rule-providers:
 proxies:
   - {name: m2.masih1-ah.site:57070, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hp71, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: 52737d41-b5d4-4cf2-a28b-d70e42a6e82b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2, server: sr011.mynor.ir, port: 54907, type: vless, tls: true, packet-encoding: xudp, uuid: 53ed7226-283f-4789-afbb-c5d11a8e6437, host: sr011.mynor.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify", server: beat.raynomusic.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 82d7af64-8106-4ea1-9cf8-c399be66e308, network: ws, ws-opts: {path: /, headers: {Host: turkey.raynomusic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 1, server: dns5.golden-ping.ir, port: 16662, type: vless, tls: true, packet-encoding: xudp, uuid: 8be1f2ce-ac71-49cc-b08a-b396b6053b00, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 71, server: h35.tiptop-1.top, port: 42082, type: vless, tls: true, packet-encoding: xudp, uuid: c554b6bc-fb9d-4f2d-902b-b3809759a4df, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -487,7 +489,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -497,7 +501,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -507,7 +513,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: اتصال پایدار 🔗
     type: url-test
@@ -526,7 +534,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -536,7 +546,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -546,7 +558,9 @@ proxy-groups:
     proxies:
       - m2.masih1-ah.site:57070
       - hp71
+      - 2
       - "@Hiddify"
+      - 1
       - 71
   - name: دانلود منیجر 📥
     type: select

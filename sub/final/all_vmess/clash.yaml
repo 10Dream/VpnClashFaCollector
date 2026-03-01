@@ -481,16 +481,21 @@ proxies:
   - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: 94.232.247.164, port: 44030, type: vmess, uuid: 22c396a3-95da-4be8-beef-834d17d75784, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: freenet_vt, server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpnbaz 🧸", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇲🇾 [openproxylist.com] vmess-MY", server: 23.27.28.15, port: 5735, type: vmess, uuid: 87c50702-71cf-47ca-aee4-ab304d28839e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾, server: t10.melonet.best, port: 5434, type: vmess, uuid: d472f161-1f8a-437d-98fe-55dc6b5a0554, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾, server: t6.netmet.best, port: 5425, type: vmess, uuid: d472f161-1f8a-437d-98fe-55dc6b5a0554, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾, server: t7.netmet.best, port: 5431, type: vmess, uuid: d472f161-1f8a-437d-98fe-55dc6b5a0554, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾, server: t8.mynet.best, port: 5437, type: vmess, uuid: d472f161-1f8a-437d-98fe-55dc6b5a0554, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾, server: t9.mynet.best, port: 5438, type: vmess, uuid: d472f161-1f8a-437d-98fe-55dc6b5a0554, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: 86d0eafa-b590-4110-8498-1dee3c0b9929, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 76@oneclickvpnkeys, server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
-  - {name: t.me/Kia_Net 🗡️, server: uuujki.7777112.xyz, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: uuujki.7777112.xyz, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: uuujki.7777112.xyz}}, udp: true, tfo: false}
-  - {name: t.me/Kia_Net ❤️🩹, server: vvvbnhju.932.pp.ua, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: vvvbnhju.932.pp.ua, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: vvvbnhju.932.pp.ua}}, udp: true, tfo: false}
+  - {name: "@configraygan V1", server: GR1-Public-IR.g2gstore.ir, port: 9119, type: vmess, uuid: ae56511d-6b39-454b-847b-b711782d18cb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 01@oneclickvpnkeys, server: bbnj.wc9.ccwu.cc, port: 80, type: vmess, uuid: 1798b14b-aee0-4008-ba9a-2e53877761b4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /kFK9O5cl8ZycyrxcJWNVFC21, headers: {Host: bbnj.wc9.ccwu.cc}}, udp: true, tfo: false}
   - {name: 89@oneclickvpnkeys, server: bbgfvce.12i.ccwu.cc, port: 80, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: bbgfvce.12i.ccwu.cc}}, udp: true, tfo: false}
   - {name: 79@oneclickvpnkeys, server: fbnhu.0wu.ccwu.cc, port: 80, type: vmess, uuid: 8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /y3ME81hpTJWwd4RJBAQ5Ah, headers: {Host: fbnhu.0wu.ccwu.cc}}, udp: true, tfo: false}
-  - {name: t.me/Kia_Net 💗, server: gbnh.7777112.xyz, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: gbnh.7777112.xyz, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: gbnh.7777112.xyz}}, udp: true, tfo: false}
+  - {name: "@erfanandroid", server: gr1.iranishops.com, port: 443, type: vmess, uuid: 32e55168-580c-8ef4-a8d9-ac7ea4b3d026, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 3", server: line1.bsgermdubra.com, port: 51660, type: vmess, uuid: 0b67b1c0-678d-463b-86ef-ccdf755a959e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 2, server: line1.bsgermdubra.com, port: 51660, type: vmess, uuid: 0b67b1c0-678d-463b-86ef-ccdf755a959e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram:  @@configraygan V13", server: mac.pkpowerking.xyz, port: 34082, type: vmess, uuid: 91dce55e-47c7-4176-be61-21b1122d9c40, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-ID", server: neva.azlan.biz.id, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: neva.azlan.biz.id, network: ws, ws-opts: {path: /vmess, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
   - {name: "@configraygan چنل تلگرام🛡", server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 3, server: nl1.iranishops.com, port: 443, type: vmess, uuid: bfbd80e5-3299-f450-6802-2423af1aafd2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -529,16 +534,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3
@@ -567,16 +577,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3
@@ -605,16 +620,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3
@@ -652,16 +672,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3
@@ -690,16 +715,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3
@@ -728,16 +758,21 @@ proxy-groups:
       - 🇫🇷 [openproxylist.com] vmess-FR
       - freenet_vt
       - "@vpnbaz 🧸"
-      - 🇲🇾 [openproxylist.com] vmess-MY
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚¹⁰ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁶ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁷ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁸ ⁽ᵀ⁾
+      - 𝑮𝒆𝒓𝒎𝒂𝒏𝒚⁹ ⁽ᵀ⁾
+      - "@meliproxyy"
       - 76@oneclickvpnkeys
-      - t.me/Kia_Net 🗡️
-      - t.me/Kia_Net ❤️🩹
+      - "@configraygan V1"
       - 01@oneclickvpnkeys
       - 89@oneclickvpnkeys
       - 79@oneclickvpnkeys
-      - t.me/Kia_Net 💗
+      - "@erfanandroid"
       - "Telegram: @wiki_tajrobe 3"
       - ⚡️Telegram - @configraygan 2
+      - "Telegram:  @@configraygan V13"
       - "[openproxylist.com] vmess-ID"
       - "@configraygan چنل تلگرام🛡"
       - ⚡️Telegram - @configraygan 3

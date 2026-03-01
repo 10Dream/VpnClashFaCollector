@@ -475,12 +475,9 @@ proxies:
   - {name: "@proxy_kafee", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt`, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt` 2, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: freenet_vt 3, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: freenet_vt`, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -507,12 +504,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -529,12 +523,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -551,12 +542,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -582,12 +570,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -604,12 +589,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -626,12 +608,9 @@ proxy-groups:
       - "@proxy_kafee"
       - "@proxy_kafee 2"
       - "@meliproxyy"
-      - freenet_vt
-      - freenet_vt`
+      - 5.175.249.174:35000
       - "@meliproxyy 2"
-      - freenet_vt 2
-      - freenet_vt` 2
-      - freenet_vt 3
+      - freenet_vt`
   - name: دانلود منیجر 📥
     type: select
     proxies:
