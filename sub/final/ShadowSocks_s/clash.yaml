@@ -465,18 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: dddfghyju.taipei102.indevs.in, port: 443, type: trojan, password: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, sni: dddfghyju.taipei102.indevs.in, skip-cert-verify: false, network: ws, ws-opts: {path: /2cO5FH0xUmT9oqnbBhmKb8nOkg, headers: {Host: dddfghyju.taipei102.indevs.in}}, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray, server: de-3-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray`, server: tak8.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net%2F%3FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡`", server: hhhnju.taipei102.indevs.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, servername: hhhnju.taipei102.indevs.in, alpn: [http%2F1.1], network: ws, ws-opts: {path: /391sfnZ2bBhmKb8nOkg, headers: {Host: hhhnju.taipei102.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray 2, server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 3e4e8d50-bcc7-47d2-8047-321e0de9b633, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2fb9335d-6a89-4eed-8246-0d5076fd556e, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 3363394e-d5ce-4b71-8281-39a3469924c5, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: my.configfast.site, port: 4013, type: vless, tls: true, packet-encoding: xudp, uuid: 44de73bc-eb6d-429d-9c2f-ec0a6e4a6681, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱", server: sv24.bcdata1.top, port: 24443, type: vless, tls: true, packet-encoding: xudp, uuid: 97930da0-6f44-4f13-9fa6-7a1d85cd2cf0, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NeteAccount`, server: dl.salarcloud.ir, port: 22548, type: vless, tls: true, packet-encoding: xudp, uuid: a6d7c26a-7305-5e0d-8701-1dcfc4d49b2b, host: dl.salarcloud.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: https://t.me/ConfigX2ray 3, server: tak9.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: e8211fe8-059b-46e7-8f52-e5c61da5fee2, host: www.speedtest.net%2F%3FJoin---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Ip Static SamanTel,shatell - 𝕍𝕀ℙ", server: ips.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: ea4252f2-83cf-4f86-907c-fb5befee7f0c, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount`, server: fan.x2net.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fb343efc-e80b-4112-9f80-3c35904bba9b, servername: fan.x2net.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: fan.x2net.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| با ما متصل بمون⚡", server: blog.topspeedarash.com, port: 4351, type: vmess, uuid: c9688320-4732-4091-b21f-6b6113099fee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: dddfghyju.taipei102.indevs.in, port: 443, type: vmess, uuid: 2bfe58f7-da1d-45df-ab43-7c665b20ee29, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: dddfghyju.taipei102.indevs.in, network: ws, ws-opts: {path: /t1UV4HSrzbWGmJtbBhmKb8nOkg, headers: {Host: dddfghyju.taipei102.indevs.in}}, udp: true, tfo: false}
+  - {name: "@filembad", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,54 +490,45 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -556,54 +544,45 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - https://t.me/ConfigX2ray
-      - https://t.me/ConfigX2ray`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - https://t.me/ConfigX2ray 2
-      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
-      - NeteAccount`
-      - https://t.me/ConfigX2ray 3
-      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad`"
+      - "@filembad` 2"
+      - "@filembad` 3"
+      - "@filembad` 4"
       - NetAccount`
-      - "| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
+      - NetAccount` 2
+      - "@Hacknashid   عضووو شییید کانال تلگرام 🇳🇱"
+      - Ip Static SamanTel,shatell - 𝕍𝕀ℙ
+      - "@filembad"
   - name: دانلود منیجر 📥
     type: select
     proxies:

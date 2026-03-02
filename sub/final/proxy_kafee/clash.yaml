@@ -467,20 +467,15 @@ rule-providers:
 proxies:
   - {name: "@proxy_kafee", server: gb1.vnet500.xyz, port: 32030, type: vless, tls: true, packet-encoding: xudp, uuid: 0413702d-739b-4c8a-80b1-8296ba54cfe6, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee`", server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: 1d63a4b0-cf30-489f-b91e-5b7f409231e2, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: دکتر نیک@proxy_kafee`, server: mtn3.persiangames.link, port: 2472, type: vless, tls: true, packet-encoding: xudp, uuid: 25b8253c-459d-4246-feff-8704baeefaa6, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee` 2", server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 2", server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 3", server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee` 3", server: gr1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 4", server: hub1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 5", server: moh1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 4bef06d1-7535-4ba5-8446-bd6b94e6b150, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 6", server: 185.215.229.4, port: 4040, type: vless, tls: true, packet-encoding: xudp, uuid: 571ae962-d56d-4099-987d-03b1099709c7, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 7", server: NL-MELi23.nexavps.ir, port: 4589, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5ee26d-1ab2-40a9-9b29-3406ecba7966, host: linkto.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee` 4", server: usseperup77.nexavps.ir, port: 4586, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5ee26d-1ab2-40a9-9b29-3406ecba7966, host: tipaxco.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 8", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 9", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-nl.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee` 5", server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee 10", server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-nl.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 3", server: 185.215.229.4, port: 4040, type: vless, tls: true, packet-encoding: xudp, uuid: 571ae962-d56d-4099-987d-03b1099709c7, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 4", server: NL-MELi23.nexavps.ir, port: 4589, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5ee26d-1ab2-40a9-9b29-3406ecba7966, host: linkto.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee` 3", server: usseperup77.nexavps.ir, port: 4586, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5ee26d-1ab2-40a9-9b29-3406ecba7966, host: tipaxco.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 5", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 6", server: chatgpt.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-nl.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee` 4", server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-de.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 7", server: grok.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e0c50817-86dd-4ee1-bca3-6e296d85dd59, servername: blouck-nl.gozarcloud.ir, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: Love}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee   شیددددد کانال عضووو  ⚠️", server: hdfdkfj.nexavps.ir, port: 4586, type: vless, tls: true, packet-encoding: xudp, uuid: e0d92f21-fd23-4aef-8f05-d7391701771e, host: hdfdkfj.nexavps.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: →🇫🇮 @proxy_kafee`, server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: e19b19f7-00ab-44f0-a14e-91b870fed857, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee  عضو شید`", server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: e2f77378-64a4-472a-8d9e-498bc240386d, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -502,20 +497,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"
@@ -527,20 +517,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"
@@ -552,20 +537,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"
@@ -586,20 +566,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"
@@ -611,20 +586,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"
@@ -636,20 +606,15 @@ proxy-groups:
     proxies:
       - "@proxy_kafee"
       - "@proxy_kafee`"
-      - دکتر نیک@proxy_kafee`
       - "@proxy_kafee` 2"
       - "@proxy_kafee 2"
       - "@proxy_kafee 3"
-      - "@proxy_kafee` 3"
       - "@proxy_kafee 4"
+      - "@proxy_kafee` 3"
       - "@proxy_kafee 5"
       - "@proxy_kafee 6"
-      - "@proxy_kafee 7"
       - "@proxy_kafee` 4"
-      - "@proxy_kafee 8"
-      - "@proxy_kafee 9"
-      - "@proxy_kafee` 5"
-      - "@proxy_kafee 10"
+      - "@proxy_kafee 7"
       - "@proxy_kafee   شیددددد کانال عضووو  ⚠️"
       - →🇫🇮 @proxy_kafee`
       - "@proxy_kafee  عضو شید`"

@@ -1,5 +1,161 @@
 # آرشیو کانال: @rahgozar94725_ip
-بروزرسانی: 2026-03-02 12:25:23 UTC
+بروزرسانی: 2026-03-02 20:30:03 UTC
+
+### 🕒 2026-03-02 20:05:23 UTC
+> ↪️ **Forwarded**
+
+`socks://Og@0.0.0.0:1080#socks`
+برای ایجاد کانفیگ ساکس در نپستر، این کانفیگ بالاییو کپی کنید و به جای 
+[0.0.0.0](http://0.0.0.0/)
+ آیپی گوشی رو بذارید، کانفیگ رو بزنید نپستر و متصل بشید
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+Manual proxy configuration رو بزنید
+در socks host آیپی گوشی رو قرار بدید
+به جای پورت هم بذارید 1080 (در صورت استفاده از slipnet)
+ساکس 5 رو به عنوان ورژن انتخاب کنید
+و proxy dns when using socks5 رو فعال کنید
+اوکی رو بزنید و تمام
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+نحوه اتصال به ساکس در فایرفاکس:
+برید تنظیمات فایرفاکس، proxy جست و جو کنید و configure proxy که آورد اونو بزنید
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+socks5 رو بزنید
+به جای سرور آیپی گوشی قرار دهید و به جای پورت بذارید 1080 (در صورت استفاده از slipnet)
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+نحوه ایجاد دستی پروکسی در تلگرام:
+برید جایی که پروکسی هارو میاره و add proxy رو بزنید
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+نکته:
+اگه در nekoray یا v2rayn بعد از اینکه وصل شدید و vpn mode رو روشن کردید چند ثانیه بعد قطع میشه، فقط برنامه ای که باهاش کار دارید روشن باشه و بقیه رو ببندید
+اگه باز حل نشد vpn mode رو ببندید
+کلا کلاینت استفاده نکنید
+میخواهید تلگرام دسکتاپ برید؟
+در تلگرام یدونه ساکس پروکسی دستی بسازید و به اون وصل بشید
+میخواهید در مرورگر استفاده کنید؟
+در مرورگر برید تنظیمات پروکسی ساکس بسازید و وصل بشید
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+پروتوکل رو تغییر بدید به ساکس و به جای ادرس آیپی گوشی رو بذارید و save کنید و وصل بشید
+
+---
+
+### 🕒 2026-03-02 19:58:31 UTC
+> ↪️ **Forwarded**
+
+بالا یه علاوه رو بزنید و configure manually رو بزنید و
+
+---
+
+### 🕒 2026-03-02 19:58:30 UTC
+> ↪️ **Forwarded**
+
+نحوه ایجاد کانفیگ ساکس در streisand آیفون یا مک:
+
+---
+
+### 🕒 2026-03-02 19:58:30 UTC
+> ↪️ **Forwarded**
+
+اینجا آیپی گوشی رو بذارید و پایین ok رو بزنید و وصل بشید
+
+---
+
+### 🕒 2026-03-02 19:58:30 UTC
+> ↪️ **Forwarded**
+
+نحوع ایجاد کانفیگ ساکس در nekoray برای ویندوز یا مک (v2rayn هم خیلی شبیه اینه):
+
+---
+
+### 🕒 2026-03-02 19:58:30 UTC
+> ↪️ **Forwarded**
+
+اتصال به کانفیگ dnstt یا slipstream در ویندوز یا مک یا ios یا ... بدون نصب نت مود یا slipnet یا ...:
+اول گوشی اندروید و دیوایس مورد نظر رو به یک وایفای وصل کنید
+یا اینکه اندروید رو هات اسپات کنید و با دیوایس مورد نظر به اون وصل بشید.
+آیپی اندروید نیازمونه
+برای این کار اگه ویندوزید برید cmd و دستور 
+`ipconfig`
+ رو اجرا کنید. آیپی اندروید اگه هات اسپات کردید جلوی Default Gateway نوشته شده
+اگه به یه اینترنت وصل کردید، در اندروید انگشتتونو روی وایفای نگه دارید تنظیماتش باز کنین و برید پایین میاره آیپیشو (واسه هر گوشی متفاوت میتونه باشه دقیق نمیتونم بگم)
+در هر صورت باید آیپیشو بدست بیارید
+در دیوایس مورد نظر، هر کلاینتی که دوست دارید (v2rayn, streisand, napster)
+باید یه کانفیگ manual درست کنین و پروتوکولشو بذارید socks
+آیپیشو بذارید آیپی که در مرحله قبل پیدا کردید و پورتشو بذارید 1080
+پورت 1080 فقط برای slipstream هست. برای netmod یا v2rayng اگه خواستید یه وقت وصل کنید، باید تنظیماتشون فعال کنید، در نت مود پورت ساکس 9050 هست
+بعد به اون کانفیگ وصل میشید و تمام
+
+---
+
+### 🕒 2026-03-02 18:08:25 UTC
+slipnet-enc://AZJWO0k7HrtrIAp/83iS40XNrK+6ZPQ6EDOGvMSYf69xKugZ68aF1K6tfLd8H1WMzcGhXf6P2AAO0xbic8SrYBHPVdC34ejwKEbO9xnuTqI0GkQePcblY3y+I7S1g5X3+GrRZlQIakWU37GQsfGpSkOpF0eOwgoTf02SYAcsWY+CGOQyS7Zjzg9d5yM9EY88A682l5rc8/KkJo/Ir0Wnzwqjs1becI8KLNjMjdRutjpTnNihp…
+
+---
+
+### 🕒 2026-03-02 17:39:37 UTC
+slipnet-enc://AZJWO0k7HrtrIAp/83iS40XNrK+6ZPQ6EDOGvMSYf69xKugZ68aF1K6tfLd8H1WMzcGhXf6P2AAO0xbic8SrYBHPVdC34ejwKEbO9xnuTqI0GkQePcblY3y+I7S1g5X3+GrRZlQIakWU37GQsfGpSkOpF0eOwgoTf02SYAcsWY+CGOQyS7Zjzg9d5yM9EY88A682l5rc8/KkJo/Ir0Wnzwqjs1becI8KLNjMjdRutjpTnNihprsuM7W2+eWfyktHU0aILffBsU6stJARTyJ0RVsiU7rn9QCXat6Knx+DgTrF+4ltrH0xPUNsqroXPJcVKf91plgwFNLfZvtD6UYxy0Hdvk9A7eYCV+kq596BStHU0WywS6Uo971+3t9YujuKgY2FQmlpx/iUiktKnjoGyPXkB1MrVALJ3IxqoUjtNPMm3Y5Xm6dCgz5q2epbXoTSQPrI0u96QmjkQUC3OlNJjDsVx9sHKe8ufc7BDRZv9LzRFi6VvCqmeohPbWhazGpx+ypqYEdTV+Jeukx+Zxk1/Uf+ewyyCR/2od1tv3/kCg==
+کانفیگ 
+[SlipNet](https://t.me/SlipNet_app)
+ 
+***🌹***
+در صورتی که ریزالور ها برای شما کار نکردن، میتونید از طریق خود برنامه اسکن کنید. دقت کنید که اگر در اسکن از حالت e2e استفاده کنید دسترسی شما قطع خواهد شد.
+با دوستان خود به اشتراک بزارید 
+***😊***
+
+---
+
+### 🕒 2026-03-02 12:45:24 UTC
+> ↪️ **Forwarded**
+
+لینک دانلود http injector:
+[https://uploadb.me/wsijuo39muug/HttpInjector@Shh_Proxy.zip.html](https://uploadb.me/wsijuo39muug/HttpInjector@Shh_Proxy.zip.html)
+
+---
+
+### 🕒 2026-03-02 12:45:24 UTC
+> ↪️ **Forwarded**
+
+لینک دانلود نت‌مود:
+[https://uploadb.me/qagphdejj8ar/Version3.2.8.611-Universal.apk.html](https://uploadb.me/qagphdejj8ar/Version3.2.8.611-Universal.apk.html)
+
+---
+
+### 🕒 2026-03-02 12:45:24 UTC
+> ↪️ **Forwarded**
+
+این هم لینک دانلود am tunnel:
+[https://abrehamrahi.ir/o/public/ebh4ZDL7/](https://abrehamrahi.ir/o/public/ebh4ZDL7/)
+
+---
 
 ### 🕒 2026-03-02 12:05:03 UTC
 ***🚀***
@@ -26,12 +182,6 @@
 
 نسخه جدید SlipNet نسخه یونیورسال. با اینترنت ملی هم قابل دانلود هستش:
 [https://uploadb.me/l61gew24ims4/SlipNet-v2.1.1-release-universal.apk.html](https://uploadb.me/l61gew24ims4/SlipNet-v2.1.1-release-universal.apk.html)
-
----
-
-### 🕒 2026-03-01 18:51:00 UTC
-دوستان عزیز
-لیست پروکسی های تلگرام به طور اتوماتیک آپدیت میشه، اما فکر نمیکنم بتونید موردی پیدا کنید که الان براتون وصل بشه. چند تا پیام بالاتر یه ریپو معرفی کردم برای نصب dnstt و اسلیپ استریم. الان تنها میتونید از اون استفاده کنید
 
 ---
 
