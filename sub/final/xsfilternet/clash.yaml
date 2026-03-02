@@ -507,6 +507,7 @@ proxies:
   - {name: vip-meli2.nightgemshop.com:443, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🤴***, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 13", server: tun.p2p1.sbs, port: 2019, type: vmess, uuid: 776915e4-6cb7-41e0-8711-89bc6503da7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇬🇧 United Kingdom, server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 14", server: ger.server-vip.com, port: 7081, type: vmess, uuid: 6f757034-b045-40b2-a081-28eb95aa464d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 15", server: i4.racab-plus.com, port: 447, type: vmess, uuid: 0ebfd0ff-5118-476c-9c69-a971ce3ee3be, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: myket.ir}}, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 16", server: s1.hamishe.cloud, port: 110, type: vmess, uuid: 27bad9b8-3beb-4dbd-ab3a-af383dd01094, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -568,6 +569,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"
@@ -619,6 +621,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"
@@ -670,6 +673,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"
@@ -730,6 +734,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"
@@ -781,6 +786,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"
@@ -832,6 +838,7 @@ proxy-groups:
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
+      - 🇬🇧 United Kingdom
       - "Telegram: @wiki_tajrobe 14"
       - "Telegram: @wiki_tajrobe 15"
       - "Telegram: @wiki_tajrobe 16"

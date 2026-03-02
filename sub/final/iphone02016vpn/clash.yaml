@@ -465,20 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@iphone02016vpn", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: NetAccount`, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@iphone02016vpn 2", server: v1.dabache.top, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: NetAccount`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: f, server: 89.42.138.226, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: 426acd7d-8cbd-4d23-dd9c-2e97b3c9f8a4, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: azinsite.amir777.sbs, port: 2010, type: vless, tls: true, packet-encoding: xudp, uuid: 5b6c6456-8544-4099-9f06-fc2e219a9baa, host: azinsite.amir777.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: norbert-2.conf-tun.site, port: 11112, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee40272-88da-455f-84f2-afe1e7bf6a99, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: norbert-2.conf-tun.site, port: 11112, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee40272-88da-455f-84f2-afe1e7bf6a99, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@yellow1v", server: 185.209.42.140, port: 50886, type: vless, tls: true, packet-encoding: xudp, uuid: 775b06cd-9cd1-480d-8f53-7af2eb5de32a, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: f 2, server: 89.42.138.226, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: c4500966-78f0-4c69-c9c1-1e79ee240079, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🆔***", server: x1.fusionx.top, port: 4444, type: vless, tls: true, packet-encoding: xudp, uuid: e2d7587b-a8df-48f7-8047-43adbb8d054d, host: chatgpt.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -495,60 +488,39 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -564,60 +536,39 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@iphone02016vpn"
       - NetAccount`
       - NetAccount` 2
-      - NetAccount` 3
-      - NetAccount` 4
-      - "@iphone02016vpn 2"
       - f
-      - NetAccount` 5
-      - NetAccount` 6
+      - NetAccount` 3
       - "@yellow1v"
-      - NetAccount` 7
+      - NetAccount` 4
       - f 2
-      - "***🆔***"
-      - 🇩🇪 DE
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -501,9 +501,9 @@ proxies:
   - {name: ⚡Telegram - @prrofile_purple***🧑‍🎄***, server: irm2.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: irm2.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: respina24.gdsrguydsrghj.ir:1010, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🎅***, server: respina24.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: bf923569-ff69-4638-b1d3-38e3348d9571, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 81.12.46.79:2087, server: 81.12.46.79, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ce286bdb-1af2-583e-eb44-8d450f189b1e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 12", server: Blue22.webjob7.eu, port: 48451, type: vless, tls: true, packet-encoding: xudp, uuid: e329caa8-5f16-49f9-a8fa-3209ea770fff, servername: dash.cloudflare.com, host: dash.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Y-quwX-gWZUSsVNNns882_lQxOhTPAzHvxb_OsvDs1Q, short-id: 1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇫🇮 Finland — #401", server: 51.250.69.188, port: 8449, type: vless, tls: true, packet-encoding: xudp, uuid: e54819f8-a067-4d50-92b5-17872f355c40, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 DE, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip-meli2.nightgemshop.com:443, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple***🤴***, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f740a3ca-4d39-4f17-b236-8837fb7cf8a3, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 13", server: tun.p2p1.sbs, port: 2019, type: vmess, uuid: 776915e4-6cb7-41e0-8711-89bc6503da7b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -563,9 +563,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
@@ -615,9 +615,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
@@ -667,9 +667,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
@@ -728,9 +728,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
@@ -780,9 +780,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
@@ -832,9 +832,9 @@ proxy-groups:
       - ⚡Telegram - @prrofile_purple***🧑‍🎄***
       - respina24.gdsrguydsrghj.ir:1010
       - ⚡Telegram - @prrofile_purple***🎅***
+      - 81.12.46.79:2087
       - "Telegram: @wiki_tajrobe 12"
       - "🇫🇮 Finland — #401"
-      - 🇩🇪 DE
       - vip-meli2.nightgemshop.com:443
       - ⚡Telegram - @prrofile_purple***🤴***
       - "Telegram: @wiki_tajrobe 13"
