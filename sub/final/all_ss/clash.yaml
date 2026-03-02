@@ -465,133 +465,193 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: 193.29.139.206:8080, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 4a2rfixophdjffa8KVA4Aa, udp: true, tfo: false}
   - {name: 135.125.10.106:10018, server: 135.125.10.106, port: 10018, type: ss, cipher: chacha20-ietf-poly1305, password: 4b4763efefa95114, udp: true, tfo: false}
   - {name: "[17260] - Telegram : @configraygan", server: 135.125.10.106, port: 10018, type: ss, cipher: chacha20-ietf-poly1305, password: 4b4763efefa95114, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 135.125.10.106, port: 10018, type: ss, cipher: chacha20-ietf-poly1305, password: 4b4763efefa95114, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 135.125.10.106, port: 10018, type: ss, cipher: chacha20-ietf-poly1305, password: 4b4763efefa95114, udp: true, tfo: false}
   - {name: 163.171.207.11:19688, server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: "[17209] - Telegram : @configraygan", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 163.171.207.11, port: 19688, type: ss, cipher: chacha20-ietf-poly1305, password: 638bb05eab35adec, udp: true, tfo: false}
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
+  - {name: 163.171.137.76:48436, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: "Telegram: @configraygan 7", server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 163.171.137.76, port: 48436, type: ss, cipher: chacha20-ietf-poly1305, password: 6d0084c6e4502ab7, udp: true, tfo: false}
   - {name: 78.38.246.150:8446, server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
-  - {name: 38.54.59.16:11201, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: "[16961] - Telegram : @configraygan", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: 148.113.139.160:46534, server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
-  - {name: 135.125.245.131:20939, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
-  - {name: 57.130.29.62:11201, server: 57.130.29.62, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 86d7674c25c75e02, udp: true, tfo: false}
-  - {name: 163.171.206.24:44235, server: 163.171.206.24, port: 44235, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: "[16978] - Telegram : @configraygan", server: 163.171.206.24, port: 44235, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 163.171.206.24, port: 44235, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 78.38.246.150, port: 8446, type: ss, cipher: chacha20-ietf-poly1305, password: 6e3e43f4-12b7-42f1-8b93-41a152d5612d, udp: true, tfo: false}
+  - {name: 51.89.117.154:11201, server: 51.89.117.154, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfee1388e960537, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 51.89.117.154, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 9bfee1388e960537, udp: true, tfo: false}
   - {name: 91.106.109.17:41022, server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 8", server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
+  - {name: 217.60.249.112:443, server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5, udp: true, tfo: false}
+  - {name: 119.159.245.24:26736, server: 119.159.245.24, port: 26736, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 119.159.245.24, port: 26736, type: ss, cipher: chacha20-ietf-poly1305, password: 1d1bc54689ed4b75, udp: true, tfo: false}
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "@iphone02016vpn", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 2", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "***🟢***-@SPEEDS_VPN1`", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: NetAccount`, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: proxy_kafee, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
+  - {name: 209.46.102.22:8388, server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 209.46.102.22, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: 1hhrqrokj3ag, udp: true, tfo: false}
+  - {name: 157.185.173.60:46727, server: 157.185.173.60, port: 46727, type: ss, cipher: chacha20-ietf-poly1305, password: 29acd960ab8e3408, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: 157.185.173.60, port: 46727, type: ss, cipher: chacha20-ietf-poly1305, password: 29acd960ab8e3408, udp: true, tfo: false}
+  - {name: 138.124.118.94:8080, server: 138.124.118.94, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 3aySRzT2QVRwS1gPRnmdA-8DJSAXLYBB, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 138.124.118.94, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: 3aySRzT2QVRwS1gPRnmdA-8DJSAXLYBB, udp: true, tfo: false}
+  - {name: 38.54.97.247:28026, server: 38.54.97.247, port: 28026, type: ss, cipher: chacha20-ietf-poly1305, password: 3bb08205cb6c8af0, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 14", server: 38.54.97.247, port: 28026, type: ss, cipher: chacha20-ietf-poly1305, password: 3bb08205cb6c8af0, udp: true, tfo: false}
+  - {name: ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443, server: ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 15", server: ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
+  - {name: 119.59.127.129:990, server: 119.59.127.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 16", server: 119.59.127.129, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 38.60.250.107:990, server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 17", server: 38.60.250.107, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 109.61.39.28:990, server: 109.61.39.28, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 109.61.39.28, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 18", server: 109.61.39.28, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 23.95.76.59:990, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 19", server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 45.154.204.7:990, server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 20", server: 45.154.204.7, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 79.127.200.169:990, server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 21", server: 79.127.200.169, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 23.95.76.59:990 2, server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 22", server: 23.95.76.59, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 203.202.232.78:60299, server: 203.202.232.78, port: 60299, type: ss, cipher: chacha20-ietf-poly1305, password: AVLbEUEtBD59FsRqcNyEib, udp: true, tfo: false}
-  - {name: 31.210.50.196:12422, server: 31.210.50.196, port: 12422, type: ss, cipher: chacha20-ietf-poly1305, password: Oqt9kgyMGBiOAJPG4uZXlv, udp: true, tfo: false}
-  - {name: "[16960] - Telegram : @configraygan", server: 31.210.50.196, port: 12422, type: ss, cipher: chacha20-ietf-poly1305, password: Oqt9kgyMGBiOAJPG4uZXlv, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 31.210.50.196, port: 12422, type: ss, cipher: chacha20-ietf-poly1305, password: Oqt9kgyMGBiOAJPG4uZXlv, udp: true, tfo: false}
-  - {name: 193.29.139.206:8080, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: 108.181.0.177:8388, server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 23", server: 108.181.0.177, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: G5p6ww4o67HB, udp: true, tfo: false}
+  - {name: 193.29.139.206:8080 2, server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
   - {name: "@configraygan", server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 24", server: 193.29.139.206, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: QCXDxuDlTTMD7jtgHUjIoj, udp: true, tfo: false}
+  - {name: 154.46.31.106:443, server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 25", server: 154.46.31.106, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: QFWzCw2uX9B9i6qAYeFBIE, udp: true, tfo: false}
+  - {name: 4.158.0.51:443, server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 26", server: 4.158.0.51, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: admin.c1.webramz.co:443, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@configraygan 2", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`, server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 27", server: admin.c1.webramz.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 5.181.2.73:43248, server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, udp: true, tfo: false}
-  - {name: "[16964] - Telegram : @configraygan", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 5.181.2.73, port: 43248, type: ss, cipher: chacha20-ietf-poly1305, password: WavHeSGFxfvrkkbQd48PrB, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 28", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 29", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: 147.45.178.107:8388, server: 147.45.178.107, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 30", server: 147.45.178.107, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
+  - {name: 194.87.216.140:8388, server: 194.87.216.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 31", server: 194.87.216.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: Wy9VmcWHo9QzTxuYMx-X014nQFSah3WT, udp: true, tfo: false}
+  - {name: 46.246.97.140:53908, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 32", server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
   - {name: 5.188.4.103:11204, server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: "@configraygan 3", server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: "***⚡***Telegram", server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 33", server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 38.54.14.156:11201, server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
   - {name: "[17181] - Telegram : @configraygan", server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
-  - {name: 163.171.181.49:48852, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "[16962] - Telegram : @configraygan", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 34", server: 38.54.14.156, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a94f0b6916f67bdc, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 3", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 21", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: "***🟢***-@SPEEDS_VPN1", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: proxy_kafee`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: NetAccount 2, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: 85.208.104.132:46602, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 35", server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: 85.208.104.132:46602 2, server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe 4", server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 36", server: 85.208.104.132, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
   - {name: hd117-mg-jd.huidu51.com:46622, server: hd117-mg-jd.huidu51.com, port: 46622, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
   - {name: hd117-mg-jd.huidu51.com:46623, server: hd117-mg-jd.huidu51.com, port: 46623, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
   - {name: hd117-xg-jd.huidu51.com:46602, server: hd117-xg-jd.huidu51.com, port: 46602, type: ss, cipher: chacha20-ietf-poly1305, password: b4b78f5d-f4ec-4eae-8f83-9e4ed9e16326, udp: true, tfo: false}
-  - {name: 46.250.241.55:45720, server: 46.250.241.55, port: 45720, type: ss, cipher: chacha20-ietf-poly1305, password: c90d63dc7a6203af, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 22", server: 46.250.241.55, port: 45720, type: ss, cipher: chacha20-ietf-poly1305, password: c90d63dc7a6203af, udp: true, tfo: false}
+  - {name: 163.171.207.11:29461, server: 163.171.207.11, port: 29461, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 37", server: 163.171.207.11, port: 29461, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
+  - {name: 193.29.139.157:8080, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 38", server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: 193.29.139.217:8080, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 39", server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
+  - {name: 154.26.132.38:27882, server: 154.26.132.38, port: 27882, type: ss, cipher: chacha20-ietf-poly1305, password: ded718fcb2bb17b7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 40", server: 154.26.132.38, port: 27882, type: ss, cipher: chacha20-ietf-poly1305, password: ded718fcb2bb17b7, udp: true, tfo: false}
+  - {name: 154.26.132.38:27884, server: 154.26.132.38, port: 27884, type: ss, cipher: chacha20-ietf-poly1305, password: ded718fcb2bb17b7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 41", server: 154.26.132.38, port: 27884, type: ss, cipher: chacha20-ietf-poly1305, password: ded718fcb2bb17b7, udp: true, tfo: false}
+  - {name: 163.171.137.76:47393, server: 163.171.137.76, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: eafad96826c79ddd, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 42", server: 163.171.137.76, port: 47393, type: ss, cipher: chacha20-ietf-poly1305, password: eafad96826c79ddd, udp: true, tfo: false}
+  - {name: 163.171.137.76:47394, server: 163.171.137.76, port: 47394, type: ss, cipher: chacha20-ietf-poly1305, password: eafad96826c79ddd, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 43", server: 163.171.137.76, port: 47394, type: ss, cipher: chacha20-ietf-poly1305, password: eafad96826c79ddd, udp: true, tfo: false}
+  - {name: 119.159.245.24:29700, server: 119.159.245.24, port: 29700, type: ss, cipher: chacha20-ietf-poly1305, password: fec4e6f9e954aead, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b`", server: 119.159.245.24, port: 29700, type: ss, cipher: chacha20-ietf-poly1305, password: fec4e6f9e954aead, udp: true, tfo: false}
   - {name: 212.192.14.226:41968, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
-  - {name: 89.110.70.175:1080, server: 89.110.70.175, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: gOR0l6osnBlm4r_bmk9bOw, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 23", server: 89.110.70.175, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: gOR0l6osnBlm4r_bmk9bOw, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 46.249.109.128:56594, server: 46.249.109.128, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: jR5Wg32XzEgCXk4MPCgvd1G1Ts8WHBLsXMUaqMa5DUXMuqMmdZgCbMipXDhoAmj73qA9oY85zXK35L5m631Tn7in2p3KLbWF, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 44", server: 46.249.109.128, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: jR5Wg32XzEgCXk4MPCgvd1G1Ts8WHBLsXMUaqMa5DUXMuqMmdZgCbMipXDhoAmj73qA9oY85zXK35L5m631Tn7in2p3KLbWF, udp: true, tfo: false}
+  - {name: 82.38.31.189:8080, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 45", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 82.38.31.189:8080 2, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 46", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 195.93.253.240:14130, server: 195.93.253.240, port: 14130, type: ss, cipher: chacha20-ietf-poly1305, password: lPUORlzWO34p128hso3Abd, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 194.59.183.134:46114, server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 47", server: 194.59.183.134, port: 46114, type: ss, cipher: chacha20-ietf-poly1305, password: lejSRyqa033OEPmEQsvRsl, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "[17166] - Telegram : @configraygan", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 24", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.69:8080, server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 25", server: 82.38.31.69, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 48", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.66:8080, server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 26", server: 82.38.31.66, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: dmitmalibu.szxcn.net:18829, server: dmitmalibu.szxcn.net, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 27", server: dmitmalibu.szxcn.net, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: 141.98.101.182:443, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 28", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 79.127.227.53:989, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
-  - {name: 154.12.242.150:443, server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 154.12.242.150:443 2, server: 154.12.242.150, port: 443, type: ss, cipher: aes-256-gcm, password: 7vZO55fXgXAJXa2F, udp: true, tfo: false}
-  - {name: 185.111.156.33:80, server: 185.111.156.33, port: 80, type: ss, cipher: aes-256-gcm, password: 5mCH4624QflO1cFR, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 29", server: 185.111.156.33, port: 80, type: ss, cipher: aes-256-gcm, password: 5mCH4624QflO1cFR, udp: true, tfo: false}
+  - {name: download.riferoser.icu:56594, server: download.riferoser.icu, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 49", server: download.riferoser.icu, port: 56594, type: ss, cipher: chacha20-ietf-poly1305, password: q2jToxsx4vTevqrFiLGuwRx96SXM3C96id1MWpnSECHq3MaTWnEV76aN5PYEigRfqf7rxAcuAMWUzYNxrYRG6QhMcYw5QnqL, udp: true, tfo: false}
+  - {name: 141.98.101.182:443, server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 50", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks7, udp: true, tfo: false}
+  - {name: 156.146.38.169:443, server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 51", server: 156.146.38.169, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
+  - {name: 217.30.10.18:9043, server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 52", server: 217.30.10.18, port: 9043, type: ss, cipher: aes-256-cfb, password: HSZuyJQcWe8dxNdF, udp: true, tfo: false}
+  - {name: 217.30.10.18:9046, server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 53", server: 217.30.10.18, port: 9046, type: ss, cipher: aes-256-cfb, password: NvS8N4Vf8qAGPSCL, udp: true, tfo: false}
+  - {name: 190.103.176.32:989, server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 54", server: 190.103.176.32, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 147.78.1.230:989, server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 55", server: 147.78.1.230, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 51.15.23.63:989, server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 56", server: 51.15.23.63, port: 989, type: ss, cipher: aes-256-cfb, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: 217.30.10.18:9008, server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 57", server: 217.30.10.18, port: 9008, type: ss, cipher: aes-256-cfb, password: y9VURyNzJWNRYEGQ, udp: true, tfo: false}
+  - {name: tak9.khabaronlinestar.site:8083, server: tak9.khabaronlinestar.site, port: 8083, type: ss, cipher: aes-256-gcm, password: "�ֹ}�", udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 58", server: tak9.khabaronlinestar.site, port: 8083, type: ss, cipher: aes-256-gcm, password: "�ֹ}�", udp: true, tfo: false}
+  - {name: 18.159.99.186:22224, server: 18.159.99.186, port: 22224, type: ss, cipher: aes-256-gcm, password: �^, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 59", server: 18.159.99.186, port: 22224, type: ss, cipher: aes-256-gcm, password: �^, udp: true, tfo: false}
+  - {name: 167.17.179.197:60129, server: 167.17.179.197, port: 60129, type: ss, cipher: aes-256-gcm, password: 0690659746980c46, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 60", server: 167.17.179.197, port: 60129, type: ss, cipher: aes-256-gcm, password: 0690659746980c46, udp: true, tfo: false}
+  - {name: 194.87.68.7:60129, server: 194.87.68.7, port: 60129, type: ss, cipher: aes-256-gcm, password: 83acf69edb4e5453, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 61", server: 194.87.68.7, port: 60129, type: ss, cipher: aes-256-gcm, password: 83acf69edb4e5453, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 30", server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 62", server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 15.204.247.49:12000, server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "[17254] - Telegram : @configraygan", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 31", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 63", server: 15.204.247.49, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: 46.17.42.45:60129, server: 46.17.42.45, port: 60129, type: ss, cipher: aes-256-gcm, password: 9ca2803c16de72cd, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 64", server: 46.17.42.45, port: 60129, type: ss, cipher: aes-256-gcm, password: 9ca2803c16de72cd, udp: true, tfo: false}
+  - {name: 2.58.81.221:80, server: 2.58.81.221, port: 80, type: ss, cipher: aes-256-gcm, password: 9dQS3geeylyrRth9, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 65", server: 2.58.81.221, port: 80, type: ss, cipher: aes-256-gcm, password: 9dQS3geeylyrRth9, udp: true, tfo: false}
+  - {name: 195.58.49.100:60129, server: 195.58.49.100, port: 60129, type: ss, cipher: aes-256-gcm, password: 9f3d1a6d31468599, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 66", server: 195.58.49.100, port: 60129, type: ss, cipher: aes-256-gcm, password: 9f3d1a6d31468599, udp: true, tfo: false}
   - {name: 38.180.197.41:8080, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: 38.180.197.41:8080 2, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 32", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: 144.126.145.77:80, server: 144.126.145.77, port: 80, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 33", server: 144.126.145.77, port: 80, type: ss, cipher: aes-256-gcm, password: QzM0NfuMNngbVnZK, udp: true, tfo: false}
-  - {name: 213.202.208.199:7001, server: 213.202.208.199, port: 7001, type: ss, cipher: aes-256-gcm, password: RexnBgU7EV5ADxG, udp: true, tfo: false}
   - {name: 51.79.178.63:3306, server: 51.79.178.63, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 34", server: 51.79.178.63, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
-  - {name: 79.127.227.53:989 2, server: 79.127.227.53, port: 989, type: ss, cipher: aes-256-gcm, password: f8f7aCzcPKbsF8p3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 67", server: 51.79.178.63, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC, udp: true, tfo: false}
+  - {name: 45.140.169.225:60129, server: 45.140.169.225, port: 60129, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 68", server: 45.140.169.225, port: 60129, type: ss, cipher: aes-256-gcm, password: c5fcdf7829112cb4, udp: true, tfo: false}
   - {name: 209.126.5.209:443, server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
   - {name: "[17262] - Telegram : @configraygan", server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 35", server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 69", server: 209.126.5.209, port: 443, type: ss, cipher: aes-256-gcm, password: kEVKj1xvgzeEn8AV, udp: true, tfo: false}
+  - {name: 38.180.2.141:5499, server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 70", server: 38.180.2.141, port: 5499, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV, udp: true, tfo: false}
+  - {name: 154.223.16.41:4444, server: 154.223.16.41, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 71", server: 154.223.16.41, port: 4444, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM, udp: true, tfo: false}
   - {name: 146.70.61.37:8080, server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 36", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 72", server: 146.70.61.37, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -608,399 +668,579 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1016,399 +1256,579 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
+      - 193.29.139.206:8080
+      - "***✅***@AR14N24b"
       - 135.125.10.106:10018
       - "[17260] - Telegram : @configraygan"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
       - 163.171.207.11:19688
       - "[17209] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 2"
-      - 57.129.95.45:11201
       - "***✅***@AR14N24b 3"
-      - "Telegram: @wiki_tajrobe"
-      - 78.38.246.150:8446
+      - 57.129.95.45:11201
       - "***✅***@AR14N24b 4"
-      - 38.54.59.16:11201
-      - "[16961] - Telegram : @configraygan"
+      - 163.171.137.76:48436
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @configraygan 7"
       - "***✅***@AR14N24b 5"
-      - 148.113.139.160:46534
+      - 78.38.246.150:8446
       - "***✅***@AR14N24b 6"
-      - 135.125.245.131:20939
-      - 57.130.29.62:11201
-      - 163.171.206.24:44235
-      - "[16978] - Telegram : @configraygan"
+      - 51.89.117.154:11201
       - "***✅***@AR14N24b 7"
       - 91.106.109.17:41022
       - "***✅***@AR14N24b 8"
+      - 217.60.249.112:443
+      - "***✅***@AR14N24b 9"
+      - 119.159.245.24:26736
+      - "***✅***@AR14N24b 10"
       - admin.c1.havij.co:443
       - "@iphone02016vpn"
       - "Telegram: @wiki_tajrobe 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
       - "***🟢***-@SPEEDS_VPN1`"
       - NetAccount`
       - proxy_kafee
-      - 193.135.174.135:990
-      - 109.61.39.28:990
-      - "***✅***@AR14N24b 9"
-      - 23.95.76.59:990
-      - "***✅***@AR14N24b 10"
-      - 45.154.204.7:990
+      - 209.46.102.22:8388
       - "***✅***@AR14N24b 11"
-      - 79.127.200.169:990
+      - 157.185.173.60:46727
       - "***✅***@AR14N24b 12"
-      - 23.95.76.59:990 2
+      - 138.124.118.94:8080
       - "***✅***@AR14N24b 13"
-      - 203.202.232.78:60299
-      - 31.210.50.196:12422
-      - "[16960] - Telegram : @configraygan"
+      - 38.54.97.247:28026
       - "***✅***@AR14N24b 14"
-      - 193.29.139.206:8080
-      - "@configraygan"
+      - ak1857.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443
       - "***✅***@AR14N24b 15"
+      - 119.59.127.129:990
+      - "***✅***@AR14N24b 16"
+      - 193.135.174.135:990
+      - 38.60.250.107:990
+      - "***✅***@AR14N24b 17"
+      - 109.61.39.28:990
+      - "***✅***@AR14N24b 18"
+      - 23.95.76.59:990
+      - "***✅***@AR14N24b 19"
+      - 45.154.204.7:990
+      - "***✅***@AR14N24b 20"
+      - 79.127.200.169:990
+      - "***✅***@AR14N24b 21"
+      - 23.95.76.59:990 2
+      - "***✅***@AR14N24b 22"
+      - 203.202.232.78:60299
+      - 108.181.0.177:8388
+      - "***✅***@AR14N24b 23"
+      - 193.29.139.206:8080 2
+      - "@configraygan"
+      - "***✅***@AR14N24b 24"
+      - 154.46.31.106:443
+      - "***✅***@AR14N24b 25"
+      - 4.158.0.51:443
+      - "***✅***@AR14N24b 26"
       - admin.c1.webramz.co:443
       - "@configraygan 2"
-      - "***✅***@AR14N24b 16"
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
+      - "***✅***@AR14N24b 27"
       - series-a1.samanehha.co:443
-      - "***✅***@AR14N24b 17"
-      - 5.181.2.73:43248
-      - "[16964] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 18"
-      - NetAccount` 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
+      - "***✅***@AR14N24b 28"
+      - series-a2.samanehha.co:443
+      - "***✅***@AR14N24b 29"
+      - 147.45.178.107:8388
+      - "***✅***@AR14N24b 30"
+      - 194.87.216.140:8388
+      - "***✅***@AR14N24b 31"
+      - 46.246.97.140:53908
+      - "***✅***@AR14N24b 32"
       - 5.188.4.103:11204
       - "@configraygan 3"
       - "***⚡***Telegram"
-      - "***✅***@AR14N24b 19"
+      - "***✅***@AR14N24b 33"
       - 38.54.14.156:11201
       - "[17181] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 20"
-      - 163.171.181.49:48852
-      - "[16962] - Telegram : @configraygan"
+      - "***✅***@AR14N24b 34"
       - "Telegram: @wiki_tajrobe 3"
-      - "***✅***@AR14N24b 21"
       - "***🟢***-@SPEEDS_VPN1"
+      - NetAccount` 2
       - NetAccount` 3
-      - NetAccount` 4
       - proxy_kafee`
-      - NetAccount 2
+      - 85.208.104.132:46602
+      - "***✅***@AR14N24b 35"
+      - 85.208.104.132:46602 2
       - "Telegram: @wiki_tajrobe 4"
+      - "***✅***@AR14N24b 36"
       - hd117-mg-jd.huidu51.com:46622
       - hd117-mg-jd.huidu51.com:46623
       - hd117-xg-jd.huidu51.com:46602
-      - 46.250.241.55:45720
-      - "***✅***@AR14N24b 22"
+      - 163.171.207.11:29461
+      - "***✅***@AR14N24b 37"
+      - 193.29.139.157:8080
+      - "***✅***@AR14N24b 38"
+      - 193.29.139.217:8080
+      - "***✅***@AR14N24b 39"
+      - 154.26.132.38:27882
+      - "***✅***@AR14N24b 40"
+      - 154.26.132.38:27884
+      - "***✅***@AR14N24b 41"
+      - 163.171.137.76:47393
+      - "***✅***@AR14N24b 42"
+      - 163.171.137.76:47394
+      - "***✅***@AR14N24b 43"
+      - 119.159.245.24:29700
+      - "***✅***@AR14N24b`"
       - 212.192.14.226:41968
-      - 89.110.70.175:1080
-      - "***✅***@AR14N24b 23"
-      - NetAccount` 5
+      - 46.249.109.128:56594
+      - "***✅***@AR14N24b 44"
+      - 82.38.31.189:8080
+      - "***✅***@AR14N24b 45"
+      - 82.38.31.189:8080 2
+      - "***✅***@AR14N24b 46"
       - 195.93.253.240:14130
-      - NetAccount` 6
-      - NetAccount` 7
-      - NetAccount` 8
-      - NetAccount` 9
+      - 194.59.183.134:46114
+      - "***✅***@AR14N24b 47"
+      - NetAccount` 4
       - 82.38.31.62:8080
       - "[17166] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 24"
-      - 82.38.31.69:8080
-      - "***✅***@AR14N24b 25"
-      - NetAccount` 10
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
+      - "***✅***@AR14N24b 48"
       - 82.38.31.66:8080
-      - "***✅***@AR14N24b 26"
-      - dmitmalibu.szxcn.net:18829
-      - "***✅***@AR14N24b 27"
+      - download.riferoser.icu:56594
+      - "***✅***@AR14N24b 49"
       - 141.98.101.182:443
-      - "***✅***@AR14N24b 28"
-      - 79.127.227.53:989
-      - 154.12.242.150:443
-      - 154.12.242.150:443 2
-      - 185.111.156.33:80
-      - "***✅***@AR14N24b 29"
+      - "***✅***@AR14N24b 50"
+      - 156.146.38.169:443
+      - "***✅***@AR14N24b 51"
+      - 217.30.10.18:9043
+      - "***✅***@AR14N24b 52"
+      - 217.30.10.18:9046
+      - "***✅***@AR14N24b 53"
+      - 190.103.176.32:989
+      - "***✅***@AR14N24b 54"
+      - 147.78.1.230:989
+      - "***✅***@AR14N24b 55"
+      - 51.15.23.63:989
+      - "***✅***@AR14N24b 56"
+      - 217.30.10.18:9008
+      - "***✅***@AR14N24b 57"
+      - tak9.khabaronlinestar.site:8083
+      - "***✅***@AR14N24b 58"
+      - 18.159.99.186:22224
+      - "***✅***@AR14N24b 59"
+      - 167.17.179.197:60129
+      - "***✅***@AR14N24b 60"
+      - 194.87.68.7:60129
+      - "***✅***@AR14N24b 61"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
-      - "***✅***@AR14N24b 30"
+      - "***✅***@AR14N24b 62"
       - 15.204.247.49:12000
       - "[17254] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 31"
+      - "***✅***@AR14N24b 63"
       - 57.128.214.100:12000
+      - 46.17.42.45:60129
+      - "***✅***@AR14N24b 64"
+      - 2.58.81.221:80
+      - "***✅***@AR14N24b 65"
+      - 195.58.49.100:60129
+      - "***✅***@AR14N24b 66"
       - 38.180.197.41:8080
-      - 38.180.197.41:8080 2
-      - "***✅***@AR14N24b 32"
-      - 144.126.145.77:80
-      - "***✅***@AR14N24b 33"
-      - 213.202.208.199:7001
       - 51.79.178.63:3306
-      - "***✅***@AR14N24b 34"
-      - 79.127.227.53:989 2
+      - "***✅***@AR14N24b 67"
+      - 45.140.169.225:60129
+      - "***✅***@AR14N24b 68"
       - 209.126.5.209:443
       - "[17262] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 35"
+      - "***✅***@AR14N24b 69"
+      - 38.180.2.141:5499
+      - "***✅***@AR14N24b 70"
+      - 154.223.16.41:4444
+      - "***✅***@AR14N24b 71"
       - 146.70.61.37:8080
-      - "***✅***@AR14N24b 36"
+      - "***✅***@AR14N24b 72"
   - name: دانلود منیجر 📥
     type: select
     proxies:

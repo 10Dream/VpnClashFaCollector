@@ -465,33 +465,20 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount`, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 82.38.31.176, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 193.29.139.141, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 82.38.31.82, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 042bbe0e-c755-4b6b-8b75-707de798a790, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: de-1-tun.irantehrankhabar.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: de-3-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: de-6-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: tak8.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 08426869-4fe0-4f44-baf0-1273acd31f08, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: v2arm.topacp.store, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 1445513e-3933-475a-a917-85406cab3ccf, host: v2arm.topacp.store, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 13, server: amin2.atlasz.ir, port: 446, type: vless, tls: true, packet-encoding: xudp, uuid: 1eb573db-365b-34f2-e5e1-43ced8643353, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 14, server: g2-de2-hz.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 2471c5fc-8a93-434b-8caf-177ff8849936, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 15, server: de-4-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 16, server: de-5-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 17, server: de-6-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 18, server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 19, server: 185.143.232.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8db1cdac-dc81-46f5-82c8-27cba56a62b4, servername: 1.1.1.1.hitgram.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ed, headers: {Host: 1.1.1.1.hitgram.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 20, server: fn2-ab-dev.cdnpark.net, port: 310, type: vless, tls: true, packet-encoding: xudp, uuid: a63b6b63-464c-41b6-8f80-9a717db46f8c, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 21, server: sec.nuumbshoop.xyz, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cc70e6e0-ab83-4e10-e685-116e9930b90d, servername: sec.nuumbshoop.xyz, host: sec.nuumbshoop.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 22, server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: d4d6d359-939e-4e26-b74b-d5bfcfccca0e, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 23, server: tak9.khabaronlinestar.site, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: e8211fe8-059b-46e7-8f52-e5c61da5fee2, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 24, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f5ecae54-e502-4504-a5f6-018002dad489, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 25, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f5ecae54-e502-4504-a5f6-018002dad489, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇹🇷 Turkey 1 | ⅓, server: tr1.iranishops.com, port: 443, type: vmess, uuid: ccd4fb25-87d3-5f0a-3bbe-d1067f2c8c9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Netherland 1 | ⅓, server: nl1.iranishops.com, port: 443, type: vmess, uuid: ccd4fb25-87d3-5f0a-3bbe-d1067f2c8c9e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 042bbe0e-c755-4b6b-8b75-707de798a790, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: amin2.atlasz.ir, port: 446, type: vless, tls: true, packet-encoding: xudp, uuid: 1eb573db-365b-34f2-e5e1-43ced8643353, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: de-4-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: de-5-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: de-6-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 533d0948-516d-44f9-8240-0b64904d33ee, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f, servername: tELEGRAM.prOXIe2-TEL.wOrKErS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: tELEGRAM.prOXIe2-TEL.wOrKErS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: turin.mobileturin.com, port: 11783, type: vless, tls: true, packet-encoding: xudp, uuid: 6fc4c171-c2db-479b-e3f1-92bd566a1ee4, host: turin.mobileturin.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: 185.143.232.201, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8db1cdac-dc81-46f5-82c8-27cba56a62b4, servername: 1.1.1.1.hitgram.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /ed, headers: {Host: 1.1.1.1.hitgram.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: fn2-ab-dev.cdnpark.net, port: 310, type: vless, tls: true, packet-encoding: xudp, uuid: a63b6b63-464c-41b6-8f80-9a717db46f8c, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: sec.nuumbshoop.xyz, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: cc70e6e0-ab83-4e10-e685-116e9930b90d, servername: sec.nuumbshoop.xyz, host: sec.nuumbshoop.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 12, server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: d4d6d359-939e-4e26-b74b-d5bfcfccca0e, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 13, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f5ecae54-e502-4504-a5f6-018002dad489, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 14, server: 81.12.80.72, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f5ecae54-e502-4504-a5f6-018002dad489, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -522,19 +509,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -555,19 +529,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -588,19 +549,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -630,19 +578,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -663,19 +598,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -696,19 +618,6 @@ proxy-groups:
       - NetAccount` 12
       - NetAccount` 13
       - NetAccount` 14
-      - NetAccount` 15
-      - NetAccount` 16
-      - NetAccount` 17
-      - NetAccount` 18
-      - NetAccount` 19
-      - NetAccount` 20
-      - NetAccount` 21
-      - NetAccount` 22
-      - NetAccount` 23
-      - NetAccount` 24
-      - NetAccount` 25
-      - 🇹🇷 Turkey 1 | ⅓
-      - Netherland 1 | ⅓
   - name: دانلود منیجر 📥
     type: select
     proxies:

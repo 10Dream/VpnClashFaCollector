@@ -491,8 +491,7 @@ proxies:
   - {name: 52.29.103.93:22222, server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.29.35.131:22222, server: 52.29.35.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.188.141.67:443, server: 5.188.141.67, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 080556c0-0117-07d0-b1d9-3708fa8ab8c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.228.167:443, server: 89.208.228.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 080556c0-0117-0bb8-b1d9-3708fa8ab8c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.228.167:443 2, server: 89.208.228.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17c4e377-ea15-0bb8-98b2-3e348c9ff5d9, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 89.208.228.167:443, server: 89.208.228.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17c4e377-ea15-0bb8-98b2-3e348c9ff5d9, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fi1.mahboob.top:2086, server: fi1.mahboob.top, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 184aae9f-795f-a18c-ff65-177b90e4c7f0, host: fi1.mahboob.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 89.125.48.112:443, server: 89.125.48.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.69.188:8449, server: 51.250.69.188, port: 8449, type: vless, tls: true, packet-encoding: xudp, uuid: 34adb595-1546-4d89-a3f2-25c314291ebf, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -500,7 +499,7 @@ proxies:
   - {name: 45.90.99.242:8443, server: 45.90.99.242, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 39ad7d26-09a1-41c1-9a30-d17dfd28de2d, servername: aws.amazon.com, host: aws.amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: LJkDgEjaOEpTTHz4NDhDfE-NUqHVrSIx_OWUekbCqTY, short-id: 22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.224.33:443, server: 178.154.224.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.154.224.33:443 2, server: 178.154.224.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.228.167:443 3, server: 89.208.228.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 416d27c8-f1f6-0bb8-978d-31332344c8da, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 84.201.128.76:443, server: 84.201.128.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: smartcaptcha.yandexcloud.net, host: smartcaptcha.yandexcloud.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 66kZLshj9fxAIQA7NsABohNwgiOcY71enc6as_Frqw0, short-id: 3c1523da43287ec4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 hk.tfree.top:10004, server: hk.tfree.top, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: 48b36b6a-eaa6-4843-9231-0bb8b38b5da5, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Rp0axdMMyjBY3su8yFECX1rMCcg90y0HcCHalmxs73Y, short-id: 494cf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 139.59.3.70:24725, server: 139.59.3.70, port: 24725, type: vless, tls: true, packet-encoding: xudp, uuid: 48ddd7e3-5d31-46ab-9153-16c0e4d92adc, servername: dash.cloudflare.com, host: dash.cloudflare.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.ptnk.sry-vpn.com:80, server: www.ptnk.sry-vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4dc817f7-2595-4330-a1b0-e35e7c6b803a, network: ws, ws-opts: {path: /vless, headers: {Host: www.ptnk.sry-vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -524,8 +523,6 @@ proxies:
   - {name: 93.94.51.19:56864, server: 93.94.51.19, port: 56864, type: vless, tls: true, packet-encoding: xudp, uuid: 87580984-c2ef-4f44-9c7e-0b216f99aa87, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: AIt19ZFk_JxCvW7OOwUn4mhE_1alZJlNj-xnQOpPZCI, short-id: 2e3c82922ef98049}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.64.246:444, server: 51.250.64.246, port: 444, type: vless, tls: true, packet-encoding: xudp, uuid: 89c8f8a0-a98c-4091-b91b-f57d228afd29, servername: 5post-gate.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 7x07TcG4qOb1iSDB8KfdPdu9kZSlgQNzoEH0D1CpjGQ, short-id: eeaaae5d951ddea3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.95.233.85:61873, server: 45.95.233.85, port: 61873, type: vless, tls: true, packet-encoding: xudp, uuid: 8b8f4dfb-cd48-4dab-bb75-b304971176cd, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE, short-id: 34d8e80d8fa40501}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.120.189.145:443, server: 109.120.189.145, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e0d168b-f984-07d0-865f-88b9a46fb48f, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.33.223:52006, server: 37.139.33.223, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 8e0d168b-f984-07d0-865f-88b9a46fb48f, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.182.195.78:8443, server: 62.182.195.78, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.163.210.159:80, server: 95.163.210.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a001c9c4-ece2-4dc1-9658-cbad90fcd2e0, servername: max.ru, host: max.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.180.30:443, server: 109.120.180.30, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a7b1b295-89c0-4794-bc3b-13af6cf63312, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: htJuCzotUMp7MYP7ZEWKWT1iEuAbr5cDKoX32Ego6WE, short-id: edbc04c389}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -554,13 +551,10 @@ proxies:
   - {name: 203.188.180.51:23335, server: 203.188.180.51, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4.cdnconn.com:23335, server: 4.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.94.51.8:13380, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.250.0.147:443, server: 51.250.0.147, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg, short-id: 6354585c37827955}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.120.189.160:443, server: 109.120.189.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f27f5ad9-c8e7-07d0-a43b-4fce5aabe734, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.139.33.125:443, server: 37.139.33.125, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f27f5ad9-c8e7-0bb8-a43b-4fce5aabe734, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 89.208.228.167:443 4, server: 89.208.228.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f27f5ad9-c8e7-0bb8-a43b-4fce5aabe734, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 91.184.250.227:443, server: 91.184.250.227, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff9035ba-4052-4fa5-8ccf-f9a6ca57407d, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: avkEIU1rwN4LGd4t5DHRQwm3GzzDP723R8mUOwxNCE4, short-id: d14f7150911e712d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.4.136:8081, server: 144.31.4.136, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 51.158.151.24, port: 20104, type: vmess, uuid: 40e306a6-7cab-40ac-a085-a961895eb11b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
   - {name: "🇫🇷 [openproxylist.com] vmess-FR", server: 94.232.247.164, port: 44030, type: vmess, uuid: 22c396a3-95da-4be8-beef-834d17d75784, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -604,7 +598,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -612,7 +605,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -636,8 +629,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -666,13 +657,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -706,7 +694,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -714,7 +701,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -738,8 +725,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -768,13 +753,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -808,7 +790,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -816,7 +797,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -840,8 +821,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -870,13 +849,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -919,7 +895,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -927,7 +902,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -951,8 +926,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -981,13 +954,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1021,7 +991,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -1029,7 +998,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -1053,8 +1022,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -1083,13 +1050,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1123,7 +1087,6 @@ proxy-groups:
       - 52.29.35.131:22222
       - 5.188.141.67:443
       - 89.208.228.167:443
-      - 89.208.228.167:443 2
       - fi1.mahboob.top:2086
       - 89.125.48.112:443
       - 51.250.69.188:8449
@@ -1131,7 +1094,7 @@ proxy-groups:
       - 45.90.99.242:8443
       - 178.154.224.33:443
       - 178.154.224.33:443 2
-      - 89.208.228.167:443 3
+      - 84.201.128.76:443
       - 🇭🇰 hk.tfree.top:10004
       - 139.59.3.70:24725
       - www.ptnk.sry-vpn.com:80
@@ -1155,8 +1118,6 @@ proxy-groups:
       - 93.94.51.19:56864
       - 51.250.64.246:444
       - 45.95.233.85:61873
-      - 109.120.189.145:443
-      - 37.139.33.223:52006
       - 62.182.195.78:8443
       - 95.163.210.159:80
       - 109.120.180.30:443
@@ -1185,13 +1146,10 @@ proxy-groups:
       - 203.188.180.51:23335
       - 4.cdnconn.com:23335
       - 93.94.51.8:13380
-      - 51.250.0.147:443
-      - 109.120.189.160:443
-      - 37.139.33.125:443
-      - 89.208.228.167:443 4
-      - 91.184.250.227:443
+      - 144.31.4.136:8081
       - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇫🇷 [openproxylist.com] vmess-FR
+      - 🇺🇸 [openproxylist.com] vmess-US
   - name: دانلود منیجر 📥
     type: select
     proxies:

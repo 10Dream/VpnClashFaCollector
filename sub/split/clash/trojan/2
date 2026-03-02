@@ -465,7 +465,18 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 51.45.25.158, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.29.103.93:22222, server: 52.29.103.93, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.29.35.131:22222, server: 52.29.35.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22b.net:2087, server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
+  - {name: 22b.net:2087 2, server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 22b.net, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%252F%253FBIA_TELEGRAM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529%2520TM%2520%2528%2540AZARBAYJAB1%2529", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
+  - {name: 80.173.231.254:12420, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 usa.visa.com:443, server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: usa.visa.com, port: 443, type: trojan, password: zWFjJENcljZm, sni: vahidqaz-7o61u7.vahidqaz.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: vahidqaz-7o61u7.vahidqaz.workers.dev}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +494,17 @@ proxy-groups:
     type: select
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +512,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +530,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +557,17 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +575,17 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +593,17 @@ proxy-groups:
     interval: 600
     proxies:
       - "***✅***@AR14N24b"
+      - 52.29.103.93:22222
+      - 52.29.35.131:22222
+      - 22b.net:2087
+      - "***✅***@AR14N24b 2"
+      - 22b.net:2087 2
+      - "***✅***@AR14N24b 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - 80.173.231.254:12420
+      - "***✅***@AR14N24b 4"
+      - 🇺🇸 usa.visa.com:443
+      - "***✅***@AR14N24b 5"
   - name: دانلود منیجر 📥
     type: select
     proxies:

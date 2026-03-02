@@ -465,6 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 75.127.13.83:47974, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13@oneclickvpnkeys, server: yapc-1.adamhayward.co.uk, port: 36400, type: hysteria2, ports: 36400, password: Yet-Another-Public-Config-1, obfs: salamander, obfs-password: Yet-Another-Public-Config-1, sni: YAPC-1.afshin.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94@oneclickvpnkeys, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
@@ -486,6 +487,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
@@ -497,6 +499,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
@@ -508,6 +511,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
@@ -528,6 +532,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
@@ -539,6 +544,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
@@ -550,6 +556,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 75.127.13.83:47974
       - 13@oneclickvpnkeys
       - 94@oneclickvpnkeys
       - 5.175.249.174:35000
