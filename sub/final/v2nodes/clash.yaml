@@ -471,25 +471,29 @@ proxies:
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 103.27.157.79:2053, server: 103.27.157.79, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 423bccc9c13fb509}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 140.248.165.204:80, server: 140.248.165.204, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 10f11182-a46e-42fc-9fec-f81baa39fa3a, network: ws, ws-opts: {path: /containers/fi, headers: {Host: wellcome-losangles.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: brenna.ns.cloudflare.com:443, server: brenna.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, servername: terazhediii.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhediii.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.84.113.61:443, server: 91.84.113.61, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 30c04389-bbcb-431f-9d47-a8ad24406bd4, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: eQXsYV276NoiN9SDwuloNrJkX-NU2tDtkMK6ntKQwlg, short-id: 701775cae5f3a793}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.52.166:443, server: 172.64.52.166, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 212.233.92.193:443, server: 212.233.92.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 66bb28f3-6d53-4e48-a8ee-15832815c359, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5dhqQP68hzsZN7lKNcZQLcDLMZ8PRwpE70pHyUr_sRs, short-id: 2c01bea1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: va27.bestservern11etwork.ir:2096, server: va27.bestservern11etwork.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6cd0ffa7-0fb6-4036-bc94-019727b5924f, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 3, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dd.openaccessnode.com:50 2, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65.109.208.248:21235, server: 65.109.208.248, port: 21235, type: vless, tls: true, packet-encoding: xudp, uuid: 7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.133.88.238:61809, server: 195.133.88.238, port: 61809, type: vless, tls: true, packet-encoding: xudp, uuid: 899251ca-be66-4d21-84d8-bd7fbf10150b, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI, short-id: 741a96cc25132fe3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: norman.ns.cloudflare.com:443, server: norman.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94daa8ad-75ed-4dbf-a6de-d05036d98df5, servername: vangoghhh.info, network: ws, ws-opts: {path: /tixvuws, headers: {Host: vangoghhh.info}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.37.75.187:443, server: 54.37.75.187, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a0b067ac-162d-4237-956d-10b8b471d3f5, servername: www.speedtest.net, host: www.speedtest.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DHsthrDRMCGcOyJd4xTce_4CCSAJZGwxCdfNrkB_Pgs, short-id: 479826bdfc3eb86e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: shop.yorkvilleu.twc1.net:443, server: shop.yorkvilleu.twc1.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a2e81889-1663-478a-a445-a9194f52b411, servername: "google.com,www.google.com", host: "google.com,www.google.com", path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jcBRwKNJc7tgOQFOanFTdLUMAs1vIS01dF_9LSq-gx0, short-id: 0e02e3bf}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ss.02020.sbs:8443, server: ss.02020.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.96.81:443, server: 72.56.96.81, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c50da5a1-e5eb-5ea5-ad5a-69e6c134a601, servername: apple.com, host: apple.com, path: /, reality-opts: {public-key: sUPI4-Pa9wBUiiVO8RP1AYyDqU46uKTi0S-GWWbU2Ts, short-id: ffffffffff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vb05.homianco.ir:2096, server: vb05.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.4.136:8081, server: 144.31.4.136, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.241.193.60:443, server: 185.241.193.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f23b2b7e-c876-4f7f-bca5-20a4f57c3864, servername: nl.reality.tv123.ru, host: nl.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-ID", server: 38.55.193.207, port: 8443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -512,21 +516,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
@@ -543,21 +551,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
@@ -574,21 +586,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
@@ -614,21 +630,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
@@ -645,21 +665,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
@@ -676,21 +700,25 @@ proxy-groups:
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 103.27.157.79:2053
+      - 140.248.165.204:80
+      - brenna.ns.cloudflare.com:443
       - 91.84.113.61:443
       - 172.64.52.166:443
+      - 212.233.92.193:443
       - va27.bestservern11etwork.ir:2096
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
       - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
+      - dd.openaccessnode.com:50 2
       - 65.109.208.248:21235
+      - 195.133.88.238:61809
       - norman.ns.cloudflare.com:443
       - 54.37.75.187:443
       - shop.yorkvilleu.twc1.net:443
       - ss.02020.sbs:8443
       - 72.56.96.81:443
       - vb05.homianco.ir:2096
-      - 144.31.4.136:8081
       - 185.241.193.60:443
       - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US

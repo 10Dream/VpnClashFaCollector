@@ -475,7 +475,6 @@ proxies:
   - {name: 2|10 gig @DarcProxy, server: porttt2.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3|10 gig @DarcProxy, server: porttt3.webchipro2.ir, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: porttt3.webchipro2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4|10 gig @DarcProxy`, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1, server: IP2.xQFire.iR, port: 219, type: vless, tls: true, packet-encoding: xudp, uuid: 84bf9750-ca51-4d42-88e5-4464f7379c14, host: MYket.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 300 مگابایت دان نزنین, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 300 مگابایت دان نزنین`, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@DarcProxy`", server: bot.heliyadak.ir, port: 50068, type: vless, tls: true, packet-encoding: xudp, uuid: c0fef5f3-2d7e-4cb8-bbb2-ed134dc9c51e, network: ws, ws-opts: {path: /, headers: {Host: bot.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -508,7 +507,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"
@@ -531,7 +529,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"
@@ -554,7 +551,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"
@@ -586,7 +582,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"
@@ -609,7 +604,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"
@@ -632,7 +626,6 @@ proxy-groups:
       - 2|10 gig @DarcProxy
       - 3|10 gig @DarcProxy
       - 4|10 gig @DarcProxy`
-      - 1
       - 300 مگابایت دان نزنین
       - 300 مگابایت دان نزنین`
       - "@DarcProxy`"

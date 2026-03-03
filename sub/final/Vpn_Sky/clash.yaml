@@ -465,14 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍, server: mellat.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 12ffccaf-ca57-47ab-8dcd-bc6feec91be6, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍 2, server: 94.183.159.149, port: 200, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5d2988-37bf-4497-88e3-66dcd658f6bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍 3, server: BloG2.taNUpload.tOp, port: 62443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc76374-9718-40be-a8a9-676664d4d67a, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount, server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍 4, server: ir2.aghnano.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8fee8e56-26f7-416c-a957-5152e457537e, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount 2, server: fn2-ab-dev.cdnpark.net, port: 310, type: vless, tls: true, packet-encoding: xudp, uuid: a63b6b63-464c-41b6-8f80-9a717db46f8c, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍 5, server: cc.srvtogo.com, port: 9902, type: vmess, uuid: da67eaa9-383f-4229-8f8f-27409ddb7dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: با ما متصل باش | @Vpn_Sky 🚀🤍 6, server: ja.srvtogo.com, port: 9903, type: vmess, uuid: da67eaa9-383f-4229-8f8f-27409ddb7dc3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,42 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -540,42 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - با ما متصل باش | @Vpn_Sky 🚀🤍
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 3
       - NetAccount
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 4
       - NetAccount 2
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 5
-      - با ما متصل باش | @Vpn_Sky 🚀🤍 6
   - name: دانلود منیجر 📥
     type: select
     proxies:

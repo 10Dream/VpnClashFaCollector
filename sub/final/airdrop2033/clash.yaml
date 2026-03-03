@@ -466,7 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@airdrop2033`", server: my.configfast.site, port: 4013, type: vless, tls: true, packet-encoding: xudp, uuid: 44de73bc-eb6d-429d-9c2f-ec0a6e4a6681, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`, server: sync.ir-learing.ir, port: 8084, type: vless, tls: true, packet-encoding: xudp, uuid: 854137f7-92a6-4610-bd57-4fbba88e9c0c, host: sync.ir-learing.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -484,7 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -492,7 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -500,7 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -517,7 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -525,7 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -533,7 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
   - name: دانلود منیجر 📥
     type: select
     proxies:

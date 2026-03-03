@@ -470,11 +470,10 @@ proxies:
   - {name: NetAccount` 3, server: BloG2.taNUpload.tOp, port: 62443, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc76374-9718-40be-a8a9-676664d4d67a, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 4, server: webyarr.delgarm.live, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 649ef9dd-db4c-41a7-84bc-465a6fa86fa3, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 5, server: tu5.pokerpings.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 65e7f833-78f3-4013-9402-2694b09de74d, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 188.114.97.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e16baf3-82cd-4e5e-bfea-5bd4d2253b4f, servername: tELEGRAM.prOXIe2-TEL.wOrKErS.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/eyJqdW5rIjoidXYyRXNUTXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560", headers: {Host: tELEGRAM.prOXIe2-TEL.wOrKErS.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount` 7, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: sv21.tsdata1.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: f3091db9-a70c-4af6-9759-7547df090f2a, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: sv21.tsdata1.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: f3091db9-a70c-4af6-9759-7547df090f2a, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -500,7 +499,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -516,7 +514,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -532,7 +529,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -557,7 +553,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -573,7 +568,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -589,7 +583,6 @@ proxy-groups:
       - NetAccount` 7
       - NetAccount` 8
       - NetAccount` 9
-      - NetAccount` 10
   - name: دانلود منیجر 📥
     type: select
     proxies:
