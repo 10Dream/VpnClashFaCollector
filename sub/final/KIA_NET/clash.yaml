@@ -465,59 +465,28 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
+  - {name: "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: 🇩🇪, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: GB_, server: 57.129.137.56, port: 8443, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
   - {name: GB_ 2, server: 91.199.32.99, port: 2053, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡`", server: 3.34.193.132, port: 14213, type: trojan, password: TUli3WPdRrOH, sni: appsvs.shop, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡, server: red1.iran-ont.co.uk, port: 335, type: vless, tls: true, packet-encoding: xudp, uuid: 031cbff2-a8a9-4da4-9fb9-02607ac63582, host: red1.iran-ont.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2, server: 94.183.241.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f6d789c-7e4c-4a7b-abe7-a32e2aad9508, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: 125bcb79-37c3-43c2-91f5-70fe36d75a97, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡", server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 148f8bfe-92c6-46fa-a327-de12e2558962, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4, server: 85.133.221.61, port: 543, type: vless, tls: true, packet-encoding: xudp, uuid: 16a5322b-0db6-45b7-9506-5aec747d999d, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…, server: 85.133.221.61, port: 543, type: vless, tls: true, packet-encoding: xudp, uuid: 16a5322b-0db6-45b7-9506-5aec747d999d, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21cebd2b-20f5-46d2-bf3b-fe0c45797d3d, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5, server: pan1.tanupload.top, port: 61443, type: vless, tls: true, packet-encoding: xudp, uuid: 22539a4e-2975-4586-99a4-2bfaeb9ccd2b, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡", server: node5.telegavpn.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 31420c2a-070e-4942-ad92-89081fc88804, servername: node5.telegavpn.org, host: node5.telegavpn.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 2", server: gb1.wiziii.xyz, port: 8085, type: vless, tls: true, packet-encoding: xudp, uuid: 31bdae38-ab95-499a-8105-2fe7c45a8240, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`, server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 3363394e-d5ce-4b71-8281-39a3469924c5, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 3", server: amin2.atlasz.ir, port: 446, type: vless, tls: true, packet-encoding: xudp, uuid: 48c50301-15d6-5aea-89ab-16742beacb41, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6, server: porttt1.webchipro2.ir, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: porttt1.webchipro2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: germany.heliyadak.ir, port: 52678, type: vless, tls: true, packet-encoding: xudp, uuid: 589c0f96-7ab5-470b-8f1d-cb87e09d2138, network: ws, ws-opts: {path: /, headers: {Host: germany.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @anotherme_night, server: 5.10.248.106, port: 2058, type: vless, tls: true, packet-encoding: xudp, uuid: 79a698e0-0619-4169-8a54-9b73b9ffef27, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h3], network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡", server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h3], network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h3], network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1, server: IP2.xQFire.iR, port: 219, type: vless, tls: true, packet-encoding: xudp, uuid: 84bf9750-ca51-4d42-88e5-4464f7379c14, host: MYket.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8, server: vipconfig.esrtz.onl, port: 29655, type: vless, tls: true, packet-encoding: xudp, uuid: 8b5cf977-5742-4a2e-a7d3-9de0563f4a15, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 4", server: 85.133.250.87, port: 41679, type: vless, tls: true, packet-encoding: xudp, uuid: 910e3778-bbee-492b-a1e5-5f9c1cfe4194, host: 78.157.49.67, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: ir-www-germani1.khabarkamkwww.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 9d5ee9e3-782a-4496-b1bd-038e4a45da49, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: دیش دیش دیرن دیرن ماشالله`, server: ir-www-germani1.khabarkamkwww.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 9d5ee9e3-782a-4496-b1bd-038e4a45da49, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 4", server: sr-d-2.sedarchahar.top, port: 9102, type: vless, tls: true, packet-encoding: xudp, uuid: a4f7ac23-8146-464b-a932-9753f97303aa, host: api.live98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: وصل🇩🇪-ka, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a5c881e5-0e80-489c-900c-f08084f247f6, servername: de4.amazoneto.ir, alpn: [h2%2Chttp%2F1.1%2Ch3], network: ws, ws-opts: {path: /, headers: {Host: de4.amazoneto.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 5", server: 81.12.33.175, port: 700, type: vless, tls: true, packet-encoding: xudp, uuid: a80cc27a-14a6-4147-bc1b-70fcca27253d, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: sr-d-2.sedarchahar.top, port: 9102, type: vless, tls: true, packet-encoding: xudp, uuid: a4f7ac23-8146-464b-a932-9753f97303aa, host: api.live98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]", server: emarat2.digionline2.com, port: 4003, type: vless, tls: true, packet-encoding: xudp, uuid: af737d2c-caf1-43d4-b013-33bdeabad144, host: emarat2.digionline2.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡, server: 81.12.92.125, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: b0787a37-4259-4bf5-800c-da0d4ae881bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 6", server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: b174b5d5-8cd7-4f2d-927a-f1a5ec309d36, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`", server: ir1.kallehpaz.ir, port: 4990, type: vless, tls: true, packet-encoding: xudp, uuid: b2c700ee-1990-4d5d-adf8-1b1364cee793, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2", server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 7", server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.121.112:16571, server: 94.183.121.112, port: 16571, type: vless, tls: true, packet-encoding: xudp, uuid: be8e8fb7-06f4-4e4c-9d4e-81bdf466f8d2, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کیا نت  موش بخورتت الهی  😂`, server: 94.183.121.112, port: 16571, type: vless, tls: true, packet-encoding: xudp, uuid: be8e8fb7-06f4-4e4c-9d4e-81bdf466f8d2, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: بیا چنل بوسم‌کن    کیانت, server: ir5.mmdpnj.site, port: 3201, type: vless, tls: true, packet-encoding: xudp, uuid: bfa95c9d-87fb-4766-9b40-5af8d5d530aa, network: ws, ws-opts: {path: /, headers: {Host: ir5.mmdpnj.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hp, server: grandmas-hotel.wp-toolbox.ir, port: 2305, type: vless, tls: true, packet-encoding: xudp, uuid: c54d83b6-49fa-40d1-930a-bfc9f71c3001, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: c79aa774-4731-487a-8225-36e0fb9f2a00, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 5", server: 81.12.46.79, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ce286bdb-1af2-583e-eb44-8d450f189b1e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵", server: 81.12.46.79, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: ce286bdb-1af2-583e-eb44-8d450f189b1e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`, server: samfine.thisisdomain.monster, port: 3322, type: vless, tls: true, packet-encoding: xudp, uuid: d11fad1e-9edd-4a90-8ab7-e3f40057f0ee, host: iranserver.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 6", server: index.sandis.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d9438566-ecb5-47e8-8aa1-cf4ff68b3e66, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡` 7", server: webshap.serverara.ir, port: 46821, type: vless, tls: true, packet-encoding: xudp, uuid: e647abd8-0eb8-4a98-b68e-d3cefd0e0aa6, host: webshap.serverara.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 8", server: net.ichimokutrader.org, port: 7777, type: vless, tls: true, packet-encoding: xudp, uuid: e921b774-3d14-4a4d-ad9a-317ea9cddbb7, host: parsabr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: c79aa774-4731-487a-8225-36e0fb9f2a00, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: 2.144.5.9, port: 13346, type: vless, tls: true, packet-encoding: xudp, uuid: e271ff6a-2520-4cb1-8993-b43e763ad41c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷] 2", server: d2.armd.fun, port: 5056, type: vless, tls: true, packet-encoding: xudp, uuid: f0a7fff1-632b-45f1-86e9-ef42015c231e, host: d2.armd.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 9", server: 81.12.83.250, port: 51, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 10", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 11", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: fe3ce5db-627f-4cb6-857d-f18eed038742, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@kia net تلگرام:", server: pop-address2.pmobile1.com, port: 40015, type: vmess, uuid: 083b9d58-cc09-4ac9-9571-56118c00e6fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 12", server: serb.srvtogo.com, port: 9900, type: vmess, uuid: d191f0ee-ccd5-43ab-b422-bae89a4bbcb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -534,177 +503,84 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -720,177 +596,84 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
       - 🇩🇪
       - GB_
       - GB_ 2
-      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 2
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 3
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 4
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡…
-      - "[🇮🇷@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 5
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - مخصوص ۳۰ گیگ پرسرعت@KIA_NET 🚀| با ما متصل بمون⚡`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 3"
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 6
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 7
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - hope of freedom - @anotherme_night
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
-      - 1
-      - hope of freedom - @KIA_NET 🚀| با ما متصل بمون⚡ 8
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 4"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - دیش دیش دیرن دیرن ماشالله`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - وصل🇩🇪-ka
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "[🇮🇷]"
-      - hope of freedom - @@KIA_NET 🚀| با ما متصل بمون⚡
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
       - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡` 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 7"
       - 94.183.121.112:16571
       - کیا نت  موش بخورتت الهی  😂`
       - بیا چنل بوسم‌کن    کیانت
-      - hp
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 5"
-      - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐\n\n🩵 @KIA_NET چنل🩵"
-      - مکقع اتصال کانکت شو  تلکرام صبرکن‌میاد بالا`
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 6"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡` 7"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 8"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "[🇮🇷] 2"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 10"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 11"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
       - "@kia net تلگرام:"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 12"
   - name: دانلود منیجر 📥
     type: select
     proxies:

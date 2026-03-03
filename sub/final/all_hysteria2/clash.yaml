@@ -518,10 +518,10 @@ proxies:
   - {name: 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2, server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: de629d50-1711-11ed-bd7c-f23c913c8d2b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3, server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: de629d50-1711-11ed-bd7c-f23c913c8d2b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4, server: 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: de629d50-1711-11ed-bd7c-f23c913c8d2b, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1@oneclickvpnkeys, server: 152.70.176.68, port: 1, type: hysteria2, ports: 1, password: e22d2366-ac58-47e0-8362-89df9aa6349f, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443, server: 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: ea800f9e-ca6c-11ef-8e74-f23c913c8d2b, sni: 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2, server: 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: ea800f9e-ca6c-11ef-8e74-f23c913c8d2b, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3, server: 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com, port: 443, type: hysteria2, ports: 443, password: ea800f9e-ca6c-11ef-8e74-f23c913c8d2b, sni: 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 6@oneclickvpnkeys, server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: edd0d9b9-d2ef-40a0-af10-0dca357351e3, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 130.61.50.75, port: 6443, type: hysteria2, ports: 6443, password: zhangyang, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -592,10 +592,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -656,10 +656,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -720,10 +720,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -793,10 +793,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -857,10 +857,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -921,10 +921,10 @@ proxy-groups:
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 2
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 3
       - 🇭🇰 4a8146b5-t70f40-tlpfci-1jdha.hk1.hyhuawei.com:443 4
-      - 1@oneclickvpnkeys
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 2
       - 🇭🇰 6b62b419-t6t0g0-tfjz9x-1t5n1.hk1.hyhuawei.com:443 3
+      - 6@oneclickvpnkeys
       - "@filembad` 2"
   - name: دانلود منیجر 📥
     type: select

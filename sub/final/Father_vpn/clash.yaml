@@ -465,14 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Father_vpn", server: 54.36.174.134, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: pvgz9pq, udp: true, tfo: false}
-  - {name: "@Father_vpn 2", server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "@Father_vpn 3", server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
-  - {name: "@Father_vpn 4", server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn 5", server: ak2.vpnfreedom.tech, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4af37467-bf79-4630-98d5-73e7dad60e90, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l0saUZNgojrR6PjhL_fMHEBZlZ2TJypjRdQyy2mrFFI, short-id: 58}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn 6", server: creativecommons.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d89d6641-3b1a-4f51-a194-9c9109fd21b6, servername: DiprOX.pages.DEV, network: ws, ws-opts: {path: /assets, headers: {Host: DiprOX.pages.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn`", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fef4a93d-eb4f-4657-b56b-32a0dc060045, servername: dev.twistsparrow.xyz, network: ws, ws-opts: {path: /, headers: {Host: dev.twistsparrow.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Father_vpn 7", server: tgju.org, port: 8080, type: vmess, uuid: nasnet, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/nasnet/cdn?ed=2560", headers: {Host: nasnet-162191099.sharghdaily.co}}, udp: true, tfo: false}
+  - {name: "@Father_vpn", server: str.hajodfnv.top, port: 52532, type: vless, tls: true, packet-encoding: xudp, uuid: 8f12451b-0488-4d21-bfff-79e8ae63c7cb, host: str.hajodfnv.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Father_vpn 2", server: 120.232.240.56, port: 16928, type: vmess, uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v2ray, headers: {Host: "%7B%22Host%22:%22193.25.215.160%22%7D"}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -491,12 +485,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -505,12 +493,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -519,12 +501,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -542,12 +518,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -556,12 +526,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -570,12 +534,6 @@ proxy-groups:
     proxies:
       - "@Father_vpn"
       - "@Father_vpn 2"
-      - "@Father_vpn 3"
-      - "@Father_vpn 4"
-      - "@Father_vpn 5"
-      - "@Father_vpn 6"
-      - "@Father_vpn`"
-      - "@Father_vpn 7"
   - name: دانلود منیجر 📥
     type: select
     proxies:
