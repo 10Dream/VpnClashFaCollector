@@ -465,8 +465,16 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount`, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 81.12.33.100, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 83b8e95b-df6e-4a80-b897-273cd4524caf, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: 194.233.73.51, port: 14453, type: ss, cipher: chacha20-ietf-poly1305, password: 764a4d8c1c76eb50, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: 15.188.31.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 15.236.135.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2fb9335d-6a89-4eed-8246-0d5076fd556e, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: 77.83.245.188, port: 55169, type: vless, tls: true, packet-encoding: xudp, uuid: 3963f5d3-ed71-4a11-98d5-3154d65a9502, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: BXstOSOV6FnB-uBB_ITszxxjFu4nSzXrrVVdoHOLDGo, short-id: 5bb854d009781a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 4c55e931-e33b-487c-806e-cb29b64a089c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 873a8e21-5fed-36a7-b251-734ebc97381c, servername: s6.oboob.cn, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024c59ce5eab9, headers: {Host: s6.oboob.cn}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,6 +493,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -493,6 +509,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -501,6 +525,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -518,6 +550,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -526,6 +566,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -534,6 +582,14 @@ proxy-groups:
     proxies:
       - NetAccount`
       - NetAccount` 2
+      - NetAccount` 3
+      - NetAccount` 4
+      - NetAccount` 5
+      - NetAccount` 6
+      - NetAccount` 7
+      - NetAccount` 8
+      - NetAccount` 9
+      - NetAccount
   - name: دانلود منیجر 📥
     type: select
     proxies:

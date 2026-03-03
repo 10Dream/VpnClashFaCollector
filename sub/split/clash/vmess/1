@@ -466,6 +466,9 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@filembad", server: 131.145.60.83, port: 425, type: vmess, uuid: c7642cfd-0488-4f04-b82a-ea917353f38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: mci.ir}, udp: true, tfo: false}
+  - {name: "@filembad 2", server: 51.143.248.46, port: 425, type: vmess, uuid: 32dc8312-d097-428b-9d6f-efe9f01a8fa3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: mci.ir}, udp: true, tfo: false}
+  - {name: "@filembad 3", server: 78.157.44.87, port: 80, type: vmess, uuid: 1be004f3-31f7-4f9d-9941-0f49ff4107b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 4", server: 78.157.63.77, port: 80, type: vmess, uuid: 1be004f3-31f7-4f9d-9941-0f49ff4107b9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: CH, server: h8.always-update.com, port: 29008, type: vmess, uuid: 5b85ae50-1267-5a1a-98f5-8d30df480c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 DE, server: h1.always-update.com, port: 29001, type: vmess, uuid: 5b85ae50-1267-5a1a-98f5-8d30df480c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇪🇸 ES, server: h5.always-update.com, port: 29005, type: vmess, uuid: 5b85ae50-1267-5a1a-98f5-8d30df480c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -478,113 +481,68 @@ proxies:
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan, server: 45.12.132.183, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 45.12.132.183}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 2, server: 45.12.132.183, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: "@filembad 2", server: 47.243.135.74, port: 55185, type: vmess, uuid: 1375985e-334a-4c25-8f64-52a182bc8037, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Notif_Chat}, udp: true, tfo: false}
-  - {name: "@filembad 3", server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
-  - {name: "@filembad 4", server: 8.210.79.212, port: 55185, type: vmess, uuid: aa3c3018-288b-46f3-af1c-9044e18d6e5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Notif_Chat}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: 8.218.52.5, port: 443, type: vmess, uuid: 1f2daf43-ff90-4df9-9276-dfb8486d72bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214915.mv7wh.tech, network: ws, ws-opts: {path: /, headers: {Host: n1761214915.mv7wh.tech}}, udp: true, tfo: false}
-  - {name: "@filembad 6", server: 81.12.83.250, port: 51, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 7", server: 81.12.83.250, port: 52, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 8", server: 81.12.83.250, port: 51, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 9", server: 81.12.83.250, port: 52, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: 81.12.83.250, port: 51, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 10", server: 81.12.83.250, port: 51, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17820] - Telegram : @configraygan", server: 81.12.83.250, port: 51, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 2", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17531] - Telegram : @configraygan", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17757] - Telegram : @configraygan", server: 104.16.148.244, port: 2086, type: vmess, uuid: 29eebb60-b27b-4a9d-bba5-947763d9205e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ip005.freegradely.xyz}}, udp: true, tfo: false}
+  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 46.225.84.134, port: 18181, type: vmess, uuid: 8241789c-dba0-498b-97a0-ef349ba21f8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 5", server: 47.243.135.74, port: 55185, type: vmess, uuid: 1375985e-334a-4c25-8f64-52a182bc8037, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Notif_Chat}, udp: true, tfo: false}
+  - {name: "@filembad 6", server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩, server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2, server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
+  - {name: "@filembad 7", server: 51.158.151.24, port: 20104, type: vmess, uuid: 40e306a6-7cab-40ac-a085-a961895eb11b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
+  - {name: "@filembad 8", server: 8.210.79.212, port: 55185, type: vmess, uuid: aa3c3018-288b-46f3-af1c-9044e18d6e5b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /Notif_Chat}, udp: true, tfo: false}
+  - {name: "@filembad 9", server: 8.218.52.5, port: 443, type: vmess, uuid: 1f2daf43-ff90-4df9-9276-dfb8486d72bc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214915.mv7wh.tech, network: ws, ws-opts: {path: /, headers: {Host: n1761214915.mv7wh.tech}}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3, server: 8.6.112.0, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hgtrojan.zabc.net, network: ws, ws-opts: {path: /e6395c20, headers: {Host: hgtrojan.zabc.net}}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4, server: 82.198.246.97, port: 180, type: vmess, uuid: d13fc2f5-3e05-4795-81eb-44143a09e552, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5, server: 92.246.87.170, port: 18355, type: vmess, uuid: caf921c7-ac63-40bc-faa1-cda097fd7e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan", server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[18035] - Telegram : @configraygan", server: 104.19.21.71, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip14.freegradely.xyz}}, udp: true, tfo: false}
-  - {name: "[17755] - Telegram : @configraygan", server: 104.19.45.13, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: ip13.freegradely.xyz}}, udp: true, tfo: false}
   - {name: "[18108] - Telegram : @configraygan", server: 104.19.47.15, port: 8443, type: vmess, uuid: 39135a39-e6ca-43df-a360-d859eea58d86, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hk01.linkitnow.net, network: ws, ws-opts: {path: /, headers: {Host: hk01.linkitnow.net}}, udp: true, tfo: false}
-  - {name: "[17843] - Telegram : @configraygan", server: 104.19.47.32, port: 2086, type: vmess, uuid: e9e3cc13-db48-4cc1-8c24-7626439a5339, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: github.com/Alvin9999, headers: {Host: ip14.freegradely.xyz}}, udp: true, tfo: false}
-  - {name: "[17756] - Telegram : @configraygan", server: 104.19.47.43, port: 8443, type: vmess, uuid: 39135a39-e6ca-43df-a360-d859eea58d86, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hk01.linkitnow.net, network: ws, ws-opts: {path: /, headers: {Host: hk01.linkitnow.net}}, udp: true, tfo: false}
   - {name: "[18014] - Telegram : @configraygan", server: 104.21.36.13, port: 80, type: vmess, uuid: b020865b-7404-4894-ba65-a7414b10cda3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /boWUVaU0sxrNtFSdOPjqSc7fzeJr, headers: {Host: lop.bb3.indevs.in}}, udp: true, tfo: false}
-  - {name: "[17625] - Telegram : @configraygan", server: 104.21.69.44, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-511952424.mcitel.co}}, udp: true, tfo: false}
+  - {name: "@Father_vpn", server: 120.232.240.56, port: 16928, type: vmess, uuid: 5f6b3c3f-b0a8-33f5-95c6-371f8c6af973, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /v2ray, headers: {Host: "%7B%22Host%22:%22193.25.215.160%22%7D"}}, udp: true, tfo: false}
   - {name: "@configraygan K9", server: 131.145.60.83, port: 425, type: vmess, uuid: c7642cfd-0488-4f04-b82a-ea917353f38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: mci.ir}, udp: true, tfo: false}
-  - {name: "@filembad 11", server: 131.145.60.83, port: 425, type: vmess, uuid: c7642cfd-0488-4f04-b82a-ea917353f38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: mci.ir}, udp: true, tfo: false}
-  - {name: "@filembad 12", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 13", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17750] - Telegram : @configraygan", server: 172.67.73.163, port: 8080, type: vmess, uuid: e8b1500b-e9e8-5492-8312-f4eadf7d0767, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /nasnet/cdn, headers: {Host: nasnet-162191099.sharghdaily.co}}, udp: true, tfo: false}
-  - {name: "@filembad 14", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "[17544] - Telegram : @configraygan", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@filembad 15", server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
-  - {name: "@filembad 16", server: t6.netmet.best, port: 5425, type: vmess, uuid: 30bcf12a-ed2c-49d1-bca1-d5e4b96096f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17765]  - Telegram : @configraygan", server: time.ir, port: 443, type: vmess, uuid: last-update-time, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: time.ir}}, udp: true, tfo: false}
-  - {name: "@DarcProxy  جوین شو", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 10", server: 131.145.60.83, port: 425, type: vmess, uuid: c7642cfd-0488-4f04-b82a-ea917353f38f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: grpc, servername: "", grpc-opts: {grpc-service-name: mci.ir}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7, server: 162.159.152.4, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: v2ray.codefyinc.com, network: ws, ws-opts: {path: /vmessws, headers: {Host: v2ray.codefyinc.com}}, udp: true, tfo: false}
+  - {name: "@filembad 11", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 12", server: 165.140.216.141, port: 443, type: vmess, uuid: e7d72a8d-26f2-4b54-b366-0c43e0bcba7d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 13", server: 185.104.189.38, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "@filembad 14", server: 209.126.84.189, port: 443, type: vmess, uuid: 2c981164-9b93-4bca-94ff-b78d3f8498d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmessws, headers: {Host: 209.126.84.189}}, udp: true, tfo: false}
+  - {name: "@filembad 15", server: t6.netmet.best, port: 5425, type: vmess, uuid: 30bcf12a-ed2c-49d1-bca1-d5e4b96096f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[18057] - Telegram : @configraygan", server: tun.p2p1.sbs, port: 2013, type: vmess, uuid: afa63f96-97a4-4f0c-bf89-aba6b5d82ce8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 17", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 16", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚫@tel_melli⚫1, server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 18", server: turk1.net.net, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: TM_AZARBAYJAB1.new.99.workers.dev, network: ws, ws-opts: {path: "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560", headers: {Host: tr1-smart.adelping.com.}}, udp: true, tfo: false}
-  - {name: "[17532] - Telegram : @configraygan", server: turk4.warzone1.in, port: 23765, type: vmess, uuid: 69a35875-6fec-9891-ac7e-c57af2eda020, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 3", server: turk4.warzone1.in, port: 23765, type: vmess, uuid: 69a35875-6fec-9891-ac7e-c57af2eda020, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 17", server: turk1.net.net, port: 80, type: vmess, uuid: 43dcdce1-3cea-4193-bc8d-90b92071d779, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: TM_AZARBAYJAB1.new.99.workers.dev, network: ws, ws-opts: {path: "/?BIA_TELEGRAM@AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1_AZARBAYJAB1/?de=2560", headers: {Host: tr1-smart.adelping.com.}}, udp: true, tfo: false}
   - {name: "@configraygan O4", server: uae.topspeedarash.com, port: 4353, type: vmess, uuid: 022af8a2-f2a0-4c19-9962-edc116ab8cd0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 4", server: uk.arabies.net, port: 6502, type: vmess, uuid: f0402184-e9d8-4912-a67c-f9af819d02ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
+  - {name: "@filembad 18", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 19", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 20", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan 1, server: v.xix.onl, port: 443, type: vmess, uuid: 5c55e475-15ed-481a-a47e-e83bff5d6906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇩🇪, server: vendeta.violetsub.ir, port: 5464, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇳🇱💣, server: vendeta.violetsub.ir, port: 6060, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇫🇮, server: viona.violetsub.ir, port: 1022, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇬🇧, server: vivian.violetsub.ir, port: 5080, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇦🇹, server: vivian.violetsub.ir, port: 6655, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 92db226e-a0b8-4623-b4fa-796f4dd94167, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17603] - Telegram : @configraygan", server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 92db226e-a0b8-4623-b4fa-796f4dd94167, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 20", server: Hotkc.faste-serv.com, port: 9088, type: vmess, uuid: bbf641c5-2dbc-4fd3-b41d-0b2656977906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 21", server: Hotkc.faste-serv.com, port: 9088, type: vmess, uuid: bbf641c5-2dbc-4fd3-b41d-0b2656977906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 22", server: Hotkc.faste-serv.com, port: 9088, type: vmess, uuid: bbf641c5-2dbc-4fd3-b41d-0b2656977906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan 2, server: blog.topspeedarash.com, port: 4351, type: vmess, uuid: 608c698c-c7b1-4e46-a62c-d61a0c6fc03f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 22", server: blog2.ndf46.top, port: 26179, type: vmess, uuid: fc22c760-a010-401e-a88d-0eab9799ea02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 23", server: blog2.ndf46.top, port: 26179, type: vmess, uuid: fc22c760-a010-401e-a88d-0eab9799ea02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 24", server: blog2.ndf46.top, port: 26179, type: vmess, uuid: fc22c760-a010-401e-a88d-0eab9799ea02, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan O6", server: bug.topspeedarash.com, port: 4360, type: vmess, uuid: 022af8a2-f2a0-4c19-9962-edc116ab8cd0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan O5", server: bug.topspeedarash.com, port: 4362, type: vmess, uuid: 022af8a2-f2a0-4c19-9962-edc116ab8cd0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 25", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17583] - Telegram : @configraygan", server: ca-v2ray.ipracevpn.com, port: 443, type: vmess, uuid: 1b3d460b-91cc-46f9-909d-73823128ee0a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: ca-v2ray.ipracevpn.com, udp: true, tfo: false}
-  - {name: "@filembad 26", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[17818] - Telegram : @configraygan", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan, server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 27", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇬🇧 United Kingdom, server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan 3, server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 396e5ad7-16ad-4bb3-87a2-e6575d9808d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan 4, server: d2.farsitwocl.ir, port: 443, type: vmess, uuid: 9f2ff490-b16d-4706-a35d-8e56dce3d223, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 28", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 29", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan CP8", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 30", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 2", server: ger.server-vip.com, port: 443, type: vmess, uuid: 561ee860-b21b-4581-a8e7-cc046e10a7ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 1", server: ger.server-vip.com, port: 443, type: vmess, uuid: 561ee860-b21b-4581-a8e7-cc046e10a7ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan V5", server: ger.server-vip.com, port: 443, type: vmess, uuid: 561ee860-b21b-4581-a8e7-cc046e10a7ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 31", server: h7.always-update.com, port: 29007, type: vmess, uuid: 80107af8-5b58-595d-8ec5-f2fc0cd29c3c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 32", server: h8j2k4l7m1n5b3v9.iran1.tryagainlater.ir, port: 54, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 33", server: h8j2k4l7m1n5b3v9.iran1.tryagainlater.ir, port: 54, type: vmess, uuid: b71fb255-1351-d154-ef65-9a43ed9026c9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan B04", server: h8j2k4l7m1n5b3v9.iran1.tryagainlater.ir, port: 54, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 34", server: h8j2k4l7m1n5b3v9.iran1.tryagainlater.ir, port: 54, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 35", server: hgtrojan.zabc.net, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hgtrojan.zabc.net, network: ws, ws-opts: {path: /e6395c20, headers: {Host: hgtrojan.zabc.net}}, udp: true, tfo: false}
+  - {name: "@filembad 24", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 25", server: d1.farsitwocl.ir, port: 3000, type: vmess, uuid: 375ec9d9-bb66-4433-a070-fa9acb0f0198, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 26", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 27", server: deu.paeezan.top, port: 20298, type: vmess, uuid: 8d1b1b1c-48a5-4b82-94c7-bfcebe311da8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8, server: fbnhu.0wu.ccwu.cc, port: 80, type: vmess, uuid: 8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /y3ME81hpTJWwd4RJBAQ5Ah, headers: {Host: fbnhu.0wu.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "@filembad 28", server: h4.always-update.com, port: 29004, type: vmess, uuid: 5b85ae50-1267-5a1a-98f5-8d30df480c23, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: music.apple.com, udp: true, tfo: false}
+  - {name: "@filembad 29", server: h8j2k4l7m1n5b3v9.iran1.tryagainlater.ir, port: 54, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 30", server: hgtrojan.zabc.net, port: 2083, type: vmess, uuid: e6395c20-4571-4b34-d6b1-55a5d36e49ea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hgtrojan.zabc.net, network: ws, ws-opts: {path: /e6395c20, headers: {Host: hgtrojan.zabc.net}}, udp: true, tfo: false}
   - {name: "[18032] - Telegram : @configraygan", server: in-tw-1.iivvppnn.info, port: 38201, type: vmess, uuid: 79386685-16da-327c-9e14-aa6d702d86bc, alterId: 1, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /hls/cctv5phd.m3u8, headers: {Host: www.ivpnpro.net}}, udp: true, tfo: false}
-  - {name: "@configraygan C3", server: iran.anonnexuse.com, port: 101, type: vmess, uuid: 5be9d7fc-fe59-8619-1cce-ea1bd00fd5ed, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 5", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 6", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 3", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @configraygan", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام)", server: m1n7b3v8c2x9z5l4.iran1.tryagainlater.ir, port: 50, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 36", server: m1n7b3v8c2x9z5l4.iran1.tryagainlater.ir, port: 50, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan K02", server: m1n7b3v8c2x9z5l4.iran1.tryagainlater.ir, port: 50, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 37", server: n1752248946.4u9ma.icu, port: 443, type: vmess, uuid: ef167986-d154-4409-88b1-757efb6ae823, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1752248946.4u9ma.icu}}, udp: true, tfo: false}
-  - {name: "@filembad 38", server: n1761296897.lie5d.cyou, port: 443, type: vmess, uuid: 5ecc3086-93cf-42e3-956b-f2180e042537, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296897.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@filembad 39", server: p1o9i8u2y7t3r4e6.iran2.tryagainlater.ir, port: 55, type: vmess, uuid: e60ff6e5-f8bf-7aa9-3349-afdda6ae265b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 40", server: paya1.pmobile1.com, port: 65535, type: vmess, uuid: 13284f8e-8fe8-4672-928d-364cac0eeec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan V2", server: paya1.pmobile1.com, port: 65535, type: vmess, uuid: 13284f8e-8fe8-4672-928d-364cac0eeec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 41", server: paya1.pmobile1.com, port: 65535, type: vmess, uuid: 13284f8e-8fe8-4672-928d-364cac0eeec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 42", server: paya2.pmobile1.com, port: 60002, type: vmess, uuid: 13284f8e-8fe8-4672-928d-364cac0eeec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: configraygan🇨🇭, server: picasso.violetsub.ir, port: 7088, type: vmess, uuid: 3237bd0c-981a-41a0-90be-bd6e1c25b5e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9, server: mmki9.kk1.ccwu.cc, port: 443, type: vmess, uuid: 9d24b07c-71f4-4aa5-95ac-3307c6995619, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /FlydU79Rnu0lNhu1YZc7zZ, headers: {Host: mmki9.kk1.ccwu.cc}}, udp: true, tfo: false}
+  - {name: "@filembad 31", server: n1752248946.4u9ma.icu, port: 443, type: vmess, uuid: ef167986-d154-4409-88b1-757efb6ae823, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1752248946.4u9ma.icu}}, udp: true, tfo: false}
+  - {name: "@filembad 32", server: n1761296897.lie5d.cyou, port: 443, type: vmess, uuid: 5ecc3086-93cf-42e3-956b-f2180e042537, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296897.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@filembad 33", server: paya2.pmobile1.com, port: 60002, type: vmess, uuid: 13284f8e-8fe8-4672-928d-364cac0eeec6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ️کانفینگ ملی چنل تلگرامی @configraygan, server: pop-address2.pmobile1.com, port: 40015, type: vmess, uuid: 083b9d58-cc09-4ac9-9571-56118c00e6fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@kia net تلگرام:", server: pop-address2.pmobile1.com, port: 40015, type: vmess, uuid: 083b9d58-cc09-4ac9-9571-56118c00e6fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 3, server: pq-Hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 4, server: pq-Hungary1.09vpn.com, port: 8443, type: vmess, uuid: 6f1f1a18-ecc4-4513-890e-fd193042f564, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pq-Hungary1.09vpn.com, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
   - {name: ⚡️Telegram - @configraygan 5, server: pq-Hungary1.09vpn.com, port: 80, type: vmess, uuid: 703f722a-4bdf-4e9d-9afd-a681fdf87c74, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: pq-Hungary1.09vpn.com}}, udp: true, tfo: false}
+  - {name: "[18082] - Telegram : @configraygan", server: s5.forwardscdn.com, port: 2091, type: vmess, uuid: 82a010f9-1883-49a1-0f2e-6542e4c03611, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 34", server: sw.srvtogo.com, port: 9975, type: vmess, uuid: d191f0ee-ccd5-43ab-b422-bae89a4bbcb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 35", server: pop-address2.pmobile1.com, port: 40015, type: vmess, uuid: 083b9d58-cc09-4ac9-9571-56118c00e6fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -602,6 +560,9 @@ proxy-groups:
     type: select
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -614,113 +575,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -728,6 +644,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -740,113 +659,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -854,6 +728,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -866,113 +743,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -989,6 +821,9 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -1001,113 +836,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1115,6 +905,9 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -1127,113 +920,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1241,6 +989,9 @@ proxy-groups:
     interval: 600
     proxies:
       - "@filembad"
+      - "@filembad 2"
+      - "@filembad 3"
+      - "@filembad 4"
       - CH
       - 🇩🇪 DE
       - 🇪🇸 ES
@@ -1253,113 +1004,68 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US
       - ⚡️Telegram - @configraygan
       - ⚡️Telegram - @configraygan 2
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
+      - 🇩🇪 [openproxylist.com] vmess-DE
       - "@filembad 5"
       - "@filembad 6"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 2
       - "@filembad 7"
       - "@filembad 8"
       - "@filembad 9"
-      - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "@filembad 10"
-      - "[17820] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
-      - "@meliproxyy"
-      - "Telegram: @wiki_tajrobe"
-      - "[17531] - Telegram : @configraygan"
-      - "[17757] - Telegram : @configraygan"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 6
+      - "@configraygan"
       - "[18035] - Telegram : @configraygan"
-      - "[17755] - Telegram : @configraygan"
       - "[18108] - Telegram : @configraygan"
-      - "[17843] - Telegram : @configraygan"
-      - "[17756] - Telegram : @configraygan"
       - "[18014] - Telegram : @configraygan"
-      - "[17625] - Telegram : @configraygan"
+      - "@Father_vpn"
       - "@configraygan K9"
+      - "@filembad 10"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 7
       - "@filembad 11"
       - "@filembad 12"
       - "@filembad 13"
-      - "[17750] - Telegram : @configraygan"
       - "@filembad 14"
-      - "[17544] - Telegram : @configraygan"
       - "@filembad 15"
-      - "@filembad 16"
-      - "[17765]  - Telegram : @configraygan"
-      - "@DarcProxy  جوین شو"
       - "[18057] - Telegram : @configraygan"
-      - "@filembad 17"
+      - "@filembad 16"
       - ⚫@tel_melli⚫1
-      - "@filembad 18"
-      - "[17532] - Telegram : @configraygan"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
+      - "@filembad 17"
       - "@configraygan O4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
       - 🇺🇸 [openproxylist.com] vmess-US 2
+      - "@filembad 18"
       - "@filembad 19"
       - "@filembad 20"
-      - configraygan 1
-      - configraygan🇩🇪
-      - configraygan🇳🇱💣
-      - configraygan🇫🇮
-      - configraygan🇬🇧
-      - configraygan🇦🇹
-      - "@meliproxyy 2"
-      - "[17603] - Telegram : @configraygan"
       - "@filembad 21"
       - "@filembad 22"
-      - configraygan 2
       - "@filembad 23"
-      - "@filembad 24"
       - "@configraygan O6"
       - "@configraygan O5"
+      - "@filembad 24"
+      - 🇺🇸 [openproxylist.com] vmess-US 3
       - "@filembad 25"
-      - "[17583] - Telegram : @configraygan"
       - "@filembad 26"
-      - "[17818] - Telegram : @configraygan"
-      - configraygan
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
       - "@filembad 27"
-      - 🇬🇧 United Kingdom
-      - configraygan 3
-      - configraygan 4
-      - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 8
       - "@filembad 28"
       - "@filembad 29"
-      - "@configraygan CP8"
       - "@filembad 30"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@configraygan 1"
-      - "@configraygan V5"
+      - "[18032] - Telegram : @configraygan"
+      - "@configraygan K02"
+      - برای اتصال دائمی جوین شو🍘 TelegramID ⌲Express_freevpn 🪩 9
       - "@filembad 31"
       - "@filembad 32"
       - "@filembad 33"
-      - "@configraygan B04"
-      - "@filembad 34"
-      - "@filembad 35"
-      - "[18032] - Telegram : @configraygan"
-      - "@configraygan C3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "Telegram: @wiki_tajrobe 3"
-      - "Telegram: @configraygan"
-      - "@PewezaVPN (تلگرام)"
-      - "@filembad 36"
-      - "@configraygan K02"
-      - "@filembad 37"
-      - "@filembad 38"
-      - "@filembad 39"
-      - "@filembad 40"
-      - "@configraygan V2"
-      - "@filembad 41"
-      - "@filembad 42"
-      - configraygan🇨🇭
       - ️کانفینگ ملی چنل تلگرامی @configraygan
       - "@kia net تلگرام:"
       - ⚡️Telegram - @configraygan 3
       - ⚡️Telegram - @configraygan 4
       - ⚡️Telegram - @configraygan 5
+      - "[18082] - Telegram : @configraygan"
+      - "@filembad 34"
+      - "@filembad 35"
   - name: دانلود منیجر 📥
     type: select
     proxies:

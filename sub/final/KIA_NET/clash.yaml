@@ -465,28 +465,23 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: 🇩🇪, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: GB_, server: 57.129.137.56, port: 8443, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
-  - {name: GB_ 2, server: 91.199.32.99, port: 2053, type: ss, cipher: none, password: 3e96ef7d-8637-42c2-ac73-75182196e755, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡", server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 148f8bfe-92c6-46fa-a327-de12e2558962, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡", server: node5.telegavpn.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 31420c2a-070e-4942-ad92-89081fc88804, servername: node5.telegavpn.org, host: node5.telegavpn.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: 15.188.31.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: 15.236.135.208, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: 63.182.77.216, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@kia_net", server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡", server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[kia_net", server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9a909-2e81-4f6f-b999-def280062188, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: d3b13f31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 4", server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 4c55e931-e33b-487c-806e-cb29b64a089c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡", server: v3.dabache.top, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h3], network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h3], network: ws, ws-opts: {path: "/?V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: sr-d-2.sedarchahar.top, port: 9102, type: vless, tls: true, packet-encoding: xudp, uuid: a4f7ac23-8146-464b-a932-9753f97303aa, host: api.live98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]", server: emarat2.digionline2.com, port: 4003, type: vless, tls: true, packet-encoding: xudp, uuid: af737d2c-caf1-43d4-b013-33bdeabad144, host: emarat2.digionline2.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`", server: ir1.kallehpaz.ir, port: 4990, type: vless, tls: true, packet-encoding: xudp, uuid: b2c700ee-1990-4d5d-adf8-1b1364cee793, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.183.121.112:16571, server: 94.183.121.112, port: 16571, type: vless, tls: true, packet-encoding: xudp, uuid: be8e8fb7-06f4-4e4c-9d4e-81bdf466f8d2, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: کیا نت  موش بخورتت الهی  😂`, server: 94.183.121.112, port: 16571, type: vless, tls: true, packet-encoding: xudp, uuid: be8e8fb7-06f4-4e4c-9d4e-81bdf466f8d2, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: بیا چنل بوسم‌کن    کیانت, server: ir5.mmdpnj.site, port: 3201, type: vless, tls: true, packet-encoding: xudp, uuid: bfa95c9d-87fb-4766-9b40-5af8d5d530aa, network: ws, ws-opts: {path: /, headers: {Host: ir5.mmdpnj.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: c79aa774-4731-487a-8225-36e0fb9f2a00, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 3", server: 2.144.5.9, port: 13346, type: vless, tls: true, packet-encoding: xudp, uuid: e271ff6a-2520-4cb1-8993-b43e763ad41c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷] 2", server: d2.armd.fun, port: 5056, type: vless, tls: true, packet-encoding: xudp, uuid: f0a7fff1-632b-45f1-86e9-ef42015c231e, host: d2.armd.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: fe3ce5db-627f-4cb6-857d-f18eed038742, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kia net تلگرام:", server: pop-address2.pmobile1.com, port: 40015, type: vmess, uuid: 083b9d58-cc09-4ac9-9571-56118c00e6fd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TCP-None | @KIA_NET, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡`", server: v2.royalway.shop, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c3a8f526-6f41-4884-adb8-f33b4ec30fa6, host: v2.royalway.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 5", server: 2.144.5.9, port: 13346, type: vless, tls: true, packet-encoding: xudp, uuid: e271ff6a-2520-4cb1-8993-b43e763ad41c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: TCP-@KIA_NET 🚀| با ما متصل بمون⚡, server: 7.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@KIA_NET 🚀| با ما متصل بمون⚡ 6", server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f65d8f52-da18-404a-bc6b-55aee5736207, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2", server: vzb.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: fe3ce5db-627f-4cb6-857d-f18eed038742, host: vzb.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -503,84 +498,69 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -596,84 +576,69 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "[🇩🇪]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 🇩🇪
-      - GB_
-      - GB_ 2
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇳🇱]@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
       - "@KIA_NET 🚀| با ما متصل بمون⚡"
-      - "[🇮🇷]یروز  با این فعالیت کونم‌میزارن`"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 2"
-      - "[🇮🇷]"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡`"
-      - 94.183.121.112:16571
-      - کیا نت  موش بخورتت الهی  😂`
-      - بیا چنل بوسم‌کن    کیانت
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 3"
       - "@KIA_NET 🚀| با ما متصل بمون⚡ 3"
-      - "[🇮🇷] 2"
-      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 4"
-      - "@kia net تلگرام:"
+      - "@kia_net"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - "[kia_net"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 4"
+      - "[🇨🇦]@KIA_NET 🚀| با ما متصل بمون⚡"
+      - TCP-None | @KIA_NET
+      - "@KIA_NET 🚀| با ما متصل بمون⚡`"
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 5"
+      - TCP-@KIA_NET 🚀| با ما متصل بمون⚡
+      - "@KIA_NET 🚀| با ما متصل بمون⚡ 6"
+      - "[🇮🇷]@KIA_NET 🚀| با ما متصل بمون⚡ 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

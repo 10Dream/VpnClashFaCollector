@@ -465,7 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 5.181.2.76:36608, server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
+  - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -475,6 +475,8 @@ proxies:
   - {name: 104.18.32.47:8443, server: 104.18.32.47, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 09825436-5781-496b-83bd-b992f7b6ef0f, servername: xpb.parsfast.ir, network: ws, ws-opts: {path: /, headers: {Host: xpb.parsfast.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 140.248.165.204:80, server: 140.248.165.204, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 10f11182-a46e-42fc-9fec-f81baa39fa3a, network: ws, ws-opts: {path: /containers/fi, headers: {Host: wellcome-losangles.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: brenna.ns.cloudflare.com:443, server: brenna.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, servername: terazhediii.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhediii.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: bgr01-vlr01.tcp-reset-club.net:15443, server: bgr01-vlr01.tcp-reset-club.net, port: 15443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: f79448a30d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cze01-vlr01.tcp-reset-club.net:10443, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9a909-2e81-4f6f-b999-def280062188, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: d3b13f31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.233.92.193:443, server: 212.233.92.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 66bb28f3-6d53-4e48-a8ee-15832815c359, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5dhqQP68hzsZN7lKNcZQLcDLMZ8PRwpE70pHyUr_sRs, short-id: 2c01bea1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -486,11 +488,9 @@ proxies:
   - {name: gyeisv.aloiacs.shop:2087, server: gyeisv.aloiacs.shop, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, servername: Y6lGfTpXg7.TrAmVoKeLi.InFo, alpn: ["h3,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.241.193.60:443, server: 185.241.193.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f23b2b7e-c876-4f7f-bca5-20a4f57c3864, servername: nl.reality.tv123.ru, host: nl.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.129.22.64:47910, server: 31.129.22.64, port: 47910, type: vless, tls: true, packet-encoding: xudp, uuid: f651b25b-0a6a-4954-910f-7c07a1f6f664, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ, short-id: d194cf18101d98de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-ID", server: 38.55.193.207, port: 8443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 46.225.84.134, port: 18181, type: vmess, uuid: 8241789c-dba0-498b-97a0-ef349ba21f8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -507,7 +507,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -517,6 +517,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -528,18 +530,16 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -549,6 +549,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -560,18 +562,16 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -581,6 +581,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -592,11 +594,9 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -612,7 +612,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -622,6 +622,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -633,18 +635,16 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -654,6 +654,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -665,18 +667,16 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 5.181.2.76:36608
+      - admin.c1.havij.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -686,6 +686,8 @@ proxy-groups:
       - 104.18.32.47:8443
       - 140.248.165.204:80
       - brenna.ns.cloudflare.com:443
+      - bgr01-vlr01.tcp-reset-club.net:15443
+      - cze01-vlr01.tcp-reset-club.net:10443
       - 212.233.92.193:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
@@ -697,11 +699,9 @@ proxy-groups:
       - gyeisv.aloiacs.shop:2087
       - 185.241.193.60:443
       - 31.129.22.64:47910
-      - "[openproxylist.com] vmess-ID"
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - 🇺🇸 [openproxylist.com] vmess-US 3
   - name: دانلود منیجر 📥
     type: select
     proxies:

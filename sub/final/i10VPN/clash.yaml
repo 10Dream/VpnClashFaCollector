@@ -465,38 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 2", server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡`", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 3", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 4", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 2", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 5", server: tr.speadnet.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 3363394e-d5ce-4b71-8281-39a3469924c5, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 6", server: 212.80.8.212, port: 38941, type: vless, tls: true, packet-encoding: xudp, uuid: 33b0db23-8731-4b23-8e77-57c538c81a51, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 7", server: 109.95.67.200, port: 25443, type: vless, tls: true, packet-encoding: xudp, uuid: 424b84b4-cd57-42eb-b1e0-5b618ffcb822, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 8", server: irfrance.tunelclub.top, port: 48287, type: vless, tls: true, packet-encoding: xudp, uuid: 45913ab8-f6be-41f0-aca0-78b4fdcf1ce8, host: irfrance.tunelclub.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 3", server: amin2.atlasz.ir, port: 446, type: vless, tls: true, packet-encoding: xudp, uuid: 48c50301-15d6-5aea-89ab-16742beacb41, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 9", server: 6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 700, type: vless, tls: true, packet-encoding: xudp, uuid: 505fd133-666c-4113-985f-1b1f5eb81423, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 4", server: germany.heliyadak.ir, port: 52678, type: vless, tls: true, packet-encoding: xudp, uuid: 589c0f96-7ab5-470b-8f1d-cb87e09d2138, network: ws, ws-opts: {path: /, headers: {Host: germany.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 5", server: blog.telegrambot4.ir, port: 60, type: vless, tls: true, packet-encoding: xudp, uuid: 6d12fa79-2eab-4082-b5f5-90f3c4c08165, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 6", server: start.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 95473681-e26d-4ab3-8f90-c61e47881866, host: start.x22pro.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 10", server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 11", server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 12", server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 7", server: index.sandis.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d9438566-ecb5-47e8-8aa1-cf4ff68b3e66, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 13", server: 104.21.11.130, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: e2b6d6d6-b598-4711-95e9-ca9671d87a91, servername: tala.sap-lotmarx.ir, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /er=2048, headers: {Host: tala.sap-lotmarx.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 14", server: ci20.navilo.ir, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: e2b6d6d6-b598-4711-95e9-ca9671d87a91, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 15", server: el20.melyro.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: e2b6d6d6-b598-4711-95e9-ca9671d87a91, host: proxmox.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡` 8", server: posh.sap-lotmarx.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: e2b6d6d6-b598-4711-95e9-ca9671d87a91, host: Fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 16", server: ret20.iranroyalzhen.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e2b6d6d6-b598-4711-95e9-ca9671d87a91, servername: refersion.com, host: refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: w12Owj7C1mkuwJNVIGJkYczRM3_1216PCoWmdGxlujE, short-id: 824db1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 17", server: fiin.tldoom.online, port: 43377, type: vless, tls: true, packet-encoding: xudp, uuid: fa684fb4-3083-48b1-92a3-d3cc0786e865, host: igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 18", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 19", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 20", server: turk4.warzone1.in, port: 23765, type: vmess, uuid: 69a35875-6fec-9891-ac7e-c57af2eda020, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 21", server: uk.arabies.net, port: 6502, type: vmess, uuid: f0402184-e9d8-4912-a67c-f9af819d02ac, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 22", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 23", server: line6.twowayfil.link, port: 51655, type: vmess, uuid: fdd4ed7a-6a5d-46b2-8c8f-f75e562a3d52, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN 🚀| با ما متصل بمون⚡ 24", server: serb.srvtogo.com, port: 9900, type: vmess, uuid: d191f0ee-ccd5-43ab-b422-bae89a4bbcb9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@i10VPN 🚀| با ما متصل بمون⚡`", server: emergency.layer-ziro.ir, port: 2001, type: vless, tls: true, packet-encoding: xudp, uuid: abe4341f-be98-4228-a8e7-86b0a4fe75d6, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -513,114 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -636,114 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@i10VPN 🚀| با ما متصل بمون⚡"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 2"
       - "@i10VPN 🚀| با ما متصل بمون⚡`"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 2"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 3"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 9"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 4"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 5"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 6"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 10"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 11"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 12"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 7"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 13"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 14"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 15"
-      - "@i10VPN 🚀| با ما متصل بمون⚡` 8"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 16"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 17"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 18"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 19"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 20"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 21"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 22"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 23"
-      - "@i10VPN 🚀| با ما متصل بمون⚡ 24"
   - name: دانلود منیجر 📥
     type: select
     proxies:
