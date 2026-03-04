@@ -465,10 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***🟢***-@SPEEDS_VPN1`", server: fast2.lolokhan.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 5d870ac3-9c5c-8071-9081-e9a79bce002b, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: greencp3.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🟢***-@SPEEDS_VPN1", server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🟢***-@SPEEDS_VPN1 2", server: ir.api.clothesshopping.ir, port: 19163, type: vless, tls: true, packet-encoding: xudp, uuid: ce7331c5-a28c-4478-ae06-2a2c5b5416fe, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🟢***-@SPEEDS_VPN1 3", server: oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com, port: 3090, type: vless, tls: true, packet-encoding: xudp, uuid: dc923edf-9962-4817-bd51-f43f696c5fbc, network: ws, ws-opts: {path: "/XIXVPN?ed", headers: {Host: ebqbi.knedno.kbrgcwq.aqpfmy.utzuryso.infinityofconnectedminds.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🟢***-@SPEEDS_VPN1`", server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1`", server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: e5cd89aa-0f91-4ad7-81bd-3d027f17eeb5, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🟢***-@SPEEDS_VPN1` 2", server: jd1.deakhemashtiiirann.online, port: 8090, type: vless, tls: true, packet-encoding: xudp, uuid: f2160837-ddd9-424e-8fb9-b08da44b39c7, host: jd1.deakhemashtiiirann.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -488,9 +485,6 @@ proxy-groups:
     type: select
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: خودکار (بهترین پینگ) 🤖
@@ -500,9 +494,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -512,9 +503,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: اتصال پایدار 🔗
@@ -533,9 +521,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: توزیع بار (گردشی) 🔁
@@ -545,9 +530,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: توزیع بار (موقت) ⏳
@@ -557,9 +539,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "***🟢***-@SPEEDS_VPN1`"
-      - "***🟢***-@SPEEDS_VPN1"
-      - "***🟢***-@SPEEDS_VPN1 2"
-      - "***🟢***-@SPEEDS_VPN1 3"
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🟢***-@SPEEDS_VPN1` 2"
   - name: دانلود منیجر 📥

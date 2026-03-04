@@ -473,16 +473,14 @@ proxies:
   - {name: 13.39.97.14:22222, server: 13.39.97.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.181.212.225:22222, server: 63.181.212.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.18.32.47:8443, server: 104.18.32.47, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 09825436-5781-496b-83bd-b992f7b6ef0f, servername: xpb.parsfast.ir, network: ws, ws-opts: {path: /, headers: {Host: xpb.parsfast.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 140.248.165.204:80, server: 140.248.165.204, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 10f11182-a46e-42fc-9fec-f81baa39fa3a, network: ws, ws-opts: {path: /containers/fi, headers: {Host: wellcome-losangles.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: brenna.ns.cloudflare.com:443, server: brenna.ns.cloudflare.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1b2c91ab-f6c9-42f8-b2c6-8de0ac133d63, servername: terazhediii.info, network: ws, ws-opts: {path: /sghiyws, headers: {Host: terazhediii.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: am01-vlr01.tcp-reset-club.net:21443, server: am01-vlr01.tcp-reset-club.net, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 86e999a2cdc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bgr01-vlr01.tcp-reset-club.net:15443, server: bgr01-vlr01.tcp-reset-club.net, port: 15443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: f79448a30d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: cze01-vlr01.tcp-reset-club.net:10443, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9a909-2e81-4f6f-b999-def280062188, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: d3b13f31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 212.233.92.193:443, server: 212.233.92.193, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 66bb28f3-6d53-4e48-a8ee-15832815c359, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5dhqQP68hzsZN7lKNcZQLcDLMZ8PRwpE70pHyUr_sRs, short-id: 2c01bea1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cze01-vlr01.tcp-reset-club.net:10443, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: cze01-vlr01.tcp-reset-club.net:10443 2, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9a909-2e81-4f6f-b999-def280062188, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: d3b13f31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dd.openaccessnode.com:2197 3, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dd.openaccessnode.com:50 2, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 195.133.88.238:61809, server: 195.133.88.238, port: 61809, type: vless, tls: true, packet-encoding: xudp, uuid: 899251ca-be66-4d21-84d8-bd7fbf10150b, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 0Orr9QAz2hKT1K6aKa64azrlgdh4DMkwvTRg1FacNAI, short-id: 741a96cc25132fe3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ss.02020.sbs:8443, server: ss.02020.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 7.cdnconn.com:23335, server: 7.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gyeisv.aloiacs.shop:2087, server: gyeisv.aloiacs.shop, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, servername: Y6lGfTpXg7.TrAmVoKeLi.InFo, alpn: ["h3,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -515,16 +513,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
@@ -547,16 +543,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
@@ -579,16 +573,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
@@ -620,16 +612,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
@@ -652,16 +642,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
@@ -684,16 +672,14 @@ proxy-groups:
       - 13.39.97.14:22222
       - 63.181.212.225:22222
       - 104.18.32.47:8443
-      - 140.248.165.204:80
-      - brenna.ns.cloudflare.com:443
+      - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
-      - 212.233.92.193:443
+      - cze01-vlr01.tcp-reset-club.net:10443 2
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
+      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
-      - dd.openaccessnode.com:50 2
-      - 195.133.88.238:61809
       - ss.02020.sbs:8443
       - 7.cdnconn.com:23335
       - gyeisv.aloiacs.shop:2087
