@@ -466,29 +466,27 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
+  - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 18.183.167.108:331, server: 18.183.167.108, port: 331, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.97.14:22222, server: 13.39.97.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.181.212.225:22222, server: 63.181.212.225, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.18.32.47:8443, server: 104.18.32.47, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 09825436-5781-496b-83bd-b992f7b6ef0f, servername: xpb.parsfast.ir, network: ws, ws-opts: {path: /, headers: {Host: xpb.parsfast.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 153.121.45.139:4674, server: 153.121.45.139, port: 4674, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.224.29.111:22222, server: 15.224.29.111, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.28.154.195:22222, server: 52.28.154.195, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇷🇺 nr-01.opsvpnvless.ru:443, server: nr-01.opsvpnvless.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1218c022-dca8-49e5-b7d4-a04f3023db81, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0, short-id: 4e249e62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.98.218:8443, server: 144.31.98.218, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: am01-vlr01.tcp-reset-club.net:21443, server: am01-vlr01.tcp-reset-club.net, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 86e999a2cdc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bgr01-vlr01.tcp-reset-club.net:15443, server: bgr01-vlr01.tcp-reset-club.net, port: 15443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: f79448a30d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cze01-vlr01.tcp-reset-club.net:10443, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cze01-vlr01.tcp-reset-club.net:10443 2, server: cze01-vlr01.tcp-reset-club.net, port: 10443, type: vless, tls: true, packet-encoding: xudp, uuid: 46c9a909-2e81-4f6f-b999-def280062188, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: d3b13f31}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 146.185.240.4:443, server: 146.185.240.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 642e5ad8-bd76-07d0-8b5c-b4d0628f07bc, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197 2, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dd.openaccessnode.com:2197 3, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ss.02020.sbs:8443, server: ss.02020.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 7.cdnconn.com:23335, server: 7.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: gyeisv.aloiacs.shop:2087, server: gyeisv.aloiacs.shop, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e999db7a-1b17-4da6-bc37-c9fa24af2e93, servername: Y6lGfTpXg7.TrAmVoKeLi.InFo, alpn: ["h3,h2"], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.241.193.60:443, server: 185.241.193.60, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f23b2b7e-c876-4f7f-bca5-20a4f57c3864, servername: nl.reality.tv123.ru, host: nl.reality.tv123.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 31.129.22.64:47910, server: 31.129.22.64, port: 47910, type: vless, tls: true, packet-encoding: xudp, uuid: f651b25b-0a6a-4954-910f-7c07a1f6f664, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: UfNUyUPOiqRvjHvk4d5M1x8MTzYxDzb810fGH9CB_kQ, short-id: d194cf18101d98de}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 46.225.84.134, port: 18181, type: vmess, uuid: 8241789c-dba0-498b-97a0-ef349ba21f8a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: c86s3.portablesubmarines.com, port: 31350, type: vmess, uuid: 5f7e4a08-757a-48fa-8ed8-38599c684851, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh17v6.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 217.16.25.94:8443, server: 217.16.25.94, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: edc9daf2-fc2e-435b-a87b-8427020b1d40, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: urvTdWo4dZxKfyZPbqMnVhX319f-6W_7pZtHITljvy4, short-id: aca9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -506,29 +504,27 @@ proxy-groups:
     type: select
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -536,29 +532,27 @@ proxy-groups:
     tolerance: 50
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -566,29 +560,27 @@ proxy-groups:
     tolerance: 50
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -605,29 +597,27 @@ proxy-groups:
     interval: 600
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -635,29 +625,27 @@ proxy-groups:
     interval: 600
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -665,29 +653,27 @@ proxy-groups:
     interval: 600
     proxies:
       - admin.c1.havij.co:443
+      - 193.135.174.135:990
+      - series-a1.samanehha.co:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 18.183.167.108:331
-      - 13.39.97.14:22222
-      - 63.181.212.225:22222
-      - 104.18.32.47:8443
+      - 153.121.45.139:4674
+      - 15.224.29.111:22222
+      - 52.28.154.195:22222
+      - 🇷🇺 nr-01.opsvpnvless.ru:443
+      - 144.31.98.218:8443
       - am01-vlr01.tcp-reset-club.net:21443
       - bgr01-vlr01.tcp-reset-club.net:15443
       - cze01-vlr01.tcp-reset-club.net:10443
       - cze01-vlr01.tcp-reset-club.net:10443 2
+      - 146.185.240.4:443
       - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:2197 2
-      - dd.openaccessnode.com:2197 3
       - dd.openaccessnode.com:50
       - ss.02020.sbs:8443
-      - 7.cdnconn.com:23335
-      - gyeisv.aloiacs.shop:2087
-      - 185.241.193.60:443
-      - 31.129.22.64:47910
-      - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇩🇪 [openproxylist.com] vmess-DE
-      - 🇺🇸 [openproxylist.com] vmess-US 2
+      - all.tellmethetrue.shop:443
+      - 217.16.25.94:8443
   - name: دانلود منیجر 📥
     type: select
     proxies:

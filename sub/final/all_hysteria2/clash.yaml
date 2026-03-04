@@ -467,7 +467,6 @@ rule-providers:
 proxies:
   - {name: 107.174.181.241:65160, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 6@oneclickvpnkeys, server: 132.145.52.10, port: 65535, type: hysteria2, ports: 65535, password: edd0d9b9-d2ef-40a0-af10-0dca357351e3, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -486,7 +485,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -495,7 +493,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -504,7 +501,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -522,7 +518,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -531,7 +526,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -540,7 +534,6 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-@KIA_NET 🚀| با ما متصل بمون⚡
-      - 6@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select
     proxies:
