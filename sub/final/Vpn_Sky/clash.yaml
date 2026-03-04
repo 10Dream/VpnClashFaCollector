@@ -465,8 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount, server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount 2, server: fn2-ab-dev.cdnpark.net, port: 310, type: vless, tls: true, packet-encoding: xudp, uuid: a63b6b63-464c-41b6-8f80-9a717db46f8c, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: دانلود نکن حجم محدود | @Vpn_Sky`, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vpn_Sky", server: host-speed.net, port: 8080, type: vmess, uuid: 789a56f0-c517-4579-8df8-4e8d478ec186, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: host-speed.net, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - NetAccount
-      - NetAccount 2
+      - دانلود نکن حجم محدود | @Vpn_Sky`
+      - "@Vpn_Sky"
   - name: دانلود منیجر 📥
     type: select
     proxies:

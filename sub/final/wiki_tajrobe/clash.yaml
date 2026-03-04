@@ -465,20 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: finland.dehnavy.ir:39461, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.215.229.66:2037, server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 312fc303-f529-4283-8acb-a1db2aace2e3, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: porttt2.webchipro2.ir:3040, server: porttt2.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000, server: g2-tun-uk.a1mshop2.xyz, port: 13000, type: vless, tls: true, packet-encoding: xudp, uuid: 62b8a731-524f-450e-bee4-1fcb72936106, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ir-www-germani1.khabarkamkwww.fun:8081, server: ir-www-germani1.khabarkamkwww.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 9d5ee9e3-782a-4496-b1bd-038e4a45da49, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 45.94.213.94:3434, server: 45.94.213.94, port: 3434, type: vless, tls: true, packet-encoding: xudp, uuid: a3ca5e22-583a-4e1e-90c8-2e9741e3bb80, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s5.amz-fast.top:4030, server: s5.amz-fast.top, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: af248d9a-8e8b-450b-ba07-763367e34837, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 78.157.37.186:2099, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: b174b5d5-8cd7-4f2d-927a-f1a5ec309d36, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 212.80.8.212:38941, server: 212.80.8.212, port: 38941, type: vless, tls: true, packet-encoding: xudp, uuid: b50df17f-1d3c-4d8f-941f-f6f634c19c9b, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: d2.armd.fun:5056, server: d2.armd.fun, port: 5056, type: vless, tls: true, packet-encoding: xudp, uuid: f0a7fff1-632b-45f1-86e9-ef42015c231e, host: d2.armd.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.12.33.166:1005, server: 81.12.33.166, port: 1005, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.12.33.166:1007, server: 81.12.33.166, port: 1007, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.12.33.166:1017, server: 81.12.33.166, port: 1017, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.12.33.175:1019, server: 81.12.33.175, port: 1019, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: 172.64.158.2, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 2", server: ger2.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 5ebdea60-0a8d-49cb-8644-99207335060b, host: parsabr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 3", server: 185.173.129.127, port: 102, type: vless, tls: true, packet-encoding: xudp, uuid: c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 4", server: us.vipnett.top, port: 2087, type: vmess, uuid: 6660d006-7939-43e8-901b-b06b21fc5161, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -495,60 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -564,60 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - finland.dehnavy.ir:39461
-      - 185.215.229.66:2037
-      - porttt2.webchipro2.ir:3040
-      - 🇬🇧 g2-tun-uk.a1mshop2.xyz:13000
-      - ir-www-germani1.khabarkamkwww.fun:8081
-      - 45.94.213.94:3434
-      - s5.amz-fast.top:4030
-      - 78.157.37.186:2099
-      - 212.80.8.212:38941
-      - d2.armd.fun:5056
-      - 81.12.33.166:1005
-      - 81.12.33.166:1007
-      - 81.12.33.166:1017
-      - 81.12.33.175:1019
+      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
+      - "Telegram: @wiki_tajrobe 3"
+      - "Telegram: @wiki_tajrobe 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

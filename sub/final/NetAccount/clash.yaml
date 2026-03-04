@@ -465,19 +465,19 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: NetAccount`, server: 194.233.73.51, port: 14453, type: ss, cipher: chacha20-ietf-poly1305, password: 764a4d8c1c76eb50, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 178.17.61.67, port: 5790, type: ss, cipher: chacha20-ietf-poly1305, password: qS3skwmolrQ70q842irQD0, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: 15.188.31.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: 15.236.135.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 7, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2fb9335d-6a89-4eed-8246-0d5076fd556e, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 8, server: 77.83.245.188, port: 55169, type: vless, tls: true, packet-encoding: xudp, uuid: 3963f5d3-ed71-4a11-98d5-3154d65a9502, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: BXstOSOV6FnB-uBB_ITszxxjFu4nSzXrrVVdoHOLDGo, short-id: 5bb854d009781a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 9, server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 10, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 4c55e931-e33b-487c-806e-cb29b64a089c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 11, server: 89.34.230.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 83b3bb17-bc07-453f-9f10-4264ae839314, servername: namasha.com, host: namasha.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 12, server: s1.db-link.in, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 873a8e21-5fed-36a7-b251-734ebc97381c, servername: s6.oboob.cn, alpn: [h3%2Ch2], network: ws, ws-opts: {path: /db1024c59ce5eab9, headers: {Host: s6.oboob.cn}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount, server: 57.129.24.124, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: aveiror.com}}, udp: true, tfo: false}
+  - {name: NetAccount`, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: 92.242.196.118, port: 8881, type: vless, tls: true, packet-encoding: xudp, uuid: 0fac6184-396f-4dba-a8d5-69cffdc4362e, host: shad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 12c10df3-1a19-4a0b-95c6-8f43d5c890a2, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: vip.xqfire.ir, port: 911, type: vless, tls: true, packet-encoding: xudp, uuid: 134df9e6-f224-4373-9439-a5ecea0fd9f7, host: Telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: nim.ar-marz.fun, port: 5055, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf0199f-f45f-45b1-8cd8-324e7430d88a, host: parsabr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 6e3e76bf-9928-4eec-be2b-f8ea12fcc47d, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 9, server: 89.34.230.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 83b3bb17-bc07-453f-9f10-4264ae839314, servername: namasha.com, host: namasha.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 10, server: pl1.heliyadak.ir, port: 3228, type: vless, tls: true, packet-encoding: xudp, uuid: 91f8b4d5-b9eb-4740-b560-df710cc3c5e2, network: ws, ws-opts: {path: /, headers: {Host: pl1.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 11, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount, server: host-speed.net, port: 8080, type: vmess, uuid: 161b5354-405e-43b1-9d2f-af0de2321d01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: host-speed.net, udp: true, tfo: false}
+  - {name: NetAccount 2, server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -505,8 +505,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -524,8 +524,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -543,8 +543,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -571,8 +571,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -590,8 +590,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -609,8 +609,8 @@ proxy-groups:
       - NetAccount` 9
       - NetAccount` 10
       - NetAccount` 11
-      - NetAccount` 12
       - NetAccount
+      - NetAccount 2
   - name: دانلود منیجر 📥
     type: select
     proxies:

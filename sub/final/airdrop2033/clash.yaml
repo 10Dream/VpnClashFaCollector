@@ -465,9 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`, server: 104.18.32.47, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3, server: 193.46.81.207, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: de.cdn.stun.su, host: de.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 4daa022e84f8edf2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`, server: arsim3.bestfrends.ir, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 0a20fddc-8d3d-46ab-a8d6-d8d00299f80d, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2, server: ukt.web7ghost.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57286885-b4cc-477e-98cd-fd2bdd1dfe00, host: ukt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 619b87ed-584d-4b01-b07e-514e9a25ef51, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4, server: det.web7ghost.top, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 86512219-2fe9-42ac-ab0d-dc7604f9afe9, host: det.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5, server: bufa.heliyadak.ir, port: 2455, type: vless, tls: true, packet-encoding: xudp, uuid: 95795ee5-e9aa-405e-9c45-1d64dfb3b6c3, network: ws, ws-opts: {path: /, headers: {Host: bufa.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3, server: gr1.iranishops.com, port: 443, type: vmess, uuid: 51ee9cda-7134-9cfa-f57d-e0ee9ea91a5a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -484,27 +490,45 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -520,27 +544,45 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 3
   - name: دانلود منیجر 📥
     type: select
     proxies:

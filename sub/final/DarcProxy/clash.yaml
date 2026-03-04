@@ -465,22 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@DarcProxy جوین شو قطع نشی`", server: ir2.mahsanrz.ir, port: 2023, type: vless, tls: true, packet-encoding: xudp, uuid: 085fd318-41f2-4a0a-8438-74f311de1c56, network: ws, ws-opts: {path: /, headers: {Host: ir2.mahsanrz.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: موقت`, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: 125bcb79-37c3-43c2-91f5-70fe36d75a97, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: بیاین گپ روبیکا`, server: 85.133.221.61, port: 543, type: vless, tls: true, packet-encoding: xudp, uuid: 16a5322b-0db6-45b7-9506-5aec747d999d, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "|  @DarcProxy  جوین شو", server: de.giftiranstore.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 4a50603d-024c-49ab-bf8d-2f225265d583, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "|  @DarcProxy  جوین شو`", server: de.irwebsrv.com, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 4a50603d-024c-49ab-bf8d-2f225265d583, host: excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| @DarcProxy  جوین شو", server: nl.irwebsrv.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 4a50603d-024c-49ab-bf8d-2f225265d583, host: excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 10 gig @DarcProxy, server: porttt1.webchipro2.ir, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: porttt1.webchipro2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2|10 gig @DarcProxy, server: porttt2.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3|10 gig @DarcProxy, server: porttt3.webchipro2.ir, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: porttt3.webchipro2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 4|10 gig @DarcProxy`, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 300 مگابایت دان نزنین, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 300 مگابایت دان نزنین`, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@DarcProxy`", server: bot.heliyadak.ir, port: 50068, type: vless, tls: true, packet-encoding: xudp, uuid: c0fef5f3-2d7e-4cb8-bbb2-ed134dc9c51e, network: ws, ws-opts: {path: /, headers: {Host: bot.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (🇮🇷 نت ملی)@DarcProxy  جوین شو`, server: grandmas-hotel.wp-toolbox.ir, port: 2305, type: vless, tls: true, packet-encoding: xudp, uuid: c54d83b6-49fa-40d1-930a-bfc9f71c3001, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: (🇮🇷 نت ملی)@DarcProxy  جوین شو…, server: grandmas-hotel.wp-toolbox.ir, port: 2305, type: vless, tls: true, packet-encoding: xudp, uuid: c54d83b6-49fa-40d1-930a-bfc9f71c3001, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@DarcProxy  جوین شو", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: a41d51ae-82cc-4104-8d09-4c61acbed178, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 500 گیگ, server: 212.80.21.220, port: 10200, type: vless, tls: true, packet-encoding: xudp, uuid: 13b63262-5da7-41d2-a943-27d4deed897b, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -497,66 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -572,66 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@DarcProxy جوین شو قطع نشی`"
-      - موقت`
-      - بیاین گپ روبیکا`
-      - "|  @DarcProxy  جوین شو"
-      - "|  @DarcProxy  جوین شو`"
-      - "| @DarcProxy  جوین شو"
-      - 10 gig @DarcProxy
-      - 2|10 gig @DarcProxy
-      - 3|10 gig @DarcProxy
-      - 4|10 gig @DarcProxy`
-      - 300 مگابایت دان نزنین
-      - 300 مگابایت دان نزنین`
-      - "@DarcProxy`"
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو`
-      - (🇮🇷 نت ملی)@DarcProxy  جوین شو…
-      - "@DarcProxy  جوین شو"
+      - 500 گیگ
   - name: دانلود منیجر 📥
     type: select
     proxies:

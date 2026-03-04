@@ -465,8 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 1@oneclickvpnkeys, server: 107.175.51.245, port: 40001, type: tuic, uuid: aea65e62-056d-49e4-b097-cb978f176430, password: aea65e62-056d-49e4-b097-cb978f176430, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2@oneclickvpnkeys`, server: nat3.reconv.pl, port: 5432, type: tuic, uuid: aea65e62-056d-49e4-b097-cb978f176430, password: aea65e62-056d-49e4-b097-cb978f176430, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.python.org, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: t1@oneclickvpnkeys, server: 5.83.129.210, port: 10088, type: tuic, uuid: 9bbd1f42-7ae7-4239-bd10-a68de95e3295, password: dongtaiwang.com, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: apple.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: t2@oneclickvpnkeys`, server: 107.174.196.235, port: 16367, type: tuic, uuid: e212986c-65d2-4ea2-8489-fc504f71ab1b, password: e212986c-65d2-4ea2-8489-fc504f71ab1b, alpn: [h3], udp-relay-mode: native, congestion-controller: bbr, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,24 +483,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -516,24 +516,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 1@oneclickvpnkeys
-      - 2@oneclickvpnkeys`
+      - t1@oneclickvpnkeys
+      - t2@oneclickvpnkeys`
   - name: دانلود منیجر 📥
     type: select
     proxies:

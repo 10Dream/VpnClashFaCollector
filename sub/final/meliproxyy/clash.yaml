@@ -465,24 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@meliproxyy", server: gb1.vnet500.xyz, port: 32030, type: vless, tls: true, packet-encoding: xudp, uuid: 0413702d-739b-4c8a-80b1-8296ba54cfe6, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: meliproxyy`, server: srv2-germany.hajimamadcloud.com.tr, port: 1992, type: vless, tls: true, packet-encoding: xudp, uuid: 092e5bb7-bbe3-44da-a46d-0bea017a9c14, host: skyroom.online%2Cigap.net%2Cgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 2", server: hv344zom.novinpardazanpayam.net, port: 48908, type: vless, tls: true, packet-encoding: xudp, uuid: 0c04d4c1-3ff9-4844-a7e4-aadc902acdb0, host: www.uptvs.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 3", server: g2-de2-hz.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 2471c5fc-8a93-434b-8caf-177ff8849936, host: aparat.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 4", server: fl.v2online3.site, port: 24025, type: vless, tls: true, packet-encoding: xudp, uuid: 27b05085-9b96-4ee6-9c94-c2b4cafdb7d2, host: myket.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 5", server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2fb9335d-6a89-4eed-8246-0d5076fd556e, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy`", server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 312fc303-f529-4283-8acb-a1db2aace2e3, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 6", server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 312fc303-f529-4283-8acb-a1db2aace2e3, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 7", server: my.configfast.site, port: 4013, type: vless, tls: true, packet-encoding: xudp, uuid: 44de73bc-eb6d-429d-9c2f-ec0a6e4a6681, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 2", server: tu5.pokerpings.com, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 65e7f833-78f3-4013-9402-2694b09de74d, host: filimo.com%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 3", server: melli.ciliko.ir, port: 4010, type: vless, tls: true, packet-encoding: xudp, uuid: 762d1797-d62b-4f1d-ac10-f19943af67c7, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 8", server: 212.80.8.212, port: 38941, type: vless, tls: true, packet-encoding: xudp, uuid: 7f08985c-4d1a-4ed3-bea7-c1da1b3ae3a6, host: speedtest.net%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 9", server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 4", server: sr-d-2.sedarchahar.top, port: 9102, type: vless, tls: true, packet-encoding: xudp, uuid: a4f7ac23-8146-464b-a932-9753f97303aa, host: api.live98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 10", server: 185.231.113.237, port: 7474, type: vless, tls: true, packet-encoding: xudp, uuid: ab0d9568-1ad3-4af5-961c-d10ca9a634ad, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy` 5", server: 81.12.33.166, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: b31fa821-b818-4eb2-9242-241b930152b2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 11", server: 81.12.33.175, port: 1000, type: vmess, uuid: cb94354e-f7f7-482a-9338-00bc75b8d13c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy 12", server: x2.mehradservice.com, port: 4452, type: vmess, uuid: 92db226e-a0b8-4623-b4fa-796f4dd94167, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@meliproxyy", server: ird1.utahnet.top, port: 20791, type: vmess, uuid: 466c93b3-bf7b-4095-8db3-dc98569bf6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -500,23 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -524,23 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -548,23 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -581,23 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -605,23 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -629,23 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
-      - meliproxyy`
-      - "@meliproxyy 2"
-      - "@meliproxyy 3"
-      - "@meliproxyy 4"
-      - "@meliproxyy 5"
-      - "@meliproxyy`"
-      - "@meliproxyy 6"
-      - "@meliproxyy 7"
-      - "@meliproxyy` 2"
-      - "@meliproxyy` 3"
-      - "@meliproxyy 8"
-      - "@meliproxyy 9"
-      - "@meliproxyy` 4"
-      - "@meliproxyy 10"
-      - "@meliproxyy` 5"
-      - "@meliproxyy 11"
-      - "@meliproxyy 12"
   - name: دانلود منیجر 📥
     type: select
     proxies:

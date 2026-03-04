@@ -470,158 +470,251 @@ proxies:
   - {name: 🇮🇷 @IranProxyPlus` 3, server: 141.101.114.68, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%3Fed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 4, server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%3Fed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 5, server: 198.41.200.74, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%3Fed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 6, server: 13.39.97.14, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 7, server: 15.188.31.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 8, server: 15.188.31.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 9, server: 15.224.29.111, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 10, server: 15.236.135.208, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 11, server: 63.182.77.216, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 12, server: 15.188.31.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 13, server: 15.224.29.111, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 14, server: 15.224.29.111, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 15, server: 15.236.135.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 16, server: 15.188.31.240, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 17, server: 15.236.135.208, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 18, server: 15.236.135.208, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 19, server: q1.aparatrat1.info, port: 4646, type: vless, tls: true, packet-encoding: xudp, uuid: 06c16bf0-3218-43ab-ba56-6032251ff98d, host: q1.aparatrat1.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 20, server: q1.aparatrat1.info, port: 4646, type: vless, tls: true, packet-encoding: xudp, uuid: 06c16bf0-3218-43ab-ba56-6032251ff98d, host: q1.aparatrat1.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 21, server: 109.120.188.156, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 080556c0-0117-0bb8-b1d9-3708fa8ab8c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 22, server: 5.188.140.244, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 080556c0-0117-0bb8-b1d9-3708fa8ab8c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 23, server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 24, server: 81.12.35.97, port: 500, type: vless, tls: true, packet-encoding: xudp, uuid: 09355d42-489a-4382-8622-d955e0d5a73e, servername: www.aparat.com, host: www.aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 25, server: 109.120.188.156, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17c4e377-ea15-0bb8-98b2-3e348c9ff5d9, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 26, server: dqf21.sdssd1.sadqwdw1.carvan1.mimkiscx.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1a708429-1fee-47ec-8c46-ec5ea0f2fb96, servername: beh1.salonemojallal.ir., alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: beh1.salonemojallal.ir.}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 27, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 28, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 29, server: 185.213.10.102, port: 8186, type: vless, tls: true, packet-encoding: xudp, uuid: 2040adf8-586c-4679-8266-1fb453e2e580, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 30, server: simurgh.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 20adc847-4159-4f39-b79f-d563b660945f, host: simurgh.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 31, server: PaN1.taNuplOad.top, port: 61443, type: vless, tls: true, packet-encoding: xudp, uuid: 22539a4e-2975-4586-99a4-2bfaeb9ccd2b, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 32, server: PaN1.taNuplOad.top, port: 61443, type: vless, tls: true, packet-encoding: xudp, uuid: 22539a4e-2975-4586-99a4-2bfaeb9ccd2b, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 33, server: 3.65.177.161, port: 37183, type: vless, tls: true, packet-encoding: xudp, uuid: 275ea421-8419-4d72-9348-4c4e9b5b2f1f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 34, server: fl.v2online3.site, port: 24025, type: vless, tls: true, packet-encoding: xudp, uuid: 27b05085-9b96-4ee6-9c94-c2b4cafdb7d2, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 35, server: 94.183.241.159, port: 44444, type: vless, tls: true, packet-encoding: xudp, uuid: 288bf553-0631-4d4d-aeb2-82b490faf8e0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 36, server: 188.212.97.84, port: 19535, type: vless, tls: true, packet-encoding: xudp, uuid: 2a1c58db-78b0-467d-b4b4-aad83b20c3fe, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 37, server: Blue9.webjob7.eu, port: 48486, type: vless, tls: true, packet-encoding: xudp, uuid: 2cf00aaa-898f-4883-9eb7-ce5b56a1c1dd, servername: dash.cloudflare.com, host: dash.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: I2bozyAqYo5CxnJZ_WtX5uP_BcaujVBfXnYu85sU2FM, short-id: a629f128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 38, server: fn2-ab-dev.cdnpark.net, port: 310, type: vless, tls: true, packet-encoding: xudp, uuid: 2f914475-2115-40ed-b86f-27a7fb3ce340, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 39, server: 94.183.241.160, port: 81, type: vless, tls: true, packet-encoding: xudp, uuid: 305ec9f7-b1be-4ab3-8732-34bb0ddd8af0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 40, server: 94.183.241.160, port: 81, type: vless, tls: true, packet-encoding: xudp, uuid: 305ec9f7-b1be-4ab3-8732-34bb0ddd8af0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 41, server: 185.215.229.66, port: 2037, type: vless, tls: true, packet-encoding: xudp, uuid: 312fc303-f529-4283-8acb-a1db2aace2e3, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 42, server: 46.38.151.42, port: 3128, type: vless, tls: true, packet-encoding: xudp, uuid: 33656230-3534-4431-a161-633762663066, network: ws, ws-opts: {path: "us/l/w/Y3YwGNO9Gl7jnlTD?ed=2047", headers: {Host: mail.nic.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 43, server: 2.188.212.54, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 33bab917-3a20-4294-ad71-7277e61cf2e0, servername: www.skyroom.online, host: www.skyroom.online, path: /, reality-opts: {public-key: YX9MYt8jKxTc6OGfACpBJAOqW4jc6v-RMQos4rzFHwI, short-id: af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 44, server: 104.17.150.99, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 388a6c57-87e7-420b-afe2-b3eb670fd7da, network: ws, ws-opts: {path: /, headers: {Host: vip.yaml7.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 45, server: 77.83.245.188, port: 55169, type: vless, tls: true, packet-encoding: xudp, uuid: 3963f5d3-ed71-4a11-98d5-3154d65a9502, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: BXstOSOV6FnB-uBB_ITszxxjFu4nSzXrrVVdoHOLDGo, short-id: 5bb854d009781a17}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 46, server: 5.188.140.209, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 3bb96984-fc3d-0bb8-912c-aeccbeafb334, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 47, server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: 45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 48, server: 94.242.51.174, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3fbacf09-0a59-4e7d-9597-8b3ac882c3e2, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 49, server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 50, server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 51, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 52, server: 37.139.33.187, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 4292f5ab-8963-012c-8052-3615895ce4f1, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 53, server: 37.139.33.187, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 4292f5ab-8963-044c-8052-3615895ce4f1, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 54, server: 146.185.242.246, port: 51006, type: vless, tls: true, packet-encoding: xudp, uuid: 4292f5ab-8963-1770-8052-3615895ce4f1, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 55, server: ic.imsoon.io, port: 45219, type: vless, tls: true, packet-encoding: xudp, uuid: 45fdb236-47b4-404c-a330-c66270de172e, host: ic.imsoon.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 56, server: beshcan.designseda.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 465905bf-e61a-4047-973c-aec31cd67720, servername: perl.org, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: site, headers: {Host: perl.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 57, server: beshcan.designseda.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 465905bf-e61a-4047-973c-aec31cd67720, servername: speedtest.net, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: site, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 58, server: beshcan.designseda.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 465905bf-e61a-4047-973c-aec31cd67720, servername: theverge.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: site, headers: {Host: theverge.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 59, server: hosts.global.ssl.fastly.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 465905bf-e61a-4047-973c-aec31cd67720, servername: hosts.global.ssl.fastly.net, alpn: [http%2F1.1], network: ws, ws-opts: {path: site, headers: {Host: hosts.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 60, server: mx2.tehrantolidi.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 465905bf-e61a-4047-973c-aec31cd67720, network: ws, ws-opts: {path: site, headers: {Host: dcparvaz.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 61, server: kz.quattro-tech.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 46dbabb0-b074-46ff-83dd-08aab029309b, servername: kz.quattro-tech.ru, host: kz.quattro-tech.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc, short-id: 43dcff53849b81e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 62, server: 51.158.206.103, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 63, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 64, server: 91.107.186.197, port: 40599, type: vless, tls: true, packet-encoding: xudp, uuid: 49601071-7f10-4bc8-aab7-eb33ab87cbe2, path: namasha.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 65, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 66, server: 46.8.113.237, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4a098f1e-c449-4061-8b95-70ae594d3458, servername: ign.dev, host: ign.dev, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 67, server: tu4.pokerpings.com, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: 4bc074ff-be74-4427-b760-2b919206e28b, host: hub.docker.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 68, server: porttt3.webchipro2.ir, port: 4030, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: porttt3.webchipro2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 69, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 70, server: porttt4.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 4c2a61d3-2b8d-e0a1-5195-53ac103c5396, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 71, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 4c55e931-e33b-487c-806e-cb29b64a089c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 72, server: 81.12.46.79, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 53411712-8c94-ed76-29de-5a323a0b3d76, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 73, server: germany.heliyadak.ir, port: 52678, type: vless, tls: true, packet-encoding: xudp, uuid: 589c0f96-7ab5-470b-8f1d-cb87e09d2138, network: ws, ws-opts: {path: /, headers: {Host: germany.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 74, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: 590ebb6c-8fe2-4f3d-8d93-48800926dd01, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 75, server: pm5.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5df01bcc-0540-452d-bdaa-3374821fa984, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 76, server: pm5.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5df01bcc-0540-452d-bdaa-3374821fa984, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 77, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 60c4d266-1244-4354-837f-d42b9f51077b, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 78, server: 158.101.152.6, port: 2919, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 79, server: 159.69.197.209, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 80, server: 188.114.99.243, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: Telegram=, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 81, server: 190.93.244.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 82, server: 190.93.245.94, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 83, server: 216.205.52.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "?ed=2560", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 84, server: chatgpt.com, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "?ed=2560", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 85, server: 5.145.113.130, port: 22126, type: vless, tls: true, packet-encoding: xudp, uuid: 6b0aee38-ff0e-4bfe-b051-62db84e8ca1c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 86, server: 94.183.171.3, port: 41314, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf2c61f-db69-4e00-9dc5-249b83e69d73, host: bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 87, server: wolf2.adslimit.info, port: 2345, type: vless, tls: true, packet-encoding: xudp, uuid: 7007111a-c28b-4ab1-8d28-bc7b42681028, host: wolf2.adslimit.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 88, server: gemini.vhuma.com, port: 65, type: vless, tls: true, packet-encoding: xudp, uuid: 711dfaf3-7bc7-41d2-b471-f51067a3c41c, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 89, server: gemini.vhuma.com, port: 65, type: vless, tls: true, packet-encoding: xudp, uuid: 711dfaf3-7bc7-41d2-b471-f51067a3c41c, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 90, server: 91.107.186.197, port: 16533, type: vless, tls: true, packet-encoding: xudp, uuid: 7233ca32-0187-4285-a994-2a5d032b4c2f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 91, server: 94.183.241.159, port: 44444, type: vless, tls: true, packet-encoding: xudp, uuid: 72ab2eb6-1ed6-4715-b9b9-d4fb136b7afd, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 92, server: Lodffdf.nexavps.ir, port: 4590, type: vless, tls: true, packet-encoding: xudp, uuid: 74edc0d8-b21a-402d-a5c4-47e81961a8c4, host: zhaket.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 93, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 94, server: marzha.antimage.ir, port: 45591, type: vless, tls: true, packet-encoding: xudp, uuid: 7a55574d-552b-419e-e1ea-e690636e9bed, host: marzha.antimage.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 95, server: 87.107.100.220, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 80475de3-6356-4fce-99c7-ff080bbb1494, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 96, server: 2.188.239.181, port: 946, type: vless, tls: true, packet-encoding: xudp, uuid: 82c99d6d-5db5-4def-a3b2-b5d23891793c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 97, server: 81.12.34.73, port: 946, type: vless, tls: true, packet-encoding: xudp, uuid: 82c99d6d-5db5-4def-a3b2-b5d23891793c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 98, server: v2.punakpark.com, port: 946, type: vless, tls: true, packet-encoding: xudp, uuid: 82c99d6d-5db5-4def-a3b2-b5d23891793c, host: v2.punakpark.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 99, server: 89.34.230.234, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 83b3bb17-bc07-453f-9f10-4264ae839314, servername: namasha.com, host: namasha.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 100, server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 101, server: meli.cloudzeusggwp.com.tr, port: 53802, type: vless, tls: true, packet-encoding: xudp, uuid: 890dfe4a-cee5-46bb-a359-e87be9c541e0, network: ws, ws-opts: {path: /, headers: {Host: meli.cloudzeusggwp.com.tr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 102, server: 45.149.115.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b648e4c-ac38-4809-951b-e1c8862b13d1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI, short-id: 96}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 103, server: 37.139.32.50, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c27381c-3124-0008-bfa3-76d1a00265c8, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc, short-id: 43dcff53849b81e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 104, server: ir2.yooznet.top, port: 9003, type: vless, tls: true, packet-encoding: xudp, uuid: 8fc78561-405a-4b02-bd13-36bfa9738e53, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 105, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: 907b21dc-1beb-4e27-8c0f-f711b8fb223f, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 106, server: 104.16.139.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 98aec3c3-d957-4363-9933-018e533c7c06, servername: uk.dlaparat.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: uk.dlaparat.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 107, server: 81.12.35.97, port: 500, type: vless, tls: true, packet-encoding: xudp, uuid: 9aa37687-87c2-41ee-a521-9621d96df732, servername: www.aparat.com, host: www.aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 108, server: unlimited.sibvpn.pro, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: a1c6fb9b-fccd-488e-8967-ff0879b4b07c, network: ws, ws-opts: {path: /, headers: {Host: unlimited.sibvpn.pro}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 109, server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a44e0875-210f-4941-9062-89b6361a14c6, servername: teams.live.com.afrcloud1.c01.kr, network: ws, ws-opts: {path: /, headers: {Host: teams.live.com.afrcloud1.c01.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 110, server: 138.199.150.141, port: 44344, type: vless, tls: true, packet-encoding: xudp, uuid: a62c4be7-04b0-405c-ae9f-d04f2a43ec13, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 111, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 112, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 113, server: dd.utproject.cv, port: 55467, type: vless, tls: true, packet-encoding: xudp, uuid: a86e6207-8294-454f-9b44-b9314cc86d57, servername: dd.utproject.cv, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: DOWNLOAD_MOVIES, headers: {Host: dd.utproject.cv}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 114, server: 46.245.120.148, port: 58653, type: vless, tls: true, packet-encoding: xudp, uuid: a87e8b98-7555-47a6-96a1-a77d52cad6cc, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 115, server: 93.94.51.13, port: 25451, type: vless, tls: true, packet-encoding: xudp, uuid: a90f4742-2f30-47b5-9f17-b6ab04cc98e8, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JlMOb8hVg1VOrRlMLdXpv8IADp-R4I-cIT856hz_Cg0, short-id: f686d19cd7b8b3df}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 116, server: vip.alphashop.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ab7d9b58-b297-4eaf-b8f5-3a02032a2f7c, host: vip.alphashop.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 117, server: emergency.layer-ziro.ir, port: 2001, type: vless, tls: true, packet-encoding: xudp, uuid: abe4341f-be98-4228-a8e7-86b0a4fe75d6, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 118, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: b174b5d5-8cd7-4f2d-927a-f1a5ec309d36, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 119, server: 212.80.8.212, port: 38941, type: vless, tls: true, packet-encoding: xudp, uuid: b50df17f-1d3c-4d8f-941f-f6f634c19c9b, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 120, server: goldalsa.netmeli.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c05589f6-9e1a-491e-a2eb-7af548676e68, host: goldalsa.netmeli.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 121, server: 62.141.32.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 122, server: 62.141.32.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 123, server: v2.royalway.shop, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c3a8f526-6f41-4884-adb8-f33b4ec30fa6, host: v2.royalway.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 124, server: q1.aparatrat1.info, port: 4646, type: vless, tls: true, packet-encoding: xudp, uuid: c941614f-0e94-4a4f-93b5-7220c84e5600, host: q1.aparatrat1.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 125, server: ir.api.clothesshopping.ir, port: 19163, type: vless, tls: true, packet-encoding: xudp, uuid: ce7331c5-a28c-4478-ae06-2a2c5b5416fe, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 126, server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 127, server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: d3663563-d1b8-42c3-b194-f5e9ed52b4fa, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 128, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 129, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 130, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 131, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 132, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 133, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d5ee5591-66ea-4f56-ac3c-e7991f727f5e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 134, server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: 107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 135, server: oodplkgju.vjdkem.mmejdus.ksmajww.cncjskwisuxjs.infinityofconnectedminds.com, port: 3090, type: vless, tls: true, packet-encoding: xudp, uuid: dc923edf-9962-4817-bd51-f43f696c5fbc, network: ws, ws-opts: {path: "XIXVPN?ed", headers: {Host: ebqbi.knedno.kbrgcwq.aqpfmy.utzuryso.infinityofconnectedminds.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 136, server: nl-90w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: getWorkerUpdates, headers: {Host: nl-90w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 137, server: ag.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: e30898f5-a810-4dbb-9cdb-dec742414e03, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 138, server: 5.160.12.250, port: 57100, type: vless, tls: true, packet-encoding: xudp, uuid: e30a03fa-68c5-41f5-d6d6-021dfd90ad91, servername: yahoo.com, host: yahoo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 139, server: de-1-tun.irantehrankhabar.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: e41cb6eb-fb97-4124-a055-7d15bcdf2779, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 140, server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 141, server: emergency.layer-ziro.ir, port: 2001, type: vless, tls: true, packet-encoding: xudp, uuid: e788cb2b-0024-4c21-b666-4438aeffed73, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 142, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 143, server: 85.133.221.52, port: 3001, type: vless, tls: true, packet-encoding: xudp, uuid: e9adbac6-90e1-4c1f-ad17-46226d45a262, host: fast.con, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 144, server: arvancloud.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb9c6754-b112-4047-bb81-1027dc4b9540, servername: snapp.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 145, server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb9c6754-b112-4047-bb81-1027dc4b9540, servername: mydigipay.com, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: mydigipay.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 146, server: www.isna.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb9c6754-b112-4047-bb81-1027dc4b9540, servername: www.isna.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: www.isna.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 147, server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: ws-vless, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 148, server: jd1.deakhemashtiiirann.online, port: 8090, type: vless, tls: true, packet-encoding: xudp, uuid: f2160837-ddd9-424e-8fb9-b08da44b39c7, host: jd1.deakhemashtiiirann.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 149, server: 47.236.148.7, port: 42759, type: vless, tls: true, packet-encoding: xudp, uuid: f514dfd2-fefe-49bd-e9a2-28225b9b338b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 150, server: 81.12.33.166, port: 1005, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 151, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f65d8f52-da18-404a-bc6b-55aee5736207, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 152, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f65d8f52-da18-404a-bc6b-55aee5736207, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 153, server: 130.185.73.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fb2c3bec-6ce1-4e8f-e753-036462e6f980, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 154, server: xc.smjhh.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fcdd6546-e4be-4c66-be8a-a5c11cd946a3, servername: x.smjhh.ir, network: ws, ws-opts: {path: /, headers: {Host: x.smjhh.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 155, server: xc.smjhh.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fcdd6546-e4be-4c66-be8a-a5c11cd946a3, servername: x.smjhh.ir, network: ws, ws-opts: {path: /, headers: {Host: x.smjhh.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 156, server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: fe61e11e-6a2a-45c9-a1f9-c587b1ef8875, host: trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 157, server: 185.143.232.200, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ffecd7fe-a020-4a99-a0d2-766dd341ed42, servername: arvan.omidrahnama.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: salsaserver, headers: {Host: arvan.omidrahnama.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 6, server: 52.47.37.116, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 7, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 8, server: info801.visualfinearts.com.tr, port: 801, type: vless, tls: true, packet-encoding: xudp, uuid: 021a6482-3425-48a4-a68e-9682844b771b, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 9, server: info801.visualfinearts.com.tr, port: 801, type: vless, tls: true, packet-encoding: xudp, uuid: 021a6482-3425-48a4-a68e-9682844b771b, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 10, server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 02f8ee0f-499a-4a9a-a150-f4dc8e4c85b2, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 11, server: 13.37.88.196, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 12, server: ger3.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 05c67ec7-730c-4ccd-b3fc-8cbca1a34f19, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 13, server: 94.183.241.82, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: 077b46ec-03fe-41fd-9710-841bd9cafac0, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 14, server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: 092c0e5e-0677-44a1-ae52-2174f3749d68, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 15, server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: 092c0e5e-0677-44a1-ae52-2174f3749d68, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 16, server: 45.141.234.196, port: 51472, type: vless, tls: true, packet-encoding: xudp, uuid: 0c49f1d8-3d34-473b-bebf-9d9a4811db62, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: hvFQArY-PeMdz4jfKEGZ9HgIJvZbR5Bd9F0GgNLemQI, short-id: ab4398ec00fc775d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 17, server: turkish.levron.pro, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 0d11eed5-50e3-4e35-bc98-c316982ff0f2, host: turkish.levron.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 18, server: turkish.levron.pro, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 0d11eed5-50e3-4e35-bc98-c316982ff0f2, host: turkish.levron.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 19, server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 0d11eed5-50e3-4e35-bc98-c316982ff0f2, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 20, server: dl2-melli.milkywayservice.ir, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 0fa71a84-84f4-53cd-b913-eba755a3cb13, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 21, server: 92.242.196.118, port: 8881, type: vless, tls: true, packet-encoding: xudp, uuid: 0fac6184-396f-4dba-a8d5-69cffdc4362e, host: shad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 22, server: 92.242.196.122, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fac6184-396f-4dba-a8d5-69cffdc4362e, host: shad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 23, server: dns8.golden-ping.ir, port: 31791, type: vless, tls: true, packet-encoding: xudp, uuid: 122da6f6-f7ae-43d1-9246-925a7d9ce5fd, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 24, server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 12c10df3-1a19-4a0b-95c6-8f43d5c890a2, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 25, server: vip.xqfire.ir, port: 911, type: vless, tls: true, packet-encoding: xudp, uuid: 134df9e6-f224-4373-9439-a5ecea0fd9f7, host: Telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 26, server: vip.xqfire.ir, port: 911, type: vless, tls: true, packet-encoding: xudp, uuid: 134df9e6-f224-4373-9439-a5ecea0fd9f7, host: Telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 27, server: 212.80.21.220, port: 10200, type: vless, tls: true, packet-encoding: xudp, uuid: 13b63262-5da7-41d2-a943-27d4deed897b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 28, server: 85.133.197.205, port: 21, type: vless, tls: true, packet-encoding: xudp, uuid: 13e-2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 29, server: 130.185.73.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 142bf904-438f-45c5-b9eb-9bbd4f6a6163, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 30, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 148f8bfe-92c6-46fa-a327-de12e2558962, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 31, server: vip.oneplus2online.com, port: 50063, type: vless, tls: true, packet-encoding: xudp, uuid: 159f4e4f-06df-4e73-89e8-5fa03d82057a, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 32, server: 79.175.167.111, port: 12864, type: vless, tls: true, packet-encoding: xudp, uuid: 1807220e-e9d1-ac9e-48f4-aec30e5290b6, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 33, server: dot.heliyadak.ir, port: 12458, type: vless, tls: true, packet-encoding: xudp, uuid: 18e2a449-17b3-4ea2-a243-5e3fd05736a4, network: ws, ws-opts: {path: /, headers: {Host: aparat.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 34, server: 94.183.241.159, port: 81, type: vless, tls: true, packet-encoding: xudp, uuid: 1a906c28-9780-463b-b08e-cfbe3aa9559d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 35, server: de-3-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 1af7c6b3-e35e-4a47-90e5-cb082a24e6ec, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 36, server: kz01-vlr01.tcp-reset-club.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1c4aceb6-bff7-4737-8c5d-43afb3dc350b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 8453e5fd9af927}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 37, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 38, server: net1.iran-tehran.co.uk, port: 550, type: vless, tls: true, packet-encoding: xudp, uuid: 1df695d8-a2f3-40f2-8556-a03fc0e96152, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 39, server: iraan1.tehrandigital.org, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 1e23ce33-c22d-4798-aa82-abdf196c01ef, host: Varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 40, server: index.sandis.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 20968d4d-b971-4077-bd15-74ed2f6029c5, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 41, server: gn.ir.myspacex.shop, port: 42498, type: vless, tls: true, packet-encoding: xudp, uuid: 211507db-4da0-4b04-8cc3-fd43753eb57c, host: gn.ir.myspacex.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 42, server: flt.web7ghost.top, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 21d43aa8-3f0e-4c19-88fb-1705885bb2c6, host: flt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 43, server: flt.web7ghost.top, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 21d43aa8-3f0e-4c19-88fb-1705885bb2c6, host: flt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 44, server: DEgermanuy.nexavps.ir, port: 4590, type: vless, tls: true, packet-encoding: xudp, uuid: 25cfd3a9-49b2-48d9-b437-92041cecb93d, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 45, server: ger3.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 268f3936-8cc8-4cc3-9ed0-fb0148af3350, host: ger3.md-teach.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 46, server: 87.248.130.158, port: 37648, type: vless, tls: true, packet-encoding: xudp, uuid: 2693477e-bc25-4218-99af-aa52a3ff45e4, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 47, server: 78.157.47.150, port: 52356, type: vless, tls: true, packet-encoding: xudp, uuid: 28c22b90-2c31-4e46-9cb3-d55fcab64294, host: Zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 48, server: 77.73.232.61, port: 19747, type: vless, tls: true, packet-encoding: xudp, uuid: 2a9ed01e-5455-44b4-a66a-76ee8165f0ac, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM, short-id: 2001}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 49, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 376a5fca-11b9-4c11-ae14-602d502c91d9, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 50, server: bes.psyacoo.sbs, port: 50141, type: vless, tls: true, packet-encoding: xudp, uuid: 387a1826-bf7c-48c5-afd6-50796c40a0b3, host: bitcoin.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 51, server: bes.psyacoo.sbs, port: 50141, type: vless, tls: true, packet-encoding: xudp, uuid: 387a1826-bf7c-48c5-afd6-50796c40a0b3, host: bitcoin.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 52, server: bes.psyacoo.sbs, port: 50141, type: vless, tls: true, packet-encoding: xudp, uuid: 387a1826-bf7c-48c5-afd6-50796c40a0b3, host: bitcoin.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 53, server: nim.harkarsaz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3927da6b-9148-4320-8b9e-fc2bd6e32c97, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 54, server: 172.64.158.2, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: 45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 55, server: 93.94.51.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 56, server: 93.94.51.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 57, server: 93.94.51.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 58, server: grandmas-hotel.wp-toolbox.ir, port: 2305, type: vless, tls: true, packet-encoding: xudp, uuid: 41536a4e-0218-4b0f-a2a7-3af08fc8bd48, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 59, server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 60, server: entekhabat.iran.asiatech.iranvatanam.com, port: 538, type: vless, tls: true, packet-encoding: xudp, uuid: 42ad4aa3-5741-417a-9cf8-60be19fbcd0a, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 61, server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: 43fb8173-64f7-4a20-bb2e-11a42ad0799a, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 62, server: srv2-germany.hajimamadcloud.com.tr, port: 1992, type: vless, tls: true, packet-encoding: xudp, uuid: 4408dcae-2bdf-4185-84d0-38556d79f27e, host: skyroom.online%2Cigap.net%2Cgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 63, server: b.login.walkerpubg.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 44584e3d-900d-450c-b078-f38a9f4bf543, network: ws, ws-opts: {path: "wp-admin.php?ed=2052", headers: {Host: kernal02.ivy-net.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 64, server: 94.183.241.82, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: 4be9b2fd-e2ee-46be-8e18-ea6abc22f879, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 65, server: denew3.hexogate.com, port: 5052, type: vless, tls: true, packet-encoding: xudp, uuid: 4db7cfed-0171-4ff7-95d1-0535179ba916, servername: www.bing.com, host: www.bing.com, path: /, reality-opts: {public-key: G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg, short-id: a9c3f17b5d2e8a01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 66, server: denew3.hexogate.com, port: 5052, type: vless, tls: true, packet-encoding: xudp, uuid: 4db7cfed-0171-4ff7-95d1-0535179ba916, servername: www.bing.com, host: www.bing.com, path: /, reality-opts: {public-key: G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg, short-id: a9c3f17b5d2e8a01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 67, server: tiemx.nimatiem.de, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: 5020768e-ef63-4783-b430-f25560bf8d27, host: tiemx.nimatiem.de, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 68, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 51293bf5-4b94-46d1-aa35-2321ac08a563, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 69, server: 94.183.241.159, port: 81, type: vless, tls: true, packet-encoding: xudp, uuid: 51ed1080-8708-4045-94c7-be593ba8e5d8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 70, server: 45.141.234.159, port: 30724, type: vless, tls: true, packet-encoding: xudp, uuid: 54e5a989-5938-43ce-ba58-026ddbfd4d7b, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A, short-id: eab8ab08e4d6faa0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 71, server: blueshop4.top, port: 38145, type: vless, tls: true, packet-encoding: xudp, uuid: 557d38cc-0474-492a-bca2-0de63a9f3f32, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 72, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 73, server: 45.144.124.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 55dfcdc3-b025-4674-bedf-4841fbdefd4f, servername: 45.144.124.143, alpn: [h2%2Chttp%2F1.1], host: 45.144.124.143, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 74, server: ukt.web7ghost.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57286885-b4cc-477e-98cd-fd2bdd1dfe00, host: ukt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 75, server: ukt.web7ghost.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57286885-b4cc-477e-98cd-fd2bdd1dfe00, host: ukt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 76, server: ukt.web7ghost.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 57286885-b4cc-477e-98cd-fd2bdd1dfe00, host: ukt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 77, server: germany.heliyadak.ir, port: 52678, type: vless, tls: true, packet-encoding: xudp, uuid: 589c0f96-7ab5-470b-8f1d-cb87e09d2138, network: ws, ws-opts: {path: /, headers: {Host: germany.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 78, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 79, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 80, server: respina24.gdsrguydsrghj.ir, port: 600, type: vless, tls: true, packet-encoding: xudp, uuid: 5a56100c-b6dd-467e-8214-18e6274e2c20, host: respina24.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 81, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 82, server: dl.musicafricabepersianall.com, port: 24490, type: vless, tls: true, packet-encoding: xudp, uuid: 5e85fc0d-3d95-597a-ba56-78921e994f82, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 83, server: ger2.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 5ebdea60-0a8d-49cb-8644-99207335060b, host: parsabr.ir, path: path, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 84, server: ger2.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 5ebdea60-0a8d-49cb-8644-99207335060b, host: parsabr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 85, server: Sr44.mynor1.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 6164ebb2-bde1-46da-e601-1887d5393378, host: Sr44.mynor1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 86, server: 199.181.197.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 87, server: ir.quran.ligergame.ir, port: 4451, type: vless, tls: true, packet-encoding: xudp, uuid: 661f1ba6-915c-4f4f-b116-badf42ea99c1, host: ir.quran.ligergame.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 88, server: api-main-frank1.cdnpark.net, port: 305, type: vless, tls: true, packet-encoding: xudp, uuid: 6723e687-e5cd-4ca5-a446-832e447847b3, host: web.igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 89, server: a1-gfawbcx.maxriser.ir, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 68495095-54d8-4543-b928-ffdd9d048ccb, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 90, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 91, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 92, server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 93, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 687b3da1-8a8a-4547-89d7-823b41ef4774, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 94, server: vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 687b3da1-8a8a-4547-89d7-823b41ef4774, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 95, server: vip.oneplus2online.com, port: 50063, type: vless, tls: true, packet-encoding: xudp, uuid: 6b4ab090-4f62-4c5d-ac32-26bbae1766fa, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 96, server: d2.armd.fun, port: 5056, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf0199f-f45f-45b1-8cd8-324e7430d88a, host: d2.armd.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 97, server: nim.ar-marz.fun, port: 5055, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf0199f-f45f-45b1-8cd8-324e7430d88a, host: parsabr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 98, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 6e3e76bf-9928-4eec-be2b-f8ea12fcc47d, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 99, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 6e3e76bf-9928-4eec-be2b-f8ea12fcc47d, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 100, server: tnl-8.base-vip.xyz, port: 2077, type: vless, tls: true, packet-encoding: xudp, uuid: 7233c0f5-fdd8-4f54-9898-de2899f510d7, host: tnl-8.base-vip.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 101, server: de2.lntunvip.com, port: 2028, type: vless, tls: true, packet-encoding: xudp, uuid: 746efc86-3ff7-472c-8b0d-3f0beb340e37, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 102, server: de2.lntunvip.com, port: 2028, type: vless, tls: true, packet-encoding: xudp, uuid: 746efc86-3ff7-472c-8b0d-3f0beb340e37, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 103, server: fi2.lntunvip.com, port: 2028, type: vless, tls: true, packet-encoding: xudp, uuid: 746efc86-3ff7-472c-8b0d-3f0beb340e37, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 104, server: fi3.lntunvip.com, port: 2028, type: vless, tls: true, packet-encoding: xudp, uuid: 746efc86-3ff7-472c-8b0d-3f0beb340e37, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 105, server: Lodffdf.nexavps.ir, port: 4590, type: vless, tls: true, packet-encoding: xudp, uuid: 74edc0d8-b21a-402d-a5c4-47e81961a8c4, host: zhaket.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 106, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 107, server: vl.rahagozar.com, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: 751cf965-3e11-4267-9a72-b390ba9ace98, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 108, server: denew2.hexogate.com, port: 5052, type: vless, tls: true, packet-encoding: xudp, uuid: 753a71a8-53f5-44c1-851e-93d3eb642d89, servername: www.bing.com, host: www.bing.com, path: /, reality-opts: {public-key: G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg, short-id: a9c3f17b5d2e8a01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 109, server: melli.ciliko.ir, port: 4010, type: vless, tls: true, packet-encoding: xudp, uuid: 762d1797-d62b-4f1d-ac10-f19943af67c7, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 110, server: V1.socialser.org, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: 76af46ef-439b-4062-a366-52f862dadc70, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 111, server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 112, server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 113, server: marzha.antimage.ir, port: 45591, type: vless, tls: true, packet-encoding: xudp, uuid: 7a55574d-552b-419e-e1ea-e690636e9bed, host: marzha.antimage.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 114, server: meli.ertebatgoostar.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7b372352-f2a4-f9bf-ea80-d69b2bba554c, servername: 51.68.220.27, host: 51.68.220.27, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 115, server: 212.80.8.212, port: 38941, type: vless, tls: true, packet-encoding: xudp, uuid: 7b716c7d-1212-4c34-a9cd-d3526091bbe9, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 116, server: srv-c0.netmaster.cam, port: 8008, type: vless, tls: true, packet-encoding: xudp, uuid: 7e1d32bf-741f-30f3-1b0c-0452b695c07f, servername: 1, network: ws, ws-opts: {path: /, headers: {Host: 1}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 117, server: 94.183.241.192, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 7e3bbd8c-dcb5-a7ee-a8e9-aed9f373fcd8, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 118, server: ge.p.sandis.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 7e8ddbc9-0355-4921-8462-2e531329cb19, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 119, server: 194.60.228.208, port: 4005, type: vless, tls: true, packet-encoding: xudp, uuid: 7f518b87-e6e8-4058-9926-05ae078104d2, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 120, server: s2.mesterkit.com, port: 52917, type: vless, tls: true, packet-encoding: xudp, uuid: 7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b, host: s2.mesterkit.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 121, server: s2.mesterkit.com, port: 52917, type: vless, tls: true, packet-encoding: xudp, uuid: 7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b, host: s2.mesterkit.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 122, server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 123, server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 124, server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "?", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 125, server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "?", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 126, server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "?", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 127, server: gold.blackraven.ir, port: 37975, type: vless, tls: true, packet-encoding: xudp, uuid: 81ebf985-dcf6-4754-8e3b-1280ff8fade7, network: ws, ws-opts: {path: /, headers: {Host: gold.blackraven.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 128, server: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 82341ecd-ec7a-47c3-94cf-ecc1cbeb146f, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 129, server: 130.185.73.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 84306d25-e61b-4f21-b55e-67ab6699060f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 130, server: nl-2-tun.khabarkhori.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 879b0d4e-c575-40fe-a14a-1b2723888b93, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 131, server: sv6n.tsteamzd.top, port: 10006, type: vless, tls: true, packet-encoding: xudp, uuid: 879ffe2f-d6cd-48b7-b7ec-458fb4b66148, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 132, server: sv6n.tsteamzd.top, port: 10006, type: vless, tls: true, packet-encoding: xudp, uuid: 879ffe2f-d6cd-48b7-b7ec-458fb4b66148, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 133, server: bia.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: 88c3769a-c082-428d-88c5-5cc2946292b5, host: bia.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 134, server: 91.107.186.197, port: 53583, type: vless, tls: true, packet-encoding: xudp, uuid: 8af919d5-c30e-4f2b-a5f5-b67622d7f416, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 135, server: 91.107.186.197, port: 53583, type: vless, tls: true, packet-encoding: xudp, uuid: 8af919d5-c30e-4f2b-a5f5-b67622d7f416, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 136, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 137, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 138, server: g42727cpj8.qa024r0n895i26qzk8y.realytag.com, port: 891, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 139, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 140, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 141, server: nl.reata.ir, port: 2050, type: vless, tls: true, packet-encoding: xudp, uuid: 8d5b2746-aeda-4f7c-9f6b-062bb6517d48, servername: refersion.com, host: refersion.com, path: /, reality-opts: {public-key: d00ZgCDuY5ncLM1aF9nocq5oBthFMFetgobyJ2qUTg4, short-id: 339d7c53d8832086}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 142, server: porttt2.webchipro2.ir, port: 3040, type: vless, tls: true, packet-encoding: xudp, uuid: 8d98d748-d3b8-bdf6-1b6e-768a5a8ecc64, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 143, server: t10.morgoon.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 8e124f3f-29eb-4b44-98de-cb9726268386, alpn: [http%2F1.1%2Ch2], host: teleweion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 144, server: 178.239.145.21, port: 101, type: vless, tls: true, packet-encoding: xudp, uuid: 8e348ebd-1258-4d83-9721-81f922d314e9, host: mci.neteaderType%3Dhtp, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 145, server: pl1.heliyadak.ir, port: 3228, type: vless, tls: true, packet-encoding: xudp, uuid: 91f8b4d5-b9eb-4740-b560-df710cc3c5e2, network: ws, ws-opts: {path: /, headers: {Host: pl1.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 146, server: bufa.heliyadak.ir, port: 2455, type: vless, tls: true, packet-encoding: xudp, uuid: 95795ee5-e9aa-405e-9c45-1d64dfb3b6c3, network: ws, ws-opts: {path: /, headers: {Host: bufa.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 147, server: bufa.heliyadak.ir, port: 2455, type: vless, tls: true, packet-encoding: xudp, uuid: 95795ee5-e9aa-405e-9c45-1d64dfb3b6c3, network: ws, ws-opts: {path: /, headers: {Host: bufa.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 148, server: nl.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95be7de0-2394-47b8-aa2c-27773d61807f, servername: nl.crunch-crunch.com, host: nl.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 149, server: 185.137.24.67, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 977cb8a5-5ab3-443a-b8dc-69d6bea87399, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 150, server: sv6.tsteamh.top, port: 60006, type: vless, tls: true, packet-encoding: xudp, uuid: 9908f6d0-2fd7-48e2-82c8-c25eeeafd866, host: sv6.tsteamh.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 151, server: vip.nanaopano.com, port: 42651, type: vless, tls: true, packet-encoding: xudp, uuid: 9b5ac6e0-f057-400c-bd26-a1224b7b306b, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 152, server: ia.a.clearriverlab.sbs, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 9b799d8b-7379-4fba-b6e8-a102e12c3165, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 153, server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C+igap.net%2C+gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 154, server: melli.ciliko.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 9f82e912-8882-4834-8bfb-193c3c38189a, host: melli.ciliko.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 155, server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: a04923c8-875b-449d-b982-fa6f10be33f9, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 156, server: 100110011001100.arm.allmobo.sbs, port: 1041, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 157, server: 100110011001100.fr.allmobo.sbs, port: 1046, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 158, server: 100110011001100.ger.allmobo.sbs, port: 1042, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 159, server: 100110011001100.nl.allmobo.sbs, port: 1043, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 160, server: 100110011001100.tr.allmobo.sbs, port: 1040, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 161, server: 100110011001100.uae.allmobo.sbs, port: 1044, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 162, server: 100110011001100.usa.allmobo.sbs, port: 1045, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 163, server: emergency.layer-ziro.ir, port: 2001, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 164, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: a0c3a9cc-1dd8-4191-96d3-8e306c686698, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 165, server: hv343var.novinpardazanpayam.net, port: 57231, type: vless, tls: true, packet-encoding: xudp, uuid: a3195557-b372-4f55-84d1-7deead62009c, host: www.uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 166, server: 94.183.163.205, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a3efada9-0c19-4a15-96c2-ed885765398a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 167, server: 138.199.150.141, port: 44344, type: vless, tls: true, packet-encoding: xudp, uuid: a62c4be7-04b0-405c-ae9f-d04f2a43ec13, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 168, server: royalhost.zearocloud.com, port: 2810, type: vless, tls: true, packet-encoding: xudp, uuid: a7ac1e25-9f52-4fab-b0be-c8619798ccee, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 169, server: store77.gajmarket.xyz, port: 2417, type: vless, tls: true, packet-encoding: xudp, uuid: a989d33a-a647-4d0e-a6e3-052e5eacf9ee, host: store77.gajmarket.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 170, server: 37.202.238.213, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: abd3221a-af6d-42b7-9373-dfe3efe6f512, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 171, server: 37.202.238.213, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: abd3221a-af6d-42b7-9373-dfe3efe6f512, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 172, server: 37.202.238.213, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: abd3221a-af6d-42b7-9373-dfe3efe6f512, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 173, server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 174, server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 175, server: raycfz1.zeroping-game.click, port: 3535, type: vless, tls: true, packet-encoding: xudp, uuid: b26f122c-2802-4021-976a-79c0e1e55108, host: Bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 176, server: arsim2.bestfrends.ir, port: 2094, type: vless, tls: true, packet-encoding: xudp, uuid: b3be6e1b-a6c2-4dfa-85a1-44df455554d1, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 177, server: 144.31.17.80, port: 30677, type: vless, tls: true, packet-encoding: xudp, uuid: b86c0cdc-8a02-4da4-8693-72ba27005587, servername: google.com, host: google.com, path: /, reality-opts: {public-key: 2UqLjQFhlvLcY7VzaKRotIDQFOgAJe1dYD1njigp9wk, short-id: 47595474}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 178, server: iraan4.tehrandigital.org, port: 35685, type: vless, tls: true, packet-encoding: xudp, uuid: bb138bcd-2118-4d14-808c-2a6e9423f033, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 179, server: iraan4.tehrandigital.org, port: 35685, type: vless, tls: true, packet-encoding: xudp, uuid: bb138bcd-2118-4d14-808c-2a6e9423f033, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 180, server: nim.biostart.ir, port: 10100, type: vless, tls: true, packet-encoding: xudp, uuid: bbdf1341-43e3-41fc-a74d-a58d6f7334dc, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 181, server: X11.PRODNSSPEED10.IR, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: bcb3c8f1-df50-4cb9-b9bf-50e6794e6e4e, network: ws, ws-opts: {path: /, headers: {Host: avalin.sodogodping.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 182, server: 94.183.121.112, port: 16571, type: vless, tls: true, packet-encoding: xudp, uuid: be8e8fb7-06f4-4e4c-9d4e-81bdf466f8d2, host: soft98.ir, path: blog, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 183, server: pig.sunsetonred.ir, port: 2607, type: vless, tls: true, packet-encoding: xudp, uuid: beca6e05-88f2-4c44-b294-82c95cfed9de, host: bale.ai%2Cweb.bale.ai%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 184, server: ir5.mmdpnj.site, port: 3201, type: vless, tls: true, packet-encoding: xudp, uuid: bfa95c9d-87fb-4766-9b40-5af8d5d530aa, network: ws, ws-opts: {path: /, headers: {Host: ir5.mmdpnj.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 185, server: uk.uniquewp.ir, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: c104ca64-3bd0-42cc-accc-689e12925cef, host: divar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 186, server: red1.iran-ont.co.uk, port: 335, type: vless, tls: true, packet-encoding: xudp, uuid: c1723f1c-d916-4291-bcb5-b442568d27f6, host: red1.iran-ont.co.uk, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 187, server: 185.173.129.127, port: 102, type: vless, tls: true, packet-encoding: xudp, uuid: c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 188, server: mp.kharazmi.top, port: 59650, type: vless, tls: true, packet-encoding: xudp, uuid: c40ede7d-0423-4aca-8b40-04cd5b9cc214, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 189, server: mp.kharazmi.top, port: 59650, type: vless, tls: true, packet-encoding: xudp, uuid: c40ede7d-0423-4aca-8b40-04cd5b9cc214, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 190, server: p-1-0-1-turk.turkabr.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6816c84-3502-4791-851c-bee65723bf23, host: telewebion.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 191, server: grandmas-hotel.wp-toolbox.ir, port: 2305, type: vless, tls: true, packet-encoding: xudp, uuid: c9013873-2ebd-4dbc-aad6-74f7298ed667, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 192, server: de2.vnet500.xyz, port: 33014, type: vless, tls: true, packet-encoding: xudp, uuid: c93ff679-ca21-4180-800d-d51793ffef72, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 193, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c9b59935-e2ca-4041-a21b-f2d780af3ae4, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 194, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c9b59935-e2ca-4041-a21b-f2d780af3ae4, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 195, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c9b59935-e2ca-4041-a21b-f2d780af3ae4, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 196, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c9b59935-e2ca-4041-a21b-f2d780af3ae4, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 197, server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 198, server: Kodkvv.a-sajad-sh.com, port: 6696, type: vless, tls: true, packet-encoding: xudp, uuid: cb9fc8f9-d499-4920-b230-5dd8adb3f5b9, host: Kodkvv.a-sajad-sh.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 199, server: arsim3.bestfrends.ir, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: cbd99b35-3229-42f1-bae4-dfc2a037974f, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 200, server: all.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: cc5e685e-c846-4335-ba8e-526280c451b1, host: all.x22pro.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 201, server: all.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: cc5e685e-c846-4335-ba8e-526280c451b1, host: all.x22pro.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 202, server: all.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: cc5e685e-c846-4335-ba8e-526280c451b1, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 203, server: digi32.ez0535.com, port: 3201, type: vless, tls: true, packet-encoding: xudp, uuid: d051bb3b-ddd8-4ca6-bb28-f7fa57ebdef0, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 204, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: d203ceae-d9a9-45bb-a07c-0eb52baf9130, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 205, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: d203ceae-d9a9-45bb-a07c-0eb52baf9130, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 206, server: ir.api.clothesshopping.ir, port: 19163, type: vless, tls: true, packet-encoding: xudp, uuid: d203ceae-d9a9-45bb-a07c-0eb52baf9130, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 207, server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: d3663563-d1b8-42c3-b194-f5e9ed52b4fa, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 208, server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: d56986a8-571b-40ab-b1ad-1dca467d19f0, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 209, server: vb13.homianco.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: d5f2b8ad-5ee4-41fe-95e9-7adc1acb0549, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 210, server: bia.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: bia.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 211, server: bia.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: bia.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 212, server: bia.gdsrguydsrghj.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: bia.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 213, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 214, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 215, server: index.sandis.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d9438566-ecb5-47e8-8aa1-cf4ff68b3e66, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 216, server: fr.speadnet.ir, port: 7777, type: vless, tls: true, packet-encoding: xudp, uuid: dba833ca-38b5-40dd-b725-c7f61be99871, host: taaghche.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 217, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: dbd5654a-cba5-4b75-8ee8-bb25a5f8e14a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 218, server: s4.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 219, server: s4.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: web.igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 220, server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 221, server: node.zorli.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf, host: node.zorli.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 222, server: node.zorli.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 223, server: 146.103.102.82, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: getWorkerUpdates}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 224, server: 146.103.102.82, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: getWorkerUpdates}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 225, server: 2.188.212.54, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e20bdce4-bc7a-48ef-841f-cfab846a5494, servername: tk_tor.irannet.top, network: ws, ws-opts: {path: api, headers: {Host: tk_tor.irannet.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 226, server: 2.188.212.54, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e20bdce4-bc7a-48ef-841f-cfab846a5494, servername: tk_tor.irannet.top, network: ws, ws-opts: {path: api, headers: {Host: tk_tor.irannet.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 227, server: melli.ciliko.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: e3e6b5a5-529d-0189-5fbf-ce6d19a6e7e8, host: melli.ciliko.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 228, server: gilan.gdsrguydsrghj.ir, port: 3000, type: vless, tls: true, packet-encoding: xudp, uuid: e446e33f-6949-41d0-b2e7-ffb2cbe5449e, host: gilan.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 229, server: gilan.gdsrguydsrghj.ir, port: 3000, type: vless, tls: true, packet-encoding: xudp, uuid: e446e33f-6949-41d0-b2e7-ffb2cbe5449e, host: gilan.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 230, server: blog.djarashaz.ir, port: 3523, type: vless, tls: true, packet-encoding: xudp, uuid: e46b6d03-934c-4bf2-bb93-5c6848cf6793, host: Google.com%2Cabrarvan.ir%2Ciran.ir%2Cspeedtest.com%2CChatGpt.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 231, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 232, server: ge.p.sandis.space, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: eb7b4514-5ce1-4df0-94c7-5f92ef3a2d7b, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 233, server: d2.armd.fun, port: 5056, type: vless, tls: true, packet-encoding: xudp, uuid: f0a7fff1-632b-45f1-86e9-ef42015c231e, host: d2.armd.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 234, server: webb.gdsrguydsrghj.ir, port: 3000, type: vless, tls: true, packet-encoding: xudp, uuid: f164e068-c4d4-4603-a814-ff850c1da651, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 235, server: gold.blackraven.ir, port: 56946, type: vless, tls: true, packet-encoding: xudp, uuid: f3d50633-c079-4005-a1eb-e905ceecc88f, host: gold.blackraven.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 236, server: germany.digionline2.com, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: f47de597-c323-45a6-c92d-dd3b6c6f8b41, host: germany.digionline2.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 237, server: 81.12.33.166, port: 1005, type: vless, tls: true, packet-encoding: xudp, uuid: f6494ac9-df96-4580-8096-70bd30b57203, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 238, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: faec1990-7c9d-4604-8dcd-1e3b8e56966c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 239, server: m2.masih1-ah.site, port: 57070, type: vless, tls: true, packet-encoding: xudp, uuid: faec1990-7c9d-4604-8dcd-1e3b8e56966c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 240, server: 78.157.47.150, port: 52356, type: vless, tls: true, packet-encoding: xudp, uuid: fe112b5c-ac29-40ed-8f0d-24ad978e4c6f, host: Zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 241, server: 1.iran2.axenet.company, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 242, server: 1.iran2.axenet.company, port: 1112, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 243, server: 1.iran2.axenet.company, port: 1114, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 244, server: 1.iran2.axenet.company, port: 1118, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 245, server: 1.iran2.axenet.company, port: 1120, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 246, server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: fe61e11e-6a2a-45c9-a1f9-c587b1ef8875, host: trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 247, server: a.vipnamusic.sbs, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fed939d1-6e3f-4f1b-8455-1d81468a34a6, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 248, server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: ff344491-10d4-44da-9b47-c1066b93eec3, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 249, server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: ff344491-10d4-44da-9b47-c1066b93eec3, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 250, server: ia.a.clearriverlab.sbs, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: ffb60d6e-25cf-4f5b-b43e-487bc81536cc, host: gbaz.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -795,6 +888,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -958,6 +1144,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -1121,6 +1400,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1293,6 +1665,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1456,6 +1921,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1619,6 +2177,99 @@ proxy-groups:
       - 🇮🇷 @IranProxyPlus` 155
       - 🇮🇷 @IranProxyPlus` 156
       - 🇮🇷 @IranProxyPlus` 157
+      - 🇮🇷 @IranProxyPlus` 158
+      - 🇮🇷 @IranProxyPlus` 159
+      - 🇮🇷 @IranProxyPlus` 160
+      - 🇮🇷 @IranProxyPlus` 161
+      - 🇮🇷 @IranProxyPlus` 162
+      - 🇮🇷 @IranProxyPlus` 163
+      - 🇮🇷 @IranProxyPlus` 164
+      - 🇮🇷 @IranProxyPlus` 165
+      - 🇮🇷 @IranProxyPlus` 166
+      - 🇮🇷 @IranProxyPlus` 167
+      - 🇮🇷 @IranProxyPlus` 168
+      - 🇮🇷 @IranProxyPlus` 169
+      - 🇮🇷 @IranProxyPlus` 170
+      - 🇮🇷 @IranProxyPlus` 171
+      - 🇮🇷 @IranProxyPlus` 172
+      - 🇮🇷 @IranProxyPlus` 173
+      - 🇮🇷 @IranProxyPlus` 174
+      - 🇮🇷 @IranProxyPlus` 175
+      - 🇮🇷 @IranProxyPlus` 176
+      - 🇮🇷 @IranProxyPlus` 177
+      - 🇮🇷 @IranProxyPlus` 178
+      - 🇮🇷 @IranProxyPlus` 179
+      - 🇮🇷 @IranProxyPlus` 180
+      - 🇮🇷 @IranProxyPlus` 181
+      - 🇮🇷 @IranProxyPlus` 182
+      - 🇮🇷 @IranProxyPlus` 183
+      - 🇮🇷 @IranProxyPlus` 184
+      - 🇮🇷 @IranProxyPlus` 185
+      - 🇮🇷 @IranProxyPlus` 186
+      - 🇮🇷 @IranProxyPlus` 187
+      - 🇮🇷 @IranProxyPlus` 188
+      - 🇮🇷 @IranProxyPlus` 189
+      - 🇮🇷 @IranProxyPlus` 190
+      - 🇮🇷 @IranProxyPlus` 191
+      - 🇮🇷 @IranProxyPlus` 192
+      - 🇮🇷 @IranProxyPlus` 193
+      - 🇮🇷 @IranProxyPlus` 194
+      - 🇮🇷 @IranProxyPlus` 195
+      - 🇮🇷 @IranProxyPlus` 196
+      - 🇮🇷 @IranProxyPlus` 197
+      - 🇮🇷 @IranProxyPlus` 198
+      - 🇮🇷 @IranProxyPlus` 199
+      - 🇮🇷 @IranProxyPlus` 200
+      - 🇮🇷 @IranProxyPlus` 201
+      - 🇮🇷 @IranProxyPlus` 202
+      - 🇮🇷 @IranProxyPlus` 203
+      - 🇮🇷 @IranProxyPlus` 204
+      - 🇮🇷 @IranProxyPlus` 205
+      - 🇮🇷 @IranProxyPlus` 206
+      - 🇮🇷 @IranProxyPlus` 207
+      - 🇮🇷 @IranProxyPlus` 208
+      - 🇮🇷 @IranProxyPlus` 209
+      - 🇮🇷 @IranProxyPlus` 210
+      - 🇮🇷 @IranProxyPlus` 211
+      - 🇮🇷 @IranProxyPlus` 212
+      - 🇮🇷 @IranProxyPlus` 213
+      - 🇮🇷 @IranProxyPlus` 214
+      - 🇮🇷 @IranProxyPlus` 215
+      - 🇮🇷 @IranProxyPlus` 216
+      - 🇮🇷 @IranProxyPlus` 217
+      - 🇮🇷 @IranProxyPlus` 218
+      - 🇮🇷 @IranProxyPlus` 219
+      - 🇮🇷 @IranProxyPlus` 220
+      - 🇮🇷 @IranProxyPlus` 221
+      - 🇮🇷 @IranProxyPlus` 222
+      - 🇮🇷 @IranProxyPlus` 223
+      - 🇮🇷 @IranProxyPlus` 224
+      - 🇮🇷 @IranProxyPlus` 225
+      - 🇮🇷 @IranProxyPlus` 226
+      - 🇮🇷 @IranProxyPlus` 227
+      - 🇮🇷 @IranProxyPlus` 228
+      - 🇮🇷 @IranProxyPlus` 229
+      - 🇮🇷 @IranProxyPlus` 230
+      - 🇮🇷 @IranProxyPlus` 231
+      - 🇮🇷 @IranProxyPlus` 232
+      - 🇮🇷 @IranProxyPlus` 233
+      - 🇮🇷 @IranProxyPlus` 234
+      - 🇮🇷 @IranProxyPlus` 235
+      - 🇮🇷 @IranProxyPlus` 236
+      - 🇮🇷 @IranProxyPlus` 237
+      - 🇮🇷 @IranProxyPlus` 238
+      - 🇮🇷 @IranProxyPlus` 239
+      - 🇮🇷 @IranProxyPlus` 240
+      - 🇮🇷 @IranProxyPlus` 241
+      - 🇮🇷 @IranProxyPlus` 242
+      - 🇮🇷 @IranProxyPlus` 243
+      - 🇮🇷 @IranProxyPlus` 244
+      - 🇮🇷 @IranProxyPlus` 245
+      - 🇮🇷 @IranProxyPlus` 246
+      - 🇮🇷 @IranProxyPlus` 247
+      - 🇮🇷 @IranProxyPlus` 248
+      - 🇮🇷 @IranProxyPlus` 249
+      - 🇮🇷 @IranProxyPlus` 250
   - name: دانلود منیجر 📥
     type: select
     proxies:
