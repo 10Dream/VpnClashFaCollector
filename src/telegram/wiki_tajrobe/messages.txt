@@ -1,5 +1,488 @@
 # آرشیو کانال: @wiki_tajrobe
-بروزرسانی: 2026-03-05 10:34:20 UTC
+بروزرسانی: 2026-03-05 20:33:41 UTC
+
+### 🕒 2026-03-05 18:11:15 UTC
+***🚀***
+ پروژه جدید: بازطراحی پروتکل Vwarp Core
+ما نسخه‌ی جدید پروتکل اتصال Warp Core را منتشر کردیم؛ نسخه‌ای که جایگزین Warp Core قبلی شده و مدت‌ها بدون تغییر مانده بود.
+***✨***
+ قابلیت‌های جدید
+***🔐***
+ پروتکل AtomicNoize
+مبهم‌سازی پیشرفته‌ی بسته‌های شبکه برای حداکثر مقاومت در برابر سانسور
+امکان تنظیم اندازه و آفست بسته‌ها
+تزریق داده‌های Junk برای گمراه کردن سیستم‌های بازرسی
+تبدیل ترافیک WireGuard به ترافیکی غیرقابل شناسایی
+***🔗***
+ زنجیره‌سازی پروکسی SOCKS5 (SOCKS5 Proxy Chaining)
+قابلیت Double-VPN به‌صورت پیش‌فرض
+امکان عبور دادن WARP از طریق هر پروکسی SOCKS5
+پشتیبانی کامل از IPv4 و IPv6
+سازگار با SSH Tunnel، ‏Shadowsocks، ‏V2Ray و سایر ابزارها
+مناسب برای دور زدن سیستم‌های DPI پیشرفته
+***⚡️***
+ بهبود عملکرد
+پیاده‌سازی بهینه‌تر WireGuard
+Handshake سریع‌تر
+پایداری بهتر در بار ترافیکی بالا
+***🛠***
+ پیکربندی ساده
+***🔧***
+ نگهداری و توسعه:
+voidreaper
+از توسعه‌دهندگان اولیه، به‌ویژه yousef، بابت ارائه‌ی ایده‌ی «آزادی شبکه» تشکر می‌کنیم.
+(برای احترام به او، فعلاً نام باینری را تغییر نداده‌ایم.)
+[https://github.com/voidr3aper-anon/Vwarp](https://github.com/voidr3aper-anon/Vwarp)
+
+---
+
+### 🕒 2026-03-05 14:39:20 UTC
+#ارسالی  من با ByebyeDPI متصل هستم.   یک اپلیکیشن برای Android که به‌صورت محلی ByeDPI را اجرا می‌کند و تمام ترافیک شبکه را از طریق آن هدایت می‌کند.  این برنامه VPN واقعی نیست. در Android از حالت VPN فقط برای هدایت (redirect) ترافیک استفاده می‌کند، اما هیچ…
+
+---
+
+### 🕒 2026-03-05 14:38:10 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+ 
+من الان با am tunnel و مبین نت وصل شدم، با رایتا هم جواب میده ولی ایرانسل نه
+اگه برنامه رو نصب دارید روی pdoq بزنید و 
+[216.146.35.35](http://216.146.35.35/)
+ رو وارد کنید، ممکنه چند دیقه طول بکشه ولی واسه من جواب داده، سرعتشم تو این شرایط قابل تحمله
+
+---
+
+### 🕒 2026-03-05 13:37:23 UTC
+روی اکثر نتها 
+[8.8.8.8](http://8.8.8.8/)
+[9.9.9.9](http://9.9.9.9/)
+[1.1.1.1](http://1.1.1.1/)
+مسدود کردن ممکنه ping بدن
+ولی resolve نمیشن
+بر جداباد مهندس حرام زاده کمک میکنه لعنت
+***✍️***
+ Mostafa
+
+---
+
+### 🕒 2026-03-05 13:02:00 UTC
+> ↪️ **Forwarded**
+
+لینک داخلی دانلود اپلیکیشن های مورد نیاز:
+سایفون کامپیوتر (Psiphon for Windows)
+[https://s34.picofile.com/file/8486793842/psiphon3_2_mitivpn.exe.html](https://s34.picofile.com/file/8486793842/psiphon3_2_mitivpn.exe.html)
+کلاینت پرو (VPN Client Pro)
+[https://s34.picofile.com/file/8486476326/VPN_Client_Pro_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476326/VPN_Client_Pro_MiTiVPN.apk.html)
+وی تو باکس (V2BOX)
+[https://s34.picofile.com/file/8486476300/V2BOX_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476300/V2BOX_MiTiVPN.apk.html)
+اوپن وی‌پی‌ان (OpenVPN Connect)
+[https://s34.picofile.com/file/8486476268/OpenVPN_Connect_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476268/OpenVPN_Connect_MiTiVPN.apk.html)
+هیدیفای (Hiddify)
+[https://s34.picofile.com/file/8486476226/Hiddify_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476226/Hiddify_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان ویندوز (v2rayN Windows)
+[https://s34.picofile.com/file/8486476318/v2rayN_windows_MiTIVPN.zip.html](https://s34.picofile.com/file/8486476318/v2rayN_windows_MiTIVPN.zip.html)
+وی‌تو‌ری‌ان‌جی x86 (v2rayNG x86)
+[https://s34.picofile.com/file/8486476568/v2rayNG_x86_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476568/v2rayNG_x86_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان‌جی نسخه 7.6 (v2rayNG v7.6)
+[https://s34.picofile.com/file/8486476292/v2rayNG_v7a_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476292/v2rayNG_v7a_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان‌جی Arm64 (v2rayNG Arm64)
+[https://s34.picofile.com/file/8486476284/v2rayNG_arm64_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476284/v2rayNG_arm64_MiTiVPN.apk.html)
+نت مود ویندوز x86 (NetMod Windows x86)
+[https://s34.picofile.com/file/8486476276/NetMod_x86_MiTiVPN_.exe.html](https://s34.picofile.com/file/8486476276/NetMod_x86_MiTiVPN_.exe.html)
+نت مود ویندوز x64 (NetMod Windows x64)
+[https://s34.picofile.com/file/8486476250/NetMod_x64_MiTiVPN_.exe.html](https://s34.picofile.com/file/8486476250/NetMod_x64_MiTiVPN_.exe.html)
+نت مود اندروید (NetMod Android)
+[https://s34.picofile.com/file/8486476242/NetMod_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476242/NetMod_MiTiVPN.apk.html)
+وایرگارد (WireGuard)
+[https://s34.picofile.com/file/8486476034/WireGuard_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476034/WireGuard_MiTiVPN.apk.html)
+سایفون اندروید (Psiphon Android)
+[https://s34.picofile.com/file/8486476026/Psiphon_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476026/Psiphon_MiTiVPN.apk.html)
+نپستر تونل (NpvTunnel)
+[https://s34.picofile.com/file/8486476000/NpvTunnel_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476000/NpvTunnel_MiTiVPN.apk.html)
+اچ‌تی‌تی‌پی انجکتور (HTTP Injector)
+[https://s34.picofile.com/file/8486475984/HTTP_Injector_MiTiVPN.apk.htm](https://s34.picofile.com/file/8486475984/HTTP_Injector_MiTiVPN.apk.htm)
+
+---
+
+### 🕒 2026-03-05 12:59:45 UTC
+گروه Void Verge که دیروز باعث اختلال در شبکه زیرساخت شده بود، اعلام کرده که حکومت درحال آماده‌سازی فاز بعدی از قطع سراسری اینترنت در شرایط اضطراریه. هدف از این اقدام محدود کردن زنجیره ارتباط در اینترنت داخلیه، تا کاربران نتونن ابزارهای اتصال به اینترنت بین‌المللی رو با هم به اشتراک بذارن.
+بر اساس این ادعا، اقداماتی مثل مسدود کردن سرویس‌های رایگان اشتراک فایل در اپراتورهای اینترنت همراه، محدودسازی گسترده ارسال لینک و محتوا در پیام‌رسان‌های داخلی، ارسال پیامک‌های تهدیدآمیز و همینطور شناسایی وی‌پی‌ان‌های فعال در کانال‌ها و گروه‌ها درحال انجامه و گفته میشه این اطلاعات بصورت دستی یا با استفاده از ابزارهای خزنده (از جمله اسپارتا) جمع‌آوری میشن، تا دسترسی‌ها مسدود بشن.
+***✍️***
+ اینترنت آزاد
+
+---
+
+### 🕒 2026-03-05 12:59:04 UTC
+salam hamegi  yeki az bache ha to server Sammy inaro amade karde import konid rahat   Pedi-slipstream-ssh-srv1  slipnet://MTV8c2xpcHN0cmVhbV9zc2h8c3J2MS1wZWRpLXNsaXAtc3NofHMyLmlhbXBlZGkubGl2ZXwxLjEuMS4xOjUzOjAsOS45LjkuOTo1MzowLDE5OS44NS4xMjcuMTA6NTM6MCwxL…
+
+---
+
+### 🕒 2026-03-05 12:26:39 UTC
+> ↪️ **Forwarded**
+
+salam hamegi 
+yeki az bache ha to server Sammy inaro amade karde import konid rahat 
+Pedi-slipstream-ssh-srv1
+slipnet://MTV8c2xpcHN0cmVhbV9zc2h8c3J2MS1wZWRpLXNsaXAtc3NofHMyLmlhbXBlZGkubGl2ZXwxLjEuMS4xOjUzOjAsOS45LjkuOTo1MzowLDE5OS44NS4xMjcuMTA6NTM6MCwxLjAuMC4xOjUzOjAsOC4yMC4yNDcuMjA6NTM6MCwyMDguNjcuMjIwLjIyMDo1MzowLDY0LjYuNjQuNjo1MzowLDE1Ni4xNTQuNzAuMTo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDF8bmVtaWdhbXxuZW1pZ2FtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8
+Srv1-pedi-slipstream-socks
+slipnet://MTV8c3N8c3J2MS1wZWRpLXNsaXBzb2Nrc3x0Mi5pYW1wZWRpLmxpdmV8MTk5Ljg1LjEyNy4xMDo1MzowLDEuMC4wLjE6NTM6MCw2NC42LjY0LjY6NTM6MCwxLjEuMS4xOjUzOjAsOC44LjQuNDo1MzowLDguOC44Ljg6NTM6MCw4LjIwLjI0Ny4yMDo1MzowLDc3Ljg4LjguODo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==
+Srv1 dnstt socks
+slipnet://MTV8ZG5zdHR8c3J2MS1wZWRpLWRuc3R0LXNvY2tzfGQyLmlhbXBlZGkubGl2ZXwxOTkuODUuMTI3LjEwOjUzOjAsOS45LjkuOTo1MzowLDEuMS4xLjE6NTM6MCwyMDguNjcuMjIwLjIyMDo1MzowLDc3Ljg4LjguMTo1MzowLDY0LjYuNjQuNjo1MzowLDc3Ljg4LjguODo1MzowLDE1Ni4xNTQuNzAuMTo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGRmZjAxMzlhMDUwZDE3YTMyN2NiMWIwMDAzY2MyOTBmNGYyNzQzMmYyM2E0ODExZTgyNWMwM2ZlZjhmNjA3NzN8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=
+slipnet://MTV8c3N8c3J2Mi1zbGlwc3RyZWFtLXNvY2tzfHQyLmlhbXBlZGkxLmxpdmV8NjQuNi42NC42OjUzOjAsMTk5Ljg1LjEyNy4xMDo1MzowLDE1Ni4xNTQuNzAuMTo1MzowLDEuMC4wLjE6NTM6MCwxLjEuMS4xOjUzOjAsOC4yMC4yNDcuMjA6NTM6MCw4LjguNC40OjUzOjAsOC44LjguODo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==
+
+---
+
+### 🕒 2026-03-05 12:21:33 UTC
+ده سرور اهدایی از دوست عزیز مون Pedi 
+***🔐***
+ *SSH Credentials \(all servers\)* یوزنیم و پسوورد همه سرور ها برای ssh
+***👤***
+ User: 
+`nemigam`
+***🔑***
+ Pass: 
+`nemigam`
+***🔌***
+ Port: 
+`22`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 1* 
+***🌐***
+ Domain: 
+`iampedi.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi.live`
+***🗝***
+ Key: 
+`dff0139a050d17a327cb1b0003cc290f4f27432f23a4811e825c03fef8f60773`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 2* 
+***🌐***
+ Domain: 
+`iampedi1.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi1.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi1.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi1.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi1.live`
+***🗝***
+ Key: 
+`86b1933e526b9bae22c76fdbb79d0b01728129b9db081a878594e8831929f304`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 3* 
+***🌐***
+ Domain: 
+`iampedi2.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi2.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi2.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi2.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi2.live`
+***🗝***
+ Key: 
+`ee9716fc64d6155439e2840b6de18c8260c6b8aee6323095bd9e6c50b2dc745a`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 4* 
+***🌐***
+ Domain: 
+`iampedi3.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi3.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi3.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi3.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi3.live`
+***🗝***
+ Key: 
+`d3ab3a150e782b6ee5f47ca34593b5c355bb324918c386ba4363dc9b9180d32e`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 5* 
+***🌐***
+ Domain: 
+`iampedi4.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi4.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi4.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi4.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi4.live`
+***🗝***
+ Key: 
+`47cebfbc7d38d4e14aa4e6399aab2600b4a62d96638a4dc23c568975301b3665`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 6* 
+***🌐***
+ Domain: 
+`iampedi5.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi5.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi5.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi5.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi5.live`
+***🗝***
+ Key: 
+`eede5fdf4f9313a552f9c7290724c6f7a207794760a52680604c37a4f234474c`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 7* 
+***🌐***
+ Domain: 
+`iampedi6.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi6.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi6.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi6.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi6.live`
+***🗝***
+ Key: 
+`9a1e62f8dc7f89ec4bb98a9e7b7f6fcc326d9bd3827858710cfe98e8d9c75d69`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 8* 
+***🌐***
+ Domain: 
+`iampedi7.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi7.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi7.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi7.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi7.live`
+***🗝***
+ Key: 
+`9f3fda1be34cc9b6bd04e649a8a6ca29f8d29e087841113d25fc4148cc78aa11`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 9* 
+***🌐***
+ Domain: 
+`iampedi8.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi8.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi8.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi8.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi8.live`
+***🗝***
+ Key: 
+`6e13446186d4699fd5101f38c51abe9224a9209b3369825ef2e858a2fb05ac02`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 10* 
+***🌐***
+ Domain: 
+`iampedi9.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi9.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi9.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi9.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi9.live`
+***🗝***
+ Key: 
+`aa8dfbcad7aa0a8d300cf21466452dad71d446ffae2df09944a3ebc7d2ad4a79`
+
+---
+
+### 🕒 2026-03-05 12:15:27 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+udp://223.5.5.5
+اینترنت مخابرات فرکانس 2
+---
+مناسب نت رایتل
+udp://208.67.220.220
+ فرکانس ۲
+
+---
+
+### 🕒 2026-03-05 11:38:01 UTC
+> ↪️ **Forwarded**
+
+**اشتراک فیلترشکن اندروید  برای ویندوز و مک (بدون نیاز به روت کردن گوشی)**
+**به چه درد می خوره؟**
+۱. تونل کردن کل سیستم (Full Tunnel): مشکل اصلی اینه که خیلی از برنامه‌ها و بازی‌های کامپیوتر، تنظیمات پروکسی (Socks/HTTP) ندارن و با فیلترشکن‌های معمولی ویندوز کار نمی‌کنن. با این روش، PdaNet مثل یه کارت شبکه مجازی عمل می‌کنه و کل ترافیک ویندوز رو مجبور می‌کنه از فیلترشکن گوشی رد بشه. پس همه چی (از آپدیت ویندوز گرفته تا گیم و تلگرام) بدون تنظیم خاصی وصل میشه.
+2. بعضی از نرم‌افزارها قابلیت socks یا http ندارن، با این روش هر فیلترشکنی که روی گوشی متصل شده رو می تونید در ویندوز یا مک به اشتراک بزارید (مثل Psiphon)
+3. سرعت و پایداری بیشتر: تجربه نشون داده کلاینت‌های موبایل (مثل v2rayNG) توی ایران خیلی بهتر، سریع‌تر و با قطعی کمتر نسبت به نسخه‌های ویندوزی (مثل v2rayN) وصل میشن. با این کار، قدرت و پایداری نسخه موبایل رو میاری روی کامپیوتر.
+4. دور زدن محدودیت‌های تک‌کاربره: اگه اکانت وی‌پی‌ان پولی خریدی که فقط روی یه دستگاه کار می‌کنه (تک‌کاربره)، با این روش می‌تونی همزمان روی کامپیوتر هم ازش استفاده کنی.
+5. پینگ بهتر برای گیمرها: چون اتصال با کابل USB برقرار میشه (نه وای‌فای)، نوسان پینگ (Jitter) خیلی کمتره و برای بازی آنلاین مناسب‌تره.
+---
+**مراحل اصلی:**
+***🛠***
+ مرحله ۱: آماده‌سازی گوشی (فقط یک‌بار)
+۱. فعال‌سازی USB Debugging: باید به گوشی اجازه بدی اطلاعات رو با کابل رد و بدل کنه:
+برو تو Settings -> Developer options -> گزینه USB debugging رو روشن کن. (
+[در پست قبلی آموزش دادیم](https://t.me/wiki_tajrobe/5329)
+).
+۲. جلوگیری از قطع شدن (خیلی مهم!): 
+***🔋***
+ واسه اینکه وقتی صفحه گوشی خاموش شد، اندروید برنامه رو نبنده و اینترنت قطع نشه:
+انگشتت رو نگه دار روی آیکون PdaNet+ -> بزن روی App info (علامت تعجب) -> برو تو بخش Battery.
+گزینه رو بذار روی Unrestricted (یا "بدون محدودیت").
+دقیقاً همین کار رو برای فیلترشکن (سایفون یا هر فیلتر شکن دیگه) هم انجام بده.
+***💻***
+ مرحله ۲: تنظیمات کامپیوتر (فقط یک‌بار)
+نسخه ویندوز PdaNet رو دانلود و نصب کن.
+بعد از نصب، اون پایین کنار ساعت ویندوز، روی آیکون PdaNet (شبیه موبایل) کلیک راست کن.
+برو تو Settings و تیک گزینه Auto connect on USB plug-in رو بزن. (این یعنی کابل رو زدی، خودش وصل شه!)
+***🔌***
+ مرحله ۳: اتصال و استفاده (همیشگی)
+فیلترشکن سایفون رو روی گوشی روشن کن.
+برنامه PdaNet+ رو توی گوشی باز کن و تیک USB Tethering رو بزن.
+کابل رو بزن به سیستم.
+تمام! خودش اتوماتیک وصل میشه و سیستم از فیلترشکن گوشی استفاده می‌کنه. 
+لینک دانلود:
+[https://play.google.com/store/apps/details?id=com.pdanet](https://play.google.com/store/apps/details?id=com.pdanet)
+[https://pdanet.co/bin/PdaNet5232.apk](https://pdanet.co/bin/PdaNet5232.apk)
+لینک دانلود کلاینت ویندوز:
+[https://pdanet.co/bin/PdaNetA5232b.exe](https://pdanet.co/bin/PdaNetA5232b.exe)
+لینک دانلود کلاینت مک:
+[https://pdanet.co/help/mac.php](https://pdanet.co/help/mac.php)
+
+---
+
+### 🕒 2026-03-05 11:36:03 UTC
+194.225.62.80 با ای وصلم  بدون قطعی  فرکانس ۴ و ۶ و ۷ تونستم وصل بشم  ۴ بهتر از بقیش بود  سرور هم گذاشتم رو ۶
+
+---
+
+### 🕒 2026-03-05 11:35:31 UTC
+> ↪️ **Forwarded**
+
+[194.225.62.80](http://194.225.62.80/)
+با ای وصلم 
+بدون قطعی 
+فرکانس ۴ و ۶ و ۷ تونستم وصل بشم 
+۴ بهتر از بقیش بود 
+سرور هم گذاشتم رو ۶
+
+---
+
+### 🕒 2026-03-05 11:33:29 UTC
+#ارسالی  من با ByebyeDPI متصل هستم.   یک اپلیکیشن برای Android که به‌صورت محلی ByeDPI را اجرا می‌کند و تمام ترافیک شبکه را از طریق آن هدایت می‌کند.  این برنامه VPN واقعی نیست. در Android از حالت VPN فقط برای هدایت (redirect) ترافیک استفاده می‌کند، اما هیچ…
+
+---
+
+### 🕒 2026-03-05 11:23:00 UTC
+[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
+من با ByebyeDPI متصل هستم. 
+یک اپلیکیشن برای Android که به‌صورت محلی ByeDPI را اجرا می‌کند و تمام ترافیک شبکه را از طریق آن هدایت می‌کند.
+این برنامه VPN واقعی نیست.
+در Android از حالت VPN فقط برای هدایت (redirect) ترافیک استفاده می‌کند، اما هیچ داده‌ای به سرور خارجی ارسال نمی‌کند. همچنین ترافیک را رمزنگاری نمی‌کند و آدرس IP شما را مخفی نمی‌کند.
+[https://github.com/romanvht/ByeByeDPI](https://github.com/romanvht/ByeByeDPI)
+
+---
+
+### 🕒 2026-03-05 11:10:42 UTC
+**AM Tunnel  udp://223.5.5.5.   **
+**📶**
+ 
+**همراه اول فرکانس 2udp://5.160.12.98 **
+**📶**
+ 
+**فرکانس 1 ایرانسلudp://77.88.8.8**
+**📶**
+ 
+**همراه اول فرکانس 6udp://208.67.222.222**
+**📶**
+ 
+**فرکانس 2 و 1 همراه اول udp://208.67.220.220**
+**📶**
+ 
+**همراه اول فرکانس 1udp://8.8.8.8**
+**📶**
+**📶**
+ 
+**هم همراه اول وصله هم ایرانسل فرکانس 1udp://8.8.4.4**
+**📶**
+ 
+**همراه فرکانس 3udp://77.88.8.8**
+**📶**
+ 
+**همراه فرکانس 2udp://156.154.70.1**
+**📶**
+ 
+**فرکانس 3 همراهudp://80.80.80.80**
+**📶**
+ 
+**همراه فراکانس 3**
+**🔵**
+ 
+**فرکانس های مختلف رو تست کنید ممکنه برای شما بسته به منطقه روی فرکانس و سرور متفاوتی وصل بشه و کاملا شانسی هست**
+
+---
 
 ### 🕒 2026-03-05 10:31:21 UTC
 بعضی مناطق/شهرها کانفیگ های v2ray کار می کنه:
@@ -271,68 +754,6 @@ slipnet-enc://AUVfctAmlbh+t/IRvT4U00K8E+Ozj8wARox3t57BJssyxwBik0MiIZjHxFWvSYMSn0
 [https://telegra.ph/Complete-Guide-to-Setting-Up-a-DNS-Tunnel-03-04](https://telegra.ph/Complete-Guide-to-Setting-Up-a-DNS-Tunnel-03-04)
 ***✍️***
  Samanet
-
----
-
-### 🕒 2026-03-04 16:15:25 UTC
-همراه اول:
-vless://c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4@185.173.129.127:102?path=%2F&security=none&encryption=none&type=ws#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vmess://eyJhZGQiOiJ1cy52aXBuZXR0LnRvcCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoid3d3LmZhc3QuY29tIiwiaWQiOiI2NjYwZDAwNi03OTM5LTQzZTgtOTAxYi1iMDZiMjFmYzUxNjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIyMDg3IiwicHMiOiLwn5SlIFRlbGVncmFtOiBAd2lraV90YWpyb2JlIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
-vless://5ebdea60-0a8d-49cb-8644-99207335060b@ger2.md-teach.com:32075?security=none&encryption=none&host=parsabr.ir&headerType=http&type=tcp#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-
----
-
-### 🕒 2026-03-04 15:10:51 UTC
-مخابرات:
-vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.19.1.89:2096?encryption=none&security=tls&sni=ita.data-recive.ir&insecure=0&allowInsecure=0&type=xhttp&host=ita.data-recive.ir&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.19.1.89:2096?encryption=none&security=tls&sni=ita.data-recive.ir&insecure=0&allowInsecure=0&type=xhttp&host=ita.data-recive.ir&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://a5323cba-7ba7-4e10-87f5-a49fd2c4f4c0@104.19.1.89:2096?encryption=none&security=tls&sni=ita.data-recive.ir&insecure=0&allowInsecure=0&type=xhttp&host=ita.data-recive.ir&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%2B1000000%2C%2B%22scMaxConcurrentPosts%22%3A%2B100%2C%2B%22scMinPostsIntervalMs%22%3A%2B30%2C%2B%22xPaddingBytes%22%3A%2B%22100-1000%22%2C%2B%22noGRPCHeader%22%3A%2Bfalse%7D#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@172.64.158.2:2096?encryption=none&security=tls&sni=hetz.x-smm.com&insecure=0&allowInsecure=0&type=ws&host=hetz.x-smm.com&path=%2F45.76.183.217%3D49292#%F0%9F%94%A5%20Telegram%3A%20%40wiki_tajrobe
-
----
-
-### 🕒 2026-03-04 14:51:48 UTC
-گروه Void Verge مدعیه روترهای شبکه زیرساخت رو مختل کرده و منجر به عبور بخشی از ترافیک بین‌الملل شده. در همین ساعات افرادی خبر دادن که تانل‌ها و حتی کانفیگ‌های قدیمیشون به کار افتاده. مستقلا نمی‌تونم این موضوعو تایید کنم، ولی درصورتی که صحت داشته باشه نشون…
-
----
-
-### 🕒 2026-03-04 14:24:39 UTC
-گروه Void Verge مدعیه روترهای شبکه زیرساخت رو مختل کرده و منجر به عبور بخشی از ترافیک بین‌الملل شده. در همین ساعات افرادی خبر دادن که تانل‌ها و حتی کانفیگ‌های قدیمیشون به کار افتاده. مستقلا نمی‌تونم این موضوعو تایید کنم، ولی درصورتی که صحت داشته باشه نشون میده هنوز میشه سد فیلترینگ رو شکست!
-کانفیگ‌های قدیمیتونو یه پینگ بگیرین.
-***✍️***
- ircfspace
-
----
-
-### 🕒 2026-03-04 14:00:21 UTC
-کسایی که dnstt یا Slipstream دارن، برن تو تنظیمات و توی SlipNet گزینه‌ی Proxy Mode رو فعال کنن. بعدش پروکسی رو بذارن روی Psiphon؛ سرعت واقعاً بهتر میشه.
-ایده اینه که هندشیک اولیه‌ی سایفون از طریق SlipNet انجام بشه.
-نکته: حواستون باشه، فقط HTTP Proxy جواب می‌ده و SOCKS مشکل داره.
-
----
-
-### 🕒 2026-03-04 12:49:29 UTC
-لینک دانلود:
-[https://play.google.com/store/apps/details?id=com.rostamvpn.android&hl=en_US](https://play.google.com/store/apps/details?id=com.rostamvpn.android&hl=en_US)
-
----
-
-### 🕒 2026-03-04 12:49:10 UTC
-این فیلتر شکن (Rostam) پروتکل  DNSTT داره و رایگانه.
-
----
-
-### 🕒 2026-03-04 12:33:55 UTC
-برای فیلتر شکن تنها پروتکلی که الان جواب میده dnstt و Slipstream
-نکته: کلاینت SlipNet یه باگ داره اگر چند تا DNS resolver بهش بدید متصل نمی‌شه. 
-تست دی‌ان‌ای که تمام شد، فقط یکی انتخاب کنید، اگر متصل نشد بعدی انتخاب کنید.
-
----
-
-### 🕒 2026-03-04 11:40:08 UTC
-کسایی که سرور و دامنه دارن پیام بدن تا سرور dnstt کانفیگ کنیم 
-***🙏🏻***
-  @tajrobe_wiki
 
 ---
 

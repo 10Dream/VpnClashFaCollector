@@ -1,5 +1,841 @@
 # آرشیو کانال: @meliproxyy
-بروزرسانی: 2026-03-05 10:33:22 UTC
+بروزرسانی: 2026-03-05 20:32:43 UTC
+
+### 🕒 2026-03-05 20:16:25 UTC
+چند عدد DNS 
+`194.225.62.66`
+`194.225.62.80`
+`2.189.188.190`
+`78.39.81.223`
+`78.38.251.252`
+`109.230.83.155`
+`5.233.205.183`
+`78.38.121.66`
+`94.74.128.2`
+این DNS ها در برنامه های AM Tunnel و SlipNet قابل استفاده هستند 
+برای AM TUNNEL باید در اول آنها 
+`udp://`
+ قرار بگیرد
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 20:08:43 UTC
+***🔹***
+ کد برای Am tunnel 
+***🔹***
+ پروتکل SuperDNS انتخاب کنید، روش بزنید و گزینه Custom DNS رو پیدا کنید، در کادر یکی از DNSهای زیر رو وارد کنید
+**با فرکانس های مختلف تست بزنید **
+udp://102.133.160.77 
+udp://102.133.139.154 
+udp://102.133.235.79 
+udp://102.133.128.244 
+udp://102.22.82.129 
+udp://102.22.81.212 
+udp://102.22.82.17 
+udp://102.22.81.249 
+udp://102.22.27.125 
+udp://102.22.82.53 
+udp://102.22.83.78 
+udp://102.22.81.20 
+udp://102.22.81.195 
+udp://102.22.83.114 
+udp://102.22.83.149 
+udp://102.22.83.72 
+udp://102.22.81.122 
+udp://102.22.83.102 
+udp://102.22.195.246 
+udp://102.22.108.25 
+udp://102.22.81.37 
+udp://102.22.80.182 
+udp://102.22.81.140 
+udp://102.22.83.155 
+udp://102.22.82.5 
+udp://102.22.82.45 
+udp://102.22.82.94 
+udp://102.22.82.242 
+udp://102.23.163.244 
+udp://102.23.226.71 
+udp://102.23.226.70 
+udp://102.37.158.250 
+udp://102.37.142.149
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 19:58:57 UTC
+تست کنید
+`vless://96953ea1-4d07-4b8a-aeb4-795bbfaf38ad@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#@meliproxyyvless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2&security=tls&encryption=none&host=sni.jpmj.dev&fp=chrome&type=ws&sni=sni.jpmj.dev#@meliproxyyvless://4408dcae-2bdf-4185-84d0-38556d79f27e@srv2-germany.hajimamadcloud.com.tr:1992?security=none&encryption=none&host=skyroom.online%2Cigap.net%2Cgharar.ir&headerType=http&type=tcp#@meliproxyyvless://eb4f770d-f8d7-4e15-acbe-d42f16bf1cda@gamix.ncop.ir:2086?security=&encryption=none&host=soft98.ir&headerType=http&type=tcp#@meliproxyy`
+ایرانسل متصل | همراه اول متصل
+`vless://96953ea1-4d07-4b8a-aeb4-795bbfaf38ad@link.mizbanertebatfarda.site:3010?path=%2Fws%3Fed%3D2048&security=none&encryption=none&host=myket.ir&type=ws&sni=myket.ir#@meliproxyyvless://3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b@89.42.139.69:3530?security=none&encryption=none&headerType=http&type=tcp#@meliproxyy`
+
+---
+
+### 🕒 2026-03-05 19:43:35 UTC
+موقت
+`vless://87e99a87-fd93-4fee-905b-58caf3073fbe@fi.emshabshabe.ir:8086?security=&encryption=none&headerType=http&type=tcp#@meliproxyy`
+
+---
+
+### 🕒 2026-03-05 19:32:21 UTC
+***🔓***
+ *
+**SSH Credentials \ (all servers)**
+* یوزنیم و پسوورد همه سرورها برای ssh
+***👤***
+ User: 
+`nemigam`
+***🔑***
+ Pass: 
+`nemigam`
+***🔌***
+ Port: 
+`22`
+با برنامه Slipnet میتونید وصل بشین 
+**+**
+ بزنید گزینه Dnstt انتخاب کنید بقیه چیزا هم که مشخصه البته این روش و بستن رو خیلی جاها بعضی مناطق وصله
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 1**
+***🌐***
+ Domain: 
+`iampedi.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi.live`
+***🗝***
+ Key : 
+`dff0139a050d17a327cb1b0003cc290f4f27432f23a4811e825c03fef8f60773`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+** Server 2**
+***🌐***
+ Domain: 
+`iampedi1.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi1.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi1.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi1.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi1.live`
+***🗝***
+ Key: 
+`86b1933e526b9bae22c76fdbb79d0b01728129b9db081a878594e8831929f304`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+** Server 3**
+***🌐***
+ Domain: 
+`iampedi2.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi2.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi2.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi2.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi2.live`
+***🗝***
+ Key : 
+`ee9716fc64d6155439e2840b6de18c8260c6b8aee6323095bd9e6c50b2dc745a`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 4**
+***🌐***
+ Domain: 
+`iampedi3.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi3.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi3.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi3.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi3.live`
+***🗝***
+ Key : 
+`d3ab3a150e782b6ee5f47ca34593b5c355bb324918c386ba4363dc9b9180d32e`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 5**
+***🌐***
+ Domain: 
+`iampedi4.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi4.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi4.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi4.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi4.live`
+***🗝***
+ Key : 
+`47cebfbc7d38d4e14aa4e6399aab2600b4a62d96638a4dc23c568975301b3665`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 6**
+***🌐***
+ Domain: 
+`iampedi5.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi5.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi5.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi5.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi5.live`
+***🗝***
+ Key: 
+`eede5fdf4f9313a552f9c7290724c6f7a207794760a52680604c37a4f234474c`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 7**
+***🌐***
+ Domain: 
+`iampedi6.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi6.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi6.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi6.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi6.live`
+***🗝***
+ Key: 
+`9a1e62f8dc7f89ec4bb98a9e7b7f6fcc326d9bd3827858710cfe98e8d9c75d69`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+**Server 8**
+***🌐***
+ Domain: 
+`iampedi7.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi7.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi7.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi7.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi7.live`
+***🗝***
+ Key : 
+`9f3fda1be34cc9b6bd04e649a8a6ca29f8d29e087841113d25fc4148cc78aa11`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+***Server 9***
+ 
+***🌐***
+ Domain: 
+`iampedi8.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi8.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi8.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi8.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi8.live`
+***🗝***
+ Key : 
+`6e13446186d4699fd5101f38c51abe9224a9209b3369825ef2e858a2fb05ac02`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ 
+***Server 10***
+ 
+***🌐***
+ Domain: 
+`iampedi9.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi9.live`
+***🚨***
+ DNSTT \+ SOCKS: 
+`d2.iampedi9.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi9.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi9.live`
+***🗝***
+ Key : 
+`aa8dfbcad7aa0a8d300cf21466452dad71d446ffae2df09944a3ebc7d2ad4a79`
+‎‌‌‌‎‌‌‌‎‌‌‎‌‌‌‎‌‌‎
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 16:39:54 UTC
+متصل
+[https://t.me/proxy?server=195.254.165.138&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.138&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-03-05 16:18:48 UTC
+***🔴***
+ارتش اسرائیل دوباره هشدار تخلیه داد؛
+- ناحیه صنعتی «عباس آباد»
+- ناحیه صنعتی شنزار تو نزدیکی شریف آباد تو شرق پاکدشت
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 16:03:17 UTC
+[پروکسی](https://t.me/proxy?server=195.254.165.249&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=195.254.165.250&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+[پروکسی](https://t.me/proxy?server=195.254.165.251&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=195.254.165.253&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+ | 
+[پروکسی](https://t.me/proxy?server=195.254.165.252&amp;port=25565&amp;secret=dd79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-03-05 15:53:21 UTC
+متصل
+[https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-03-05 15:52:58 UTC
+متصل
+[https://t.me/proxy?server=195.254.165.208&port=7443&secret=79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.208&port=7443&secret=79e344818749bd7ac519130220c25d09)
+
+---
+
+### 🕒 2026-03-05 15:15:13 UTC
+خب قطع شدن همشون
+
+---
+
+### 🕒 2026-03-05 14:45:42 UTC
+پروکسی
+[https://t.me/proxy?server=195.254.165.201&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.201&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-03-05 14:45:19 UTC
+پروکسی
+[https://t.me/proxy?server=195.254.165.208&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.208&port=4455&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-03-05 14:45:03 UTC
+پروکسی
+[https://t.me/proxy?server=142.54.189.107&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267](https://t.me/proxy?server=142.54.189.107&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267)
+
+---
+
+### 🕒 2026-03-05 14:43:59 UTC
+پروکسی
+[https://t.me/proxy?server=195.254.165.253&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D](https://t.me/proxy?server=195.254.165.253&port=2053&secret=ee1603010200010001fc030386e24c3add626973636F7474692E79656B74616E65742E636F6D)
+
+---
+
+### 🕒 2026-03-05 14:41:41 UTC
+پروکسی
+[https://t.me/proxy?server=195.254.165.143&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t](https://t.me/proxy?server=195.254.165.143&port=4455&secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t)
+
+---
+
+### 🕒 2026-03-05 14:31:05 UTC
+DNS Resolver: 
+`199.85.127.10:53`
+`156.154.70.1:53`
+`64.6.64.6:53`
+`8.20.247.20:53`
+[#DNSTT](?q=%23DNSTT)
+ 
+[#slipstream](?q=%23slipstream)
+ 
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 14:06:04 UTC
+***🚨***
+زاکانی: 220 نقطه تهران مورد هدف دشمن قرار گرفته
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 13:57:22 UTC
+تهران میدان ازادی
+
+---
+
+### 🕒 2026-03-05 13:57:01 UTC
+openvpn
+تست کنید شاید وصل شدن
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 13:06:18 UTC
+لینک داخلی دانلود اپلیکیشن های مورد نیاز:
+سایفون کامپیوتر (Psiphon for Windows)
+[https://s34.picofile.com/file/8486793842/psiphon3_2_mitivpn.exe.html](https://s34.picofile.com/file/8486793842/psiphon3_2_mitivpn.exe.html)
+کلاینت پرو (VPN Client Pro)
+[https://s34.picofile.com/file/8486476326/VPN_Client_Pro_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476326/VPN_Client_Pro_MiTiVPN.apk.html)
+وی تو باکس (V2BOX)
+[https://s34.picofile.com/file/8486476300/V2BOX_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476300/V2BOX_MiTiVPN.apk.html)
+اوپن وی‌پی‌ان (OpenVPN Connect)
+[https://s34.picofile.com/file/8486476268/OpenVPN_Connect_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476268/OpenVPN_Connect_MiTiVPN.apk.html)
+هیدیفای (Hiddify)
+[https://s34.picofile.com/file/8486476226/Hiddify_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476226/Hiddify_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان ویندوز (v2rayN Windows)
+[https://s34.picofile.com/file/8486476318/v2rayN_windows_MiTIVPN.zip.html](https://s34.picofile.com/file/8486476318/v2rayN_windows_MiTIVPN.zip.html)
+وی‌تو‌ری‌ان‌جی x86 (v2rayNG x86)
+[https://s34.picofile.com/file/8486476568/v2rayNG_x86_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476568/v2rayNG_x86_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان‌جی نسخه 7.6 (v2rayNG v7.6)
+[https://s34.picofile.com/file/8486476292/v2rayNG_v7a_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476292/v2rayNG_v7a_MiTiVPN.apk.html)
+وی‌تو‌ری‌ان‌جی Arm64 (v2rayNG Arm64)
+[https://s34.picofile.com/file/8486476284/v2rayNG_arm64_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476284/v2rayNG_arm64_MiTiVPN.apk.html)
+نت مود ویندوز x86 (NetMod Windows x86)
+[https://s34.picofile.com/file/8486476276/NetMod_x86_MiTiVPN_.exe.html](https://s34.picofile.com/file/8486476276/NetMod_x86_MiTiVPN_.exe.html)
+نت مود ویندوز x64 (NetMod Windows x64)
+[https://s34.picofile.com/file/8486476250/NetMod_x64_MiTiVPN_.exe.html](https://s34.picofile.com/file/8486476250/NetMod_x64_MiTiVPN_.exe.html)
+نت مود اندروید (NetMod Android)
+[https://s34.picofile.com/file/8486476242/NetMod_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476242/NetMod_MiTiVPN.apk.html)
+وایرگارد (WireGuard)
+[https://s34.picofile.com/file/8486476034/WireGuard_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476034/WireGuard_MiTiVPN.apk.html)
+سایفون اندروید (Psiphon Android)
+[https://s34.picofile.com/file/8486476026/Psiphon_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476026/Psiphon_MiTiVPN.apk.html)
+نپستر تونل (NpvTunnel)
+[https://s34.picofile.com/file/8486476000/NpvTunnel_MiTiVPN.apk.html](https://s34.picofile.com/file/8486476000/NpvTunnel_MiTiVPN.apk.html)
+اچ‌تی‌تی‌پی انجکتور (HTTP Injector)
+[https://s34.picofile.com/file/8486475984/HTTP_Injector_MiTiVPN.apk.htm](https://s34.picofile.com/file/8486475984/HTTP_Injector_MiTiVPN.apk.htm)
+
+---
+
+### 🕒 2026-03-05 12:45:37 UTC
+گروه Void Verge که دیروز باعث اختلال در شبکه زیرساخت شده بود، اعلام کرده که حکومت درحال آماده‌سازی فاز بعدی از قطع سراسری اینترنت در شرایط اضطراریه. هدف از این اقدام محدود کردن زنجیره ارتباط در اینترنت داخلیه، تا کاربران نتونن ابزارهای اتصال به اینترنت بین‌المللی رو با هم به اشتراک بذارن.
+بر اساس این ادعا، اقداماتی مثل مسدود کردن سرویس‌های رایگان اشتراک فایل در اپراتورهای اینترنت همراه، محدودسازی گسترده ارسال لینک و محتوا در پیام‌رسان‌های داخلی، ارسال پیامک‌های تهدیدآمیز و همینطور شناسایی وی‌پی‌ان‌های فعال در کانال‌ها و گروه‌ها درحال انجامه و گفته میشه این اطلاعات بصورت دستی یا با استفاده از ابزارهای خزنده (از جمله اسپارتا) جمع‌آوری میشن، تا دسترسی‌ها مسدود بشن.
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 12:40:05 UTC
+جدا جدا اد کنید  
+Pedi-slipstream-ssh-srv1
+`slipnet://MTV8c2xpcHN0cmVhbV9zc2h8c3J2MS1wZWRpLXNsaXAtc3NofHMyLmlhbXBlZGkubGl2ZXwxLjEuMS4xOjUzOjAsOS45LjkuOTo1MzowLDE5OS44NS4xMjcuMTA6NTM6MCwxLjAuMC4xOjUzOjAsOC4yMC4yNDcuMjA6NTM6MCwyMDguNjcuMjIwLjIyMDo1MzowLDY0LjYuNjQuNjo1MzowLDE1Ni4xNTQuNzAuMTo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDF8bmVtaWdhbXxuZW1pZ2FtfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
+Srv1-pedi-slipstream-socks
+`slipnet://MTV8c3N8c3J2MS1wZWRpLXNsaXBzb2Nrc3x0Mi5pYW1wZWRpLmxpdmV8MTk5Ljg1LjEyNy4xMDo1MzowLDEuMC4wLjE6NTM6MCw2NC42LjY0LjY6NTM6MCwxLjEuMS4xOjUzOjAsOC44LjQuNDo1MzowLDguOC44Ljg6NTM6MCw4LjIwLjI0Ny4yMDo1MzowLDc3Ljg4LjguODo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==`
+Srv1 dnstt socks
+`slipnet://MTV8ZG5zdHR8c3J2MS1wZWRpLWRuc3R0LXNvY2tzfGQyLmlhbXBlZGkubGl2ZXwxOTkuODUuMTI3LjEwOjUzOjAsOS45LjkuOTo1MzowLDEuMS4xLjE6NTM6MCwyMDguNjcuMjIwLjIyMDo1MzowLDc3Ljg4LjguMTo1MzowLDY0LjYuNjQuNjo1MzowLDc3Ljg4LjguODo1MzowLDE1Ni4xNTQuNzAuMTo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfGRmZjAxMzlhMDUwZDE3YTMyN2NiMWIwMDAzY2MyOTBmNGYyNzQzMmYyM2E0ODExZTgyNWMwM2ZlZjhmNjA3NzN8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHw=`
+`slipnet://MTV8c3N8c3J2Mi1zbGlwc3RyZWFtLXNvY2tzfHQyLmlhbXBlZGkxLmxpdmV8NjQuNi42NC42OjUzOjAsMTk5Ljg1LjEyNy4xMDo1MzowLDE1Ni4xNTQuNzAuMTo1MzowLDEuMC4wLjE6NTM6MCwxLjEuMS4xOjUzOjAsOC4yMC4yNDcuMjA6NTM6MCw4LjguNC40OjUzOjAsOC44LjguODo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfHx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==`
+
+---
+
+### 🕒 2026-03-05 12:33:06 UTC
+با برنامه slipnet میتونید وصل بشین + بزنید گزینه dnstt انتخاب کنید بقیه چیزام ک مشخصه البته این روشو بستن رو خیلی جاها بعضی مناطق وصله
+
+---
+
+### 🕒 2026-03-05 12:29:22 UTC
+***🔐***
+ *SSH Credentials \(all servers\)* یوزنیم و پسوورد همه سرور ها برای ssh 
+***👤***
+ User: nemigam 
+***🔑***
+ Pass: nemigam 
+***🔌***
+ Port: 22  ━━━━━━━━━━━━━━━━━━━━ 
+***📡***
+ *Server 1*  
+***🌐***
+ Domain: iampedi.live 
+***⚡️***
+ Slipstream \+ SOCKS: t2.iampedi.live 
+***🟢***
+ DNSTT \+ SOCKS: d2.iampedi.live 
+***🔒***
+ Slipstream…
+
+---
+
+### 🕒 2026-03-05 12:24:19 UTC
+***🔐***
+ *SSH Credentials \(all servers\)* یوزنیم و پسوورد همه سرور ها برای ssh
+***👤***
+ User: 
+`nemigam`
+***🔑***
+ Pass: 
+`nemigam`
+***🔌***
+ Port: 
+`22`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 1* 
+***🌐***
+ Domain: 
+`iampedi.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi.live`
+***🗝***
+ Key: 
+`dff0139a050d17a327cb1b0003cc290f4f27432f23a4811e825c03fef8f60773`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 2* 
+***🌐***
+ Domain: 
+`iampedi1.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi1.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi1.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi1.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi1.live`
+***🗝***
+ Key: 
+`86b1933e526b9bae22c76fdbb79d0b01728129b9db081a878594e8831929f304`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 3* 
+***🌐***
+ Domain: 
+`iampedi2.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi2.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi2.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi2.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi2.live`
+***🗝***
+ Key: 
+`ee9716fc64d6155439e2840b6de18c8260c6b8aee6323095bd9e6c50b2dc745a`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 4* 
+***🌐***
+ Domain: 
+`iampedi3.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi3.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi3.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi3.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi3.live`
+***🗝***
+ Key: 
+`d3ab3a150e782b6ee5f47ca34593b5c355bb324918c386ba4363dc9b9180d32e`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 5* 
+***🌐***
+ Domain: 
+`iampedi4.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi4.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi4.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi4.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi4.live`
+***🗝***
+ Key: 
+`47cebfbc7d38d4e14aa4e6399aab2600b4a62d96638a4dc23c568975301b3665`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 6* 
+***🌐***
+ Domain: 
+`iampedi5.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi5.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi5.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi5.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi5.live`
+***🗝***
+ Key: 
+`eede5fdf4f9313a552f9c7290724c6f7a207794760a52680604c37a4f234474c`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 7* 
+***🌐***
+ Domain: 
+`iampedi6.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi6.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi6.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi6.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi6.live`
+***🗝***
+ Key: 
+`9a1e62f8dc7f89ec4bb98a9e7b7f6fcc326d9bd3827858710cfe98e8d9c75d69`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 8* 
+***🌐***
+ Domain: 
+`iampedi7.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi7.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi7.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi7.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi7.live`
+***🗝***
+ Key: 
+`9f3fda1be34cc9b6bd04e649a8a6ca29f8d29e087841113d25fc4148cc78aa11`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 9* 
+***🌐***
+ Domain: 
+`iampedi8.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi8.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi8.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi8.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi8.live`
+***🗝***
+ Key: 
+`6e13446186d4699fd5101f38c51abe9224a9209b3369825ef2e858a2fb05ac02`
+━━━━━━━━━━━━━━━━━━━━
+***📡***
+ *Server 10* 
+***🌐***
+ Domain: 
+`iampedi9.live`
+***⚡️***
+ Slipstream \+ SOCKS: 
+`t2.iampedi9.live`
+***🟢***
+ DNSTT \+ SOCKS: 
+`d2.iampedi9.live`
+***🔒***
+ Slipstream \+ SSH: 
+`s2.iampedi9.live`
+***🔒***
+ DNSTT \+ SSH: 
+`ds2.iampedi9.live`
+***🗝***
+ Key: 
+`aa8dfbcad7aa0a8d300cf21466452dad71d446ffae2df09944a3ebc7d2ad4a79`
+
+---
+
+### 🕒 2026-03-05 11:31:46 UTC
+AM Tunnel 
+***⭐️***
+ 
+***🧠***
+همه اپراتور ها
+`udp://93.118.122.110`
+``
+`udp://208.67.220.220`
+``
+`udp://208.67.222.222`
+``
+`udp://223.5.5.5`
+``
+`udp://217.218.26.77`
+``
+`udp://208.67.222.222`
+``
+`udp://208.67.220.220`
+``
+`udp://8.8.4.4`
+``
+`udp://8.8.8.8`
+``
+`udp://217.218.26.78`
+``
+`udp://4.2.2.2`
+``
+`udp://8.26.56.26`
+``
+`udp://216.146.36.36`
+``
+`udp://195.46.39.39`
+``
+`udp://4.2.2.2`
+***📶***
+همراه اول فرکانس 4/2/5
+`udp://217.218.26.78`
+``
+`udp://77.88.8.1`
+``
+`udp://77.88.8.8`
+``
+`udp://195.46.39.39`
+``
+`udp://8.26.56.26`
+***📶***
+ایرانسل فرکانس5/3/1
+`udp://8.8.8.8`
+``
+`udp://8.8.4.4`
+``
+`udp://1.1.1.1`
+``
+`udp://1.0.0.1`
+``
+`udp://208.67.222.222`
+***📶***
+رایتل فرکانس 2/6/4
+`udp://208.67.220.220`
+``
+`udp://9.9.9.9`
+``
+`udp://149.112.112.112`
+``
+`udp://4.2.2.2`
+``
+`udp://216.146.36.36`
+***🛜***
+مخابرات فرکانس 1/3/5
+`udp://8.26.56.26`
+``
+`udp://64.6.64.6`
+``
+`udp://64.6.65.6`
+``
+`udp://198.101.242.72`
+` `
+`udp://198.101.242.73`
+**🔵**
+**فرکانس های مختلف رو تست کنید ممکنه برای شما بسته به منطقه روی فرکانس و سرور متفاوتی وصل بشه و کاملا شانسی هست**
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
+
+### 🕒 2026-03-05 11:08:21 UTC
+سرویس v2rayng تانل‌ موجود شد سرعت بالا، عین سرویس استار تضمین نداره استعلام قیمت
+[@izmez](https://t.me/izmez)
+
+---
+
+### 🕒 2026-03-05 10:44:03 UTC
+بعضی مناطق وصل
+`vless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@85.133.197.56:9830?security=none&encryption=none&host=pro30afzar.com&headerType=http&type=tcp#@meliproxyyvless://3591d9e2-edbf-43f1-98dc-00eb607b8c46@140.248.159.164:80?path=%2Fcontainers%2Ffi&security=none&encryption=none&host=kiram-to-harki-filter-kone.global.ssl.fastly.net&type=ws#@meliproxyyvless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#@meliproxyyvless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#@meliproxyyvless://49855d97-2d13-453b-84b7-1d94af760777@185.141.107.110:11178?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#@meliproxyyvless://49a10d26-d2af-4d72-8c7a-12590eb423f9@46.245.120.148:48393?security=none&encryption=none&host=uptvs.com&headerType=http&type=tcp#@meliproxyyvless://60c4d266-1244-4354-837f-d42b9f51077b@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#@meliproxyyvless://870f0165-8308-4e53-b81f-8b54eaf03bd2@62.60.212.199:443?security=reality&encryption=none&pbk=KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA&headerType=none&fp=random&spx=%2F&type=tcp&sni=www.figma.com&sid=8784#@meliproxyyvless://8ebd3e05-ffc2-4193-e0cf-94987f98b77b@arz.radargame.site:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=arz.radargame.site#@meliproxyyvless://a6c79c8c-8682-4287-aabb-660143de38b7@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#@meliproxyyvless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@meliproxyyvless://d65cc14c-f53f-4fe2-b262-97856601319c@143.20.236.51:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#@meliproxyyvless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#@meliproxyyvless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#@meliproxyyvless://4ce367e8-89bf-43f7-a04d-d94bab948fc6@v10.atlax.ir:59680?security=none&encryption=none&headerType=none&type=tcp#@meliproxyyvless://db764e29-170a-4f2e-8c5e-c7e33b2d1344@1mobile.cfd:10738?security=none&encryption=none&headerType=none&type=tcp#@meliproxyyvless://456ad5c1-ac34-4e50-87d8-faec61ce462c@a1-gfawbcx.maxriser.ir:8082?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#@meliproxyyvless://3c74a11b-1676-4f58-921f-7399bea00880@v4.mesterking8786.cfd:55948?security=none&encryption=none&host=www.soft98.ir&headerType=http&type=tcp#@meliproxyy`
+
+---
+
+### 🕒 2026-03-05 10:37:23 UTC
+بیشتر DNS ها داره بسته و فیلتر میشه ...
+[@meliproxyy](https://t.me/meliproxyy)
+
+---
 
 ### 🕒 2026-03-05 10:23:47 UTC
 `udp://208.67.220.220`
@@ -226,293 +1062,6 @@ SlipNet
 
 ### 🕒 2026-03-04 20:39:50 UTC
 قسمت superdns فیلترشکن AM Tunnel lite پایین لیست چند تا سرور ایرانی میبینین سرور ۱۶ رو انتخاب کنید فرکانس هم بزارید روی ۷ تست کنید
-[@meliproxyy](https://t.me/meliproxyy)
-
----
-
-### 🕒 2026-03-04 20:03:26 UTC
-صدای انفجار سمت چالوس
-***🙌***
-تهرانیایی که شمال رفتن:
-***😐***
-
----
-
-### 🕒 2026-03-04 19:35:11 UTC
-شانسی شاید وصل شد
-[tg://proxy?server=tg.watchnow.icu&port=443&secret=33949ed9ec94e0afc03af60bfc21cec9](tg://proxy?server=tg.watchnow.icu&port=443&secret=33949ed9ec94e0afc03af60bfc21cec9)
-[tg://proxy?server=147.125.130.48&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d](tg://proxy?server=147.125.130.48&port=2083&secret=ee1603010200010001fc030386e24c3add68656c702e737465616d706f77657265642e636f6d)
-[tg://proxy?server=web.websecc.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0](tg://proxy?server=web.websecc.info&port=42341&secret=7nnnAQIAAQAH8AMDhuJMOt0)
-[tg://proxy?server=arvancloud.ir&port=2086&secret=e9e437c2-1ee5-4f0d-ae09-4bfafc835e4](tg://proxy?server=arvancloud.ir&port=2086&secret=e9e437c2-1ee5-4f0d-ae09-4bfafc835e4)
-[tg://proxy?server=sni.needhost.ir&port=443&secret=7nlnZpKACGMvBKgv9kq9q-5zbmkubmVlZGhvc3QuaXI](tg://proxy?server=sni.needhost.ir&port=443&secret=7nlnZpKACGMvBKgv9kq9q-5zbmkubmVlZGhvc3QuaXI)
-[tg://proxy?server=tg-proxy.greentg.su&port=443&secret=ab6c6db4ec6814fc0792722cd88b46ef](tg://proxy?server=tg-proxy.greentg.su&port=443&secret=ab6c6db4ec6814fc0792722cd88b46ef)
-
----
-
-### 🕒 2026-03-04 19:33:57 UTC
-روش استفاده از برنامه AM TUNNEL VPN یا همون DNS که تنها روش وصل شدن توی این شرایط هست اما پایدار نیست :
-لینک دانلود برنامه AM TUNNEL VPN بدون نیاز به وی پی ان
-***‼️***
-1.برنامه رو پس از دانلود باز کنید و گزینه UDP رو روی SuperDNS قرار بدین.
-2.دو تا گزینه میاد براتون که قابل تغییره،روی اولی (فلش آبی) کلیک کنین و دنبال گزینه Custom DNS بگردین و انتخابش کنین.
-3.پس از انتخاب جای خالی پایینش رو با DNS هایی که توی چنل قرار میدیم پر کنید و Ok رو بزنین.
-4.وقتی سیو شد Start رو بزنین وقتی کانکت شد تلگرامتون رو باز کنید و صبر کنید تا لود شه،این روش ده تا پونزده ثانیه وصله و برای بالا اوردن پیام ها و ارسال پیام گزینه خوبی
-برای مثال سرور دی ان اس زیر رو تست کنین
-`udp://80.80.80.80`
-یه بار روش کلیک کنید کپی میشه
-***👆🏻***
-کانفیگ استارلینک موجود 
-[قیمتش اینجاس](https://t.me/meliproxyy/35484)
-[@izmez](https://t.me/izmez)
- خرید از
-
----
-
-### 🕒 2026-03-04 18:05:29 UTC
-***📌***
-**لیست DNS های SuperDNS برای Am Tunnel **
-`udp://223.5.5.5.   `
-همراه اول فرکانس 2
-`udp://5.160.12.98 `
-فرکانس 1 ایرانسل vmess://
-`udp://77.88.8.8`
-همراه اول فرکانس 6
-`udp://208.67.222.222`
-فرکانس 2 و 1 همراه اول
-`udp://208.67.220.220`
-همراه اول فرکانس 1
-`udp://8.8.8.8`
-هم همراه اول وصله هم ایرانسل فرکانس 1
-`udp://8.8.4.4`
-همراه فرکانس 3
-`udp://77.88.8.8`
-همراه فرکانس 2
-`udp://156.154.70.1`
-فرکانس 3 همراه
-`udp://80.80.80.80`
-همراه فرکانس 3
-****
-[@meliproxyy](https://t.me/meliproxyy)
-
----
-
-### 🕒 2026-03-04 17:10:05 UTC
-***🔸***
-چندتا ترکیب و dns که بهتر کار میکنن: 
-`udp://217.218.26.78`
- 
- فرکانس ۲، ۳، ۴، ۵
- همراه اول خیلی خوب کار می‌کنه، گاهی ایرانسل هم کار میده
-`udp://77.88.8.8`
- 
- فرکانس ۲، ۶، ۹ 
-یکی از پایدارترین‌ها برای همراه اول، گاهی تا چند دقیقه وصل میمونه. 
-واسه من چند ساعتم وصل مونده. 
-`- udp://208.67.222.222`
- 
-فرکانس ۱، ۲، ۳، ۴، ۶
-سرور  عمومی‌ست،  برای ایرانسل/همراه اول خوبه. 
-`udp://208.67.220.220 `
- فرکانس ۲، ۳، ۴، ۵، ۶
- روی همراه پایداریش خوبه. 
-`- udp://8.26.56.26`
- 
- فرکانس ۲، ۳، ۵، ۸ 
-روی همراه و رایتل خوبه. 
-`- udp://223.5.5.5`
- 
- فرکانس ۳، ۵، ۶ 
-گاهی خیلی خوب وصل می‌شه، مخصوصا ایرانسل
-`- udp://77.88.8.1`
- 
- فرکانس ۴، ۵
-جدیدتره، و گاهی وصل میشه، تستش نکردم خیلی
-***🔸***
-چندتا ترکیب دوتا dns برای اتصال پایدارتر: 
--  اولی رو تست کنید، اگر قطع شد دومی رو بزنید، اگر دومی قطع شد دوباره برگردید اولی. 
-`udp://217.218.26.78`
- 
-فرکانس ۴ یا ۵
-+
-`  udp://77.88.8.8`
- فرکانس ۲ 
- همراه اول
-`udp://208.67.222.222`
- فرکانس ۳ 
-+
-` udp://8.26.56.26`
- 
-فرکانس ۲  ایرانسل/همراه اول
-`udp://223.5.5.5`
- 
-فرکانس ۵
-+
-` udp://208.67.220.220`
- 
-فرکانس ۴،  عمومی
-`udp://77.88.8.8`
- 
-فرکانس ۶ 
-+
-` udp://217.218.26.78`
- 
-فرکانس ۹
-***🔹***
-نکته برای شانس اتصال: 
-قبل اتصال حتما حالت پرواز  ۱۰-۲۰ ثانیه روشن کنیر، بعد خاموش و سریع وصل بشید.
-- فرکانس رو از ۱ شروع کنید و تا ۱۰ یکی‌یکی تست کنید (هر کدوم رو ۱-۲ دقیقه صبر کنید).
-تلگرام رو ببند و سپس باز کنید، یا چند دقیقه صبر کنید تا استاتوس تل آپدیت بشه.
-
----
-
-### 🕒 2026-03-04 17:09:06 UTC
-خبرهایی از دسترسی به سرورهای ایران میاد، البته امکان داره اختلال باشه.
-
----
-
-### 🕒 2026-03-04 16:38:56 UTC
-udp://223.5.5.5
-فرکانس ۳ و ۵ 
-***☝️***
-udp://80.80.80.80
-فرکانس ۳ 
-***☝️***
-udp://8.26.56.26
-فرکانس ۳ و ۲ 
-***☝️***
-udp://216.146.36.36
-فرکانس ۴ 
-***☝️***
-udp://208.67.222.222
-فرکانس ۲، ۳ و ۴ و... 
-***☝️***
-udp://208.67.220.220
-فرکانس ۲،۳،۴،۵ و ۶ 
-***☝️***
-
----
-
-### 🕒 2026-03-04 14:28:41 UTC
-**گروه Void Verge مدعیه روترهای شبکه زیرساخت رو مختل کرده و منجر به عبور بخشی از ترافیک بین‌الملل شده. در همین ساعات افرادی خبر دادن که تانل‌ها و حتی کانفیگ‌های قدیمیشون به کار افتاده.**
-**فعلا این اخبار داره  دست ب دست میشه**
-
----
-
-### 🕒 2026-03-04 14:11:23 UTC
-خبرهایی از دسترسی به سرورهای ایران میاد، البته امکان داره اختلال باشه.
-
----
-
-### 🕒 2026-03-04 12:41:39 UTC
-خب تموم شد
-`vmess://eyJhZGQiOiJpcmQxLnV0YWhuZXQudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJTb2Z0OTguaXIiLCJpZCI6IjQ2NmM5M2IzLWJmN2ItNDA5NS04ZGIzLWRjOTg1NjliZjZkYSIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNzkxIiwicHMiOiJAbWVsaXByb3h5eSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=`
-
----
-
-### 🕒 2026-03-04 11:17:47 UTC
-دی ان اس برای Am tunnel 
-[5.201.190.178](http://5.201.190.178/)
-[5.202.60.242](http://5.202.60.242/)
-[5.202.68.103](http://5.202.68.103/)
-[5.202.84.152](http://5.202.84.152/)
-[5.202.44.204](http://5.202.44.204/)
-[2.177.115.30](http://2.177.115.30/)
-[78.109.206.2](http://78.109.206.2/)
-[46.245.91.72](http://46.245.91.72/)
-[86.104.32.2](http://86.104.32.2/)
-[79.175.177.2](http://79.175.177.2/)
-[79.127.5.25](http://79.127.5.25/)
-[84.241.10.99](http://84.241.10.99/)
-[178.22.126.2](http://178.22.126.2/)
-[94.183.118.4](http://94.183.118.4/)
-[93.115.147.225](http://93.115.147.225/)
-[93.113.238.2](http://93.113.238.2/)
-[82.99.213.58](http://82.99.213.58/)
-[80.75.5.26](http://80.75.5.26/)
-[84.241.6.165](http://84.241.6.165/)
-[84.241.6.244](http://84.241.6.244/)
-[84.241.16.17](http://84.241.16.17/)
-[109.122.236.62](http://109.122.236.62/)
-[185.140.4.66](http://185.140.4.66/)
-[82.99.214.107](http://82.99.214.107/)
-[178.252.135.26](http://178.252.135.26/)
-[95.38.138.174](http://95.38.138.174/)
-[185.179.168.24](http://185.179.168.24/)
-[185.89.112.20](http://185.89.112.20/)
-[79.175.148.242](http://79.175.148.242/)
-[185.49.86.202](http://185.49.86.202/)
-[188.213.209.31](http://188.213.209.31/)
-[194.33.107.107](http://194.33.107.107/)
-[80.66.177.4](http://80.66.177.4/)
-[80.66.177.5](http://80.66.177.5/)
-[80.75.2.135](http://80.75.2.135/)
-[80.75.3.86](http://80.75.3.86/)
-[80.75.5.26](http://80.75.5.26/)
-[80.191.40.140](http://80.191.40.140/)
-[80.191.40.143](http://80.191.40.143/)
-[80.191.40.155](http://80.191.40.155/)
-[80.191.40.156](http://80.191.40.156/)
-[80.191.40.157](http://80.191.40.157/)
-[80.191.50.28](http://80.191.50.28/)
-[80.191.68.247](http://80.191.68.247/)
-[80.191.92.188](http://80.191.92.188/)
-[80.191.92.233](http://80.191.92.233/)
-[80.191.107.16](http://80.191.107.16/)
-[80.191.115.122](http://80.191.115.122/)
-[80.191.152.66](http://80.191.152.66/)
-[80.191.163.249](http://80.191.163.249/)
-[80.191.192.249](http://80.191.192.249/)
-[80.191.197.194](http://80.191.197.194/)
-[80.191.202.15](http://80.191.202.15/)
-[80.191.206.50](http://80.191.206.50/)
-[80.191.206.135](http://80.191.206.135/)
-[80.191.209.94](http://80.191.209.94/)
-[80.191.216.2](http://80.191.216.2/)
-[80.191.240.70](http://80.191.240.70/)
-[80.191.240.138](http://80.191.240.138/)
-[80.191.250.61](http://80.191.250.61/)
-[80.191.255.22](http://80.191.255.22/)
-[80.210.17.163](http://80.210.17.163/)
-[80.210.18.80](http://80.210.18.80/)
-[80.210.18.147](http://80.210.18.147/)
-[80.210.18.226](http://80.210.18.226/)
-[80.210.19.31](http://80.210.19.31/)
-[80.210.19.186](http://80.210.19.186/)
-[80.210.20.226](http://80.210.20.226/)
-[80.210.40.98](http://80.210.40.98/)
-[80.210.42.149](http://80.210.42.149/)
-[80.210.42.186](http://80.210.42.186/)
-[80.210.48.185](http://80.210.48.185/)
-[80.210.56.186](http://80.210.56.186/)
-[80.210.63.251](http://80.210.63.251/)
-[@meliproxyy](https://t.me/meliproxyy)
-
----
-
-### 🕒 2026-03-04 10:39:00 UTC
-اینم لینک دانلود برنامه های مورد نیاز برای این روزا که همه ازشون استفاده میکنن،بفرستید برای اونایی که لازم دارن
-SlipNet
-[https://uploadb.me/newi71kfidn8](https://uploadb.me/newi71kfidn8)
-AM Tunnel
-[https://uploadb.me/dd42qipoilv9](https://uploadb.me/dd42qipoilv9)
-ClientPro
-[https://uploadb.me/bgv5f31p7ghy](https://uploadb.me/bgv5f31p7ghy)
-Hiddify
-[https://uploadb.me/2veifm6mkwm5](https://uploadb.me/2veifm6mkwm5)
-WireGuard
-[https://uploadb.me/rc3b4kyd6tyt](https://uploadb.me/rc3b4kyd6tyt)
-NetMod
-[https://uploadb.me/x4nu08kf0wco](https://uploadb.me/x4nu08kf0wco)
-OpenVPN
-[https://uploadb.me/60l2e8u5bzoi](https://uploadb.me/60l2e8u5bzoi)
-Http-injector
-[https://uploadb.me/ckal4rgqp6oe](https://uploadb.me/ckal4rgqp6oe)
-NpvTunnel
-[https://uploadb.me/lo58jwh0hj45](https://uploadb.me/lo58jwh0hj45)
-Psiphon
-[https://uploadb.me/dnr7c53bg0w6](https://uploadb.me/dnr7c53bg0w6)
-EveryProxy
-[https://uploadb.me/gs7zgvqx423b](https://uploadb.me/gs7zgvqx423b)
 [@meliproxyy](https://t.me/meliproxyy)
 
 ---
