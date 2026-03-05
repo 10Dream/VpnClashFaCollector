@@ -466,17 +466,24 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@configraygan §5", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
+  - {name: "@configraygan 🕊 اختصاصی", server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 0d11eed5-50e3-4e35-bc98-c316982ff0f2, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan, server: vip.oneplus2online.com, port: 50063, type: vless, tls: true, packet-encoding: xudp, uuid: 159f4e4f-06df-4e73-89e8-5fa03d82057a, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🖤 عضو باش", server: turkish.levron.pro, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 1b858811-9c5e-43e6-9faf-846a63ebcf76, host: turkish.levron.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🖤 عضو باش 2", server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan §6", server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: کانفیگ های بیشتر در @configraygan, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 @configraygan Pl, server: api-main-frank1.cdnpark.net, port: 305, type: vless, tls: true, packet-encoding: xudp, uuid: 6723e687-e5cd-4ca5-a446-832e447847b3, host: web.igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan 2, server: dash.mobileemdad.top, port: 9560, type: vless, tls: true, packet-encoding: xudp, uuid: 6e3e76bf-9928-4eec-be2b-f8ea12fcc47d, host: play.google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan P", server: V1.socialser.org, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: 76af46ef-439b-4062-a366-52f862dadc70, host: google.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan §2", server: marzha.antimage.ir, port: 45591, type: vless, tls: true, packet-encoding: xudp, uuid: 7a55574d-552b-419e-e1ea-e690636e9bed, host: marzha.antimage.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan 3, server: marzha.antimage.ir, port: 45591, type: vless, tls: true, packet-encoding: xudp, uuid: 7a55574d-552b-419e-e1ea-e690636e9bed, host: marzha.antimage.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A", server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: "/?@V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/configraygan, server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: a589a8c6-ddbb-496f-92bd-7422ea8c9fb7, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan §3", server: 62.141.32.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan §4", server: 62.141.32.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/configraygan 2, server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: all.x22pro.com:1001, server: all.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: cc5e685e-c846-4335-ba8e-526280c451b1, host: all.x22pro.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🖤 عضو باش 3", server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan K2, server: respina1.server11net.ir, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: d6e51590-555b-400a-9fda-3e091bf84176, host: respina1.server11net.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: s4.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: ded7d38c-97fe-4f44-98db-63ea31dc66c8, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -487,11 +494,16 @@ proxies:
   - {name: "@configraygan G0", server: 1.iran2.axenet.company, port: 1112, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan G3", server: 1.iran2.axenet.company, port: 1113, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan G61", server: 1.iran2.axenet.company, port: 1114, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: https://t.me/configraygan, server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: کانفیگ های بیشتر در @configraygan 2, server: a.vipnamusic.sbs, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fed939d1-6e3f-4f1b-8455-1d81468a34a6, host: a.vipnamusic.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🖤 عضو باش 4", server: tk.digitalfortress.bond, port: 891, type: vmess, uuid: 47633a21-a91f-4280-a5e7-a4d681557a0a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/configraygan 3, server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🕊 اختصاصی 2", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan K1, server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan😉, server: vip.jahannet.top, port: 443, type: vmess, uuid: 1854f3aa-de72-4d70-8185-83d4c7ae849e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🕊 اختصاصی 3", server: host-speed.net, port: 8080, type: vmess, uuid: 161b5354-405e-43b1-9d2f-af0de2321d01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan K3, server: host-speed.net, port: 8080, type: vmess, uuid: 161b5354-405e-43b1-9d2f-af0de2321d01, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 4", server: ird1.utahnet.top, port: 20791, type: vmess, uuid: 466c93b3-bf7b-4095-8db3-dc98569bf6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 🕊 اختصاصی 4", server: p17.fortntine-game.top, port: 9500, type: vmess, uuid: aa0d1d16-ea8c-4c0b-93e0-d0ef534188a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -509,17 +521,24 @@ proxy-groups:
     type: select
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -530,11 +549,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -542,17 +566,24 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -563,11 +594,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -575,17 +611,24 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -596,11 +639,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -617,17 +665,24 @@ proxy-groups:
     interval: 600
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -638,11 +693,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -650,17 +710,24 @@ proxy-groups:
     interval: 600
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -671,11 +738,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -683,17 +755,24 @@ proxy-groups:
     interval: 600
     proxies:
       - "@configraygan §5"
+      - "@configraygan 🕊 اختصاصی"
       - configraygan
+      - "@configraygan 🖤 عضو باش"
+      - "@configraygan 🖤 عضو باش 2"
       - "@configraygan §6"
+      - کانفیگ های بیشتر در @configraygan
       - 🇵🇱 @configraygan Pl
       - configraygan 2
       - "@configraygan P"
       - "@configraygan §2"
       - configraygan 3
       - "@configraygan A"
+      - https://t.me/configraygan
       - "@configraygan §3"
       - "@configraygan §4"
+      - https://t.me/configraygan 2
       - all.x22pro.com:1001
+      - "@configraygan 🖤 عضو باش 3"
       - configraygan K2
       - "@configraygan"
       - "@configraygan 2"
@@ -704,11 +783,16 @@ proxy-groups:
       - "@configraygan G0"
       - "@configraygan G3"
       - "@configraygan G61"
-      - https://t.me/configraygan
+      - کانفیگ های بیشتر در @configraygan 2
+      - "@configraygan 🖤 عضو باش 4"
+      - https://t.me/configraygan 3
+      - "@configraygan 🕊 اختصاصی 2"
       - configraygan K1
       - configraygan😉
+      - "@configraygan 🕊 اختصاصی 3"
       - configraygan K3
       - "@configraygan 4"
+      - "@configraygan 🕊 اختصاصی 4"
   - name: دانلود منیجر 📥
     type: select
     proxies:

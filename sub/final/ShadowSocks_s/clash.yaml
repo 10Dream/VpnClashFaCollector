@@ -466,7 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: https://t.me/ConfigX2ray`, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: T.me/rezzonez`, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@VPN_PASARGAD`", server: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 82341ecd-ec7a-47c3-94cf-ecc1cbeb146f, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/ConfigX2ray, server: bufa.heliyadak.ir, port: 2455, type: vless, tls: true, packet-encoding: xudp, uuid: 95795ee5-e9aa-405e-9c45-1d64dfb3b6c3, network: ws, ws-opts: {path: /, headers: {Host: bufa.heliyadak.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: itech52, server: ali1.bsgerampishtazdubraser3.com, port: 38885, type: vmess, uuid: 351af283-c2c2-4df8-938b-5de49f9a3ba1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -487,7 +486,6 @@ proxy-groups:
     type: select
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52
@@ -498,7 +496,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52
@@ -509,7 +506,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52
@@ -529,7 +525,6 @@ proxy-groups:
     interval: 600
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52
@@ -540,7 +535,6 @@ proxy-groups:
     interval: 600
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52
@@ -551,7 +545,6 @@ proxy-groups:
     interval: 600
     proxies:
       - https://t.me/ConfigX2ray`
-      - T.me/rezzonez`
       - "@VPN_PASARGAD`"
       - https://t.me/ConfigX2ray
       - itech52

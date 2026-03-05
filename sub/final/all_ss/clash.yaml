@@ -482,8 +482,6 @@ proxies:
   - {name: 🇹🇷 Türkiye | Basic, server: 154.205.148.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: "@filembad` 6", server: 154.205.148.202, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: 🇹🇷 Türkiye | Basic 2, server: 154.205.148.202, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: "@filembad` 7", server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: "[💜TEL●@KIA_NET💜] ss-BG", server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
@@ -492,51 +490,44 @@ proxies:
   - {name: "🇲🇾 [💜TEL●@KIA_NET💜] ss-MY", server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 46.246.97.140:53908, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
-  - {name: 163.171.181.49:48852, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
   - {name: NetAccount`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: 193.29.139.217:8080, server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 193.29.139.217, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 91.107.144.0:1080, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: "@configraygan §5", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: 91.107.144.0:1080 2, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: "@filembad` 9", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: "[🇩🇪]💜TEL●@KIA_NET💜`", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: "🇩🇪 [💜TEL●@KIA_NET💜] ss-DE", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: 91.107.144.0:1080 3, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: node-de-1.v2sv.top, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: nodes-d0bc3fc2, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: NetAccount` 3, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.89:8080, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 🇬🇧 UK | Basic, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 103.186.155.215:38388, server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: "🇺🇸 [💜TEL●@KIA_NET💜] ss-US", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 38.180.197.41:8080, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
+  - {name: "@filembad` 15", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
   - {name: 🇦🇹 Austria | Basic, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
   - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 154.38.176.7:80 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -570,8 +561,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -580,51 +569,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -648,8 +630,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -658,51 +638,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -726,8 +699,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -736,51 +707,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -813,8 +777,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -823,51 +785,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -891,8 +846,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -901,51 +854,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -969,8 +915,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - "@filembad` 6"
       - 🇹🇷 Türkiye | Basic 2
-      - admin.c1.havij.co:443
-      - "***✅***@AR14N24b 4"
       - 193.135.174.135:990
       - "@filembad` 7"
       - "[💜TEL●@KIA_NET💜] ss-BG"
@@ -979,51 +923,44 @@ proxy-groups:
       - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
       - series-a1.samanehha.co:443
       - 46.246.97.140:53908
-      - "***✅***@AR14N24b 5"
-      - 163.171.181.49:48852
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 4"
       - NetAccount`
-      - 193.29.139.217:8080
-      - "***✅***@AR14N24b 7"
       - " "
       - 91.107.144.0:1080
       - "@configraygan §5"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 5"
       - 91.107.144.0:1080 2
       - "@filembad` 9"
       - "[🇩🇪]💜TEL●@KIA_NET💜`"
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🐦‍🔥 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩
       - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 6"
       - NetAccount` 2
-      - 91.107.144.0:1080 3
-      - "***✅***@AR14N24b 10"
+      - "@filembad` 10"
+      - "@filembad` 11"
       - NetAccount` 3
       - 82.38.31.62:8080
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - "***✅***@AR14N24b 11"
+      - "***✅***@AR14N24b 7"
       - 82.38.31.89:8080
-      - "@filembad` 10"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 12"
-      - 103.186.155.215:38388
-      - "@filembad` 11"
-      - "***✅***@AR14N24b 13"
-      - 144.217.164.29:12000
       - "@filembad` 12"
+      - 🇬🇧 UK | Basic
+      - "***✅***@AR14N24b 8"
+      - 103.186.155.215:38388
+      - "@filembad` 13"
+      - "***✅***@AR14N24b 9"
+      - 144.217.164.29:12000
+      - "@filembad` 14"
       - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
       - 38.180.197.41:8080
-      - "@filembad` 13"
+      - "@filembad` 15"
       - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 14"
+      - "***✅***@AR14N24b 10"
       - 154.38.176.7:80
-      - "***✅***@AR14N24b 15"
-      - 154.38.176.7:80 2
-      - "***✅***@AR14N24b 16"
+      - "***✅***@AR14N24b 11"
   - name: دانلود منیجر 📥
     type: select
     proxies:

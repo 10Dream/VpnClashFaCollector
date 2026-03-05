@@ -465,6 +465,18 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 4l.gexar.top:21791, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 04051409-ec19-4d67-86df-877c9ca5d510, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: srv-s0.netmaster.cam:802, server: srv-s0.netmaster.cam, port: 802, type: vless, tls: true, packet-encoding: xudp, uuid: 09a4e8da-ca5e-6e48-1e63-919a8df967f1, network: ws, ws-opts: {path: /, headers: {Host: srv-s0.netmaster.cam}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.141.106.39:3009, server: 185.141.106.39, port: 3009, type: vless, tls: true, packet-encoding: xudp, uuid: 310c288a-0927-4858-ad4e-8614444c2194, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 2, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 5bd9a603-10cf-496a-be3e-edb89711e37e, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 3, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 874e8b40-81eb-4dd4-a6c6-cff516712908, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 4, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 99e793e5-981c-4546-9dee-ee2204926a07, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 5, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 9c39fe98-35a7-4ffb-ac58-2a21a4d23765, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: turkey.dehnavy.ir:36135, server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 6, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 9fdf7698-c269-439d-bcbe-5977ad25cc5c, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 7, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: ac257956-149d-4fc4-969e-13ae4765aa4b, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: finland.411r324.ir:1313, server: finland.411r324.ir, port: 1313, type: vless, tls: true, packet-encoding: xudp, uuid: b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7, host: skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 4l.gexar.top:21791 8, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: e151dc19-a476-40bf-b5a7-11ed9c643a7f, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy", server: ird1.utahnet.top, port: 20791, type: vmess, uuid: 466c93b3-bf7b-4095-8db3-dc98569bf6da, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -482,6 +494,18 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -489,6 +513,18 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -496,6 +532,18 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -512,6 +560,18 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -519,6 +579,18 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -526,6 +598,18 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 4l.gexar.top:21791
+      - srv-s0.netmaster.cam:802
+      - 185.141.106.39:3009
+      - 4l.gexar.top:21791 2
+      - 4l.gexar.top:21791 3
+      - 4l.gexar.top:21791 4
+      - 4l.gexar.top:21791 5
+      - turkey.dehnavy.ir:36135
+      - 4l.gexar.top:21791 6
+      - 4l.gexar.top:21791 7
+      - finland.411r324.ir:1313
+      - 4l.gexar.top:21791 8
       - "@meliproxyy"
   - name: دانلود منیجر 📥
     type: select

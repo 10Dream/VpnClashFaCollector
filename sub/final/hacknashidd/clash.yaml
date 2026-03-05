@@ -465,23 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@hacknashidd", server: 81.12.35.242, port: 9000, type: vless, tls: true, packet-encoding: xudp, uuid: 01055869-26df-4f17-bb7e-cfde6dc3d785, host: "bale.ai,soroushplus.com,web.igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 2", server: s2idb.iran-to-mars.icu, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 0e7aac06-c310-44d6-83d9-3d445af9cf04, servername: s2edb.iran-to-mars.icu, alpn: ["h2,http/1.1"], host: s2edb.iran-to-mars.icu, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 3", server: 89.44.242.102, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: 325e7a06-7be4-4b31-8b28-979bfb9e3b99, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🚀***", server: yohaha.spacesystems.shop, port: 51242, type: vless, tls: true, packet-encoding: xudp, uuid: 32aa54e7-2190-4988-b220-900aaf19d2cc, host: yohaha.spacesystems.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 4", server: ge.configfast.site, port: 3013, type: vless, tls: true, packet-encoding: xudp, uuid: 47d440a1-83ac-4d0f-b2b4-e51a8526f55a, host: "bale.ai,web.splus.ir,igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hacknashidd, server: ge.configfast.site, port: 3013, type: vless, tls: true, packet-encoding: xudp, uuid: 47d440a1-83ac-4d0f-b2b4-e51a8526f55a, host: "bale.ai,web.splus.ir,igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 5", server: sell2.kaiserping.site, port: 5554, type: vless, tls: true, packet-encoding: xudp, uuid: 6037876d-d2ca-491f-b86f-fe296911fc3f, host: api.live98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 6", server: vipfi2.persianpinggame.com, port: 9096, type: vless, tls: true, packet-encoding: xudp, uuid: 8b266455-14f3-11f1-b55f-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd`", server: vipfi2.persianpinggame.com, port: 9096, type: vless, tls: true, packet-encoding: xudp, uuid: 8b266455-14f3-11f1-b55f-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Hacknashidd, server: 85.133.225.88, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 92bc216b-979a-46b6-b10f-7d30e44b026c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd 7", server: sv23.tsdata1.top, port: 23443, type: vless, tls: true, packet-encoding: xudp, uuid: fe065adf-fc23-411f-b0aa-5595bc4edf05, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: کانال, server: sv23.tsdata1.top, port: 23443, type: vless, tls: true, packet-encoding: xudp, uuid: fe065adf-fc23-411f-b0aa-5595bc4edf05, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: کانال تلگرام hacknashidd, server: paya2.pmobile1.com, port: 60002, type: vmess, uuid: 61523679-edce-476a-bd8d-4a4cc5428da5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@shankamil چنل تلگرام🛡", server: 81.12.35.241, port: 29000, type: vmess, uuid: b5435b16-52dd-4257-946d-10f149cb87bb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: کانال تلگرام hacknashidd 2, server: oghabonlinevips.com, port: 2083, type: vmess, uuid: b1a1da43-77c6-4a16-b551-15181167f6f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: کانال تلگرام hacknashidd 🩵, server: paya1.pmobile1.com, port: 65535, type: vmess, uuid: 61523679-edce-476a-bd8d-4a4cc5428da5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@hacknashidd🫀", server: oghabonlinevips.com, port: 2083, type: vmess, uuid: b1a1da43-77c6-4a16-b551-15181167f6f5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: کانال تلگرام hacknashidd`, server: srv-s0.netmaster.cam, port: 801, type: vless, tls: true, packet-encoding: xudp, uuid: ed8cd325-e1b2-64dc-68dd-7ed60e278b5c, network: ws, ws-opts: {path: /, headers: {Host: srv-s0.netmaster.cam}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -498,69 +482,21 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -576,69 +512,21 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@hacknashidd"
-      - "@hacknashidd 2"
-      - "@hacknashidd 3"
-      - "***🚀***"
-      - "@hacknashidd 4"
-      - hacknashidd
-      - "@hacknashidd 5"
-      - "@hacknashidd 6"
-      - "@hacknashidd`"
-      - Hacknashidd
-      - "@hacknashidd 7"
-      - کانال
-      - کانال تلگرام hacknashidd
-      - "@shankamil چنل تلگرام🛡"
-      - کانال تلگرام hacknashidd 2
-      - کانال تلگرام hacknashidd 🩵
-      - "@hacknashidd🫀"
+      - کانال تلگرام hacknashidd`
   - name: دانلود منیجر 📥
     type: select
     proxies:
