@@ -466,6 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 500 گیگ, server: 212.80.21.220, port: 10200, type: vless, tls: true, packet-encoding: xudp, uuid: 13b63262-5da7-41d2-a943-27d4deed897b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 1 🌟`, server: n1.lebon-network.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: b50b3318-16d9-4f94-bca9-be1435fb556f, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 30.00GB📊@Darcproxy, server: custom.rezadvr.ir, port: 43434, type: vless, tls: true, packet-encoding: xudp, uuid: c6a85270-701e-46c5-81a7-1261fdd9e86d, host: custom.rezadvr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -483,6 +485,8 @@ proxy-groups:
     type: select
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -490,6 +494,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -497,6 +503,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -513,6 +521,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -520,6 +530,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -527,6 +539,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 500 گیگ
+      - 1 🌟`
+      - 30.00GB📊@Darcproxy
   - name: دانلود منیجر 📥
     type: select
     proxies:

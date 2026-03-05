@@ -474,6 +474,7 @@ proxies:
   - {name: 4l.gexar.top:21791 5, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 9c39fe98-35a7-4ffb-ac58-2a21a4d23765, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: turkey.dehnavy.ir:36135, server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4l.gexar.top:21791 6, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 9fdf7698-c269-439d-bcbe-5977ad25cc5c, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Si.sanflow.ir:921, server: Si.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: a91bfd34-3d81-42b2-b8d0-4a29e0a57889, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4l.gexar.top:21791 7, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: ac257956-149d-4fc4-969e-13ae4765aa4b, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: finland.411r324.ir:1313, server: finland.411r324.ir, port: 1313, type: vless, tls: true, packet-encoding: xudp, uuid: b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7, host: skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4l.gexar.top:21791 8, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: e151dc19-a476-40bf-b5a7-11ed9c643a7f, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -503,6 +504,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
@@ -522,6 +524,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
@@ -541,6 +544,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
@@ -569,6 +573,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
@@ -588,6 +593,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
@@ -607,6 +613,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - turkey.dehnavy.ir:36135
       - 4l.gexar.top:21791 6
+      - Si.sanflow.ir:921
       - 4l.gexar.top:21791 7
       - finland.411r324.ir:1313
       - 4l.gexar.top:21791 8
