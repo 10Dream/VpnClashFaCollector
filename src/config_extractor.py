@@ -41,54 +41,45 @@ ch = logging.StreamHandler()
 ch.setFormatter(CustomFormatter())
 logger.addHandler(ch)
 
+def get_repo_context():
+    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    branch = os.getenv("GITHUB_REF_NAME", "main")
+    return repo, branch
+
+
+def build_raw_url(path):
+    repo, branch = get_repo_context()
+    return f"https://raw.githubusercontent.com/{repo}/{branch}/{path.lstrip('/')}"
+
+
 # ==========================================
 # تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
 # ==========================================
 SPLIT_SOURCES = [
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/tested/ping_passed.txt',
-        'name': 'ping_passed',
-        'chunk_size': 500
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/mixed.txt',
-        'name': 'mixed',
-        'chunk_size': 500
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/vless.txt',
-        'name': 'vless',
-        'chunk_size': 500
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/vmess.txt',
-        'name': 'vmess',
-        'chunk_size': 500
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/trojan.txt',
-        'name': 'trojan',
-        'chunk_size': 500
-    },
-    {
-        'url': 'https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main/sub/all/ss.txt',
-        'name': 'ss',
-        'chunk_size': 500
-    },
+    {'url': build_raw_url('sub/tested/ping_passed.txt'), 'name': 'ping_passed', 'chunk_size': 500},
+    {'url': build_raw_url('sub/all/mixed.txt'), 'name': 'mixed', 'chunk_size': 500},
+    {'url': build_raw_url('sub/all/vless.txt'), 'name': 'vless', 'chunk_size': 500},
+    {'url': build_raw_url('sub/all/vmess.txt'), 'name': 'vmess', 'chunk_size': 500},
+    {'url': build_raw_url('sub/all/trojan.txt'), 'name': 'trojan', 'chunk_size': 500},
+    {'url': build_raw_url('sub/all/ss.txt'), 'name': 'ss', 'chunk_size': 500},
 ]
 
 # ==========================================
 # تنظیمات پروتکل‌ها و الگوها
 # ==========================================
 PROTOCOLS = [
-    'vmess', 'vless', 'trojan', 'ss', 'ssr', 'tuic', 'hysteria', 'hysteria2', 
-    'hy2', 'juicity', 'snell', 'anytls', 'ssh', 'wireguard', 'wg', 
-    'warp', 'socks', 'socks4', 'socks5', 'tg'
+    'vmess', 'vless', 'trojan', 'ss', 'ssr', 'tuic', 'hysteria', 'hysteria2',
+    'hy2', 'juicity', 'snell', 'anytls', 'ssh', 'wireguard', 'wg',
+    'warp', 'socks', 'socks4', 'socks5', 'tg',
+    'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt'
 ]
+
+NON_MIXED_PROTOCOLS = {'tg', 'dns', 'nm-dns', 'nm-vless', 'slipnet-enc', 'slipnet', 'slipstream', 'dnstt'}
+NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
 
-NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{p}:\/\/' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/proxy\?|tg:\/\/proxy\?|[()\[\]"\'\s])'
+NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/proxy\?|tg:\/\/proxy\?|[()\[\]"\'\s])'
 
 BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
 VALID_SS_CIPHERS = {
@@ -267,7 +258,7 @@ def filter_problematic_configs(data_map):
     removed = 0
 
     for proto, lines in data_map.items():
-        if proto == 'tg':
+        if proto in NON_VALIDATED_PROTOCOLS:
             filtered[proto].update(lines)
             continue
         for line in lines:
@@ -283,7 +274,8 @@ def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
         prefix = rf'(?:tg:\/\/proxy\?|https:\/\/t\.me\/proxy\?)'
     else:
-        prefix = rf'{protocol_prefix}:\/\/'
+        escaped = re.escape(protocol_prefix)
+        prefix = rf'{escaped}:(?:\/\/|\/)'
     return rf'{prefix}(?:(?!\s{{4,}}|[()\[\]]).)+?(?={NEXT_CONFIG_LOOKAHEAD}|$)'
 
 def clean_telegram_link(link):
@@ -432,15 +424,15 @@ def write_files_standard(data_map, output_dir):
     for proto, lines in final_map.items():
         if not lines: continue
         
-        if proto != 'tg':
+        if proto not in NON_MIXED_PROTOCOLS:
             # پردازش عادی سایر پروتکل‌ها
             mixed_content.update(lines)
             for line in lines:
                 if is_behind_cloudflare(line):
                     cloudflare_content.add(line)
             save_content(output_dir, proto, lines)
-        
-        else:
+
+        elif proto == 'tg':
             # --- منطق جداسازی تلگرام ---
             windows_tg = set()
             android_tg = set()
@@ -457,7 +449,11 @@ def write_files_standard(data_map, output_dir):
             save_content(output_dir, "tg", lines)              # میکس (شامل همه)
             
             logger.info(f"Telegram Configs in {output_dir}: Total={len(lines)}, Win={len(windows_tg)}, Android={len(android_tg)}")
-            
+
+        else:
+            # پروتکل‌های جمع‌آوری‌شده که نباید وارد mixed شوند
+            save_content(output_dir, proto, lines)
+
     if mixed_content:
         save_content(output_dir, "mixed", mixed_content)
     if cloudflare_content:

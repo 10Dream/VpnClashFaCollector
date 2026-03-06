@@ -1,13 +1,25 @@
 import os
 import datetime
 
+def get_repo_context():
+    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    branch = os.getenv("GITHUB_REF_NAME", "main")
+    return repo, branch
+
+
+def build_raw_url(path):
+    repo, branch = get_repo_context()
+    return f"https://raw.githubusercontent.com/{repo}/{branch}/{path.lstrip('/')}"
+
+
 def generate_web_page():
     sub_root = "sub"
     final_root = "sub/final"
     split_normal_root = "sub/split/normal" # مسیر فایل‌های اسپلیت شده
     output_html = "index.html"
-    repo_raw_url = "https://raw.githubusercontent.com/10ium/VpnClashFaCollector/main"
-    favicon_url = "https://raw.githubusercontent.com/10ium/VpnClashFaCollector/refs/heads/main/config/favicon.ico"
+    repo, branch = get_repo_context()
+    repo_raw_url = f"https://raw.githubusercontent.com/{repo}/{branch}"
+    favicon_url = build_raw_url("config/favicon.ico")
     
     # فایل‌هایی که نباید نمایش داده شوند
     exclude_files = [

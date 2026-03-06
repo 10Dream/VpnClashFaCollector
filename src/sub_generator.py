@@ -9,6 +9,16 @@ from urllib.parse import quote
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger("Split_Converter")
 
+def get_repo_context():
+    repo = os.getenv("GITHUB_REPOSITORY", "10ium/VpnClashFaCollector")
+    branch = os.getenv("GITHUB_REF_NAME", "main")
+    return repo, branch
+
+
+def get_clash_rules_url():
+    return os.getenv("CLASH_RULES_URL", "https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/ACL4SSR/vpnclashfa.ini")
+
+
 def run_subconverter():
     if not os.path.exists("subconverter/subconverter"):
         logger.info("Downloading Subconverter binary...")
@@ -31,7 +41,7 @@ def generate_subs():
     # پارامترهای اختصاصی شما فقط برای بخش Split Clash
     split_clash_params = {
         "target": "clash",
-        "config": "https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/ACL4SSR/vpnclashfa.ini",
+        "config": get_clash_rules_url(),
         "fdn": "true",
         "list": "false",
         "udp": "true",
