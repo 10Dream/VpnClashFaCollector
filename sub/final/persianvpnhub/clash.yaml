@@ -466,31 +466,33 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@v2rayconfigamir 4518", server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
-  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "  2", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "  3", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️ 2", server: 13.39.41.207, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️ 3", server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.41.207:22222, server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.164.131:22222, server: 15.188.164.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.124.229.240:22222, server: 3.124.229.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.164.194:22222, server: 35.181.164.194, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.109.231:22222, server: 51.44.109.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.182.228.117:22222, server: 63.182.228.117, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.183.63.206:22222, server: 63.183.63.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️ 4", server: 13.39.41.207, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  4", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1950", server: 5.42.158.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8, servername: finance.yahoo.com, host: finance.yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0, short-id: dd8ca121bb77dad9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: " ", server: 194.107.126.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9595", server: 152.53.116.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e878456-0f00-4a85-99a6-1d69bdc62e3d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho, short-id: 7554}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9605", server: 82.117.245.53, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: bt5hpm5jf6.chinam.eu.org, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: bt5hpm5jf6.chinam.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  2", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  3", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️ 5", server: ir01.irantls.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 538c4861-f10a-481f-95d3-d045cfc0ccbf, host: ir01.irantls.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1308", server: 146.59.229.78, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9884", server: 193.233.133.76, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8845", server: 51.91.100.9, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8167", server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  5", server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  6", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  7", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  8", server: 45.82.251.115, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  9", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  10", server: 81.19.141.190, port: 51529, type: vless, tls: true, packet-encoding: xudp, uuid: ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw, short-id: b77a294515ecc200}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 3439", server: 78.159.110.53, port: 14443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e276a0-6991-4589-b95a-2fbb2cbacee2, servername: www.jobinvest.ru, host: www.jobinvest.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8181", server: 195.26.231.93, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram:%40Free_VPN_CH, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: 104.16.149.66, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 2", server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  4", server: nl-90w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-90w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  5", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1839", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6354", server: 167.235.28.242, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4170", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
 proxy-groups:
@@ -510,31 +512,33 @@ proxy-groups:
     type: select
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: خودکار (بهترین پینگ) 🤖
@@ -544,31 +548,33 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -578,31 +584,33 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: اتصال پایدار 🔗
@@ -621,31 +629,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: توزیع بار (گردشی) 🔁
@@ -655,31 +665,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: توزیع بار (موقت) ⏳
@@ -689,31 +701,33 @@ proxy-groups:
     interval: 600
     proxies:
       - "@v2rayconfigamir 4518"
-      - " "
-      - "  2"
       - "@ServerTel 🌹👑🕊️"
-      - "  3"
       - "@ServerTel 🌹👑🕊️ 2"
       - "@ServerTel 🌹👑🕊️ 3"
-      - 13.39.41.207:22222
       - 15.188.164.131:22222
+      - 3.124.229.240:22222
       - 35.181.164.194:22222
+      - 51.44.109.231:22222
       - 63.182.228.117:22222
-      - 63.183.63.206:22222
       - "@ServerTel 🌹👑🕊️ 4"
-      - "  4"
       - "@v2rayconfigamir 1950"
+      - " "
+      - "@v2rayconfigamir 9595"
+      - "@v2rayconfigamir 9605"
+      - "  2"
+      - "  3"
       - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 9884"
       - "@v2rayconfigamir 8845"
       - "@v2rayconfigamir 8167"
+      - "@v2rayconfigamir 3439"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  4"
       - "  5"
-      - "  6"
-      - "  7"
-      - "  8"
-      - "  9"
-      - "  10"
+      - "@v2rayconfigamir 1839"
       - "@v2rayconfigamir 6354"
       - "@v2rayconfigamir 4170"
   - name: دانلود منیجر 📥
