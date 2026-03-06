@@ -479,11 +479,11 @@ proxies:
   - {name: 13.39.41.207:22222, server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.63.206:22222, server: 63.183.63.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.71.33:443, server: 104.16.71.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 107.173.181.236:7700, server: 107.173.181.236, port: 7700, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: fqrf5tlc.chinav.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: fqrf5tlc.chinav.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.24.140.37:443, server: 144.24.140.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.31.215:443, server: 171.22.31.215, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0f0798-1099-4e72-8c69-efe9b8b6a9b8, servername: vpn.xorealis.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY, short-id: 131df166be01a436}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.238.228.238:2096, server: 185.238.228.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.9.162.122:1443, server: 192.9.162.122, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a169e43-ff85-4572-9843-ba7207d07319, servername: swdist.apple.com, host: swdist.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk, short-id: dde50f55d81116}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.26.211:7443, server: 45.139.26.211, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc953d6-ae75-46fb-a970-10b57d513487, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA, short-id: fd88bd27db4cc661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -521,11 +521,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
@@ -553,11 +553,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
@@ -585,11 +585,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
@@ -626,11 +626,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
@@ -658,11 +658,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
@@ -690,11 +690,11 @@ proxy-groups:
       - 13.39.41.207:22222
       - 63.183.63.206:22222
       - 104.16.71.33:443
+      - 107.173.181.236:7700
       - 144.24.140.37:443
       - 171.22.31.215:443
       - 185.238.228.238:2096
       - 192.200.160.20:443
-      - dd.openaccessnode.com:2197
       - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443

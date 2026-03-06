@@ -465,6 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "@filembad`", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "@tel_melli", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "***🌪***-@SPEEDS_VPN1`", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
   - {name: 95 @KIA_NET - 44236, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 2, server: 138.124.67.26, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 9z6_gZQ2xvryhGMG6Vg2XSdYUm3PfbuQ, udp: true, tfo: false}
@@ -495,17 +501,23 @@ proxies:
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 104.211.63.232:443, server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: E2DnpxLTj4IEeLMQ, udp: true, tfo: false}
   - {name: 45.80.231.75:31019, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 4518", server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: NetAccount`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@tel_melli 2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 51.159.103.137:18290, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
   - {name: configraygan, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🧡", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "@filembad`", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
   - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -526,6 +538,12 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -556,17 +574,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -577,6 +601,12 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -607,17 +637,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -628,6 +664,12 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -658,17 +700,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -688,6 +736,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -718,17 +772,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -739,6 +799,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -769,17 +835,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -790,6 +862,12 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - 141.95.106.127:11201
+      - "@filembad`"
+      - "@tel_melli"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
       - ⭐️Tel@Kia_Net🌟
       - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
@@ -820,17 +898,23 @@ proxy-groups:
       - 193.135.174.135:990
       - 104.211.63.232:443
       - 45.80.231.75:31019
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 2"
+      - "@v2rayconfigamir 4518"
       - NetAccount`
       - 57.129.140.88:8388
-      - "***✅***@AR14N24b 2"
-      - NetAccount` 2
-      - 51.159.103.137:18290
+      - " "
       - "***✅***@AR14N24b 3"
+      - NetAccount` 2
+      - 82.38.31.62:8080
+      - "@filembad` 2"
+      - "@tel_melli 2"
+      - "***✅***@AR14N24b 4"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - 51.159.103.137:18290
+      - "***✅***@AR14N24b 5"
       - configraygan
       - "@MARAMBASHI 🇫🇷"
       - "@MARAMBASHI 🧡"
-      - "@filembad`"
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
