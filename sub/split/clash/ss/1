@@ -465,62 +465,30 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: digikala.com:31921, server: digikala.com, port: 31921, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /8P8lyqtcbvnmeMZEIX2eBGxRVpyomHQEyFSmyeE0XE=:1z6Qog4uTuGtOVke96hi0F6TucesPjNFVUyELD03JM0=, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: digikala.com, port: 31921, type: ss, cipher: 2022-blake3-aes-256-gcm, password: /8P8lyqtcbvnmeMZEIX2eBGxRVpyomHQEyFSmyeE0XE=:1z6Qog4uTuGtOVke96hi0F6TucesPjNFVUyELD03JM0=, udp: true, tfo: false}
-  - {name: 154.26.132.38:16922, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
-  - {name: "@filembad`", server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
-  - {name: 🇸🇬 Singapore | Basic, server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
-  - {name: 🇫🇷 France | Basic, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
-  - {name: 38.54.59.16:11201, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: 🇪🇬 Egypt | Basic, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 154.205.148.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: 🇹🇷 Türkiye | Basic, server: 154.205.148.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 154.205.148.202, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: 🇹🇷 Türkiye | Basic 2, server: 154.205.148.202, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 138.124.67.26, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 9z6_gZQ2xvryhGMG6Vg2XSdYUm3PfbuQ, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2RGrp6ZndpeLnsck, udp: true, tfo: false}
+  - {name: "@filembad`", server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 138.124.67.26, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 9z6_gZQ2xvryhGMG6Vg2XSdYUm3PfbuQ, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2RGrp6ZndpeLnsck, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "[💜TEL●@KIA_NET💜] ss-BG", server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: E2DnpxLTj4IEeLMQ, udp: true, tfo: false}
-  - {name: 124.217.247.205:51348, server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
-  - {name: "🇲🇾 [💜TEL●@KIA_NET💜] ss-MY", server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: E2DnpxLTj4IEeLMQ, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: 45.80.231.75:31019, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
   - {name: NetAccount`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: 91.107.144.0:1080, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "[🇩🇪]💜TEL●@KIA_NET💜`", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "🇩🇪 [💜TEL●@KIA_NET💜] ss-DE", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: node-de-1.v2sv.top, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: nodes-d0bc3fc2, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 82.38.31.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 82.38.31.89:8080, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: 🇬🇧 UK | Basic, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 51.159.103.137:18290, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
-  - {name: 103.186.155.215:38388, server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: configraygan, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: 51.159.103.137:18290 2, server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "@MARAMBASHI 🧡", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "🇺🇸 [💜TEL●@KIA_NET💜] ss-US", server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: 38.180.197.41:8080, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "@filembad` 15", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: 🇦🇹 Austria | Basic, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
-  - {name: "@filembad` 16", server: 104.16.242.72, port: 443, type: ss, cipher: aes-256-gcm, password: lll., udp: true, tfo: false}
-  - {name: "@filembad` 17", server: 45.144.53.13, port: 443, type: ss, cipher: aes-256-gcm, password: mm2, udp: true, tfo: false}
-  - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "@filembad` 18", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 104.16.242.72, port: 443, type: ss, cipher: aes-256-gcm, password: lll., udp: true, tfo: false}
+  - {name: "@filembad` 8", server: 45.144.53.13, port: 443, type: ss, cipher: aes-256-gcm, password: mm2, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -537,186 +505,90 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -732,186 +604,90 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - digikala.com:31921
-      - "***✅***@AR14N24b"
-      - 154.26.132.38:16922
       - "@filembad`"
-      - 🇸🇬 Singapore | Basic
-      - "***✅***@AR14N24b 2"
       - "@filembad` 2"
-      - 🇫🇷 France | Basic
-      - 38.54.59.16:11201
       - "@filembad` 3"
-      - 🇪🇬 Egypt | Basic
-      - "***✅***@AR14N24b 3"
-      - "@filembad` 4"
-      - 🇹🇷 Türkiye | Basic
-      - "@filembad` 5"
-      - 🇹🇷 Türkiye | Basic 2
-      - "@filembad` 6"
-      - "@filembad` 7"
       - 193.135.174.135:990
-      - "[💜TEL●@KIA_NET💜] ss-BG"
-      - "@filembad` 8"
-      - 124.217.247.205:51348
-      - 🇲🇾 [💜TEL●@KIA_NET💜] ss-MY
+      - "@filembad` 4"
       - series-a1.samanehha.co:443
+      - 45.80.231.75:31019
+      - "***✅***@AR14N24b"
       - NetAccount`
-      - " "
-      - 91.107.144.0:1080
-      - "@filembad` 9"
-      - "[🇩🇪]💜TEL●@KIA_NET💜`"
-      - 🇩🇪 [💜TEL●@KIA_NET💜] ss-DE
-      - "@filembad` 10"
-      - "@filembad` 11"
+      - "@filembad` 5"
       - NetAccount` 2
-      - 82.38.31.89:8080
-      - "@filembad` 12"
-      - 🇬🇧 UK | Basic
-      - "***✅***@AR14N24b 4"
       - 51.159.103.137:18290
-      - "@filembad` 13"
-      - "***✅***@AR14N24b 5"
-      - 103.186.155.215:38388
-      - "@filembad` 14"
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 2"
+      - configraygan
+      - 51.159.103.137:18290 2
+      - "@MARAMBASHI 🧡"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 3"
+      - 66.94.125.178:80
       - 144.217.164.29:12000
-      - 🇺🇸 [💜TEL●@KIA_NET💜] ss-US
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - 38.180.197.41:8080
-      - "@filembad` 15"
-      - 🇦🇹 Austria | Basic
-      - "***✅***@AR14N24b 7"
-      - "@filembad` 16"
-      - "@filembad` 17"
-      - 154.38.176.7:80
-      - "@filembad` 18"
-      - "***✅***@AR14N24b 8"
+      - "@filembad` 7"
+      - "@filembad` 8"
   - name: دانلود منیجر 📥
     type: select
     proxies:
