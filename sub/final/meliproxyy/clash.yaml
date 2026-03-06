@@ -484,7 +484,6 @@ proxies:
   - {name: "@meliproxyy 13", server: arz.radargame.site, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ebd3e05-ffc2-4193-e0cf-94987f98b77b, servername: arz.radargame.site, alpn: [h2%2Chttp%2F1.1], host: arz.radargame.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 14", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: 96953ea1-4d07-4b8a-aeb4-795bbfaf38ad, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 15", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Si.sanflow.ir:921, server: Si.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: a91bfd34-3d81-42b2-b8d0-4a29e0a57889, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 16", server: 143.20.236.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 17", server: 1mobile.cfd, port: 10738, type: vless, tls: true, packet-encoding: xudp, uuid: db764e29-170a-4f2e-8c5e-c7e33b2d1344, host: 1mobile.cfd, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 5", server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -523,7 +522,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"
@@ -552,7 +550,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"
@@ -581,7 +578,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"
@@ -619,7 +615,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"
@@ -648,7 +643,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"
@@ -677,7 +671,6 @@ proxy-groups:
       - "@meliproxyy 13"
       - "@meliproxyy 14"
       - "@meliproxyy 15"
-      - Si.sanflow.ir:921
       - "@meliproxyy 16"
       - "@meliproxyy 17"
       - "@meliproxyy` 5"

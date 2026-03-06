@@ -471,57 +471,51 @@ proxies:
   - {name: 141.101.113.223:8443, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: "@configraygan", server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@filembad`", server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: TEL●@KIA_NET💜`, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus`, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%3Fed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: 190.93.244.43:8443, server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@configraygan 2", server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 162.159.36.20:443, server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 24@oneclickvpnkeys, server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus`, server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.155.209:443, server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 172.64.155.209, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️13@oneclickvpnkeys, server: 104.16.164.44, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 0ca855d9-7c03-40eb-929b-919f934abdc3, network: ws, ws-opts: {path: /, headers: {Host: amirvpn.amirhm00100.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.36.5:443, server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 9@oneclickvpnkeys, server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 9@oneclickvpnkeys`, server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 4", server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.21.0.128:443, server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 32@oneclickvpnkeys, server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: myserviran.serviran.workers.dev:443, server: myserviran.serviran.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 15@oneclickvpnkeys`, server: myserviran.serviran.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: myserviran.serviran.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.96.0:443, server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 8@oneclickvpnkeys, server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: restless-dew-894b.amirhost4.workers.dev:443, server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 11@oneclickvpnkeys, server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.19.135.124:443, server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.14.88:80, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️10@oneclickvpnkeys, server: 104.18.13.229, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 25efc727-e853-49ba-9609-3c20009d0e7a, network: ws, ws-opts: {path: /, headers: {Host: winbiss-0tpka6-v1.winbiss.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3@oneclickvpnkeys, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.66.202.57:443, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18@oneclickvpnkeys, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.14.88:80, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️16@oneclickvpnkeys, server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.18.5.46:8880, server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 5b002005-7fb1-413e-8cbd-08e50c87c2ea, network: ws, ws-opts: {path: "/?@V2rayBaaz", headers: {Host: wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️18@oneclickvpnkeys, server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 5b002005-7fb1-413e-8cbd-08e50c87c2ea, network: ws, ws-opts: {path: "/?@V2rayBaaz", headers: {Host: wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 104.18.5.46, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 5b002005-7fb1-413e-8cbd-08e50c87c2ea, network: ws, ws-opts: {path: "/?@V2rayBaaz", headers: {Host: wetfleagidc-8tsbi8xd-v3.wet-flea-gidc.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️15@oneclickvpnkeys`, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 5d455342-2929-45a0-951a-1b273ec39b7c, network: ws, ws-opts: {path: /, headers: {Host: rayan11-0l5mxs7b-v1.rayan-11.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 56@oneclickvpnkeys, server: 162.159.45.173, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.user68f797c2f3e1b.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.user68f797c2f3e1b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli", server: cf.008500.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi695fce27aa549.workers.dev, network: ws, ws-opts: {path: "/?ed", headers: {Host: powered-by-surena.configfarsi695fce27aa549.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 2, server: cf.008500.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.configfarsi695fce27aa549.workers.dev, network: ws, ws-opts: {path: "?ed", headers: {Host: powered-by-surena.configfarsi695fce27aa549.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: " ", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️35@oneclickvpnkeys, server: 104.19.151.106, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 73d17f62-d0c0-4c90-903c-a2b3f3806cca, network: ws, ws-opts: {path: /, headers: {Host: fragrant-tooth-a5b7.cajeba6448.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 104.19.173.68:443, server: 104.19.173.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV, network: ws, ws-opts: {path: /, headers: {Host: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️26@oneclickvpnkeys, server: 104.19.173.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV, network: ws, ws-opts: {path: /, headers: {Host: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 104.19.173.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV, network: ws, ws-opts: {path: /, headers: {Host: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️36@oneclickvpnkeys, server: 104.21.7.133, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 93526fcb-8dbf-442e-a656-eb304f1da4ef, network: ws, ws-opts: {path: /, headers: {Host: lucky-voice-d6f3.difat89954-0c6.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️6@oneclickvpnkeys, server: 104.18.6.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: NetAccount`, server: 104.18.7.36, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: a0af2643-a236-463c-8056-3f71d05eed53, network: ws, ws-opts: {path: /, headers: {Host: shomal-g74f3znf-v2.shomal-321.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.110.232:443, server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.67.110.232:443 2, server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 25@oneclickvpnkeys, server: 104.24.55.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d435363f-b221-428b-94d2-8d0db0113b60, servername: fancy-disk-fbb6.tmpesterouglas.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: fancy-disk-fbb6.tmpesterouglas.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 39@oneclickvpnkeys, server: 104.24.55.23, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d435363f-b221-428b-94d2-8d0db0113b60, servername: fancy-disk-fbb6.tmpesterouglas.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: fancy-disk-fbb6.tmpesterouglas.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 198.41.222.191:80, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️4@oneclickvpnkeys, server: 104.18.15.19, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7e84660-8f5c-43ba-b635-cc394c5be4b9, network: ws, ws-opts: {path: /, headers: {Host: amita-b17wejf6-v2.amita.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️14@oneclickvpnkeys, server: 104.18.2.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️31@oneclickvpnkeys, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6@oneclickvpnkeys, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 2", server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 30@oneclickvpnkeys, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 3, server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -544,57 +538,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -607,57 +595,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -670,57 +652,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -742,57 +718,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -805,57 +775,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -868,57 +832,51 @@ proxy-groups:
       - 141.101.113.223:8443
       - "@configraygan"
       - "***✅***@AR14N24b"
-      - "@filembad`"
       - TEL●@KIA_NET💜`
-      - 🇮🇷 @IranProxyPlus`
-      - 190.93.244.43:8443
-      - "@configraygan 2"
-      - "***✅***@AR14N24b 2"
       - 162.159.36.20:443
+      - "@filembad`"
       - 24@oneclickvpnkeys
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
+      - 🇮🇷 @IranProxyPlus`
+      - 172.64.155.209:443
+      - "@filembad` 2"
       - 38@oneclickvpnkeys
+      - "***✅***@AR14N24b 3"
+      - ⚛️13@oneclickvpnkeys
       - 162.159.36.5:443
-      - 9@oneclickvpnkeys
+      - "@filembad` 3"
+      - 9@oneclickvpnkeys`
       - "***✅***@AR14N24b 4"
-      - 104.21.0.128:443
-      - 32@oneclickvpnkeys
-      - "***✅***@AR14N24b 5"
-      - myserviran.serviran.workers.dev:443
-      - 15@oneclickvpnkeys`
-      - "***✅***@AR14N24b 6"
-      - 188.114.96.0:443
-      - 8@oneclickvpnkeys
-      - "***✅***@AR14N24b 7"
-      - restless-dew-894b.amirhost4.workers.dev:443
-      - 11@oneclickvpnkeys
-      - "***✅***@AR14N24b 8"
-      - 104.19.135.124:443
-      - "***✅***@AR14N24b 9"
-      - 162.159.14.88:80
+      - ⚛️10@oneclickvpnkeys
+      - "@filembad` 4"
       - 3@oneclickvpnkeys
-      - "***✅***@AR14N24b 10"
-      - 172.66.202.57:443
-      - 18@oneclickvpnkeys
-      - "***✅***@AR14N24b 11"
+      - 162.159.14.88:80
+      - ⚛️16@oneclickvpnkeys
+      - "***✅***@AR14N24b 5"
+      - 104.18.5.46:8880
+      - ⚛️18@oneclickvpnkeys
+      - "***✅***@AR14N24b 6"
+      - ⚛️15@oneclickvpnkeys`
       - 56@oneclickvpnkeys
+      - "@tel_melli"
+      - 🇮🇷 @IranProxyPlus` 2
       - chatgpt.com:2096
       - " "
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 12"
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 7"
+      - ⚛️35@oneclickvpnkeys
+      - 104.19.173.68:443
+      - ⚛️26@oneclickvpnkeys
+      - "***✅***@AR14N24b 8"
+      - ⚛️36@oneclickvpnkeys
+      - ⚛️6@oneclickvpnkeys
       - NetAccount`
-      - 172.67.110.232:443
-      - "***✅***@AR14N24b 13"
-      - 172.67.110.232:443 2
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 14"
-      - "***✅***@AR14N24b`"
-      - 25@oneclickvpnkeys
-      - 39@oneclickvpnkeys
-      - 198.41.222.191:80
+      - ⚛️4@oneclickvpnkeys
+      - ⚛️14@oneclickvpnkeys
+      - ⚛️31@oneclickvpnkeys
+      - "@filembad` 6"
       - 6@oneclickvpnkeys
-      - "***✅***@AR14N24b` 2"
-      - 30@oneclickvpnkeys
+      - 🇮🇷 @IranProxyPlus` 3
   - name: دانلود منیجر 📥
     type: select
     proxies:
