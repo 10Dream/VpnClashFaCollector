@@ -14,12 +14,6 @@ def get_flag(cc):
     cc = str(cc).upper()
     return "".join(chr(127397 + ord(c)) for c in cc) if len(cc) == 2 else "🌐"
 
-
-
-def is_iran_location(value):
-    loc = str(value or '').strip().upper()
-    return loc == 'IR' or 'IRAN' in loc
-
 def download_engine():
     """دانلود موتور ایکس‌ری نایف در صورت عدم وجود"""
     if os.path.exists("xray-knife"): return
@@ -93,16 +87,8 @@ def test_process():
             
             with open(os.path.join(base_dir, "ping_passed_base64.txt"), "w", encoding="utf-8") as f:
                 f.write(to_base64(ping_passed_text))
-
-            iran_ping_rows = [r for r in valid_rows if is_iran_location(r.get('location'))]
-            iran_ping_list = [rename_config(r.get('link') or r.get('Config'), {'cc': r.get('location', 'IR'), 'ping': r.get('delay')}) for r in iran_ping_rows]
-            iran_ping_text = "\n".join(filter(None, iran_ping_list))
-            with open(os.path.join(base_dir, "ping_passed_ir.txt"), "w", encoding="utf-8") as f:
-                f.write(iran_ping_text)
-            with open(os.path.join(base_dir, "ping_passed_ir_base64.txt"), "w", encoding="utf-8") as f:
-                f.write(to_base64(iran_ping_text))
-
-            logger.info(f"Ping test complete. {len(valid_rows)} configs passed ({len(iran_ping_rows)} IR).")
+            
+            logger.info(f"Ping test complete. {len(valid_rows)} configs passed.")
             top_candidates = [r.get('link') or r.get('Config') for r in valid_rows[:300]]
 
     # --- Phase 2: Speed Test ---
@@ -148,23 +134,8 @@ def test_process():
             s_text = "\n".join(filter(None, final_list))
             with open(os.path.join(base_dir, "speed_passed.txt"), "w", encoding="utf-8") as f: f.write(s_text)
             with open(os.path.join(base_dir, "speed_passed_base64.txt"), "w", encoding="utf-8") as f: f.write(to_base64(s_text))
-            iran_speed = [res for res in speed_results if is_iran_location(res.get('cc'))]
-            iran_speed_list = []
-            for i, res in enumerate(iran_speed, 1):
-                spd = res['speed_val']
-                if spd >= 1024:
-                    f_speed = f"{spd / 1024:.1f}MB"
-                elif spd > 0:
-                    f_speed = f"{int(spd)}KB"
-                else:
-                    f_speed = "Low"
-                iran_speed_list.append(rename_config(res['link'], {'cc': res['cc'], 'ping': res['delay'], 'speed': f_speed}, rank=i))
-
-            ir_s_text = "\n".join(filter(None, iran_speed_list))
-            with open(os.path.join(base_dir, "speed_passed_ir.txt"), "w", encoding="utf-8") as f: f.write(ir_s_text)
-            with open(os.path.join(base_dir, "speed_passed_ir_base64.txt"), "w", encoding="utf-8") as f: f.write(to_base64(ir_s_text))
             
-            logger.info(f"Speed test complete. {len(speed_results)} configs ranked ({len(iran_speed)} IR).")
+            logger.info(f"Speed test complete. {len(speed_results)} configs ranked.")
 
     if os.path.exists("top_candidates_tmp.txt"): os.remove("top_candidates_tmp.txt")
     logger.info("All tests finished successfully.")

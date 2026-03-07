@@ -79,7 +79,7 @@ NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
 
-NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/proxy\?|tg:\/\/proxy\?|[()\[\]"\'\s])'
+NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?|[()\[\]"\'\s])'
 
 BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
 VALID_SS_CIPHERS = {
@@ -272,7 +272,9 @@ def filter_problematic_configs(data_map):
 
 def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
-        prefix = rf'(?:tg:\/\/proxy\?|https:\/\/t\.me\/proxy\?)'
+        prefix = rf'(?:tg:\/\/(?:proxy|socks)\?|https:\/\/t\.me\/(?:proxy|socks)\?)'
+    elif protocol_prefix == 'dns':
+        prefix = r'(?<![A-Za-z0-9-])dns:(?:\/\/|\/)'
     else:
         escaped = re.escape(protocol_prefix)
         prefix = rf'{escaped}:(?:\/\/|\/)'
@@ -568,12 +570,43 @@ def process_split_mode():
             
             save_split_output(all_configs, name, chunk_size)
 
+
+def extract_iran_configs_from_tested(base_dir="sub/tested"):
+    """استخراج خروجی‌های دارای ایموجی پرچم ایران از نتایج تست"""
+    if not os.path.isdir(base_dir):
+        logger.warning(f"Tested directory not found for IR extraction: {base_dir}")
+        return
+
+    target_files = [
+        "ping_passed.txt",
+        "speed_passed.txt",
+    ]
+
+    iran_tagged = set()
+    for file_name in target_files:
+        file_path = os.path.join(base_dir, file_name)
+        if not os.path.isfile(file_path):
+            continue
+
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                for raw in f:
+                    line = raw.strip()
+                    if line and "🇮🇷" in line:
+                        iran_tagged.add(line)
+        except Exception as e:
+            logger.error(f"IR extraction failed for {file_path}: {e}")
+
+    save_content(base_dir, "emoji_iran", iran_tagged)
+    logger.info(f"IR emoji extraction complete. Found {len(iran_tagged)} configs.")
+
 def main():
     logger.info("Starting Config Extractor...")
     
     # --- بخش 1: پردازش پوشه تلگرام ---
     src_dir = "src/telegram"
     out_dir = "sub"
+    source_out_dir = os.path.join(out_dir, "source")
     global_collection = {k: set() for k in PROTOCOLS}
     
     logger.info("==========================================")
@@ -610,7 +643,7 @@ def main():
                     global_collection[p].update(s)
                 
                 # نوشتن فایل کانال
-                write_files_standard(channel_data, os.path.join(out_dir, channel_name))
+                write_files_standard(channel_data, os.path.join(source_out_dir, channel_name))
                 
             except Exception as e:
                 logger.error(f"Error processing channel {channel_name}: {e}")
@@ -630,7 +663,10 @@ def main():
     # --- بخش 2: پردازش لینک‌های اسپلیت ---
     process_split_mode()
 
-    # --- بخش 3: نهایی‌سازی و پاکسازی ---
+    # --- بخش 3: استخراج خروجی‌های ایرانی از نتایج تست ---
+    extract_iran_configs_from_tested("sub/tested")
+
+    # --- بخش 4: نهایی‌سازی و پاکسازی ---
     logger.info("==========================================")
     logger.info("           FINALIZING OUTPUTS             ")
     logger.info("==========================================")
