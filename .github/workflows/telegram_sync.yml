@@ -2,7 +2,7 @@ name: Auto Proxy Update and Convert
 
 on:
   schedule:
-    - cron: '0 */10 * * *'
+    - cron: '0 */06 * * *'
   workflow_dispatch:
     inputs:
       run_scraper:
