@@ -465,12 +465,8 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 107.174.181.241:65160, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Hysteria-TLS |`, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 Netherlands | TLS • Salamander, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 Germany | TLS • Salamander, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 17@oneclickvpnkeys, server: 62.210.124.146, port: 22000, type: hysteria2, ports: 22000, password: dongtaiwang.com, sni: www.microsoft.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8⚛️@oneclickvpnkeys, server: 66.154.127.121, port: 443, type: hysteria2, ports: 443, password: ilikecs123%21, sni: cloudcone.wolfmoss.top, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -488,12 +484,8 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -501,12 +493,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -514,12 +502,8 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: اتصال پایدار 🔗
     type: url-test
@@ -536,12 +520,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -549,12 +529,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -562,12 +538,8 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 107.174.181.241:65160
-      - Hysteria-TLS |`
-      - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - 🇩🇪 Germany | TLS • Salamander
-      - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
+      - 17@oneclickvpnkeys
       - 8⚛️@oneclickvpnkeys
   - name: دانلود منیجر 📥
     type: select

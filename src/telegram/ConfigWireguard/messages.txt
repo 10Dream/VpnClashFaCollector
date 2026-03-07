@@ -1,5 +1,211 @@
 # آرشیو کانال: @ConfigWireguard
-بروزرسانی: 2026-03-07 07:21:35 UTC
+بروزرسانی: 2026-03-07 13:53:06 UTC
+
+### 🕒 2026-03-07 13:12:46 UTC
+For WgTunnel (IPv6 Endpoint) > :/  
+***💙***
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
+PrivateKey = eDMh3+dNqutOYYtQhaNH93sNoEx/JLkF67lc+sJeMEU=
+DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+PersistentKeepalive = 30
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = [2606:4700:d0::2c08:9b20:2a25:b116]:1843
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-07 13:12:45 UTC
+For WgTunnel (IPv4 Endpoint) > :/  
+***💙***
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
+PrivateKey = eDMh3+dNqutOYYtQhaNH93sNoEx/JLkF67lc+sJeMEU=
+DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+PersistentKeepalive = 30
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 188.114.96.54:1018
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-07 13:12:41 UTC
+For WireGuard :/  
+***💙***
+ 
+Wireguard Google play 
+[https://play.google.com/store/apps/details?id=com.wireguard.android](https://play.google.com/store/apps/details?id=com.wireguard.android)
+ 
+ 
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-07 13:12:41 UTC
+[𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|***🗽***](https://t.me/Paradise_Of_Freedom)
+ Warp On Warp for 
+[ [nikaNg](https://github.com/mahsanet/NikaNG/releases)
+ , 
+[mahsaNg](https://github.com/GFW-knocker/MahsaNG/releases)
+ ]ᵂᵒᵂ
+ 
+ {"remarks": "Tel= darkness_427 - WoW", "log": {"loglevel": "warning"}, "dns": {"hosts": {}, "servers": ["https://94.140.14.14/dns-query", {"address": "8.8.8.8", "domains": ["geosite:category-ir", "domain:.ir"], "expectIPs": ["geoip:ir"], "port": 53}], "tag": "dns"}, "inbounds": [{"port": 10808, "protocol": "socks", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "socks-in"}, {"port": 10809, "protocol": "http", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "http-in"}, {"listen": "127.0.0.1", "port": 10853, "protocol": "dokodemo-door", "settings": {"address": "1.1.1.1", "network": "tcp,udp", "port": 53}, "tag": "dns-in"}], "outbounds": [{"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.39.214.122:1843", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [19, 180, 175], "secretKey": "kIEPxPkXlUEtx0kjD7tbXi+B1GaXiYRDlE+lnEzFqX8=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "streamSettings": {"sockopt": {"dialerProxy": "warp-ir"}}, "tag": "warp-out"}, {"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.39.214.122:1843", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [222, 186, 178], "secretKey": "eDMh3+dNqutOYYtQhaNH93sNoEx/JLkF67lc+sJeMEU=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "tag": "warp-ir"}, {"protocol": "dns", "tag": "dns-out"}, {"protocol": "freedom", "settings": {}, "tag": "direct"}, {"protocol": "blackhole", "settings": {"response": {"type": "http"}}, "tag": "block"}], "policy": {"levels": {"8": {"connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1}}, "system": {"statsOutboundUplink": true, "statsOutboundDownlink": true}}, "routing": {"domainStrategy": "IPIfNonMatch", "rules": [{"inboundTag": ["dns-in"], "outboundTag": "dns-out", "type": "field"}, {"ip": ["8.8.8.8"], "outboundTag": "direct", "port": "53", "type": "field"}, {"domain": ["geosite:category-ir", "domain:.ir"], "outboundTag": "direct", "type": "field"}, {"ip": ["geoip:ir", "geoip:private"], "outboundTag": "direct", "type": "field"}, {"domain": ["geosite:category-ads-all", "geosite:category-ads-ir"], "outboundTag": "block", "type": "field"}, {"outboundTag": "warp-out", "type": "field", "network": "tcp,udp"}]}, "stats": {}}
+
+---
+
+### 🕒 2026-03-07 13:12:40 UTC
+𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|
+***🗽***
+ For 
+[mahsa](https://github.com/GFW-knocker/MahsaNG/releases)
+ ng: 
+***💙***
+ 
+ipv4: 
+***😋***
+wireguard://eDMh3%2BdNqutOYYtQhaNH93sNoEx%2FJLkF67lc%2BsJeMEU%3D@188.114.96.54:1018?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=222%2C186%2C178#Tel= @darkness_427 wire 
+ipv6: 
+***😋***
+wireguard://eDMh3%2BdNqutOYYtQhaNH93sNoEx%2FJLkF67lc%2BsJeMEU%3D@[2606:4700:d0::2c08:9b20:2a25:b116]:1843?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=222%2C186%2C178#Tel= @darkness_427 wire 
+ For 
+[nika](https://github.com/mahsanet/NikaNG/releases)
+ ng: 
+***💙***
+ 
+ipv4: 
+***😋***
+wireguard://eDMh3%2BdNqutOYYtQhaNH93sNoEx%2FJLkF67lc%2BsJeMEU%3D@188.114.96.54:1018?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=222%2C186%2C178#Tel= @darkness_427 wire 
+ipv6:  
+***😋***
+ 
+wireguard://eDMh3%2BdNqutOYYtQhaNH93sNoEx%2FJLkF67lc%2BsJeMEU%3D@[2606:4700:d0::2c08:9b20:2a25:b116]:1843?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=222%2C186%2C178#Tel= @darkness_427 wire 
+For 
+[hiddify](https://github.com/hiddify/hiddify-next/releases)
+ next: 
+***💙***
+ 
+{"outbounds": [{"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "eDMh3+dNqutOYYtQhaNH93sNoEx/JLkF67lc+sJeMEU=", "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "server": "188.114.96.54", "server_port": 1018, "reserved": [222, 186, 178], "mtu": 1330, "fake_packets": "1-3", "fake_packets_size": "10-30", "fake_packets_delay": "10-30", "fake_packets_mode": "m4"}, {"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-Main1", "detour": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "kIEPxPkXlUEtx0kjD7tbXi+B1GaXiYRDlE+lnEzFqX8=", "server": "8.39.214.31", "server_port": 1070, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "reserved": [19, 180, 175], "mtu": 1300, "fake_packets_mode": "m4"}]}
+ 
+𝕎𝔸ℝℙᵂᵒᵂ
+warp://8.39.214.231:4177/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://8.39.125.232:928/?ifp=2-4&ifpm=m6#🆆
+***🅾***
+🆆
+***🗽***
+warp://[2606:4700:d0::2c08:9b20:2a25:b116]:1843/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::2c08:9b20:2a25:b116]:1843/?ifp=2-4&ifpm=m6#🆆
+***🅾***
+🆆
+***🗽***
+MainChannel= 
+[@Paradise_Of_Freedom](https://t.me/Paradise_Of_Freedom)
+ 𓄂𓆃 
+Channel= 
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 
+***🗽***
+
+---
+
+### 🕒 2026-03-07 13:11:47 UTC
+لیست  DNS های SuperDNS برای برنامه Am Tunnel 
+فرکانس 1 یا 2
+`udp://185.206.238.18`
+`udp://91.92.208.152`
+`udp://46.245.90.90`
+`udp://194.225.62.80`
+`udp://5.202.175.55`
+
+---
+
+### 🕒 2026-03-07 09:02:01 UTC
+لینک جدید لایو اینترنشال 
+[http://zelmorad.ir/stream.html?src=intl](http://zelmorad.ir/stream.html?src=intl)
+
+---
+
+### 🕒 2026-03-07 08:57:32 UTC
+`udp://94.74.182.2`
+فرکانس 3
+رایتل
+
+---
+
+### 🕒 2026-03-07 08:46:11 UTC
+slipnet-enc://AT73E1xK4z4szO/lEKlRt7hTheMKkEwTgvM9D/i83Kkuqdq/QdND+8Wsggv3tHMZqiHszZuKPusSTaKjS48m+M8TPKduM3KDvMnoK1G/Ji7MSDud6raeJUXh8ZUs/d30Q+sdV99UlKQVNz0lALObWLudiAzy+IV5VSlJWWjAeOl7z2A3AG6tz8xqPbulHE3D4B37bn7/BzoxRzo8wWtMZf/Cvvhh8DYeK8Jd4vgP+r8mtw3p1T/7m1f0ITbfNoeoJYEzlFGjdYqImnF/KQpCn1CtwUjXK78GewZci51L7GIYsIL0+aclsceQETX2Np0OxCTUR/5inX2eXiogP2wUMfDvdrSxte9JQIPLygPyrmiuz8TLoHvBtpkA8z8G72Yem8aUtp7KZH2uce/TmbamQrKFjr5nne0SWOKCivYBSfy4YWmhEAeagvfUvlnj7PbCbB/AEWr+zSek0loxTF43k0O1aBigxvtWgzLgAJHKm5aGnprX7uRtTjQf4xH+OzLLgOLtJZZImBst5wLgnC/A0APfQCVTyQNjOwYI6XzJ4sjmjvI7Q+HzEczJehIcvOORNrkr3w==
+
+---
+
+### 🕒 2026-03-07 08:05:55 UTC
+رایتل ایرانسل
+`udp://217.219.72.10`
+`udp://102.22.83.142`
+`udp://102.22.195.106`
+فرکانس 3 4 5 6 7 8 9
+Dnstt رایتل
+`102.22.195.106:53`
+
+---
+
+### 🕒 2026-03-07 08:04:12 UTC
+slipnet-enc://Aaw7yNArlDtQ3b8nHLnWr6IGQrLKpVRZ6rgikccX7lgKw9fu5KZUkHoNg9A+e+Kc4eGn/XXt/3ZjIG7a47dQllqZ8tQ5oG75ZUHM/ATdP+6OtSB/bgKbttRreCBpUS+6/dQu6IVF7YFYoWpfQRHW9Q6XOaMHYavrNkK81gSSTVlnNUaD9teA6bWT/SgUG/y9Kxmim+KNPuOE/D9VLXVrD/GuMup2Dv375DUbY/O91jvpt2XhOWy/8WMUXakSgkpO3I8iboUVVrDcUoiKCCI6k5jiYHvFl9J1e4yA6og/Yaviimw69gVElOzqk2aTiEC0lyVtdoNELi+x75cX4RLxaSvYyfwqSOFGQhdRZzHBBTrZJ7bbQCzbA5tCrlWjQczpIpmH9Kl8VTqo4OBW6tIba+LooXwqutwtkqns+u/g7DTjazwH0jFLmpUUaIJF8ol6Dd74CD67+6g+v2fk6Qr8j3wA1+W/ArcEPw==
+•
+slipnet-enc://AVLnsrW37rpsZuWoxkgii/RhLr/krnksPKZTSs+AzEQXA0n0mBDt3Arc71mUPH85IXL/th4l8VX9mK6mJW0nM4d9aLuvaPMpkXcPQ/SOckp6JftZGp4UBdz9SY8AQFeiAnQzV9i31NEhs4w/fvOiFDFWv5+MNMDBDuYpS7iYwm6u4qJKYUjn5BjcIop9rSuamTD04HztVfxKXFFkHJ29sMUIahKDYW6R/WSgff3Pv0C3pZorFLplwilhHgP+S+brFwQn+L22vkVdAU8I7Wxz8/hHm726kqiVaCwqO/2/b90K5qJuiNb0ruLrzZqhIhx0j1XO3Glz2t0CM3m0412wBD1KJfeirNmL+26IHmiNes+TPo+oBVBI5HduqFOOpRqVtCUY9db5AJQxU0vIfOHQNxDSG9hTkxXVA9zxTZ9jrK0lpS1qeZUlC5S/aDx+BAcx6BOU/fjMWexGPM95GFFFPXHRZrNYaSgb8A==
+
+---
+
+### 🕒 2026-03-07 08:03:46 UTC
+nm-dns://ESIebYJtTjDnj5vBxgvMNVkYWTMCspGDxyuaHWRBCSIzWgzZHYP4hpuPWkb5B+FSAgGH/HQDrH2jhhCXw/ldrzU+eOviPpzw1myh+ww9NTfimOmHPC+hacmrRuiIDvG/xwi6gT8EBJeDVplJ67KLS2LiD5JYclEfZq0FKk/7ulnasqZxgrtyJb5LeyTsJpOZ0MPZauqxSy7NoFveRcFsplu0YU6Cw9aHqVTSTh8f/mb28BSppSYfpZTTGHE3sZfGxvYAdBCiS+kAV459fCpuhg==
+
+---
+
+### 🕒 2026-03-07 07:58:11 UTC
+***🟢***
+ظاهرا در بخش PDOQ اپلیکیشن AM Tunnel سرور های IPv4 برای بعضی کاربران متصل میشه  :
+A-
+***🌍***
+ALL WORLD CONNECT
+***🌍***
+ 1
+A-
+***🌍***
+ALL WORLD CONNECT
+***🌍***
+ 2
+Cuba
+***🇨🇺***
+***🇮🇶***
+IRAQ EARTH LINK
+***1️⃣***
+***🇮🇶***
+IRAQ EARTH LINK
+***2️⃣***
+
+---
 
 ### 🕒 2026-03-07 00:28:56 UTC
 تنضیمات اسلیپ نت اینارو انجام بدید
@@ -415,41 +621,6 @@ slipnet-enc://AaiNF+cF0YEMssXldBwIqi2nxrC6mxJQZiwkX7k3eo9Tn6PKAOve7A4ou1X2/w87uV
 [http://tdsm.ir:8000](http://tdsm.ir:8000/)
 جدید
 [http://185.141.133.129:8000](http://185.141.133.129:8000/)
-
----
-
-### 🕒 2026-03-04 13:32:19 UTC
-slipnet-enc://AaRYS2uSdtnMzruuX4kAbWWjN4FtSNquIJ3oXw3Dnb836sxFyeEAgoaI1QazVVjitBepHGL/dcmF8UWZd3MGvKRaFGMWbAYm5jkOU7jewUVD2yxHkvk1944XFHuDgt8i1jBWx35aAmeDohak5oxLaqyzwKVNzMG7qx8klQSbb4RLL2FC2i/FJUSui1dmpSt4KrxUvDs6MhAV52B59+lpjXOwY0FDEcZXVsuZa1ofiD8lnal+et1+QnDUiab1ORGtoaOInFN8XnXU56mR3RkvjPLtVVjk71zUV761dIp2cmZbU+RxU0MXbIfZXcwMWzLuBmCFFsbNryzcsdZymWrOfRRk9K4NPjSDTL/2vvOzREwtjr5DWy0G
-•
-slipnet-enc://AYeduoGxsv7sICKDB/ClFgWoiIYnea60m+Pl+A1Z4RRTIZ5S8EDF1NtBej5XKmqADNm06Ljj19wchmCsGfXA2Co7nSOen1imvspcI6LwQCcho39gmXIS350hn0YKgjqslFOWKT9LJoncUd+ZmKGkf1BWn3gFo0rVU7GYSJ2UxY0gB1KBSYCbvBmtN93wrAZPqLh750l9BhuzKFrxIW6KVWPs7hgZd+QuyOGNAJHlXq+mtioTz9ndJBh3j/W5Q8Gkf5f4S6NNRno6DBZgqGaEyAm7/Cm2aSFA5lwuMeOyjhHOdsaI0Kg5UVeey1Av/gX6YdqlTct37q3mwbbjukE8mR+XUAQnW+wMyqrl54I9eI3ubsgKJdZf6xqv
-
----
-
-### 🕒 2026-03-04 13:32:19 UTC
-irancelF| 1 | 3| 5
-`udp://1.1.1.1`
-`udp://1.0.0.1`
-`udp://208.67.222.222`
-`udp://5.160.12.98`
-Hamra  F | 1 | 3 | 6 | 9
-`udp://195.46.39.39`
-`udp://8.26.56.26`
-
----
-
-### 🕒 2026-03-04 08:12:03 UTC
-`nm-dns://o30Ks2tCaXUTYthkY5rNybmrFgHb8kpGDXwqKTsrqjWNAkFFN4YXLrcCHfxQAp/BfD7kQokhxtSOFUKKyc1uv4kgK5phgXa6sdnUzyAAhWjvCaRVboncQwa/iq/CIwZuB6PUpU+SZos8JXYeyil0fLmq1GcuyQ04DGoa/RG+sq8EAxy+7P6TbC1G8U3oQbtgOD6rv9oZZhhsZX7Bg08jr6eRlGbF+ZMsUIVO58JgdUBCdF64rkHCoiI0q+Zu7i7G`
-`nm-dns://o30Ks2tCaXUTYthkY5rNyXz/mhF7b4qwV8bfPCrhqEM/OHON9r+aRyJhkYNN4SRqBFjF/rf8iOopPHmwNL5XqGcDDdgjDwXql5whA1eeCS+wr6PAZBESNdbOSAy1+fA281ZhcToSz4qK58f/YKHXnqtpqinOMRaEwpyg7zQ58p3l9nAgWW5fAkoRQh7WoJnAQcITMweNQF4wKIEAVfNIpQJ5vEmLo45K7fUHyhCFCjYaPe0e0puL19eeujiz8Vzu`
-`nm-dns://o30Ks2tCaXUTYthkY5rNye5jIsho+BSiXXqQJYtfMBiBczFTZfcArcp8CsCbWzSN+oZL1lgXACMpvC9Z0JgCBxZkeoqeLcijECII5rvkjHdAH6sZ7oqk/bK6aLxemIVdZBzJoXOCU9De8nIc4MBWNPxocfHMoEOZUSaAjofC28dA4B66tmwdMrXXnkK6qB8ZcpMe4yp4bH5DFsJruYD4qziZo9U5I0mb6pObcmK3UMKHvNON2M9M+bV8l71c49LC`
-
----
-
-### 🕒 2026-03-04 07:31:27 UTC
-NetMod
-`nm-dns://YzjWnOW5stDDOk0T7z7tHwrO4n1FIi1lCPgk94CROa+NAkFFN4YXLrcCHfxQAp/B8aSxnyp9hDOwdq1SC0mFER+4lIP66gEEBzsw7drKH9K1Nk8roYW5aEYZsPC+cNghaPP3rInqCc91LVFox3dqyQ0SM0xRkEyH59+LcXVK1wDXOf/Xcv26Y0PKhmYkJ9NHQL+PNK5iMuUGNDgMgXVf+hQNVhJdZmvKxl9Sq8JoCirKyYhGvVED8g1Do8jNdmP2`
-`nm-dns://o30Ks2tCaXUTYthkY5rNydD9WK+NVvWnCkT5HXKaVKKkABbQLGfBJDnqh85qMt+dQDeszK/y2T6ruxkcX09cj+dBOGofUyGf4gqvfE+6AuR/jzFlTx9C6qrosFIEtMatU+WnMhrjL1sP66BjtJSLtGaBoyzodqo96i4vUS3r4gFmGFV/Naxb7aBzOSsQQpNqnR3AH4GkVNrxVSr4YLroxVuf5SZRLDakgyNuoKR9VGQulkIGdncN6yW0iJWbiJ8I`
-`nm-dns://o30Ks2tCaXUTYthkY5rNyQ2WrxCSC1H/8wCOgqcZtxykABbQLGfBJDnqh85qMt+ddLNj75xEfwLQ/QPNwhzW0XeYVApGR7roYizwXsINc7jcOH46uGtx56JW7wh7ipaxKZdsRcjP/5M4CSlkoca7/9zhM+qf4vKcBE+czDKWOaqbYu0oW/WHds6YJL/zrnJmPsfAOh6RIa6eh2KwS3lyMZ/whf/hrN4TxbECsnvitUHE5e7q294d8moIqZLEXM8e`
-`nm-dns://o30Ks2tCaXUTYthkY5rNyffy88BlHpAlXjoWd5TyaLOkABbQLGfBJDnqh85qMt+dV3N2wa6o5EFQZfm/jwF6fedBOGofUyGf4gqvfE+6AuTwsfg/X9dVQAPN26g5GGKxHq+4K9U0twI3iUBHWaD/CP+QjDZI6MZ3mTYDwVHHgrPrr34FFyB9b6KYcJBPfb9He3nbyVqQBpFIDij3BY+/9SCTCBgjo5VzBdtNUj0VxcQgDJmhVTZyrH8P5LRbCDhr`
 
 ---
 
