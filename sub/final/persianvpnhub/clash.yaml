@@ -1,0 +1,1844 @@
+global-client-fingerprint: chrome
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
+allow-lan: true
+tcp-concurrent: true
+enable-process: true
+find-process-mode: strict
+ipv6: true
+log-level: debug
+geo-auto-update: true
+geo-update-interval: 168
+secret: ""
+bind-address: "*"
+unified-delay: false
+disable-keep-alive: false
+keep-alive-idle: 30
+keep-alive-interval: 30
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: true
+  respect-rules: false
+  prefer-h3: true
+  cache-algorithm: arc
+  use-system-hosts: true
+  use-host: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - ntp.*.com
+    - "*.ir"
+  default-nameserver:
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.0.0.1
+    - 1.1.1.1
+    - 9.9.9.9
+    - 9.9.9.11
+    - 9.9.9.10
+    - 94.140.14.15
+    - 94.140.15.15
+    - 223.5.5.5
+    - 77.88.8.8
+  nameserver:
+    - https://sky.rethinkdns.com/1:-J8AGH8C7_2-___f3_vZ3f_z-f9KagBI
+    - tls://1-7cpqagd7alx73px777p5766z3x77h6p7jjvaasa.max.rethinkdns.com
+  direct-nameserver:
+    - 78.157.42.100
+    - 78.157.42.101
+  proxy-server-nameserver:
+    - 2606:4700:4700::1111
+    - 2606:4700:4700::1001
+    - 2001:4860:4860::8888
+    - 2001:4860:4860::8844
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 223.5.5.5
+    - 77.88.8.8
+    - 2400:3200::1
+    - 2a02:6b8::feed:0ff
+    - 2620:fe::fe
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+  sniff:
+    HTTP:
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
+    TLS:
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
+  auto-redir: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+rule-providers:
+  category_public_tracker:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-public-tracker.yaml
+    interval: 86400
+    path: ./ruleset/category_public_tracker.yaml
+  iran_ads:
+    type: http
+    behavior: domain
+    url: https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    interval: 86400
+    path: ./ruleset/iran_ads.yaml
+  PersianBlocker:
+    type: http
+    behavior: domain
+    url: https://github.com/MasterKia/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    path: ./ruleset/PersianBlocker.yaml
+    interval: 86400
+  youtube:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/youtube.yaml
+    interval: 86400
+    path: ./ruleset/youtube.yaml
+  telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/telegram.yaml
+    interval: 86400
+    path: ./ruleset/telegram.yaml
+  twitch:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/twitch.yaml
+    interval: 86400
+    path: ./ruleset/twitch.yaml
+  censor:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/censor.yaml
+    interval: 86400
+    path: ./ruleset/tahrim.yaml
+  local_ips:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/local-ips.yaml
+    interval: 86400
+    path: ./ruleset/local_ips.yaml
+  private:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/private.yaml
+    interval: 86400
+    path: ./ruleset/private.yaml
+  category_ir:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-ir.yaml
+    interval: 86400
+    path: ./ruleset/category_ir.yaml
+  iran:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/iran.yaml
+    interval: 86400
+    path: ./ruleset/iran.yaml
+  steam:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/steam.yaml
+    interval: 86400
+    path: ./ruleset/steam.yaml
+  game:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/game.yaml
+    interval: 86400
+    path: ./ruleset/game.yaml
+  category-games:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-games.yaml
+    interval: 86400
+    path: ./ruleset/category-games.yaml
+  ir:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.yaml
+    path: ./ruleset/ir.yaml
+    interval: 86400
+  apps:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
+    path: ./ruleset/apps.yaml
+    interval: 86400
+  ircidr:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ircidr.yaml
+    path: ./ruleset/ircidr.yaml
+    interval: 86400
+  irasn:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml
+    path: ./ruleset/irasn.yaml
+    interval: 86400
+  arvancloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.yaml
+    path: ./ruleset/arvancloud.yaml
+    interval: 86400
+  derakcloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.yaml
+    path: ./ruleset/derakcloud.yaml
+    interval: 86400
+  iranserver:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.yaml
+    path: ./ruleset/iranserver.yaml
+    interval: 86400
+  parspack:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.yaml
+    path: ./ruleset/parspack.yaml
+    interval: 86400
+  malware:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml
+    path: ./ruleset/malware.yaml
+    interval: 86400
+  phishing:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml
+    path: ./ruleset/phishing.yaml
+    interval: 86400
+  cryptominers:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml
+    path: ./ruleset/cryptominers.yaml
+    interval: 86400
+  ads:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.yaml
+    path: ./ruleset/ads.yaml
+    interval: 86400
+  DownloadManagers:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/DownloadManagers.yaml
+    interval: 86400
+    path: ./ruleset/DownloadManagers.yaml
+  BanProgramAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanProgramAD.yaml
+    interval: 86400
+    path: ./ruleset/BanProgramAD.yaml
+  BanAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanAD.yaml
+    interval: 86400
+    path: ./ruleset/BanAD.yaml
+  PrivateTracker:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/PrivateTracker.yaml
+    interval: 86400
+    path: ./ruleset/PrivateTracker.yaml
+  BanEasyList:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanEasyList.yaml
+    interval: 86400
+    path: ./ruleset/BanEasyList.yaml
+  Download:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Download.yaml
+    interval: 86400
+    path: ./ruleset/Download.yaml
+  GameDownload:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/GameDownload.yaml
+    interval: 86400
+    path: ./ruleset/GameDownload.yaml
+  SteamRegionCheck:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/SteamRegionCheck.yaml
+    interval: 86400
+    path: ./ruleset/SteamRegionCheck.yaml
+  Xbox:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Xbox.yaml
+    interval: 86400
+    path: ./ruleset/Xbox.yaml
+  YouTubeMusic:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTubeMusic.yaml
+    interval: 86400
+    path: ./ruleset/YouTubeMusic.yaml
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTube.yaml
+    interval: 86400
+    path: ./ruleset/YouTube.yaml
+  Ponzi:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/Ponzi.yaml
+    interval: 86400
+    path: ./ruleset/Ponzi.yaml
+  warninglist:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/warning-list.yaml
+    interval: 86400
+    path: ./ruleset/warninglist.yaml
+  google:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google.yaml
+    interval: 86400
+    path: ./ruleset/google.yaml
+  google-play:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google-play.yaml
+    interval: 86400
+    path: ./ruleset/google-play.yaml
+  xiaomi-ads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/xiaomi-ads.yaml
+    interval: 86400
+    path: ./ruleset/xiaomi-ads.yaml
+  xiaomi_block_list:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_block_list.yaml
+    path: ./ruleset/xiaomi_block_list.yaml
+    interval: 86400
+  xiaomi_white_list:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_white_list.yaml
+    path: ./ruleset/xiaomi_white_list.yaml
+    interval: 86400
+  cloudflare:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/cloudflare.yaml
+    interval: 86400
+    path: ./ruleset/cloudflare.yaml
+  github:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/github.yaml
+    interval: 86400
+    path: ./ruleset/xgithub.yaml
+  whatsapp:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/whatsapp.yaml
+    interval: 86400
+    path: ./ruleset/whatsapp.yaml
+  LiteAds:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/LiteAds.yaml
+    path: ./ruleset/LiteAds.yaml
+    interval: 86400
+  discord:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/discord.yaml
+    path: ./ruleset/discord.yaml
+    interval: 86400
+  instagram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/instagram.yaml
+    interval: 86400
+    path: ./ruleset/instagram.yaml
+  category-ai:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-ai-!cn.yaml
+    interval: 86400
+    path: ./ruleset/category-ai.yaml
+  stremio:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/stremio.yaml
+    path: ./ruleset/stremio.yaml
+    interval: 86400
+  windows:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/windows.yaml
+    path: ./ruleset/windows.yaml
+    interval: 86400
+  Chotwitter:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/twitter.yaml
+    path: ./ruleset/Chotwitter.yaml
+    interval: 86400
+  mihTwitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Twitter.yaml
+    path: ./ruleset/mihTwitter.yaml
+    interval: 86400
+  Domtwitter:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/twitter.yaml
+    interval: 86400
+    path: ./ruleset/Domtwitter.yaml
+  spotifyads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify-ads.yaml
+    interval: 86400
+    path: ./ruleset/spotifyads.yaml
+  DomainSpotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify.yaml
+    interval: 86400
+    path: ./ruleset/DomainSpotify.yaml
+  mihspotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Spotify.yaml
+    interval: 86400
+    path: ./ruleset/mihSpotify.yaml
+proxies:
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy", server: 154.26.132.38, port: 16922, type: ss, cipher: chacha20-ietf-poly1305, password: 42d2b47181a32de7, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 2", server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 4518", server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
+  - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 3", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 4", server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 5", server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 6", server: 149.28.151.140, port: 443, type: trojan, password: 842b5f9dd11e458d8613c907c4cc5723, sni: www.gpt123.one, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 7", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "  2", server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "@ghalagyann", server: www.gossipglove.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: "/assignment?TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN", headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "@ServerTel 🌹👑🕊️", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "  3", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: "@ServerTel 🌹👑🕊️ 2", server: 13.39.41.207, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 8", server: 63.180.53.233, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ServerTel 🌹👑🕊️ 3", server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.39.41.207:22222, server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.39.61.161:22222, server: 13.39.61.161, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.188.164.131:22222, server: 15.188.164.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.44.47:22222, server: 15.236.44.47, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.124.229.240:22222, server: 3.124.229.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 35.181.164.194:22222, server: 35.181.164.194, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.44.109.231:22222, server: 51.44.109.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.180.53.233:22222, server: 63.180.53.233, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.182.228.117:22222, server: 63.182.228.117, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.183.63.206:22222, server: 63.183.63.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ServerTel 🌹👑🕊️ 4", server: 13.39.41.207, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 9", server: 104.16.241.185, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 10", server: 104.16.242.72, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 11", server: 104.16.251.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 12", server: 104.16.253.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 13", server: 172.67.69.15, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, alpn: [h3], network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 14", server: 172.67.73.89, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 055e3bd2-10f8-4d9c-8f7d-70b9f659e476, servername: c0.ttlive4.dns-dynamic.net, alpn: [h3], network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo, headers: {Host: c0.ttlive4.dns-dynamic.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  4", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 15", server: poe.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 16", server: 162.159.36.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0833debf-4a9e-4c31-a5b7-a88574bddf18, servername: fancy-haze-01e3.ipv4-917.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: fancy-haze-01e3.ipv4-917.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1950", server: 5.42.158.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8, servername: finance.yahoo.com, host: finance.yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0, short-id: dd8ca121bb77dad9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 17", server: 162.159.36.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17ebee4e-97ea-4cad-8737-cc228478ca9d, servername: lively-brook-c471.nedena3319.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: lively-brook-c471.nedena3319.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  5", server: 194.107.126.157, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f72be7-0651-4037-928b-8a309d685796, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qFBIVGsvXTMeJcdJz6GiL7DG0XNhCg7rItza7t0qTgU, short-id: 9eb31eb7572c0882}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9595", server: 152.53.116.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e878456-0f00-4a85-99a6-1d69bdc62e3d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho, short-id: 7554}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 18", server: poland.youtuber-vps.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20a70054-8d93-4c8c-b8f0-d1113f431daf, servername: poland.youtuber-vps.com, host: poland.youtuber-vps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY, short-id: b95d09fc94955ba4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.36.228.212:37515, server: 185.36.228.212, port: 37515, type: vless, tls: true, packet-encoding: xudp, uuid: 21348deb-2fb5-434b-8ac7-f074966cb387, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 65.109.221.209:49797, server: 65.109.221.209, port: 49797, type: vless, tls: true, packet-encoding: xudp, uuid: 24d75d1c-4745-4df6-80f9-4a0de7eb4b2f, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9605", server: 82.117.245.53, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: bt5hpm5jf6.chinam.eu.org, network: ws, ws-opts: {path: "/danfeng?ed=2560", headers: {Host: bt5hpm5jf6.chinam.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 19", server: 171.22.31.215, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0f0798-1099-4e72-8c69-efe9b8b6a9b8, servername: vpn.xorealis.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY, short-id: 131df166be01a436}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 20", server: 209.102.207.205, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 337bf72e-bb79-4d5f-be3f-7822eb77100c, servername: TxLiD9gF4r.InDoSoXr.InFo, alpn: [h3%2Ch2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 21", server: 209.102.207.205, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 337bf72e-bb79-4d5f-be3f-7822eb77100c, servername: UtZ3i6X5i6.InDoSoXr.InFo, alpn: [h3%2Ch2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 140.248.159.164:80, server: 140.248.159.164, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3591d9e2-edbf-43f1-98dc-00eb607b8c46, network: ws, ws-opts: {path: /containers/fi, headers: {Host: kiram-to-harki-filter-kone.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 22", server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 23", server: myserviran.serviran.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 24", server: 104.17.138.160, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 388a6c57-87e7-420b-afe2-b3eb670fd7da, network: ws, ws-opts: {path: /, headers: {Host: vip.yaml7.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 25", server: 45.90.99.242, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 39ad7d26-09a1-41c1-9a30-d17dfd28de2d, servername: aws.amazon.com, host: aws.amazon.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: LJkDgEjaOEpTTHz4NDhDfE-NUqHVrSIx_OWUekbCqTY, short-id: 22}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 26", server: clyde.ns.cloudflare.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 27", server: 104.26.1.221, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3f9c8463-8610-3ed8-86c8-a26713067825, servername: dabaius2.sylu.net, network: ws, ws-opts: {path: /db10240eb751d6ab, headers: {Host: dabaius2.sylu.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@, server: 93.94.51.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 28", server: 188.114.96.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 29", server: restless-dew-894b.amirhost4.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 40afa553-1745-4f62-a380-4163c7bb4870, servername: restless-dew-894b.amirhost4.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: restless-dew-894b.amirhost4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 30", server: 104.19.135.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4506cd31-0c15-4b92-b464-35b377b4c2be, servername: yopk.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: yopk.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 31", server: 168.231.116.211, port: 45219, type: vless, tls: true, packet-encoding: xudp, uuid: 45fdb236-47b4-404c-a330-c66270de172e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 32", server: 104.26.0.152, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: c5c00e13.zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: c5c00e13.zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 33", server: 162.159.39.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: 63520612.zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: 63520612.zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 34", server: bestcf.030101.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: 4eb6e355.zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: 4eb6e355.zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 35", server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  6", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  7", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2, server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4dc44daf-52e7-4c47-b87f-cbe86c04c74c, servername: alef.ir.oadeflantrogm.abrirmahan.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.abrirmahan.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 36", server: 216.57.104.101, port: 57657, type: vless, tls: true, packet-encoding: xudp, uuid: 4e16911e-97f3-4d17-93a1-1817cb4bf3f7, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bsKjZwDZI_Skf6iYeDGy_-z8ZSFtAsqA1gSgseBH-DM, short-id: ac06167a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 37", server: server-ru.lentastick-vpn.ru, port: 57657, type: vless, tls: true, packet-encoding: xudp, uuid: 4e16911e-97f3-4d17-93a1-1817cb4bf3f7, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: bsKjZwDZI_Skf6iYeDGy_-z8ZSFtAsqA1gSgseBH-DM, short-id: ac06167a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 38", server: api2.sane-new-eb.net, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 53236589-ccf4-462d-ac0a-2bf21d2782cc, servername: swiftpass.pre-medical.ac, alpn: [h3%2Ch2%2Chttp%2F1.1], network: ws, ws-opts: {path: /dskdskalwqrev, headers: {Host: swiftpass.pre-medical.ac}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@ServerTel 🌹👑🕊️ 5", server: ir01.irantls.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 538c4861-f10a-481f-95d3-d045cfc0ccbf, host: ir01.irantls.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 39", server: 162.159.14.88, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 55cb8179-ce11-4ec8-a03c-333f797265f9, network: ws, ws-opts: {path: /, headers: {Host: long-forest-ac72.salari1382m.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 40", server: 62.60.212.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5703f5b9-d708-4443-b661-aae0c338e32c, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: HiEn07HkK8FRuKgmNDATj9TsEh6z6QwozRADLvV8SEE, short-id: a4efab6a73}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 41", server: 198.62.62.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5a4abb78-ecd7-4d68-ab2a-c11a3842f261, servername: war.connecticut-haloo.info, network: ws, ws-opts: {path: /love, headers: {Host: war.connecticut-haloo.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 42", server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 43", server: 135.84.74.118, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 5128", server: 146.59.159.111, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1308", server: 146.59.229.78, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 44", server: 158.101.152.6, port: 2919, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 45", server: 190.93.244.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9884", server: 193.233.133.76, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 2289", server: 51.38.227.72, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8845", server: 51.91.100.9, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8734", server: 51.91.103.130, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8167", server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  8", server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  9", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 46", server: 213.142.149.156, port: 14519, type: vless, tls: true, packet-encoding: xudp, uuid: 695df8a2-e948-4906-83ab-18e680ef130b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 47", server: 104.31.16.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6e34f2c5-6c71-4010-c292-10d05ef4a9a2, servername: iraniancp.click, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: iraniancp.click}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 2085", server: 51.38.38.205, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 48", server: maxb06.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.145.202:2087, server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 172.64.145.202:2087 2, server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3, server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 49", server: 172.64.145.93, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: 8fbxjhscv17.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: 8fbxjhscv17.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 5243", server: 192.9.162.122, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a169e43-ff85-4572-9843-ba7207d07319, servername: swdist.apple.com, host: swdist.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk, short-id: dde50f55d81116}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@spdnet", server: 45.139.26.211, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc953d6-ae75-46fb-a970-10b57d513487, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA, short-id: fd88bd27db4cc661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  10", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1454", server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 50", server: 141.101.114.165, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 885ed9e3-3bd5-40d9-a513-78883870c35b, servername: cas.teamv.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /lFFuDv2fgYSedn2lPLZvN#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night---#TELEGRAM-anotherme_night, headers: {Host: cas.teamv.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 51", server: 45.149.115.148, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b648e4c-ac38-4809-951b-e1c8862b13d1, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 0pX0dvxDHHJS2uK0t_SHauP1LB65JsRD1kQp9MK9vjI, short-id: 96}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  11", server: 45.82.251.115, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  12", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 52", server: ip.hamrahto.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e32b948-54ca-41c6-b02b-5eb79a8316fc, servername: hm33333.mutee.com.tr, network: ws, ws-opts: {path: /, headers: {Host: hm33333.mutee.com.tr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 53", server: 5.180.82.155, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 935573d9-db1a-4235-8454-ded612105be6, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: -y9ICGWwLbWYcKSXZNiBAaSvh9e1odOgYVKxiCIuhWw, short-id: abc6c826d165}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 54", server: 173.245.59.217, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 94daa8ad-75ed-4dbf-a6de-d05036d98df5, servername: vangoghhh.info, network: ws, ws-opts: {path: /tixvuws, headers: {Host: vangoghhh.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 3439", server: 78.159.110.53, port: 14443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e276a0-6991-4589-b95a-2fbb2cbacee2, servername: www.jobinvest.ru, host: www.jobinvest.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 55", server: 78.159.110.55, port: 14443, type: vless, tls: true, packet-encoding: xudp, uuid: 97e276a0-6991-4589-b95a-2fbb2cbacee2, servername: www.jobinvest.ru, host: www.jobinvest.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8181", server: 195.26.231.93, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram:%40Free_VPN_CH, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: 104.16.149.66, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 2", server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  13", server: 81.19.141.190, port: 51529, type: vless, tls: true, packet-encoding: xudp, uuid: ad2879c1-7f77-4a4c-ba50-c24dd5ceffa4, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: 9smFk5QZXifHGrtwDwhbROsLBh179bExNWABnvUCvSw, short-id: b77a294515ecc200}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 56", server: 66.179.82.126, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b1267991-59ff-4b67-b141-97e3ced4e7c8, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs, short-id: 2f2a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 57", server: alltohamkareal.drphonecd.com.tr, port: 4890, type: vless, tls: true, packet-encoding: xudp, uuid: b94da768-df87-4c0f-94b1-8adaceef8a59, servername: git-scm.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: Ovofogogjcf}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 58", server: 45.144.53.13, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf77f272-4220-4655-ab76-5ccdf0d2a60f, servername: fl.raketa-balance.com, host: fl.raketa-balance.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: JaP4bhvIMW-l7T0_RkLra59DeBYI6W9XemKa8MyRPSY, short-id: 6c6082a2223c1d03}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 59", server: 81.88.25.20, port: 59029, type: vless, tls: true, packet-encoding: xudp, uuid: c031d6c7-5132-4d81-8efc-3b13a947984e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 60", server: 81.88.25.20, port: 59029, type: vless, tls: true, packet-encoding: xudp, uuid: c031d6c7-5132-4d81-8efc-3b13a947984e, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 61", server: 62.141.32.238, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 62", server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 63", server: 45.130.125.69, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: cff6f361-828a-43c8-a8b5-8d10b32e57fb, servername: zh.hollowspot.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: zh.hollowspot.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 64", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 65", server: 172.67.110.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d0298536-d670-4045-bbb1-ddd5ea68683e, servername: azadnet-919.pages.dev, network: ws, ws-opts: {path: "/azadnet-919.pages.dev/?ed=2560&prot_type=vless", headers: {Host: azadnet-919.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4, server: 143.20.236.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 66", server: 104.26.15.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d9a83363-40a6-4a21-9dbe-cb2b7d287048, servername: afrcloud22.mmv.kr, network: ws, ws-opts: {path: /107.174.121.122=443, headers: {Host: afrcloud22.mmv.kr}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  14", server: nl-90w-c.southnetworks.cloud, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: /getWorkerUpdates, headers: {Host: nl-90w-c.southnetworks.cloud}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 67", server: 185.147.26.21, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 68", server: 198.41.222.191, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e388fffb-03b0-4227-ac2c-2b5cec1f5c34, network: ws, ws-opts: {path: /, headers: {Host: leecher56.matinheydri.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 69", server: 207.244.199.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5a33157-a449-4a25-8bd4-d2b02d66aa38, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1596", server: 141.101.121.23, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 70", server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 71", server: 144.31.4.136, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: www.apple.com, host: www.apple.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 72", server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1902", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  15", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 73", server: vdsina.oblakovpn.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7fef35a-ef3e-4824-bcb0-62e94f7676c9, servername: eh.vk.ru, host: eh.vk.ru, path: /, reality-opts: {public-key: ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw, short-id: 78523b486884cc4d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6293", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: 45.15.185.17}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 74", server: 51.158.151.24, port: 20104, type: vmess, uuid: 40e306a6-7cab-40ac-a085-a961895eb11b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /arki}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 75", server: 57.129.24.132, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: serkat.org, network: ws, ws-opts: {path: linkvws, headers: {Host: serkat.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 76", server: 57.129.28.68, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: pelang.org, network: ws, ws-opts: {path: linkvws, headers: {Host: pelang.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 77", server: 57.129.59.195, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 78", server: 57.129.59.199, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws#TM (@AZARBAYJAB1)TM (@AZARBAYJAB1)TM (@AZARBAYJAB1), headers: {Host: kampong.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 79", server: 57.129.59.201, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws, headers: {Host: kampong.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 80", server: 57.129.59.202, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: fapeng.org, network: ws, ws-opts: {path: linkvws, headers: {Host: fapeng.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 81", server: 8.217.13.74, port: 31769, type: vmess, uuid: cf1ad6c7-5987-4314-82bb-b4399040d047, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 82", server: 15.204.103.7, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 83", server: 15.204.103.7, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: lammaland.org, network: ws, ws-opts: {path: linkvws, headers: {Host: lammaland.org}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 84", server: 15.204.64.211, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: kampong.org, network: ws, ws-opts: {path: linkvws#TM (@AZARBAYJAB1)TM (@AZARBAYJAB1)TM (@AZARBAYJAB1), headers: {Host: kampong.org}}, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1839", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6354", server: 167.235.28.242, port: 443, type: vmess, uuid: 6b7cbc41-fb80-41a8-8eb6-b5bdb0e86147, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 4170", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5, server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 85", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 86", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 87", server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 88", server: f8c38428-t6r5s0-t8jzg2-1hd7v.hkt.gotochinatown.net, port: 80, type: vmess, uuid: f73c64bc-9e8c-11ec-bd7c-f23c913c8d2b, alterId: 2, cipher: auto, tls: false, skip-cert-verify: false, servername: broadcastlv.chat.bilibili.com, network: ws, ws-opts: {path: /, headers: {Host: f8c38428-t6r5s0-t8jzg2-1hd7v.hkt.gotochinatown.net}}, udp: true, tfo: false}
+  - {name: "اگه میخوای قطع نشی جوین شو : @farsiproxy 89", server: n1761214910.74qxv.top, port: 443, type: vmess, uuid: 011c4670-cdde-44fb-b9be-8a1e27af26c9, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1761214910.74qxv.top, network: ws, ws-opts: {path: /, headers: {Host: n1761214910.74qxv.top}}, udp: true, tfo: false}
+proxy-groups:
+  - name: نوع انتخاب پروکسی 🔀
+    type: select
+    proxies:
+      - اتصال پایدار 🔗
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - توزیع بار (پایدار) 🧲
+      - توزیع بار (موقت) ⏳
+      - توزیع بار (گردشی) 🔁
+      - قطع اینترنت ⛔
+      - بدون فیلترشکن 🛡️
+  - name: دستی 🤏🏻
+    type: select
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: خودکار (بهترین پینگ) 🤖
+    type: url-test
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    tolerance: 50
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: پشتیبان (در صورت قطعی) 🧯
+    type: fallback
+    url: https://www.gstatic.com/generate_204
+    interval: 600
+    tolerance: 50
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: اتصال پایدار 🔗
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 30
+    tolerance: 50
+    proxies:
+      - خودکار (بهترین پینگ) 🤖
+      - پشتیبان (در صورت قطعی) 🧯
+      - دستی 🤏🏻
+  - name: توزیع بار (پایدار) 🧲
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: توزیع بار (گردشی) 🔁
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: توزیع بار (موقت) ⏳
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 2"
+      - "@v2rayconfigamir 4518"
+      - " "
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 3"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 6"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 7"
+      - "  2"
+      - "@ghalagyann"
+      - "@ServerTel 🌹👑🕊️"
+      - "  3"
+      - "@ServerTel 🌹👑🕊️ 2"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 8"
+      - "@ServerTel 🌹👑🕊️ 3"
+      - 13.39.41.207:22222
+      - 13.39.61.161:22222
+      - 15.188.164.131:22222
+      - 15.236.44.47:22222
+      - 3.124.229.240:22222
+      - 35.181.164.194:22222
+      - 51.44.109.231:22222
+      - 63.180.53.233:22222
+      - 63.182.228.117:22222
+      - 63.183.63.206:22222
+      - "@ServerTel 🌹👑🕊️ 4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 10"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 11"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 14"
+      - "  4"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 16"
+      - "@v2rayconfigamir 1950"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 17"
+      - "  5"
+      - "@v2rayconfigamir 9595"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 18"
+      - 185.36.228.212:37515
+      - 65.109.221.209:49797
+      - "@v2rayconfigamir 9605"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 19"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 20"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 21"
+      - 140.248.159.164:80
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 22"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 23"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 24"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 25"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 26"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 27"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 28"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 29"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 30"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 31"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 32"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 33"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 34"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 35"
+      - "  6"
+      - "  7"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 36"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 37"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 38"
+      - "@ServerTel 🌹👑🕊️ 5"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 39"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 40"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 41"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 42"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 43"
+      - "@v2rayconfigamir 5128"
+      - "@v2rayconfigamir 1308"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 44"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 45"
+      - "@v2rayconfigamir 9884"
+      - "@v2rayconfigamir 2289"
+      - "@v2rayconfigamir 8845"
+      - "@v2rayconfigamir 8734"
+      - "@v2rayconfigamir 8167"
+      - "  8"
+      - "  9"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 46"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 47"
+      - "@v2rayconfigamir 2085"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 48"
+      - 172.64.145.202:2087
+      - 172.64.145.202:2087 2
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 3
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 49"
+      - "@v2rayconfigamir 5243"
+      - "@spdnet"
+      - "  10"
+      - "@v2rayconfigamir 1454"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 50"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 51"
+      - "  11"
+      - "  12"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 52"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 53"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 54"
+      - "@v2rayconfigamir 3439"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 55"
+      - "@v2rayconfigamir 8181"
+      - "@filembad"
+      - "@filembad 2"
+      - "  13"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 56"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 57"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 58"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 59"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 60"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 61"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 62"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 63"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 64"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 65"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 4
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 66"
+      - "  14"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 67"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 68"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 69"
+      - "@v2rayconfigamir 1596"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 70"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 71"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 72"
+      - "@v2rayconfigamir 1902"
+      - "  15"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 73"
+      - "@v2rayconfigamir 6293"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 74"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 75"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 76"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 77"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 78"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 79"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 80"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 81"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 82"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 83"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 84"
+      - "@v2rayconfigamir 1839"
+      - "@v2rayconfigamir 6354"
+      - "@v2rayconfigamir 4170"
+      - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 5
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 85"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 86"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 87"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 88"
+      - "اگه میخوای قطع نشی جوین شو : @farsiproxy 89"
+  - name: دانلود منیجر 📥
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: تلگرام 💬
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: یوتیوب ▶️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: گوگل 🌍
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: واتس آپ 🟢
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: هوش مصنوعی 🤖
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییتر 🐦
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اسپاتیفای 🎵
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اینستاگرام 📸
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: تبلیغات 🆎
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: تبلیغات اپ ها 🍃
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: رهگیری جهانی 🛑
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: سایتای مخرب ⚠️
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: استیم 🖥️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیم 🎮
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییچ 📡
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: سایتای ایرانی 🇮🇷
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: ویندوز 🧊
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: کلودفلر ☁️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیتهاب 🐙
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: دیسکورد 🗣️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: انی‌دسک 🔴
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: استریمیو 🎬
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: سایتای سانسوری 🤬
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+  - name: بدون فیلترشکن 🛡️
+    type: select
+    proxies:
+      - DIRECT
+  - name: قطع اینترنت ⛔
+    type: select
+    proxies:
+      - REJECT
+  - name: اجازه ندادن 🚫
+    type: select
+    proxies:
+      - REJECT
+ntp:
+  enable: true
+  server: time.apple.com
+  port: 123
+  interval: 30
+rules:
+  - RULE-SET,DownloadManagers,دانلود منیجر 📥
+  - RULE-SET,Download,دانلود منیجر 📥
+  - RULE-SET,stremio,استریمیو 🎬
+  - RULE-SET,BanProgramAD,تبلیغات اپ ها 🍃
+  - RULE-SET,BanAD,رهگیری جهانی 🛑
+  - RULE-SET,PrivateTracker,رهگیری جهانی 🛑
+  - RULE-SET,category_public_tracker,رهگیری جهانی 🛑
+  - RULE-SET,malware,سایتای مخرب ⚠️
+  - RULE-SET,phishing,سایتای مخرب ⚠️
+  - RULE-SET,cryptominers,سایتای مخرب ⚠️
+  - RULE-SET,warninglist,سایتای مخرب ⚠️
+  - RULE-SET,Ponzi,سایتای مخرب ⚠️
+  - RULE-SET,LiteAds,تبلیغات 🆎
+  - RULE-SET,iran_ads,تبلیغات 🆎
+  - RULE-SET,PersianBlocker,تبلیغات 🆎
+  - RULE-SET,ads,تبلیغات 🆎
+  - RULE-SET,BanEasyList,تبلیغات 🆎
+  - RULE-SET,twitch,توییچ 📡
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
+  - RULE-SET,telegram,تلگرام 💬
+  - RULE-SET,YouTube,یوتیوب ▶️
+  - RULE-SET,youtube,یوتیوب ▶️
+  - RULE-SET,YouTubeMusic,یوتیوب ▶️
+  - PROCESS-NAME,com.anydesk.anydeskandroid,انی‌دسک 🔴
+  - PROCESS-NAME,AnyDesk.exe,انی‌دسک 🔴
+  - DOMAIN-SUFFIX,anydesk.com,انی‌دسک 🔴
+  - PROCESS-NAME,Twitter.exe,توییتر 🐦
+  - PROCESS-NAME,com.twitter.android,توییتر 🐦
+  - RULE-SET,Chotwitter,توییتر 🐦
+  - RULE-SET,mihTwitter,توییتر 🐦
+  - RULE-SET,Domtwitter,توییتر 🐦
+  - PROCESS-NAME,com.spotify.music,اسپاتیفای 🎵
+  - PROCESS-NAME,Spotify.exe,اسپاتیفای 🎵
+  - RULE-SET,DomainSpotify,اسپاتیفای 🎵
+  - RULE-SET,mihspotify,اسپاتیفای 🎵
+  - PROCESS-NAME,com.instagram.android,اینستاگرام 📸
+  - RULE-SET,instagram,اینستاگرام 📸
+  - DOMAIN-SUFFIX,deepseek.com,هوش مصنوعی 🤖
+  - DOMAIN-SUFFIX,qwen.ai,هوش مصنوعی 🤖
+  - RULE-SET,category-ai,هوش مصنوعی 🤖
+  - RULE-SET,censor,سایتای سانسوری 🤬
+  - RULE-SET,apps,سایتای ایرانی 🇮🇷
+  - RULE-SET,iran,سایتای ایرانی 🇮🇷
+  - RULE-SET,arvancloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,derakcloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,iranserver,سایتای ایرانی 🇮🇷
+  - RULE-SET,parspack,سایتای ایرانی 🇮🇷
+  - RULE-SET,irasn,سایتای ایرانی 🇮🇷
+  - RULE-SET,ircidr,سایتای ایرانی 🇮🇷
+  - RULE-SET,ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,category_ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,whatsapp,واتس آپ 🟢
+  - RULE-SET,steam,استیم 🖥️
+  - RULE-SET,SteamRegionCheck,استیم 🖥️
+  - RULE-SET,game,گیم 🎮
+  - RULE-SET,GameDownload,گیم 🎮
+  - RULE-SET,category-games,گیم 🎮
+  - RULE-SET,Xbox,گیم 🎮
+  - RULE-SET,discord,دیسکورد 🗣️
+  - RULE-SET,xiaomi_white_list,نوع انتخاب پروکسی 🔀
+  - RULE-SET,xiaomi-ads,تبلیغات اپ ها 🍃
+  - RULE-SET,xiaomi_block_list,تبلیغات اپ ها 🍃
+  - RULE-SET,windows,ویندوز 🧊
+  - RULE-SET,cloudflare,کلودفلر ☁️
+  - RULE-SET,github,گیتهاب 🐙
+  - PROCESS-NAME,com.android.vending,نوع انتخاب پروکسی 🔀
+  - PROCESS-NAME,com.google.android.gms,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google-play,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google,گوگل 🌍
+  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
+  - RULE-SET,local_ips,بدون فیلترشکن 🛡️
+  - RULE-SET,private,بدون فیلترشکن 🛡️
+  - MATCH,نوع انتخاب پروکسی 🔀
