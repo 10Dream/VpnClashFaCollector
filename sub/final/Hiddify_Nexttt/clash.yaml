@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@Hiddify_nexttt", server: 94.183.241.82, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: 077b46ec-03fe-41fd-9710-841bd9cafac0, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt", server: de-1-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 5e5d004d-b55b-4184-b3bb-7e99cd58b4da, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt 2", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -484,7 +483,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: خودکار (بهترین پینگ) 🤖
@@ -493,7 +491,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -502,7 +499,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: اتصال پایدار 🔗
@@ -520,7 +516,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: توزیع بار (گردشی) 🔁
@@ -529,7 +524,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: توزیع بار (موقت) ⏳
@@ -538,7 +532,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@Hiddify_nexttt"
       - "@Hiddify_Nexttt"
       - "@Hiddify_Nexttt 2"
   - name: دانلود منیجر 📥

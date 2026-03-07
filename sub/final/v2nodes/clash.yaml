@@ -472,7 +472,6 @@ proxies:
   - {name: 124.217.247.205:51348, server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 91.107.144.0:1080, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
   - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -518,6 +517,7 @@ proxies:
   - {name: 84.200.33.52:8080, server: 84.200.33.52, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5774ae61-7402-41db-9388-1db9c43c11c3, host: testspeed-foreign.tci.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.238.228.238:2096, server: 185.238.228.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 64.227.174.213:2053, server: 64.227.174.213, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.90.251:443, server: 144.31.90.251, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.192.49.213:443, server: 85.192.49.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dashh.dashti.cyou:50711, server: dashh.dashti.cyou, port: 50711, type: vless, tls: true, packet-encoding: xudp, uuid: 727193c6-2bee-44bf-bea4-089538c4e530, servername: www.yahoo.com, host: www.yahoo.com, path: /, reality-opts: {public-key: 0QZksUpNALQRl7s2dJ4MKQrusLEW6TRwtHSRmBol828, short-id: 984db8b819e1}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -531,7 +531,6 @@ proxies:
   - {name: 217.13.105.19:7443, server: 217.13.105.19, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 928beba1-eef6-478a-b06f-db6bc020e078, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 179.43.176.216:443, server: 179.43.176.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38.180.91.119:2053, server: 38.180.91.119, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 nl.crunch-crunch.com:443, server: nl.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95be7de0-2394-47b8-aa2c-27773d61807f, servername: nl.crunch-crunch.com, host: nl.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 ru.crunch-crunch.com:443, server: ru.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95be7de0-2394-47b8-aa2c-27773d61807f, servername: ru.crunch-crunch.com, host: ru.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.156.102.53:8443, server: 194.156.102.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.57.28.209:8443, server: 31.57.28.209, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,11 +541,7 @@ proxies:
   - {name: 87.229.108.135:5443, server: 87.229.108.135, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yandex.com, host: yandex.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: serendipity.qvzlwk.sbs:443, server: serendipity.qvzlwk.sbs, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e06b2fc8-131d-4ba1-991d-c126697df43a, servername: serendipity.qvzlwk.sbs, host: serendipity.qvzlwk.sbs, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5A98kkj8Jo6isST_WnhnNdVF6eaVGHEzu-qE4ZcsHWI, short-id: 231357339a84547b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.33.79:7443, server: 37.139.33.79, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: e08736d8-aec2-4400-bd42-e34daf4a96d4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0, short-id: abcd1234}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh17v1.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443 2, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh20v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443 3, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh21v7.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443 4, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh31v1.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: all.tellmethetrue.shop:443 5, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh42v8.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh20v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de2.pink-service.ru:443, server: de2.pink-service.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5a33157-a449-4a25-8bd4-d2b02d66aa38, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.75.255:8081, server: 51.250.75.255, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: eh.vk.com, host: eh.vk.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 47.236.148.7:42759, server: 47.236.148.7, port: 42759, type: vless, tls: true, packet-encoding: xudp, uuid: f514dfd2-fefe-49bd-e9a2-28225b9b338b, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -555,8 +550,8 @@ proxies:
   - {name: 🇬🇧 uk2.miyazono-kaori.com:443, server: uk2.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: www.bp.com, host: www.bp.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: QdYs12kmf0mAXNOEPgMpLN5dbZUlgvRK2zCqynOmqBk, short-id: 20}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: F2.HaMrAhCoNf.Ir:8443, server: F2.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f85c9efa-da9d-4f86-a497-e92a89ffb572, servername: sp.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: sp.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 partner.zoom.us:80, server: partner.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇳 [openproxylist.com] vmess-CN", server: hn.xn--wlqw1swrj04ju56d.com, port: 80, type: vmess, uuid: f9ddefc5-d121-486f-9e2f-0c2cd1a3decc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: tms.dingtalk.com}}, udp: true, tfo: false}
-  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: 3d74c959-2a4c-4df8-887a-4f9736a77b6f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: eddebc92-b9f7-4019-8a11-0d733bfe665d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
+  - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: 3d74c959-2a4c-4df8-887a-4f9736a77b6f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: usaapp1.jisuyun.top, port: 2053, type: vmess, uuid: 4b80aa86-4354-40bb-d2a3-47126cff0bea, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: usaapp1.jisuyun.top, network: ws, ws-opts: {path: /usavm, headers: {Host: usaapp1.jisuyun.top}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: v5.cdn.fkjw4wq0g5.ewddns.net, port: 5502, type: vmess, uuid: 3fa3cc38-9ad1-444d-883e-21fbdc4532af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v5.cdn.fkjw4wq0g5.ewddns.net}}, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG 2", server: v5.cdn.fkjw4wq0g5.ewddns.net, port: 5503, type: vmess, uuid: 3fa3cc38-9ad1-444d-883e-21fbdc4532af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v5.cdn.fkjw4wq0g5.ewddns.net}}, udp: true, tfo: false}
@@ -584,7 +579,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -630,6 +624,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -643,7 +638,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -655,10 +649,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -667,8 +657,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
@@ -686,7 +676,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -732,6 +721,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -745,7 +735,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -757,10 +746,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -769,8 +754,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
@@ -788,7 +773,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -834,6 +818,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -847,7 +832,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -859,10 +843,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -871,8 +851,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
@@ -899,7 +879,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -945,6 +924,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -958,7 +938,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -970,10 +949,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -982,8 +957,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
@@ -1001,7 +976,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -1047,6 +1021,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -1060,7 +1035,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -1072,10 +1046,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -1084,8 +1054,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2
@@ -1103,7 +1073,6 @@ proxy-groups:
       - 124.217.247.205:51348
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 91.107.144.0:1080
       - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
@@ -1149,6 +1118,7 @@ proxy-groups:
       - 84.200.33.52:8080
       - 185.238.228.238:2096
       - 192.200.160.20:443
+      - 64.227.174.213:2053
       - 144.31.90.251:443
       - 85.192.49.213:443
       - dashh.dashti.cyou:50711
@@ -1162,7 +1132,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇳🇱 nl.crunch-crunch.com:443
       - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
@@ -1174,10 +1143,6 @@ proxy-groups:
       - serendipity.qvzlwk.sbs:443
       - 37.139.33.79:7443
       - all.tellmethetrue.shop:443
-      - all.tellmethetrue.shop:443 2
-      - all.tellmethetrue.shop:443 3
-      - all.tellmethetrue.shop:443 4
-      - all.tellmethetrue.shop:443 5
       - 🇩🇪 de2.pink-service.ru:443
       - 51.250.75.255:8081
       - 47.236.148.7:42759
@@ -1186,8 +1151,8 @@ proxy-groups:
       - 🇬🇧 uk2.miyazono-kaori.com:443
       - F2.HaMrAhCoNf.Ir:8443
       - 🇺🇸 partner.zoom.us:80
-      - 🇨🇳 [openproxylist.com] vmess-CN
       - 🇩🇪 [openproxylist.com] vmess-DE
+      - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
       - 🇸🇬 [openproxylist.com] vmess-SG 2

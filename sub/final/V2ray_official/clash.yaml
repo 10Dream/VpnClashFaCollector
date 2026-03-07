@@ -465,15 +465,12 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@V2ray_official", server: teb.parsdownloadco.ir, port: 29294, type: vless, tls: true, packet-encoding: xudp, uuid: 092c0e5e-0677-44a1-ae52-2174f3749d68, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official`", server: wpmanage.levron.pro, port: 2089, type: vless, tls: true, packet-encoding: xudp, uuid: 0d11eed5-50e3-4e35-bc98-c316982ff0f2, host: Myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 2", server: sites.mtanaco.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3811e832-817b-48b8-cd1f-b650439ce79b, host: s1.mediaad.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 3", server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 4", server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 5", server: 194.145.119.216, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 6", server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: a589a8c6-ddbb-496f-92bd-7422ea8c9fb7, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 7", server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2ray_official` 8", server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: ff344491-10d4-44da-9b47-c1066b93eec3, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official`", server: sites.mtanaco.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3811e832-817b-48b8-cd1f-b650439ce79b, host: s1.mediaad.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official` 2", server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official` 3", server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official` 4", server: 194.145.119.216, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official` 5", server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: a589a8c6-ddbb-496f-92bd-7422ea8c9fb7, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@V2ray_official` 6", server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -490,45 +487,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,45 +532,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@V2ray_official"
       - "@V2ray_official`"
       - "@V2ray_official` 2"
       - "@V2ray_official` 3"
       - "@V2ray_official` 4"
       - "@V2ray_official` 5"
       - "@V2ray_official` 6"
-      - "@V2ray_official` 7"
-      - "@V2ray_official` 8"
   - name: دانلود منیجر 📥
     type: select
     proxies:

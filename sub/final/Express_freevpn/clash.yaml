@@ -465,50 +465,26 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 94.183.241.82, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: 077b46ec-03fe-41fd-9710-841bd9cafac0, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2, server: 92.242.196.118, port: 8881, type: vless, tls: true, packet-encoding: xudp, uuid: 0fac6184-396f-4dba-a8d5-69cffdc4362e, host: shad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3, server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 12c10df3-1a19-4a0b-95c6-8f43d5c890a2, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩, server: 212.80.21.220, port: 10200, type: vless, tls: true, packet-encoding: xudp, uuid: 13b63262-5da7-41d2-a943-27d4deed897b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`, server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4, server: sites.mtanaco.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3811e832-817b-48b8-cd1f-b650439ce79b, host: s1.mediaad.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2, server: 89.42.139.69, port: 3530, type: vless, tls: true, packet-encoding: xudp, uuid: 3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩, server: 93.94.51.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 405ba2d6-7fcb-4cdd-9c77-4ecc616d77c8, servername: deu549.worldbypass.org, host: deu549.worldbypass.org, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5, server: srv2-germany.hajimamadcloud.com.tr, port: 1992, type: vless, tls: true, packet-encoding: xudp, uuid: 4408dcae-2bdf-4185-84d0-38556d79f27e, host: skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: sites.mtanaco.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3811e832-817b-48b8-cd1f-b650439ce79b, host: s1.mediaad.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`, server: 89.42.139.69, port: 3530, type: vless, tls: true, packet-encoding: xudp, uuid: 3f5c08c2-c8b0-4af8-85cf-c28bb5b8cc6b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2, server: srv2-germany.hajimamadcloud.com.tr, port: 1992, type: vless, tls: true, packet-encoding: xudp, uuid: 4408dcae-2bdf-4185-84d0-38556d79f27e, host: skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩, server: nl1.vnet500.xyz, port: 26074, type: vless, tls: true, packet-encoding: xudp, uuid: 454c9327-33cd-4aae-b69f-57f1e323fa08, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`, server: nl1.vnet500.xyz, port: 26074, type: vless, tls: true, packet-encoding: xudp, uuid: 454c9327-33cd-4aae-b69f-57f1e323fa08, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6, server: mac.sordoservice.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4f6c3dab-9574-474b-933a-0e96ab248f71, host: mac.sordoservice.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`, server: tiemx.nimatiem.de, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: 5020768e-ef63-4783-b430-f25560bf8d27, host: tiemx.nimatiem.de, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2, server: 45.141.234.159, port: 30724, type: vless, tls: true, packet-encoding: xudp, uuid: 54e5a989-5938-43ce-ba58-026ddbfd4d7b, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A, short-id: eab8ab08e4d6faa0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3, server: mac.sordoservice.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 4f6c3dab-9574-474b-933a-0e96ab248f71, host: mac.sordoservice.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2, server: saghi.theoriex.nl, port: 22775, type: vless, tls: true, packet-encoding: xudp, uuid: 5733e393-e9be-43e4-a340-acb335595838, host: saghi.theoriex.nl, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2, server: Yas3.mizsky.org, port: 27892, type: vless, tls: true, packet-encoding: xudp, uuid: 5a038d4c-914d-4ab7-8ed0-c5d5b927dd32, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3, server: ger2.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 5ebdea60-0a8d-49cb-8644-99207335060b, host: parsabr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4, server: 94.183.241.192, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 60b06b06-e43e-9633-6381-30719a5bea9c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8, server: 141.11.203.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4, server: 94.183.241.159, port: 22222, type: vless, tls: true, packet-encoding: xudp, uuid: 5976b860-e481-41e2-b2f2-9f8901bf84a2, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5, server: 141.11.203.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3, server: 40.rexg.ir, port: 11001, type: vless, tls: true, packet-encoding: xudp, uuid: 65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f, host: fire194.centerplus.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9, server: nim.ar-marz.fun, port: 5055, type: vless, tls: true, packet-encoding: xudp, uuid: 6bf0199f-f45f-45b1-8cd8-324e7430d88a, host: parsabr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10, server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3, server: 130.185.73.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 84306d25-e61b-4f21-b55e-67ab6699060f, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11, server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: 96953ea1-4d07-4b8a-aeb4-795bbfaf38ad, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12, server: 194.145.119.216, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3, server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: a589a8c6-ddbb-496f-92bd-7422ea8c9fb7, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`, server: 185.173.129.127, port: 102, type: vless, tls: true, packet-encoding: xudp, uuid: c3f6cc06-cc1a-4ab4-d7f8-a3c90b832dc4, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13, server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14, server: all.x22pro.com, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: cc5e685e-c846-4335-ba8e-526280c451b1, host: all.x22pro.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: d203ceae-d9a9-45bb-a07c-0eb52baf9130, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: d203ceae-d9a9-45bb-a07c-0eb52baf9130, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5, server: node.zorli.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf, host: node.zorli.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6, server: node.zorli.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15, server: 146.103.102.82, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e08f1ad7-0c60-446d-baec-08b3b69bb3d0, network: ws, ws-opts: {path: /getWorkerUpdates}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16, server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6, server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7, server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: 96953ea1-4d07-4b8a-aeb4-795bbfaf38ad, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8, server: 194.145.119.216, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2, server: isv31x.smrfy.online, port: 45965, type: vless, tls: true, packet-encoding: xudp, uuid: a589a8c6-ddbb-496f-92bd-7422ea8c9fb7, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9, server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10, server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4, server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5, server: gold.blackraven.ir, port: 56946, type: vless, tls: true, packet-encoding: xudp, uuid: f3d50633-c079-4005-a1eb-e905ceecc88f, host: gold.blackraven.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17, server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩, server: us.vipnett.top, port: 2087, type: vmess, uuid: 6660d006-7939-43e8-901b-b06b21fc5161, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6, server: nor5.vipnor.xyz, port: 24255, type: vmess, uuid: 3ea7345b-cc0f-072b-0823-97afc5c6b312, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7, server: nor8.vipnor.xyz, port: 24258, type: vmess, uuid: ba9680c1-7da4-1ff2-1f07-ab021a9eafcd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11, server: user5507.login.karim2000.ir, port: 10036, type: vmess, uuid: aa8458e9-1983-49e2-a42c-29fb9ea453f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6, server: p17.fortntine-game.top, port: 9500, type: vmess, uuid: aa0d1d16-ea8c-4c0b-93e0-d0ef534188a1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7, server: sw.srvtogo.com, port: 9975, type: vmess, uuid: 06efb7db-29dc-433c-92df-564f1ba7f3bd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -526,49 +502,25 @@ proxy-groups:
     type: select
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -576,49 +528,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -626,49 +554,25 @@ proxy-groups:
     tolerance: 50
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -685,49 +589,25 @@ proxy-groups:
     interval: 600
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -735,49 +615,25 @@ proxy-groups:
     interval: 600
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -785,49 +641,25 @@ proxy-groups:
     interval: 600
     proxies:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 2
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 2
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 3
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 2
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 3
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 8
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 2
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 9
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 10
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 3
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 12
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩` 3
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩`
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 13
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 14
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 4
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 15
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 16
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 5
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 17
-      - برای اتصال دائمی جوین شو🧭 TelegramID ⌲Express_freevpn 🪩
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو🪙 TelegramID ⌲Express_freevpn 🪩 7
+      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 11
       - برای اتصال دائمی جوین شو🌐 TelegramID ⌲Express_freevpn 🪩 6
-      - برای اتصال دائمی جوین شو💱 TelegramID ⌲Express_freevpn 🪩 7
   - name: دانلود منیجر 📥
     type: select
     proxies:

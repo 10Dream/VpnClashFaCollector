@@ -471,7 +471,10 @@ proxies:
   - {name: 185.141.134.50:24541, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.141.134.50:24541 2, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V**, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.164.72.175:2052, server: 185.164.72.175, port: 2052, type: socks5, username: rocket, password: chat, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.190.144.240:1122, server: 195.190.144.240, port: 1122, type: socks5, username: nullnetwork, password: nullnetwork, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.152.191.138:1080, server: 37.152.191.138, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37.191.85.54:1852, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5hproxyservice, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37.191.85.54:1852 2, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5skyportall, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.209.44.2:6302, server: 46.209.44.2, port: 6302, type: socks5, username: anten, password: Anten@#8900, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.186:2026, server: 79.127.32.186, port: 2026, type: socks5, username: reza, password: !<str> 561440, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.189:38742, server: 79.127.32.189, port: 38742, type: socks5, username: 1414, password: !<str> 2026, skip-cert-verify: false, udp: true, tfo: false}
@@ -502,7 +505,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
@@ -523,7 +529,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
@@ -544,7 +553,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
@@ -574,7 +586,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
@@ -595,7 +610,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
@@ -616,7 +634,10 @@ proxy-groups:
       - 185.141.134.50:24541
       - 185.141.134.50:24541 2
       - 185.164.72.175:2052
+      - 195.190.144.240:1122
       - 37.152.191.138:1080
+      - 37.191.85.54:1852
+      - 37.191.85.54:1852 2
       - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
