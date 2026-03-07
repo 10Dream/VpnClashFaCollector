@@ -422,6 +422,7 @@ def write_files_standard(data_map, output_dir):
     
     mixed_content = set()
     cloudflare_content = set()
+    slipnet_mixed_content = set()
     
     for proto, lines in final_map.items():
         if not lines: continue
@@ -454,12 +455,16 @@ def write_files_standard(data_map, output_dir):
 
         else:
             # پروتکل‌های جمع‌آوری‌شده که نباید وارد mixed شوند
+            if proto in {'slipnet', 'slipnet-enc'}:
+                slipnet_mixed_content.update(lines)
             save_content(output_dir, proto, lines)
 
     if mixed_content:
         save_content(output_dir, "mixed", mixed_content)
     if cloudflare_content:
         save_content(output_dir, "cloudflare", cloudflare_content)
+    if slipnet_mixed_content:
+        save_content(output_dir, "slipnet_mixed", slipnet_mixed_content)
 
 def auto_base64_all(directory):
     """تولید Base64 برای تمام فایل‌های متنی موجود"""
