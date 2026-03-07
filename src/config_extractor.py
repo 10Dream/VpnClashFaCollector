@@ -56,12 +56,12 @@ def build_raw_url(path):
 # تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
 # ==========================================
 SPLIT_SOURCES = [
-    {'url': build_raw_url('sub/tested/ping_passed.txt'), 'name': 'ping_passed', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/mixed.txt'), 'name': 'mixed', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/vless.txt'), 'name': 'vless', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/vmess.txt'), 'name': 'vmess', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/trojan.txt'), 'name': 'trojan', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/ss.txt'), 'name': 'ss', 'chunk_size': 500},
+    {'path': 'sub/tested/ping_passed.txt', 'url': build_raw_url('sub/tested/ping_passed.txt'), 'name': 'ping_passed', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/mixed.txt', 'url': build_raw_url('sub/all/mixed.txt'), 'name': 'mixed', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/vless.txt', 'url': build_raw_url('sub/all/vless.txt'), 'name': 'vless', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/vmess.txt', 'url': build_raw_url('sub/all/vmess.txt'), 'name': 'vmess', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/trojan.txt', 'url': build_raw_url('sub/all/trojan.txt'), 'name': 'trojan', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/ss.txt', 'url': build_raw_url('sub/all/ss.txt'), 'name': 'ss', 'chunk_size': 500, 'allow_remote_fallback': False},
 ]
 
 # ==========================================
@@ -79,7 +79,7 @@ NON_VALIDATED_PROTOCOLS = NON_MIXED_PROTOCOLS.copy()
 
 CLOUDFLARE_DOMAINS = ('.workers.dev', '.pages.dev', '.trycloudflare.com', 'chatgpt.com')
 
-NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/proxy\?|tg:\/\/proxy\?|[()\[\]"\'\s])'
+NEXT_CONFIG_LOOKAHEAD = r'(?=' + '|'.join([rf'{re.escape(p)}:(?:\/\/|\/)' for p in PROTOCOLS if p != 'tg']) + r'|https:\/\/t\.me\/(?:proxy|socks)\?|tg:\/\/(?:proxy|socks)\?|[()\[\]"\'\s])'
 
 BLOCKED_SERVERS = ("127.0.0.1", "0.0.0.0", "localhost", "t.me", "github.com", "raw.githubusercontent.com", "google.com")
 VALID_SS_CIPHERS = {
@@ -272,7 +272,9 @@ def filter_problematic_configs(data_map):
 
 def get_flexible_pattern(protocol_prefix):
     if protocol_prefix == 'tg':
-        prefix = rf'(?:tg:\/\/proxy\?|https:\/\/t\.me\/proxy\?)'
+        prefix = rf'(?:tg:\/\/(?:proxy|socks)\?|https:\/\/t\.me\/(?:proxy|socks)\?)'
+    elif protocol_prefix == 'dns':
+        prefix = r'(?<![A-Za-z0-9-])dns:(?:\/\/|\/)'
     else:
         escaped = re.escape(protocol_prefix)
         prefix = rf'{escaped}:(?:\/\/|\/)'
@@ -420,6 +422,7 @@ def write_files_standard(data_map, output_dir):
     
     mixed_content = set()
     cloudflare_content = set()
+    slipnet_mixed_content = set()
     
     for proto, lines in final_map.items():
         if not lines: continue
@@ -452,12 +455,16 @@ def write_files_standard(data_map, output_dir):
 
         else:
             # پروتکل‌های جمع‌آوری‌شده که نباید وارد mixed شوند
+            if proto in {'slipnet', 'slipnet-enc'}:
+                slipnet_mixed_content.update(lines)
             save_content(output_dir, proto, lines)
 
     if mixed_content:
         save_content(output_dir, "mixed", mixed_content)
     if cloudflare_content:
         save_content(output_dir, "cloudflare", cloudflare_content)
+    if slipnet_mixed_content:
+        save_content(output_dir, "slipnet_mixed", slipnet_mixed_content)
 
 def auto_base64_all(directory):
     """تولید Base64 برای تمام فایل‌های متنی موجود"""
@@ -510,6 +517,28 @@ def fetch_url_content(url):
         logger.error(f"Failed to fetch {url}: {e}")
         return ""
 
+
+def load_split_source_content(item):
+    """اولویت با فایل لوکال است؛ در صورت نبودن از URL خوانده می‌شود."""
+    local_path = item.get('path')
+    if local_path and os.path.isfile(local_path):
+        try:
+            logger.info(f"Loading local split source: {local_path}")
+            with open(local_path, "r", encoding="utf-8") as f:
+                return f.read()
+        except Exception as e:
+            logger.error(f"Failed to read local split source {local_path}: {e}")
+
+    if not item.get('allow_remote_fallback', True):
+        if local_path:
+            logger.warning(f"Split source not found locally (remote fallback disabled): {local_path}")
+        return ""
+
+    url = item.get('url')
+    if url:
+        return fetch_url_content(url)
+    return ""
+
 def save_split_output(config_list, base_name, chunk_size):
     """ذخیره فایل‌های تقسیم‌بندی شده"""
     if not config_list:
@@ -550,13 +579,13 @@ def process_split_mode():
     logger.info("==========================================")
     
     for item in SPLIT_SOURCES:
-        url = item.get('url')
         name = item.get('name')
         chunk_size = item.get('chunk_size', 50)
         
-        if not url or not name: continue
+        if not name:
+            continue
         
-        content = fetch_url_content(url)
+        content = load_split_source_content(item)
         if content:
             extracted, count = extract_configs_from_text(content)
             merged_data = filter_problematic_configs(merge_hysteria(extracted))
@@ -568,12 +597,43 @@ def process_split_mode():
             
             save_split_output(all_configs, name, chunk_size)
 
+
+def extract_iran_configs_from_tested(base_dir="sub/tested"):
+    """استخراج خروجی‌های دارای ایموجی پرچم ایران از نتایج تست"""
+    if not os.path.isdir(base_dir):
+        logger.warning(f"Tested directory not found for IR extraction: {base_dir}")
+        return
+
+    target_files = [
+        "ping_passed.txt",
+        "speed_passed.txt",
+    ]
+
+    iran_tagged = set()
+    for file_name in target_files:
+        file_path = os.path.join(base_dir, file_name)
+        if not os.path.isfile(file_path):
+            continue
+
+        try:
+            with open(file_path, "r", encoding="utf-8") as f:
+                for raw in f:
+                    line = raw.strip()
+                    if line and "🇮🇷" in line:
+                        iran_tagged.add(line)
+        except Exception as e:
+            logger.error(f"IR extraction failed for {file_path}: {e}")
+
+    save_content(base_dir, "emoji_iran", iran_tagged)
+    logger.info(f"IR emoji extraction complete. Found {len(iran_tagged)} configs.")
+
 def main():
     logger.info("Starting Config Extractor...")
     
     # --- بخش 1: پردازش پوشه تلگرام ---
     src_dir = "src/telegram"
     out_dir = "sub"
+    source_out_dir = os.path.join(out_dir, "source")
     global_collection = {k: set() for k in PROTOCOLS}
     
     logger.info("==========================================")
@@ -610,7 +670,7 @@ def main():
                     global_collection[p].update(s)
                 
                 # نوشتن فایل کانال
-                write_files_standard(channel_data, os.path.join(out_dir, channel_name))
+                write_files_standard(channel_data, os.path.join(source_out_dir, channel_name))
                 
             except Exception as e:
                 logger.error(f"Error processing channel {channel_name}: {e}")
@@ -630,7 +690,10 @@ def main():
     # --- بخش 2: پردازش لینک‌های اسپلیت ---
     process_split_mode()
 
-    # --- بخش 3: نهایی‌سازی و پاکسازی ---
+    # --- بخش 3: استخراج خروجی‌های ایرانی از نتایج تست ---
+    extract_iran_configs_from_tested("sub/tested")
+
+    # --- بخش 4: نهایی‌سازی و پاکسازی ---
     logger.info("==========================================")
     logger.info("           FINALIZING OUTPUTS             ")
     logger.info("==========================================")

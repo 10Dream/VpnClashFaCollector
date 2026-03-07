@@ -65,6 +65,10 @@ jobs:
         if: github.event_name == 'schedule' || inputs.run_tester == true
         run: python src/config_tester.py
 
+      - name: 3.5 Run Config Extractor (Post-Test)
+        if: github.event_name == 'schedule' || (inputs.run_extractor == true && inputs.run_tester == true)
+        run: python src/config_extractor.py
+
       - name: 4. Run Sub Generator
         if: github.event_name == 'schedule' || inputs.run_generator == true
         run: python src/sub_generator.py

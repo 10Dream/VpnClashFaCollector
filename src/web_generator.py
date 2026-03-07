@@ -153,7 +153,16 @@ def generate_web_page():
     """
 
     # --- بدنه اصلی: اشتراک کامل ---
-    folders = [d for d in os.listdir(sub_root) if os.path.isdir(os.path.join(sub_root, d)) and d != "final" and d != "split"]
+    folders = []
+    source_root = os.path.join(sub_root, "source")
+    if os.path.isdir(source_root):
+        for d in os.listdir(source_root):
+            if os.path.isdir(os.path.join(source_root, d)):
+                folders.append(d)
+
+    for d in ["tested", "all"]:
+        if os.path.isdir(os.path.join(sub_root, d)):
+            folders.append(d)
     
     def get_priority(name):
         n = name.lower()
@@ -182,11 +191,12 @@ def generate_web_page():
         """
 
         available_files = {}
-        p1 = os.path.join(sub_root, folder)
+        p1 = os.path.join(sub_root, folder) if (is_tested or is_all) else os.path.join(source_root, folder)
         if os.path.exists(p1):
             for f in os.listdir(p1):
                 if f not in exclude_files and os.path.isfile(os.path.join(p1, f)):
-                    available_files[f] = f"{repo_raw_url}/sub/{folder}/{f}"
+                    raw_path = f"sub/{folder}/{f}" if (is_tested or is_all) else f"sub/source/{folder}/{f}"
+                    available_files[f] = f"{repo_raw_url}/{raw_path}"
         
         if is_tested:
             final_folder_name = "tested_speed_passed"
