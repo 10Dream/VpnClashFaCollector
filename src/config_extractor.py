@@ -56,12 +56,12 @@ def build_raw_url(path):
 # تنظیمات کاربر (لینک‌های جهت تقسیم‌بندی)
 # ==========================================
 SPLIT_SOURCES = [
-    {'url': build_raw_url('sub/tested/ping_passed.txt'), 'name': 'ping_passed', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/mixed.txt'), 'name': 'mixed', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/vless.txt'), 'name': 'vless', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/vmess.txt'), 'name': 'vmess', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/trojan.txt'), 'name': 'trojan', 'chunk_size': 500},
-    {'url': build_raw_url('sub/all/ss.txt'), 'name': 'ss', 'chunk_size': 500},
+    {'path': 'sub/tested/ping_passed.txt', 'url': build_raw_url('sub/tested/ping_passed.txt'), 'name': 'ping_passed', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/mixed.txt', 'url': build_raw_url('sub/all/mixed.txt'), 'name': 'mixed', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/vless.txt', 'url': build_raw_url('sub/all/vless.txt'), 'name': 'vless', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/vmess.txt', 'url': build_raw_url('sub/all/vmess.txt'), 'name': 'vmess', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/trojan.txt', 'url': build_raw_url('sub/all/trojan.txt'), 'name': 'trojan', 'chunk_size': 500, 'allow_remote_fallback': False},
+    {'path': 'sub/all/ss.txt', 'url': build_raw_url('sub/all/ss.txt'), 'name': 'ss', 'chunk_size': 500, 'allow_remote_fallback': False},
 ]
 
 # ==========================================
@@ -517,6 +517,28 @@ def fetch_url_content(url):
         logger.error(f"Failed to fetch {url}: {e}")
         return ""
 
+
+def load_split_source_content(item):
+    """اولویت با فایل لوکال است؛ در صورت نبودن از URL خوانده می‌شود."""
+    local_path = item.get('path')
+    if local_path and os.path.isfile(local_path):
+        try:
+            logger.info(f"Loading local split source: {local_path}")
+            with open(local_path, "r", encoding="utf-8") as f:
+                return f.read()
+        except Exception as e:
+            logger.error(f"Failed to read local split source {local_path}: {e}")
+
+    if not item.get('allow_remote_fallback', True):
+        if local_path:
+            logger.warning(f"Split source not found locally (remote fallback disabled): {local_path}")
+        return ""
+
+    url = item.get('url')
+    if url:
+        return fetch_url_content(url)
+    return ""
+
 def save_split_output(config_list, base_name, chunk_size):
     """ذخیره فایل‌های تقسیم‌بندی شده"""
     if not config_list:
@@ -557,13 +579,13 @@ def process_split_mode():
     logger.info("==========================================")
     
     for item in SPLIT_SOURCES:
-        url = item.get('url')
         name = item.get('name')
         chunk_size = item.get('chunk_size', 50)
         
-        if not url or not name: continue
+        if not name:
+            continue
         
-        content = fetch_url_content(url)
+        content = load_split_source_content(item)
         if content:
             extracted, count = extract_configs_from_text(content)
             merged_data = filter_problematic_configs(merge_hysteria(extracted))
