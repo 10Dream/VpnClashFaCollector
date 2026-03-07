@@ -473,7 +473,6 @@ proxies:
   - {name: 38.54.59.16:11201, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
   - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: 45.80.231.75:31019, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
-  - {name: 46.246.97.140:53908, server: 46.246.97.140, port: 53908, type: ss, cipher: chacha20-ietf-poly1305, password: ZweuXavjovuhzt1AF0d6qx, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 57.129.140.88:8388 2, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 91.107.144.0:1080, server: 91.107.144.0, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: kDt8cG1TLg4uB0nUMOAu, udp: true, tfo: false}
@@ -485,7 +484,6 @@ proxies:
   - {name: 103.186.155.215:38388, server: 103.186.155.215, port: 38388, type: ss, cipher: aes-256-cfb, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
   - {name: 38.180.197.41:8080, server: 38.180.197.41, port: 8080, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm, udp: true, tfo: false}
   - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: 35.86.124.243:6688, server: 35.86.124.243, port: 6688, type: trojan, password: 1a17b19d-4896-4531-af79-6e91d8ef8228, sni: baidu.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 149.28.151.140:443, server: 149.28.151.140, port: 443, type: trojan, password: 842b5f9dd11e458d8613c907c4cc5723, sni: www.gpt123.one, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.101.113.223:8443, server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 190.93.244.43:8443, server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
@@ -512,7 +510,6 @@ proxies:
   - {name: 15.236.135.208:22223, server: 15.236.135.208, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.44.47:22223, server: 15.236.44.47, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.229.240:22223, server: 3.124.229.240, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.79.158.4:22223, server: 3.79.158.4, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.164.194:22223, server: 35.181.164.194, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.109.231:22223, server: 51.44.109.231, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.37.116:22223, server: 52.47.37.116, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -529,7 +526,6 @@ proxies:
   - {name: 15.236.135.208:22222, server: 15.236.135.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.44.47:22222, server: 15.236.44.47, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.229.240:22222, server: 3.124.229.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.79.158.4:22222, server: 3.79.158.4, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.164.194:22222, server: 35.181.164.194, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.109.231:22222, server: 51.44.109.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.37.116:22222, server: 52.47.37.116, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -555,7 +551,6 @@ proxies:
   - {name: 15.236.135.208:22224, server: 15.236.135.208, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.44.47:22224, server: 15.236.44.47, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.229.240:22224, server: 3.124.229.240, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.79.158.4:22224, server: 3.79.158.4, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.164.194:22224, server: 35.181.164.194, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.109.231:22224, server: 51.44.109.231, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.47.37.116:22224, server: 52.47.37.116, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -633,6 +628,7 @@ proxies:
   - {name: turbo.unlimiteds.site:550, server: turbo.unlimiteds.site, port: 550, type: vless, tls: true, packet-encoding: xudp, uuid: 1b0b95da-aeb3-8d3e-b03c-63eee27c92a1, servername: turbo.unlimiteds.site, host: turbo.unlimiteds.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: turkish.levron.pro:2088 2, server: turkish.levron.pro, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 1b858811-9c5e-43e6-9faf-846a63ebcf76, host: turkish.levron.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: turkish.levron.pro:2088 3, server: turkish.levron.pro, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: 1b858811-9c5e-43e6-9faf-846a63ebcf76, host: turkish.levron.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 1bb38106-17fd-46e2-8559-a0cdf52b5243, host: "skyroom.online,gharar.ir,igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.6.9:14032, server: 2.144.6.9, port: 14032, type: vless, tls: true, packet-encoding: xudp, uuid: 1cf6792c-079e-44f9-a2ce-2c00feae74bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.60.228.73:80, server: 194.60.228.73, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1de3c813-46ff-4403-9339-5f1d2e1f97dd, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.116.71:443, server: 152.53.116.71, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e878456-0f00-4a85-99a6-1d69bdc62e3d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: L0T7BLyB6gtVckvnxryaK-GGd2XwgoJ3YFM9M8kXmho, short-id: 7554}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -644,6 +640,7 @@ proxies:
   - {name: flt.web7ghost.top:2095, server: flt.web7ghost.top, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 21d43aa8-3f0e-4c19-88fb-1705885bb2c6, host: flt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: frt.web7ghost.top:8080, server: frt.web7ghost.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 21d43aa8-3f0e-4c19-88fb-1705885bb2c6, host: frt.web7ghost.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.182.101.113:8443, server: 94.182.101.113, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 21e3e6bf-1f67-46f7-91d7-10d546faaa23, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 45.144.51.164:443, server: 45.144.51.164, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2292ece4-fccf-42af-9673-61e60eb79c51, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.136.135.172:41002, server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: 22d8e907-a875-43fc-9e3e-903ed801bb34, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.136.135.172:41002 2, server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: 22d8e907-a875-43fc-9e3e-903ed801bb34, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 65.109.221.209:49797, server: 65.109.221.209, port: 49797, type: vless, tls: true, packet-encoding: xudp, uuid: 24d75d1c-4745-4df6-80f9-4a0de7eb4b2f, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -659,6 +656,7 @@ proxies:
   - {name: 85.9.121.120:2087, server: 85.9.121.120, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 2b1159cc-20b0-beef-b794-64ed8e6b7198, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.241.192:2092, server: 94.183.241.192, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 2b1159cc-20b0-beef-b794-64ed8e6b7198, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tun1.vpsino.com:2096 2, server: tun1.vpsino.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 2b1159cc-20b0-beef-b794-64ed8e6b7198, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.183.180.51:7777, server: 94.183.180.51, port: 7777, type: vless, tls: true, packet-encoding: xudp, uuid: 2bb5074b-8cd6-4783-b213-87078f22baaf, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ed.piko-network.top:3306, server: ed.piko-network.top, port: 3306, type: vless, tls: true, packet-encoding: xudp, uuid: 2c6d95d6-773c-4d94-9302-a89959fad270, host: ed.piko-network.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: turbo.ncop.ir:2086, server: turbo.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: 2d31dafe-0300-40ba-8e18-9e75a32bf7b7, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.153.187:8443, server: 162.159.153.187, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd47d3e-62aa-479c-a5c2-34b4826f3773, servername: 52yunwang.dpdns.org, network: ws, ws-opts: {path: /, headers: {Host: 52yunwang.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -675,6 +673,7 @@ proxies:
   - {name: 209.102.207.205:2087, server: 209.102.207.205, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 337bf72e-bb79-4d5f-be3f-7822eb77100c, servername: TxLiD9gF4r.InDoSoXr.InFo, alpn: [h3%2Ch2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 209.102.207.205:443, server: 209.102.207.205, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 337bf72e-bb79-4d5f-be3f-7822eb77100c, servername: UtZ3i6X5i6.InDoSoXr.InFo, alpn: [h3%2Ch2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.58.241.172:443, server: 185.58.241.172, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 34cdc3ea-7a0c-4f3b-a599-271fd9a6a8bf, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 93.126.19.117:37449, server: 93.126.19.117, port: 37449, type: vless, tls: true, packet-encoding: xudp, uuid: 3574a6d1-ad41-47ab-ba3e-1ecc425fa6f6, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 140.248.159.164:80, server: 140.248.159.164, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3591d9e2-edbf-43f1-98dc-00eb607b8c46, network: ws, ws-opts: {path: /containers/fi, headers: {Host: kiram-to-harki-filter-kone.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 140.248.159.164:80 2, server: 140.248.159.164, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3591d9e2-edbf-43f1-98dc-00eb607b8c46, network: ws, ws-opts: {path: /containers/fi, headers: {Host: kiram-to-harki-filter-kone.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.197.236:9828, server: 85.133.197.236, port: 9828, type: vless, tls: true, packet-encoding: xudp, uuid: 3591d9e2-edbf-43f1-98dc-00eb607b8c46, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -768,8 +767,7 @@ proxies:
   - {name: 46.245.120.148:48393, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.120.148:48393 2, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.120.148:48393 3, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.245.120.148:48393 4, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.245.120.148:48393 5, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 46.245.120.148:48393 4, server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: test.spectrum.vu:443, server: test.spectrum.vu, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4bc7d558-1943-44de-bd82-56920bc9383e, servername: test.spectrum.vu, host: test.spectrum.vu, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v10.atlax.ir:59680, server: v10.atlax.ir, port: 59680, type: vless, tls: true, packet-encoding: xudp, uuid: 4ce367e8-89bf-43f7-a04d-d94bab948fc6, host: v10.atlax.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v10.atlax.ir:59680 2, server: v10.atlax.ir, port: 59680, type: vless, tls: true, packet-encoding: xudp, uuid: 4ce367e8-89bf-43f7-a04d-d94bab948fc6, host: v10.atlax.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -810,8 +808,6 @@ proxies:
   - {name: 4l.gexar.top:21791 2, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 5bd9a603-10cf-496a-be3e-edb89711e37e, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: melli.ciliko.ir:2096, server: melli.ciliko.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 5c5b3529-57b9-638b-9998-a2c0e4e26981, host: melli.ciliko.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.202.57:443, server: 172.66.202.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5db4fb64-d99f-4745-b550-9e937bd2f448, servername: steep-poetry-829c.false-mossy-caucus.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: steep-poetry-829c.false-mossy-caucus.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: pm5.vhuma.com:443 2, server: pm5.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5df01bcc-0540-452d-bdaa-3374821fa984, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: pm5.vhuma.com:443 3, server: pm5.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5df01bcc-0540-452d-bdaa-3374821fa984, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de-1-tun-single.starping1.fun:8083 2, server: de-1-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 5e5d004d-b55b-4184-b3bb-7e99cd58b4da, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dl.musicafricabepersianall.com:24490, server: dl.musicafricabepersianall.com, port: 24490, type: vless, tls: true, packet-encoding: xudp, uuid: 5e85fc0d-3d95-597a-ba56-78921e994f82, host: PuLaVPN.Net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ger2.md-teach.com:32075, server: ger2.md-teach.com, port: 32075, type: vless, tls: true, packet-encoding: xudp, uuid: 5ebdea60-0a8d-49cb-8644-99207335060b, host: parsabr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -820,18 +816,20 @@ proxies:
   - {name: nt5.vhuma.com:8443, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 60c4d266-1244-4354-837f-d42b9f51077b, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nt5.vhuma.com:8443 2, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 60c4d266-1244-4354-837f-d42b9f51077b, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nt5.vhuma.com:8443 3, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 60c4d266-1244-4354-837f-d42b9f51077b, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: nt5.vhuma.com:8443 4, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 60c4d266-1244-4354-837f-d42b9f51077b, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 135.84.74.118:443, server: 135.84.74.118, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.11.203.238:2096, server: 141.11.203.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.11.203.238:2096 2, server: 141.11.203.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.95.127.132:2053, server: 141.95.127.132, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 146.59.159.111:2053, server: 146.59.159.111, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.59.229.78:2053, server: 146.59.229.78, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 158.101.152.6:2919, server: 158.101.152.6, port: 2919, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 178.62.25.163:443, server: 178.62.25.163, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 190.93.244.138:2096, server: 190.93.244.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.233.133.76:2053, server: 193.233.133.76, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.32.187.62:443, server: 46.32.187.62, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳 @wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.38.227.72:2053, server: 51.38.227.72, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.91.100.9:8443, server: 51.91.100.9, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.91.103.130:8443, server: 51.91.103.130, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.218.78.167:443, server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 88.218.78.167:443 2, server: 88.218.78.167, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40.160.14.104:8880, server: 40.160.14.104, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 6251f84e-9c02-4140-921c-6b47d394fb96, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -845,7 +843,6 @@ proxies:
   - {name: afk.mrsf.ir:52477 2, server: afk.mrsf.ir, port: 52477, type: vless, tls: true, packet-encoding: xudp, uuid: 67bfe904-b4d4-41b2-a846-932c8f74bd43, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.153.68.212:50170, server: 18.153.68.212, port: 50170, type: vless, tls: true, packet-encoding: xudp, uuid: 67fd9d67-7693-4a28-e7a1-fb02c8008cef, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.38:443, server: 2.144.20.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6863526a-8c03-499d-8144-0087a9b78ab7, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.144.20.38:443 2, server: 2.144.20.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6863526a-8c03-499d-8144-0087a9b78ab7, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.250.22:2096, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.250.22:2096 2, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.66.44.211:2096, server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -876,6 +873,7 @@ proxies:
   - {name: rocket.unlimiteds.site:9874, server: rocket.unlimiteds.site, port: 9874, type: vless, tls: true, packet-encoding: xudp, uuid: 750a3613-ff1b-9bcc-d61a-3abe6dfcfec2, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: rocket.unlimiteds.site:9874 2, server: rocket.unlimiteds.site, port: 9874, type: vless, tls: true, packet-encoding: xudp, uuid: 750a3613-ff1b-9bcc-d61a-3abe6dfcfec2, servername: rocket.unlimiteds.site, host: rocket.unlimiteds.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: denew2.hexogate.com:5052, server: denew2.hexogate.com, port: 5052, type: vless, tls: true, packet-encoding: xudp, uuid: 753a71a8-53f5-44c1-851e-93d3eb642d89, servername: www.bing.com, host: www.bing.com, path: /, reality-opts: {public-key: G9VRKdI0lkkYaPWk80dAneuxi7Me9RspWZ86qDRBXlg, short-id: a9c3f17b5d2e8a01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.38.38.205:2096, server: 51.38.38.205, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb05.ava-shop.ir:2096, server: maxb05.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb06.ava-shop.ir:2096, server: maxb06.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: maxb08.ava-shop.ir:2096, server: maxb08.ava-shop.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 7553f8fe-2b75-4864-8717-00634a9e2e27, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: K0iITauuYEqIayR3IB5Ny8MVKyORDJ65rUSHc3tLe1E, short-id: 42c0b628ba6a42a9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -897,6 +895,7 @@ proxies:
   - {name: one.esrtz.onl:27792, server: one.esrtz.onl, port: 27792, type: vless, tls: true, packet-encoding: xudp, uuid: 7bf14157-e1a2-4963-becc-db4be4e1dfcf, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lord.socialxxmedia.pro:440 2, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7c607c15-6c0c-60e6-602e-08936fca83c3, servername: lord.socialxxmedia.pro, host: lord.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vip.new10server.ir:1300, server: vip.new10server.ir, port: 1300, type: vless, tls: true, packet-encoding: xudp, uuid: 7cd9d674-a3d7-49c0-83cd-6d1f9375ae69, host: namava.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lord.socialxxmedia.pro:440 3, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7de6208b-01fd-f02d-4a38-5b7541c4e14e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fn22.finuxmaster.shop:2095, server: fn22.finuxmaster.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 7e01bdb1-07b2-415d-abe4-e94e75f15dfc, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: srv-c0.netmaster.cam:8008, server: srv-c0.netmaster.cam, port: 8008, type: vless, tls: true, packet-encoding: xudp, uuid: 7e1d32bf-741f-30f3-1b0c-0452b695c07f, network: ws, ws-opts: {path: /, headers: {Host: srv-c0.netmaster.cam}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: srv-c0.netmaster.cam:8008 2, server: srv-c0.netmaster.cam, port: 8008, type: vless, tls: true, packet-encoding: xudp, uuid: 7e1d32bf-741f-30f3-1b0c-0452b695c07f, servername: 1, network: ws, ws-opts: {path: /, headers: {Host: 1}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -905,7 +904,6 @@ proxies:
   - {name: iran.oranicvip.ir:28797, server: iran.oranicvip.ir, port: 28797, type: vless, tls: true, packet-encoding: xudp, uuid: 7f58c3d5-88aa-4134-8ffc-8b0ec17608a8, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s2.mesterkit.com:52917, server: s2.mesterkit.com, port: 52917, type: vless, tls: true, packet-encoding: xudp, uuid: 7f8da1f9-2d1c-43d8-ae16-2222e0c5da6b, host: s2.mesterkit.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.26.211:7443, server: 45.139.26.211, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc953d6-ae75-46fb-a970-10b57d513487, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA, short-id: fd88bd27db4cc661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 87.107.100.220:2087, server: 87.107.100.220, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 80475de3-6356-4fce-99c7-ff080bbb1494, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de-2-tun.healingfluence.org:8081, server: de-2-tun.healingfluence.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 80662112-2307-4b95-9837-b3d1cc6c0dd2, host: cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: new-vip-meli2.nightgemshop.com:443, server: new-vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 808d297b-0901-46e0-8332-0af832e184ed, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: snapp.ir:443, server: snapp.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 815dba60-0b12-4be4-9106-33952667e63b, servername: snapp.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: "/?@V_P_N_Ahmad", headers: {Host: snapp.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -916,6 +914,7 @@ proxies:
   - {name: 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056, server: de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com, port: 2056, type: vless, tls: true, packet-encoding: xudp, uuid: 82341ecd-ec7a-47c3-94cf-ecc1cbeb146f, host: p30afzar.com, path: /info, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147, server: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 82341ecd-ec7a-47c3-94cf-ecc1cbeb146f, host: p30afzar.com, path: /info, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2, server: fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com, port: 2147, type: vless, tls: true, packet-encoding: xudp, uuid: 82341ecd-ec7a-47c3-94cf-ecc1cbeb146f, host: p30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 8271c871-d99a-482f-8a62-424ed02a8f8e, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.175.167.133:2096, server: 79.175.167.133, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 82c07b90-1a09-44d7-923a-3b564faaabd6, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.241.152:2026, server: 94.183.241.152, port: 2026, type: vless, tls: true, packet-encoding: xudp, uuid: 83222b14-5fff-45b0-f089-e81e4d507494, host: parsabr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 130.185.73.92:80, server: 130.185.73.92, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 84306d25-e61b-4f21-b55e-67ab6699060f, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -924,7 +923,6 @@ proxies:
   - {name: 62.60.212.199:443, server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.212.199:443 2, server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.212.199:443 3, server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 62.60.212.199:443 4, server: 62.60.212.199, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 870f0165-8308-4e53-b81f-8b54eaf03bd2, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.142.123:2096, server: 87.248.142.123, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 8716b6a0-b6af-476b-b684-838aec5d59c9, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4l.gexar.top:21791 3, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 874e8b40-81eb-4dd4-a6c6-cff516712908, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: sv6n.tsteamzd.top:10006, server: sv6n.tsteamzd.top, port: 10006, type: vless, tls: true, packet-encoding: xudp, uuid: 879ffe2f-d6cd-48b7-b7ec-458fb4b66148, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -943,7 +941,7 @@ proxies:
   - {name: 45.95.233.85:61873, server: 45.95.233.85, port: 61873, type: vless, tls: true, packet-encoding: xudp, uuid: 8b8f4dfb-cd48-4dab-bb75-b304971176cd, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE, short-id: 34d8e80d8fa40501}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 8bc21af8-96d9-48a9-9bd7-6361684bedac, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s112.ayxj.top:443, server: s112.ayxj.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e, servername: u708330u1799s112.ayxj.top, host: u708330u1799s112.ayxj.top, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s133.ayxj.top:443, server: s133.ayxj.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8c6118b9-78a8-3b3b-a49a-6aa9cb5b1d4e, servername: u708330u8661s133.ayxj.top, host: u708330u8661s133.ayxj.top, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.82.251.115:8880, server: 45.82.251.115, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -996,6 +994,7 @@ proxies:
   - {name: 4l.gexar.top:21791 5, server: 4l.gexar.top, port: 21791, type: vless, tls: true, packet-encoding: xudp, uuid: 9c39fe98-35a7-4ffb-ac58-2a21a4d23765, host: 4l.gexar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.241.192:2092 2, server: 94.183.241.192, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: 9d163cea-6469-ec2e-38b9-aa93eaa44333, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.145.119.216:8082, server: 194.145.119.216, port: 8082, type: vless, tls: true, packet-encoding: xudp, uuid: 9d78b6b9-bfaf-4f2f-b5b8-3051ee3f7722, host: virgool.io, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 79.175.167.147:80, server: 79.175.167.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9f366a3e-348c-492c-be54-4a0a6db94cc7, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: beta.tomandjery.eu:1002, server: beta.tomandjery.eu, port: 1002, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.tomandjery.eu:1003 2, server: www.tomandjery.eu, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: turkey.dehnavy.ir:36135, server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1011,7 +1010,6 @@ proxies:
   - {name: 212.34.142.191:8443, server: 212.34.142.191, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY, short-id: f7aa9e61197d3ac6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.fastsnap.info:29253, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.fastsnap.info:29253 2, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s1.fastsnap.info:29253 3, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: a6c79c8c-8682-4287-aabb-660143de38b7, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.149.66:80, server: 104.16.149.66, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.158.162:80, server: 104.16.158.162, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: a7444b2b-20fb-461f-9840-63e5c8c7d883, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: mute-violet-c674.poviy66273.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890, server: 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com, port: 890, type: vless, tls: true, packet-encoding: xudp, uuid: a7be5b32-3741-4b1b-9f17-c1e537de1a25, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1031,6 +1029,7 @@ proxies:
   - {name: 109.122.253.138:22109 2, server: 109.122.253.138, port: 22109, type: vless, tls: true, packet-encoding: xudp, uuid: af232a28-edaa-4e97-8acd-3ab58c412b83, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.12.92.125:5050, server: 81.12.92.125, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: b0787a37-4259-4bf5-800c-da0d4ae881bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: connected5.starpo5.ir:8080 3, server: connected5.starpo5.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: b083b539-a43a-44d1-a7dd-f90f94b9cfc6, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.243.49.69:14300, server: 185.243.49.69, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: b0b6e3ca-53d7-47a1-a08b-ab344542e36d, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 66.179.82.126:443, server: 66.179.82.126, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b1267991-59ff-4b67-b141-97e3ced4e7c8, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: 1xMt7stxzh55Xy31H180TZNMvRYNkhEE86StqE4CtDs, short-id: 2f2a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.37.186:2099, server: 78.157.37.186, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: b174b5d5-8cd7-4f2d-927a-f1a5ec309d36, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: vless}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: raycfz1.zeroping-game.click:3535, server: raycfz1.zeroping-game.click, port: 3535, type: vless, tls: true, packet-encoding: xudp, uuid: b26f122c-2802-4021-976a-79c0e1e55108, host: Bmw.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1093,13 +1092,14 @@ proxies:
   - {name: dyresp.aghayelabtab.ir:45982, server: dyresp.aghayelabtab.ir, port: 45982, type: vless, tls: true, packet-encoding: xudp, uuid: c6908070-e01a-415c-ae3c-0c65ec0310fe, host: mir-data-60.myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dyresp.aghayelabtab.ir:55674, server: dyresp.aghayelabtab.ir, port: 55674, type: vless, tls: true, packet-encoding: xudp, uuid: c6908070-e01a-415c-ae3c-0c65ec0310fe, host: mir-data-60.myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5, server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884, server: vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com, port: 884, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2, server: vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com, port: 884, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cigap.net%2Cgharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.175.149.236:1555, server: 79.175.149.236, port: 1555, type: vless, tls: true, packet-encoding: xudp, uuid: c7834148-21a6-454f-a2b9-339c73249f9c, host: snapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.149.168:8880 5, server: 94.183.149.168, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: c7dde489-9815-4b66-bab6-e806891f619b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de-5-tun-single.starping5.fun:8083 2, server: de-5-tun-single.starping5.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: c9360999-71a4-470f-b2a9-52446beea99c, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: titan.socialxxmedia.pro:1937 7, server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: c9f7b50d-0f3c-a1f1-a36e-015ce0112a28, servername: titan.socialxxmedia.pro, host: titan.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emergency2.layer-ziro.ir:2002 3, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: ca2358bb-25f0-43b9-bc67-c15faedfe78c, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gamix.ncop.ir:4421, server: gamix.ncop.ir, port: 4421, type: vless, tls: true, packet-encoding: xudp, uuid: ca255199-e960-4df8-b574-ba66a6b33b32, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.60.228.135:7710, server: 194.60.228.135, port: 7710, type: vless, tls: true, packet-encoding: xudp, uuid: ca9fe47c-2d84-4445-b2ff-36387c1aa948, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: qwemmqwoedmqwoemdoqwmedpmqwedmpm}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1173,13 +1173,19 @@ proxies:
   - {name: all.tellmethetrue.shop:443, server: all.tellmethetrue.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.176.134:7474, server: 94.183.176.134, port: 7474, type: vless, tls: true, packet-encoding: xudp, uuid: e48be4e6-04ee-4405-8749-4e8043202c0b, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.176.134:9533, server: 94.183.176.134, port: 9533, type: vless, tls: true, packet-encoding: xudp, uuid: e48be4e6-04ee-4405-8749-4e8043202c0b, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2087 2, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2092, server: tunn.vpsino.com, port: 2092, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tunn.vpsino.com:2096, server: tunn.vpsino.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: VIP2.xQFire.iR:811 2, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: e5424061-e80a-4a0f-ace7-60b95613b6f1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 207.244.199.177:443, server: 207.244.199.177, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5a33157-a449-4a25-8bd4-d2b02d66aa38, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de2.pink-service.ru:443, server: de2.pink-service.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e5a33157-a449-4a25-8bd4-d2b02d66aa38, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0, short-id: 86b80f1e713a33ad}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 141.101.121.23:2053, server: 141.101.121.23, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: e5f8a9f6-f164-479b-b3b5-b90f213c7145, servername: ir1.airpanel.top, network: ws, ws-opts: {path: /, headers: {Host: ir1.airpanel.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.89.18:443, server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.85.249.173:433, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: VIP2.xQFire.iR:811 2, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: e889fe48-471e-4e60-82f1-035d40541b4c, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: VIP2.xQFire.iR:811 3, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: e889fe48-471e-4e60-82f1-035d40541b4c, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: melli.tehransnr.com:443, server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.94.51.8:13380, server: 93.94.51.8, port: 13380, type: vless, tls: true, packet-encoding: xudp, uuid: e8fb0f43-3497-4ef3-8a89-35bae56549b7, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: JitkQnVQffSjGpth1UKvZP4yLX6HmcshmClfzbC70T4, short-id: 99de062f46387d3e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.250.3.29:7445, server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.221.52:3001, server: 85.133.221.52, port: 3001, type: vless, tls: true, packet-encoding: xudp, uuid: e9adbac6-90e1-4c1f-ad17-46226d45a262, host: fast.con, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: meli2.ertebatgoostar.ir:2087, server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ea6c0fde-2dc1-469d-b2dd-c660937345e1, host: meli2.ertebatgoostar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 152.53.66.46:443, server: 152.53.66.46, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -1188,8 +1194,8 @@ proxies:
   - {name: www.isna.ir:443, server: www.isna.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb9c6754-b112-4047-bb81-1027dc4b9540, servername: www.isna.ir, alpn: [http%2F1.1], network: ws, ws-opts: {path: /---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN, headers: {Host: www.isna.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.92.182.230:443, server: 91.92.182.230, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec47e192-ce21-4204-9d2e-7720f9acd8f7, host: rex.parhamm1.ir, path: /sibzaminiz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.92.182.230:443 2, server: 91.92.182.230, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec47e192-ce21-4204-9d2e-7720f9acd8f7, host: rex.parhamm1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: s1.fastsnap.info:29253 3, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.fastsnap.info:29253 4, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: s1.fastsnap.info:29253 5, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mtnx.ircf.space:8443, server: mtnx.ircf.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: eca9ff44-edfa-4071-cadb-6c4b51e776fc, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mp.kharazmi.top:30086, server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.241.82:1000 4, server: 94.183.241.82, port: 1000, type: vless, tls: true, packet-encoding: xudp, uuid: ece350a5-35d4-47fa-a5d7-9dd60409634a, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1209,13 +1215,14 @@ proxies:
   - {name: webb.gdsrguydsrghj.ir:3000, server: webb.gdsrguydsrghj.ir, port: 3000, type: vless, tls: true, packet-encoding: xudp, uuid: f164e068-c4d4-4603-a814-ff850c1da651, host: webb.gdsrguydsrghj.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.12.114.73:8443, server: 45.12.114.73, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f1e74548-4c0b-463b-b68d-0d1ec48c965d, servername: rus21.unboundworld.org, network: ws, ws-opts: {path: /ws-vless/, headers: {Host: rus21.unboundworld.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: VIP2.xQFire.iR:811 3, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: VIP2.xQFire.iR:811 4, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: VIP2.xQFire.iR:811 5, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.153.4:443, server: 162.159.153.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f2a73750-3087-48ff-a763-1348c15dce68, servername: rAyAn-007.mAxImA.DpDnS.OrG, network: ws, ws-opts: {path: /, headers: {Host: rAyAn-007.mAxImA.DpDnS.OrG}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gold.blackraven.ir:56946, server: gold.blackraven.ir, port: 56946, type: vless, tls: true, packet-encoding: xudp, uuid: f3d50633-c079-4005-a1eb-e905ceecc88f, host: gold.blackraven.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 germany.digionline2.com:1003, server: germany.digionline2.com, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: f47de597-c323-45a6-c92d-dd3b6c6f8b41, host: germany.digionline2.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 germany.digionline2.com:1003 2, server: germany.digionline2.com, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: f47de597-c323-45a6-c92d-dd3b6c6f8b41, host: germany.digionline2.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: titan.socialxxmedia.pro:1937 7, server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: f59cb954-d3b1-4075-aafb-b1ebfad2833c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 185.136.135.172:41002 3, server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: titan.socialxxmedia.pro:1937 8, server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: f59cb954-d3b1-4075-aafb-b1ebfad2833c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62.60.192.209:80, server: 62.60.192.209, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f5f2458c-5fcb-4820-82c2-2997492c54d5, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr1.miyazono-kaori.com:443, server: fr1.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: www.lvmh.com, host: www.lvmh.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc, short-id: 65ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emergency2.layer-ziro.ir:2002 5, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f6f63745-ec4a-4fa7-bac4-04aa571a4ae0, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -1246,7 +1253,7 @@ proxies:
   - {name: 1.iran2.axenet.company:1120, server: 1.iran2.axenet.company, port: 1120, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: a.vipnamusic.sbs:8080, server: a.vipnamusic.sbs, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: fed939d1-6e3f-4f1b-8455-1d81468a34a6, host: a.vipnamusic.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cdn.giftino.top:443, server: cdn.giftino.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ff05f8b5-a07e-4b6d-9a47-e4f5fcf76f09, network: ws, ws-opts: {path: /, headers: {Host: digikala.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: lord.socialxxmedia.pro:440 3, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: ff236795-8582-1faa-9209-d9ea7e577b1e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: lord.socialxxmedia.pro:440 4, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: ff236795-8582-1faa-9209-d9ea7e577b1e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ir9knu.smrfy.online:38902, server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: ff344491-10d4-44da-9b47-c1066b93eec3, host: trexplus.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.208.170.142:1500 2, server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: sGLzG6kUwBpZd73sW0nq, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -1273,7 +1280,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -1285,7 +1291,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -1312,7 +1317,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -1329,7 +1333,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -1355,7 +1358,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -1433,6 +1435,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -1444,6 +1447,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -1459,6 +1463,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -1475,6 +1480,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -1569,7 +1575,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -1610,8 +1615,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -1620,18 +1623,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -1645,7 +1650,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -1676,6 +1680,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -1697,6 +1702,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -1705,7 +1711,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -1716,6 +1721,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -1724,7 +1730,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -1743,7 +1748,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -1796,6 +1801,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -1811,7 +1817,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -1831,6 +1836,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -1893,13 +1899,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -1973,13 +1980,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -1988,8 +2001,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -2009,13 +2022,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -2046,7 +2060,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: خودکار (بهترین پینگ) 🤖
@@ -2063,7 +2077,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -2075,7 +2088,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -2102,7 +2114,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -2119,7 +2130,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -2145,7 +2155,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -2223,6 +2232,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -2234,6 +2244,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -2249,6 +2260,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -2265,6 +2277,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -2359,7 +2372,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -2400,8 +2412,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -2410,18 +2420,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -2435,7 +2447,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -2466,6 +2477,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -2487,6 +2499,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -2495,7 +2508,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -2506,6 +2518,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -2514,7 +2527,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -2533,7 +2545,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -2586,6 +2598,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -2601,7 +2614,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -2621,6 +2633,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -2683,13 +2696,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -2763,13 +2777,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -2778,8 +2798,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -2799,13 +2819,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -2836,7 +2857,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -2853,7 +2874,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -2865,7 +2885,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -2892,7 +2911,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -2909,7 +2927,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -2935,7 +2952,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -3013,6 +3029,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -3024,6 +3041,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -3039,6 +3057,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -3055,6 +3074,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -3149,7 +3169,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -3190,8 +3209,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -3200,18 +3217,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -3225,7 +3244,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -3256,6 +3274,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -3277,6 +3296,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -3285,7 +3305,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -3296,6 +3315,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -3304,7 +3324,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -3323,7 +3342,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -3376,6 +3395,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -3391,7 +3411,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -3411,6 +3430,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -3473,13 +3493,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -3553,13 +3574,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -3568,8 +3595,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -3589,13 +3616,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -3626,7 +3654,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: اتصال پایدار 🔗
@@ -3652,7 +3680,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -3664,7 +3691,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -3691,7 +3717,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -3708,7 +3733,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -3734,7 +3758,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -3812,6 +3835,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -3823,6 +3847,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -3838,6 +3863,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -3854,6 +3880,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -3948,7 +3975,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -3989,8 +4015,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -3999,18 +4023,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -4024,7 +4050,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -4055,6 +4080,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -4076,6 +4102,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -4084,7 +4111,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -4095,6 +4121,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -4103,7 +4130,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -4122,7 +4148,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -4175,6 +4201,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -4190,7 +4217,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -4210,6 +4236,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -4272,13 +4299,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -4352,13 +4380,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -4367,8 +4401,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -4388,13 +4422,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -4425,7 +4460,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: توزیع بار (گردشی) 🔁
@@ -4442,7 +4477,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -4454,7 +4488,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -4481,7 +4514,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -4498,7 +4530,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -4524,7 +4555,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -4602,6 +4632,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -4613,6 +4644,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -4628,6 +4660,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -4644,6 +4677,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -4738,7 +4772,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -4779,8 +4812,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -4789,18 +4820,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -4814,7 +4847,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -4845,6 +4877,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -4866,6 +4899,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -4874,7 +4908,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -4885,6 +4918,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -4893,7 +4927,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -4912,7 +4945,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -4965,6 +4998,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -4980,7 +5014,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -5000,6 +5033,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -5062,13 +5096,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -5142,13 +5177,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -5157,8 +5198,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -5178,13 +5219,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -5215,7 +5257,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: توزیع بار (موقت) ⏳
@@ -5232,7 +5274,6 @@ proxy-groups:
       - 38.54.59.16:11201
       - 141.95.106.127:11201
       - 45.80.231.75:31019
-      - 46.246.97.140:53908
       - 57.129.140.88:8388
       - 57.129.140.88:8388 2
       - 91.107.144.0:1080
@@ -5244,7 +5285,6 @@ proxy-groups:
       - 103.186.155.215:38388
       - 38.180.197.41:8080
       - 154.38.176.7:80
-      - 35.86.124.243:6688
       - 149.28.151.140:443
       - 141.101.113.223:8443
       - 190.93.244.43:8443
@@ -5271,7 +5311,6 @@ proxy-groups:
       - 15.236.135.208:22223
       - 15.236.44.47:22223
       - 3.124.229.240:22223
-      - 3.79.158.4:22223
       - 35.181.164.194:22223
       - 51.44.109.231:22223
       - 52.47.37.116:22223
@@ -5288,7 +5327,6 @@ proxy-groups:
       - 15.236.135.208:22222
       - 15.236.44.47:22222
       - 3.124.229.240:22222
-      - 3.79.158.4:22222
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.47.37.116:22222
@@ -5314,7 +5352,6 @@ proxy-groups:
       - 15.236.135.208:22224
       - 15.236.44.47:22224
       - 3.124.229.240:22224
-      - 3.79.158.4:22224
       - 35.181.164.194:22224
       - 51.44.109.231:22224
       - 52.47.37.116:22224
@@ -5392,6 +5429,7 @@ proxy-groups:
       - turbo.unlimiteds.site:550
       - turkish.levron.pro:2088 2
       - turkish.levron.pro:2088 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - 2.144.6.9:14032
       - 194.60.228.73:80
       - 152.53.116.71:443
@@ -5403,6 +5441,7 @@ proxy-groups:
       - flt.web7ghost.top:2095
       - frt.web7ghost.top:8080
       - 94.182.101.113:8443
+      - 45.144.51.164:443
       - 185.136.135.172:41002
       - 185.136.135.172:41002 2
       - 65.109.221.209:49797
@@ -5418,6 +5457,7 @@ proxy-groups:
       - 85.9.121.120:2087
       - 94.183.241.192:2092
       - tun1.vpsino.com:2096 2
+      - 94.183.180.51:7777
       - ed.piko-network.top:3306
       - turbo.ncop.ir:2086
       - 162.159.153.187:8443
@@ -5434,6 +5474,7 @@ proxy-groups:
       - 209.102.207.205:2087
       - 209.102.207.205:443
       - 185.58.241.172:443
+      - 93.126.19.117:37449
       - 140.248.159.164:80
       - 140.248.159.164:80 2
       - 85.133.197.236:9828
@@ -5528,7 +5569,6 @@ proxy-groups:
       - 46.245.120.148:48393 2
       - 46.245.120.148:48393 3
       - 46.245.120.148:48393 4
-      - 46.245.120.148:48393 5
       - test.spectrum.vu:443
       - v10.atlax.ir:59680
       - v10.atlax.ir:59680 2
@@ -5569,8 +5609,6 @@ proxy-groups:
       - 4l.gexar.top:21791 2
       - melli.ciliko.ir:2096
       - 172.66.202.57:443
-      - pm5.vhuma.com:443 2
-      - pm5.vhuma.com:443 3
       - 🇩🇪 de-1-tun-single.starping1.fun:8083 2
       - dl.musicafricabepersianall.com:24490
       - ger2.md-teach.com:32075
@@ -5579,18 +5617,20 @@ proxy-groups:
       - nt5.vhuma.com:8443
       - nt5.vhuma.com:8443 2
       - nt5.vhuma.com:8443 3
-      - nt5.vhuma.com:8443 4
       - 135.84.74.118:443
       - 141.11.203.238:2096
       - 141.11.203.238:2096 2
       - 141.95.127.132:2053
+      - 146.59.159.111:2053
       - 146.59.229.78:2053
       - 158.101.152.6:2919
       - 178.62.25.163:443
       - 190.93.244.138:2096
       - 193.233.133.76:2053
       - 46.32.187.62:443
+      - 51.38.227.72:2053
       - 51.91.100.9:8443
+      - 51.91.103.130:8443
       - 88.218.78.167:443
       - 88.218.78.167:443 2
       - 40.160.14.104:8880
@@ -5604,7 +5644,6 @@ proxy-groups:
       - afk.mrsf.ir:52477 2
       - 18.153.68.212:50170
       - 2.144.20.38:443
-      - 2.144.20.38:443 2
       - 104.16.250.22:2096
       - 104.16.250.22:2096 2
       - 172.66.44.211:2096
@@ -5635,6 +5674,7 @@ proxy-groups:
       - rocket.unlimiteds.site:9874
       - rocket.unlimiteds.site:9874 2
       - denew2.hexogate.com:5052
+      - 51.38.38.205:2096
       - maxb05.ava-shop.ir:2096
       - maxb06.ava-shop.ir:2096
       - maxb08.ava-shop.ir:2096
@@ -5656,6 +5696,7 @@ proxy-groups:
       - one.esrtz.onl:27792
       - lord.socialxxmedia.pro:440 2
       - vip.new10server.ir:1300
+      - lord.socialxxmedia.pro:440 3
       - fn22.finuxmaster.shop:2095
       - srv-c0.netmaster.cam:8008
       - srv-c0.netmaster.cam:8008 2
@@ -5664,7 +5705,6 @@ proxy-groups:
       - iran.oranicvip.ir:28797
       - s2.mesterkit.com:52917
       - 45.139.26.211:7443
-      - 87.107.100.220:2087
       - 🇩🇪 de-2-tun.healingfluence.org:8081
       - new-vip-meli2.nightgemshop.com:443
       - snapp.ir:443
@@ -5675,6 +5715,7 @@ proxy-groups:
       - 🇩🇪 de11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2056
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147
       - fl11.xn--fjqyexxidv2znoe9rk1n8agb1e05q.xn--6qq79v59whul.com:2147 2
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
       - 79.175.167.133:2096
       - 94.183.241.152:2026
       - 130.185.73.92:80
@@ -5683,7 +5724,6 @@ proxy-groups:
       - 62.60.212.199:443
       - 62.60.212.199:443 2
       - 62.60.212.199:443 3
-      - 62.60.212.199:443 4
       - 87.248.142.123:2096
       - 4l.gexar.top:21791 3
       - sv6n.tsteamzd.top:10006
@@ -5702,7 +5742,7 @@ proxy-groups:
       - 45.95.233.85:61873
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
       - s112.ayxj.top:443
       - s133.ayxj.top:443
       - 45.82.251.115:8880
@@ -5755,6 +5795,7 @@ proxy-groups:
       - 4l.gexar.top:21791 5
       - 94.183.241.192:2092 2
       - 194.145.119.216:8082
+      - 79.175.167.147:80
       - beta.tomandjery.eu:1002
       - www.tomandjery.eu:1003 2
       - turkey.dehnavy.ir:36135
@@ -5770,7 +5811,6 @@ proxy-groups:
       - 212.34.142.191:8443
       - s1.fastsnap.info:29253
       - s1.fastsnap.info:29253 2
-      - s1.fastsnap.info:29253 3
       - 104.16.149.66:80
       - 104.16.158.162:80
       - 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890
@@ -5790,6 +5830,7 @@ proxy-groups:
       - 109.122.253.138:22109 2
       - 81.12.92.125:5050
       - connected5.starpo5.ir:8080 3
+      - 185.243.49.69:14300
       - 66.179.82.126:443
       - 78.157.37.186:2099
       - raycfz1.zeroping-game.click:3535
@@ -5852,13 +5893,14 @@ proxy-groups:
       - dyresp.aghayelabtab.ir:45982
       - dyresp.aghayelabtab.ir:55674
       - 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882 5
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 2
-      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 3
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 4
+      - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883 5
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884
       - vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884 2
       - 79.175.149.236:1555
       - 94.183.149.168:8880 5
       - 🇩🇪 de-5-tun-single.starping5.fun:8083 2
+      - titan.socialxxmedia.pro:1937 7
       - emergency2.layer-ziro.ir:2002 3
       - gamix.ncop.ir:4421
       - 194.60.228.135:7710
@@ -5932,13 +5974,19 @@ proxy-groups:
       - all.tellmethetrue.shop:443
       - 94.183.176.134:7474
       - 94.183.176.134:9533
+      - tunn.vpsino.com:2087 2
+      - tunn.vpsino.com:2092
+      - tunn.vpsino.com:2096
+      - VIP2.xQFire.iR:811 2
       - 207.244.199.177:443
       - 🇩🇪 de2.pink-service.ru:443
+      - 141.101.121.23:2053
       - 104.16.89.18:443
       - 194.85.249.173:433
-      - VIP2.xQFire.iR:811 2
+      - VIP2.xQFire.iR:811 3
       - melli.tehransnr.com:443
       - 93.94.51.8:13380
+      - 51.250.3.29:7445
       - 85.133.221.52:3001
       - meli2.ertebatgoostar.ir:2087
       - 152.53.66.46:443
@@ -5947,8 +5995,8 @@ proxy-groups:
       - www.isna.ir:443
       - 91.92.182.230:443
       - 91.92.182.230:443 2
+      - s1.fastsnap.info:29253 3
       - s1.fastsnap.info:29253 4
-      - s1.fastsnap.info:29253 5
       - mtnx.ircf.space:8443
       - mp.kharazmi.top:30086
       - 94.183.241.82:1000 4
@@ -5968,13 +6016,14 @@ proxy-groups:
       - webb.gdsrguydsrghj.ir:3000
       - 45.12.114.73:8443
       - www.speedtest.net:443
-      - VIP2.xQFire.iR:811 3
       - VIP2.xQFire.iR:811 4
+      - VIP2.xQFire.iR:811 5
       - 162.159.153.4:443
       - gold.blackraven.ir:56946
       - 🇩🇪 germany.digionline2.com:1003
       - 🇩🇪 germany.digionline2.com:1003 2
-      - titan.socialxxmedia.pro:1937 7
+      - 185.136.135.172:41002 3
+      - titan.socialxxmedia.pro:1937 8
       - 62.60.192.209:80
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - emergency2.layer-ziro.ir:2002 5
@@ -6005,7 +6054,7 @@ proxy-groups:
       - 1.iran2.axenet.company:1120
       - a.vipnamusic.sbs:8080
       - cdn.giftino.top:443
-      - lord.socialxxmedia.pro:440 3
+      - lord.socialxxmedia.pro:440 4
       - ir9knu.smrfy.online:38902
       - 81.208.170.142:1500 2
   - name: دانلود منیجر 📥

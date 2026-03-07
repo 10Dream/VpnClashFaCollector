@@ -480,7 +480,6 @@ proxies:
   - {name: 81.91.147.130:8095 2, server: 81.91.147.130, port: 8095, type: socks5, username: Aryan va dostash, password: aryan, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.91.147.130:8095 3, server: 81.91.147.130, port: 8095, type: socks5, username: Aryanvadostash, password: aryan, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bot.rayopoder.top:1433, server: bot.rayopoder.top, port: 1433, type: socks5, username: as, password: as, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇨🇦 canada.cloudflaaa.ir:57410, server: canada.cloudflaaa.ir, port: 57410, type: socks5, username: ofu, password: ofu, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-3.qcluster.org:4585, server: tel-pro-3.qcluster.org, port: 4585, type: socks5, username: Mahdi, password: Aa123456, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -513,7 +512,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -536,7 +534,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -559,7 +556,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: اتصال پایدار 🔗
     type: url-test
@@ -591,7 +587,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -614,7 +609,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -637,7 +631,6 @@ proxy-groups:
       - 81.91.147.130:8095 2
       - 81.91.147.130:8095 3
       - bot.rayopoder.top:1433
-      - 🇨🇦 canada.cloudflaaa.ir:57410
       - tel-pro-3.qcluster.org:4585
   - name: دانلود منیجر 📥
     type: select

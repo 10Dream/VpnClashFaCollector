@@ -467,13 +467,7 @@ rule-providers:
 proxies:
   - {name: Ae_proxy 205`, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: Ae_proxy 488`, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad", server: 104.16.190.233, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@filembad 2", server: 141.101.113.223, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@filembad 3", server: 141.101.114.68, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@filembad 4", server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: 198.41.200.74, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: "@iicenet", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: 253817a2-f6ed-4701-919d-89ec5caa8d63, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 6", server: 185.97.119.239, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 423c14e1-9879-4335-b371-e582ce0dbc14, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@kamkarstore`", server: 109.95.67.200, port: 25443, type: vless, tls: true, packet-encoding: xudp, uuid: 424b84b4-cd57-42eb-b1e0-5b618ffcb822, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iicenet 2", server: tr1.iranishops.com, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 5cf2426d-df2b-4a12-a7f8-ab740aebcb87, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ae_proxy 154`, server: 141.95.127.132, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -490,11 +484,9 @@ proxies:
   - {name: "@ViP_FragMent_v2ray 4", server: 6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com, port: 882, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ViP_FragMent_v2ray 5", server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ViP_FragMent_v2ray 6", server: vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com, port: 884, type: vless, tls: true, packet-encoding: xudp, uuid: c723ad72-c8b5-4d7b-aea5-2aa7c007fee3, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 7", server: st3.zlpmsa.top, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: d3663563-d1b8-42c3-b194-f5e9ed52b4fa, host: isna.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ViP_FragMent_v2ray*", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 8", server: ir9knu.smrfy.online, port: 38902, type: vless, tls: true, packet-encoding: xudp, uuid: fe61e11e-6a2a-45c9-a1f9-c587b1ef8875, host: trexplus.org%2Crubika.ir%2Csoft98.ir%2Csnapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@iicenet 6", server: 185.222.210.50, port: 80, type: vmess, uuid: fa938671-3109-4b2f-8689-9c537c2023d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 9", server: v.xix.onl, port: 443, type: vmess, uuid: 5c55e475-15ed-481a-a47e-e83bff5d6906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: v.xix.onl, port: 443, type: vmess, uuid: 5c55e475-15ed-481a-a47e-e83bff5d6906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ViP_FragMent_v2ray 7", server: DEU.IPSENTER.NET, port: 443, type: vmess, uuid: 3b38b729-981f-4f23-8746-7358c6282e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -514,13 +506,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -537,11 +523,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -551,13 +535,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -574,11 +552,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -588,13 +564,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -611,11 +581,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -634,13 +602,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -657,11 +619,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -671,13 +631,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -694,11 +648,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -708,13 +660,7 @@ proxy-groups:
     proxies:
       - Ae_proxy 205`
       - Ae_proxy 488`
-      - "@filembad"
-      - "@filembad 2"
-      - "@filembad 3"
-      - "@filembad 4"
-      - "@filembad 5"
       - "@iicenet"
-      - "@filembad 6"
       - "@kamkarstore`"
       - "@iicenet 2"
       - Ae_proxy 154`
@@ -731,11 +677,9 @@ proxy-groups:
       - "@ViP_FragMent_v2ray 4"
       - "@ViP_FragMent_v2ray 5"
       - "@ViP_FragMent_v2ray 6"
-      - "@filembad 7"
       - "@ViP_FragMent_v2ray*"
-      - "@filembad 8"
       - "@iicenet 6"
-      - "@filembad 9"
+      - "@filembad"
       - "@ViP_FragMent_v2ray 7"
   - name: دانلود منیجر 📥
     type: select

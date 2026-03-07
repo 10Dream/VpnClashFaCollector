@@ -467,11 +467,8 @@ rule-providers:
 proxies:
   - {name: 107.174.181.241:65160, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Hysteria-TLS |`, server: 107.174.181.241, port: 65160, type: hysteria2, ports: 65160, password: 0b8a288c, sni: en.snu.ac.kr, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 💜TEL●@KIA_NET💜`, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 💜TEL●@KIA_NET💜, server: 206.71.158.23, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands | TLS • Salamander, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.175.249.174:35000, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 Germany | TLS • Salamander, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜, server: 5.175.249.174, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org%40freenettir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 8⚛️@oneclickvpnkeys, server: 66.154.127.121, port: 443, type: hysteria2, ports: 443, password: ilikecs123%21, sni: cloudcone.wolfmoss.top, skip-cert-verify: false, udp: true, tfo: false}
@@ -493,11 +490,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
@@ -509,11 +503,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
@@ -525,11 +516,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
@@ -550,11 +538,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
@@ -566,11 +551,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
@@ -582,11 +564,8 @@ proxy-groups:
     proxies:
       - 107.174.181.241:65160
       - Hysteria-TLS |`
-      - 💜TEL●@KIA_NET💜`
-      - 💜TEL●@KIA_NET💜
       - 🇳🇱 Netherlands | TLS • Salamander
       - 5.175.249.174:35000
-      - "@filembad`"
       - 🇩🇪 Germany | TLS • Salamander
       - 🇩🇪 Germany | TLS • 💜TEL●@KIA_NET💜
       - 8⚛️@oneclickvpnkeys
