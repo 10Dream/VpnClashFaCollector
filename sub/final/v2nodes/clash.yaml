@@ -492,7 +492,6 @@ proxies:
   - {name: 15.188.164.131:22222, server: 15.188.164.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.229.240:22222, server: 3.124.229.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.109.231:22222, server: 51.44.109.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.47.37.116:22222, server: 52.47.37.116, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.63.206:22222, server: 63.183.63.206, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 squad-2-de.vps-m.ru:443, server: squad-2-de.vps-m.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0509acee-63e3-4364-95cc-21c601f059be, servername: booking.com, host: booking.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.189.87:443, server: 109.120.189.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3e2d21-f31b-07d0-b418-54cacd0be7c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -529,7 +528,6 @@ proxies:
   - {name: 217.13.105.19:7443, server: 217.13.105.19, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 928beba1-eef6-478a-b06f-db6bc020e078, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 179.43.176.216:443, server: 179.43.176.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38.180.91.119:2053, server: 38.180.91.119, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇷🇺 ru.crunch-crunch.com:443, server: ru.crunch-crunch.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 95be7de0-2394-47b8-aa2c-27773d61807f, servername: ru.crunch-crunch.com, host: ru.crunch-crunch.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: djTtGqd0XWqtt_WHukU7BTPQSn9o7gIpAosAxMy8tUo, short-id: ea1058117be12087}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.156.102.53:8443, server: 194.156.102.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.57.28.209:8443, server: 31.57.28.209, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.242.229.129:4443, server: 91.242.229.129, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c, servername: nl18.fastlanehosting.ru, alpn: ["h2,http/1.1"], host: nl18.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -592,7 +590,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -629,7 +626,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443
@@ -682,7 +678,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -719,7 +714,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443
@@ -772,7 +766,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -809,7 +802,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443
@@ -871,7 +863,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -908,7 +899,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443
@@ -961,7 +951,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -998,7 +987,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443
@@ -1051,7 +1039,6 @@ proxy-groups:
       - 15.188.164.131:22222
       - 3.124.229.240:22222
       - 51.44.109.231:22222
-      - 52.47.37.116:22222
       - 63.183.63.206:22222
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
@@ -1088,7 +1075,6 @@ proxy-groups:
       - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 🇷🇺 ru.crunch-crunch.com:443
       - 194.156.102.53:8443
       - 31.57.28.209:8443
       - 91.242.229.129:4443

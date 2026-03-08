@@ -474,10 +474,10 @@ proxies:
   - {name: 37.152.191.138:1080, server: 37.152.191.138, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5hproxyservice, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852 2, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5skyportall, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 46.209.44.2:6302, server: 46.209.44.2, port: 6302, type: socks5, username: anten, password: Anten@#8900, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.186:2026, server: 79.127.32.186, port: 2026, type: socks5, username: reza, password: !<str> 561440, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.189:38742, server: 79.127.32.189, port: 38742, type: socks5, username: 1414, password: !<str> 2026, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.91.147.130:8095, server: 81.91.147.130, port: 8095, type: socks5, username: Aryan va dostash, password: aryan, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 85.133.237.27:1080, server: 85.133.237.27, port: 1080, type: socks5, username: ashkan, password: a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bot.rayopoder.top:1433, server: bot.rayopoder.top, port: 1433, type: socks5, username: as, password: as, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-3.qcluster.org:4585, server: tel-pro-3.qcluster.org, port: 4585, type: socks5, username: Mahdi, password: Aa123456, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -505,10 +505,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
@@ -526,10 +526,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -547,10 +547,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: اتصال پایدار 🔗
@@ -577,10 +577,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
@@ -598,10 +598,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
@@ -619,10 +619,10 @@ proxy-groups:
       - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
-      - 46.209.44.2:6302
       - 79.127.32.186:2026
       - 79.127.32.189:38742
       - 81.91.147.130:8095
+      - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
   - name: دانلود منیجر 📥

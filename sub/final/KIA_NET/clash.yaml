@@ -522,12 +522,10 @@ proxies:
   - {name: "@KIA_NET 3", server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 06c7a413-6c2d-e356-d0df-d4ac594a24f1, servername: 54.38.242.158, host: 54.38.242.158, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇳🇴]💜TEL●@KIA_NET💜`", server: nr-01.opsvpnvless.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1218c022-dca8-49e5-b7d4-a04f3023db81, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0, short-id: 4e249e62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇹🇷]KIA_NET", server: ir-www-germani1.khabarkamkwww.fun, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 18164b40-8a2d-46f8-b758-bf6c87cb5e9e, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]💜TEL●@KIA_NET💜", server: khaneh.berozsho.click, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1893673b-0802-445a-9b0e-7de8d9991359, host: filmnet.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]⭐️Tel@Kia_Net🌟`", server: entekhabat.iran.asiatech.numtwo.iranvatanam.com, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 19542a29-e734-41c9-b372-b30286a61048, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷] 2", server: 194.60.228.73, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1de3c813-46ff-4403-9339-5f1d2e1f97dd, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: TEL●@KIA_NET💜` 2, server: neth15.youtuber-vps.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20a70054-8d93-4c8c-b8f0-d1113f431daf, servername: neth15.youtuber-vps.com, host: neth15.youtuber-vps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY, short-id: b95d09fc94955ba4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: TEL●@KIA_NET💜 2, server: BloG2.taNUpload.tOp, port: 62443, type: vless, tls: true, packet-encoding: xudp, uuid: 22539a4e-2975-4586-99a4-2bfaeb9ccd2b, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇫🇮]💜TEL●@KIA_NET💜", server: 65.109.221.209, port: 49797, type: vless, tls: true, packet-encoding: xudp, uuid: 24d75d1c-4745-4df6-80f9-4a0de7eb4b2f, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 11, server: s3.tomandjery.eu, port: 1004, type: vless, tls: true, packet-encoding: xudp, uuid: 280c9ff0-7efd-449f-818e-fe46b21aeafe, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 12, server: www.tomandjery.eu, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 280c9ff0-7efd-449f-818e-fe46b21aeafe, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: اخ, server: 94.182.101.117, port: 43376, type: vless, tls: true, packet-encoding: xudp, uuid: 2ea02884-a2bc-4bf2-bb8a-949e7cf69d01, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -541,9 +539,8 @@ proxies:
   - {name: �…, server: 45.15.147.2, port: 21443, type: vless, tls: true, packet-encoding: xudp, uuid: 42a7df85-0739-4760-a248-32a491abfa2a, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg, short-id: 86e999a2cdc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟`, server: vpnstar3.lithiumhost.ir, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 43bfe589-bbcf-4288-ace6-02f5e0124a42, host: vpnstar3.lithiumhost.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]KIA_NET` 2", server: ge.configfast.site, port: 3013, type: vless, tls: true, packet-encoding: xudp, uuid: 47d440a1-83ac-4d0f-b2b4-e51a8526f55a, host: bale.ai%2Cweb.splus.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 2", server: 185.141.107.110, port: 11178, type: vless, tls: true, packet-encoding: xudp, uuid: 49855d97-2d13-453b-84b7-1d94af760777, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]💜TEL●@KIA_NET💜", server: 185.141.107.110, port: 11178, type: vless, tls: true, packet-encoding: xudp, uuid: 49855d97-2d13-453b-84b7-1d94af760777, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]⭐️Tel@Kia_Net🌟", server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 3", server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]💜TEL●@KIA_NET💜`", server: 46.245.120.148, port: 48393, type: vless, tls: true, packet-encoding: xudp, uuid: 49a10d26-d2af-4d72-8c7a-12590eb423f9, host: uptvs.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]KIA_NET` 3", server: 109.95.65.242, port: 900, type: vless, tls: true, packet-encoding: xudp, uuid: 4dd14167-ddce-49d1-8322-133e82c0cbfb, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇩🇪]KIA_NET` 2", server: 185.136.135.164, port: 8086, type: vless, tls: true, packet-encoding: xudp, uuid: 541de3b2-5b5f-4e27-b671-f32b28b811af, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -567,7 +564,6 @@ proxies:
   - {name: "[🇮🇷]💜TEL●@KIA_NET💜` 3", server: rocket.unlimiteds.site, port: 9874, type: vless, tls: true, packet-encoding: xudp, uuid: 750a3613-ff1b-9bcc-d61a-3abe6dfcfec2, servername: rocket.unlimiteds.site, host: rocket.unlimiteds.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET`", server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇧🇦 Bosnia and Herzegovina — #38", server: 45.15.178.124, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 75e1fde7-6bf6-48ef-ba43-400e960e185b, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇨🇦]💜TEL●@KIA_NET💜 2", server: 172.64.145.202, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 77777777-6663-4ef2-b26b-ed2d70642678, servername: afxmsv51.fx02.ccwu.cc, network: ws, ws-opts: {path: /, headers: {Host: afxmsv51.fx02.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 💜TEL●@KIA_NET💜`, server: F3.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 7879ee88-d3b1-4553-9c09-bfcde879c97a, servername: uktkq.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uktkq.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 14, server: hol.emshabshabe.ir, port: 442, type: vless, tls: true, packet-encoding: xudp, uuid: 78f027b7-440f-4473-9cad-3ff01bc3e9a5, host: hol.emshabshabe.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جوین شو |.  Kia_Net@`, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7de6208b-01fd-f02d-4a38-5b7541c4e14e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -586,8 +582,8 @@ proxies:
   - {name: ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`, server: beta.tomandjery.eu, port: 1002, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 16, server: vip-meli3.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a0d7cdab-5821-4477-b0c2-33c0060baf62, host: vip-meli3.nightgemshop.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵", server: emergency3.layer-ziro.ir, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: a242cff5-2d44-4e83-927c-2ff37f09e66d, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 4", server: 87.107.9.101, port: 6070, type: vless, tls: true, packet-encoding: xudp, uuid: a5694222-f90c-4423-ae93-434bcb4ece38, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 5", server: 87.107.9.101, port: 6071, type: vless, tls: true, packet-encoding: xudp, uuid: a5694222-f90c-4423-ae93-434bcb4ece38, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 2", server: 87.107.9.101, port: 6070, type: vless, tls: true, packet-encoding: xudp, uuid: a5694222-f90c-4423-ae93-434bcb4ece38, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🇮🇷]💜TEL●@KIA_NET💜 3", server: 87.107.9.101, port: 6071, type: vless, tls: true, packet-encoding: xudp, uuid: a5694222-f90c-4423-ae93-434bcb4ece38, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_Net", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_Net` 2", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 17, server: 3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com, port: 890, type: vless, tls: true, packet-encoding: xudp, uuid: a7be5b32-3741-4b1b-9f17-c1e537de1a25, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -730,12 +726,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -748,9 +742,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -774,7 +767,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -793,8 +785,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
@@ -926,12 +918,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -944,9 +934,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -970,7 +959,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -989,8 +977,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
@@ -1122,12 +1110,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -1140,9 +1126,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -1166,7 +1151,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -1185,8 +1169,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
@@ -1327,12 +1311,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -1345,9 +1327,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -1371,7 +1352,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -1390,8 +1370,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
@@ -1523,12 +1503,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -1541,9 +1519,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -1567,7 +1544,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -1586,8 +1562,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
@@ -1719,12 +1695,10 @@ proxy-groups:
       - "@KIA_NET 3"
       - "[🇳🇴]💜TEL●@KIA_NET💜`"
       - "[🇹🇷]KIA_NET"
-      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟`"
       - "[🇮🇷] 2"
       - TEL●@KIA_NET💜` 2
       - TEL●@KIA_NET💜 2
-      - "[🇫🇮]💜TEL●@KIA_NET💜"
       - ⭐️Tel@Kia_Net🌟 11
       - ⭐️Tel@Kia_Net🌟 12
       - اخ
@@ -1737,9 +1711,8 @@ proxy-groups:
       - 🇨🇦 436 - CA - VLESS/REALITY/PBK/SID/VISION/UTLS - 21443`
       - ⭐️Tel@Kia_Net🌟`
       - "[🇮🇷]KIA_NET` 2"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜"
       - "[🇮🇷]⭐️Tel@Kia_Net🌟"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "[🇮🇷]💜TEL●@KIA_NET💜`"
       - "[🇮🇷]KIA_NET` 3"
       - "[🇩🇪]KIA_NET` 2"
@@ -1763,7 +1736,6 @@ proxy-groups:
       - "[🇮🇷]💜TEL●@KIA_NET💜` 3"
       - "@KIA_NET`"
       - "🇧🇦 Bosnia and Herzegovina — #38"
-      - "[🇨🇦]💜TEL●@KIA_NET💜 2"
       - 💜TEL●@KIA_NET💜`
       - ⭐️Tel@Kia_Net🌟 14
       - جوین شو |.  Kia_Net@`
@@ -1782,8 +1754,8 @@ proxy-groups:
       - ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - ⭐️Tel@Kia_Net🌟 16
       - "...\nلایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n🩵Tel: @KIA_NET 🩵"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 4"
-      - "[🇮🇷]💜TEL●@KIA_NET💜 5"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 2"
+      - "[🇮🇷]💜TEL●@KIA_NET💜 3"
       - "@Kia_Net"
       - "@Kia_Net` 2"
       - ⭐️Tel@Kia_Net🌟 17
