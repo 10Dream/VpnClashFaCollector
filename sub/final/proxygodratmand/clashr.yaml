@@ -13,12 +13,9 @@ proxies:
   - {name: "@proxygodratmand قطع شدی بیا چنل فقط 5", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee4a55f-5f6b-4a97-8670-8631238e4c6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxygodratmand ق�…", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee4a55f-5f6b-4a97-8670-8631238e4c6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxygodratmand قطع شدی بیا چنل فقط 6", server: afk.mrsf.ir, port: 52477, type: vless, tls: true, packet-encoding: xudp, uuid: 67bfe904-b4d4-41b2-a846-932c8f74bd43, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 7", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7c607c15-6c0c-60e6-602e-08936fca83c3, servername: lord.socialxxmedia.pro, host: lord.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا �…", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7c607c15-6c0c-60e6-602e-08936fca83c3, servername: lord.socialxxmedia.pro, host: lord.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 8", server: arz.radargame.site, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ebd3e05-ffc2-4193-e0cf-94987f98b77b, servername: arz.radargame.site, alpn: [h2%2Chttp%2F1.1], host: arz.radargame.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا �%…", server: arz.radargame.site, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8ebd3e05-ffc2-4193-e0cf-94987f98b77b, servername: arz.radargame.site, alpn: [h2%2Chttp%2F1.1], host: arz.radargame.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 9", server: tun.p2p1.sbs, port: 2020, type: vmess, uuid: 497868e2-0b12-4244-a044-3ad0a94cb46b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 10", server: stars.ad, port: 80, type: vmess, uuid: 20f57edd-bbcb-44a9-8a93-7d944df91a84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 7", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9f00e109-36ba-47a6-8dd5-4487fb93a6ff, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 8", server: tun.p2p1.sbs, port: 2020, type: vmess, uuid: 497868e2-0b12-4244-a044-3ad0a94cb46b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 9", server: stars.ad, port: 80, type: vmess, uuid: 20f57edd-bbcb-44a9-8a93-7d944df91a84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -35,7 +32,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -52,7 +48,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -69,7 +64,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -85,7 +79,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -101,7 +94,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -117,7 +109,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -155,7 +146,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 7"
       - "@proxygodratmand قطع شدی بیا چنل فقط 8"
       - "@proxygodratmand قطع شدی بیا چنل فقط 9"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 10"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

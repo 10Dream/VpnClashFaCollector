@@ -1,12 +1,12 @@
 # آرشیو کانال: @ConfigWireguard
-بروزرسانی: 2026-03-08 07:46:17 UTC
+بروزرسانی: 2026-03-08 13:54:08 UTC
 
-### 🕒 2026-03-08 05:26:53 UTC
+### 🕒 2026-03-08 13:14:14 UTC
 For WgTunnel (IPv6 Endpoint) > :/  
 ***💙***
 [Interface]
 Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
-PrivateKey = sIVuYIGDlK0+unutc1DM8E5hf2UqTWhuGNm+RFS4w3g=
+PrivateKey = KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s=
 DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
 MTU = 1280
 Jc = 4
@@ -20,19 +20,19 @@ H4 = 4
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 PersistentKeepalive = 30
 AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = [2606:4700:d0::820c:f18d:c644:0423]:4177
+Endpoint = [2606:4700:d1::4148:aa63:e1a6:f739]:3854
 [@ConfigWireguard](https://t.me/ConfigWireguard)
  𓄂𓆃|
 ***🗽***
 
 ---
 
-### 🕒 2026-03-08 05:26:53 UTC
+### 🕒 2026-03-08 13:14:14 UTC
 For WgTunnel (IPv4 Endpoint) > :/  
 ***💙***
 [Interface]
 Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
-PrivateKey = sIVuYIGDlK0+unutc1DM8E5hf2UqTWhuGNm+RFS4w3g=
+PrivateKey = KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s=
 DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
 MTU = 1280
 Jc = 4
@@ -46,14 +46,14 @@ H4 = 4
 PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
 PersistentKeepalive = 30
 AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = 188.114.96.166:1014
+Endpoint = 8.39.214.101:3854
 [@ConfigWireguard](https://t.me/ConfigWireguard)
  𓄂𓆃|
 ***🗽***
 
 ---
 
-### 🕒 2026-03-08 05:26:48 UTC
+### 🕒 2026-03-08 13:14:10 UTC
 For WireGuard :/  
 ***💙***
  
@@ -67,7 +67,7 @@ Wireguard Google play
 
 ---
 
-### 🕒 2026-03-08 05:26:48 UTC
+### 🕒 2026-03-08 13:14:09 UTC
 [𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|***🗽***](https://t.me/Paradise_Of_Freedom)
  Warp On Warp for 
 [ [nikaNg](https://github.com/mahsanet/NikaNG/releases)
@@ -75,11 +75,11 @@ Wireguard Google play
 [mahsaNg](https://github.com/GFW-knocker/MahsaNG/releases)
  ]ᵂᵒᵂ
  
- {"remarks": "Tel= darkness_427 - WoW", "log": {"loglevel": "warning"}, "dns": {"hosts": {}, "servers": ["https://94.140.14.14/dns-query", {"address": "8.8.8.8", "domains": ["geosite:category-ir", "domain:.ir"], "expectIPs": ["geoip:ir"], "port": 53}], "tag": "dns"}, "inbounds": [{"port": 10808, "protocol": "socks", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "socks-in"}, {"port": 10809, "protocol": "http", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "http-in"}, {"listen": "127.0.0.1", "port": 10853, "protocol": "dokodemo-door", "settings": {"address": "1.1.1.1", "network": "tcp,udp", "port": 53}, "tag": "dns-in"}], "outbounds": [{"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "162.159.192.141:4177", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [55, 131, 248], "secretKey": "aCphaJs+euhk+76rwhAKHB8xdnUL12FF5EI33+TRPl4=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "streamSettings": {"sockopt": {"dialerProxy": "warp-ir"}}, "tag": "warp-out"}, {"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "162.159.192.141:4177", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [74, 10, 240], "secretKey": "sIVuYIGDlK0+unutc1DM8E5hf2UqTWhuGNm+RFS4w3g=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "tag": "warp-ir"}, {"protocol": "dns", "tag": "dns-out"}, {"protocol": "freedom", "settings": {}, "tag": "direct"}, {"protocol": "blackhole", "settings": {"response": {"type": "http"}}, "tag": "block"}], "policy": {"levels": {"8": {"connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1}}, "system": {"statsOutboundUplink": true, "statsOutboundDownlink": true}}, "routing": {"domainStrategy": "IPIfNonMatch", "rules": [{"inboundTag": ["dns-in"], "outboundTag": "dns-out", "type": "field"}, {"ip": ["8.8.8.8"], "outboundTag": "direct", "port": "53", "type": "field"}, {"domain": ["geosite:category-ir", "domain:.ir"], "outboundTag": "direct", "type": "field"}, {"ip": ["geoip:ir", "geoip:private"], "outboundTag": "direct", "type": "field"}, {"domain": ["geosite:category-ads-all", "geosite:category-ads-ir"], "outboundTag": "block", "type": "field"}, {"outboundTag": "warp-out", "type": "field", "network": "tcp,udp"}]}, "stats": {}}
+ {"remarks": "Tel= darkness_427 - WoW", "log": {"loglevel": "warning"}, "dns": {"hosts": {}, "servers": ["https://94.140.14.14/dns-query", {"address": "8.8.8.8", "domains": ["geosite:category-ir", "domain:.ir"], "expectIPs": ["geoip:ir"], "port": 53}], "tag": "dns"}, "inbounds": [{"port": 10808, "protocol": "socks", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "socks-in"}, {"port": 10809, "protocol": "http", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "http-in"}, {"listen": "127.0.0.1", "port": 10853, "protocol": "dokodemo-door", "settings": {"address": "1.1.1.1", "network": "tcp,udp", "port": 53}, "tag": "dns-in"}], "outbounds": [{"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.34.70.4:4177", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [176, 161, 50], "secretKey": "QMoDdM55WoBYc1DC+k/uWAQZS5r8kFPF4on4Vc56UnY=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "streamSettings": {"sockopt": {"dialerProxy": "warp-ir"}}, "tag": "warp-out"}, {"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.34.70.4:4177", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [6, 50, 176], "secretKey": "KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "tag": "warp-ir"}, {"protocol": "dns", "tag": "dns-out"}, {"protocol": "freedom", "settings": {}, "tag": "direct"}, {"protocol": "blackhole", "settings": {"response": {"type": "http"}}, "tag": "block"}], "policy": {"levels": {"8": {"connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1}}, "system": {"statsOutboundUplink": true, "statsOutboundDownlink": true}}, "routing": {"domainStrategy": "IPIfNonMatch", "rules": [{"inboundTag": ["dns-in"], "outboundTag": "dns-out", "type": "field"}, {"ip": ["8.8.8.8"], "outboundTag": "direct", "port": "53", "type": "field"}, {"domain": ["geosite:category-ir", "domain:.ir"], "outboundTag": "direct", "type": "field"}, {"ip": ["geoip:ir", "geoip:private"], "outboundTag": "direct", "type": "field"}, {"domain": ["geosite:category-ads-all", "geosite:category-ads-ir"], "outboundTag": "block", "type": "field"}, {"outboundTag": "warp-out", "type": "field", "network": "tcp,udp"}]}, "stats": {}}
 
 ---
 
-### 🕒 2026-03-08 05:26:47 UTC
+### 🕒 2026-03-08 13:14:09 UTC
 𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|
 ***🗽***
  For 
@@ -89,10 +89,10 @@ Wireguard Google play
  
 ipv4: 
 ***😋***
-wireguard://sIVuYIGDlK0%2Bunutc1DM8E5hf2UqTWhuGNm%2BRFS4w3g%3D@188.114.96.166:1014?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=74%2C10%2C240#Tel= @darkness_427 wire 
+wireguard://KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s%3D@8.39.214.101:3854?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=6%2C50%2C176#Tel= @darkness_427 wire 
 ipv6: 
 ***😋***
-wireguard://sIVuYIGDlK0%2Bunutc1DM8E5hf2UqTWhuGNm%2BRFS4w3g%3D@[2606:4700:d0::820c:f18d:c644:0423]:4177?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=74%2C10%2C240#Tel= @darkness_427 wire 
+wireguard://KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s%3D@[2606:4700:d1::4148:aa63:e1a6:f739]:3854?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=6%2C50%2C176#Tel= @darkness_427 wire 
  For 
 [nika](https://github.com/mahsanet/NikaNG/releases)
  ng: 
@@ -100,24 +100,24 @@ wireguard://sIVuYIGDlK0%2Bunutc1DM8E5hf2UqTWhuGNm%2BRFS4w3g%3D@[2606:4700:d0::82
  
 ipv4: 
 ***😋***
-wireguard://sIVuYIGDlK0%2Bunutc1DM8E5hf2UqTWhuGNm%2BRFS4w3g%3D@188.114.96.166:1014?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=74%2C10%2C240#Tel= @darkness_427 wire 
+wireguard://KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s%3D@8.39.214.101:3854?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=6%2C50%2C176#Tel= @darkness_427 wire 
 ipv6:  
 ***😋***
  
-wireguard://sIVuYIGDlK0%2Bunutc1DM8E5hf2UqTWhuGNm%2BRFS4w3g%3D@[2606:4700:d0::820c:f18d:c644:0423]:4177?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=74%2C10%2C240#Tel= @darkness_427 wire 
+wireguard://KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s%3D@[2606:4700:d1::4148:aa63:e1a6:f739]:3854?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=6%2C50%2C176#Tel= @darkness_427 wire 
 For 
 [hiddify](https://github.com/hiddify/hiddify-next/releases)
  next: 
 ***💙***
  
-{"outbounds": [{"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "sIVuYIGDlK0+unutc1DM8E5hf2UqTWhuGNm+RFS4w3g=", "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "server": "188.114.96.166", "server_port": 1014, "reserved": [74, 10, 240], "mtu": 1330, "fake_packets": "1-3", "fake_packets_size": "10-30", "fake_packets_delay": "10-30", "fake_packets_mode": "m4"}, {"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-Main1", "detour": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "aCphaJs+euhk+76rwhAKHB8xdnUL12FF5EI33+TRPl4=", "server": "8.34.70.52", "server_port": 908, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "reserved": [55, 131, 248], "mtu": 1300, "fake_packets_mode": "m4"}]}
+{"outbounds": [{"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "KPtg4axOZGCdD7rbGjhPMSEikCvKcCNLz7IRcbtZC0s=", "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "server": "8.39.214.101", "server_port": 3854, "reserved": [6, 50, 176], "mtu": 1330, "fake_packets": "1-3", "fake_packets_size": "10-30", "fake_packets_delay": "10-30", "fake_packets_mode": "m4"}, {"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-Main1", "detour": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "QMoDdM55WoBYc1DC+k/uWAQZS5r8kFPF4on4Vc56UnY=", "server": "8.6.112.192", "server_port": 934, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "reserved": [176, 161, 50], "mtu": 1300, "fake_packets_mode": "m4"}]}
  
 𝕎𝔸ℝℙᵂᵒᵂ
-warp://162.159.192.78:1701/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://8.35.211.170:2408/?ifp=2-4&ifpm=m6#🆆
+warp://188.114.99.81:939/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://188.114.99.106:1387/?ifp=2-4&ifpm=m6#🆆
 ***🅾***
 🆆
 ***🗽***
-warp://[2606:4700:d0::820c:f18d:c644:0423]:4177/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::820c:f18d:c644:0423]:4177/?ifp=2-4&ifpm=m6#🆆
+warp://[2606:4700:d1::4148:aa63:e1a6:f739]:3854/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d1::4148:aa63:e1a6:f739]:3854/?ifp=2-4&ifpm=m6#🆆
 ***🅾***
 🆆
 ***🗽***
@@ -128,6 +128,93 @@ Channel=
 [@ConfigWireguard](https://t.me/ConfigWireguard)
  
 ***🗽***
+
+---
+
+### 🕒 2026-03-08 10:16:49 UTC
+**محافظت در برابر باران‌های اسیدی سمی ناشی از انفجار مخازن سوخت**
+***🔴***
+ انفجار انبارهای نفت باعث ورود حجم انبوهی از ترکیبات سمی هیدروکربن‌ها و اکسیدهای گوگرد و نیتروژن در جو و به ابرها می‌شود که در صورت بارندگی، باران حاصل بسیار خطرناک و دارای خاصیت اسیدی شدید است.
+***🔴***
+ این پدیده می‌تواند باعث سوختگی‌های شیمیایی پوست و آسیب جدی به ریه‌ها شود.
+​
+***1⃣***
+** در زمان بارش**
+ پس از انفجارهای نفتی، تحت هیچ شرایطی 
+**از منزل خارج نشوید **
+و تمام منافذ را با پارچه مرطوب بپوشانید
+***‼️***
+ذرات دوده سمی معلق در باران بسیار ریز بوده و به‌راحتی وارد فضای داخلی می‌شوند.
+​
+***2⃣***
+ اگر در فضای باز غافلگیر شدید، بلافاصله 
+**به زیر سقف‌های بتنی یا فلزی پناه ببرید**
+ و از پناه گرفتن زیر درختان خودداری کنید.
+***‼️***
+برگ درختان قطرات اسیدی را جمع کرده و به صورت متمرکز و خطرناک‌تر روی شما می‌ریزند.
+​
+***3⃣***
+ در صورت تماس باران با پوست، به هیچ وجه محل را نمالید و فقط 
+**با جریان مداوم آب سرد شستشو دهید**
+ 
+***‼️***
+مالش باعث نفوذ بیشتر ترکیبات نفتی و اسیدی به منافذ پوست و ایجاد درماتیت شدید می‌شود.
+​
+***4⃣***
+ 
+**لباس‌هایی که به این باران آغشته شده‌اند را بلافاصله تعویض کرده**
+ و در کیسه دربسته قرار دهید 
+***‼️***
+بخارات برخاسته از لباس خیس می‌تواند باعث مسمومیت تنفسی در فضای بسته خانه شود.
+***5⃣***
+ از 
+**ماسک‌های فیلتردار**
+ (ترجیحاً N95 یا ماسک‌های دارای لایه کربن فعال) استفاده کنید 
+***‼️***
+ماسک‌های پارچه‌ای معمولی در برابر بخارات اسیدی و ذرات معلق نفتی کارایی چندانی ندارند.
+​
+***6⃣***
+ از 
+**مصرف آب چاه‌های روباز یا مخازن ذخیره آب باران **
+در مناطق نزدیک به انفجار جداً خودداری کنید.
+***‼️***
+نفوذ ترکیبات نفتی و اسید به منابع آب باعث مسمومیت‌های سیستمیک و آسیب به کلیه‌ها می‌شود.
+***7⃣***
+​حیوانات خانگی و احشام را به فضای کاملاً سرپوشیده منتقل کنید و علوفه آن‌ها را بپوشانید 
+***‼️***
+باران اسیدی ناشی از سوختن نفت برای موجودات زنده کوچک بسیار کشنده است.
+​
+***8⃣***
+ اگر دچار 
+**سوزش شدید مجاری تنفسی، سرفه خشک مداوم یا تاری دید**
+ شدید، بلافاصله به مراکز درمانی مراجعه کنید
+***‼️***
+این‌ها نشانه‌های اولیه مسمومیت با گازهای شیمیایی ناشی از احتراق ناقص نفت هستند.
+​
+***9⃣***
+ پس از اتمام بارندگی، 
+**سطوح خارجی و خودروها را با فشار آب زیاد بشویید**
+ تا رسوبات سمی خشک نشوند 
+***‼️***
+باقیمانده این مواد روی سطوح در اثر وزش باد دوباره به صورت گرد و غبار سمی در هوا پخش می‌شوند.
+
+---
+
+### 🕒 2026-03-08 10:16:49 UTC
+اطلاعیه ۲ آموزشی هلال احمر برای آلودگی هوا در تهران: نکات حیاتی در مواجهه با باران‌های اسیدی سمی
+آگاهی از این جزئیات، مرز بین سلامت و بیماری‌های مزمن ریوی و پوستی است.
+‌
+۱. خطر بخارات پس از باران: پس از قطع شدن باران، از منزل خارج نشوید؛ زیرا تبخیر قطرات اسیدی از روی زمین گرم یا سطوح، غلظت سموم در هوای تنفسی را تا چندین برابر افزایش می‌دهد (صبر کنید تا هوا کاملاً ساکن شده یا توسط باد جابه‌جا شود).
+‌
+۲. کولرهای آبی و گازی: در زمان بارش باران اسیدی سمی، کولرهای آبی را مطلقاً روشن نکنید (پوشال‌های خیس مثل فیلتر عمل کرده و اسید و دوده سمی را مستقیماً به داخل ریه‌های ساکنان خانه پمپاژ می‌کنند؛ کولرهای گازی را نیز در حالت گردش داخلی قرار دهید).
+‌
+۳. مراقبت از مواد غذایی باز: اگر در تراس یا حیاط خانه مواد غذایی (مثل ترشیجات، برنج یا نان) دارید، حتی اگر دربسته هستند، پیش از انتقال به داخل خانه ابتدا ظرف آن‌ها را با دستکش و دستمال مرطوب کاملاً پاک کنید (ذرات اسیدی میکروسکوپی روی جداره ظرف می‌توانند هنگام باز کردن، محتویات را آلوده کنند).
+‌
+۴. شستشوی مجاری تنفسی: پس از اتمام دوره بارش، حتی اگر در منزل بوده‌اید، بینی و گلوی خود را با محلول رقیق نمکی (سرم شستشو) غرغره کنید (این کار باعث دفع ذرات دوده نفتی معلق در هوا که به مخاط چسبیده‌اند می‌شود).
+‌
+۵. تعویض فیلتر تصفیه آب: اگر از سیستم تصفیه آب خانگی استفاده می‌کنید، پس از اتمام بحران باران‌های سمی، فیلترهای مرحله اول را تعویض کنید (نفوذ احتمالی آلاینده‌های اتمسفری به شبکه آب شهری می‌تواند کارایی فیلترهای قدیمی را از بین ببرد).
+‌
+۶. عدم استفاده از برف‌پاک‌کن خشک: اگر روی شیشه خودروی شما رسوبات سیاه باران نشسته، هرگز برف‌پاک‌کن را به تنهایی روشن نکنید (ترکیب اسید خشک شده و دوده مثل سمباده عمل کرده و علاوه بر آسیب به ریه شما هنگام برخاستن غبار، شیشه خودرو را نیز برای همیشه کدر می‌کند؛ ابتدا با سطل آب فراوان بشویید).
 
 ---
 
@@ -439,55 +526,6 @@ udp://223.5.5.5
 [پروکسی](https://t.me/proxy?server=195.254.165.151&amp;port=9443&amp;secret=FgMBAgABAAH8AwOG4kw63Q==)
  - 
 [پروکسی](https://t.me/proxy?server=195.254.165.143&amp;port=4455&amp;secret=7hYDAQIAAQAB_AMDhuJMOt1jZG4ueWVrdGFuZXQuY29t)
-
----
-
-### 🕒 2026-03-05 12:52:28 UTC
-`udp://2.188.184.19`
-مخابرات ثابت بدون قطعی فرکانس ۵ ، ۶ ، سرور ۶
-روی همراه اول و ایرانسل هم با سرعت کمتر
-
----
-
-### 🕒 2026-03-05 10:48:12 UTC
-Super DNS 
- همراه اول و مخابرات – فرکانس ۲.۴.۵.۹
-udp://77.88.8.8
-udp://80.80.80.80
- ایرانسل – فرکانس ۱.۴.۵.۶
-udp://8.8.8.8
-udp://5.160.12.98
-رایتل – فرکانس ۲.۴.۶
-udp://208.67.220.220
-
----
-
-### 🕒 2026-03-05 10:00:53 UTC
-NetMod
-nm-dns://jJo88heH401rrsQ2vKfZohr/YEYwGqnqNMmSf1c5ZW1/6ObY42nFs5a6iPxBZ3CsVfnSPBHJRBtR7sQGkMk0b4vfErbJ+H5GZ/F+Y/U6TyavHD5JbYVLXj9aBIyPjwxhkIAoLuzeDTb29lPuwUhhcJ1OnnXjPoYtO+GeJlDLW5uAtG4YYK9POPVCLk7P3Bc4pfL2YjRuA7VdOkCqNeVEQNzTNaIwoSOqhKNXNk9MuKMkc2ONWjWZM6dYjk4fiCTS
-
----
-
-### 🕒 2026-03-05 09:53:01 UTC
-Slipnet
-slipnet://MTV8ZG5zdHRfc3NofFlvc2VydmljZSBETlNUVHxuLmFpdHJhZGVyLWFwcC5jb218OC44LjguODo1MzowLDguOC40LjQ6NTM6MCw5LjkuOS45OjUzOjAsMi4xNDQuNi43NTo1MzowfDB8MjAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDg4NWQ0ZDExNThkMjA5YzAyYTY1ZWIyYTg1OGNjNDE4MTY1MGQyZTFiOGQ5ZGIyNjE1NmM4ZTg2NDZlZWEyMDh8fHwxfHJvb3R8cmV6YTAwNTdBc3wyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwxfGVhYzk2MzQ5Y2UwYTg2MjExNGNkN2QyYzJlMTQ1NzZhOjgzYmUxZWRkZTUyYzhkYjQ4YzQ5ZTVhMmFmNWI1ZTQzZGQxNzg1MTQ5ZTQyZTdmMDA4NmI0YjM3YjcxNTJhMGE=
-
----
-
-### 🕒 2026-03-05 09:51:35 UTC
-همراه اول، رایتل
-`udp://77.88.8.8`
- 
-فرکانس۱۰،۸
-`udp://208.67.222.222`
- 
-`udp://208.67.220.220`
-`udp://156.154.71.1`
-`udp://8.26.56.26`
-ایرانسل
-پروتکل pdoq 
-`194.225.62.66`
-`194.225.62.80`
 
 ---
 

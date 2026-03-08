@@ -492,7 +492,8 @@ proxies:
   - {name: "@saministamm | چنل تلگرام`", server: 93.126.19.117, port: 37449, type: vless, tls: true, packet-encoding: xudp, uuid: 3574a6d1-ad41-47ab-ba3e-1ecc425fa6f6, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 5", server: 185.136.135.172, port: 41000, type: vless, tls: true, packet-encoding: xudp, uuid: 38bf7faf-8751-45a0-9a1c-e8e75a31e64a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کانال تلگرام ما | @saministamm, server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: 3d9eba8f-868a-7196-dd3a-5847d3536807, servername: titan.socialxxmedia.pro, host: titan.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 6", server: 109.95.65.242, port: 900, type: vless, tls: true, packet-encoding: xudp, uuid: 4dd14167-ddce-49d1-8322-133e82c0cbfb, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 6", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 4d9801b9-4df7-4862-b12e-4f4b4fa72a5c, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 7", server: 109.95.65.242, port: 900, type: vless, tls: true, packet-encoding: xudp, uuid: 4dd14167-ddce-49d1-8322-133e82c0cbfb, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | بیا چنل تلگراممون`", server: vipde2.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: 4f5def46-1a54-11f1-9053-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40", server: emergency3.layer-ziro.ir, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: 501dfe1a-be73-4b89-b3bf-7f8a21c6f2ee, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`", server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: 59a1aebc-1f47-eb72-7321-7eef03c7095a, servername: titan.socialxxmedia.pro, host: titan.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -500,19 +501,20 @@ proxies:
   - {name: "@saministamm | تلگرام جوین باش` 2", server: b1.apstore.sbs, port: 51154, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1ff19d-2b66-4e7e-aa2f-2e12780c56bd, host: b1.apstore.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تلگراممون, server: toystoreworld.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 6913f9c9-3210-d0dd-75fc-2328a11c836a, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: toystoreworld.ir:8585, server: toystoreworld.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 6913f9c9-3210-d0dd-75fc-2328a11c836a, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 7", server: toystoreworld.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 6913f9c9-3210-d0dd-75fc-2328a11c836a, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 8", server: toystoreworld.ir, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 6913f9c9-3210-d0dd-75fc-2328a11c836a, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: چنل, server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 6a3ad064-be7c-40be-9a48-171885a359b7, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2", server: AE.DarinaService-IR.XYZ, port: 2222, type: vless, tls: true, packet-encoding: xudp, uuid: 6ad1f3ee-53f5-43a5-beea-eab20b5ecaf5, host: varzesh3.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 8", server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ff581e0-4622-4af2-9b57-37dbcd6dee1e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 9", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ff581e0-4622-4af2-9b57-37dbcd6dee1e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 9", server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ff581e0-4622-4af2-9b57-37dbcd6dee1e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 10", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ff581e0-4622-4af2-9b57-37dbcd6dee1e, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام جوین باش` 3", server: 185.143.234.200, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 70375c7e-1e29-4370-8100-22e37fd52845, servername: alef.ir.oadeflantrogm.abrmahanair.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.abrmahanair.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: 7061a7ca-787e-4dd2-8876-51b0ff01964c, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm`, server: www.tomandjery.eu, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 70f7934d-c54a-4294-a00d-0908ac9f3068, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 10", server: op-g1-detun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: 74ed1341-f0e7-4892-9188-19d0e83829ef, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 11", server: fn11.finuxmaster.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 73204fa1-c75a-4aa8-bc0a-6b62f08bace6, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 12", server: op-g1-detun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: 74ed1341-f0e7-4892-9188-19d0e83829ef, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@@saministamm", server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dd.openaccessnode.com:2197, server: dd.openaccessnode.com, port: 2197, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, servername: api.push.apple.com, host: api.push.apple.com, path: /, reality-opts: {public-key: ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY, short-id: a62d513cd709744a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7de6208b-01fd-f02d-4a38-5b7541c4e14e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 11", server: fn22.finuxmaster.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 7e01bdb1-07b2-415d-abe4-e94e75f15dfc, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 13", server: fn22.finuxmaster.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 7e01bdb1-07b2-415d-abe4-e94e75f15dfc, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 134.255.204.17:443, server: 134.255.204.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8058fd1c-28ca-4e6c-9828-ce7cf4433b5c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تست 10گیگ, server: new-vip-meli2.nightgemshop.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 808d297b-0901-46e0-8332-0af832e184ed, host: alef.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm🌻", server: vipde4.persianpinggame.com, port: 9092, type: vless, tls: true, packet-encoding: xudp, uuid: 8638f2b6-15d1-4889-9735-8a2e5e2cac80, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -525,6 +527,8 @@ proxies:
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`", server: 79.175.167.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9f366a3e-348c-492c-be54-4a0a6db94cc7, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saminstamm | جوین باش تلگرام`", server: 5.159.54.144, port: 21, type: vless, tls: true, packet-encoding: xudp, uuid: S144, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "- @saministamm | 🚀", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 14", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm`", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام جوین باش` 4", server: 85.133.227.39, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: b6e371d1-0e7e-4145-ba77-32ea4c37e7d5, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "- @saministamm | 🟢`", server: 2.144.22.84, port: 8008, type: vless, tls: true, packet-encoding: xudp, uuid: becd8a5a-775e-4613-beae-4c537721bc60, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.95.65.242:8032, server: 109.95.65.242, port: 8032, type: vless, tls: true, packet-encoding: xudp, uuid: c049b9e1-3b34-4b3c-9e10-4978f11dec75, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -538,14 +542,15 @@ proxies:
   - {name: 20Gig(saministamm)👽, server: 89.44.240.5, port: 45947, type: vless, tls: true, packet-encoding: xudp, uuid: c68405e8-6931-4048-943d-7cb137362ceb, host: cbi.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ja3.diiginet.ir:1500, server: ja3.diiginet.ir, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: c8c75018-26ab-4501-be3e-f7bb33ed8c57, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Saministamm` 2", server: 185.126.203.167, port: 16957, type: vless, tls: true, packet-encoding: xudp, uuid: c967de89-af86-4eba-be64-34e5656ca994, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 12", server: 185.126.203.167, port: 16957, type: vless, tls: true, packet-encoding: xudp, uuid: c967de89-af86-4eba-be64-34e5656ca994, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 15", server: 185.126.203.167, port: 16957, type: vless, tls: true, packet-encoding: xudp, uuid: c967de89-af86-4eba-be64-34e5656ca994, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2", server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: c9f7b50d-0f3c-a1f1-a36e-015ce0112a28, servername: titan.socialxxmedia.pro, host: titan.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | چنل‌تلگرام`", server: 85.133.227.39, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ca492b57-4e98-49d5-aed2-61b67a2ec559, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام جوین باش` 5", server: 85.133.227.68, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ca492b57-4e98-49d5-aed2-61b67a2ec559, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام جوین باش` 6", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ca492b57-4e98-49d5-aed2-61b67a2ec559, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | �%A…", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ca492b57-4e98-49d5-aed2-61b67a2ec559, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm`", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ccac781d-1f3e-4e5b-99c2-d07d653b81e8, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 2", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ccac781d-1f3e-4e5b-99c2-d07d653b81e8, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: rk4no3.cdnhoo.top:80, server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ccac781d-1f3e-4e5b-99c2-d07d653b81e8, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 16", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ccac781d-1f3e-4e5b-99c2-d07d653b81e8, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ملی وصلnew 100 @saministamm, server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ccdf328c-a5f3-4340-af99-2141ceeefcf3, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ملی وصل🇷🇺 _100 @saministamm, server: 85.133.227.39, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ccdf328c-a5f3-4340-af99-2141ceeefcf3, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ملی وصل🇦🇹 server3 @saministamm, server: 85.133.227.68, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: ccdf328c-a5f3-4340-af99-2141ceeefcf3, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -556,14 +561,15 @@ proxies:
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`", server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: d463f08d-10ee-449a-82fe-437795d95ae4, host: skyroom.online%2Cgharar.ir%2Cigap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2", server: beta.tomandjery.eu, port: 1002, type: vless, tls: true, packet-encoding: xudp, uuid: d480179e-77ee-44f7-9fde-c66ad72e04ac, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇬🇧 gb2.vnet500.xyz:31015, server: gb2.vnet500.xyz, port: 31015, type: vless, tls: true, packet-encoding: xudp, uuid: da3b8ef7-835b-4321-a23a-8fa487276394, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 17", server: gb2.vnet500.xyz, port: 31015, type: vless, tls: true, packet-encoding: xudp, uuid: da3b8ef7-835b-4321-a23a-8fa487276394, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.50.169.169:55283 2, server: 194.50.169.169, port: 55283, type: vless, tls: true, packet-encoding: xudp, uuid: e0d2fc5f-f6a4-414c-902c-1bbac3fbdf27, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: sdl13.shahramv1.site:80, server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s4.laptopstock7.com:9976, server: s4.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: e83e714e-d2ca-486b-ae88-1e40b2c2d0a8, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.fastsnap.info:29253, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 13", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 18", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.136.135.172:41002 2, server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 14", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 19", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Saministamm |  جوین باش تلگرام", server: tun.p2p1.sbs, port: 2017, type: vmess, uuid: 91434e6c-99ea-422c-a1d2-27725e6b72d7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام", server: link7.mizbanertebatfarda.site, port: 6007, type: vmess, uuid: 5afbc58d-759b-4a43-ae33-5a2b4ceee606, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام", server: sv4.oxypingbot.in, port: 19288, type: vmess, uuid: 93245de8-4621-43d0-a37c-06f3414ce14b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -616,6 +622,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -623,19 +630,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -648,6 +656,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -661,13 +671,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -678,14 +689,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"
@@ -728,6 +740,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -735,19 +748,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -760,6 +774,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -773,13 +789,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -790,14 +807,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"
@@ -840,6 +858,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -847,19 +866,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -872,6 +892,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -885,13 +907,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -902,14 +925,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"
@@ -961,6 +985,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -968,19 +993,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -993,6 +1019,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -1006,13 +1034,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -1023,14 +1052,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"
@@ -1073,6 +1103,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -1080,19 +1111,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -1105,6 +1137,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -1118,13 +1152,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -1135,14 +1170,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"
@@ -1185,6 +1221,7 @@ proxy-groups:
       - "@saministamm 5"
       - کانال تلگرام ما | @saministamm
       - "@saministamm 6"
+      - "@saministamm 7"
       - "@saministamm | بیا چنل تلگراممون`"
       - "%D8%AC%D9%87%D8%AA%20%D8%AE%D8%B1%DB%8C%D8%AF%20%D8%A8%D9%87%20%D8%A2%DB%8C%D8%AF%DB%8C%20%D8%B2%DB%8C%D8%B1%20%D9%BE%DB%8C%D8%A7%D9%85%20%D8%A8%D8%AF%DB%8C%D9%86%20%20%20%20%20%20%20saministamm%40"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام`"
@@ -1192,19 +1229,20 @@ proxy-groups:
       - "@saministamm | تلگرام جوین باش` 2"
       - تلگراممون
       - toystoreworld.ir:8585
-      - "@saministamm 7"
+      - "@saministamm 8"
       - چنل
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل‌تلگرام` 2"
-      - "@saministamm 8"
       - "@saministamm 9"
+      - "@saministamm 10"
       - "@saministamm | تلگرام جوین باش` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تلگرام`"
       - saministamm`
-      - "@saministamm 10"
+      - "@saministamm 11"
+      - "@saministamm 12"
       - "@@saministamm"
       - dd.openaccessnode.com:2197
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام`"
-      - "@saministamm 11"
+      - "@saministamm 13"
       - 134.255.204.17:443
       - تست 10گیگ
       - "@saministamm🌻"
@@ -1217,6 +1255,8 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
       - "- @saministamm | 🚀"
+      - "@saministamm 14"
+      - "@saministamm`"
       - "@saministamm | تلگرام جوین باش` 4"
       - "- @saministamm | 🟢`"
       - 109.95.65.242:8032
@@ -1230,13 +1270,14 @@ proxy-groups:
       - 20Gig(saministamm)👽
       - ja3.diiginet.ir:1500
       - "@Saministamm` 2"
-      - "@saministamm 12"
+      - "@saministamm 15"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین باش تلگرام` 2"
       - "@saministamm | چنل‌تلگرام`"
       - "@saministamm | تلگرام جوین باش` 5"
       - "@saministamm | تلگرام جوین باش` 6"
-      - "@saministamm`"
+      - "@saministamm` 2"
       - rk4no3.cdnhoo.top:80
+      - "@saministamm 16"
       - ملی وصلnew 100 @saministamm
       - ملی وصل🇷🇺 _100 @saministamm
       - ملی وصل🇦🇹 server3 @saministamm
@@ -1247,14 +1288,15 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | تلگرام جوین باش` 2"
       - 🇬🇧 gb2.vnet500.xyz:31015
+      - "@saministamm 17"
       - 194.50.169.169:55283 2
       - sdl13.shahramv1.site:80
       - s4.laptopstock7.com:9976
       - s1.fastsnap.info:29253
-      - "@saministamm 13"
+      - "@saministamm 18"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
       - 185.136.135.172:41002 2
-      - "@saministamm 14"
+      - "@saministamm 19"
       - "@Saministamm |  جوین باش تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | چنل تگلرام"

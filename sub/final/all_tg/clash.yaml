@@ -467,7 +467,6 @@ rule-providers:
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080`, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.141.134.50:24541, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.164.72.175:2052, server: 185.164.72.175, port: 2052, type: socks5, username: rocket, password: chat, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.190.144.240:1122, server: 195.190.144.240, port: 1122, type: socks5, username: nullnetwork, password: nullnetwork, skip-cert-verify: false, udp: true, tfo: false}
@@ -476,7 +475,6 @@ proxies:
   - {name: 37.191.85.54:1852 2, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5skyportall, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.186:2026, server: 79.127.32.186, port: 2026, type: socks5, username: reza, password: !<str> 561440, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.189:38742, server: 79.127.32.189, port: 38742, type: socks5, username: 1414, password: !<str> 2026, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 81.91.147.130:8095, server: 81.91.147.130, port: 8095, type: socks5, username: Aryan va dostash, password: aryan, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.237.27:1080, server: 85.133.237.27, port: 1080, type: socks5, username: ashkan, password: a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bot.rayopoder.top:1433, server: bot.rayopoder.top, port: 1433, type: socks5, username: as, password: as, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-3.qcluster.org:4585, server: tel-pro-3.qcluster.org, port: 4585, type: socks5, username: Mahdi, password: Aa123456, skip-cert-verify: false, udp: true, tfo: false}
@@ -498,7 +496,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -507,7 +504,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
@@ -519,7 +515,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -528,7 +523,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
@@ -540,7 +534,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -549,7 +542,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
@@ -570,7 +562,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -579,7 +570,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
@@ -591,7 +581,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -600,7 +589,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
@@ -612,7 +600,6 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
-      - 127.0.0.1:1080`
       - 185.141.134.50:24541
       - 185.164.72.175:2052
       - 195.190.144.240:1122
@@ -621,7 +608,6 @@ proxy-groups:
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
-      - 81.91.147.130:8095
       - 85.133.237.27:1080
       - bot.rayopoder.top:1433
       - tel-pro-3.qcluster.org:4585
