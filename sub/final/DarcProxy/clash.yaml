@@ -468,8 +468,6 @@ proxies:
   - {name: "@ay", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 02f8ee0f-499a-4a9a-a150-f4dc8e4c85b2, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: VIP @DarcProxy, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7c607c15-6c0c-60e6-602e-08936fca83c3, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ay 2", server: airman-defense.oblivionspark.com, port: 5874, type: vless, tls: true, packet-encoding: xudp, uuid: b31c46fe-25db-4109-ab46-3f1343bd752b, host: airman-defense.oblivionspark.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 1 🌟`, server: n1.lebon-network.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: b50b3318-16d9-4f94-bca9-be1435fb556f, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 30.00GB📊@Darcproxy, server: custom.rezadvr.ir, port: 43434, type: vless, tls: true, packet-encoding: xudp, uuid: c6a85270-701e-46c5-81a7-1261fdd9e86d, host: custom.rezadvr.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -489,8 +487,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -500,8 +496,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -511,8 +505,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -531,8 +523,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -542,8 +532,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -553,8 +541,6 @@ proxy-groups:
       - "@ay"
       - VIP @DarcProxy
       - "@ay 2"
-      - 1 🌟`
-      - 30.00GB📊@Darcproxy
   - name: دانلود منیجر 📥
     type: select
     proxies:

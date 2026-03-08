@@ -1,5 +1,351 @@
 # آرشیو کانال: @SPEEDS_VPN1
-بروزرسانی: 2026-03-07 19:06:18 UTC
+بروزرسانی: 2026-03-08 05:07:52 UTC
+
+### 🕒 2026-03-08 04:10:03 UTC
+***🚨***
+ نکاتِ مهم در مورد کانفیگ هایِ جدید در شرایط حال 
+***🚨***
+ 
+***⚡️***
+در صورتی که اتصالِ خووب و قوی ای دارید به هیچ‌وجه پیشنهاد نمیشه که اتصالِ خودتون رو قطع کنید تا کانفیگ هارو تست کنید .   
+***🚨***
+اگر کانفیگی برایِ شما متصل شد ، می‌تونید همون لحظه داخلِ برنامه‌تون ( V2Box , V2Ray…
+
+---
+
+### 🕒 2026-03-08 04:08:09 UTC
+***🔴***
+**سرویس کانفیگ های اضطراری**
+***❗️***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+{"remarks":"
+***🇫🇮***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"fin-tun.a1mshop2.xyz","port":12000,"users":[{"id":"e0d7e9b0-2ed2-44a3-9a67-6a24f33eb175","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["aparat.com"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+***2️⃣***
+{"remarks":"
+***🇦🇹***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"jiji.violetsub.ir","port":6655,"users":[{"id":"ed10ef25-13ea-4a55-b5af-8bdb8cfdc421","security":"auto","level":8}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***🔴***
+به پینگ توجهی نکنید
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-03-08 03:12:15 UTC
+> ↪️ **Forwarded**
+
+***⚪️***
+اسلیپ نت 2.2.3
+[https://uplod.ir/1svk949d7pur/SlipNet-v2.2.3-full-release-universal._.htm](https://uplod.ir/1svk949d7pur/SlipNet-v2.2.3-full-release-universal._.htm)
+- لینک دیر باز میشه، صبوری کنید.
+سریع دانلود کنید تا بسته نشده
+
+---
+
+### 🕒 2026-03-08 02:57:16 UTC
+> ↪️ **Forwarded**
+
+***⚠️***
+**هشدار بازار داغ کلاه بردار ها **
+***⚠️***
+ 
+  
+**در شرایط فعلی، هیچ روش اتصال پایداری وجود ندارد، و فروش هرگونه کانفیگ با وعده‌های نادرست، صرفاً اقدامی سودجویانه است.  متأسفانه برخی افراد با سوءاستفاده از نیاز کاربران، اقدام به کلاهبرداری کرده و کانفیگ‌هایی فاقد کارایی واقعی به فروش می‌رسانند.  **
+**‼️**
+**از پرداخت وجه به این افراد خودداری فرمایید این هزینه‌ها نه‌تنها بی‌نتیجه است، بلکه فرصت کمک به افراد نیازمند را نیز از بین می‌برد.**
+**📢**
+**اطلاع‌رسانی صحیح، وظیفه‌ی جمعی ماست مشارکت کنید و اجازه سوءاستفاده ندهید.**
+***☑️***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-03-08 02:57:16 UTC
+آموزش اسکن 
+***☑***
+SLIPNET DNS
+***1️⃣***
+وارد SlipNet بشید.
+***2️⃣***
+بالا چرخدنده رو بزنید.
+***3️⃣***
+از بخش Tools روی DNS Resolver Scanner کلیک کنید.
+***4️⃣***
+بیاید پایین در بخش Resolver List کاستوم رو بزنید
+***5️⃣***
+ازتون میخواد توی اینپوت ی رنج وارد کنید
+تکی هم بزنید مثلا:
+[37.137.0.0/19](http://37.137.0.0/19)
+***6️⃣***
+بعد پایینش یک دکمه هست به اسم Load IPs بزنید
+مثلا برای همیم رنج بالا 8192 تا ایپی پیدا کرد.
+***7️⃣***
+بعد برگردید بالا Start Scan بزنید که کل این ۸ هزار ایپی رو دونه دونه اسکن کنه
+***8️⃣***
+ایپی به درد ما میخوره که امتیاز ۴ از ۴ بده بهش، تیک ns باید بخوره حتما. 
+***9️⃣***
+بعد تموم شد فیلتر بزارید رو Speed و ایپی هایی که چهار از چهار هست رو دونه دونه با پورت ۵۳ بزنید تست کنید
+***⏪***
+***❗️***
+***⏩***
+[https://ipinfo.io/AS58224](https://ipinfo.io/AS58224)
+[2.176.0.0/15](http://2.176.0.0/15)
+[2.190.0.0/15](http://2.190.0.0/15)
+[37.254.0.0/15](http://37.254.0.0/15)
+[2.178.0.0/16](http://2.178.0.0/16)
+[2.186.0.0/16](http://2.186.0.0/16)
+[2.180.128.0/17](http://2.180.128.0/17)
+[5.190.0.0/17](http://5.190.0.0/17)
+[https://ipinfo.io/AS197207](https://ipinfo.io/AS197207)
+[5.52.0.0/16](http://5.52.0.0/16)
+[5.210.0.0/16](http://5.210.0.0/16)
+[5.211.0.0/16](http://5.211.0.0/16)
+[5.212.0.0/16](http://5.212.0.0/16)
+[5.215.0.0/16](http://5.215.0.0/16)
+[5.216.0.0/16](http://5.216.0.0/16)
+[5.217.0.0/16](http://5.217.0.0/16)
+[37.129.0.0/16](http://37.129.0.0/16)
+[83.120.0.0/16](http://83.120.0.0/16)
+[83.123.0.0/16](http://83.123.0.0/16)
+Afranet
+[79.175.128.0/18](http://79.175.128.0/18)
+[31.47.32.0/19](http://31.47.32.0/19)
+[31.14.112.0/20](http://31.14.112.0/20)
+ 
+[46.102.128.0/20](http://46.102.128.0/20)
+ 
+[78.109.192.0/20](http://78.109.192.0/20)
+[86.104.32.0/20](http://86.104.32.0/20)
+[86.104.40.0/22](http://86.104.40.0/22)
+ 
+[31.14.112.0/24](http://31.14.112.0/24)
+ 
+[31.14.113.0/24](http://31.14.113.0/24)
+ 
+[31.14.114.0/24](http://31.14.114.0/24)
+***🛜***
+[95.38.176.0/20](http://95.38.176.0/20)
+[95.38.0.0/21](http://95.38.0.0/21)
+[95.38.112.0/21](http://95.38.112.0/21)
+[95.38.160.0/21](http://95.38.160.0/21)
+[95.38.232.0/21](http://95.38.232.0/21)
+[89.221.84.0/22](http://89.221.84.0/22)
+ 
+[95.38.220.0/22](http://95.38.220.0/22)
+ 
+[95.38.228.0/22](http://95.38.228.0/22)
+[95.38.56.0/23](http://95.38.56.0/23)
+[95.38.66.0/23](http://95.38.66.0/23)
+***🛜***
+MCI
+[5.52.0.0/16](http://5.52.0.0/16)
+[5.210.0.0/16](http://5.210.0.0/16)
+[5.211.0.0/16](http://5.211.0.0/16)
+[5.212.0.0/16](http://5.212.0.0/16)
+[5.216.0.0/16](http://5.216.0.0/16)
+[5.217.0.0/16](http://5.217.0.0/16)
+[37.129.0.0/16](http://37.129.0.0/16)
+[83.120.0.0/16](http://83.120.0.0/16)
+[83.123.0.0/16](http://83.123.0.0/16)
+***🛜***
+Irancell
+[2.144.0.0/16](http://2.144.0.0/16)
+[2.146.0.0/16](http://2.146.0.0/16)
+[2.147.0.0/16](http://2.147.0.0/16)
+[5.112.0.0/16](http://5.112.0.0/16)
+[5.113.0.0/16](http://5.113.0.0/16)
+[5.114.0.0/16](http://5.114.0.0/16)
+[5.115.0.0/16](http://5.115.0.0/16)
+[5.116.0.0/16](http://5.116.0.0/16)
+[5.117.0.0/16](http://5.117.0.0/16)
+[5.119.0.0/16](http://5.119.0.0/16)
+***🛜***
+RighTel
+[37.137.128.0/17](http://37.137.128.0/17)
+[95.162.0.0/17](http://95.162.0.0/17)
+[95.162.128.0/17](http://95.162.128.0/17)
+[5.134.128.0/18](http://5.134.128.0/18)
+[5.62.224.0/19](http://5.62.224.0/19)
+[5.72.0.0/19](http://5.72.0.0/19)
+[5.200.96.0/19](http://5.200.96.0/19)
+[37.137.0.0/19](http://37.137.0.0/19)
+[37.137.96.0/19](http://37.137.96.0/19)
+[89.32.0.0/19](http://89.32.0.0/19)
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-03-08 02:50:06 UTC
+***🛜***
+سرور
+***5️⃣***
+ اختصاصی slipnet
+***☑***
+ 
+***🔵***
+برای همه اپراتورها 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+ 
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+ slipnet-enc://Aaive81WUTTStHQwpzkvUWbaQn/nuBmCuYGjAUuxCpGNeNB/9H6ziMecrXTSjFSsohrjgoL4VJ+lY0vfT8eSY9Vj6veRWTHFDdZNXU1iJ5mh2CUB6d/l2Dq1M8lrPSGgwGEwS0iRfxP32ftNoNm/HsWG4qmZS7WxgGgmfTqIECA2FNflvDfBqki…
+
+---
+
+### 🕒 2026-03-08 02:44:06 UTC
+***📍***
+ 26000 آدرس DNS فعال در ایران و پابلیک برای AM Tunnel(یا روشهای مبتنی بر dns)همه در یک فایل تکست برای روز مبادا(مناسب کاربران فنی تر)
+***📍***
+راهنمای اسکن در نرم افزار SlipNet
+***1️⃣***
+یک کانفیگ سالم رو ادیت بزنین
+***2️⃣***
+به بخش Scan for working DNS
+***3️⃣***
+از بخش Resolver list  گزینه Import  رو بزنین و فایل تکست بالا رو که سیو کردین انتخاب کنین. 
+***4️⃣***
+بالا Start Scan  رو بزنین
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
+
+### 🕒 2026-03-08 02:37:30 UTC
+***🛜***
+سرور3 اختصاصی slipnet
+***☑***
+ 
+***🔵***
+برای همه اپراتورها 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+ 
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+ slipnet-enc://AeM0V7wixI3ZDwqTYVwIh+uWhOBLejI9HqPo/D2wJEh8a1mjzREUyn+D5l4h7J7yzYE9lBgeV4Azx4aBIyFIf2BIWpQLmSFQFtAn1Uzl2zbmBMhKgopRabs7U5REy6RooVBd/7uViKGq/S/6L8sCeV5r8BCktBPPq7iLc/KxQpOzUSZUlgjZYhp3c…
+
+---
+
+### 🕒 2026-03-07 19:59:58 UTC
+**برای همه اپراتورها**
+ 
+***🛜***
+***🛜***
+***🛜***
+***🛜***
+***🕦***
+**حجم سرویس نامحدود**
+**لوکیشن**
+***🇹🇷***
+**ترکیه**
+***🇩🇪***
+آلمان 
+***🇨🇦***
+کانادا 
+***🇫🇮***
+فنلاند
+***🇫🇷***
+فرانسه
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+`vless://4dd14167-ddce-49d1-8322-133e82c0cbfb@109.95.65.242:900?type=tcp&headerType=none&security=none#***🐦‍🔥***-@SPEEDS_VPN`
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***➿***
+***💙***
+**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
+***💙***
+***💙***
+**به هیچ عنوان دانلود غیرضروری نداشته باشید**
+***💙***
+***🔺***
+[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
+***🛡***
+***🔺***
+[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
+***🎯***
+***🛎***
+**کانال پروکسی**
+ 24 ساعته: 
+[@PRXYSHIT](https://t.me/PRXYSHIT)
+***🛎***
+**کانال کانفیگ**
+ 24 ساعته: 
+[@VPNSHIT](https://t.me/VPNSHIT)
+ 
+***🔤***
+ 
+[@speeds_vpn](https://t.me/speeds_vpn)
+ 
+***🔺***
+***👇***
+***👇***
+***👇***
+***👇***
+
+---
 
 ### 🕒 2026-03-07 18:58:12 UTC
 **برای همه اپراتورها**
@@ -109,37 +455,6 @@
 ***➿***
 ***➿***
 `vless://20e1938c-d198-4584-b62c-3b740c9a11ff@fn11.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#***🌪***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-07 18:34:04 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://e0d2fc5f-f6a4-414c-902c-1bbac3fbdf27@194.50.169.169:55283/?type=ws&path=%2F&host=&security=none#***🌪***-@SPEEDS_VPN1`
 ***➿***
 ***➿***
 ***➿***
@@ -1321,7 +1636,9 @@
 
 ### 🕒 2026-03-07 01:16:55 UTC
 ***🛜***
-سرور اختصاصی slipnet
+سرور
+***2️⃣***
+ اختصاصی slipnet
 ***☑***
  
 ***🔵***
@@ -1337,13 +1654,15 @@
 ***➿***
 ***➿***
 ***➿***
- slipnet-enc://AQ8DqavFZHlPR8GK0wFbqh8Y5FOVD+Pe/fUD26MR4dEHfFntPAYb8sfQCN95EfdMzTaEBlXJfzQrP5Bu1DaR13XMfuCuawQaV3wwKNYb9MvEXBlklhLe+zmkz37TArTvlpLqFef0YcQpV8Ta3T5JxD+8mL+6vVhQ0Yq2sh8TcO9JBBoCIwmhAo2wYg…
+ slipnet-enc://AQ8DqavFZHlPR8GK0wFbqh8Y5FOVD+Pe/fUD26MR4dEHfFntPAYb8sfQCN95EfdMzTaEBlXJfzQrP5Bu1DaR13XMfuCuawQaV3wwKNYb9MvEXBlklhLe+zmkz37TArTvlpLqFef0YcQpV8Ta3T5JxD+8mL+6vVhQ0Yq2sh8TcO9JBBoCIwmhAo2…
 
 ---
 
 ### 🕒 2026-03-06 23:59:43 UTC
 ***🛜***
-سرور اختصاصی slipnet
+سرور
+***1️⃣***
+ اختصاصی slipnet
 ***☑***
  
 ***🔵***
@@ -1359,7 +1678,7 @@
 ***➿***
 ***➿***
 ***➿***
- slipnet-enc://Af0PbQFL9Opj/YsVhgIp1D2OK/LeukvlrYgQTRsRg8buLN6uedMCqMA7Rcqfubi8gLMevmGQDcnk7Nk4ouMVV9DAg3FPnxjtxbg3dPdgpQXjV/Z3kXxr9u/+zzvAu1fBwJl793oKV0Yl8wcJ51dyOSY9R144WE2Kp+x3prWmwBG62Vb60ara+IRVs7…
+ slipnet-enc://Af0PbQFL9Opj/YsVhgIp1D2OK/LeukvlrYgQTRsRg8buLN6uedMCqMA7Rcqfubi8gLMevmGQDcnk7Nk4ouMVV9DAg3FPnxjtxbg3dPdgpQXjV/Z3kXxr9u/+zzvAu1fBwJl793oKV0Yl8wcJ51dyOSY9R144WE2Kp+x3prWmwBG62Vb60ara+IR…
 
 ---
 
@@ -1496,7 +1815,9 @@ udp://94.74.128.2
 
 ### 🕒 2026-03-06 21:51:39 UTC
 ***🛜***
-سرور اختصاصی slipnet
+سرور
+***1️⃣***
+ اختصاصی slipnet
 ***☑***
  
 ***🔵***
@@ -1512,13 +1833,15 @@ udp://94.74.128.2
 ***➿***
 ***➿***
 ***➿***
- slipnet-enc://Af0PbQFL9Opj/YsVhgIp1D2OK/LeukvlrYgQTRsRg8buLN6uedMCqMA7Rcqfubi8gLMevmGQDcnk7Nk4ouMVV9DAg3FPnxjtxbg3dPdgpQXjV/Z3kXxr9u/+zzvAu1fBwJl793oKV0Yl8wcJ51dyOSY9R144WE2Kp+x3prWmwBG62Vb60ara+IRVs7…
+ slipnet-enc://Af0PbQFL9Opj/YsVhgIp1D2OK/LeukvlrYgQTRsRg8buLN6uedMCqMA7Rcqfubi8gLMevmGQDcnk7Nk4ouMVV9DAg3FPnxjtxbg3dPdgpQXjV/Z3kXxr9u/+zzvAu1fBwJl793oKV0Yl8wcJ51dyOSY9R144WE2Kp+x3prWmwBG62Vb60ara+IR…
 
 ---
 
 ### 🕒 2026-03-06 21:49:50 UTC
 ***🛜***
-**سرور اختصاصی**
+**سرور**
+**1️⃣**
+** اختصاصی**
  
 **slipnet**
 ***☑***
@@ -6254,939 +6577,6 @@ ios: https://apps.apple.com/us/app/rostamvpn-vpn-fast-secure/id1487875612
 ***➿***
 ***➿***
 `vless://b9903393-92c2-4ad0-bade-a67e76addaae@gate.dotonehive.site:19705?security=none&encryption=none&headerType=http&type=tcp#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 03:42:49 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://09355d42-489a-4382-8622-d955e0d5a73e@81.12.35.97:500?security=reality&encryption=none&pbk=qq7FotlSLBWbh_HKzQ2spvs_6lPdEefoyV6AsliO3n0&headerType=none&fp=firefox&spx=%2FdHQkFxj1d82LQju&type=tcp&sni=www.aparat.com&sid=5362a85288cf6a#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 03:38:56 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://e20bdce4-bc7a-48ef-841f-cfab846a5494@2.188.212.54:80?type=ws&security=none&path=%2Fapi%2F&host=tk_tor.irannet.top&sni=tk_tor.irannet.top#***🐦‍🔥***-@SPEEDS_VPNvless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=none&encryption=none&host=skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir&headerType=http&type=tcp#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 02:32:27 UTC
-***🔴***
-**50گیگ حجم **
-***💡***
-**سرور آزمایشی متد جدید**
-***💡***
-***🔻***
-فقط جهت بررسی اتصال قابل استفاده است
-***🔻***
- لطفاً نتیجه اتصال را با ری‌اکشن اعلام فرمایید
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://40d6257f-e7db-4cb9-a055-1159a0413e6c@UK.DarinaService-IR.Store:555?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#***🟢***-@SPEEDS_VPN1vless://e151dc19-a476-40bf-b5a7-11ed9c643a7f@4l.gexar.top:21791?security=&encryption=none&headerType=http&type=tcp#***🟢***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔻***
-بهبود سرورها با همراهی شما امکان‌پذیر است
-***🔻***
-لطفاً لینک را با دوستان خود به اشتراک بگذارید تا تست نمایند.
-***🔻***
-نظرات و نتایج شما کیفیت نهایی خدمات را تعیین خواهد کرد.
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 02:31:15 UTC
-***💡***
-**سرور آزمایشی متد جدید**
-***💡***
-***🔻***
-فقط جهت بررسی اتصال قابل استفاده است
-***🔻***
- لطفاً نتیجه اتصال را با ری‌اکشن اعلام فرمایید
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@nl1.googel-arana.online:1004?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#***🟢***-@SPEEDS_VPN1vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@tr1.googel-arana.online:1005?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#***🟢***-@SPEEDS_VPN1vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@fr1.googel-arana.online:1006?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#***🟢***-@SPEEDS_VPN1vless://be8884b2-ecf4-4d37-abc2-e5a23c76f7bb@us1.googel-arana.online:1007?encryption=none&security=none&type=tcp&headerType=http&host=iranserver.com#***🟢***-@SPEEDS_VPN1vless://2c6d95d6-773c-4d94-9302-a89959fad270@ed.piko-network.top:3306?encryption=none&security=none&type=tcp&headerType=none#***🟢***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔻***
-بهبود سرورها با همراهی شما امکان‌پذیر است
-***🔻***
-لطفاً لینک را با دوستان خود به اشتراک بگذارید تا تست نمایند.
-***🔻***
-نظرات و نتایج شما کیفیت نهایی خدمات را تعیین خواهد کرد.
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 01:55:11 UTC
-***🔔***
-***🔔***
-**روش اتصال مجدد آسان **
-***🔔***
-***🔔***
-***✈️***
-بجای حالت هواپیما، میتونید دوتا APN تو تنظیمات سیمکارت تنظیم کنید (به صورت پیشفرض همه یک مورد دارند) و هر وقت فیلترشکن قطع شد بجای حالت هواپیما، سوییچ کنید روی اون یکی APN. وقت کمتری میگیره و همان کار حالت پرواز انجام میدهد.
-***✈️***
-همچنین میتونید صفحه APN رو 
-multi-wind 
-یا 
-open in pop up view 
-کنید تا دسترسی راحت تری و سریع تری داشته باشید.
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 01:15:39 UTC
-***🚨***
-**این سرور صرفا برای تست متد و روش جدید اتصال هست با ری اکشن زدن از اتصال این کانفیگ به ما اطلاع رسانی کنید **
-***🚨***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://b6c0b793-ce27-48bb-a18b-ca1e6b6a90a7@finland.411r324.ir:1313?security=&encryption=none&host=skyroom.online%2C%2Bigap.net%2C%2Bgharar.ir&headerType=http&type=tcp#***🛜***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***❗️***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***🩸***
-***❗️***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***🩸***
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-05 00:27:02 UTC
-***🩸***
-نفرت از فیلترینگ و عاملانش طبیعی و قابل درکه، چون سال‌ها با محدودیت‌های احمقانه به اعصاب و زندگیمون لطمه زدن؛ ولی اینکه میگین چرا کسی زیرساخت رو بمباران نمیکنه عجیبه!
-***⚙***
-از نظر فنی تخریب زیرساخت‌های اصلی اینترنت کمکی به آزاد شدن اینترنت نمی‌کنه، بلکه عملا می‌تونه برای ماه‌ها اینترنت رو غیرقابل بازگشت کنه.
-***📢***
-وقتی از زیرساخت حرف می‌زنیم، داریم درباره مسیرهای فیزیکی، نقاط هاب و دروازه‌ها، تجهیزات حیاتی و کنترل و مدیریت صحبت می‌کنیم و اینها چیزایی نیستن که یه دکمه بزنن دوباره بالا بیاد.
-دراینصورت اینترنت خاموش نمی‌مونه، می‌میره
-
----
-
-### 🕒 2026-03-05 00:22:53 UTC
-***♻️***
-**NEW SuperDNS**
-***🔰***
-***🟢***
-**DNS ایران 1**
-***⭕️***
-فرکانس: 1-10
-***🛜***
-رایتل
-***🟢***
-**DNS ایران17**
-***🛜***
-ایرانسل
-
----
-
-### 🕒 2026-03-05 00:15:35 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-{"remarks":"@SPEEDS_VPN1","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"i2.paatogh.top","port":53800,"users":[{"id":"4e7547f8-57a7-4a5a-8e1a-0d36726ffd44","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"http","request":{"path":["/"],"headers":{"Host":["divarcdn.ir"],"User-Agent":["Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.122 Mobile Safari/537.36"],"Accept-Encoding":["gzip, deflate"],"Connection":["keep-alive"],"Pragma":"no-cache"},"version":"1.1","method":"GET"}}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 23:42:39 UTC
-***💡***
-**سرور آزمایشی متد جدید**
-***💡***
-***🔻***
-فقط جهت بررسی اتصال قابل استفاده است
-***🔻***
- لطفاً نتیجه اتصال را با ری‌اکشن اعلام فرمایید
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://a4b4da71-95f1-4bfd-b2b7-341b8208acb4@fl1.googel-arana.online:1003?security=none&encryption=none&host=iranserver.com&headerType=http&type=tcp#***🟢***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔻***
-بهبود سرورها با همراهی شما امکان‌پذیر است
-***🔻***
-لطفاً لینک را با دوستان خود به اشتراک بگذارید تا تست نمایند.
-***🔻***
-نظرات و نتایج شما کیفیت نهایی خدمات را تعیین خواهد کرد.
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 23:34:09 UTC
-***♻️***
-**NEW SuperDNS**
-***🔰***
-***🔹***
-`udp://223.5 5.5`
-***⭕️***
-فرکانس2 
-***🛜***
-همراه اول
-
----
-
-### 🕒 2026-03-04 23:15:07 UTC
-> ↪️ **Forwarded**
-
-***💢***
-حملات امشب به‌شدت سنگین بوده، همونطور که ترامپ گفته بود !
-‌
-***🖥***
- 
-[@begakhbr](https://t.me/begakhbr)
- | بگا خبر 
-***🟢***
-
----
-
-### 🕒 2026-03-04 23:09:22 UTC
-***♻️***
-**NEW SuperDNS**
-***🔰***
-***🔹***
-udp://223.5.5.5
-***🛜***
-همراه اول
-***⭕️***
- فرکانس 2
-***🔹***
-udp://5.160.12.98 
-***🛜***
-ایرانسل 
-***⭕️***
-فرکانس 1 
-***🔹***
-udp://77.88.8.8
-***🛜***
-همراه اول
-***⭕️***
- فرکانس 6
-***🔹***
-udp://208.67.222.222
-***⭕️***
-فرکانس 2 و 1
- 
-***🛜***
-همراه اول 
-***🔹***
-udp://208.67.220.220
-***🛜***
-همراه اول 
-***⭕️***
-فرکانس 1
-***🔹***
-udp://8.8.8.8
-***🛜***
-***🛜***
- همراه اول  ایرانسل
-***⭕️***
- فرکانس 1
-***🔹***
-udp://8.8.4.4
-***🛜***
-همراه 
-***⭕️***
-فرکانس 3
-***🔹***
-udp://77.88.8.8
-***🛜***
-همراه
-***⭕️***
- فرکانس 2
-***🔹***
-udp://156.154.70.1
-***⭕️***
-فرکانس 3 
-***🛜***
-همراه
-***🔹***
-udp://80.80.80.80
-***🛜***
-همراه
-***⭕️***
- فراکانس 
-﻿
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 22:57:52 UTC
-***🔰***
-**SuperDNS**
-***🔹***
-`udp://77.88.8.8`
-***🛜***
-همراه‌اول 
-***⭕️***
-فرکانس 6
-
----
-
-### 🕒 2026-03-04 22:42:41 UTC
-***🚨***
- نکاتِ مهم در مورد کانفیگ هایِ جدید در شرایط حال 
-***🚨***
- 
-***⚡️***
-در صورتی که اتصالِ خووب و قوی ای دارید به هیچ‌وجه پیشنهاد نمیشه که اتصالِ خودتون رو قطع کنید تا کانفیگ هارو تست کنید .   
-***🚨***
-اگر کانفیگی برایِ شما متصل شد ، می‌تونید همون لحظه داخلِ برنامه‌تون ( V2Box , V2Ray…
-
----
-
-### 🕒 2026-03-04 22:41:47 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://ed8cd325-e1b2-64dc-68dd-7ed60e278b5c@srv-s0.netmaster.cam:801?path=%2F&security=none&encryption=none&type=ws#***🌪***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 22:14:11 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://14c2efa6-8d90-4d0e-94f5-e4d5773e268e@31.14.115.178:12851?security=none&encryption=none&headerType=none&type=tcp#***🌪***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 22:12:09 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://d99bfa6d-4d76-4258-acc6-694866d24428@royalhost.zearocloud.com:2305?security=none&type=tcp&headerType=http&path=/&host=speedtest.net#***🌪***-@SPEEDS_VPN1vless://83066abf-7d68-4d6f-9585-62ebdf2087aa@saghi.theoriex.nl:22775?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#***🌪***-@SPEEDS_VPN1vless://f0874314-b134-4d38-84c2-d1b32cd30136@vipde1.persianpinggame.com:9091?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#***🌪***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 21:53:17 UTC
-***🆕***
- 
-**آپدیت جدید AM Tunnel**
-***🔤***
-***❗️***
-حتما اون بالا سه نقطه رو بزنید و Update رو بزنید
-بروزرسانی درون برنامه ای به ورژن
-90 تغییر کرد
-***❗️***
-حجمش خیلی کمه چند ثانیه زمان میبره...
-***❗️***
-تو نسخه 90 برنامه AM TUNNEL LITE VPN
-قسمت super dns رو باز کنید و در قسمت سرچ(همون جایی که Custom dnsهست) سرورهای ایران
-***😀***
- اضافه شده 
-***❗️***
-سرور های 
-ایران 16 
- ایران 17
- ایران 19
-با فرکانس 1 بزنید متصل میشه
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 21:30:40 UTC
-***🔴***
-**سرویس کانفیگ های اضطراری**
-***❗️***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://cfa5c04c-abb6-4d5c-9592-e1bbb6083a92@4l.gexar.top:21791?security=none&encryption=none&headerType=http&type=tcp#***🌪***-@SPEEDS_VPN1vless://e6eec2e9-f98d-4fd4-afac-c504123231cf@104.16.89.18:443?path=%2F&security=tls&encryption=none&host=rukawa.pages.dev&type=ws&sni=rukawa.pages.dev#***🌪***-@SPEEDS_VPN1vless://5976b860-e481-41e2-b2f2-9f8901bf84a2@94.183.241.159:22222?security=none&encryption=none&headerType=none&type=tcp#***🌪***-@SPEEDS_VPN1vless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@clyde.ns.cloudflare.com:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#***🌪***-@SPEEDS_VPN1vless://d9a83363-40a6-4a21-9dbe-cb2b7d287048@104.26.15.21:443?path=%2F107.174.121.122%3D443&security=tls&encryption=none&host=afrcloud22.mmv.kr&type=ws&sni=afrcloud22.mmv.kr#***🌪***-@SPEEDS_VPN1`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***🔴***
-به پینگ توجهی نکنید
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 20:52:47 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://67fd9d67-7693-4a28-e7a1-fb02c8008cef@18.153.68.212:50170?security=none&encryption=none&headerType=none&type=tcp#***🐦‍🔥***-@SPEEDS_VPNvless://65e0671a-3a42-4f6d-9cd5-3e0d4c6bc43f@40.rexg.ir:11001?security=none&encryption=none&host=fire194.centerplus.xyz&headerType=http&type=tcp#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 20:00:20 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://d6e51590-555b-400a-9fda-3e091bf84176@bia.gdsrguydsrghj.ir:1010?security=none&encryption=none&headerType=http&type=tcp#***🐦‍🔥***-@SPEEDS_VPN`
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***💙***
-**با ری اکشن ، فوروارد پست از حمایت حمایت کنید**
-***💙***
-***💙***
-**به هیچ عنوان دانلود غیرضروری نداشته باشید**
-***💙***
-***🔺***
-[برنامه حتما آپدیت باشه](https://t.me/Speeds_vpnhelp/17?single)
-***🛡***
-***🔺***
-[آموزش اتصال به کانفیگ ](https://t.me/Speeds_vpnhelp/25)
-***🎯***
-***🛎***
-**کانال پروکسی**
- 24 ساعته: 
-[@PRXYSHIT](https://t.me/PRXYSHIT)
-***🛎***
-**کانال کانفیگ**
- 24 ساعته: 
-[@VPNSHIT](https://t.me/VPNSHIT)
- 
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 19:42:56 UTC
-***🔰***
-**SuperDNS**
-***🔹***
-`udp://223.5.5.5.   `
-***🛜***
-همراه اول
-***⭕️***
- فرکانس 2
-***🔹***
-`udp://5.160.12.98 `
-***⭕️***
-فرکانس 1
-***🛜***
- ایرانسل
-***🔹***
-`udp://77.88.8.8`
-***🛜***
-همراه اول
-***⭕️***
- فرکانس 6
-***🔹***
-`udp://208.67.222.222`
-***⭕️***
-فرکانس 2 و 1 
-***🛜***
-همراه اول
-***🔹***
-`udp://208.67.220.220`
-***🛜***
-همراه اول 
-***⭕️***
-فرکانس 1
-***🔹***
-`udp://8.8.8.8`
-***🛜***
-***🛜***
- همراه اول  ایرانسل 
-***⭕️***
-فرکانس 1
-***🔹***
-`udp://8.8.4.4`
-***🛜***
-همراه
-***⭕️***
- فرکانس 3
-***🔹***
-`udp://77.88.8.8`
-***🛜***
-همراه
-***⭕️***
- فرکانس2
-***🔹***
-`udp://156.154.70.1`
-***⭕️***
-فرکانس 3
-***🛜***
- همراه
-***🔹***
-`udp://80.80.80.80`
-***🛜***
-همراه
-***⭕️***
- فرکانس 3
-***🔤***
- 
-[@speeds_vpn](https://t.me/speeds_vpn)
- 
-***🔺***
-***👇***
-***👇***
-***👇***
-***👇***
-
----
-
-### 🕒 2026-03-04 19:14:06 UTC
-**برای همه اپراتورها**
- 
-***🛜***
-***🛜***
-***🛜***
-***🛜***
-***🕦***
-**حجم سرویس نامحدود**
-**لوکیشن**
-***🇹🇷***
-**ترکیه**
-***🇩🇪***
-آلمان 
-***🇨🇦***
-کانادا 
-***🇫🇮***
-فنلاند
-***🇫🇷***
-فرانسه
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-***➿***
-`vless://fb829049-08e7-4111-a909-0bd2256cb516@vpnstar.lithiumhost.ir:8080?security=&encryption=none&headerType=&type=tcp#***🐦‍🔥***-@SPEEDS_VPNvless://91f8b4d5-b9eb-4740-b560-df710cc3c5e2@pl1.heliyadak.ir:3228?security=none&encryption=none&type=ws#***🐦‍🔥***-@SPEEDS_VPNvless://7e1d32bf-741f-30f3-1b0c-0452b695c07f@srv-c0.netmaster.cam:8008?security=none&encryption=none&type=ws&sni=1#***🐦‍🔥***-@SPEEDS_VPNvless://80662112-2307-4b95-9837-b3d1cc6c0dd2@de-2-tun.healingfluence.org:8081?security=none&encryption=none&host=cafebazaar.ir&headerType=http&type=tcp#***🐦‍🔥***-@SPEEDS_VPN`
 ***➿***
 ***➿***
 ***➿***
