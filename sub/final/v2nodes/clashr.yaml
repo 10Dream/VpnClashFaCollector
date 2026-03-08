@@ -12,7 +12,6 @@ proxies:
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 158.173.20.171:443, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: 66.94.125.178:80, server: 66.94.125.178, port: 80, type: ss, cipher: aes-256-gcm, password: 14CLBaFBqwqxBJy6, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -47,7 +46,6 @@ proxies:
   - {name: 🇵🇱 poland-meow.nethcloud.top:8443, server: poland-meow.nethcloud.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.71.33:443, server: 104.16.71.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 107.173.181.236:7700, server: 107.173.181.236, port: 7700, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: fqrf5tlc.chinav.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: fqrf5tlc.chinav.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.24.140.37:443, server: 144.24.140.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 34.212.240.129:443, server: 34.212.240.129, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: fqrf5tlc.chinav.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: fqrf5tlc.chinav.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.146.82.107:35292, server: 45.146.82.107, port: 35292, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: /danfeng, headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.31.215:443, server: 171.22.31.215, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0f0798-1099-4e72-8c69-efe9b8b6a9b8, servername: vpn.xorealis.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY, short-id: 131df166be01a436}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -66,10 +64,10 @@ proxies:
   - {name: 85.192.49.213:443, server: 85.192.49.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mos-drywall.shop:443, server: mos-drywall.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: my-rebar.shop:443, server: my-rebar.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: dd.openaccessnode.com:50, server: dd.openaccessnode.com, port: 50, type: vless, tls: true, packet-encoding: xudp, uuid: 75193bef-8d8f-e823-41e0-2dd083dc1399, host: dd.openaccessnode.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 192.9.162.122:1443, server: 192.9.162.122, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a169e43-ff85-4572-9843-ba7207d07319, servername: swdist.apple.com, host: swdist.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk, short-id: dde50f55d81116}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.26.211:7443, server: 45.139.26.211, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc953d6-ae75-46fb-a970-10b57d513487, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA, short-id: fd88bd27db4cc661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 47.236.152.192:46137, server: 47.236.152.192, port: 46137, type: vless, tls: true, packet-encoding: xudp, uuid: 847975b8-6bd5-4904-de77-6b5590800f5d, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 103.213.249.62:8443, server: 103.213.249.62, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 84b5a48a-4c69-493c-87cb-09cbdfa7a450, servername: ign.dev, host: ign.dev, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 ch2.fastlanehosting.ru:443, server: ch2.fastlanehosting.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e3bf431-98ad-413b-b34f-cf5ee154a4ba, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU, short-id: 0c80cc39}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 217.13.105.19:7443, server: 217.13.105.19, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 928beba1-eef6-478a-b06f-db6bc020e078, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 179.43.176.216:443, server: 179.43.176.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -94,6 +92,7 @@ proxies:
   - {name: 🇺🇸 partner.zoom.us:80, server: partner.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: eddebc92-b9f7-4019-8a11-0d733bfe665d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: 3d74c959-2a4c-4df8-887a-4f9736a77b6f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 49.51.184.74, port: 31976, type: vmess, uuid: cde69f5b-2641-469d-8930-fd290d084adf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: v5.cdn.fkjw4wq0g5.ewddns.net, port: 5503, type: vmess, uuid: 3fa3cc38-9ad1-444d-883e-21fbdc4532af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v5.cdn.fkjw4wq0g5.ewddns.net}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -108,7 +107,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -143,7 +141,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -162,10 +159,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -190,6 +187,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: ♻️ 自动选择
     type: url-test
@@ -204,7 +202,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -239,7 +236,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -258,10 +254,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -286,6 +282,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: 🌍 国外媒体
     type: select
@@ -300,7 +297,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -335,7 +331,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -354,10 +349,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -382,6 +377,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: 📲 电报信息
     type: select
@@ -395,7 +391,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -430,7 +425,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -449,10 +443,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -477,6 +471,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: Ⓜ️ 微软服务
     type: select
@@ -490,7 +485,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -525,7 +519,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -544,10 +537,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -572,6 +565,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: 🍎 苹果服务
     type: select
@@ -585,7 +579,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -620,7 +613,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -639,10 +631,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -667,6 +659,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: 🎯 全球直连
     type: select
@@ -702,7 +695,6 @@ proxy-groups:
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
-      - 66.94.125.178:80
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -737,7 +729,6 @@ proxy-groups:
       - 🇵🇱 poland-meow.nethcloud.top:8443
       - 104.16.71.33:443
       - 107.173.181.236:7700
-      - 144.24.140.37:443
       - 34.212.240.129:443
       - 45.146.82.107:35292
       - 171.22.31.215:443
@@ -756,10 +747,10 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - dd.openaccessnode.com:50
       - 192.9.162.122:1443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
+      - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
       - 217.13.105.19:7443
       - 179.43.176.216:443
@@ -784,6 +775,7 @@ proxy-groups:
       - 🇺🇸 partner.zoom.us:80
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
+      - 🇺🇸 [openproxylist.com] vmess-US
       - 🇸🇬 [openproxylist.com] vmess-SG
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

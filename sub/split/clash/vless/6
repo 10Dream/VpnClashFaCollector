@@ -465,6 +465,36 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@filembad`", server: 104.16.89.18, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e6eec2e9-f98d-4fd4-afac-c504123231cf, servername: rukawa.pages.dev, network: ws, ws-opts: {path: /, headers: {Host: rukawa.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: sdl13.shahramv1.site:80, server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus`, server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount`, server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 2, server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: sdl13.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e7477159-9f03-4dd4-b743-13c268c34f49, host: sdl13.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 194.85.249.173:433, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️17@oneclickvpnkeys, server: 194.85.249.173, port: 433, type: vless, tls: true, packet-encoding: xudp, uuid: e81a36d5-b3c3-48e0-bf08-d8938a247391, servername: www.google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: LSqEbA7EfGiohFgxMYtFJq61jSd9wuSWqR__krgtERc, short-id: d239de8e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: s4.laptopstock7.com:9976, server: s4.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: e83e714e-d2ca-486b-ae88-1e40b2c2d0a8, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚛️46@oneclickvpnkeys, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37@oneclickvpnkeys, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 26@oneclickvpnkeys, server: 104.26.3.125, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: e8d06b09-acd9-448c-9874-3c36151d36ee, network: ws, ws-opts: {path: /, headers: {Host: icy-wildflower-2590.lihuifeng595.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: melli.tehransnr.com:443, server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[🏁]KIA_NET", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "- KIA_NET", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "- KIA_NET`", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 2, server: melli.tehransnr.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8f8d7d6-8c21-4499-b6b4-2bc9972fff72, host: melli.tehransnr.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 45.144.124.143, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e8fbac3b-04c2-4016-b56f-eee23b35f8c8, network: ws, ws-opts: {path: /, headers: {Host: 45.144.124.143}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.250.3.29:7445, server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MerlinVPN", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 3, server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: e96096d9-74c7-4a64-904a-cab4a4428cce, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: meli2.ertebatgoostar.ir:2087, server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: ea6c0fde-2dc1-469d-b2dd-c660937345e1, host: meli2.ertebatgoostar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 24⚛️@oneclickvpnkeys, server: 176.97.78.29, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ae.cdn.stun.su, host: ae.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w, short-id: 41a0b29e95aaea87}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 22⚛️@oneclickvpnkeys, server: ae.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ae.cdn.stun.su, host: ae.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w, short-id: 41a0b29e95aaea87}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gamix.ncop.ir:2086, server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 🇫🇷", server: gamix.ncop.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: eb4f770d-f8d7-4e15-acbe-d42f16bf1cda, host: soft98.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -479,38 +509,38 @@ proxies:
   - {name: s1.fastsnap.info:29253 2, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ViP_FragMent_v2ray*", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@airdrop2033`", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 2", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 2", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim`", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`, server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1`", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@vasl_bashim`", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 2", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: "%2F%3FBIA_TEL", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 3", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: "%2F%3FBIA_TEL", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MARAMBASHI 💟", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI", path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 3", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: "%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 4", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: "%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 20⚛️@oneclickvpnkeys, server: 159.223.205.196, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eca5271c-c716-4256-b6a7-bc662aca2976, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qKKK80HelRY6m3BxpQipcg2B09oMDA360saGZH2Us3w, short-id: 0092e5714c4b8401}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus`, server: 94.101.178.133, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ecaf9d28-0013-43bd-92c4-cf7135f215dc, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: 94.101.178.133, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ecaf9d28-0013-43bd-92c4-cf7135f215dc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 4, server: 94.101.178.133, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ecaf9d28-0013-43bd-92c4-cf7135f215dc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 94.101.178.133, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ecaf9d28-0013-43bd-92c4-cf7135f215dc, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.146.118:8443, server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3548", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b`", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mp.kharazmi.top:30086, server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A6", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1` 2", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 4", server: 185.112.59.134, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: ed609427-35be-4fe6-a8dd-a23f0bd1916a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 185.112.59.134, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: ed609427-35be-4fe6-a8dd-a23f0bd1916a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 2", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: ecd14e28-48c2-402d-8ea2-0652f79dccbe, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 5, server: adham.devil140.com, port: 47441, type: vless, tls: true, packet-encoding: xudp, uuid: ed440072-5bbd-4536-9eae-45a94893d48b, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim 5", server: 185.112.59.134, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: ed609427-35be-4fe6-a8dd-a23f0bd1916a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: srv-s0.netmaster.cam:801, server: srv-s0.netmaster.cam, port: 801, type: vless, tls: true, packet-encoding: xudp, uuid: ed8cd325-e1b2-64dc-68dd-7ed60e278b5c, network: ws, ws-opts: {path: /, headers: {Host: srv-s0.netmaster.cam}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 185.112.59.134, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: ed609427-35be-4fe6-a8dd-a23f0bd1916a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 6", server: 185.112.59.134, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: ed609427-35be-4fe6-a8dd-a23f0bd1916a, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gerfan.rjwarehousing.ir:9987, server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gerfan.rjwarehousing.ir:9987 2, server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 2", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 3", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan A1", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 6", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 7", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 2, server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟`, server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -518,118 +548,114 @@ proxies:
   - {name: "@meliproxyy` 2", server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: configraygan, server: gerfan.rjwarehousing.ir, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: ee33fe22-aae6-4f52-8ce4-b5373c9af35f, host: refersion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET", server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad", server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 2", server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: خب`, server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ViP, server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 2, server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 7", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 6, server: 89.45.56.83, port: 50156, type: vless, tls: true, packet-encoding: xudp, uuid: ee5ac6bd-3709-45d4-83e3-086cb10827ad, network: ws, ws-opts: {path: /, headers: {Host: 89.45.56.83}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 8", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit`", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 8", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount`, server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 3, server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 4, server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 9", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 3, server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 7, server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 8", server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 8, server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET 2", server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 9", server: fin-tun.a1mshop2.xyz, port: 12000, type: vless, tls: true, packet-encoding: xudp, uuid: eea2e287-9fbd-4833-9f3e-ed0535eb46f1, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 9, server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET - cy`", server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 10", server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 10", server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: haji.arezoni1.ir:666, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 9", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: haji.arezoni1.ir:666 2, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 11", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]KIA_NET`", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: eef39638-45eb-47c1-ba53-708eea36210c, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 60@oneclickvpnkeys`, server: 104.21.12.63, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, servername: INDEX.Arcane509.Workers.DEV, alpn: [http%2F1.1], network: ws, ws-opts: {path: /assets, headers: {Host: INDEX.Arcane509.Workers.DEV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 39@oneclickvpnkeys, server: 172.67.145.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef23616d-8a9d-4b22-b2f5-9bda864de179, servername: index.arcane509.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /assets, headers: {Host: index.arcane509.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emergency5380.carpet-carpet-carped.ir:5380, server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 5, server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 10", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 10", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 12", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: hp-3, server: emergency5380.carpet-carpet-carped.ir, port: 5380, type: vless, tls: true, packet-encoding: xudp, uuid: ef2588ed-6162-4ee3-a002-39ef1c09e848, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51@oneclickvpnkeys, server: 79.174.93.97, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f05f2d3b-a4ef-4632-87b3-2c3b95acac94, servername: 5post-gate.x5.ru, host: 5post-gate.x5.ru, path: /, reality-opts: {public-key: 1pGj8PcwRaaGCczGo2d0BFCrIhlQSi4wJisOBK6HCD8, short-id: 93a44218c398feca}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vipde1.persianpinggame.com:9091, server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 6, server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 11", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 10, server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 11", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 13", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]KIA_NET` 2", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: vipde1.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: f0874314-b134-4d38-84c2-d1b32cd30136, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 2", server: beta.tomandjery.eu, port: 1002, type: vless, tls: true, packet-encoding: xudp, uuid: f0a13360-5639-4903-997e-50c5b89611f5, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 8kF3OSt4WYVsMqvbgoq2wGzRXk05az1AeVE2v9596V8, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.75.255:8081, server: 51.250.75.255, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: f1449968-0329-468b-b56b-1c573ac2a767, servername: eh.vk.com, host: eh.vk.com, path: /, reality-opts: {public-key: EJKcPSl0dv7mtU26gg6tUmKPw_aDvO2AHraRgNn6B14, short-id: 425ba80cd1a821a8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 12", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8161", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 2", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 2", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 7, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 5", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 11, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.101.10.79:443, server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 13", server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 8, server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 12, server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 14", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 4", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443 2, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 15", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443 3, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 16", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 6", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443 4, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 17", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 7", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443 5, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 13", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 18", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 8", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443 6, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 14", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 19", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 9, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 10, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 11, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 12, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 13, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 14, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 15, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 16, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 17, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 18, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: web3.trmas-po.ir:8080, server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 15", server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 20", server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 15, server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 19, server: web3.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: web4.trmas-po.ir:8080, server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 16", server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 21", server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 16, server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 20, server: web4.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: webpanel.trmas-po.ir:8080, server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 17", server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 22", server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 3", server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 17, server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 21, server: webpanel.trmas-po.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, network: ws, ws-opts: {path: /, headers: {Host: asli.svnteam-vip-fast.ip-ddns.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: VIP2.xQFire.iR:811, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit` 2", server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: VIP2.xQFire.iR:811 2, server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇹🇷]💜TEL●@KIA_NET💜", server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇹🇷]KIA_NET", server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 11⚛️@oneclickvpnkeys, server: fffghyu.0on.ccwu.cc, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f2651ec7-3234-4340-8efc-f070901a02e5, network: ws, ws-opts: {path: /bMr5KXQVVEJM1JyJ, headers: {Host: FFFgHYU.0oN.cCWU.cC}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 18", server: ww.vidboxco.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f2711ff4-0951-4bc6-a4e5-02f240dd3218, servername: page5.iranvatanam.com, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: page5.iranvatanam.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 18, server: ww.vidboxco.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f2711ff4-0951-4bc6-a4e5-02f240dd3218, servername: page5.iranvatanam.com, network: ws, ws-opts: {path: "?ed=2048", headers: {Host: page5.iranvatanam.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 23", server: ww.vidboxco.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f2711ff4-0951-4bc6-a4e5-02f240dd3218, servername: page5.iranvatanam.com, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: page5.iranvatanam.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 22, server: ww.vidboxco.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: f2711ff4-0951-4bc6-a4e5-02f240dd3218, servername: page5.iranvatanam.com, network: ws, ws-opts: {path: "?ed=2048", headers: {Host: page5.iranvatanam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.159.153.4:443, server: 162.159.153.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f2a73750-3087-48ff-a763-1348c15dce68, servername: rAyAn-007.mAxImA.DpDnS.OrG, network: ws, ws-opts: {path: /, headers: {Host: rAyAn-007.mAxImA.DpDnS.OrG}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️19@oneclickvpnkeys, server: 162.159.153.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f2a73750-3087-48ff-a763-1348c15dce68, servername: rAyAn-007.mAxImA.DpDnS.OrG, network: ws, ws-opts: {path: /, headers: {Host: rAyAn-007.mAxImA.DpDnS.OrG}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 19, server: 31.47.42.140, port: 12452, type: vless, tls: true, packet-encoding: xudp, uuid: f2c2a7b2-fb24-4527-c8d9-a9eac1792c26, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 20, server: 37.152.175.201, port: 40001, type: vless, tls: true, packet-encoding: xudp, uuid: f2f17144-6b9a-494d-a1cd-dc146514a719, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 21, server: 37.152.175.201, port: 40001, type: vless, tls: true, packet-encoding: xudp, uuid: f2f17144-6b9a-494d-a1cd-dc146514a719, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 19", server: 37.152.175.201, port: 40001, type: vless, tls: true, packet-encoding: xudp, uuid: f2f17144-6b9a-494d-a1cd-dc146514a719, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 2, server: 37.152.175.201, port: 40001, type: vless, tls: true, packet-encoding: xudp, uuid: f2f17144-6b9a-494d-a1cd-dc146514a719, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 4, server: 37.152.175.201, port: 40001, type: vless, tls: true, packet-encoding: xudp, uuid: f2f17144-6b9a-494d-a1cd-dc146514a719, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli`", server: 188.213.198.179, port: 4090, type: vless, tls: true, packet-encoding: xudp, uuid: f32854d7-2049-432e-9bc4-9498650293e0, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 12", server: 188.213.198.179, port: 4090, type: vless, tls: true, packet-encoding: xudp, uuid: f32854d7-2049-432e-9bc4-9498650293e0, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 14", server: 188.213.198.179, port: 4090, type: vless, tls: true, packet-encoding: xudp, uuid: f32854d7-2049-432e-9bc4-9498650293e0, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 3", server: 188.213.198.179, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: f32854d7-2049-432e-9bc4-9498650293e0, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 22, server: 109.95.65.242, port: 900, type: vless, tls: true, packet-encoding: xudp, uuid: f37a8e41-7a70-4650-9ceb-190361885a6d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 2", server: 2.144.5.136, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f519e629-6650-40f4-83a8-e0c8d154193c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 13", server: 2.144.5.136, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f519e629-6650-40f4-83a8-e0c8d154193c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 15", server: 2.144.5.136, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f519e629-6650-40f4-83a8-e0c8d154193c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.136.135.172:41002, server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 14", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 16", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit` 3", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 15", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 17", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: titan.socialxxmedia.pro:1937, server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: f59cb954-d3b1-4075-aafb-b1ebfad2833c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan O5", server: titan.socialxxmedia.pro, port: 1937, type: vless, tls: true, packet-encoding: xudp, uuid: f59cb954-d3b1-4075-aafb-b1ebfad2833c, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -640,10 +666,10 @@ proxies:
   - {name: 🇳🇱 nl1.vnet500.xyz:26099, server: nl1.vnet500.xyz, port: 26099, type: vless, tls: true, packet-encoding: xudp, uuid: f657c001-5d99-4dbc-a04f-f9128660287a, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 1", server: nl1.vnet500.xyz, port: 26099, type: vless, tls: true, packet-encoding: xudp, uuid: f657c001-5d99-4dbc-a04f-f9128660287a, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 13", server: nl1.vnet500.xyz, port: 26099, type: vless, tls: true, packet-encoding: xudp, uuid: f657c001-5d99-4dbc-a04f-f9128660287a, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 5", server: 87.107.82.171, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 16", server: 87.107.82.171, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 6", server: 87.107.82.195, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 17", server: 87.107.82.195, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 6", server: 87.107.82.171, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 18", server: 87.107.82.171, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 7", server: 87.107.82.195, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 19", server: 87.107.82.195, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: f6bec3c4-c29d-4392-a4fe-96936b9b3005, network: ws, ws-opts: {path: "/abc?ed=2048", headers: {Host: film-doni.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr1.miyazono-kaori.com:443, server: fr1.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: www.lvmh.com, host: www.lvmh.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc, short-id: 65ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️25@oneclickvpnkeys, server: fr1.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: www.lvmh.com, host: www.lvmh.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: OhVlH8lBJp6uiNx_RrMQcp3mxyguvSeCAiymCtLIhTc, short-id: 65ef}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️63@oneclickvpnkeys, server: nl2.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: www.philips.com, host: www.philips.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Ncb78PVwvwU2tB1eiOlJd0ZCG2CbqG7-dPIHztlq2yM, short-id: 69cc4c0d5e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -654,25 +680,24 @@ proxies:
   - {name: 21⚛️@oneclickvpnkeys`, server: us4.miyazono-kaori.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f6c7016b-6f94-4a32-975c-013f2494d312, servername: download-porter.hoyoverse.com, host: download-porter.hoyoverse.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: YphMgjDVmVZ61e0Mk-zN-U6g7J8GYJ54Fu-6jWspLCM, short-id: df87bd8692334e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: emergency2.layer-ziro.ir:2002, server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f6f63745-ec4a-4fa7-bac4-04aa571a4ae0, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 4", server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f6f63745-ec4a-4fa7-bac4-04aa571a4ae0, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 18", server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f6f63745-ec4a-4fa7-bac4-04aa571a4ae0, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 20", server: emergency2.layer-ziro.ir, port: 2002, type: vless, tls: true, packet-encoding: xudp, uuid: f6f63745-ec4a-4fa7-bac4-04aa571a4ae0, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.43.79.73:443, server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: " ", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.43.79.73:443 2, server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 3", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 4", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 5", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 3", server: 45.43.79.73, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f79d200c-ac04-45a8-98a7-031d629f705c, servername: google.com, host: google.com, path: /, reality-opts: {public-key: sSxz8on32QOT9c9J-03K911U9vFr6xBKcK2zVfvk4QI, short-id: cd620180}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 2", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 3", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: link.mizbanertebatfarda.site:3010, server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 6", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: link.mizbanertebatfarda.site:3010 2, server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "More : @configraygan", server: link.mizbanertebatfarda.site, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: f7ce4158-d115-405d-bf6a-eb739734e1c7, servername: myket.ir, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: myket.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@free_netplus | 🔥`", server: vdsina.oblakovpn.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f7fef35a-ef3e-4824-bcb0-62e94f7676c9, servername: eh.vk.ru, host: eh.vk.ru, path: /, reality-opts: {public-key: ZVfaZBEaPWlmb-Srxncu2WDACudPbm48S1V1Zy2ZcRw, short-id: 78523b486884cc4d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.81.86.158:443, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 23, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 20", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 24", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@harfbzaniiim`", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 6", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 19", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 21", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 4", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 14", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 4", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
@@ -681,70 +706,64 @@ proxies:
   - {name: 103.81.86.158:443 2, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇮🇷 @IranProxyPlus` 24, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET🔆`", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 21", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇻🇳]", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 15", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1 3", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.81.86.158:443 3, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 25, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 22", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 16", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.81.86.158:443 4, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 3, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 26, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 23", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 5, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇮🇷 @IranProxyPlus` 25, server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1 4", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🌪***-@SPEEDS_VPN1` 3", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 51.250.3.29:7445, server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 24", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 51.250.3.29:7445 2, server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 5", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 20", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 22", server: 51.250.3.29, port: 7445, type: vless, tls: true, packet-encoding: xudp, uuid: f99aa5b1-01b6-4ad7-89c8-935b9c29b8ac, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19⚛️@oneclickvpnkeys, server: premium-ru-nsk.geodema.network, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f9c72c6d-8d6e-4032-9f29-9c7c0bb9c24b, servername: premium-ru-nsk.geodema.network, host: premium-ru-nsk.geodema.network, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8, short-id: 1ed136481e0ede74}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: drop3.iransport90.ir:3478, server: drop3.iransport90.ir, port: 3478, type: vless, tls: true, packet-encoding: xudp, uuid: fa424e28-6cec-4c95-a9de-b7589cd48b00, host: drop3.iransport90.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 4, server: drop3.iransport90.ir, port: 3478, type: vless, tls: true, packet-encoding: xudp, uuid: fa424e28-6cec-4c95-a9de-b7589cd48b00, host: drop3.iransport90.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 6, server: drop3.iransport90.ir, port: 3478, type: vless, tls: true, packet-encoding: xudp, uuid: fa424e28-6cec-4c95-a9de-b7589cd48b00, host: drop3.iransport90.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 7", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C%20gharar.ir%2C%20igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885, server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 7", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 17", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 3", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN` 4", server: x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com, port: 885, type: vless, tls: true, packet-encoding: xudp, uuid: fa6c5f03-dcf6-4e01-86d3-4a2216ff41fb, host: skyroom.online%2C+gharar.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 partner.zoom.us:80, server: partner.zoom.us, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: fac62eac-1eec-4260-a991-0cac2f8745a3, network: ws, ws-opts: {path: /@Tech_Sonic, headers: {Host: free-server.techsonic.ggff.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.183.149.205:8882, server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan 4", server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 21", server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@configraygan 5", server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 23", server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: دانلود نکن برادر @Vpn_Sky`, server: 94.183.149.205, port: 8882, type: vless, tls: true, packet-encoding: xudp, uuid: facbfb6d-873b-4faa-f998-945fcb03674c, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: VIP.xQFire.iR:911, server: VIP.xQFire.iR, port: 911, type: vless, tls: true, packet-encoding: xudp, uuid: fb3a726a-31e8-46d2-8d28-dd6c26389ba1, host: Telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63@oneclickvpnkeys, server: 109.120.189.25, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: fba7dc74-ed99-0bb8-8b5f-a822f254475f, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 22", server: 1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 700, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 23", server: 33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 702, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 24", server: 1kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 700, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 25", server: 33kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 702, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 5", server: 44kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 703, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 24", server: 6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 705, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 26", server: 6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 705, type: vless, tls: true, packet-encoding: xudp, uuid: fc3b37e3-01ba-403c-83c0-22213c7a83d3, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.240.88:20000, server: 93.115.240.88, port: 20000, type: vless, tls: true, packet-encoding: xudp, uuid: fc8f56b0-7433-4e8f-9798-ab072af1e423, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 18", server: 93.115.240.88, port: 20000, type: vless, tls: true, packet-encoding: xudp, uuid: fc8f56b0-7433-4e8f-9798-ab072af1e423, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.253.59.44:8443, server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 16@oneclickvpnkeys, server: 5.253.59.44, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: fd8972d9-cf5e-11f0-9970-45e1d80c4039, servername: images.apple.com, host: images.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: H2_xU4399VG3oT9j7e0Bg8qhescX-CTgpeV1HBoCUWY, short-id: 5d8ae11254}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 25", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: fddd38fc-1150-461d-ad51-8d083d6b2d62, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️01@oneclickvpnkeys, server: 217.13.104.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ, short-id: 0669a3e6b300d069}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 82@oneclickvpnkeys, server: 217.13.104.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ, short-id: 0669a3e6b300d069}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 85@oneclickvpnkeys, server: 217.13.104.112, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM, short-id: 5cae63084b3281f3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️74@oneclickvpnkeys, server: 217.13.104.112, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 77@oneclickvpnkeys, server: 217.13.104.112, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️85@oneclickvpnkeys, server: 217.13.105.19, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM, short-id: 5cae63084b3281f3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️92@oneclickvpnkeys, server: 217.13.105.19, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️94@oneclickvpnkeys, server: 217.13.105.1, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZGwYjRp5RxlVpHUTPzi7pB4ZZuDU5FZEaFgBM71teiQ, short-id: 0669a3e6b300d069}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️96@oneclickvpnkeys, server: 217.13.105.1, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: RVs7ZIQ7v3MIiCru0IttBEoTSrln5Au_8aSmyJq8pjM, short-id: 5cae63084b3281f3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚛️79@oneclickvpnkeys, server: 217.13.105.1, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: fe0f8774-4064-4d2c-a523-dcd7bf8809bf, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.109.194.91:40403, server: 78.109.194.91, port: 40403, type: vless, tls: true, packet-encoding: xudp, uuid: fe174736-5e6e-4509-c431-757bd46b0313, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 27, server: 78.109.194.91, port: 40403, type: vless, tls: true, packet-encoding: xudp, uuid: fe174736-5e6e-4509-c431-757bd46b0313, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 1.iran2.axenet.company:1111, server: 1.iran2.axenet.company, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 8", server: 1.iran2.axenet.company, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN 7", server: 1.iran2.axenet.company, port: 1112, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN 8", server: 1.iran2.axenet.company, port: 1112, type: vless, tls: true, packet-encoding: xudp, uuid: fe25fba5-7ebc-45d4-ad6f-0ce68d23a28b, servername: zaya1.ketabland.org, host: zaya1.ketabland.org, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: lord.socialxxmedia.pro:440, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: ff236795-8582-1faa-9209-d9ea7e577b1e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan O3", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: ff236795-8582-1faa-9209-d9ea7e577b1e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇮🇷 @IranProxyPlus` 28, server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: ff236795-8582-1faa-9209-d9ea7e577b1e, servername: lord.socialxxmedia.pro, host: lord.socialxxmedia.pro, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 26", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit` 4", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 5, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 7, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 27", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 28", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: NetAccount` 6, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜, server: Lim1.svhamrah.shop, port: 4471, type: vless, tls: true, packet-encoding: xudp, uuid: ff798c56-2f14-49c6-b279-eb43fd9dfd46, host: Excoino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: NetAccount` 8, server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -761,6 +780,36 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -775,38 +824,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -814,118 +863,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -936,10 +981,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -950,25 +995,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -977,76 +1021,100 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -1061,38 +1129,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -1100,118 +1168,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -1222,10 +1286,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -1236,25 +1300,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -1263,76 +1326,100 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -1347,38 +1434,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -1386,118 +1473,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -1508,10 +1591,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -1522,25 +1605,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -1549,70 +1631,64 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1628,6 +1704,36 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -1642,38 +1748,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -1681,118 +1787,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -1803,10 +1905,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -1817,25 +1919,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -1844,76 +1945,100 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -1928,38 +2053,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -1967,118 +2092,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -2089,10 +2210,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -2103,25 +2224,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -2130,76 +2250,100 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - sdl13.shahramv1.site:80
+      - 🇮🇷 @IranProxyPlus`
+      - "@filembad` 2"
+      - NetAccount`
+      - 🇮🇷 @IranProxyPlus` 2
+      - "@filembad` 3"
+      - 194.85.249.173:433
+      - ⚛️17@oneclickvpnkeys
+      - s4.laptopstock7.com:9976
+      - ⚛️46@oneclickvpnkeys
+      - 37@oneclickvpnkeys
+      - 26@oneclickvpnkeys
+      - melli.tehransnr.com:443
+      - "@configraygan"
+      - "@vasl_bashim"
+      - "[🏁]KIA_NET"
+      - "- KIA_NET"
+      - "- KIA_NET`"
+      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - NetAccount` 2
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 51.250.3.29:7445
+      - "@MerlinVPN"
+      - "@filembad"
+      - "@filembad` 4"
+      - 🇮🇷 @IranProxyPlus` 3
+      - meli2.ertebatgoostar.ir:2087
+      - 24⚛️@oneclickvpnkeys
+      - 22⚛️@oneclickvpnkeys
       - gamix.ncop.ir:2086
       - "@meliproxyy`"
       - "@MARAMBASHI 🇫🇷"
@@ -2214,38 +2358,38 @@ proxy-groups:
       - s1.fastsnap.info:29253 2
       - "@ViP_FragMent_v2ray*"
       - "@airdrop2033`"
-      - "@configraygan"
-      - "@vasl_bashim"
+      - "@configraygan 2"
+      - "@vasl_bashim 2"
       - "@vasl_bashim`"
       - ⭐️Tel@Kia_Net🌟
       - 🇩🇪 Germany | ⭐️Tel@Kia_Net🌟  صبر کنید وصل میشه`
       - "***🌪***-@SPEEDS_VPN1`"
       - "***🌪***-@vasl_bashim`"
-      - "***🐦‍🔥***-@SPEEDS_VPN"
+      - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@Hiddify_Nexttt"
-      - "@vasl_bashim 2"
-      - "@MARAMBASHI 💟"
       - "@vasl_bashim 3"
+      - "@MARAMBASHI 💟"
+      - "@vasl_bashim 4"
       - 20⚛️@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus`
-      - "@filembad`"
+      - 🇮🇷 @IranProxyPlus` 4
+      - "@filembad` 5"
       - 172.64.146.118:8443
-      - "@filembad` 2"
+      - "@filembad` 6"
       - "@v2rayconfigamir 3548"
       - "***✅***@AR14N24b`"
       - mp.kharazmi.top:30086
       - "@configraygan A6"
       - "***🌪***-@SPEEDS_VPN1` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - "@vasl_bashim 4"
-      - "***🐦‍🔥***-@SPEEDS_VPN 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - 🇮🇷 @IranProxyPlus` 5
       - "@vasl_bashim 5"
-      - srv-s0.netmaster.cam:801
+      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "@vasl_bashim 6"
       - gerfan.rjwarehousing.ir:9987
       - gerfan.rjwarehousing.ir:9987 2
-      - "@configraygan 2"
+      - "@configraygan 3"
       - "@configraygan A1"
-      - "@vasl_bashim 6"
+      - "@vasl_bashim 7"
       - ⭐️Tel@Kia_Net🌟 2
       - ⭐️Tel@Kia_Net🌟`
       - "***🌪***-@SPEEDS_VPN1"
@@ -2253,118 +2397,114 @@ proxy-groups:
       - "@meliproxyy` 2"
       - configraygan
       - "@KIA_NET"
-      - "@filembad"
-      - "@filembad` 3"
+      - "@filembad 2"
+      - "@filembad` 7"
       - خب`
       - ViP
-      - 🇮🇷 @IranProxyPlus` 2
-      - "@vasl_bashim 7"
+      - 🇮🇷 @IranProxyPlus` 6
+      - "@vasl_bashim 8"
       - "@Capoit`"
       - "@tel_melli"
-      - "@vasl_bashim 8"
-      - NetAccount`
-      - 🇮🇷 @IranProxyPlus` 3
-      - "@filembad` 4"
-      - 🇮🇷 @IranProxyPlus` 4
+      - "@vasl_bashim 9"
+      - NetAccount` 3
+      - 🇮🇷 @IranProxyPlus` 7
+      - "@filembad` 8"
+      - 🇮🇷 @IranProxyPlus` 8
       - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@filembad` 9"
+      - 🇮🇷 @IranProxyPlus` 9
       - "@KIA_NET - cy`"
+      - "@filembad` 10"
+      - "@vasl_bashim 10"
       - haji.arezoni1.ir:666
       - "@saministamm"
-      - "@vasl_bashim 9"
-      - haji.arezoni1.ir:666 2
+      - "@vasl_bashim 11"
       - "[🇮🇷]KIA_NET`"
       - 60@oneclickvpnkeys`
       - 39@oneclickvpnkeys
       - emergency5380.carpet-carpet-carped.ir:5380
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 |جوین باش تلگرام`"
-      - 🇮🇷 @IranProxyPlus` 5
       - "@configraygan 10"
-      - "@vasl_bashim 10"
+      - "@vasl_bashim 12"
       - "***✅***@AR14N24b"
       - hp-3
       - 51@oneclickvpnkeys
       - vipde1.persianpinggame.com:9091
-      - 🇮🇷 @IranProxyPlus` 6
-      - "@filembad` 6"
-      - "@vasl_bashim 11"
+      - 🇮🇷 @IranProxyPlus` 10
+      - "@filembad` 11"
+      - "@vasl_bashim 13"
       - "[🇮🇷]"
       - "[🇮🇷]KIA_NET` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - "@tel_melli 2"
       - 51.250.75.255:8081
       - www.speedtest.net:443
-      - "@filembad` 7"
+      - "@filembad` 12"
       - "@v2rayconfigamir 8161"
       - "***✅***@AR14N24b 2"
       - "***✅***@AR14N24b` 2"
-      - "***🐦‍🔥***-@SPEEDS_VPN 4"
-      - 🇮🇷 @IranProxyPlus` 7
+      - "***🐦‍🔥***-@SPEEDS_VPN 5"
+      - 🇮🇷 @IranProxyPlus` 11
       - 151.101.10.79:443
-      - "@filembad` 8"
+      - "@filembad` 13"
       - "***✅***@AR14N24b 3"
-      - 🇮🇷 @IranProxyPlus` 8
+      - 🇮🇷 @IranProxyPlus` 12
       - fs.cedriklorenz.ir:443
-      - "@filembad` 9"
+      - "@filembad` 14"
       - "***✅***@AR14N24b 4"
       - fs.cedriklorenz.ir:443 2
-      - "@filembad` 10"
+      - "@filembad` 15"
       - "***✅***@AR14N24b 5"
       - fs.cedriklorenz.ir:443 3
-      - "@filembad` 11"
+      - "@filembad` 16"
       - "***✅***@AR14N24b 6"
       - fs.cedriklorenz.ir:443 4
-      - "@filembad` 12"
+      - "@filembad` 17"
       - "***✅***@AR14N24b 7"
       - fs.cedriklorenz.ir:443 5
-      - "@filembad` 13"
+      - "@filembad` 18"
       - "***✅***@AR14N24b 8"
       - fs.cedriklorenz.ir:443 6
-      - "@filembad` 14"
+      - "@filembad` 19"
       - "***✅***@AR14N24b 9"
-      - 🇮🇷 @IranProxyPlus` 9
-      - 🇮🇷 @IranProxyPlus` 10
-      - 🇮🇷 @IranProxyPlus` 11
-      - 🇮🇷 @IranProxyPlus` 12
       - 🇮🇷 @IranProxyPlus` 13
       - 🇮🇷 @IranProxyPlus` 14
-      - web3.trmas-po.ir:8080
-      - "@filembad` 15"
-      - "***✅***@AR14N24b 10"
       - 🇮🇷 @IranProxyPlus` 15
-      - web4.trmas-po.ir:8080
-      - "@filembad` 16"
-      - "***✅***@AR14N24b 11"
       - 🇮🇷 @IranProxyPlus` 16
-      - webpanel.trmas-po.ir:8080
-      - "@filembad` 17"
-      - "***✅***@AR14N24b` 3"
       - 🇮🇷 @IranProxyPlus` 17
+      - 🇮🇷 @IranProxyPlus` 18
+      - web3.trmas-po.ir:8080
+      - "@filembad` 20"
+      - "***✅***@AR14N24b 10"
+      - 🇮🇷 @IranProxyPlus` 19
+      - web4.trmas-po.ir:8080
+      - "@filembad` 21"
+      - "***✅***@AR14N24b 11"
+      - 🇮🇷 @IranProxyPlus` 20
+      - webpanel.trmas-po.ir:8080
+      - "@filembad` 22"
+      - "***✅***@AR14N24b` 3"
+      - 🇮🇷 @IranProxyPlus` 21
       - VIP2.xQFire.iR:811
       - "@Capoit` 2"
       - VIP2.xQFire.iR:811 2
       - "[🇹🇷]💜TEL●@KIA_NET💜"
       - "[🇹🇷]KIA_NET"
       - 11⚛️@oneclickvpnkeys
-      - "@filembad` 18"
-      - 🇮🇷 @IranProxyPlus` 18
+      - "@filembad` 23"
+      - 🇮🇷 @IranProxyPlus` 22
       - 162.159.153.4:443
       - ⚛️19@oneclickvpnkeys
-      - 🇮🇷 @IranProxyPlus` 19
-      - 🇮🇷 @IranProxyPlus` 20
-      - 🇮🇷 @IranProxyPlus` 21
-      - "@filembad` 19"
-      - NetAccount` 2
+      - NetAccount` 4
       - "@tel_melli`"
-      - "@vasl_bashim 12"
-      - "@tel_melli 3"
-      - 🇮🇷 @IranProxyPlus` 22
-      - "@vasl_bashim` 2"
-      - "@vasl_bashim 13"
-      - 185.136.135.172:41002
       - "@vasl_bashim 14"
-      - "@Capoit` 3"
+      - "@tel_melli 3"
+      - "@vasl_bashim` 2"
       - "@vasl_bashim 15"
+      - 185.136.135.172:41002
+      - "@vasl_bashim 16"
+      - "@Capoit` 3"
+      - "@vasl_bashim 17"
       - "لایک\xa0\xa0 |\xa0\xa0 Like 👍❤️\nاشتراک بزارین\xa0\xa0 |\xa0\xa0 Share ⭐️\n\n@KIA_NET چنل تلگرام🛡`"
       - titan.socialxxmedia.pro:1937
       - "@configraygan O5"
@@ -2375,10 +2515,10 @@ proxy-groups:
       - 🇳🇱 nl1.vnet500.xyz:26099
       - "@configraygan 1"
       - "***✅***@AR14N24b 13"
-      - "***🐦‍🔥***-@SPEEDS_VPN 5"
-      - "@vasl_bashim 16"
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
-      - "@vasl_bashim 17"
+      - "@vasl_bashim 18"
+      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "@vasl_bashim 19"
       - 🇫🇷 fr1.miyazono-kaori.com:443
       - ⚛️25@oneclickvpnkeys
       - ⚛️63@oneclickvpnkeys
@@ -2389,25 +2529,24 @@ proxy-groups:
       - 21⚛️@oneclickvpnkeys`
       - emergency2.layer-ziro.ir:2002
       - "@tel_melli 4"
-      - "@vasl_bashim 18"
+      - "@vasl_bashim 20"
       - 45.43.79.73:443
       - " "
       - 45.43.79.73:443 2
-      - "@configraygan 3"
+      - "@configraygan 4"
       - "@tel_melli 5"
       - "@vasl_bashim` 3"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 2"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
       - link.mizbanertebatfarda.site:3010
       - "@configraygan 6"
       - link.mizbanertebatfarda.site:3010 2
       - "More : @configraygan"
-      - "@free_netplus | 🔥`"
       - 103.81.86.158:443
       - 🇮🇷 @IranProxyPlus` 23
-      - "@filembad` 20"
+      - "@filembad` 24"
       - "@harfbzaniiim`"
       - "@tel_melli 6"
-      - "@vasl_bashim 19"
+      - "@vasl_bashim 21"
       - "@vasl_bashim` 4"
       - "***✅***@AR14N24b 14"
       - "***✅***@AR14N24b` 4"
@@ -2416,70 +2555,64 @@ proxy-groups:
       - 103.81.86.158:443 2
       - 🇮🇷 @IranProxyPlus` 24
       - "@KIA_NET🔆`"
-      - "@filembad` 21"
       - "[🇻🇳]"
       - "***✅***@AR14N24b 15"
       - "***🌪***-@SPEEDS_VPN1 3"
       - 103.81.86.158:443 3
-      - 🇮🇷 @IranProxyPlus` 25
-      - "@filembad` 22"
       - "***✅***@AR14N24b 16"
       - 103.81.86.158:443 4
-      - NetAccount` 3
-      - 🇮🇷 @IranProxyPlus` 26
-      - "@filembad` 23"
+      - NetAccount` 5
+      - 🇮🇷 @IranProxyPlus` 25
       - "***🌪***-@SPEEDS_VPN1 4"
       - "***🌪***-@SPEEDS_VPN1` 3"
-      - 51.250.3.29:7445
-      - "@filembad` 24"
+      - 51.250.3.29:7445 2
       - "***✅***@AR14N24b` 5"
-      - "@vasl_bashim 20"
+      - "@vasl_bashim 22"
       - 19⚛️@oneclickvpnkeys
       - drop3.iransport90.ir:3478
-      - NetAccount` 4
+      - NetAccount` 6
       - "@tel_melli 7"
       - x0w43u0yz9.6qlgd5y4s60ljllfzwpz.realytag.com:885
       - "@configraygan 7"
       - "***✅***@AR14N24b 17"
-      - "***🐦‍🔥***-@SPEEDS_VPN` 3"
+      - "***🐦‍🔥***-@SPEEDS_VPN` 4"
       - 🇺🇸 partner.zoom.us:80
       - 94.183.149.205:8882
-      - "@configraygan 4"
-      - "@vasl_bashim 21"
-      - دانلود نکن برادر @Vpn_Sky`
-      - VIP.xQFire.iR:911
-      - 63@oneclickvpnkeys
-      - "@vasl_bashim 22"
+      - "@configraygan 5"
       - "@vasl_bashim 23"
-      - "@vasl_bashim` 5"
+      - دانلود نکن برادر @Vpn_Sky`
+      - 63@oneclickvpnkeys
       - "@vasl_bashim 24"
+      - "@vasl_bashim 25"
+      - "@vasl_bashim` 5"
+      - "@vasl_bashim 26"
       - 93.115.240.88:20000
       - "***✅***@AR14N24b 18"
       - 5.253.59.44:8443
       - 16@oneclickvpnkeys
       - "@filembad` 25"
       - ⚛️01@oneclickvpnkeys
+      - 82@oneclickvpnkeys
+      - 85@oneclickvpnkeys
       - ⚛️74@oneclickvpnkeys
+      - 77@oneclickvpnkeys
       - ⚛️85@oneclickvpnkeys
       - ⚛️92@oneclickvpnkeys
       - ⚛️94@oneclickvpnkeys
       - ⚛️96@oneclickvpnkeys
       - ⚛️79@oneclickvpnkeys
       - 78.109.194.91:40403
-      - 🇮🇷 @IranProxyPlus` 27
       - 1.iran2.axenet.company:1111
       - "@tel_melli 8"
-      - "***🐦‍🔥***-@SPEEDS_VPN 7"
+      - "***🐦‍🔥***-@SPEEDS_VPN 8"
       - lord.socialxxmedia.pro:440
       - "@configraygan O3"
-      - 🇮🇷 @IranProxyPlus` 28
       - "@filembad` 26"
       - "@Capoit` 4"
-      - NetAccount` 5
+      - NetAccount` 7
       - "@filembad` 27"
       - "@filembad` 28"
-      - NetAccount` 6
-      - سرور ویژه بفرستید برای دوستانتون💜TEL●@KIA_NET💜
+      - NetAccount` 8
   - name: دانلود منیجر 📥
     type: select
     proxies:

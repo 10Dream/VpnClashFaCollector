@@ -467,8 +467,8 @@ rule-providers:
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 130.185.72.31:2567, server: 130.185.72.31, port: 2567, type: socks5, username: "@v2bezan", password: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.141.134.50:24541, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.164.72.175:2052, server: 185.164.72.175, port: 2052, type: socks5, username: rocket, password: chat, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.190.144.240:1122, server: 195.190.144.240, port: 1122, type: socks5, username: nullnetwork, password: nullnetwork, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.152.191.138:1080, server: 37.152.191.138, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5hproxyservice, skip-cert-verify: false, udp: true, tfo: false}
@@ -496,8 +496,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852
@@ -515,8 +515,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852
@@ -534,8 +534,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852
@@ -562,8 +562,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852
@@ -581,8 +581,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852
@@ -600,8 +600,8 @@ proxy-groups:
     proxies:
       - 0.0.0.0:1080
       - 127.0.0.1:1080
+      - 130.185.72.31:2567
       - 185.141.134.50:24541
-      - 185.164.72.175:2052
       - 195.190.144.240:1122
       - 37.152.191.138:1080
       - 37.191.85.54:1852

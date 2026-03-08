@@ -479,14 +479,15 @@ proxies:
   - {name: "@Capoit` 11", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 5ee4a55f-5f6b-4a97-8670-8631238e4c6f, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit` 12", server: b1.apstore.sbs, port: 51154, type: vless, tls: true, packet-encoding: xudp, uuid: 5f1ff19d-2b66-4e7e-aa2f-2e12780c56bd, host: b1.apstore.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit` 13", server: nl1.vnet500.xyz, port: 26082, type: vless, tls: true, packet-encoding: xudp, uuid: 62da658c-9641-4615-8180-14db65694cc5, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 14", server: connected5.starpo5.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9103470a-948d-45bd-a648-ae232f7de38a, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 15", server: 44kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 703, type: vless, tls: true, packet-encoding: xudp, uuid: 9534971e-aab0-4deb-98e5-4319a48bec64, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 16", server: dragon.socialxxmedia.pro, port: 350, type: vless, tls: true, packet-encoding: xudp, uuid: c0ac5114-b6e9-216a-4c11-9ac0c515b8ff, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 17", server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d2504171-abe9-4eea-8364-0dbbff4a54b1, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 18", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 19", server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 20", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 21", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 14", server: 85.133.240.82, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 6e1bdcda-c17f-4a65-9d7c-f03536236541, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 15", server: connected5.starpo5.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9103470a-948d-45bd-a648-ae232f7de38a, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 16", server: 44kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 703, type: vless, tls: true, packet-encoding: xudp, uuid: 9534971e-aab0-4deb-98e5-4319a48bec64, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 17", server: dragon.socialxxmedia.pro, port: 350, type: vless, tls: true, packet-encoding: xudp, uuid: c0ac5114-b6e9-216a-4c11-9ac0c515b8ff, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 18", server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d2504171-abe9-4eea-8364-0dbbff4a54b1, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 19", server: de-2-tun-single.starping1.fun, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: ee73ff6e-af32-43df-854e-754253bd1bd8, host: www.speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 20", server: VIP2.xQFire.iR, port: 811, type: vless, tls: true, packet-encoding: xudp, uuid: f25e7ea5-ef6b-4f63-8617-8151ca31b7b1, host: VIP2.xQFire.iR, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 21", server: 185.136.135.172, port: 41002, type: vless, tls: true, packet-encoding: xudp, uuid: f5630288-5254-42b5-b098-d7d5737e831a, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 22", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: ff2e4efa-e38a-45b5-9782-ea34dbd6b7d6, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit 2", server: tun.p2p1.sbs, port: 2013, type: vmess, uuid: e19329b0-53f4-47ed-8f88-38c0bb9448cc, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -526,6 +527,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -555,6 +557,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -584,6 +587,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -622,6 +626,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -651,6 +656,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -680,6 +686,7 @@ proxy-groups:
       - "@Capoit` 19"
       - "@Capoit` 20"
       - "@Capoit` 21"
+      - "@Capoit` 22"
       - "@Capoit 2"
   - name: دانلود منیجر 📥
     type: select

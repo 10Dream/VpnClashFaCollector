@@ -476,6 +476,7 @@ proxies:
   - {name: "@saministamm | تلگراممون جوین باشید 4", server: 85.133.240.99, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0773112d-c3fc-4a9f-aea0-d9be521452ce, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: pm5.vhuma.com:443, server: pm5.vhuma.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1864aa1e-03ec-4f54-9bce-28fdd1047dd8, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ملی شکن 4 🇮🇷@saministamm, server: ml4.sardarr.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 189ea39d-52cb-4ff7-8664-7e1e108a14be, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm | تلگراممون جوین باشید عشقا 🚨`", server: g1-tun-de.a1mshop2.xyz, port: 14500, type: vless, tls: true, packet-encoding: xudp, uuid: 18e0d426-cbe2-4e80-a8d0-6af4116ec811, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`", server: entekhabat.iran.asiatech.numtwo.iranvatanam.com, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 19542a29-e734-41c9-b372-b30286a61048, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883, server: mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com, port: 883, type: vless, tls: true, packet-encoding: xudp, uuid: 1bb38106-17fd-46e2-8559-a0cdf52b5243, host: "skyroom.online,gharar.ir,igap.net", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: 194.60.228.73, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1de3c813-46ff-4403-9339-5f1d2e1f97dd, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -526,6 +527,7 @@ proxies:
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3", server: 6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir, port: 705, type: vless, tls: true, packet-encoding: xudp, uuid: 958f6b9f-1628-4816-b3b6-7cdf4dc8cf03, host: rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`", server: 79.175.167.147, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9f366a3e-348c-492c-be54-4a0a6db94cc7, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saminstamm | جوین باش تلگرام`", server: 5.159.54.144, port: 21, type: vless, tls: true, packet-encoding: xudp, uuid: S144, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.151.211:42595, server: 193.151.151.211, port: 42595, type: vless, tls: true, packet-encoding: xudp, uuid: a06f6bb2-7558-4828-adf1-169e871756ee, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "- @saministamm | 🚀", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 14", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm`", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -605,6 +607,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -655,6 +658,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
@@ -723,6 +727,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -773,6 +778,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
@@ -841,6 +847,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -891,6 +898,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
@@ -968,6 +976,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -1018,6 +1027,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
@@ -1086,6 +1096,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -1136,6 +1147,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
@@ -1204,6 +1216,7 @@ proxy-groups:
       - "@saministamm | تلگراممون جوین باشید 4"
       - pm5.vhuma.com:443
       - ملی شکن 4 🇮🇷@saministamm
+      - "@saministamm | تلگراممون جوین باشید عشقا 🚨`"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢`"
       - mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883
       - "@saministamm"
@@ -1254,6 +1267,7 @@ proxy-groups:
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢` 3"
       - "@𝙨𝙖𝙢𝙞𝙣𝙞𝙨𝙩𝙖𝙢𝙢 | جوین شو تلگرام`"
       - "@saminstamm | جوین باش تلگرام`"
+      - 193.151.151.211:42595
       - "- @saministamm | 🚀"
       - "@saministamm 14"
       - "@saministamm`"
