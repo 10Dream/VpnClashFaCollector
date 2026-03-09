@@ -468,7 +468,6 @@ proxies:
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 104.211.63.232:443, server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2RGrp6ZndpeLnsck, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
-  - {name: 104.211.63.232:443 2, server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: E2DnpxLTj4IEeLMQ, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 158.173.20.171:443, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
@@ -477,19 +476,16 @@ proxies:
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 8.210.182.238:8888, server: 8.210.182.238, port: 8888, type: ss, cipher: aes-256-gcm, password: a338A9, udp: true, tfo: false}
   - {name: 13.112.192.191:6313, server: 13.112.192.191, port: 6313, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.192.170.234:3022, server: 13.192.170.234, port: 3022, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.198.86.230:2960, server: 43.198.86.230, port: 2960, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 54.199.30.7:28680, server: 54.199.30.7, port: 28680, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.180.10.241:388, server: 57.180.10.241, port: 388, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.180.10.241:4945, server: 57.180.10.241, port: 4945, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.25.253:443, server: 58.152.25.253, port: 443, type: trojan, password: BxceQaOe, sni: t.me%2Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 95.40.10.51:1717, server: 95.40.10.51, port: 1717, type: trojan, password: BxceQaOe, sni: t.me%252Fripaojiedian, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.65.107:34818, server: 153.121.65.107, port: 34818, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.65.107:4937, server: 153.121.65.107, port: 4937, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.130.21:4019, server: 160.16.130.21, port: 4019, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.72.33:3057, server: 160.16.72.33, port: 3057, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 58.152.18.189:443, server: 58.152.18.189, port: 443, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 58.152.18.2:443, server: 58.152.18.2, port: 443, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 8443.golden-cards.me:443, server: 8443.golden-cards.me, port: 443, type: trojan, password: q2GRUM1-odJBWq_KV6xv2fuNvu8ed-, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.41.207:22222, server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.164.131:22222, server: 15.188.164.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.124.229.240:22222, server: 3.124.229.240, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -498,23 +494,20 @@ proxies:
   - {name: 🇩🇪 squad-2-de.vps-m.ru:443, server: squad-2-de.vps-m.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0509acee-63e3-4364-95cc-21c601f059be, servername: booking.com, host: booking.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.189.87:443, server: 109.120.189.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3e2d21-f31b-07d0-b418-54cacd0be7c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.131.224:8443, server: 144.31.131.224, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ee2d410-3e64-4c41-a571-3e5d2b5b8982, servername: mold.speedload.online, host: mold.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.178.226.247:443, server: 193.178.226.247, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0f44079e-f740-4c28-aac7-7898abdb3252, servername: nl.denditop.site, host: nl.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ycjPT1HxLy0b9oRp6tW4LBT6RZ6bAk-OkNqBNyhOyEw, short-id: fd197bbaca6415b0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.24.126.26:443, server: 144.24.126.26, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1027b850-de79-4a94-b337-eccdac28e141, servername: g.sandesh.qzz.io, network: ws, ws-opts: {path: /vless, headers: {Host: g.sandesh.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.119.248:16409, server: 51.250.119.248, port: 16409, type: vless, tls: true, packet-encoding: xudp, uuid: 1537344c-663d-45d7-aeee-0c89e3430fff, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: G9mVzpnzkZkCJz-2yBZlDcPifowapcFvKNacVDroynk, short-id: ac43}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: israel.youtuber-vps.com:443, server: israel.youtuber-vps.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20a70054-8d93-4c8c-b8f0-d1113f431daf, servername: israel.youtuber-vps.com, host: israel.youtuber-vps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: NORopwdahIs7ay8UsSLKaDs3alkPhYl6fIMWPgjTSwY, short-id: b95d09fc94955ba4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: wa.youtuber-vps.com:443, server: wa.youtuber-vps.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 20a70054-8d93-4c8c-b8f0-d1113f431daf, servername: tiktok.youtuber-vps.com, host: tiktok.youtuber-vps.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 3R5sARocUGi0yam6rIjAaC30m-FYOv6iA-dqLfU2LSk, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.124.221.32:8443, server: 176.124.221.32, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇵🇱 poland-meow.nethcloud.top:8443, server: poland-meow.nethcloud.top, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.16.71.33:443, server: 104.16.71.33, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 107.173.181.236:7700, server: 107.173.181.236, port: 7700, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: fqrf5tlc.chinav.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: fqrf5tlc.chinav.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 34.212.240.129:443, server: 34.212.240.129, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: fqrf5tlc.chinav.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: fqrf5tlc.chinav.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.146.82.107:35292, server: 45.146.82.107, port: 35292, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: /danfeng, headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 171.22.31.215:443, server: 171.22.31.215, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2b0f0798-1099-4e72-8c69-efe9b8b6a9b8, servername: vpn.xorealis.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: N9YEtcvbXxG2GD8cLMlQT35HnX8cmvYPasnqtcBW_XY, short-id: 131df166be01a436}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.180.47.159:8443, server: 5.180.47.159, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2c564cf2-2291-4c8a-ad02-d8db601c41f9, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo, short-id: 9edc548e1e284d84}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.159.131.16:443, server: 78.159.131.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 400c1f85-9d3a-444a-8a50-81b11f3b4c20, servername: alb.denditop.site, host: alb.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BxD77zyPkOaShiNfOkRbbJvpmSzFHIKx4xhhLR4PSQU, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.120.191.31:52006, server: 109.120.191.31, port: 52006, type: vless, tls: true, packet-encoding: xudp, uuid: 4fd2d5f6-d417-03e8-9331-e20afde2fcd2, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.200.33.52:8080, server: 84.200.33.52, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 5774ae61-7402-41db-9388-1db9c43c11c3, host: testspeed-foreign.tci.ir%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.238.228.238:2096, server: 185.238.228.238, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.jpmj.dev, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.jpmj.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.200.160.20:443, server: 192.200.160.20, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.dynv6.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: sni.111000.dynv6.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.227.174.213:2053, server: 64.227.174.213, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳+@WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.18.132.149:2053, server: 72.18.132.149, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.90.16:443, server: 144.31.90.16, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -524,22 +517,22 @@ proxies:
   - {name: 85.192.49.213:443, server: 85.192.49.213, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mos-drywall.shop:443, server: mos-drywall.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: my-rebar.shop:443, server: my-rebar.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 192.9.162.122:1443, server: 192.9.162.122, port: 1443, type: vless, tls: true, packet-encoding: xudp, uuid: 7a169e43-ff85-4572-9843-ba7207d07319, servername: swdist.apple.com, host: swdist.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZIBYUH_qQSeI1T6xImXG6MEZXP2yZW3NqGa8W69Cfyk, short-id: dde50f55d81116}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.63.7:443, server: 144.31.63.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 716a8171-09d1-4b5c-b816-34e6537b60ae, servername: deout.funvideorus.net, host: deout.funvideorus.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.139.26.211:7443, server: 45.139.26.211, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 7fc953d6-ae75-46fb-a970-10b57d513487, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: BTkKaFt2xac4xAHn3EXrBKV0d8ItHSfciMFnxg57BGA, short-id: fd88bd27db4cc661}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 47.236.152.192:46137, server: 47.236.152.192, port: 46137, type: vless, tls: true, packet-encoding: xudp, uuid: 847975b8-6bd5-4904-de77-6b5590800f5d, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 103.213.249.62:8443, server: 103.213.249.62, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 84b5a48a-4c69-493c-87cb-09cbdfa7a450, servername: ign.dev, host: ign.dev, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 ch2.fastlanehosting.ru:443, server: ch2.fastlanehosting.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8e3bf431-98ad-413b-b34f-cf5ee154a4ba, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Z--Ieq3GtHx_Qtqj3NUyK5wY2foVBtlOkyzXqESeswU, short-id: 0c80cc39}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 217.13.105.19:7443, server: 217.13.105.19, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 928beba1-eef6-478a-b06f-db6bc020e078, servername: sun6-22.userapi.com, host: sun6-22.userapi.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: o-KQ25NPI-J6ON1IcuN6b9NAJHCL5lwdj7wagLbfOxY, short-id: 0a2585c3c950f29a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 179.43.176.216:443, server: 179.43.176.216, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38.180.91.119:2053, server: 38.180.91.119, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.sh21.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.sh21.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 194.156.102.53:8443, server: 194.156.102.53, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.120.166.7:443, server: 87.120.166.7, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.ye.gs, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.ye.gs}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31.57.28.209:8443, server: 31.57.28.209, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.77.87:12443, server: 51.250.77.87, port: 12443, type: vless, tls: true, packet-encoding: xudp, uuid: a774f61d-a518-4c61-902f-807797da6caf, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: a7_KyEavpDL_m5UTvJ1vd2Zz-_7oY93uavMhILlW1jU, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 91.242.229.129:4443, server: 91.242.229.129, port: 4443, type: vless, tls: true, packet-encoding: xudp, uuid: bbd4e4e9-b56f-4b0d-a85b-9eb5aa65644c, servername: nl18.fastlanehosting.ru, alpn: ["h2,http/1.1"], host: nl18.fastlanehosting.ru, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 217.79.180.140:8443, server: 217.79.180.140, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c19fb567-74a9-454f-9757-e612fc4be371, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇭🇰 hk.darknet.run:443, server: hk.darknet.run, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c970f910-1103-446a-bdc8-a9cfb22381bf, servername: hk.darknet.run, host: hk.darknet.run, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Jz86eEP-mzz7mV-S1YBmg05eeOeeezxTEOLoKlLjSXE, short-id: a1b223d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.172.55.220:58198, server: 109.172.55.220, port: 58198, type: vless, tls: true, packet-encoding: xudp, uuid: d5d52c15-f963-42b8-971b-613fc9c5e7e3, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: zVumFklIWzpvzrtnlkGG4YRqBbV-diGCouiiSeEwnEE, short-id: 2c8a6793b9de7014}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 64.23.143.23:34045, server: 64.23.143.23, port: 34045, type: vless, tls: true, packet-encoding: xudp, uuid: d8dd94fd-540e-461d-b5d4-acebef02c22a, servername: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me, host: visit-this-invitation-link-to-join-tg-enkelte-notif.ekt.me, path: /, reality-opts: {public-key: cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA, short-id: e8ab71d0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.11.21.219:53458, server: 141.11.21.219, port: 53458, type: vless, tls: true, packet-encoding: xudp, uuid: de73ea62-68e4-45e2-8cc3-87c6d4b23aa0, servername: a.sezar.top, host: a.sezar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: serendipity.qvzlwk.sbs:443, server: serendipity.qvzlwk.sbs, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e06b2fc8-131d-4ba1-991d-c126697df43a, servername: serendipity.qvzlwk.sbs, host: serendipity.qvzlwk.sbs, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5A98kkj8Jo6isST_WnhnNdVF6eaVGHEzu-qE4ZcsHWI, short-id: 231357339a84547b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.243.28.124:443, server: 151.243.28.124, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e08736d8-aec2-4400-bd42-e34daf4a96d4, servername: www.google.com, host: www.google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0, short-id: abcd1234}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.139.33.79:7443, server: 37.139.33.79, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: e08736d8-aec2-4400-bd42-e34daf4a96d4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: l1aZ57psAgXXvK_uYa4EUNWlZi91sBg7Cc8hC5pB3j0, short-id: abcd1234}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.3.223.112:443, server: 195.3.223.112, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e2e1ddaa-1acf-4c4c-a211-92284f6440ed, servername: pl.scroogethebest.com, host: pl.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -553,7 +546,7 @@ proxies:
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: eddebc92-b9f7-4019-8a11-0d733bfe665d, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: 3d74c959-2a4c-4df8-887a-4f9736a77b6f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 49.51.184.74, port: 31976, type: vmess, uuid: cde69f5b-2641-469d-8930-fd290d084adf, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: v5.cdn.fkjw4wq0g5.ewddns.net, port: 5503, type: vmess, uuid: 3fa3cc38-9ad1-444d-883e-21fbdc4532af, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v5.cdn.fkjw4wq0g5.ewddns.net}}, udp: true, tfo: false}
+  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: 31.58.223.134, port: 8443, type: vmess, uuid: 78cdc6b7-8b14-47d6-bf09-3167bc5124fb, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -573,7 +566,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -582,19 +574,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -603,23 +592,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -629,22 +615,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -658,7 +644,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -668,7 +654,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -677,19 +662,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -698,23 +680,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -724,22 +703,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -753,7 +732,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -763,7 +742,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -772,19 +750,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -793,23 +768,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -819,22 +791,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -848,7 +820,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -867,7 +839,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -876,19 +847,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -897,23 +865,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -923,22 +888,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -952,7 +917,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -962,7 +927,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -971,19 +935,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -992,23 +953,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -1018,22 +976,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -1047,7 +1005,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1057,7 +1015,6 @@ proxy-groups:
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - 193.135.174.135:990
-      - 104.211.63.232:443 2
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
       - 158.173.20.171:443
@@ -1066,19 +1023,16 @@ proxy-groups:
       - 57.128.214.100:12000
       - 8.210.182.238:8888
       - 13.112.192.191:6313
-      - 13.192.170.234:3022
       - 43.198.86.230:2960
-      - 54.199.30.7:28680
       - 57.180.10.241:388
       - 57.180.10.241:4945
       - 58.152.25.253:443
-      - 95.40.10.51:1717
       - 153.121.65.107:34818
       - 153.121.65.107:4937
       - 160.16.130.21:4019
       - 160.16.72.33:3057
-      - 58.152.18.189:443
       - 58.152.18.2:443
+      - 8443.golden-cards.me:443
       - 13.39.41.207:22222
       - 15.188.164.131:22222
       - 3.124.229.240:22222
@@ -1087,23 +1041,20 @@ proxy-groups:
       - 🇩🇪 squad-2-de.vps-m.ru:443
       - 109.120.189.87:443
       - 144.31.131.224:8443
+      - 193.178.226.247:443
       - 144.24.126.26:443
       - 51.250.119.248:16409
       - israel.youtuber-vps.com:443
       - wa.youtuber-vps.com:443
       - 176.124.221.32:8443
       - 🇵🇱 poland-meow.nethcloud.top:8443
-      - 104.16.71.33:443
       - 107.173.181.236:7700
       - 34.212.240.129:443
       - 45.146.82.107:35292
-      - 171.22.31.215:443
       - 5.180.47.159:8443
       - 78.159.131.16:443
       - 109.120.191.31:52006
       - 84.200.33.52:8080
-      - 185.238.228.238:2096
-      - 192.200.160.20:443
       - 64.227.174.213:2053
       - 72.18.132.149:2053
       - 144.31.90.16:443
@@ -1113,22 +1064,22 @@ proxy-groups:
       - 85.192.49.213:443
       - mos-drywall.shop:443
       - my-rebar.shop:443
-      - 192.9.162.122:1443
+      - 144.31.63.7:443
       - 45.139.26.211:7443
       - 47.236.152.192:46137
       - 103.213.249.62:8443
       - 🇷🇺 ch2.fastlanehosting.ru:443
-      - 217.13.105.19:7443
       - 179.43.176.216:443
       - 38.180.91.119:2053
-      - 194.156.102.53:8443
+      - 87.120.166.7:443
       - 31.57.28.209:8443
       - 51.250.77.87:12443
       - 91.242.229.129:4443
+      - 217.79.180.140:8443
+      - 🇭🇰 hk.darknet.run:443
       - 109.172.55.220:58198
       - 64.23.143.23:34045
       - 141.11.21.219:53458
-      - serendipity.qvzlwk.sbs:443
       - 151.243.28.124:443
       - 37.139.33.79:7443
       - 195.3.223.112:443
@@ -1142,7 +1093,7 @@ proxy-groups:
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
       - 🇺🇸 [openproxylist.com] vmess-US
-      - 🇸🇬 [openproxylist.com] vmess-SG
+      - 🇯🇵 [openproxylist.com] vmess-JP
   - name: دانلود منیجر 📥
     type: select
     proxies:

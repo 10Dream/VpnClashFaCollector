@@ -465,6 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@filembad`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: 95.216.238.249:37337, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "@saministamm`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "***🌪***-@SPEEDS_VPN1`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: 95.216.238.249:37337 2, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
   - {name: 57.129.95.45:11201, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
   - {name: 🇫🇷 France | Basic, server: 51.75.168.50, port: 13030, type: ss, cipher: chacha20-ietf-poly1305, password: 6c815bb84c781da5, udp: true, tfo: false}
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
@@ -473,83 +482,67 @@ proxies:
   - {name: 🇹🇷 Türkiye | Basic, server: 154.205.148.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: "@tel_melli", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: "***🌪***-@SPEEDS_VPN1`", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
+  - {name: "***🌪***-@SPEEDS_VPN1` 2", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: Ae_proxy 205`, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
-  - {name: 95 @KIA_NET - 44236, server: 163.171.206.24, port: 44236, type: ss, cipher: chacha20-ietf-poly1305, password: 9d97433688e7efd5, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 2, server: 138.124.67.26, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 9z6_gZQ2xvryhGMG6Vg2XSdYUm3PfbuQ, udp: true, tfo: false}
-  - {name: "@KIA_NET - 1080", server: 138.124.67.26, port: 1080, type: ss, cipher: chacha20-ietf-poly1305, password: 9z6_gZQ2xvryhGMG6Vg2XSdYUm3PfbuQ, udp: true, tfo: false}
-  - {name: "@KIA_NET", server: 154.90.62.145, port: 16672, type: ss, cipher: chacha20-ietf-poly1305, password: 0892b2ccccc012f6, udp: true, tfo: false}
-  - {name: 98 @KIA_NET - 16672, server: 154.90.62.145, port: 16672, type: ss, cipher: chacha20-ietf-poly1305, password: 0892b2ccccc012f6, udp: true, tfo: false}
   - {name: https://t.me/DrNpv, server: 154.90.62.145, port: 16672, type: ss, cipher: chacha20-ietf-poly1305, password: 0892b2ccccc012f6, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 3, server: 163.171.213.47, port: 46281, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
-  - {name: 100 - IL - @KIA_NET - 46281, server: 163.171.213.47, port: 46281, type: ss, cipher: chacha20-ietf-poly1305, password: 08e4090bc46fd8a6, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 4, server: 38.54.59.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: 104 - EG - SS/@KIA_NET - 11201, server: 38.54.59.38, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 5, server: 38.54.59.38, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: 105 - EG - SS/AEAD - 11202, server: 38.54.59.38, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 6, server: 38.54.59.38, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: 106 - EG - SS/AEAD - 11203, server: 38.54.59.38, port: 11203, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: 38.54.59.38:11204, server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "@filembad`", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5664", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 7, server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
-  - {name: 109 - JO - SS/AEAD - 41022, server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
-  - {name: 110 - JO - SS/AEAD - 41022, server: 91.106.109.17, port: 41022, type: ss, cipher: chacha20-ietf-poly1305, password: 0bb447cee7228eb0, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 8, server: 93.174.164.89, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bc801a7cac5f134, udp: true, tfo: false}
-  - {name: 112 - UZ - SS/AEAD - 11201, server: 93.174.164.89, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bc801a7cac5f134, udp: true, tfo: false}
-  - {name: 113 - UZ - SS/AEAD - 11201, server: 93.174.164.89, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 0bc801a7cac5f134, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 9, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: 🇩🇪 117 - DE - SS/AEAD - 11201, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: ⭐️Tel@Kia_Net🌟 10, server: 91.106.109.17, port: 48211, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
-  - {name: 123 - JO - SS/AEAD - 48211, server: 91.106.109.17, port: 48211, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
-  - {name: 124 - JO - SS/AEAD - 48211, server: 91.106.109.17, port: 48211, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: 104.211.63.232:443, server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 2RGrp6ZndpeLnsck, udp: true, tfo: false}
   - {name: api.namasha.co:443, server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: api.namasha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
   - {name: series-a2-mec.varzesh360.co:443, server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 85.210.120.237:443, server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true, tfo: false}
-  - {name: 104.211.63.232:443 2, server: 104.211.63.232, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: E2DnpxLTj4IEeLMQ, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true, tfo: false}
   - {name: 81.90.189.18:811, server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: "@configraygan", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: 81.90.189.18:811 2, server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "@KIA_NET 2", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "@KIA_NET", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: "@kianet`", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "***🌪***-@SPEEDS_VPN1` 2", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "***🌪***-@SPEEDS_VPN1` 3", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 2", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: "@vasl_bashim", server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: 142.4.216.225:80, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 3", server: 51.11.190.36, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
+  - {name: "| @configraygan『🇩🇪⁵³』", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4518", server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 🇧🇷 Brazil | Basic, server: 5.188.4.103, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: 🇧🇷 Brazil | Basic 2, server: 5.188.4.103, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: a7c205642b302c20, udp: true, tfo: false}
   - {name: NetAccount`, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 82.38.31.187, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
+  - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: Azad TV`, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 11", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: 57.129.140.88:8388 2, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: admin.c4.havij.co:443, server: admin.c4.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mLlhx3HfBtvItLTf, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: admin.c4.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mLlhx3HfBtvItLTf, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: admin.c4.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mLlhx3HfBtvItLTf, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 12", server: admin.c4.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mLlhx3HfBtvItLTf, udp: true, tfo: false}
   - {name: 45.87.175.35:8080, server: 45.87.175.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: 45.87.175.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 45.87.175.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 13", server: 45.87.175.35, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@tel_melli 2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -557,11 +550,8 @@ proxies:
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 4", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: Ae_proxy 156`, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: Ae_proxy 488`, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: 154.17.31.189, port: 18829, type: ss, cipher: aes-128-gcm, password: fa593414-7a76-4975-909b-7a7c46be123b, udp: true, tfo: false}
-  - {name: "@MARAMBASHI 🇫🇷", server: 51.159.103.137, port: 18290, type: ss, cipher: aes-128-gcm, password: mBl1fYhX88xk3K39IePrRnmsQDvb1h4f, udp: true, tfo: false}
+  - {name: "| @configraygan『🇩🇪²⁸』", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 158.173.20.171:443, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 173.244.56.6, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -582,6 +572,15 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -590,83 +589,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -674,11 +657,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -689,6 +669,15 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -697,83 +686,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -781,11 +754,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -796,6 +766,15 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -804,83 +783,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -888,11 +851,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -912,6 +872,15 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -920,83 +889,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -1004,11 +957,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -1019,6 +969,15 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -1027,83 +986,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -1111,11 +1054,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
@@ -1126,6 +1066,15 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@filembad`"
+      - 95.216.238.249:37337
+      - "@filembad` 2"
+      - "@saministamm`"
+      - "***✅***@AR14N24b"
+      - "***🌪***-@SPEEDS_VPN1`"
+      - 95.216.238.249:37337 2
+      - "@filembad` 3"
+      - "***✅***@AR14N24b 2"
       - 57.129.95.45:11201
       - 🇫🇷 France | Basic
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
@@ -1134,83 +1083,67 @@ proxy-groups:
       - 🇹🇷 Türkiye | Basic
       - 141.95.106.127:11201
       - "@tel_melli"
-      - "***🌪***-@SPEEDS_VPN1`"
+      - "***🌪***-@SPEEDS_VPN1` 2"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - Ae_proxy 205`
       - ⭐️Tel@Kia_Net🌟
-      - 95 @KIA_NET - 44236
       - ⭐️Tel@Kia_Net🌟 2
-      - "@KIA_NET - 1080"
-      - "@KIA_NET"
-      - 98 @KIA_NET - 16672
       - https://t.me/DrNpv
       - ⭐️Tel@Kia_Net🌟 3
-      - 100 - IL - @KIA_NET - 46281
       - ⭐️Tel@Kia_Net🌟 4
-      - 104 - EG - SS/@KIA_NET - 11201
       - ⭐️Tel@Kia_Net🌟 5
-      - 105 - EG - SS/AEAD - 11202
       - ⭐️Tel@Kia_Net🌟 6
-      - 106 - EG - SS/AEAD - 11203
       - 38.54.59.38:11204
-      - "@filembad`"
       - "@v2rayconfigamir 5664"
-      - "***✅***@AR14N24b"
+      - "***✅***@AR14N24b 3"
       - ⭐️Tel@Kia_Net🌟 7
-      - 109 - JO - SS/AEAD - 41022
-      - 110 - JO - SS/AEAD - 41022
       - ⭐️Tel@Kia_Net🌟 8
-      - 112 - UZ - SS/AEAD - 11201
-      - 113 - UZ - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 9
-      - 🇩🇪 117 - DE - SS/AEAD - 11201
       - ⭐️Tel@Kia_Net🌟 10
-      - 123 - JO - SS/AEAD - 48211
-      - 124 - JO - SS/AEAD - 48211
       - admin.c1.havij.co:443
       - 104.211.63.232:443
       - api.namasha.co:443
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b 4"
       - series-a2-mec.varzesh360.co:443
-      - "@filembad` 3"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 5"
       - 193.135.174.135:990
       - 85.210.120.237:443
-      - "@filembad` 4"
-      - "***✅***@AR14N24b 4"
-      - 104.211.63.232:443 2
+      - "***✅***@AR14N24b 6"
       - 81.90.189.18:811
       - "@configraygan"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 7"
       - 81.90.189.18:811 2
-      - "@KIA_NET 2"
-      - "@filembad` 5"
+      - "@KIA_NET"
+      - "@filembad` 4"
       - "@kianet`"
-      - "***✅***@AR14N24b 6"
-      - "***🌪***-@SPEEDS_VPN1` 2"
+      - "***✅***@AR14N24b 8"
+      - "***🌪***-@SPEEDS_VPN1` 3"
       - "***🐦‍🔥***-@SPEEDS_VPN 2"
       - "@vasl_bashim"
       - 142.4.216.225:80
-      - "@filembad` 6"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "***🐦‍🔥***-@SPEEDS_VPN 3"
       - series-a1.samanehha.co:443
+      - "| @configraygan『🇩🇪⁵³』"
       - series-a2.samanehha.co:443
       - "@v2rayconfigamir 4518"
       - 🇧🇷 Brazil | Basic
       - 🇧🇷 Brazil | Basic 2
       - NetAccount`
-      - "@filembad` 7"
+      - 102.37.156.224:443
+      - "@filembad` 5"
+      - "***✅***@AR14N24b 10"
+      - Azad TV`
+      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
+      - "@filembad` 7"
+      - "***✅***@AR14N24b 11"
       - 57.129.140.88:8388 2
       - admin.c4.havij.co:443
-      - "@filembad` 8"
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 12"
       - 45.87.175.35:8080
-      - "@filembad` 9"
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b 13"
       - NetAccount` 2
       - 82.38.31.62:8080
       - "@tel_melli 2"
@@ -1218,11 +1151,8 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 4"
       - Ae_proxy 156`
       - Ae_proxy 488`
-      - "@filembad` 10"
-      - "@MARAMBASHI 🇫🇷"
+      - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
-      - "@filembad` 11"
-      - "@filembad` 12"
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
