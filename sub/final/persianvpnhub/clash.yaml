@@ -470,12 +470,9 @@ proxies:
   - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5933", server: green2.cdntencentmusic.com, port: 35502, type: trojan, password: cda93db2-4dbc-4a1e-8dc1-ddc302eb3e22, sni: green2.cdntencentmusic.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: -@nftvici, server: chat.openai.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: "@ServerTel 🌹👑🕊️", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "  2", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: "@ServerTel 🌹👑🕊️ 2", server: 13.39.41.207, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.46.152:22222, server: 13.36.46.152, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.140.33:22222, server: 13.37.140.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ServerTel 🌹👑🕊️ 3", server: 13.39.41.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.101.85:22222, server: 15.188.101.85, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.164.131:22222, server: 15.188.164.131, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.0.245:22222, server: 15.224.0.245, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -488,8 +485,7 @@ proxies:
   - {name: 35.181.164.194:22222, server: 35.181.164.194, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.109.231:22222, server: 51.44.109.231, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.29.115.99:22222, server: 52.29.115.99, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.182.228.117:22222, server: 63.182.228.117, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ServerTel 🌹👑🕊️ 4", server: 13.39.41.207, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.176.126.9:22222, server: 63.176.126.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  3", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1950", server: 5.42.158.95, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0a0d8e6f-8747-4ff6-afe0-e70aa97e7de8, servername: finance.yahoo.com, host: finance.yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1LHMePKT5PP9F9WQ1HhZUWZlrK2p9AW_sUwKNfO4ZC0, short-id: dd8ca121bb77dad9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw, server: 185.226.117.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fff5f1b-370d-4e98-829d-7dca653fbca8, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,7 +502,6 @@ proxies:
   - {name: "  5", server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  6", server: 57.129.53.182, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7171", server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 532c9a78-307b-4e57-863d-b8d812708308, servername: FreE-azADnet.pagEs.DeV, alpn: [http/1.1], network: ws, ws-opts: {path: "/dkU-cln2-GSPOV-q?ed=2048", headers: {Host: FreE-azADnet.pagEs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ServerTel 🌹👑🕊️ 5", server: ir01.irantls.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 538c4861-f10a-481f-95d3-d045cfc0ccbf, host: ir01.irantls.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5128", server: 146.59.159.111, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1308", server: 146.59.229.78, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5742", server: 178.130.46.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -575,12 +570,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -593,8 +585,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -611,7 +602,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
@@ -670,12 +660,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -688,8 +675,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -706,7 +692,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
@@ -765,12 +750,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -783,8 +765,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -801,7 +782,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
@@ -869,12 +849,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -887,8 +864,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -905,7 +881,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
@@ -964,12 +939,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -982,8 +954,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -1000,7 +971,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
@@ -1059,12 +1029,9 @@ proxy-groups:
       - " "
       - "@v2rayconfigamir 5933"
       - -@nftvici
-      - "@ServerTel 🌹👑🕊️"
       - "  2"
-      - "@ServerTel 🌹👑🕊️ 2"
       - 13.36.46.152:22222
       - 13.37.140.33:22222
-      - "@ServerTel 🌹👑🕊️ 3"
       - 15.188.101.85:22222
       - 15.188.164.131:22222
       - 15.224.0.245:22222
@@ -1077,8 +1044,7 @@ proxy-groups:
       - 35.181.164.194:22222
       - 51.44.109.231:22222
       - 52.29.115.99:22222
-      - 63.182.228.117:22222
-      - "@ServerTel 🌹👑🕊️ 4"
+      - 63.176.126.9:22222
       - "  3"
       - "@v2rayconfigamir 1950"
       - کانفیگ سیمکارت سفید گیگی ۵۰۰ @siinsiw
@@ -1095,7 +1061,6 @@ proxy-groups:
       - "  5"
       - "  6"
       - "@v2rayconfigamir 7171"
-      - "@ServerTel 🌹👑🕊️ 5"
       - "@v2rayconfigamir 5128"
       - "@v2rayconfigamir 1308"
       - "@v2rayconfigamir 5742"
