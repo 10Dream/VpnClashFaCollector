@@ -467,24 +467,23 @@ rule-providers:
 proxies:
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`, server: 38.54.59.16, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6ff1423f61ffe673, udp: true, tfo: false}
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2, server: 154.205.148.202, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033`", server: haji.arezoni1.ir, port: 666, type: vless, tls: true, packet-encoding: xudp, uuid: 06750866-200c-42c6-bd2c-80ee499b828f, host: haji.arezoni1.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3, server: 193.151.142.140, port: 45569, type: vless, tls: true, packet-encoding: xudp, uuid: 075e68b5-2743-4a3b-bc9b-948cc669ed41, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033`", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 14110bc1-454f-4536-9ac5-74754e77b4d5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 2", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 14110bc1-454f-4536-9ac5-74754e77b4d5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4, server: ml4.sardarr.top, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 189ea39d-52cb-4ff7-8664-7e1e108a14be, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5, server: srv3-germany.hajimamadcloud.com.tr, port: 1993, type: vless, tls: true, packet-encoding: xudp, uuid: 18bc8e60-ef94-4bbe-87ef-cbacdf88eba3, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 2", server: sdl15.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3899ada4-de68-4ed9-9fae-8745410e4149, host: sdl15.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6, server: 94.183.172.245, port: 20132, type: vless, tls: true, packet-encoding: xudp, uuid: 60039bd0-da8d-43d7-8a8b-057091040bf5, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7, server: fi.emshabshabe.ir, port: 8086, type: vless, tls: true, packet-encoding: xudp, uuid: 78f027b7-440f-4473-9cad-3ff01bc3e9a5, host: fi.emshabshabe.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8, server: turbo.unlimiteds.site, port: 550, type: vless, tls: true, packet-encoding: xudp, uuid: 81b73edd-d42d-ff2f-051d-6600595e406d, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 3", server: b1.msjia8844.site, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: 94dd34a0-fff4-4af5-873d-1e30248f007b, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 4", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9, server: tcp-abr-tr.connect-2.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: c5cd439e-c689-47c3-990b-f365514498ec, host: web.bale.ai, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 5", server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10, server: meli2.ertebatgoostar.ir, port: 2088, type: vless, tls: true, packet-encoding: xudp, uuid: ce44a500-4853-6391-397a-0895b3cfadbf, servername: 54.38.242.158, host: 54.38.242.158, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین, server: 94.183.149.168, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: d24e1b75-d80f-4818-d621-ee919ea71c16, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d2504171-abe9-4eea-8364-0dbbff4a54b1, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 6", server: s1.fastsnap.info, port: 29253, type: vless, tls: true, packet-encoding: xudp, uuid: ec9ad2c4-0a26-4233-be07-b1d2176386ae, host: s1.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 3", server: sdl15.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3899ada4-de68-4ed9-9fae-8745410e4149, host: sdl15.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033", server: 94.101.184.65, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5229125c-af0b-4f28-a3d0-990d5ade9ac0, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 4", server: ae2.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a, servername: ae2.suio.me, host: ae2.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033 2", server: usa.turbooserver.ir, port: 8086, type: vless, tls: true, packet-encoding: xudp, uuid: 7ab96fde-862d-4772-a6e6-d0e37e99f92b, host: usa.turbooserver.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 5", server: b1.msjia8844.site, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: 94dd34a0-fff4-4af5-873d-1e30248f007b, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 6", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 7", server: 144.31.17.80, port: 30677, type: vless, tls: true, packet-encoding: xudp, uuid: b86c0cdc-8a02-4da4-8693-72ba27005587, servername: google.com, host: google.com, path: /, reality-opts: {public-key: 2UqLjQFhlvLcY7VzaKRotIDQFOgAJe1dYD1njigp9wk, short-id: 47595474}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5, server: tcp-abr-tr.connect-2.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: c5cd439e-c689-47c3-990b-f365514498ec, host: web.bale.ai, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@airdrop2033` 8", server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2, server: 94.183.149.168, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: d24e1b75-d80f-4818-d621-ee919ea71c16, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6, server: nt5.vhuma.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d2504171-abe9-4eea-8364-0dbbff4a54b1, host: bama.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -503,24 +502,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -529,24 +527,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -555,24 +552,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -590,24 +586,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -616,24 +611,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -642,24 +636,23 @@ proxy-groups:
     proxies:
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین`
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
       - "@airdrop2033`"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
       - "@airdrop2033` 2"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 4
+      - "@airdrop2033` 3"
+      - "@airdrop2033"
+      - "@airdrop2033` 4"
+      - "@airdrop2033 2"
+      - "@airdrop2033` 5"
+      - "@airdrop2033` 6"
+      - "@airdrop2033` 7"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 5
+      - "@airdrop2033` 8"
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین 2
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 6
       - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 7
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 8
-      - "@airdrop2033` 3"
-      - "@airdrop2033` 4"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 9
-      - "@airdrop2033` 5"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 10
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 11
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 12
-      - "@airdrop2033` 6"
-      - "@airdrop2033"
   - name: دانلود منیجر 📥
     type: select
     proxies:

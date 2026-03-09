@@ -1,5 +1,202 @@
 # آرشیو کانال: @vasl_bashim
-بروزرسانی: 2026-03-09 08:14:23 UTC
+بروزرسانی: 2026-03-09 14:53:04 UTC
+
+### 🕒 2026-03-09 14:29:01 UTC
+بهترین تنظیمات DNS و فرکانس برای اپراتورها
+بخش SuperDNS
+udp://5.198.178.125 | udp://2.188.184.19
+udp://46.245.90.90 | udp://91.92.208.152
+udp://185.206.238.18
+بخش اختصاصی PDOQ (همه اپراتورها)
+[46.245.90.90](http://46.245.90.90/)
+ | 
+[2.188.184.19](http://2.188.184.19/)
+ | 
+[185.206.238.18](http://185.206.238.18/)
+[91.92.208.152](http://91.92.208.152/)
+ | 
+[185.164.74.183](http://185.164.74.183/)
+ | 
+[5.202.175.55](http://5.202.175.55/)
+[194.225.62.80](http://194.225.62.80/)
+ | 
+[102.37.12.10](http://102.37.12.10/)
+ | 
+[102.22.254.232](http://102.22.254.232/)
+[102.22.195.106](http://102.22.195.106/)
+ | 
+[102.22.81.183](http://102.22.81.183/)
+ | 
+[102.23.225.127](http://102.23.225.127/)
+[102.22.83.12](http://102.22.83.12/)
+ | 
+[102.23.231.66](http://102.23.231.66/)
+ | 
+[102.22.254.11](http://102.22.254.11/)
+راهنما: فرکانس همان عدد داخل کادر سبز (پایین Select DNS) است که بین ۱ تا ۱۰ قابل تنظیم است. برای این لیست، حتماً عدد را روی ۲ قرار دهید.
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-09 14:15:18 UTC
+لیست DNS هایی که ممکنه روی AM تونل با فرکانس های مختلف جواب بگیرید ؛
+ایرانسل تست شده ولی باقی نت هارو شما تست کنید .
+udp://10.1.24.51
+udp://102.22.207.199
+udp://102.23.226.40
+udp://102.22.254.214
+udp://10.175.46.18
+udp://2.189.44.44
+udp://2.189.44.44
+udp://217.170.254.224
+udp://84.47.239.2
+udp://10.104.204.247
+udp://102.22.254.232
+udp://78.38.26.130
+udp://77.237.82.123
+udp://217.144.107.162
+udp://102.22.207.199
+udp://102.22.207.199
+udp://102.23.226.40
+udp://102.22.195.106
+udp://102.22.207.199
+udp://102.22.195.106
+udp://102.22.207.6
+udp://2.188.21.240
+udp://102.22.108.2
+udp://102.37.109.39
+udp://10.3.53.238
+udp://10.1.24.51
+udp://185.94.96.22
+udp://2.189.44.44
+udp://102.37.16.226
+udp://2.188.21.240
+udp://102.22.254.232
+udp://5.239.241.236
+udp://151.234.70.99
+udp://102.22.254.232
+udp://217.170.254.224
+udp://93.118.160.148
+udp://102.22.254.214
+udp://188.213.79.116
+udp://87.107.139.254 
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-09 13:51:01 UTC
+ایپی dns ها تست شده روی ایرانسل همراه پینگ واقعی . 
+[217.66.203.211](http://217.66.203.211/)
+ ( 6859ms )
+[188.213.65.54](http://188.213.65.54/)
+ ( 11952ms )
+[188.136.162.104](http://188.136.162.104/)
+ ( 11942ms )
+[185.208.182.159](http://185.208.182.159/)
+ ( 8209ms )
+[185.176.59.209](http://185.176.59.209/)
+ ( 2633ms )
+[185.176.59.49](http://185.176.59.49/)
+ ( 5480ms )
+[185.176.59.254](http://185.176.59.254/)
+ ( 26446ms )
+[185.94.96.22](http://185.94.96.22/)
+ ( 34629ms )
+[178.252.143.133](http://178.252.143.133/)
+ ( 6921ms )
+[178.252.178.210](http://178.252.178.210/)
+ ( 12633ms )
+[178.22.122.246](http://178.22.122.246/)
+ ( 3281ms )
+[178.131.180.73](http://178.131.180.73/)
+ ( 18835ms )
+[102.37.109.39](http://102.37.109.39/)
+ ( 2970ms )
+[102.23.220.66](http://102.23.220.66/)
+ ( 2620ms )
+[102.23.209.41](http://102.23.209.41/)
+ ( 2882ms )
+[102.23.198.210](http://102.23.198.210/)
+ ( 3286ms )
+[102.23.196.253](http://102.23.196.253/)
+ ( 3407ms )
+[102.22.195.106](http://102.22.195.106/)
+ ( 5673ms )
+[102.22.83.142](http://102.22.83.142/)
+ ( 2838ms )
+[102.23.168.24](http://102.23.168.24/)
+ ( 6345ms )
+[102.22.109.225](http://102.22.109.225/)
+ ( 6795ms )
+[102.23.223.130](http://102.23.223.130/)
+ ( 9891ms )
+[102.22.108.2](http://102.22.108.2/)
+ ( 7639ms )
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-09 13:35:09 UTC
+SuperDns
+udp://37.148.57.40
+udp://185.49.84.2
+udp://91.92.208.43
+فرکانس 7,6,5,3 
+ایرانسل و همراه اول
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-09 13:21:22 UTC
+مخصوص ایرانسل، بقیه اپراتور‌ها رو تست کنید.
+هم AM Tunnel، هم‌اسلیپ‌نت
+***✅***
+ 
+[217.66.203.211](http://217.66.203.211/)
+ 
+[188.213.65.54](http://188.213.65.54/)
+ 
+[188.136.162.104](http://188.136.162.104/)
+ 
+[185.208.182.159](http://185.208.182.159/)
+[185.176.59.209](http://185.176.59.209/)
+ 
+[185.176.59.49](http://185.176.59.49/)
+ 
+[185.176.59.254](http://185.176.59.254/)
+ 
+[185.94.96.22](http://185.94.96.22/)
+ 
+[178.252.143.133](http://178.252.143.133/)
+ 
+[178.252.178.210](http://178.252.178.210/)
+ 
+[178.22.122.246](http://178.22.122.246/)
+ 
+[178.131.180.73](http://178.131.180.73/)
+ 
+[102.37.109.39](http://102.37.109.39/)
+ 
+[102.23.220.66](http://102.23.220.66/)
+ 
+[102.23.209.41](http://102.23.209.41/)
+[102.23.198.210](http://102.23.198.210/)
+ 
+[102.23.196.253](http://102.23.196.253/)
+ 
+[102.22.195.106](http://102.22.195.106/)
+ 
+[102.22.83.142](http://102.22.83.142/)
+ 
+[102.23.168.24](http://102.23.168.24/)
+[102.22.109.225](http://102.22.109.225/)
+[102.23.223.130](http://102.23.223.130/)
+ 
+[102.22.108.2](http://102.22.108.2/)
+ 
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
 
 ### 🕒 2026-03-09 07:57:01 UTC
 این دو تا هم شاید وصل بشن
@@ -1520,146 +1717,6 @@ PDOQ:
 
 ### 🕒 2026-03-06 16:15:41 UTC
 `vmess://eyJhZGQiOiJERVUuSVBTRU5URVIuTkVUIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjNiMzhiNzI5LTk4MWYtNGYyMy04NzQ2LTczNThjNjI4MmU0MiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJAdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vless://c3a8f526-6f41-4884-adb8-f33b4ec30fa6@v2.royalway.shop:2053?encryption=none&security=none&type=tcp&headerType=http#%40vasl_bashimvless://bc7bedf5-331e-45ce-a45a-57bca954f637@dash.mobileemdad.top:9560?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#%40vasl_bashimvless://bf6fe550-023e-4b64-ab85-158d84308111@94.183.149.168:8880?type=ws&path=%2F&host=&serviceName=-TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--TELEGRAM-V2iCY--&security=none#%40vasl_bashimvless://7dc2cdea-99c1-437e-826e-522e6d3dae39@airman-defense.oblivionspark.com:5874?security=none&encryption=none&headerType=http&type=tcp#%40vasl_bashimvless://47d440a1-83ac-4d0f-b2b4-e51a8526f55a@ge.configfast.site:3013?security=none&encryption=none&host=bale.ai%2Cweb.splus.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 14:42:34 UTC
-`vless://cc604606-3cf8-4d6a-a82b-6cd9ddebdb69@g42727cpj8.qa024r0n895i26qzk8y.realytag.com:891?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashimvless://ee33fe22-aae6-4f52-8ce4-b5373c9af35f@gerfan.rjwarehousing.ir:9987?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#%40vasl_bashimvless://d2504171-abe9-4eea-8364-0dbbff4a54b1@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%40vasl_bashimvless://d2504171-abe9-4eea-8364-0dbbff4a54b1@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%40vasl_bashimvless://d2504171-abe9-4eea-8364-0dbbff4a54b1@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%40vasl_bashimvless://d2504171-abe9-4eea-8364-0dbbff4a54b1@nt5.vhuma.com:8443?security=none&encryption=none&host=bama.ir&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 14:39:40 UTC
-`vless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&encryption=none&host=rubika.ir%2C+igap.net%2C+splus.ir%2C+skyroom.online&headerType=http&type=tcp#%40vasl_bashimvless://93e9b57e-0d96-40dd-a018-5304d0105d19@s3.tomandjery.eu:1004?encryption=none&security=reality&sni=play.google.com&fp=firefox&pbk=J6KjO1kPQZPPDhex23IhZwCbSlc2beKmsDGZ8em7sGg&sid=6ba85179e30d4fc2&type=tcp&headerType=none#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashimvless://cc604606-3cf8-4d6a-a82b-6cd9ddebdb69@3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890?security=&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashimvless://67bfe904-b4d4-41b2-a846-932c8f74bd43@afk.mrsf.ir:52477?security=none&allowInsecure=0&encryption=none&type=tcp&host=telewebion.com&path=/&headerType=http#%40vasl_bashimvless://c6461bff-cbbd-4522-95c1-705d2286501f@pm5.vhuma.com:443?security=none&allowInsecure=0&encryption=none&type=tcp&host=bama.ir&path=/&headerType=http#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 14:25:33 UTC
-`vmess://eyJhZGQiOiJkQy0xLmNFblRyQWxOZVQuQ3YiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDU5NDFjOWEtODgyMC00MTgxLWJiMjgtOGY1MzVmNTZhMzgxIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzMDAzIiwicHMiOiJAdmFzbF9iYXNoaW0iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#%40vasl_bashimvless://a7be5b32-3741-4b1b-9f17-c1e537de1a25@3p20h3k7oz.8w600lykky5rzr1f97ew.realytag.com:890?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashimvless://62da658c-9641-4615-8180-14db65694cc5@nl1.vnet500.xyz:26082?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 14:02:51 UTC
-***✅***
-کانفیگ های SlipNet(نت ملی)
-***🔥***
- POWER
-روی ایرانسل عملکرد بهتره داره
-اگه قطع شدید هربار گوشی رو airplane کنید و دوباره متصل بشید تا دیتا بگیرید.
-هر سرور متفاوت هست و براتون از سرورهای قوی ای استفاده کردیم.
-تمام سرورهارو داشته باشید که در صورت قطعی از اون یکی استفاده کنید
-روی کانفیگ ها کلیک کنید کپی میشه.
-کانفیگ POWER1:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSMS1AUGVyc2lhVE1DaGFubmVsfHkuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8ZjM0MDkzZTM1MDM0ZTkxOTI1NjVkYzEwNTlhYjAxMjViNzEyNmNmNmM5Y2Q5NTY1MjZiYjY5Mzc1Yzk5NzIyNHx8fDF8UGVyc2lhVGVhbXxAUGVyc2lhVE1DaGFubmVsfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
-کانفیگ POWER2:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSMi1AUGVyc2lhVE1DaGFubmVsfGUuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MmNiY2UzNjc3MjgzYmNiYjg2MzUyMDg1MzQ0MzNjNzRmOTI0MjZlZjlmY2Y2MTA3ZjkzN2YxZGI3YzhmYmMwZXx8fDF8UGVyc2lhVGVhbXxAUGVyc2lhVE1DaGFubmVsfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
-کانفیگ POWER3:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSMy1AUGVyc2lhVE1DaGFubmVsfGEuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MDMzYTZmYjEwNjYyYzI3ZGMyNDRiYzA5OWI0ZjQxNzNjZjYzZTc1NmMxZDU3Yzc4Y2E1N2Q5Y2Y5Y2ZjNjA0Ynx8fDF8UGVyc2lhVGVhbXxAUGVyc2lhVE1DaGFubmVsfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
-کانفیگ POWER4:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSNC1AUGVyc2lhVE1DaGFubmVsfHMuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MWZjYWZkMzc4NjhlZTZhY2Q1YWU2ZWZkOTgwOTBjNzI1NjA4MmViYzQ0Mjg4ZDBkYTIzNzJmODEwZDFlMjk0Znx8fDF8UGVyc2lhVGVhbXxAUGVyc2lhVE1DaGFubmVsfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
-کانفیگ POWER5:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSNS1AUGVyc2lhVE1DaGFubmVsfGsuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MWZiNzBlNzgyZDA4NjYxY2VjZjU4ZGQwZTc3ZDAzNDU0MGZjYzk1MTIxYTJiZjA5NDJkZDg0YjZjZmZjYmY2YXxyb290fHwxfFBlcnNpYVRlYW18QFBlcnNpYVRNQ2hhbm5lbHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfA==`
-کانفیگ POWER6:
-`slipnet://MTV8ZG5zdHRfc3NofFBPV0VSNi1AUGVyc2lhVE1DaGFubmVsfHQuZGV2cGVyc2lhLmNvbXw4LjguOC44OjUzOjB8MHwyMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8MGY1MmUwZTgxZmI3YWVjNzM4NDk5OWRhZDlkNGJjNjdhY2RlZDEwNmZkN2ZhZTY2M2M1YmE0YzgwZTc4NWUxY3x8fDF8UGVyc2lhVGVhbXxAUGVyc2lhVE1DaGFubmVsfDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8`
-***🚀***
- آموزش اتصال
-***1️⃣***
- کانفیگ را کپی کنید
-***2️⃣***
- وارد برنامه SlipNet  شوید
-***3️⃣***
- روی سه خط بالا بزنید و گزینه import profiles را import کنید.
-***4️⃣***
- روی آیکون Connect  بزنید
-***5️⃣***
-برای عملکرد بهتر کانفیگ برای (تلگرام)از قسمت Setting 
-تیک Proxy only mode رو داخل برنامه SlipNet بزنید و توی تلگرام به پروکسی زیر متصل شید
-پروکسی تلگرام
-اگه نیاز میخواستید به حالت قبل برگرده و کل گوشی از VPN استفاده کنه دوباره تیک گزینه proxy only mode رو خاموش کنید.
-***⚙️***
-نکته:
-روی مداد بغل کانفیگ ها کلیک کنید
-و توی قسمت
-DNS Resolver 
-دی ان اس های پایین رو وارد کنید و متصل بشید،کمی منتظر بمونید برای متصل شدن چون سرعت کمی پایین اومده:
-[102.23.223.130:53](http://102.23.223.130:53/)
-[102.22.81.183:53](http://102.22.81.183:53/)
-[102.22.83.142:53](http://102.22.83.142:53/)
-[102.22.72.46:53](http://102.22.72.46:53/)
-[102.22.81.201:53](http://102.22.81.201:53/)
-[102.22.83.12:53](http://102.22.83.12:53/)
-[102.22.81.133:53](http://102.22.81.133:53/)
-[102.22.81.175:53](http://102.22.81.175:53/)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:57:29 UTC
-`vless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#***🌪***-@vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=&encryption=none&host=skyroom.online,gharar.ir,igap.net&headerType=http&type=tcp#***🌪***-@vasl_bashimvless://62da658c-9641-4615-8180-14db65694cc5@nl1.vnet500.xyz:26082?security=none&allowInsecure=0&encryption=none&type=tcp&host=soft98.ir&path=/&headerType=http#***🌪***-@vasl_bashimvless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#***🌪***-@vasl_bashimvless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#***🌪***-@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:55:34 UTC
-`vless://5354f779-aede-48dc-8190-1210865f7ab6@overvpn.overvpn.site:2013?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vasl_bashimvless://b1e54079-188b-4715-9488-2bce140ee9e3@afk.mrsf.ir:37542?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40vasl_bashimvless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#%40vasl_bashimvless://63f92f3c-447c-4283-80b9-0af8e164cdad@152.53.48.237:22955?mode=gun&security=reality&encryption=none&pbk=9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms&fp=chrome&type=grpc&serviceName=grpc&sni=one-piece.com&sid=6ba85179e30d4fc2#%40vasl_bashimvless://8b8f4dfb-cd48-4dab-bb75-b304971176cd@45.95.233.85:61873?security=reality&encryption=none&pbk=wEU32qHhiQq-FDYUvuEl7_HAM6r5nDh6M4F8WGnEhjE&headerType=none&fp=chrome&type=tcp&sni=yandex.ru&sid=34d8e80d8fa40501#%40vasl_bashimvless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:50:10 UTC
-`vless://19542a29-e734-41c9-b372-b30286a61048@entekhabat.iran.asiatech.numtwo.iranvatanam.com:440?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:47:08 UTC
-`vmess://eyJhZGQiOiJ0cjEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJiODUwN2UwZS04OWYxLTUyYjUtOWEyNC02MjYzMmNiNDBiMjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2YXNsX2Jhc2hpbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://b1e54079-188b-4715-9488-2bce140ee9e3@afk.mrsf.ir:37542?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40vasl_bashimvless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%40vasl_bashimvless://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:45:21 UTC
-رفقا چند تا نکته  اول اینکه همه کانفیگا رو اضافه کنین به V2 یا Npv (جدیدا و قدیمی ها) و بعد پینگ بگیرین اگر پینگ پایین داشتین که وصل میشین اگه نداشتین حالت هواپیماتونو خاموش روشن کنین و Service restart کنین  و باز تست کنین و نکته آخرم اینکه سعی کنین کانفیگایی…
-
----
-
-### 🕒 2026-03-06 13:44:48 UTC
-رفقا چند تا نکته 
-اول اینکه همه کانفیگا رو اضافه کنین به V2 یا Npv (جدیدا و قدیمی ها) و بعد پینگ بگیرین
-اگر پینگ پایین داشتین که وصل میشین اگه نداشتین حالت هواپیماتونو خاموش روشن کنین و Service restart کنین  و باز تست کنین
-و نکته آخرم اینکه سعی کنین کانفیگایی که وصل نیستن رو پاک نکنین شاید چند دقیقه بعد بتونین بهش وصل شین(اگر حجمش تموم نشده باشه)
-
----
-
-### 🕒 2026-03-06 13:44:48 UTC
-`vless://5354f779-aede-48dc-8190-1210865f7ab6@overvpn.overvpn.site:2013?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vasl_bashimvless://ee33fe22-aae6-4f52-8ce4-b5373c9af35f@gerfan.rjwarehousing.ir:9987?security=none&encryption=none&host=refersion.com&headerType=http&type=tcp#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@mh52M5fSx0.zTZS0jb1r6G4z9mN9o2c.realytag.com:883?security=none&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@ek742h5pq3.ka739lofomsg28bshdul.realytag.com:1884?security=none&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@vfbh5h398f.hy7gqx14x0vb75ry2ac1.realytag.com:884?security=none&type=tcp&headerType=http&path=/&host=skyroom.online,igap.net,gharar.ir#%40vasl_bashimvless://c723ad72-c8b5-4d7b-aea5-2aa7c007fee3@6t8q56c58d.0g97vcf0bhjg6sa4n1xx.realytag.com:882?security=none&type=tcp&headerType=http&path=/&host=skyroom.online,gharar.ir,igap.net#%40@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:38:18 UTC
-`vmess://eyJhZGQiOiJ0cjEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJiODUwN2UwZS04OWYxLTUyYjUtOWEyNC02MjYzMmNiNDBiMjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2YXNsX2Jhc2hpbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vless://e8f8d7d6-8c21-4499-b6b4-2bc9972fff72@melli.tehransnr.com:443?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://a0d7cdab-5821-4477-b0c2-33c0060baf62@vip-meli3.nightgemshop.com:443?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://f6f63745-ec4a-4fa7-bac4-04aa571a4ae0@emergency2.layer-ziro.ir:2002?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%40vasl_bashimvless://b1e54079-188b-4715-9488-2bce140ee9e3@afk.mrsf.ir:37542?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:30:06 UTC
-`vmess://eyJhZGQiOiJ0cjEuaXJhbmlzaG9wcy5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im15a2V0LmlyIiwiaWQiOiJiODUwN2UwZS04OWYxLTUyYjUtOWEyNC02MjYzMmNiNDBiMjgiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkB2YXNsX2Jhc2hpbSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&host=%2F%3FBIA_TEL&headerType=none&type=tcp#%40vasl_bashimvless://958f6b9f-1628-4816-b3b6-7cdf4dc8cf03@6kdksjskskwkwodk.lskwposkrjgso.ncniwlqnxbdje.wizardxray.ir:705?security=none&encryption=none&host=rubika.ir%2Cigap.net%2Csplus.ir%2Cskyroom.online&headerType=http&type=tcp#%40vasl_bashimvless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp&sni=turbo.unlimiteds.site#%40vasl_bashimvless://81b73edd-d42d-ff2f-051d-6600595e406d@turbo.unlimiteds.site:550?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%40vasl_bashimvless://18164b40-8a2d-46f8-b758-bf6c87cb5e9e@ir-www-germani1.khabarkamkwww.fun:8081?security=none&encryption=none&host=www.speedtest.net&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 13:10:30 UTC
-`vless://ec9ad2c4-0a26-4233-be07-b1d2176386ae@s1.fastsnap.info:29253?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.176:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%40vasl_bashimvless://3f0f36f5-f091-45c5-88c9-4bcc545b922c@162.159.38.99:2096?path=%2F45.76.183.217%3D49292&security=tls&encryption=none&host=hetz.x-smm.com&type=ws&sni=hetz.x-smm.com#%40vasl_bashimvless://bf4c614f-c46d-4db9-b031-62f7e4b85c2c@104.24.39.51:443?path=ws&security=tls&encryption=none&host=hex.1tb.workers.dev&type=ws&sni=hex.1tb.workers.dev#%40vasl_bashimvless://7e01bdb1-07b2-415d-abe4-e94e75f15dfc@fn22.finuxmaster.shop:2095?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40vasl_bashimvless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.218.78.167:443?path=%2F&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-06 12:46:52 UTC
-`vless://062f5134-5ee9-48b8-928f-cfad28401afb@de-1-tun.irantehrankhabar.fun:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashimvless://062f5134-5ee9-48b8-928f-cfad28401afb@de-3-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashimvless://062f5134-5ee9-48b8-928f-cfad28401afb@nl-2-tun.khabarkhori.space:8081?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashimvless://062f5134-5ee9-48b8-928f-cfad28401afb@de-6-tun-single.starping5.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashimvless://062f5134-5ee9-48b8-928f-cfad28401afb@tak9.khabaronlinestar.site:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashimvless://062f5134-5ee9-48b8-928f-cfad28401afb@de-1-tun-single.starping1.fun:8083?security=none&type=tcp&headerType=http&path=%2F&host=www.speedtest.net#%40vasl_bashim`
 [@vasl_bashim](https://t.me/vasl_bashim)
 
 ---

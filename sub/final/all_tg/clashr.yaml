@@ -11,13 +11,13 @@ proxies:
   - {name: 130.185.72.31:2567, server: 130.185.72.31, port: 2567, type: socks5, username: "@v2bezan", password: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.141.134.50:24541, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.190.144.240:1122, server: 195.190.144.240, port: 1122, type: socks5, username: nullnetwork, password: nullnetwork, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 37.152.191.138:1080, server: 37.152.191.138, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5hproxyservice, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852 2, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5skyportall, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.186:2026, server: 79.127.32.186, port: 2026, type: socks5, username: reza, password: !<str> 561440, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.189:38742, server: 79.127.32.189, port: 38742, type: socks5, username: 1414, password: !<str> 2026, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 79.127.32.189:8443, server: 79.127.32.189, port: 8443, type: socks5, username: 1717, password: !<str> 1404, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.237.27:1080, server: 85.133.237.27, port: 1080, type: socks5, username: ashkan, password: a, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: bot.rayopoder.top:1433, server: bot.rayopoder.top, port: 1433, type: socks5, username: as, password: as, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: proxy.toolip.io:31115, server: proxy.toolip.io, port: 31115, type: socks5, username: 72d4da2e, password: k1ofdcs7e9mv, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -30,13 +30,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -49,13 +49,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -68,13 +68,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: 📲 电报信息
     type: select
     proxies:
@@ -86,13 +86,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -104,13 +104,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -122,13 +122,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -162,13 +162,13 @@ proxy-groups:
       - 130.185.72.31:2567
       - 185.141.134.50:24541
       - 195.190.144.240:1122
-      - 37.152.191.138:1080
       - 37.191.85.54:1852
       - 37.191.85.54:1852 2
       - 79.127.32.186:2026
       - 79.127.32.189:38742
+      - 79.127.32.189:8443
       - 85.133.237.27:1080
-      - bot.rayopoder.top:1433
+      - proxy.toolip.io:31115
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
