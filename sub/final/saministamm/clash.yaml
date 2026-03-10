@@ -465,6 +465,7 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@saministamm | چنل ما فقط تلگرام`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
   - {name: "@saministamm`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام ما`", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: 102.37.237.190:443, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
@@ -483,6 +484,7 @@ proxies:
   - {name: "@saministamm | جوین باشید تلگراممون`", server: 85.133.227.68, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 0773112d-c3fc-4a9f-aea0-d9be521452ce, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگراممون جوین باشید 3", server: 85.133.240.82, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0773112d-c3fc-4a9f-aea0-d9be521452ce, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگراممون جوین باشید 4", server: 85.133.240.99, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0773112d-c3fc-4a9f-aea0-d9be521452ce, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm ||فقط تلگرام جوین باشید 🚀`", server: IR-FanAva5-AlphaOmega.AlphaOmegaVIP.IR, port: 500, type: vless, tls: true, packet-encoding: xudp, uuid: 09ee758e-47c4-4e93-b81d-a2c4b8580d9b, host: www.telewebion.ir., path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: 185.226.117.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fff5f1b-370d-4e98-829d-7dca653fbca8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 4", server: 185.226.117.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fff5f1b-370d-4e98-829d-7dca653fbca8, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: m5.anush.top:19419, server: m5.anush.top, port: 19419, type: vless, tls: true, packet-encoding: xudp, uuid: 1155571e-ef00-4bd0-a3db-a5f479b4a3fc, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -554,6 +556,7 @@ proxies:
   - {name: "@saministamm 14", server: 62.60.198.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a72f055b-8929-4947-bbcd-1eb567e1f69e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 15", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 12", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm |فقط تلگرام داشته باشید`", server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 7, server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 13", server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm` 14", server: farzandeiran.iransalar.top, port: 20224, type: vless, tls: true, packet-encoding: xudp, uuid: bbb520f1-5cb6-4d15-df5e-e7b3c42806aa, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -594,6 +597,9 @@ proxies:
   - {name: "@saministamm || جوین باشید تلگرام", server: ch.topspeedarash.com, port: 4354, type: vmess, uuid: d6409208-01c7-4f86-8e5f-9fee3fa50519, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 23", server: gsmvp.gsmvx.com, port: 110, type: vmess, uuid: 3fb1f9db-1c1b-3e9d-0051-06a3b0641dbd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 24", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm | چنل تلگرام ما", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm || چنل تگلراممون 🚀🚀", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministammتلگرام", server: 87.107.187.210, port: 2001, type: vmess, uuid: 64c73489-e741-9bd2-86ca-5e90a23760ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 25", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm 26", server: 87.107.187.210, port: 2001, type: vmess, uuid: 64c73489-e741-9bd2-86ca-5e90a23760ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -613,6 +619,7 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -631,6 +638,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -702,6 +710,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -741,6 +750,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"
@@ -750,6 +762,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -768,6 +781,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -839,6 +853,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -878,6 +893,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"
@@ -887,6 +905,7 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -905,6 +924,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -976,6 +996,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -1015,6 +1036,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"
@@ -1033,6 +1057,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -1051,6 +1076,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -1122,6 +1148,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -1161,6 +1188,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"
@@ -1170,6 +1200,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -1188,6 +1219,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -1259,6 +1291,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -1298,6 +1331,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"
@@ -1307,6 +1343,7 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@saministamm | چنل ما فقط تلگرام`"
       - "@saministamm`"
       - "@saministamm | تلگرام ما`"
       - 102.37.237.190:443
@@ -1325,6 +1362,7 @@ proxy-groups:
       - "@saministamm | جوین باشید تلگراممون`"
       - "@saministamm | تلگراممون جوین باشید 3"
       - "@saministamm | تلگراممون جوین باشید 4"
+      - "@saministamm ||فقط تلگرام جوین باشید 🚀`"
       - "@saministamm"
       - "@saministamm` 4"
       - m5.anush.top:19419
@@ -1396,6 +1434,7 @@ proxy-groups:
       - "@saministamm 14"
       - "@saministamm 15"
       - "@saministamm` 12"
+      - "@saministamm |فقط تلگرام داشته باشید`"
       - saministamm 7
       - "@saministamm` 13"
       - "@saministamm` 14"
@@ -1435,6 +1474,9 @@ proxy-groups:
       - "@saministamm || جوین باشید تلگرام"
       - "@saministamm 23"
       - "@saministamm 24"
+      - "@saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
+      - "@saministamm | چنل تلگرام ما"
+      - "@saministamm || چنل تگلراممون 🚀🚀"
       - "@saministammتلگرام"
       - "@saministamm 25"
       - "@saministamm 26"

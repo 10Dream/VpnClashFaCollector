@@ -468,8 +468,6 @@ proxies:
   - {name: 65@oneclickvpnkeys, server: www.shopify.com, port: 2053, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 108.162.198.247, port: 443, type: trojan, password: 823cbccd-3a71-4248-ac3c-3c460de1552d, sni: snll100.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: snll100.pages.dev}}, udp: true, tfo: false}
   - {name: "@filembad`", server: 104.19.63.120, port: 443, type: trojan, password: Nova-Proxy, sni: tiny-snowflake-b362.sinahaqiqi2025.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed=2560", headers: {Host: tiny-snowflake-b362.sinahaqiqi2025.workers.dev}}, udp: true, tfo: false}
-  - {name: Dynamic | TLS • chrome, server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 21@oneclickvpnkeys, server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: /, headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 27@oneclickvpnkeys, server: 162.159.152.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51@oneclickvpnkeys, server: 162.159.152.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -516,7 +514,6 @@ proxies:
   - {name: 49@oneclickvpnkeys, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: " ", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim`", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: 104.19.151.106, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 73d17f62-d0c0-4c90-903c-a2b3f3806cca, network: ws, ws-opts: {path: /, headers: {Host: fragrant-tooth-a5b7.cajeba6448.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 40@oneclickvpnkeys, server: 162.159.12.102, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 761de185-8b90-407c-89ad-6be8d880f6f8, servername: xrqj.pages.dev, network: ws, ws-opts: {path: /friends/player/anime, headers: {Host: xrqj.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80@oneclickvpnkeys, server: 162.159.44.105, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 761de185-8b90-407c-89ad-6be8d880f6f8, servername: xrqj.pages.dev, network: ws, ws-opts: {path: /list/player/teacher, headers: {Host: xrqj.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -587,8 +584,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -635,7 +630,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys
@@ -696,8 +690,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -744,7 +736,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys
@@ -805,8 +796,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -853,7 +842,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys
@@ -923,8 +911,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -971,7 +957,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys
@@ -1032,8 +1017,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -1080,7 +1063,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys
@@ -1141,8 +1123,6 @@ proxy-groups:
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
       - "@filembad`"
-      - Dynamic | TLS • chrome
-      - "@proxy_kafee"
       - 21@oneclickvpnkeys
       - 27@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -1189,7 +1169,6 @@ proxy-groups:
       - 49@oneclickvpnkeys
       - chatgpt.com:2096
       - " "
-      - "@vasl_bashim`"
       - 38@oneclickvpnkeys
       - 40@oneclickvpnkeys
       - 80@oneclickvpnkeys

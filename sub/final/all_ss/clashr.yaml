@@ -5,14 +5,18 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 95.216.238.249:37337, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
-  - {name: "@saministamm`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: 95.216.238.249:37337, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
+  - {name: "@filembad`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
+  - {name: "@saministamm | چنل ما فقط تلگرام`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
   - {name: 95.216.238.249:37337 2, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
-  - {name: "@filembad`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=, udp: true, tfo: false}
+  - {name: "@saministamm`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: 95.216.238.249:37337 3, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=, udp: true, tfo: false}
   - {name: NetAccount`, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=, udp: true, tfo: false}
   - {name: 43.128.111.119:38012, server: 43.128.111.119, port: 38012, type: ss, cipher: 2022-blake3-aes-256-gcm, password: slG+0TTh3ooR89EGCea91CuAmPK4RVUdc7ah9ENN3jY=, udp: true, tfo: false}
   - {name: 154.205.148.202:11202, server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1237", server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
@@ -24,29 +28,31 @@ proxies:
   - {name: series-a2-mec.varzesh360.co:443, server: series-a2-mec.varzesh360.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: u17T3BvpYaaiuW2c, udp: true, tfo: false}
   - {name: 138.186.142.80:990, server: 138.186.142.80, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: 185.113.143.186:990, server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 185.113.143.186, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 85.210.120.237:443, server: 85.210.120.237, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: Bog0ELmMM9DSxDdQ, udp: true, tfo: false}
-  - {name: 81.90.189.18:811, server: 81.90.189.18, port: 811, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: 37.120.192.158:802, server: 37.120.192.158, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 37.120.192.158, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 37.120.192.158, port: 802, type: ss, cipher: chacha20-ietf-poly1305, password: G!yBwPWH3Vao, udp: true, tfo: false}
   - {name: 142.4.216.225:80, server: 142.4.216.225, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: JIhN6rBKkaEboLNXVSv5rq, udp: true, tfo: false}
   - {name: 124.217.247.205:51348, server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: "🇲🇾 [openproxylist.com] MY 13267967", server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 124.217.247.205, port: 51348, type: ss, cipher: chacha20-ietf-poly1305, password: RZirHzSqyyb37DDIiQeDLZTJft5ZQGmUCwyA3wm5ath4j9Y3, udp: true, tfo: false}
   - {name: 102.37.237.190:443, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: "@filembad", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام ما`", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: proxymelimon, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: 102.37.237.190:443 2, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
-  - {name: "***🛜***-@SPEEDS_VPN1`", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "| @configraygan『🇩🇪⁵³』", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
   - {name: NetAccount` 2, server: 163.171.181.49, port: 48852, type: ss, cipher: chacha20-ietf-poly1305, password: abc484edcf1be43c, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: Azad TV`, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: ss.055.node-for-bigairport.win:29000, server: ss.055.node-for-bigairport.win, port: 29000, type: ss, cipher: chacha20-ietf-poly1305, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53, udp: true, tfo: false}
   - {name: 82.38.31.189:8080, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
@@ -57,16 +63,16 @@ proxies:
   - {name: NetAccount` 3, server: 82.38.31.61, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 9", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "| @configraygan『🇩🇪²⁸』", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 158.173.20.171:443, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 195.230.107.5, port: 10594, type: ss, cipher: aes-256-gcm, password: Ou2fFxsefGhweN2PBdX, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 103.106.228.175, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74, udp: true, tfo: false}
   - {name: 8.210.182.238:8888, server: 8.210.182.238, port: 8888, type: ss, cipher: aes-256-gcm, password: a338A9, udp: true, tfo: false}
   - {name: 85.208.108.20:6379, server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 10", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
   - {name: US_@configraygan, server: 104.248.68.179, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: US_@configraygan 2, server: 104.248.68.179, port: 8443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: US_@configraygan 3, server: 104.254.211.156, port: 8443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
@@ -143,13 +149,17 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -161,29 +171,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -194,16 +206,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -280,13 +292,17 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -298,29 +314,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -331,16 +349,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -417,13 +435,17 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -435,29 +457,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -468,16 +492,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -553,13 +577,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -571,29 +599,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -604,16 +634,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -689,13 +719,17 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -707,29 +741,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -740,16 +776,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -825,13 +861,17 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -843,29 +883,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -876,16 +918,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
@@ -983,13 +1025,17 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 95.216.238.249:37337
-      - "@saministamm`"
-      - 95.216.238.249:37337 2
       - "@filembad`"
+      - "@saministamm | چنل ما فقط تلگرام`"
+      - "***🐦‍🔥***-@SPEEDS_VPN`"
+      - 95.216.238.249:37337 2
+      - "@saministamm`"
+      - 95.216.238.249:37337 3
+      - "@filembad` 2"
       - NetAccount`
       - 43.128.111.119:38012
       - 154.205.148.202:11202
-      - "@filembad` 2"
+      - "@filembad` 3"
       - "@v2rayconfigamir 1237"
       - "***✅***@AR14N24b"
       - 141.95.106.127:11201
@@ -1001,29 +1047,31 @@ proxy-groups:
       - series-a2-mec.varzesh360.co:443
       - 138.186.142.80:990
       - 193.135.174.135:990
-      - 85.210.120.237:443
-      - 81.90.189.18:811
-      - 37.120.192.158:802
+      - 185.113.143.186:990
+      - "@filembad` 4"
       - "***✅***@AR14N24b 3"
+      - 85.210.120.237:443
+      - 37.120.192.158:802
+      - "***✅***@AR14N24b 4"
       - 142.4.216.225:80
       - 124.217.247.205:51348
       - 🇲🇾 [openproxylist.com] MY 13267967
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 5"
       - 102.37.237.190:443
       - "@filembad"
-      - "@filembad` 3"
+      - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 6"
       - proxymelimon
       - 102.37.237.190:443 2
-      - "@filembad` 4"
-      - "***🛜***-@SPEEDS_VPN1`"
+      - "@filembad` 6"
+      - "***✅***@AR14N24b 7"
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
       - NetAccount` 2
       - 102.37.156.224:443
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 8"
       - Azad TV`
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
@@ -1034,16 +1082,16 @@ proxy-groups:
       - NetAccount` 3
       - 82.38.31.62:8080
       - "  2"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 9"
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
-      - "@filembad` 5"
+      - "@filembad` 7"
       - 8.210.182.238:8888
       - 85.208.108.20:6379
-      - "***✅***@AR14N24b 8"
+      - "***✅***@AR14N24b 10"
       - US_@configraygan
       - US_@configraygan 2
       - US_@configraygan 3
