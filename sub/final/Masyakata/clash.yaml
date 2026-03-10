@@ -472,20 +472,17 @@ proxies:
   - {name: "@harfbzaniiim`", server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 06c7a413-6c2d-e356-d0df-d4ac594a24f1, servername: 54.38.242.158, host: 54.38.242.158, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Azad TV, server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 14110bc1-454f-4536-9ac5-74754e77b4d5, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@harfbzaniiim` 2", server: www.tomandjery.eu, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 280c9ff0-7efd-449f-818e-fe46b21aeafe, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: 3LRzcL17BaZqZ-I7kZ6HtRGPPhxAubqCprP_USHd_g4, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kamkarstore`", server: 109.95.67.200, port: 25443, type: vless, tls: true, packet-encoding: xudp, uuid: 424b84b4-cd57-42eb-b1e0-5b618ffcb822, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Emergency-Tesett`, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ae_proxy 154`, server: 141.95.127.132, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv-Telegram@V2ynpv, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configmax`", server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 6a3ad064-be7c-40be-9a48-171885a359b7, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad`", server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 6a3ad064-be7c-40be-9a48-171885a359b7, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 2", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 705f96ea-9a3f-9d89-4ed9-c1b8b6e802da, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@harfbzaniiim` 3", server: 134.255.204.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 8058fd1c-28ca-4e6c-9828-ce7cf4433b5c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kamkarstore` 2", server: ir2.yooznet.top, port: 9003, type: vless, tls: true, packet-encoding: xudp, uuid: 8fc78561-405a-4b02-bd13-36bfa9738e53, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kamkarstore` 3", server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@kamkarstore`", server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@shankamil چنل تلگرام🛡`", server: turkey.dehnavy.ir, port: 36135, type: vless, tls: true, packet-encoding: xudp, uuid: 9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd, host: skyroom.online%2C%20igap.net%2C%20gharar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kamkarstore` 4", server: 81.12.92.125, port: 5050, type: vless, tls: true, packet-encoding: xudp, uuid: b0787a37-4259-4bf5-800c-da0d4ae881bc, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@", server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Skyportall`", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@duckvp_n`", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@kamkarstore` 5", server: s5.laptopstock7.com, port: 9976, type: vless, tls: true, packet-encoding: xudp, uuid: bddaee6c-3145-4817-acfc-ab028578989b, host: s5.laptopstock7.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦", server: 178.239.146.50, port: 2001, type: vless, tls: true, packet-encoding: xudp, uuid: c2b88a44-9000-4c86-9df9-cee546d793b7, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@textcupido | برای کانفینگ‌ها", server: ja3.diiginet.ir, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: c8c75018-26ab-4501-be3e-f7bb33ed8c57, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑", server: ja3.diiginet.ir, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: c8c75018-26ab-4501-be3e-f7bb33ed8c57, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -493,9 +490,9 @@ proxies:
   - {name: "@fil`", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 3", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@harfbzaniiim` 5", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad", server: v.xix.onl, port: 443, type: vmess, uuid: 5c55e475-15ed-481a-a47e-e83bff5d6906, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 2", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 3", server: gr1.iranishops.com, port: 443, type: vmess, uuid: 6997ed48-2733-40f8-ba87-566e3efdc5d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "channel : sobhanaryaa 🦁☀️", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 2", server: gr1.iranishops.com, port: 443, type: vmess, uuid: 6997ed48-2733-40f8-ba87-566e3efdc5d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -519,20 +516,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -540,9 +534,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -556,20 +550,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -577,9 +568,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -593,20 +584,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -614,9 +602,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -639,20 +627,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -660,9 +645,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -676,20 +661,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -697,9 +679,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -713,20 +695,17 @@ proxy-groups:
       - "@harfbzaniiim`"
       - Azad TV
       - "@harfbzaniiim` 2"
-      - "@kamkarstore`"
       - Emergency-Tesett`
       - Ae_proxy 154`
       - "@configmax`"
       - "@filembad`"
       - "@filembad` 2"
       - "@harfbzaniiim` 3"
-      - "@kamkarstore` 2"
-      - "@kamkarstore` 3"
+      - "@kamkarstore`"
       - "@shankamil چنل تلگرام🛡`"
-      - "@kamkarstore` 4"
+      - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
-      - "@kamkarstore` 5"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید💦"
       - "@textcupido | برای کانفینگ‌ها"
       - "@textcupido | برای کانفینگ‌های بیشتر ما را در تلگرام دنبال کنید🤑"
@@ -734,9 +713,9 @@ proxy-groups:
       - "@fil`"
       - "@filembad` 3"
       - "@harfbzaniiim` 5"
+      - "channel : sobhanaryaa 🦁☀️"
       - "@filembad"
       - "@filembad 2"
-      - "@filembad 3"
   - name: دانلود منیجر 📥
     type: select
     proxies:

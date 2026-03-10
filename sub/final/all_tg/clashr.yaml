@@ -9,7 +9,7 @@ proxies:
   - {name: 109.162.131.10:1080, server: 109.162.131.10, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 130.185.72.31:2567, server: 130.185.72.31, port: 2567, type: socks5, username: "@v2bezan", password: "@saministamm", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 185.141.134.50:24541, server: 185.141.134.50, port: 24541, type: socks5, username: wptzYizSMp, password: WmplKfj21V, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.121.119.161:1080, server: 188.121.119.161, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 195.190.144.240:1122, server: 195.190.144.240, port: 1122, type: socks5, username: nullnetwork, password: nullnetwork, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.136:5050, server: 2.144.20.136, port: 5050, type: socks5, username: newmaniwar, password: manimhxjj9090, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.191.85.54:1852, server: 37.191.85.54, port: 1852, type: socks5, username: mcservices, password: socks5hproxyservice, skip-cert-verify: false, udp: true, tfo: false}
@@ -18,8 +18,11 @@ proxies:
   - {name: 79.127.32.189:8443, server: 79.127.32.189, port: 8443, type: socks5, username: 1717, password: !<str> 1404, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.32.189:8443 2, server: 79.127.32.189, port: 8443, type: socks5, username: 1717, password: !<str> 1404, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.237.27:1080, server: 85.133.237.27, port: 1080, type: socks5, username: ashkan, password: a, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.156.106:8585 2, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.122.212:1088, server: 93.115.122.212, port: 1088, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.181.95:55630, server: 94.101.181.95, port: 55630, type: socks5, username: wXYTxkcQIy, password: AojUo8ToDE, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "94.10…:", server: 94.10…, port: 0, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxy.toolip.io:31115, server: proxy.toolip.io, port: 31115, type: socks5, username: 72d4da2e, password: k1ofdcs7e9mv, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -31,7 +34,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -40,8 +43,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: ♻️ 自动选择
     type: url-test
@@ -53,7 +59,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -62,8 +68,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: 🌍 国外媒体
     type: select
@@ -75,7 +84,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -84,8 +93,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: 📲 电报信息
     type: select
@@ -96,7 +108,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -105,8 +117,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: Ⓜ️ 微软服务
     type: select
@@ -117,7 +132,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -126,8 +141,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: 🍎 苹果服务
     type: select
@@ -138,7 +156,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -147,8 +165,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
   - name: 🎯 全球直连
     type: select
@@ -181,7 +202,7 @@ proxy-groups:
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 130.185.72.31:2567
-      - 185.141.134.50:24541
+      - 188.121.119.161:1080
       - 195.190.144.240:1122
       - 2.144.20.136:5050
       - 37.191.85.54:1852
@@ -190,8 +211,11 @@ proxy-groups:
       - 79.127.32.189:8443
       - 79.127.32.189:8443 2
       - 85.133.237.27:1080
+      - 87.248.156.106:8585
+      - 87.248.156.106:8585 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
+      - "94.10…:"
       - proxy.toolip.io:31115
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

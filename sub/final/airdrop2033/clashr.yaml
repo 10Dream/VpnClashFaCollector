@@ -18,9 +18,8 @@ proxies:
   - {name: "@airdrop2033` 7", server: 185.136.135.85, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: a76c0161-a9d8-4847-ab2d-3603f587d79e, host: telewebion.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@airdrop2033` 8", server: 144.31.17.80, port: 30677, type: vless, tls: true, packet-encoding: xudp, uuid: b86c0cdc-8a02-4da4-8693-72ba27005587, servername: google.com, host: google.com, path: /, reality-opts: {public-key: 2UqLjQFhlvLcY7VzaKRotIDQFOgAJe1dYD1njigp9wk, short-id: 47595474}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@airdrop2033` 9", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2, server: tcp-abr-tr.connect-2.org, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: c5cd439e-c689-47c3-990b-f365514498ec, host: web.bale.ai, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@airdrop2033` 10", server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2, server: nl.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -40,9 +39,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -62,9 +60,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -84,9 +81,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: 📲 电报信息
     type: select
     proxies:
@@ -105,9 +101,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -126,9 +121,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -147,9 +141,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -190,9 +183,8 @@ proxy-groups:
       - "@airdrop2033` 7"
       - "@airdrop2033` 8"
       - "@airdrop2033` 9"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
       - "@airdrop2033` 10"
-      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 3
+      - 『  🌟@airdrop2033 』عضو کانال تلگرامی بشین` 2
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
