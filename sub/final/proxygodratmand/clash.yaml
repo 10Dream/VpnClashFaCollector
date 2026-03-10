@@ -480,8 +480,7 @@ proxies:
   - {name: "@proxygodratmand قطع شدی بیا چنل فقط 10", server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: a78d795d-ab77-49dd-8962-f630115f617c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxygodratmand قطع شدی بیا چنل فقط 11", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxygodratmand قطع شدی بیا چنل فقط 12", server: cb.onlinenet99.xyz, port: 41283, type: vless, tls: true, packet-encoding: xudp, uuid: d9b788fd-c565-4c77-8bf7-f7319d099429, host: cb.onlinenet99.xyz, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 13", server: tun.p2p1.sbs, port: 2020, type: vmess, uuid: 497868e2-0b12-4244-a044-3ad0a94cb46b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 14", server: stars.ad, port: 80, type: vmess, uuid: 20f57edd-bbcb-44a9-8a93-7d944df91a84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxygodratmand قطع شدی بیا چنل فقط 13", server: stars.ad, port: 80, type: vmess, uuid: 20f57edd-bbcb-44a9-8a93-7d944df91a84, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -512,7 +511,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -533,7 +531,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -554,7 +551,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -584,7 +580,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -605,7 +600,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -626,7 +620,6 @@ proxy-groups:
       - "@proxygodratmand قطع شدی بیا چنل فقط 11"
       - "@proxygodratmand قطع شدی بیا چنل فقط 12"
       - "@proxygodratmand قطع شدی بیا چنل فقط 13"
-      - "@proxygodratmand قطع شدی بیا چنل فقط 14"
   - name: دانلود منیجر 📥
     type: select
     proxies:

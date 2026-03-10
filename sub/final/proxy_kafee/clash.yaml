@@ -1,0 +1,1109 @@
+global-client-fingerprint: chrome
+port: 7890
+socks-port: 7891
+redir-port: 7892
+mixed-port: 7893
+tproxy-port: 7894
+allow-lan: true
+tcp-concurrent: true
+enable-process: true
+find-process-mode: strict
+ipv6: true
+log-level: debug
+geo-auto-update: true
+geo-update-interval: 168
+secret: ""
+bind-address: "*"
+unified-delay: false
+disable-keep-alive: false
+keep-alive-idle: 30
+keep-alive-interval: 30
+profile:
+  store-selected: true
+  store-fake-ip: true
+dns:
+  enable: true
+  ipv6: true
+  respect-rules: false
+  prefer-h3: true
+  cache-algorithm: arc
+  use-system-hosts: true
+  use-host: true
+  listen: 0.0.0.0:53
+  enhanced-mode: fake-ip
+  fake-ip-filter-mode: blacklist
+  fake-ip-range: 198.18.0.1/16
+  fake-ip-filter:
+    - "*.lan"
+    - "*.localdomain"
+    - "*.invalid"
+    - "*.localhost"
+    - "*.test"
+    - "*.local"
+    - "*.home.arpa"
+    - time.*.com
+    - ntp.*.com
+    - "*.ir"
+  default-nameserver:
+    - 8.8.8.8
+    - 8.8.4.4
+    - 1.0.0.1
+    - 1.1.1.1
+    - 9.9.9.9
+    - 9.9.9.11
+    - 9.9.9.10
+    - 94.140.14.15
+    - 94.140.15.15
+    - 223.5.5.5
+    - 77.88.8.8
+  nameserver:
+    - https://sky.rethinkdns.com/1:-J8AGH8C7_2-___f3_vZ3f_z-f9KagBI
+    - tls://1-7cpqagd7alx73px777p5766z3x77h6p7jjvaasa.max.rethinkdns.com
+  direct-nameserver:
+    - 78.157.42.100
+    - 78.157.42.101
+  proxy-server-nameserver:
+    - 2606:4700:4700::1111
+    - 2606:4700:4700::1001
+    - 2001:4860:4860::8888
+    - 2001:4860:4860::8844
+    - 1.1.1.1
+    - 8.8.8.8
+    - 8.8.4.4
+    - 9.9.9.9
+    - 223.5.5.5
+    - 77.88.8.8
+    - 2400:3200::1
+    - 2a02:6b8::feed:0ff
+    - 2620:fe::fe
+sniffer:
+  enable: true
+  force-dns-mapping: true
+  parse-pure-ip: true
+  override-destination: false
+  sniff:
+    HTTP:
+      ports: [80, 8080, 8880, 2052, 2082, 2086, 2095]
+    TLS:
+      ports: [443, 8443, 2053, 2083, 2087, 2096]
+tun:
+  enable: true
+  stack: mixed
+  auto-route: true
+  auto-detect-interface: true
+  auto-redir: true
+  dns-hijack:
+    - any:53
+    - tcp://any:53
+rule-providers:
+  category_public_tracker:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-public-tracker.yaml
+    interval: 86400
+    path: ./ruleset/category_public_tracker.yaml
+  iran_ads:
+    type: http
+    behavior: domain
+    url: https://github.com/bootmortis/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    interval: 86400
+    path: ./ruleset/iran_ads.yaml
+  PersianBlocker:
+    type: http
+    behavior: domain
+    url: https://github.com/MasterKia/iran-hosted-domains/releases/latest/download/clash_rules_ads.yaml
+    path: ./ruleset/PersianBlocker.yaml
+    interval: 86400
+  youtube:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/youtube.yaml
+    interval: 86400
+    path: ./ruleset/youtube.yaml
+  telegram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/telegram.yaml
+    interval: 86400
+    path: ./ruleset/telegram.yaml
+  twitch:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/twitch.yaml
+    interval: 86400
+    path: ./ruleset/twitch.yaml
+  censor:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/censor.yaml
+    interval: 86400
+    path: ./ruleset/tahrim.yaml
+  local_ips:
+    type: http
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/local-ips.yaml
+    interval: 86400
+    path: ./ruleset/local_ips.yaml
+  private:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/private.yaml
+    interval: 86400
+    path: ./ruleset/private.yaml
+  category_ir:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/category-ir.yaml
+    interval: 86400
+    path: ./ruleset/category_ir.yaml
+  iran:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/iran.yaml
+    interval: 86400
+    path: ./ruleset/iran.yaml
+  steam:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/main/steam.yaml
+    interval: 86400
+    path: ./ruleset/steam.yaml
+  game:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/game.yaml
+    interval: 86400
+    path: ./ruleset/game.yaml
+  category-games:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-games.yaml
+    interval: 86400
+    path: ./ruleset/category-games.yaml
+  ir:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ir.yaml
+    path: ./ruleset/ir.yaml
+    interval: 86400
+  apps:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/apps.yaml
+    path: ./ruleset/apps.yaml
+    interval: 86400
+  ircidr:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://github.com/chocolate4u/Iran-clash-rules/releases/latest/download/ircidr.yaml
+    path: ./ruleset/ircidr.yaml
+    interval: 86400
+  irasn:
+    type: http
+    format: yaml
+    behavior: classical
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/irasn.yaml
+    path: ./ruleset/irasn.yaml
+    interval: 86400
+  arvancloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/arvancloud.yaml
+    path: ./ruleset/arvancloud.yaml
+    interval: 86400
+  derakcloud:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/derakcloud.yaml
+    path: ./ruleset/derakcloud.yaml
+    interval: 86400
+  iranserver:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/iranserver.yaml
+    path: ./ruleset/iranserver.yaml
+    interval: 86400
+  parspack:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/parspack.yaml
+    path: ./ruleset/parspack.yaml
+    interval: 86400
+  malware:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/malware.yaml
+    path: ./ruleset/malware.yaml
+    interval: 86400
+  phishing:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/phishing.yaml
+    path: ./ruleset/phishing.yaml
+    interval: 86400
+  cryptominers:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/cryptominers.yaml
+    path: ./ruleset/cryptominers.yaml
+    interval: 86400
+  ads:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/category-ads-all.yaml
+    path: ./ruleset/ads.yaml
+    interval: 86400
+  DownloadManagers:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/DownloadManagers.yaml
+    interval: 86400
+    path: ./ruleset/DownloadManagers.yaml
+  BanProgramAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanProgramAD.yaml
+    interval: 86400
+    path: ./ruleset/BanProgramAD.yaml
+  BanAD:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanAD.yaml
+    interval: 86400
+    path: ./ruleset/BanAD.yaml
+  PrivateTracker:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/PrivateTracker.yaml
+    interval: 86400
+    path: ./ruleset/PrivateTracker.yaml
+  BanEasyList:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/BanEasyList.yaml
+    interval: 86400
+    path: ./ruleset/BanEasyList.yaml
+  Download:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Download.yaml
+    interval: 86400
+    path: ./ruleset/Download.yaml
+  GameDownload:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/GameDownload.yaml
+    interval: 86400
+    path: ./ruleset/GameDownload.yaml
+  SteamRegionCheck:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/SteamRegionCheck.yaml
+    interval: 86400
+    path: ./ruleset/SteamRegionCheck.yaml
+  Xbox:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Xbox.yaml
+    interval: 86400
+    path: ./ruleset/Xbox.yaml
+  YouTubeMusic:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTubeMusic.yaml
+    interval: 86400
+    path: ./ruleset/YouTubeMusic.yaml
+  YouTube:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/YouTube.yaml
+    interval: 86400
+    path: ./ruleset/YouTube.yaml
+  Ponzi:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/Ponzi.yaml
+    interval: 86400
+    path: ./ruleset/Ponzi.yaml
+  warninglist:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/warning-list.yaml
+    interval: 86400
+    path: ./ruleset/warninglist.yaml
+  google:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google.yaml
+    interval: 86400
+    path: ./ruleset/google.yaml
+  google-play:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/google-play.yaml
+    interval: 86400
+    path: ./ruleset/google-play.yaml
+  xiaomi-ads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/xiaomi-ads.yaml
+    interval: 86400
+    path: ./ruleset/xiaomi-ads.yaml
+  xiaomi_block_list:
+    type: http
+    format: yaml
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_block_list.yaml
+    path: ./ruleset/xiaomi_block_list.yaml
+    interval: 86400
+  xiaomi_white_list:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/xiaomi_white_list.yaml
+    path: ./ruleset/xiaomi_white_list.yaml
+    interval: 86400
+  cloudflare:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/cloudflare.yaml
+    interval: 86400
+    path: ./ruleset/cloudflare.yaml
+  github:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/github.yaml
+    interval: 86400
+    path: ./ruleset/xgithub.yaml
+  whatsapp:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/generated/whatsapp.yaml
+    interval: 86400
+    path: ./ruleset/whatsapp.yaml
+  LiteAds:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/LiteAds.yaml
+    path: ./ruleset/LiteAds.yaml
+    interval: 86400
+  discord:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/discord.yaml
+    path: ./ruleset/discord.yaml
+    interval: 86400
+  instagram:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/instagram.yaml
+    interval: 86400
+    path: ./ruleset/instagram.yaml
+  category-ai:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/category-ai-!cn.yaml
+    interval: 86400
+    path: ./ruleset/category-ai.yaml
+  stremio:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/stremio.yaml
+    path: ./ruleset/stremio.yaml
+    interval: 86400
+  windows:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/clash_rules/refs/heads/main/windows.yaml
+    path: ./ruleset/windows.yaml
+    interval: 86400
+  Chotwitter:
+    type: http
+    format: yaml
+    behavior: ipcidr
+    url: https://raw.githubusercontent.com/Chocolate4U/Iran-clash-rules/release/twitter.yaml
+    path: ./ruleset/Chotwitter.yaml
+    interval: 86400
+  mihTwitter:
+    type: http
+    behavior: classical
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Twitter.yaml
+    path: ./ruleset/mihTwitter.yaml
+    interval: 86400
+  Domtwitter:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/twitter.yaml
+    interval: 86400
+    path: ./ruleset/Domtwitter.yaml
+  spotifyads:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify-ads.yaml
+    interval: 86400
+    path: ./ruleset/spotifyads.yaml
+  DomainSpotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/V2rayDomains2Clash/refs/heads/generated/spotify.yaml
+    interval: 86400
+    path: ./ruleset/DomainSpotify.yaml
+  mihspotify:
+    type: http
+    behavior: domain
+    url: https://raw.githubusercontent.com/10ium/mihomo_rule/refs/heads/main/list/Spotify.yaml
+    interval: 86400
+    path: ./ruleset/mihSpotify.yaml
+proxies:
+  - {name: "***🐦‍🔥***-@proxy_kafee", server: chat.openai.com, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
+  - {name: "@proxy_kafee", server: chatgpt.com, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
+  - {name: "@`", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 2", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@proxy_kafee 2", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@` 2", server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 02b6c490-a5d9-4ab6-96ba-34cae84c433c, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@proxy_kafee 3", server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 02b6c490-a5d9-4ab6-96ba-34cae84c433c, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 3", server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 02b6c490-a5d9-4ab6-96ba-34cae84c433c, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 4", server: 85.133.240.154, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 02b6c490-a5d9-4ab6-96ba-34cae84c433c, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 5", server: 85.133.240.160, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 02b6c490-a5d9-4ab6-96ba-34cae84c433c, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 6", server: meli2.ertebatgoostar.ir, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 06c7a413-6c2d-e356-d0df-d4ac594a24f1, servername: 54.38.242.158, host: 54.38.242.158, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 7", server: 185.226.117.160, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0fff5f1b-370d-4e98-829d-7dca653fbca8, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 8", server: 45.146.82.107, port: 35292, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: /danfeng, headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀", server: DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: speedtest.net., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀 2", server: IR-FanAva-AlphaOmega.AlphaOmegaVIP.IR, port: 100, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: www.soft98.ir., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀 3", server: IR-FanAva2-AlphaOmega.AlphaOmegaVIP.IR, port: 200, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: www.soft98.ir., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀 4", server: IR-FanAva3-AlphaOmega.AlphaOmegaVIP.IR, port: 300, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀 5", server: IR-FanAva4-AlphaOmega.AlphaOmegaVIP.IR, port: 400, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: www.telewebion.ir., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀 6", server: IR-FanAva5-AlphaOmega.AlphaOmegaVIP.IR, port: 500, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: www.telewebion.ir., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee | چنلمون جوین شو 🚀`", server: USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: google.com., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@proxy_kafee`", server: 109.95.67.200, port: 25443, type: vless, tls: true, packet-encoding: xudp, uuid: 424b84b4-cd57-42eb-b1e0-5b618ffcb822, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 9", server: 109.95.67.200, port: 25443, type: vless, tls: true, packet-encoding: xudp, uuid: 424b84b4-cd57-42eb-b1e0-5b618ffcb822, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 10", server: g2-tun-nl.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 4a250ab6-d97f-4a6c-93d2-d9b2d6807b6d, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 11", server: g2-tun-nl.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 4a250ab6-d97f-4a6c-93d2-d9b2d6807b6d, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 12", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 4d9801b9-4df7-4862-b12e-4f4b4fa72a5c, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 13", server: vipde2.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: 4f5def46-1a54-11f1-9053-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee`", server: vipde2.persianpinggame.com, port: 9091, type: vless, tls: true, packet-encoding: xudp, uuid: 4f5def46-1a54-11f1-9053-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 14", server: vipde7.persianpinggame.com, port: 9094, type: vless, tls: true, packet-encoding: xudp, uuid: 4f5e47ba-1a54-11f1-9053-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 15", server: fn11.finuxmaster.shop, port: 2095, type: vless, tls: true, packet-encoding: xudp, uuid: 73204fa1-c75a-4aa8-bc0a-6b62f08bace6, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 16", server: tr2.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: 77ea8d6c-1a96-11f1-be1f-1744d2a6f511, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: tr2.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 17", server: tr2.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: 77ea8d6c-1a96-11f1-be1f-1744d2a6f511, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: tr2.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Telegram:@proxy_kafee, server: 31.57.155.85, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.gfw.nn.kg, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.nn.kg}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 18", server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@proxy_kafee 4", server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee` 2", server: mail.tomandjery.eu, port: 1001, type: vless, tls: true, packet-encoding: xudp, uuid: 9f4fa241-2576-40f3-ac95-8fb8400cf3ca, servername: play.google.com, host: play.google.com, path: /, reality-opts: {public-key: xrZlXeuTYmAC97-RbRi-aM7U67TOBMGCHVu3DovZihw, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 19", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee` 3", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***🐦‍🔥***-@proxy_kafee 5", server: connected5.starpo5.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: b083b539-a43a-44d1-a7dd-f90f94b9cfc6, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 20", server: 94.184.5.39, port: 58203, type: vless, tls: true, packet-encoding: xudp, uuid: c060fd63-81e4-1718-803b-e3d52b3edd99, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 21", server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee🥱🗣️🖕`", server: ja3.diiginet.ir, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: c8c75018-26ab-4501-be3e-f7bb33ed8c57, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 22", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ccac781d-1f3e-4e5b-99c2-d07d653b81e8, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 23", server: L-iq-emergency2-7788yo.j0je.ir, port: 5480, type: vless, tls: true, packet-encoding: xudp, uuid: d40e96b2-0203-4e62-bffb-cc8f338917dd, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 24", server: s2.fastsnap.info, port: 21113, type: vless, tls: true, packet-encoding: xudp, uuid: d9d163e3-793c-4fd4-8026-690d422bf8ea, host: s2.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 25", server: gb2.vnet500.xyz, port: 31015, type: vless, tls: true, packet-encoding: xudp, uuid: da3b8ef7-835b-4321-a23a-8fa487276394, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 26", server: vipde5.persianpinggame.com, port: 9093, type: vless, tls: true, packet-encoding: xudp, uuid: e2fed65e-1ae0-11f1-8359-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 27", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 28", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee 29", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_kafee` 4", server: 103.81.86.158, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f81b7cb0-70c6-3d1a-9b30-c95b1227f6ed, servername: u710297u3374s249.okgfw.top, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: ssp}, skip-cert-verify: false, udp: true, tfo: false}
+proxy-groups:
+  - name: نوع انتخاب پروکسی 🔀
+    type: select
+    proxies:
+      - اتصال پایدار 🔗
+      - خودکار (بهترین پینگ) 🤖
+      - دستی 🤏🏻
+      - پشتیبان (در صورت قطعی) 🧯
+      - توزیع بار (پایدار) 🧲
+      - توزیع بار (موقت) ⏳
+      - توزیع بار (گردشی) 🔁
+      - قطع اینترنت ⛔
+      - بدون فیلترشکن 🛡️
+  - name: دستی 🤏🏻
+    type: select
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: خودکار (بهترین پینگ) 🤖
+    type: url-test
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    tolerance: 50
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: پشتیبان (در صورت قطعی) 🧯
+    type: fallback
+    url: https://www.gstatic.com/generate_204
+    interval: 600
+    tolerance: 50
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: اتصال پایدار 🔗
+    type: url-test
+    url: https://cp.cloudflare.com/generate_204
+    interval: 30
+    tolerance: 50
+    proxies:
+      - خودکار (بهترین پینگ) 🤖
+      - پشتیبان (در صورت قطعی) 🧯
+      - دستی 🤏🏻
+  - name: توزیع بار (پایدار) 🧲
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: توزیع بار (گردشی) 🔁
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: توزیع بار (موقت) ⏳
+    type: load-balance
+    strategy: consistent-hashing
+    url: https://api.v2fly.org/checkConnection.svgz
+    interval: 600
+    proxies:
+      - "***🐦‍🔥***-@proxy_kafee"
+      - "@proxy_kafee"
+      - "@`"
+      - "@proxy_kafee 2"
+      - "***🐦‍🔥***-@proxy_kafee 2"
+      - "@` 2"
+      - "***🐦‍🔥***-@proxy_kafee 3"
+      - "@proxy_kafee 3"
+      - "@proxy_kafee 4"
+      - "@proxy_kafee 5"
+      - "@proxy_kafee 6"
+      - "@proxy_kafee 7"
+      - "@proxy_kafee 8"
+      - "@proxy_kafee | چنلمون جوین شو 🚀"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 2"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 3"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 4"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 5"
+      - "@proxy_kafee | چنلمون جوین شو 🚀 6"
+      - "@proxy_kafee | چنلمون جوین شو 🚀`"
+      - "***🐦‍🔥***-@proxy_kafee`"
+      - "@proxy_kafee 9"
+      - "@proxy_kafee 10"
+      - "@proxy_kafee 11"
+      - "@proxy_kafee 12"
+      - "@proxy_kafee 13"
+      - "@proxy_kafee`"
+      - "@proxy_kafee 14"
+      - "@proxy_kafee 15"
+      - "@proxy_kafee 16"
+      - "@proxy_kafee 17"
+      - Telegram:@proxy_kafee
+      - "@proxy_kafee 18"
+      - "***🐦‍🔥***-@proxy_kafee 4"
+      - "@proxy_kafee` 2"
+      - "@proxy_kafee 19"
+      - "@proxy_kafee` 3"
+      - "***🐦‍🔥***-@proxy_kafee 5"
+      - "@proxy_kafee 20"
+      - "@proxy_kafee 21"
+      - "@proxy_kafee🥱🗣️🖕`"
+      - "@proxy_kafee 22"
+      - "@proxy_kafee 23"
+      - "@proxy_kafee 24"
+      - "@proxy_kafee 25"
+      - "@proxy_kafee 26"
+      - "@proxy_kafee 27"
+      - "@proxy_kafee 28"
+      - "@proxy_kafee 29"
+      - "@proxy_kafee` 4"
+  - name: دانلود منیجر 📥
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: تلگرام 💬
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: یوتیوب ▶️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: گوگل 🌍
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: واتس آپ 🟢
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: هوش مصنوعی 🤖
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییتر 🐦
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اسپاتیفای 🎵
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: اینستاگرام 📸
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: تبلیغات 🆎
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: تبلیغات اپ ها 🍃
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: رهگیری جهانی 🛑
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: سایتای مخرب ⚠️
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+  - name: استیم 🖥️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیم 🎮
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: توییچ 📡
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: سایتای ایرانی 🇮🇷
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: ویندوز 🧊
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: کلودفلر ☁️
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: گیتهاب 🐙
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+  - name: دیسکورد 🗣️
+    type: select
+    proxies:
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+      - اجازه ندادن 🚫
+  - name: انی‌دسک 🔴
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: استریمیو 🎬
+    type: select
+    proxies:
+      - بدون فیلترشکن 🛡️
+      - نوع انتخاب پروکسی 🔀
+      - اجازه ندادن 🚫
+  - name: سایتای سانسوری 🤬
+    type: select
+    proxies:
+      - اجازه ندادن 🚫
+      - نوع انتخاب پروکسی 🔀
+      - بدون فیلترشکن 🛡️
+  - name: بدون فیلترشکن 🛡️
+    type: select
+    proxies:
+      - DIRECT
+  - name: قطع اینترنت ⛔
+    type: select
+    proxies:
+      - REJECT
+  - name: اجازه ندادن 🚫
+    type: select
+    proxies:
+      - REJECT
+ntp:
+  enable: true
+  server: time.apple.com
+  port: 123
+  interval: 30
+rules:
+  - RULE-SET,DownloadManagers,دانلود منیجر 📥
+  - RULE-SET,Download,دانلود منیجر 📥
+  - RULE-SET,stremio,استریمیو 🎬
+  - RULE-SET,BanProgramAD,تبلیغات اپ ها 🍃
+  - RULE-SET,BanAD,رهگیری جهانی 🛑
+  - RULE-SET,PrivateTracker,رهگیری جهانی 🛑
+  - RULE-SET,category_public_tracker,رهگیری جهانی 🛑
+  - RULE-SET,malware,سایتای مخرب ⚠️
+  - RULE-SET,phishing,سایتای مخرب ⚠️
+  - RULE-SET,cryptominers,سایتای مخرب ⚠️
+  - RULE-SET,warninglist,سایتای مخرب ⚠️
+  - RULE-SET,Ponzi,سایتای مخرب ⚠️
+  - RULE-SET,LiteAds,تبلیغات 🆎
+  - RULE-SET,iran_ads,تبلیغات 🆎
+  - RULE-SET,PersianBlocker,تبلیغات 🆎
+  - RULE-SET,ads,تبلیغات 🆎
+  - RULE-SET,BanEasyList,تبلیغات 🆎
+  - RULE-SET,twitch,توییچ 📡
+  - PROCESS-NAME,Telegram.exe,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger,تلگرام 💬
+  - PROCESS-NAME,org.telegram.messenger.web,تلگرام 💬
+  - RULE-SET,telegram,تلگرام 💬
+  - RULE-SET,YouTube,یوتیوب ▶️
+  - RULE-SET,youtube,یوتیوب ▶️
+  - RULE-SET,YouTubeMusic,یوتیوب ▶️
+  - PROCESS-NAME,com.anydesk.anydeskandroid,انی‌دسک 🔴
+  - PROCESS-NAME,AnyDesk.exe,انی‌دسک 🔴
+  - DOMAIN-SUFFIX,anydesk.com,انی‌دسک 🔴
+  - PROCESS-NAME,Twitter.exe,توییتر 🐦
+  - PROCESS-NAME,com.twitter.android,توییتر 🐦
+  - RULE-SET,Chotwitter,توییتر 🐦
+  - RULE-SET,mihTwitter,توییتر 🐦
+  - RULE-SET,Domtwitter,توییتر 🐦
+  - PROCESS-NAME,com.spotify.music,اسپاتیفای 🎵
+  - PROCESS-NAME,Spotify.exe,اسپاتیفای 🎵
+  - RULE-SET,DomainSpotify,اسپاتیفای 🎵
+  - RULE-SET,mihspotify,اسپاتیفای 🎵
+  - PROCESS-NAME,com.instagram.android,اینستاگرام 📸
+  - RULE-SET,instagram,اینستاگرام 📸
+  - DOMAIN-SUFFIX,deepseek.com,هوش مصنوعی 🤖
+  - DOMAIN-SUFFIX,qwen.ai,هوش مصنوعی 🤖
+  - RULE-SET,category-ai,هوش مصنوعی 🤖
+  - RULE-SET,censor,سایتای سانسوری 🤬
+  - RULE-SET,apps,سایتای ایرانی 🇮🇷
+  - RULE-SET,iran,سایتای ایرانی 🇮🇷
+  - RULE-SET,arvancloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,derakcloud,سایتای ایرانی 🇮🇷
+  - RULE-SET,iranserver,سایتای ایرانی 🇮🇷
+  - RULE-SET,parspack,سایتای ایرانی 🇮🇷
+  - RULE-SET,irasn,سایتای ایرانی 🇮🇷
+  - RULE-SET,ircidr,سایتای ایرانی 🇮🇷
+  - RULE-SET,ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,category_ir,سایتای ایرانی 🇮🇷
+  - RULE-SET,whatsapp,واتس آپ 🟢
+  - RULE-SET,steam,استیم 🖥️
+  - RULE-SET,SteamRegionCheck,استیم 🖥️
+  - RULE-SET,game,گیم 🎮
+  - RULE-SET,GameDownload,گیم 🎮
+  - RULE-SET,category-games,گیم 🎮
+  - RULE-SET,Xbox,گیم 🎮
+  - RULE-SET,discord,دیسکورد 🗣️
+  - RULE-SET,xiaomi_white_list,نوع انتخاب پروکسی 🔀
+  - RULE-SET,xiaomi-ads,تبلیغات اپ ها 🍃
+  - RULE-SET,xiaomi_block_list,تبلیغات اپ ها 🍃
+  - RULE-SET,windows,ویندوز 🧊
+  - RULE-SET,cloudflare,کلودفلر ☁️
+  - RULE-SET,github,گیتهاب 🐙
+  - PROCESS-NAME,com.android.vending,نوع انتخاب پروکسی 🔀
+  - PROCESS-NAME,com.google.android.gms,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google-play,نوع انتخاب پروکسی 🔀
+  - RULE-SET,google,گوگل 🌍
+  - IP-CIDR,10.10.34.0/24,نوع انتخاب پروکسی 🔀
+  - RULE-SET,local_ips,بدون فیلترشکن 🛡️
+  - RULE-SET,private,بدون فیلترشکن 🛡️
+  - MATCH,نوع انتخاب پروکسی 🔀

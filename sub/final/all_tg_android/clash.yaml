@@ -480,6 +480,7 @@ proxies:
   - {name: 85.133.237.27:1080, server: 85.133.237.27, port: 1080, type: socks5, username: ashkan, password: a, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585 2, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.156.106:8585 3, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: 3963@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.122.212:1088, server: 93.115.122.212, port: 1088, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.181.95:55630, server: 94.101.181.95, port: 55630, type: socks5, username: wXYTxkcQIy, password: AojUo8ToDE, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "94.10…:", server: 94.10…, port: 0, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -515,6 +516,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
@@ -540,6 +542,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
@@ -565,6 +568,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
@@ -599,6 +603,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
@@ -624,6 +629,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
@@ -649,6 +655,7 @@ proxy-groups:
       - 85.133.237.27:1080
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
+      - 87.248.156.106:8585 3
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - "94.10…:"
