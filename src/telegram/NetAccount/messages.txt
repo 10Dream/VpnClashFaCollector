@@ -1,5 +1,78 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-03-10 05:05:50 UTC
+بروزرسانی: 2026-03-10 08:02:12 UTC
+
+### 🕒 2026-03-10 07:19:16 UTC
+[https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0](https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0)
+[https://t.me/proxy?server=142.54.189.108&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267](https://t.me/proxy?server=142.54.189.108&port=443&secret=ee09db815a6d82a31fda76f872230c69d7706b676275696c642e6f7267)
+[https://t.me/proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782](https://t.me/proxy?server=95.85.231.6&port=8443&secret=46b107169c2e3968abc49eba40928782)
+
+---
+
+### 🕒 2026-03-10 06:53:31 UTC
+تعدادی DNS متصل برای AM Tunnel در بخش SuperDNS بزنید:
+`udp://217.219.131.130`
+`udp://87.107.110.85`
+`udp://46.38.143.236`
+`udp://37.148.57.40`
+`udp://185.49.84.2`
+`udp://91.92.208.43`
+اگه توی برنامه های دیگه میخواین دی ان اس هارو بزنید اون udp:// که قبلش هست رو پاک کنید و فقط آیپیشو وارد کنید
+
+---
+
+### 🕒 2026-03-10 06:50:04 UTC
+کپی کنید توی npv بزنید:
+{"remarks":"NetAccount","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"
+[217.218.26.73](http://217.218.26.73/)
+","port":10000,"users":[{"id":"3de2f80c-67f3-464e-ac80-0a8d4b5fb74b","security":"auto","level":8}]}]},"streamSettings":{"network":"tcp","security":"none","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["
+[1.1.1.1](http://1.1.1.1/)
+"],"hosts":{"domain:
+[googleapis.cn](http://googleapis.cn/)
+":"
+[googleapis.com](http://googleapis.com/)
+","
+[dns.alidns.com](http://dns.alidns.com/)
+":["
+[223.5.5.5](http://223.5.5.5/)
+","
+[223.6.6.6](http://223.6.6.6/)
+","2400:3200::1","2400:3200:baba::1"],"
+[one.one.one.one](http://one.one.one.one/)
+":["
+[1.1.1.1](http://1.1.1.1/)
+","
+[1.0.0.1](http://1.0.0.1/)
+","2606:4700:4700::1111","2606:4700:4700::1001"],"
+[dot.pub](http://dot.pub/)
+":["
+[1.12.12.12](http://1.12.12.12/)
+","
+[120.53.53.53](http://120.53.53.53/)
+"],"
+[dns.google](http://dns.google/)
+":["
+[8.8.8.8](http://8.8.8.8/)
+","
+[8.8.4.4](http://8.8.4.4/)
+","2001:4860:4860::8888","2001:4860:4860::8844"],"
+[dns.quad9.net](http://dns.quad9.net/)
+":["
+[9.9.9.9](http://9.9.9.9/)
+","
+[149.112.112.112](http://149.112.112.112/)
+","2620:fe::fe","2620:fe::9"],"
+[common.dot.dns.yandex.net](http://common.dot.dns.yandex.net/)
+":["
+[77.88.8.8](http://77.88.8.8/)
+","
+[77.88.8.1](http://77.88.8.1/)
+","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["
+[1.1.1.1](http://1.1.1.1/)
+"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["
+[223.5.5.5](http://223.5.5.5/)
+"],"outboundTag":"direct","port":"53"}]}}
+
+---
 
 ### 🕒 2026-03-10 05:05:01 UTC
 کانفیگ Npv Tunnel
@@ -1461,38 +1534,6 @@ DNSTT-Client-v2.2.0-Android-arm64-v8a.apk
 [https://t.me/proxy?server=94.183.123.128&port=8070&secret=fe6e86f60dd18dfe85c7bb1106c53005](https://t.me/proxy?server=94.183.123.128&port=8070&secret=fe6e86f60dd18dfe85c7bb1106c53005)
 [tg://proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9](tg://proxy?server=92.118.234.215&port=443&secret=dddb9b51b5ce9a2820ff62d348cb23f1b9)
 [tg://proxy?server=77.239.112.86&port=30534&secret=ddbee03206cb1a464769f666fc1820b03f](tg://proxy?server=77.239.112.86&port=30534&secret=ddbee03206cb1a464769f666fc1820b03f)
-
----
-
-### 🕒 2026-03-07 06:36:20 UTC
-کانفیگ Npv Tunnel
-[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
- | 
-[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-
----
-
-### 🕒 2026-03-07 06:33:17 UTC
-کانفیگ Npv Tunnel
-[لینک گوگل پلی](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv&amp;hl=en)
- | 
-[لینک اپ استور](https://apps.apple.com/us/app/npv-tunnel/id1629465476)
-
----
-
-### 🕒 2026-03-07 06:32:49 UTC
-`vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.184.163.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#NetAccount`
-
----
-
-### 🕒 2026-03-07 06:24:44 UTC
-صدای انفجار در تهران
-
----
-
-### 🕒 2026-03-07 05:16:41 UTC
-**لینک جدید لایو تصویری ایران اینترنشنال بدون فیلتر:**
-[http://zelmorad.ir/stream.html?src=intl](http://zelmorad.ir/stream.html?src=intl)
 
 ---
 

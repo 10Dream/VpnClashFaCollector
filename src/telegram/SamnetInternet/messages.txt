@@ -1,5 +1,29 @@
 # آرشیو کانال: @SamnetInternet
-بروزرسانی: 2026-03-10 05:06:54 UTC
+بروزرسانی: 2026-03-10 08:03:18 UTC
+
+### 🕒 2026-03-10 05:14:41 UTC
+***🗂️***
+ پروژه findns
+***🔥***
+ نسخه v0.1.8
+• رابط کاربری ترمینال (TUI) 
+• ۷ منبع ورودی: ریزالورهای شناخته‌شده (۷,۸۵۴)، CIDR سبک/متوسط/کامل، ترکیبی، فایل دلخواه
+• تنظیمات داینامیک با تانل E2E، نمایش وضعیت باینری‌ها، راهنمای هر فیلد
+• اضافه شدن progess بار زنده و جدول نتایج رتبه‌بندی شده با اسکرول
+• پشتیبانی از فلگ‌های CLI در TUI: مثلاً findns tui --domain 
+[t.example.com](http://t.example.com/)
+ --workers 100
+• گزینه "CLI Flags" در صفحه اول TUI برای تایپ مستقیم فلگ‌ها
+• دابل‌کلیک روی findns.exe در ویندوز → باز شدن مستقیم TUI
+• بروزرسانی 
+[README.md](http://README.md/)
+ و 
+[GUIDE.md](http://GUIDE.md/)
+ با مستندات TUI
+[https://github.com/SamNet-dev/findns](https://github.com/SamNet-dev/findns)
+فایل ها در کامنت اول اضافه شدند.
+
+---
 
 ### 🕒 2026-03-09 18:52:55 UTC
 [https://www.youtube.com/watch?v=jvsehdUjp4Y](https://www.youtube.com/watch?v=jvsehdUjp4Y)

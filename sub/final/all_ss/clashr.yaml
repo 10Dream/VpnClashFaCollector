@@ -12,9 +12,9 @@ proxies:
   - {name: "***✅***@AR14N24b 2", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:1PW/esiiz+HbMKQLOFnjJVQ9McudIZUc6+OC+MJLFKw=, udp: true, tfo: false}
   - {name: "@filembad`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=, udp: true, tfo: false}
   - {name: NetAccount`, server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: Z7jpHPhXQuY/CJ7ngpk/FxF+GqBWd4KB2FLXWbqYpXI=:slfQ3sVjkqUrgFPNNfJFmizBCfNXhbYR+zJ8LBe3n7Q=, udp: true, tfo: false}
+  - {name: 43.128.111.119:38012, server: 43.128.111.119, port: 38012, type: ss, cipher: 2022-blake3-aes-256-gcm, password: slG+0TTh3ooR89EGCea91CuAmPK4RVUdc7ah9ENN3jY=, udp: true, tfo: false}
   - {name: 141.95.106.127:11201, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
-  - {name: Ae_proxy 205`, server: 141.95.106.127, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 94aae0510188e8c5, udp: true, tfo: false}
   - {name: 38.54.59.38:11204, server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5664", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
@@ -43,6 +43,7 @@ proxies:
   - {name: "@filembad` 5", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام ما`", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 7", server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: proxymelimon, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "| @configraygan『🇩🇪⁵³』", server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
@@ -53,7 +54,6 @@ proxies:
   - {name: ss.055.node-for-bigairport.win:29000, server: ss.055.node-for-bigairport.win, port: 29000, type: ss, cipher: chacha20-ietf-poly1305, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53, udp: true, tfo: false}
   - {name: 82.38.31.189:8080, server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: 82.38.31.189, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: 82.38.31.194, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: k1dBOmOB4oqi7Ump37a1bQ, udp: true, tfo: false}
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 10", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
@@ -63,16 +63,15 @@ proxies:
   - {name: 82.38.31.62:8080, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "  2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 11", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: Ae_proxy 156`, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "| @configraygan『🇩🇪²⁸』", server: 141.98.101.182, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 158.173.20.171:443, server: 158.173.20.171, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 144.217.7.33:12000, server: 144.217.7.33, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
   - {name: 57.128.214.100:12000, server: 57.128.214.100, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
+  - {name: "@filembad` 6", server: 195.230.107.5, port: 10594, type: ss, cipher: aes-256-gcm, password: Ou2fFxsefGhweN2PBdX, udp: true, tfo: false}
   - {name: 8.210.182.238:8888, server: 8.210.182.238, port: 8888, type: ss, cipher: aes-256-gcm, password: a338A9, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: 8.210.182.238, port: 8888, type: ss, cipher: aes-256-gcm, password: a338A9, udp: true, tfo: false}
   - {name: 85.208.108.20:6379, server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
+  - {name: "@filembad` 7", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 12", server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
   - {name: US_@configraygan, server: 104.248.68.179, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: US_@configraygan 2, server: 104.248.68.179, port: 8443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
@@ -156,9 +155,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -187,6 +186,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -197,7 +197,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -207,16 +206,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -300,9 +298,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -331,6 +329,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -341,7 +340,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -351,16 +349,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -444,9 +441,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -475,6 +472,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -485,7 +483,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -495,16 +492,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -587,9 +583,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -618,6 +614,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -628,7 +625,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -638,16 +634,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -730,9 +725,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -761,6 +756,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -771,7 +767,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -781,16 +776,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -873,9 +867,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -904,6 +898,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -914,7 +909,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -924,16 +918,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
@@ -1038,9 +1031,9 @@ proxy-groups:
       - "***✅***@AR14N24b 2"
       - "@filembad`"
       - NetAccount`
+      - 43.128.111.119:38012
       - 141.95.106.127:11201
       - "***✅***@AR14N24b 3"
-      - Ae_proxy 205`
       - 38.54.59.38:11204
       - "@v2rayconfigamir 5664"
       - admin.c1.havij.co:443
@@ -1069,6 +1062,7 @@ proxy-groups:
       - "@filembad` 5"
       - "@saministamm | تلگرام ما`"
       - "***✅***@AR14N24b 7"
+      - proxymelimon
       - series-a1.samanehha.co:443
       - "| @configraygan『🇩🇪⁵³』"
       - 102.133.165.160:16233
@@ -1079,7 +1073,6 @@ proxy-groups:
       - ss.055.node-for-bigairport.win:29000
       - 82.38.31.189:8080
       - "***✅***@AR14N24b 9"
-      - "@filembad` 6"
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 10"
@@ -1089,16 +1082,15 @@ proxy-groups:
       - 82.38.31.62:8080
       - "  2"
       - "***✅***@AR14N24b 11"
-      - Ae_proxy 156`
       - "| @configraygan『🇩🇪²⁸』"
       - 158.173.20.171:443
       - 144.217.164.29:12000
       - 144.217.7.33:12000
       - 57.128.214.100:12000
+      - "@filembad` 6"
       - 8.210.182.238:8888
-      - "@filembad` 7"
       - 85.208.108.20:6379
-      - "@filembad` 8"
+      - "@filembad` 7"
       - "***✅***@AR14N24b 12"
       - US_@configraygan
       - US_@configraygan 2
