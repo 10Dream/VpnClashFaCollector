@@ -466,6 +466,7 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111, server: 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir, port: 31111, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.162.131.10:1080, server: 109.162.131.10, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -509,6 +510,7 @@ proxy-groups:
     type: select
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
@@ -542,6 +544,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
@@ -575,6 +578,7 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
@@ -617,6 +621,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
@@ -650,6 +655,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
@@ -683,6 +689,7 @@ proxy-groups:
     interval: 600
     proxies:
       - 0.0.0.0:1080
+      - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.162.131.10:1080
       - 127.0.0.1:1080
       - 171.22.27.147:1080
