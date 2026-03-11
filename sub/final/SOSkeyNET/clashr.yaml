@@ -41,6 +41,7 @@ proxies:
   - {name: 15.224.33.171:22223, server: 15.224.33.171, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.232.208:22223, server: 18.199.232.208, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.171.45:22223, server: 3.127.171.45, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.235.19:22223, server: 3.69.235.19, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.79.165.50:22223, server: 3.79.165.50, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.15.224:22223, server: 35.181.15.224, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.200.241:22223, server: 51.44.200.241, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -56,6 +57,7 @@ proxies:
   - {name: 15.224.33.171:22222, server: 15.224.33.171, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.232.208:22222, server: 18.199.232.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.171.45:22222, server: 3.127.171.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.235.19:22222, server: 3.69.235.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.79.165.50:22222, server: 3.79.165.50, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.15.224:22222, server: 35.181.15.224, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.200.241:22222, server: 51.44.200.241, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -85,6 +87,7 @@ proxies:
   - {name: 15.224.33.171:22224, server: 15.224.33.171, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.199.232.208:22224, server: 18.199.232.208, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.171.45:22224, server: 3.127.171.45, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.69.235.19:22224, server: 3.69.235.19, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.79.165.50:22224, server: 3.79.165.50, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.79.165.50:22224 2, server: 3.79.165.50, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.15.224:22224, server: 35.181.15.224, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -238,6 +241,7 @@ proxies:
   - {name: 2.188.241.144:29332, server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: 6ee2c6e0-e4cf-4ff3-be5b-2d26c56779c4, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.133.214.37:443, server: 85.133.214.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 70ecfd5e-b439-410e-f1f5-68245522e0b8, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.90.246:443, server: 144.31.90.246, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: my-rebar.shop:443, server: my-rebar.shop, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 711f56b0-0d4c-4516-bea6-0e963749928c, servername: my-rebar.shop, host: my-rebar.shop, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dlc-new8.persianpinggame.com:5108, server: dlc-new8.persianpinggame.com, port: 5108, type: vless, tls: true, packet-encoding: xudp, uuid: 714040cd-1bf6-11f1-9350-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dlc-new1.persianpinggame.com:5101, server: dlc-new1.persianpinggame.com, port: 5101, type: vless, tls: true, packet-encoding: xudp, uuid: 7140445d-1bf6-11f1-9350-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.188.241.144:29332 2, server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: 71ba6556-2f58-4bbf-92f7-935a45c2e941, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -385,11 +389,13 @@ proxies:
   - {name: v2.royalway.shop:2053, server: v2.royalway.shop, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c3a8f526-6f41-4884-adb8-f33b4ec30fa6, host: v2.royalway.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v2.royalway.shop:2053 2, server: v2.royalway.shop, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: c3a8f526-6f41-4884-adb8-f33b4ec30fa6, host: v2.royalway.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ir.mvahid.sbs:35812, server: ir.mvahid.sbs, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: c4ba282f-7a69-4255-ef80-671c66f5833d, host: ir.mvahid.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: thesis.mhub-mc.ir:3010, server: thesis.mhub-mc.ir, port: 3010, type: vless, tls: true, packet-encoding: xudp, uuid: c4e2512d-060c-59a7-ad20-be4284298eeb, servername: refersion.com, host: refersion.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8DGDiqDs99PvQGTjFh4Xu_4DmuKbk5bDJsUb73gEzW0, short-id: e32df1fa9070e48e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 fby.subv.ru:443, server: fby.subv.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c67f81df-34e8-4cb3-ab43-599585775fa9, servername: fby.subv.ru, host: fby.subv.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 28de1c8633d681dd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dl-film.digitalvortex.ir:3038 2, server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dl-film.digitalvortex.ir:3038 3, server: dl-film.digitalvortex.ir, port: 3038, type: vless, tls: true, packet-encoding: xudp, uuid: c71575ee-4e0c-47f7-884b-2ead7fa2feaa, network: ws, ws-opts: {path: /, headers: {Host: dl-film.digitalvortex.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gr5.vpnjantit.com:10002, server: gr5.vpnjantit.com, port: 10002, type: vless, tls: true, packet-encoding: xudp, uuid: c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: gr5.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: gr5.vpnjantit.com:10004, server: gr5.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: gr5.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gr5.vpnjantit.com:10004 2, server: gr5.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: gr5.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Platform.snapp.ir.green-gaming-company.ir:1011, server: Platform.snapp.ir.green-gaming-company.ir, port: 1011, type: vless, tls: true, packet-encoding: xudp, uuid: c72511d7-1729-403d-92c-7448533a369a, host: s.cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Platform.snapp.ir.green-gaming-company.ir:1011 2, server: Platform.snapp.ir.green-gaming-company.ir, port: 1011, type: vless, tls: true, packet-encoding: xudp, uuid: c72511d7-1729-403d-92c5-7448533a369a, host: s.cafebazaar.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ja3.diiginet.ir:1500, server: ja3.diiginet.ir, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: c8c75018-26ab-4501-be3e-f7bb33ed8c57, host: reata.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -426,6 +432,7 @@ proxies:
   - {name: node.zorli.ir:8443 2, server: node.zorli.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e0883a94-89bb-46f1-9bcc-23c6c5fa9bdf, host: divarcdn.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tt.onepiecefamily.ir:8081, server: tt.onepiecefamily.ir, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: e1776355-d3f0-41d7-9eed-86018f6bd8a6, host: tt.onepiecefamily.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: vipde5.persianpinggame.com:9093, server: vipde5.persianpinggame.com, port: 9093, type: vless, tls: true, packet-encoding: xudp, uuid: e2fed65e-1ae0-11f1-8359-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: dlc-new10.persianpinggame.com:5110, server: dlc-new10.persianpinggame.com, port: 5110, type: vless, tls: true, packet-encoding: xudp, uuid: e2ff29b0-1ae0-11f1-8359-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 4.cdnconn.com:23335, server: 4.cdnconn.com, port: 23335, type: vless, tls: true, packet-encoding: xudp, uuid: e384913f-8863-47b4-8858-a84b68abb4a6, servername: icloud.com, host: icloud.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 7Gi8eiUU9TIVbGuvSU16gl5-Aqt7tcCSB9x6CSxyvik, short-id: 67b1e94e4dd1ef90}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.102.71:444, server: 188.121.102.71, port: 444, type: vless, tls: true, packet-encoding: xudp, uuid: e4272007-395c-4c11-8c86-b8abe3984cd1, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.102.71:555, server: 188.121.102.71, port: 555, type: vless, tls: true, packet-encoding: xudp, uuid: e4272007-395c-4c11-8c86-b8abe3984cd1, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -442,6 +449,7 @@ proxies:
   - {name: 85.133.227.13:35812 2, server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: edb9f37f-b90b-4714-a822-19adcfa53abc, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.202.248.51:3333 2, server: 37.202.248.51, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: ef0c3e81-5b8e-4cf8-b7d5-46932e9c9c42, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: for.shoppizii.ir:801, server: for.shoppizii.ir, port: 801, type: vless, tls: true, packet-encoding: xudp, uuid: efc84711-15f7-4753-a9b5-dacc65aeff7b, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 37.32.8.38:35444, server: 37.32.8.38, port: 35444, type: vless, tls: true, packet-encoding: xudp, uuid: f099bbde-8193-46c9-b42f-392177520f02, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: www.speedtest.net:443 2, server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1eb7fed-bc91-4285-9e7f-23d941a0204a, servername: www.felafel.org, alpn: [h3%2Ch2%2Chttp%2F1.1], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: "%40ConfigTell%2C%40ConfigTell%2C%40ConfigTell"}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.101.10.79:443, server: 151.101.10.79, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: fs.cedriklorenz.ir:443, server: fs.cedriklorenz.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f1f8a865-ca7d-4a20-aa2d-bfd08759b24b, servername: speedtest.net, network: ws, ws-opts: {path: /, headers: {Host: speedtest.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -513,6 +521,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -528,6 +537,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -557,6 +567,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -710,6 +721,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -857,11 +869,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -898,6 +912,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -914,6 +929,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -985,6 +1001,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -1000,6 +1017,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -1029,6 +1047,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -1182,6 +1201,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -1329,11 +1349,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -1370,6 +1392,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -1386,6 +1409,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -1457,6 +1481,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -1472,6 +1497,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -1501,6 +1527,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -1654,6 +1681,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -1801,11 +1829,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -1842,6 +1872,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -1858,6 +1889,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -1928,6 +1960,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -1943,6 +1976,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -1972,6 +2006,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -2125,6 +2160,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -2272,11 +2308,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -2313,6 +2351,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -2329,6 +2368,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -2399,6 +2439,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -2414,6 +2455,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -2443,6 +2485,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -2596,6 +2639,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -2743,11 +2787,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -2784,6 +2830,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -2800,6 +2847,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -2870,6 +2918,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -2885,6 +2934,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -2914,6 +2964,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -3067,6 +3118,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -3214,11 +3266,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -3255,6 +3309,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -3271,6 +3326,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443
@@ -3363,6 +3419,7 @@ proxy-groups:
       - 15.224.33.171:22223
       - 18.199.232.208:22223
       - 3.127.171.45:22223
+      - 3.69.235.19:22223
       - 3.79.165.50:22223
       - 35.181.15.224:22223
       - 51.44.200.241:22223
@@ -3378,6 +3435,7 @@ proxy-groups:
       - 15.224.33.171:22222
       - 18.199.232.208:22222
       - 3.127.171.45:22222
+      - 3.69.235.19:22222
       - 3.79.165.50:22222
       - 35.181.15.224:22222
       - 51.44.200.241:22222
@@ -3407,6 +3465,7 @@ proxy-groups:
       - 15.224.33.171:22224
       - 18.199.232.208:22224
       - 3.127.171.45:22224
+      - 3.69.235.19:22224
       - 3.79.165.50:22224
       - 3.79.165.50:22224 2
       - 35.181.15.224:22224
@@ -3560,6 +3619,7 @@ proxy-groups:
       - 2.188.241.144:29332
       - 85.133.214.37:443
       - 144.31.90.246:443
+      - my-rebar.shop:443
       - dlc-new8.persianpinggame.com:5108
       - dlc-new1.persianpinggame.com:5101
       - 2.188.241.144:29332 2
@@ -3707,11 +3767,13 @@ proxy-groups:
       - v2.royalway.shop:2053
       - v2.royalway.shop:2053 2
       - ir.mvahid.sbs:35812
+      - thesis.mhub-mc.ir:3010
       - 🇷🇺 fby.subv.ru:443
       - dl-film.digitalvortex.ir:3038 2
       - dl-film.digitalvortex.ir:3038 3
       - gr5.vpnjantit.com:10002
       - gr5.vpnjantit.com:10004
+      - gr5.vpnjantit.com:10004 2
       - Platform.snapp.ir.green-gaming-company.ir:1011
       - Platform.snapp.ir.green-gaming-company.ir:1011 2
       - ja3.diiginet.ir:1500
@@ -3748,6 +3810,7 @@ proxy-groups:
       - node.zorli.ir:8443 2
       - tt.onepiecefamily.ir:8081
       - vipde5.persianpinggame.com:9093
+      - dlc-new10.persianpinggame.com:5110
       - 4.cdnconn.com:23335
       - 188.121.102.71:444
       - 188.121.102.71:555
@@ -3764,6 +3827,7 @@ proxy-groups:
       - 85.133.227.13:35812 2
       - 37.202.248.51:3333 2
       - for.shoppizii.ir:801
+      - 37.32.8.38:35444
       - www.speedtest.net:443 2
       - 151.101.10.79:443
       - fs.cedriklorenz.ir:443

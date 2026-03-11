@@ -1,5 +1,316 @@
 # آرشیو کانال: @KIA_NET
-بروزرسانی: 2026-03-11 05:08:49 UTC
+بروزرسانی: 2026-03-11 08:01:19 UTC
+
+### 🕒 2026-03-11 07:41:44 UTC
+{
+  "remarks": "
+***🪸***
+Tel
+***⚡️***
+ @Kia_Net 
+***⚡️***
+",
+  "log": {
+    "loglevel": "warning"
+  },
+  "inbounds": [
+    {
+      "tag": "socks",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "enabled": true,
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "routeOnly": false
+      }
+    }
+  ],
+  "outbounds": [
+    {
+      "tag": "proxy",
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "sdl9.shahramv1.site",
+            "port": 80,
+            "users": [
+              {
+                "id": "93afe2a7-84b5-49a7-89d6-61d42067e32f",
+                "level": 8,
+                "encryption": "none"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "tcpSettings": {
+          "header": {
+            "type": "none"
+          }
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": -1,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      }
+    },
+    {
+      "tag": "direct",
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      }
+    },
+    {
+      "tag": "block",
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "mux": {
+        "enabled": false,
+        "concurrency": 8,
+        "xudpConcurrency": 8,
+        "xudpProxyUDP443": ""
+      }
+    }
+  ],
+  "dns": {
+    "servers": [
+      "1.1.1.1"
+    ],
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com",
+      "dns.alidns.com": [
+        "223.5.5.5",
+        "223.6.6.6",
+        "2400:3200::1",
+        "2400:3200:baba::1"
+      ],
+      "one.one.one.one": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ],
+      "dot.pub": [
+        "1.12.12.12",
+        "120.53.53.53"
+      ],
+      "dns.google": [
+        "8.8.8.8",
+        "8.8.4.4",
+        "2001:4860:4860::8888",
+        "2001:4860:4860::8844"
+      ],
+      "dns.quad9.net": [
+        "9.9.9.9",
+        "149.112.112.112",
+        "2620:fe::fe",
+        "2620:fe::9"
+      ],
+      "common.dot.dns.yandex.net": [
+        "77.88.8.8",
+        "77.88.8.1",
+        "2a02:6b8::feed:0ff",
+        "2a02:6b8:0:1::feed:0ff"
+      ]
+    }
+  },
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "type": "field",
+        "ip": [
+          "1.1.1.1"
+        ],
+        "outboundTag": "proxy",
+        "port": "53"
+      },
+      {
+        "type": "field",
+        "ip": [
+          "223.5.5.5"
+        ],
+        "outboundTag": "direct",
+        "port": "53"
+      }
+    ]
+  }
+}
+
+---
+
+### 🕒 2026-03-11 07:22:01 UTC
+[#پروکسی](?q=%23%D9%BE%D8%B1%D9%88%DA%A9%D8%B3%DB%8C)
+ جدید سرعت عالی 
+***🚀***
+***✅***
+ - تو برخی مناطق وصل میشه.
+[https://t.me/socks?server=87.107.105.184&port=1080&user=&pass=](https://t.me/socks?server=87.107.105.184&port=1080&user=&pass=)
+***❤️***
+تا میتونید منتشر کنید که افراد بیشتری متصل بشن
+***🪸***
+Tel
+***⚡️***
+ 
+[@Kia_Net](https://t.me/Kia_Net)
+ 
+***⚡️***
+
+---
+
+### 🕒 2026-03-11 07:21:40 UTC
+[https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0](https://t.me/proxy?server=212.80.18.74&port=39090&secret=767cf6f14f461cdd166b54eddb53e1b0)
+این فقط واسه مودم جوابه
+ضعیفه ولی برای اینکه کم و بیش خبر ها بالا بیاد بد نیست 
+***🪸***
+Tel
+***⚡️***
+ 
+[@Kia_Net](https://t.me/Kia_Net)
+ 
+***⚡️***
+
+---
+
+### 🕒 2026-03-11 07:07:24 UTC
+پروتکل SuperDNS 
+همراه اول – فرکانس پیشنهادی ۲.۴.۵
+udp://217.218.26.78
+udp://77.88.8.1
+udp://77.88.8.8
+udp://195.46.39.39
+udp://8.26.56.26
+ایرانسل – فرکانس پیشنهادی ۱.۳.۵
+udp://8.8.8.8
+udp://8.8.4.4
+udp://1.1.1.1
+udp://1.0.0.1
+udp://208.67.222.222
+رایتل – فرکانس پیشنهادی ۲.۴.۶
+udp://208.67.220.220
+udp://9.9.9.9
+udp://149.112.112.112
+udp://4.2.2.2 
+udp://216.146.36
+سرور عمومی – فرکانس پیشنهادی ۱.۳.۵
+udp://8.26.56.26
+udp://64.6.64.6
+udp://64.6.65.6
+udp://198.101.242.72 udp://198.101.242
+
+---
+
+### 🕒 2026-03-11 07:07:09 UTC
+{"remarks":"
+***🪸***
+Tel
+***⚡️***
+ @Kia_Net 
+***⚡️***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"ou…
+
+---
+
+### 🕒 2026-03-11 07:06:49 UTC
+{"remarks":"
+***🪸***
+Tel
+***⚡️***
+ @Kia_Net 
+***⚡️***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"news.jonoub.com","port":8443,"users":[{"id":"e9f29952-2e01-4e28-a8dd-c1adeb255b74","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+
+---
+
+### 🕒 2026-03-11 07:04:30 UTC
+DNS آپدیت 
+ 
+[2.188.210.13](http://2.188.210.13/)
+[31.24.234.37](http://31.24.234.37/)
+[45.81.18.141](http://45.81.18.141/)
+[45.81.19.13](http://45.81.19.13/)
+[46.245.90.90](http://46.245.90.90/)
+[81.12.31.48](http://81.12.31.48/)
+[87.107.137.250](http://87.107.137.250/)
+[94.101.130.239](http://94.101.130.239/)
+[94.183.126.46](http://94.183.126.46/)
+[212.86.72.72](http://212.86.72.72/)
+[212.86.76.69](http://212.86.76.69/)
+[217.144.107.162](http://217.144.107.162/)
+[217.170.251.26](http://217.170.251.26/)
+***🪸***
+Tel
+***⚡️***
+ 
+[@Kia_Net](https://t.me/Kia_Net)
+ 
+***⚡️***
+
+---
+
+### 🕒 2026-03-11 07:02:49 UTC
+{"remarks":"
+***🪸***
+Tel
+***⚡️***
+ @Kia_Net 
+***⚡️***
+","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vmess","settings":{"vnext":[{"address":"sdl5.shahramv1.site","port":80,"users":[{"id":"24dda44e-5fac-4378-9596-d5301064c47a","security":"auto","level":8}]}]},"streamSettings":{"network":"tcp","security":"none","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
+
+---
+
+### 🕒 2026-03-11 06:51:57 UTC
+دانلود SlipNet (ورژن ۲.۳) از سرویس داخلی برای سرعت بیشتر . پس از دانلود تغییر نام دهید و آخر ان apk. اضافه کنید
+Slipnet 2.3 full android (add .apk to file)
+[https://uplod.ir/z8gb6vbyr71i/Whehejfi2.3-full-release-universal._.htm](https://uplod.ir/z8gb6vbyr71i/Whehejfi2.3-full-release-universal._.htm)
+لینک مستقیم دانلود
+[https://s6.uplod.ir:182/d/2k2thymd4hvhuf6tpwnz7l3yvotqm7n7o4jrs5dxbjyefeqizvluzri2yazzshwacsgbva4l/Whehejfi2.3-full-release-universal._](https://s6.uplod.ir:182/d/2k2thymd4hvhuf6tpwnz7l3yvotqm7n7o4jrs5dxbjyefeqizvluzri2yazzshwacsgbva4l/Whehejfi2.3-full-release-universal._)
+***🪸***
+Tel
+***⚡️***
+ 
+[@Kia_Net](https://t.me/Kia_Net)
+ 
+***⚡️***
+
+---
+
+### 🕒 2026-03-11 06:51:14 UTC
+slipnet-enc://ATnpOoPH5pSZonBsyPisIHyJRhSbLP2m2C2HHWAdvd+f1TjUS6SzxJF1XBWIeLeHA8xxzrIPdp0TisHKY4rE1rGSL/f5RCdtFOteoBjYVbQ/cAEPgy6pUpX6jxTnxqTTGFhemub6xA1EAbmZvcR3FLfxkowZAU5KgDdGYBOIzDVP0SXyy49IiRseFZXD3cLQPCUtEoWym/RN6jyyBs+8ohIsmdO6IZGH2wLi/cqOUK3UTKwQ4H/Mew9JZ7JX7tm4hyH8EcHnP29CxbGUmWrd4ptHdIVGHlGWl7QEpzSxQ7Ob7P18vWp3JmY0W/vOLPM/f68dhyMZzWDeyouBURKir0eZNjyH+Dhkt2slUS8kJcpkcCmd7HLIlnG32B5/EbPHRGjWdj2bN/KIdsOUXEO//GQHM/T1GaggJU2BahZqazVKY6bSuAtf7uHc0mvFGoExRaDyBk2ViZJUrM2xHQQk5J+G+z2u+vleDn3Td7L3g48QVZAnRXuQCaf3XDwCFpVoBw==
+سلیپ نت
+***🪸***
+Tel
+***⚡️***
+ 
+[@Kia_Net](https://t.me/Kia_Net)
+ 
+***⚡️***
+
+---
 
 ### 🕒 2026-03-10 20:27:07 UTC
 vless://7e2b763e-31ab-4777-9428-a3ad0009208c@102.37.131.55:8080?security=none&encryption=none&host=102.37.131.55&headerType=http&type=tcp#%DA%A9%DB%8C%D8%A7%D9%86%D8%AA
@@ -1570,98 +1881,6 @@ all-range-dns-UDP.txt
 > ↪️ **Forwarded**
 
 all dns ips whitelisted in iran  (some whitelisted by us! and others they use)
-
----
-
-### 🕒 2026-03-08 07:45:47 UTC
-`45.81.18.141:53`
-همرا
-
----
-
-### 🕒 2026-03-08 06:15:24 UTC
-[https://t.me/socks?server=85.133.237.27&port=1080&user=ashkan&pass=a](https://t.me/socks?server=85.133.237.27&port=1080&user=ashkan&pass=a)
-[@KIA_NET](https://t.me/KIA_NET)
-  همرا
-
----
-
-### 🕒 2026-03-08 06:14:53 UTC
-[102.23.231.165](http://102.23.231.165/)
- 
-فرکانس 5
-همراه
-
----
-
-### 🕒 2026-03-08 06:09:10 UTC
-[https://t.me/proxy?server=185.73.126.27&port=8443&secret=cc3dd85be1bd44e3d41db989bd3dc53e](https://t.me/proxy?server=185.73.126.27&port=8443&secret=cc3dd85be1bd44e3d41db989bd3dc53e)
- ایرانسل 
-[@kia_net](https://t.me/kia_net)
-
----
-
-### 🕒 2026-03-08 06:07:23 UTC
-slipnet://MTZ8ZG5zdHRfc3NofFByb19uaWN8Zy50b25uZWwubmV0d29ya3wxMDIuMjIuOTUuMjM6NTM6MHwwfDIwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHxmMjk1MjI1N2I5Mzg3NGQyNGNjMTY2YjJjNTM3YTY2NGZhMmJjYTFlZjkyMDdkNTFiNThjNDU4OWM0N2JkODFhfHx8MXxmcmVlaXJhbnxmcmVlaXJhbnwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8
-ایرانسل  سلیپ نت
-[@KIA_NET](https://t.me/KIA_NET)
-
----
-
-### 🕒 2026-03-08 06:00:14 UTC
-**DNS**
-`185.49.84.2`
-`217.144.107.162`
-`81.12.94.74`
-`77.237.82.123`
-`87.107.137.250`
-`37.148.57.40`
-`102.22.81.201`
-`102.22.81.175`
-`102.23.223.130`
-`102.22.81.183`
-`102.22.83.142`
-`102.22.72.46`
-`102.22.81.201`
-`102.22.83.12`
-`102.22.81.133`
-`102.22.81.175`
-
----
-
-### 🕒 2026-03-08 06:00:14 UTC
-***🚀***
- آموزش اتصال
-***1️⃣***
- کانفیگ را کپی کنید
-***2️⃣***
- وارد برنامه SlipNet  شوید
-***3️⃣***
- روی سه خط بالا بزنید و گزینه import profiles را import کنید.
-***4️⃣***
- روی آیکون Connect  بزنید
-***5️⃣***
-برای عملکرد بهتر کانفیگ برای (تلگرام)از قسمت Setting 
-تیک Proxy only mode رو داخل برنامه SlipNet بزنید و توی تلگرام به پروکسی زیر متصل شید
-[https://t.me/socks?server=127.0.0.1&port=1080](https://t.me/socks?server=127.0.0.1&port=1080)
-[https://t.me/socks?server=0.0.0.0&port=1080](https://t.me/socks?server=0.0.0.0&port=1080)
-***♦️***
-اگه میخواستید به حالت قبل برگرده و کل گوشی از VPN استفاده کنه دوباره تیک گزینه proxy only mode رو خاموش کنید.
-***♦️***
-روی مداد بغل کانفیگ ها کلیک کنید
-و توی قسمت
-DNS Resolver 
-دی ان اس رو تغییر بدید
-[DNS](https://t.me/FREE2CONFIG/8086)
-1- روی کانفیگ توی SlipNet  ویرایش رو بزنید
-2- اگر کانفیگ lock شده نیست، test domain رو دامنه‌ی کانفیگ بذارید، اگه هم که قفل هست بذارید
- 
-`www.google.com`
-3- بقیه موارد رو دست نزنید اما Test URL (E2E) رو:
-`https://www.google.com`
-4- و dnsهای رو import کنید
-5- روی Start Simple Scan بزنید
-6- اجازه بدید کارش رو بکنه، و از پایین Sort رو بذارید روی E2E و filter رو 4+ بذارید.
 
 ---
 
