@@ -1,5 +1,207 @@
 # آرشیو کانال: @ConfigWireguard
-بروزرسانی: 2026-03-11 07:59:37 UTC
+بروزرسانی: 2026-03-11 14:39:00 UTC
+
+### 🕒 2026-03-11 13:42:16 UTC
+For WgTunnel (IPv6 Endpoint) > :/  
+***💙***
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
+PrivateKey = ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0=
+DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+PersistentKeepalive = 30
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = [2606:4700:d0::340b:c47a:e917:8a9d]:864
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-11 13:42:16 UTC
+For WgTunnel (IPv4 Endpoint) > :/  
+***💙***
+[Interface]
+Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
+PrivateKey = ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0=
+DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
+MTU = 1280
+Jc = 4
+Jmin = 40
+Jmax = 70
+H1 = 1
+H2 = 2
+H3 = 3
+H4 = 4
+[Peer]
+PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
+PersistentKeepalive = 30
+AllowedIPs = 0.0.0.0/0, ::/0
+Endpoint = 8.34.70.170:8319
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-11 13:42:12 UTC
+For WireGuard :/  
+***💙***
+ 
+Wireguard Google play 
+[https://play.google.com/store/apps/details?id=com.wireguard.android](https://play.google.com/store/apps/details?id=com.wireguard.android)
+ 
+ 
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 𓄂𓆃|
+***🗽***
+
+---
+
+### 🕒 2026-03-11 13:42:11 UTC
+[𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|***🗽***](https://t.me/Paradise_Of_Freedom)
+ Warp On Warp for 
+[ [nikaNg](https://github.com/mahsanet/NikaNG/releases)
+ , 
+[mahsaNg](https://github.com/GFW-knocker/MahsaNG/releases)
+ ]ᵂᵒᵂ
+ 
+ {"remarks": "Tel= darkness_427 - WoW", "log": {"loglevel": "warning"}, "dns": {"hosts": {}, "servers": ["https://94.140.14.14/dns-query", {"address": "8.8.8.8", "domains": ["geosite:category-ir", "domain:.ir"], "expectIPs": ["geoip:ir"], "port": 53}], "tag": "dns"}, "inbounds": [{"port": 10808, "protocol": "socks", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "socks-in"}, {"port": 10809, "protocol": "http", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "http-in"}, {"listen": "127.0.0.1", "port": 10853, "protocol": "dokodemo-door", "settings": {"address": "1.1.1.1", "network": "tcp,udp", "port": 53}, "tag": "dns-in"}], "outbounds": [{"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.6.112.138:7559", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [3, 170, 30], "secretKey": "KI1LSHvQ/qK7v7sASXhY4FILe/bBYVDDlxfQuQlgLHw=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "streamSettings": {"sockopt": {"dialerProxy": "warp-ir"}}, "tag": "warp-out"}, {"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.6.112.138:7559", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [238, 171, 49], "secretKey": "ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "tag": "warp-ir"}, {"protocol": "dns", "tag": "dns-out"}, {"protocol": "freedom", "settings": {}, "tag": "direct"}, {"protocol": "blackhole", "settings": {"response": {"type": "http"}}, "tag": "block"}], "policy": {"levels": {"8": {"connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1}}, "system": {"statsOutboundUplink": true, "statsOutboundDownlink": true}}, "routing": {"domainStrategy": "IPIfNonMatch", "rules": [{"inboundTag": ["dns-in"], "outboundTag": "dns-out", "type": "field"}, {"ip": ["8.8.8.8"], "outboundTag": "direct", "port": "53", "type": "field"}, {"domain": ["geosite:category-ir", "domain:.ir"], "outboundTag": "direct", "type": "field"}, {"ip": ["geoip:ir", "geoip:private"], "outboundTag": "direct", "type": "field"}, {"domain": ["geosite:category-ads-all", "geosite:category-ads-ir"], "outboundTag": "block", "type": "field"}, {"outboundTag": "warp-out", "type": "field", "network": "tcp,udp"}]}, "stats": {}}
+
+---
+
+### 🕒 2026-03-11 13:42:11 UTC
+𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|
+***🗽***
+ For 
+[mahsa](https://github.com/GFW-knocker/MahsaNG/releases)
+ ng: 
+***💙***
+ 
+ipv4: 
+***😋***
+wireguard://ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0%3D@8.34.70.170:8319?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=238%2C171%2C49#Tel= @darkness_427 wire 
+ipv6: 
+***😋***
+wireguard://ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0%3D@[2606:4700:d0::340b:c47a:e917:8a9d]:864?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=238%2C171%2C49#Tel= @darkness_427 wire 
+ For 
+[nika](https://github.com/mahsanet/NikaNG/releases)
+ ng: 
+***💙***
+ 
+ipv4: 
+***😋***
+wireguard://ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0%3D@8.34.70.170:8319?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=238%2C171%2C49#Tel= @darkness_427 wire 
+ipv6:  
+***😋***
+ 
+wireguard://ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0%3D@[2606:4700:d0::340b:c47a:e917:8a9d]:864?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=238%2C171%2C49#Tel= @darkness_427 wire 
+For 
+[hiddify](https://github.com/hiddify/hiddify-next/releases)
+ next: 
+***💙***
+ 
+{"outbounds": [{"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "ILH3fng9S7ptvMrC5x16O4RaW9fiznQO9qF7foBrhG0=", "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "server": "8.34.70.170", "server_port": 8319, "reserved": [238, 171, 49], "mtu": 1330, "fake_packets": "1-3", "fake_packets_size": "10-30", "fake_packets_delay": "10-30", "fake_packets_mode": "m4"}, {"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-Main1", "detour": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "KI1LSHvQ/qK7v7sASXhY4FILe/bBYVDDlxfQuQlgLHw=", "server": "162.159.195.9", "server_port": 3138, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "reserved": [3, 170, 30], "mtu": 1300, "fake_packets_mode": "m4"}]}
+ 
+𝕎𝔸ℝℙᵂᵒᵂ
+warp://8.39.125.105:864/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://188.114.99.192:4198/?ifp=2-4&ifpm=m6#🆆
+***🅾***
+🆆
+***🗽***
+warp://[2606:4700:d0::340b:c47a:e917:8a9d]:864/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d0::340b:c47a:e917:8a9d]:864/?ifp=2-4&ifpm=m6#🆆
+***🅾***
+🆆
+***🗽***
+MainChannel= 
+[@Paradise_Of_Freedom](https://t.me/Paradise_Of_Freedom)
+ 𓄂𓆃 
+Channel= 
+[@ConfigWireguard](https://t.me/ConfigWireguard)
+ 
+***🗽***
+
+---
+
+### 🕒 2026-03-11 13:24:03 UTC
+> ↪️ **Forwarded**
+
+***💥***
+ کانفیگ اختصاصی چنل
+***🚩***
+ نکته : مناسب تمامی اپراتورها ( پینگ بگیرید اگه پینگ داد اوکیه )
+***⚠️***
+فقط اینکه کنده باید صبر کنید
+***👌***
+***🔐***
+ از برنامه نپسترنت استفاده کنید
+***🛒***
+ 
+[لینک گوگل پلی برنامه](https://play.google.com/store/apps/details?id=com.napsternetlabs.napsternetv)
+***🙂***
+رمز : ندارد
+
+---
+
+### 🕒 2026-03-11 10:59:37 UTC
+تنضیمات اسلیپ نت اینارو انجام بدید
+Auto reconnect --> ON
+Mtu --> 1280
+Disable QUIC --> ON
+Enable Split tunneling --> ON
+اینجا باید برنامه هایی مثل مرورگر و یوتیوب و تلگرام و واتساپ و نمیدونم چیزایی که ضروری هستن(تکی تلگرام بذاری که بهتر) رو از قسمت select apps انتخاب کنی که قبلش رو گزینه Mode میزنی و رو گزینه آخری که نوشته 
+only selected apps use VPN
+کلیک میکنی
+Compression --> ON
+Max channels --> [16 , 64) 
+تست کن ببین چی بهتره 
+اینم برای حالت پروکسی اگه روشن کردی 
+این پروکسی بزن تلت
+[https://t.me/socks?server=0.0.0.0&port=1080](https://t.me/socks?server=0.0.0.0&port=1080)
+[https://t.me/socks?server=127.0.0.1&port=1080](https://t.me/socks?server=127.0.0.1&port=1080)
+
+---
+
+### 🕒 2026-03-11 10:58:35 UTC
+این نسخه لایت استفاده کنید
+نسخه پرو چندتا پروتکل اضافه داره که فعلا بکار نمیاد
+فایل از کانال خود سازنده هستش
+
+---
+
+### 🕒 2026-03-11 09:22:47 UTC
+یه سرور Slipstream + ssh 
+slipnet://MTZ8c2F5ZWRuc3xpYW1wZWRpOXx0LmlhbXBlZGk5LmxpdmV8OC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHw4YmVkY2YxOTE3MTU3ZjY0MzA0MTBiYTIzN2QwNjVhMjkzZjhhYzAyY2JkZTc2ZjY2MjVhOWE4NjRlNTBmNTc3fHx8fHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8MHw0NDN8fHx8MHx8MHwwfA==
+با این DNS ها روی مخابرات تست کردن جواب میده. 
+[178.173.149.213](http://178.173.149.213/)
+[2.144.21.115](http://2.144.21.115/)
+[5.202.171.125](http://5.202.171.125/)
+[5.74.128.250](http://5.74.128.250/)
+[2.144.20.183](http://2.144.20.183/)
+[217.144.107.239](http://217.144.107.239/)
+[37.156.144.66](http://37.156.144.66/)
+[185.129.216.30](http://185.129.216.30/)
+[89.45.89.250](http://89.45.89.250/)
+[5.202.78.18](http://5.202.78.18/)
+[2.144.4.118](http://2.144.4.118/)
+[217.144.107.162](http://217.144.107.162/)
+[93.126.12.22](http://93.126.12.22/)
+[212.16.64.221](http://212.16.64.221/)
+[89.45.89.249](http://89.45.89.249/)
+[2.144.6.65](http://2.144.6.65/)
+[5.202.46.74](http://5.202.46.74/)
+***©***
+pedi
+
+---
 
 ### 🕒 2026-03-11 06:40:54 UTC
 Slipnet
@@ -262,93 +464,6 @@ udp://185.213.11.85
 [102.22.81.183](http://102.22.81.183/)
 [102.23.225.127](http://102.23.225.127/)
 [102.22.254.116](http://102.22.254.116/)
-
----
-
-### 🕒 2026-03-08 10:16:49 UTC
-**محافظت در برابر باران‌های اسیدی سمی ناشی از انفجار مخازن سوخت**
-***🔴***
- انفجار انبارهای نفت باعث ورود حجم انبوهی از ترکیبات سمی هیدروکربن‌ها و اکسیدهای گوگرد و نیتروژن در جو و به ابرها می‌شود که در صورت بارندگی، باران حاصل بسیار خطرناک و دارای خاصیت اسیدی شدید است.
-***🔴***
- این پدیده می‌تواند باعث سوختگی‌های شیمیایی پوست و آسیب جدی به ریه‌ها شود.
-​
-***1⃣***
-** در زمان بارش**
- پس از انفجارهای نفتی، تحت هیچ شرایطی 
-**از منزل خارج نشوید **
-و تمام منافذ را با پارچه مرطوب بپوشانید
-***‼️***
-ذرات دوده سمی معلق در باران بسیار ریز بوده و به‌راحتی وارد فضای داخلی می‌شوند.
-​
-***2⃣***
- اگر در فضای باز غافلگیر شدید، بلافاصله 
-**به زیر سقف‌های بتنی یا فلزی پناه ببرید**
- و از پناه گرفتن زیر درختان خودداری کنید.
-***‼️***
-برگ درختان قطرات اسیدی را جمع کرده و به صورت متمرکز و خطرناک‌تر روی شما می‌ریزند.
-​
-***3⃣***
- در صورت تماس باران با پوست، به هیچ وجه محل را نمالید و فقط 
-**با جریان مداوم آب سرد شستشو دهید**
- 
-***‼️***
-مالش باعث نفوذ بیشتر ترکیبات نفتی و اسیدی به منافذ پوست و ایجاد درماتیت شدید می‌شود.
-​
-***4⃣***
- 
-**لباس‌هایی که به این باران آغشته شده‌اند را بلافاصله تعویض کرده**
- و در کیسه دربسته قرار دهید 
-***‼️***
-بخارات برخاسته از لباس خیس می‌تواند باعث مسمومیت تنفسی در فضای بسته خانه شود.
-***5⃣***
- از 
-**ماسک‌های فیلتردار**
- (ترجیحاً N95 یا ماسک‌های دارای لایه کربن فعال) استفاده کنید 
-***‼️***
-ماسک‌های پارچه‌ای معمولی در برابر بخارات اسیدی و ذرات معلق نفتی کارایی چندانی ندارند.
-​
-***6⃣***
- از 
-**مصرف آب چاه‌های روباز یا مخازن ذخیره آب باران **
-در مناطق نزدیک به انفجار جداً خودداری کنید.
-***‼️***
-نفوذ ترکیبات نفتی و اسید به منابع آب باعث مسمومیت‌های سیستمیک و آسیب به کلیه‌ها می‌شود.
-***7⃣***
-​حیوانات خانگی و احشام را به فضای کاملاً سرپوشیده منتقل کنید و علوفه آن‌ها را بپوشانید 
-***‼️***
-باران اسیدی ناشی از سوختن نفت برای موجودات زنده کوچک بسیار کشنده است.
-​
-***8⃣***
- اگر دچار 
-**سوزش شدید مجاری تنفسی، سرفه خشک مداوم یا تاری دید**
- شدید، بلافاصله به مراکز درمانی مراجعه کنید
-***‼️***
-این‌ها نشانه‌های اولیه مسمومیت با گازهای شیمیایی ناشی از احتراق ناقص نفت هستند.
-​
-***9⃣***
- پس از اتمام بارندگی، 
-**سطوح خارجی و خودروها را با فشار آب زیاد بشویید**
- تا رسوبات سمی خشک نشوند 
-***‼️***
-باقیمانده این مواد روی سطوح در اثر وزش باد دوباره به صورت گرد و غبار سمی در هوا پخش می‌شوند.
-
----
-
-### 🕒 2026-03-08 10:16:49 UTC
-اطلاعیه ۲ آموزشی هلال احمر برای آلودگی هوا در تهران: نکات حیاتی در مواجهه با باران‌های اسیدی سمی
-آگاهی از این جزئیات، مرز بین سلامت و بیماری‌های مزمن ریوی و پوستی است.
-‌
-۱. خطر بخارات پس از باران: پس از قطع شدن باران، از منزل خارج نشوید؛ زیرا تبخیر قطرات اسیدی از روی زمین گرم یا سطوح، غلظت سموم در هوای تنفسی را تا چندین برابر افزایش می‌دهد (صبر کنید تا هوا کاملاً ساکن شده یا توسط باد جابه‌جا شود).
-‌
-۲. کولرهای آبی و گازی: در زمان بارش باران اسیدی سمی، کولرهای آبی را مطلقاً روشن نکنید (پوشال‌های خیس مثل فیلتر عمل کرده و اسید و دوده سمی را مستقیماً به داخل ریه‌های ساکنان خانه پمپاژ می‌کنند؛ کولرهای گازی را نیز در حالت گردش داخلی قرار دهید).
-‌
-۳. مراقبت از مواد غذایی باز: اگر در تراس یا حیاط خانه مواد غذایی (مثل ترشیجات، برنج یا نان) دارید، حتی اگر دربسته هستند، پیش از انتقال به داخل خانه ابتدا ظرف آن‌ها را با دستکش و دستمال مرطوب کاملاً پاک کنید (ذرات اسیدی میکروسکوپی روی جداره ظرف می‌توانند هنگام باز کردن، محتویات را آلوده کنند).
-‌
-۴. شستشوی مجاری تنفسی: پس از اتمام دوره بارش، حتی اگر در منزل بوده‌اید، بینی و گلوی خود را با محلول رقیق نمکی (سرم شستشو) غرغره کنید (این کار باعث دفع ذرات دوده نفتی معلق در هوا که به مخاط چسبیده‌اند می‌شود).
-‌
-۵. تعویض فیلتر تصفیه آب: اگر از سیستم تصفیه آب خانگی استفاده می‌کنید، پس از اتمام بحران باران‌های سمی، فیلترهای مرحله اول را تعویض کنید (نفوذ احتمالی آلاینده‌های اتمسفری به شبکه آب شهری می‌تواند کارایی فیلترهای قدیمی را از بین ببرد).
-‌
-۶. عدم استفاده از برف‌پاک‌کن خشک: اگر روی شیشه خودروی شما رسوبات سیاه باران نشسته، هرگز برف‌پاک‌کن را به تنهایی روشن نکنید (ترکیب اسید خشک شده و دوده مثل سمباده عمل کرده و علاوه بر آسیب به ریه شما هنگام برخاستن غبار، شیشه خودرو را نیز برای همیشه کدر می‌کند؛ ابتدا با سطل آب فراوان بشویید).
 
 ---
 

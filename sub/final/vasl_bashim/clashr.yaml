@@ -24,26 +24,29 @@ proxies:
   - {name: "@vasl_bashim 13", server: connected5.starpo5.ir, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 66926652-ad9b-4fbb-9b6c-f4985c82e425, host: connected5.starpo5.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim 14", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: 778656bd-0721-466f-b48b-aadb46a9e789, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 5", server: mp.kharazmi.top, port: 30086, type: vless, tls: true, packet-encoding: xudp, uuid: 778656bd-0721-466f-b48b-aadb46a9e789, host: mp.kharazmi.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 15", server: p-2-0-2-turk.turkabr.ir, port: 39792, type: vless, tls: true, packet-encoding: xudp, uuid: 7bed5d53-f043-4fa4-f20b-32e7d1f5a052, host: snapp.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 6", server: 212.80.8.48, port: 9987, type: vless, tls: true, packet-encoding: xudp, uuid: 7c7d2112-89cc-418a-8e45-d874fbc6536f, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 7", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7de6208b-01fd-f02d-4a38-5b7541c4e14e, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@fvasl_bashim`", server: 102.37.131.55, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7e2b763e-31ab-4777-9428-a3ad0009208c, host: 102.37.131.55, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 15", server: 102.37.131.55, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7e2b763e-31ab-4777-9428-a3ad0009208c, host: 102.37.131.55, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 16", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7f6bd5dd-4f3f-c4d3-72bc-f9c24ce33936, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 17", server: 193.151.144.131, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: 87fbb394-9d8e-43c4-92e4-a7caf7f40a48, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 18", server: 62.182.193.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram%3A%40Free_VPN_CH, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 19", server: st.muteia.shop, port: 6098, type: vless, tls: true, packet-encoding: xudp, uuid: a097a505-7c85-4a2b-9773-90e868898935, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 20", server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: a78d795d-ab77-49dd-8962-f630115f617c, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 16", server: 102.37.131.55, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7e2b763e-31ab-4777-9428-a3ad0009208c, host: 102.37.131.55, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 17", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: 7f6bd5dd-4f3f-c4d3-72bc-f9c24ce33936, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 18", server: 185.206.231.57, port: 36522, type: vless, tls: true, packet-encoding: xudp, uuid: 86a382d7-2622-4581-a455-599c70679d02, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 19", server: 193.151.144.131, port: 1111, type: vless, tls: true, packet-encoding: xudp, uuid: 87fbb394-9d8e-43c4-92e4-a7caf7f40a48, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 20", server: 62.182.193.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: Telegram%3A%40Free_VPN_CH, servername: tn1rr.qzz.io, network: ws, ws-opts: {path: /sg-lnd, headers: {Host: tn1rr.qzz.io}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 21", server: st.muteia.shop, port: 6098, type: vless, tls: true, packet-encoding: xudp, uuid: a097a505-7c85-4a2b-9773-90e868898935, network: ws, ws-opts: {path: "/ws?ed=2048", headers: {Host: telewebion.com%2Cuser.telewebion.com%2Cplus.telewebion.com%2Capi.telewebion.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 22", server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: a78d795d-ab77-49dd-8962-f630115f617c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 8", server: 37.156.145.183, port: 40652, type: vless, tls: true, packet-encoding: xudp, uuid: ab8543cd-0e65-4b74-f5ad-932cffe0a12a, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 9", server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 10", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim` 11", server: L-iq-emergency2-7788yo.j0je.ir, port: 5480, type: vless, tls: true, packet-encoding: xudp, uuid: d40e96b2-0203-4e62-bffb-cc8f338917dd, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 21", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: d6b510f3-fe8d-798a-98bf-5c4fb0e7c911, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 22", server: s2.fastsnap.info, port: 21113, type: vless, tls: true, packet-encoding: xudp, uuid: d9d163e3-793c-4fd4-8026-690d422bf8ea, host: s2.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 23", server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 24", server: 185.143.233.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef3275fa-c3fe-4fb9-b82c-59cc698e30fa, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 25", server: 188.121.120.140, port: 21368, type: vmess, uuid: 270081d8-09e7-4b0f-a9e6-90acd2b32072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 26", server: 188.212.97.117, port: 47857, type: vmess, uuid: 674127ab-45ff-4e72-b6a0-c02fc1642696, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 27", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 23", server: lord.socialxxmedia.pro, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: d6b510f3-fe8d-798a-98bf-5c4fb0e7c911, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 24", server: s2.fastsnap.info, port: 21113, type: vless, tls: true, packet-encoding: xudp, uuid: d9d163e3-793c-4fd4-8026-690d422bf8ea, host: s2.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 25", server: 3.123.128.216, port: 28706, type: vless, tls: true, packet-encoding: xudp, uuid: eea43b1a-4411-4ff7-f5b4-a860a81cad63, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 26", server: 185.143.233.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ef3275fa-c3fe-4fb9-b82c-59cc698e30fa, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 27", server: 188.121.120.140, port: 21368, type: vmess, uuid: 270081d8-09e7-4b0f-a9e6-90acd2b32072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 28", server: 188.212.97.117, port: 47857, type: vmess, uuid: 674127ab-45ff-4e72-b6a0-c02fc1642696, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 29", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@vasl_bashim 30", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -69,26 +72,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -114,26 +120,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -159,26 +168,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -203,26 +215,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -247,26 +262,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -291,26 +309,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -357,26 +378,29 @@ proxy-groups:
       - "@vasl_bashim 13"
       - "@vasl_bashim 14"
       - "@vasl_bashim` 5"
+      - "@vasl_bashim 15"
       - "@vasl_bashim` 6"
       - "@vasl_bashim` 7"
       - "@fvasl_bashim`"
-      - "@vasl_bashim 15"
       - "@vasl_bashim 16"
       - "@vasl_bashim 17"
       - "@vasl_bashim 18"
       - "@vasl_bashim 19"
       - "@vasl_bashim 20"
+      - "@vasl_bashim 21"
+      - "@vasl_bashim 22"
       - "@vasl_bashim` 8"
       - "@vasl_bashim` 9"
       - "@vasl_bashim` 10"
       - "@vasl_bashim` 11"
-      - "@vasl_bashim 21"
-      - "@vasl_bashim 22"
       - "@vasl_bashim 23"
       - "@vasl_bashim 24"
       - "@vasl_bashim 25"
       - "@vasl_bashim 26"
       - "@vasl_bashim 27"
+      - "@vasl_bashim 28"
+      - "@vasl_bashim 29"
+      - "@vasl_bashim 30"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

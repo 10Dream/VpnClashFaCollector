@@ -482,7 +482,8 @@ proxies:
   - {name: "@v2rayconfigamir 6883", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%25252Fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3975", server: 54.37.18.204, port: 443, type: trojan, password: opentunnel.net-english30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8107", server: 15.204.9.172, port: 443, type: trojan, password: opentunnel.net-usa30day, sni: uplod.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.36.46.152:22222, server: 13.36.46.152, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.100.6:22222, server: 13.36.100.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.36.29.172:22222, server: 13.36.29.172, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.140.33:22222, server: 13.37.140.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.214.118:22222, server: 13.38.214.118, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.68.172:22222, server: 15.188.68.172, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,7 +492,6 @@ proxies:
   - {name: 3.127.171.45:22222, server: 3.127.171.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.235.19:22222, server: 3.69.235.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.79.165.50:22222, server: 3.79.165.50, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.181.15.224:22222, server: 35.181.15.224, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.200.241:22222, server: 51.44.200.241, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.98.27:22222, server: 51.44.98.27, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.176.126.9:22222, server: 63.176.126.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -511,6 +511,7 @@ proxies:
   - {name: "@v2rayconfigamir 8791", server: 144.31.170.114, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3130fccb-e72e-468d-b2ce-0721bb3058c8, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg, short-id: cd11af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9558", server: 37.9.54.51, port: 54448, type: vless, tls: true, packet-encoding: xudp, uuid: 3c14ecf0-9f6f-49c5-b938-0e952ad4a440, servername: io.ozone.ru, host: io.ozone.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxymelimon 6, server: USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: google.com., path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: ⚡Telegram - @prrofile_purple, server: d1.designister.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ebd01e3-763d-45c9-bfcc-fa220e81bd5f, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@, server: 81.90.29.39, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 44dc6ac1-6126-4627-b889-9792a8188012, servername: academy.nvidia.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.204.97.195:23576, server: 15.204.97.195, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2, server: 57.129.53.181, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,8 +543,6 @@ proxies:
   - {name: "  8", server: 5.180.97.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a384c715-aeb5-45e8-859b-f687ca6c083f, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wBrGfTI9PaFf966aN6KaCY0cL6QRLlop4nzNa6bJsiQ, short-id: 9f35da6c9412b832}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4908", server: as-ee1.agveit.pro, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ab8b0d68-cd2d-467d-88cc-a2f60eb6b0d6, servername: as-ee1.agveit.pro, host: as-ee1.agveit.pro, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: IskVhw-LOnfp4G56HIsm-bH0BW_xw7WBVi5BmbhdMF0, short-id: a11c4715c6f914ba}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 81.88.25.20:59029, server: 81.88.25.20, port: 59029, type: vless, tls: true, packet-encoding: xudp, uuid: c031d6c7-5132-4d81-8efc-3b13a947984e, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ¦german, server: gr5.vpnjantit.com, port: 10002, type: vless, tls: true, packet-encoding: xudp, uuid: c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: gr5.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: ¦german 2, server: gr5.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: c71d2f84-1ae1-11f1-97cf-7fa5d2a6fb9f, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: gr5.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2083", server: es2.darknet.run, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c970f910-1103-446a-bdc8-a9cfb22381bf, servername: es2.darknet.run, host: es2.darknet.run, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: n1x7rFrs_idambGX3Of8UJjFostVRhE1UeTNF5BAWAQ, short-id: a1b223d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  9", server: 80.75.212.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  10", server: at.jojack.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: at.jojack.ru, host: at.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ca5sfJNcjkh3oNt51hRexXbGWgITAqCprGSU-YKCJBA, short-id: 8dc4fccb2bcfc99d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -589,7 +588,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -598,7 +598,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -618,6 +617,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -649,8 +649,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"
@@ -686,7 +684,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -695,7 +694,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -715,6 +713,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -746,8 +745,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"
@@ -783,7 +780,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -792,7 +790,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -812,6 +809,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -843,8 +841,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"
@@ -889,7 +885,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -898,7 +895,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -918,6 +914,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -949,8 +946,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"
@@ -986,7 +981,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -995,7 +991,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -1015,6 +1010,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -1046,8 +1042,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"
@@ -1083,7 +1077,8 @@ proxy-groups:
       - "@v2rayconfigamir 6883"
       - "@v2rayconfigamir 3975"
       - "@v2rayconfigamir 8107"
-      - 13.36.46.152:22222
+      - 13.36.100.6:22222
+      - 13.36.29.172:22222
       - 13.37.140.33:22222
       - 13.38.214.118:22222
       - 15.188.68.172:22222
@@ -1092,7 +1087,6 @@ proxy-groups:
       - 3.127.171.45:22222
       - 3.69.235.19:22222
       - 3.79.165.50:22222
-      - 35.181.15.224:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 63.176.126.9:22222
@@ -1112,6 +1106,7 @@ proxy-groups:
       - "@v2rayconfigamir 8791"
       - "@v2rayconfigamir 9558"
       - proxymelimon 6
+      - ⚡Telegram - @prrofile_purple
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - 15.204.97.195:23576
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 2
@@ -1143,8 +1138,6 @@ proxy-groups:
       - "  8"
       - "@v2rayconfigamir 4908"
       - 81.88.25.20:59029
-      - ¦german
-      - ¦german 2
       - "@v2rayconfigamir 2083"
       - "  9"
       - "  10"

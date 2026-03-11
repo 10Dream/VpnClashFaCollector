@@ -475,6 +475,7 @@ proxies:
   - {name: c1.msjia8844.site:31532, server: c1.msjia8844.site, port: 31532, type: vless, tls: true, packet-encoding: xudp, uuid: dab667ce-f06a-4533-a369-ee2925ca6ec6, host: c1.msjia8844.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جوین شو تلگرام | @ServalVpn` 2, server: emg3.saipasamandemg3.sbs, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: f75305e2-de53-4add-acc8-f9308394f5a4, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: test-test, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@SizVpn", server: 3.elabela.top, port: 909, type: vmess, uuid: 0e664d0c-2c8e-481c-8718-da019e553e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3.elabela.top}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -501,6 +502,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -517,6 +519,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -533,6 +536,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -558,6 +562,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -574,6 +579,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -590,6 +596,7 @@ proxy-groups:
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
+      - "@SizVpn"
   - name: دانلود منیجر 📥
     type: select
     proxies:
