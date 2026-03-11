@@ -45,7 +45,6 @@ proxies:
   - {name: "@tel_melli🤍 11", server: fastly2.hamrahflow.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c5b1bc1a-28b3-46d4-94bc-9b9686f0a108, servername: default.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🤍 12", server: fastly3.hamrahflow.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c5b1bc1a-28b3-46d4-94bc-9b9686f0a108, servername: default.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 21", server: L-iq-emergency2-7788yo.j0je.ir, port: 5480, type: vless, tls: true, packet-encoding: xudp, uuid: d40e96b2-0203-4e62-bffb-cc8f338917dd, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`", server: f1.msljha8844.site, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: d617b78a-099a-45d1-88f0-9798aa594435, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 22", server: s2.fastsnap.info, port: 21113, type: vless, tls: true, packet-encoding: xudp, uuid: d9d163e3-793c-4fd4-8026-690d422bf8ea, host: s2.fastsnap.info, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 23", server: vipde5.persianpinggame.com, port: 9093, type: vless, tls: true, packet-encoding: xudp, uuid: e2fed65e-1ae0-11f1-8359-92000723b4ab, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli🤍 13", server: 80.75.212.10, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: nl.jojack.ru, host: nl.jojack.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: sxyxV0_y1o09gKJBL9AJJyRSEg6MiYK0j-kb5unzHh4, short-id: 6bb3c7f9f97b45b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -99,7 +98,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -153,7 +151,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -207,7 +204,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -260,7 +256,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -313,7 +308,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -366,7 +360,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"
@@ -441,7 +434,6 @@ proxy-groups:
       - "@tel_melli🤍 11"
       - "@tel_melli🤍 12"
       - "@tel_melli 21"
-      - "𝐎𝐧𝐞𝐕𝐧𝐞𝐭 #-onevnet_1771`"
       - "@tel_melli 22"
       - "@tel_melli 23"
       - "@tel_melli🤍 13"

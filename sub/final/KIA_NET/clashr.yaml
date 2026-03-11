@@ -27,6 +27,7 @@ proxies:
   - {name: کیانت`, server: tr2.vpnjantit.com, port: 10002, type: vless, tls: true, packet-encoding: xudp, uuid: 77ea8d6c-1a96-11f1-be1f-1744d2a6f511, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: tr2.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کیانت, server: tr2.vpnjantit.com, port: 10004, type: vless, tls: true, packet-encoding: xudp, uuid: 77ea8d6c-1a96-11f1-be1f-1744d2a6f511, network: ws, ws-opts: {path: /vpnjantit, headers: {Host: tr2.vpnjantit.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET` 3", server: it.trevia.sbs, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7b3e76e2-66f7-47f5-bd78-a9324a5254b2, host: it.trevia.sbs, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: کیانت 2, server: 102.37.131.55, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 7e2b763e-31ab-4777-9428-a3ad0009208c, host: 102.37.131.55, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@kia_net محدود`", server: rk4no3.cdnhoo.top, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 9f00e109-36ba-47a6-8dd5-4487fb93a6ff, network: ws, ws-opts: {path: /get, headers: {Host: rk4no3.cdnhoo.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_net |فقط تلگرام داشته باشید", server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 3, server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -68,6 +69,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -109,6 +111,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -150,6 +153,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -190,6 +194,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -230,6 +235,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -270,6 +276,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
@@ -332,6 +339,7 @@ proxy-groups:
       - کیانت`
       - کیانت
       - "@KIA_NET` 3"
+      - کیانت 2
       - "@kia_net محدود`"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 3
