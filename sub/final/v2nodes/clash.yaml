@@ -471,7 +471,6 @@ proxies:
   - {name: 102.37.237.190:443, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: ss.055.node-for-bigairport.win:29000, server: ss.055.node-for-bigairport.win, port: 29000, type: ss, cipher: chacha20-ietf-poly1305, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53, udp: true, tfo: false}
   - {name: 144.217.164.29:12000, server: 144.217.164.29, port: 12000, type: ss, cipher: aes-256-gcm, password: 8JCsPssfgS8tiRwiMlhARg==, udp: true, tfo: false}
@@ -493,7 +492,6 @@ proxies:
   - {name: 152.53.47.91:443, server: 152.53.47.91, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: austria.denditop.site, host: austria.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: cz.denditop.site:443, server: cz.denditop.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: cz.denditop.site, host: cz.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr.denditop.site:443, server: fr.denditop.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: fr.denditop.site, host: fr.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.24.140.37:443, server: 144.24.140.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.131.161:8443, server: 144.31.131.161, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: rus.speedload.online, host: rus.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.123.39.225:443, server: 93.123.39.225, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3130fccb-e72e-468d-b2ce-0721bb3058c8, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg, short-id: cd11af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de15.fastlanehosting.ru:443, server: de15.fastlanehosting.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3c09f263-0f1b-41fa-946d-0bf0eff48a99, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: ZA_1U_jyptsFj3_858e_Cdoj4yecvxYPH7qRwwl-sE8, short-id: 183257bda6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -562,6 +560,7 @@ proxies:
   - {name: nll.scroogethebest.com:443, server: nll.scroogethebest.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e2e1ddaa-1acf-4c4c-a211-92284f6440ed, servername: nll.scroogethebest.com, host: nll.scroogethebest.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: AYQOZFxjvHN-RIzKYEibwFiFsp03cdlWGdCmyFfuNVc, short-id: 4fa44664f6a566d3}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: highspeedtesting01.publicvm.com, port: 443, type: vmess, uuid: a301c77c-e549-494e-a1e2-b386412f4d11, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /gredfbgr, headers: {Host: highspeedtesting01.publicvm.com}}, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-TH", server: 143.14.105.140, port: 8443, type: vmess, uuid: 62d5f178-daec-44f7-d7ed-d40b6c786d6d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "🇨🇳 [openproxylist.com] vmess-TW", server: pub.ap20260228.com, port: 64018, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: a.cdn-bilibili.cn, port: 5409, type: vmess, uuid: 69de9a52-36b0-4265-a3cf-d06bcefe713d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -586,7 +585,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -608,7 +606,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -677,6 +674,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: خودکار (بهترین پینگ) 🤖
@@ -691,7 +689,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -713,7 +710,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -782,6 +778,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -796,7 +793,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -818,7 +814,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -887,6 +882,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: اتصال پایدار 🔗
@@ -910,7 +906,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -932,7 +927,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -1001,6 +995,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (گردشی) 🔁
@@ -1015,7 +1010,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -1037,7 +1031,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -1106,6 +1099,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: توزیع بار (موقت) ⏳
@@ -1120,7 +1114,6 @@ proxy-groups:
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
-      - 102.133.165.160:16233
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - 144.217.164.29:12000
@@ -1142,7 +1135,6 @@ proxy-groups:
       - 152.53.47.91:443
       - cz.denditop.site:443
       - 🇫🇷 fr.denditop.site:443
-      - 144.24.140.37:443
       - 144.31.131.161:8443
       - 93.123.39.225:443
       - 🇩🇪 de15.fastlanehosting.ru:443
@@ -1211,6 +1203,7 @@ proxy-groups:
       - nll.scroogethebest.com:443
       - 🇯🇵 [openproxylist.com] vmess-JP
       - "[openproxylist.com] vmess-TH"
+      - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇺🇸 [openproxylist.com] vmess-US
       - 🇳🇱 [openproxylist.com] vmess-NL
   - name: دانلود منیجر 📥

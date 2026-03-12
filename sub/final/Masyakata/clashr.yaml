@@ -35,6 +35,7 @@ proxies:
   - {name: "@Vip_fragment_v2ray`", server: 217.198.190.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 22f196a2-cf9c-470d-b310-0ee76a2d433f, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: des.fifapes.monster, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: 3ad7de53-18c6-4b3c-a4ca-23ad4ffffc8e, host: des.fifapes.monster, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 4", server: s-3.lp-s.top, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 3d11ba9c-15ab-486e-8fd1-0853a2d2eb76, host: "gharar.ir,igap.net,skyroom.online", path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Danial, server: F2.HaMrAhCoNf.Ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5fdc186d-f881-4fc4-9346-1f3d8fae9339, servername: uktkq.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uktkq.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 Reality-RU-84, server: 84.23.52.5, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 80e2edf4-6e52-485b-84b7-abdf88dc4e4d, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 10rVZPoOUP1TlQviIAsQ_jAROX0fRQxH0C92nq_zGQc, short-id: 43dcff53849b81e6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembadl`", server: 85.133.227.118, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 5", server: 85.133.227.119, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -94,6 +95,7 @@ proxies:
   - {name: Join+Telegram:@Farah_VPN 🇦🇺, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Maznet-Psighon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@proxy_nps بیا تلگراممون", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "channel : sobhanaryaa 🦁☀️", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -132,6 +134,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -191,6 +194,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: ♻️ 自动选择
@@ -229,6 +233,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -288,6 +293,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🌍 国外媒体
@@ -326,6 +332,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -385,6 +392,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 📲 电报信息
@@ -422,6 +430,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -481,6 +490,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: Ⓜ️ 微软服务
@@ -518,6 +528,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -577,6 +588,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🍎 苹果服务
@@ -614,6 +626,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -673,6 +686,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🎯 全球直连
@@ -732,6 +746,7 @@ proxy-groups:
       - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
+      - Danial
       - 🇷🇺 Reality-RU-84
       - "@filembadl`"
       - "@filembad 5"
@@ -791,6 +806,7 @@ proxy-groups:
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
+      - "@proxy_nps بیا تلگراممون"
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
 rules:

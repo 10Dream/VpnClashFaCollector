@@ -26,6 +26,7 @@ proxies:
   - {name: "@KIA_NET  پسورد", server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 3, server: dlc-new9.persianpinggame.com, port: 5109, type: vless, tls: true, packet-encoding: xudp, uuid: 50390dae-1bdb-11f1-9350-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: kia_net, server: 85.9.125.31, port: 50856, type: vless, tls: true, packet-encoding: xudp, uuid: 5314cf70-802c-4dc7-91cb-b50a597a44b3, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Kia_Net (تلگرام)", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET  پسورد`", server: 116.203.233.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET", server: str.gamepuzzlecenter.com, port: 21760, type: vless, tls: true, packet-encoding: xudp, uuid: 670d830d-5540-40e8-9cc8-0ef78b091cf5, host: str.gamepuzzlecenter.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[Kia_net] vless-AE`", server: ae2.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6ca2c654-53b3-4ac1-a2ef-c4b4ee88727a, servername: ae2.suio.me, host: ae2.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -52,6 +53,7 @@ proxies:
   - {name: "@Kia_Net 5", server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_Net 6", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تست کیانت, server: 188.121.119.172, port: 1010, type: vmess, uuid: 3fa06c55-df4b-47de-8ff2-409470338a3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: کیانت 2, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 6, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Kia_net, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🪸Tel⚡️ @Kia_Net ⚡️ 2", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
@@ -83,6 +85,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -109,6 +112,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -140,6 +144,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -166,6 +171,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -197,6 +203,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -223,6 +230,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -253,6 +261,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -279,6 +288,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -309,6 +319,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -335,6 +346,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -365,6 +377,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -391,6 +404,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
@@ -443,6 +457,7 @@ proxy-groups:
       - "@KIA_NET  پسورد"
       - Tel⚡️ @Kia_Net ⚡️ 3
       - kia_net
+      - "@Kia_Net (تلگرام)"
       - "@KIA_NET  پسورد`"
       - "@KIA_NET"
       - "[Kia_net] vless-AE`"
@@ -469,6 +484,7 @@ proxy-groups:
       - "@Kia_Net 5"
       - "@Kia_Net 6"
       - تست کیانت
+      - کیانت 2
       - Tel⚡️ @Kia_Net ⚡️ 6
       - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
