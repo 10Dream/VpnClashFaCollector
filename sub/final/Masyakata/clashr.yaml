@@ -5,6 +5,8 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: Maznet-Psiphon-5, server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
+  - {name: Maznet-Psiphon-3, server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@filembad", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: "@filembad`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
@@ -12,6 +14,7 @@ proxies:
   - {name: "@filembad 2", server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ae_proxy 146`, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 143.204.111.65, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c281f55-761f-4448-8fc9-e1958e49e1fa, network: ws, ws-opts: {path: /wss, headers: {Host: d2a5lr44zte3rb.cloudfront.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Vip_fragment_v2ray`", server: 217.198.190.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 22f196a2-cf9c-470d-b310-0ee76a2d433f, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 3", server: des.fifapes.monster, port: 8088, type: vless, tls: true, packet-encoding: xudp, uuid: 3ad7de53-18c6-4b3c-a4ca-23ad4ffffc8e, host: des.fifapes.monster, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 4", server: s-3.lp-s.top, port: 1003, type: vless, tls: true, packet-encoding: xudp, uuid: 3d11ba9c-15ab-486e-8fd1-0853a2d2eb76, host: "gharar.ir,igap.net,skyroom.online", path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Emergency-Tesett`, server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -26,6 +29,7 @@ proxies:
   - {name: "@", server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Skyportall`", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@duckvp_n`", server: 94.101.184.65, port: 51302, type: vless, tls: true, packet-encoding: xudp, uuid: bb893070-c9c0-42ec-9741-3c42c2acbd5e, servername: pz1.shahramv1.site, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: pz1.shahramv1.site}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Maznet-Psiphon-4, server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Join+Telegram:@Farah_VPN 🇦🇺, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "channel : sobhanaryaa 🦁☀️", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -35,6 +39,8 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -42,6 +48,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -56,6 +63,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -65,6 +73,8 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -72,6 +82,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -86,6 +97,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -95,6 +107,8 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -102,6 +116,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -116,6 +131,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -124,6 +140,8 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -131,6 +149,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -145,6 +164,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -153,6 +173,8 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -160,6 +182,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -174,6 +197,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -182,6 +206,8 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -189,6 +215,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -203,6 +230,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
@@ -233,6 +261,8 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - Maznet-Psiphon-5
+      - Maznet-Psiphon-3
       - "@filembad"
       - "@filembad`"
       - "`"
@@ -240,6 +270,7 @@ proxy-groups:
       - "@filembad 2"
       - Ae_proxy 146`
       - "@filembad` 2"
+      - "@Vip_fragment_v2ray`"
       - "@filembad 3"
       - "@filembad 4"
       - Emergency-Tesett`
@@ -254,6 +285,7 @@ proxy-groups:
       - "@"
       - "@Skyportall`"
       - "@duckvp_n`"
+      - Maznet-Psiphon-4
       - Join+Telegram:@Farah_VPN 🇦🇺
       - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"

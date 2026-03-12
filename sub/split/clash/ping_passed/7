@@ -465,56 +465,34 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@", server: 143.204.111.65, port: 80, type: vmess, uuid: 7d969bec-ed21-40ae-8cca-1963e9a61316, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d34r735owjqb9a.cloudfront.net}}, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 336ms | @tel_melli, server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 | NL | 623ms | @configraygan تلگراممون, server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 2", server: 185.226.116.195, port: 443, type: vmess, uuid: 901796fc-8f5d-4d1d-922e-112ec0eea4e2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | تست کیانت", server: 188.121.119.172, port: 1010, type: vmess, uuid: 3fa06c55-df4b-47de-8ff2-409470338a3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy", server: 188.121.119.172, port: 2020, type: vmess, uuid: 3fa06c55-df4b-47de-8ff2-409470338a3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @vasl_bashim", server: 188.121.120.140, port: 21368, type: vmess, uuid: 270081d8-09e7-4b0f-a9e6-90acd2b32072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan |", server: 188.212.97.117, port: 47857, type: vmess, uuid: 674127ab-45ff-4e72-b6a0-c02fc1642696, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | test-test", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @V2icy", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 3", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 4", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @proxy_kafee", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @vasl_bashim 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | Kia_net", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | تلگرام : @Vpn_Sky", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @ByGFW", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan تلگراممون", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan → چنل", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 5", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 6", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @vasl_bashim Psiphon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @vasl_bashim 3", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @vasl_bashim", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 💚 hamedvpns ❤️", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @tel_melli", server: 3.elabela.top, port: 909, type: vmess, uuid: 0e664d0c-2c8e-481c-8718-da019e553e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3.elabela.top}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🐧 @SizVpn", server: 3.elabela.top, port: 909, type: vmess, uuid: 0e664d0c-2c8e-481c-8718-da019e553e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3.elabela.top}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 7", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 8", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 9", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 10", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
-  - {name: 🇦🇺 | AU | 2593ms | @vasl_bashim, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 11", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 3", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 4", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 5", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 6", server: 37.32.27.204, port: 80, type: vmess, uuid: d233099c-26bc-4ac8-988b-9b93a16c8d49, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 1563ms | @vasl_bashim, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 7", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
+  - {name: 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 12", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 8", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "| null | 99999ms | 🇩🇪@FreakConfig", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | تلگرام | @configraygan", server: 78.157.63.77, port: 80, type: vmess, uuid: e0dd0dde-657d-4a29-a792-c7ef57b34aee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 13", server: 94.101.185.53, port: 8443, type: vmess, uuid: 00cb8f74-c1ff-44ed-a3d6-f71171359d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 9", server: 94.101.185.53, port: 8443, type: vmess, uuid: 00cb8f74-c1ff-44ed-a3d6-f71171359d81, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan | تلگرام", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @configraygan | 2", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @configraygan |", server: D3.moviehostiran.ir, port: 80, type: vmess, uuid: a8ebfb1d-1eea-4ec1-b994-41a7bc50f318, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @airdrop2033", server: DE2.IPSENTER.NET, port: 80, type: vmess, uuid: eb84dae6-42da-4f81-9517-d56adf375a96, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d1gsli0hc722vb.cloudfront.net}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan", server: DEU.IPSENTER.NET, port: 443, type: vmess, uuid: 3b38b729-981f-4f23-8746-7358c6282e42, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan A11", server: Dc-2.CeNtRaLnEt.cV, port: 3003, type: vmess, uuid: fc65868c-97fd-4a8b-bf3c-b30fe06b38a9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm || جوین باشید تلگرام", server: ch.topspeedarash.com, port: 4354, type: vmess, uuid: d6409208-01c7-4f86-8e5f-9fee3fa50519, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @meliproxyy 2", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @meliproxyy", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | open_net_vpn", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @tel_melli 2", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan 2", server: gr1.iranishops.com, port: 443, type: vmess, uuid: 6997ed48-2733-40f8-ba87-566e3efdc5d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -522,23 +500,22 @@ proxies:
   - {name: "| null | 99999ms | @configraygan A12", server: dC-1.cEnTrAlNeT.Cv, port: 3003, type: vmess, uuid: 62d8245f-8bc6-42ee-8e56-c77cdfc2e1c6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan A13", server: dC-1.cEnTrAlNeT.Cv, port: 3003, type: vmess, uuid: 05941c9a-8820-4181-bb28-8f535f56a381, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan A10", server: dC-2.cENtRaLnEt.ClIcK, port: 3003, type: vmess, uuid: 040bf359-f6ad-4553-9e69-05bb65288d0c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 14", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 10", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @Kia_Net", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 15", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @vasl_bashim 4", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 11", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @vasl_bashim 2", server: dl6.ropasland.ir, port: 2043, type: vmess, uuid: 51ae4f41-3caa-4dbd-8137-1bc7b4e8d07b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | چنل تلگراممون @configraygan", server: klotop.officialvpn.shop, port: 12048, type: vmess, uuid: e35870d9-a079-41e9-942c-804f853b3fa2, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @v2rayconfigamir 5155", server: mijuy.1x8.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: mijuy.1x8.indevs.in}}, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 16", server: novin.setareabi.uk, port: 443, type: vmess, uuid: 423da6b9-dc6c-47aa-a39b-9cc6822e6be3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 17", server: novin.setareabi.uk, port: 443, type: vmess, uuid: 423da6b9-dc6c-47aa-a39b-9cc6822e6be3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155, server: mijuy.1x8.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: mijuy.1x8.indevs.in}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 12", server: novin.setareabi.uk, port: 443, type: vmess, uuid: 423da6b9-dc6c-47aa-a39b-9cc6822e6be3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 13", server: novin.setareabi.uk, port: 443, type: vmess, uuid: 423da6b9-dc6c-47aa-a39b-9cc6822e6be3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 18", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm | چنل تلگرام ما", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @configraygan 1", server: tr1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -549,19 +526,18 @@ proxies:
   - {name: "| null | 99999ms | @configraygan 2 2", server: uk1.iranishops.com, port: 443, type: vmess, uuid: b8507e0e-89f1-52b5-9a24-62632cb40b28, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | channel : sobhanaryaa 🦁☀️", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @airdrop2033 2", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 19", server: v2iran.lookiran2.ir, port: 62758, type: vmess, uuid: 187e7fa0-1819-43d9-bdf9-bc683711591e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 20", server: v2iran.lookiran2.ir, port: 62758, type: vmess, uuid: 187e7fa0-1819-43d9-bdf9-bc683711591e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 21", server: v2iran.lookiran2.ir, port: 62758, type: vmess, uuid: 187e7fa0-1819-43d9-bdf9-bc683711591e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 22", server: vipsoso.netkhorplus.ir, port: 23769, type: vmess, uuid: 8432e766-dd04-49ac-9a03-9018d5506d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 23", server: vipsoso.netkhorplus.ir, port: 23769, type: vmess, uuid: 8432e766-dd04-49ac-9a03-9018d5506d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 14", server: v2iran.lookiran2.ir, port: 62758, type: vmess, uuid: 187e7fa0-1819-43d9-bdf9-bc683711591e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 15", server: v2iran.lookiran2.ir, port: 62758, type: vmess, uuid: 187e7fa0-1819-43d9-bdf9-bc683711591e, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 16", server: vipsoso.netkhorplus.ir, port: 23769, type: vmess, uuid: 8432e766-dd04-49ac-9a03-9018d5506d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 17", server: vipsoso.netkhorplus.ir, port: 23769, type: vmess, uuid: 8432e766-dd04-49ac-9a03-9018d5506d4d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministammتلگرام", server: 87.107.187.210, port: 2001, type: vmess, uuid: 64c73489-e741-9bd2-86ca-5e90a23760ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm", server: cip.1iii1.de, port: 443, type: vmess, uuid: 83df5028-1637-4760-858e-bbacaab4b9b1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm 2", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm 3", server: 87.107.187.210, port: 2001, type: vmess, uuid: 64c73489-e741-9bd2-86ca-5e90a23760ae, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 24", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 18", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @saministamm 4", server: sdl5.shahramv1.site, port: 80, type: vmess, uuid: 24dda44e-5fac-4378-9596-d5301064c47a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 25", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| null | 99999ms | @filembad 26", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 19", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 20", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -578,56 +554,34 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -635,23 +589,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -662,75 +615,52 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -738,23 +668,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -765,75 +694,52 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -841,23 +747,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -868,19 +773,18 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -896,56 +800,34 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -953,23 +835,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -980,75 +861,52 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -1056,23 +914,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -1083,75 +940,52 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🗾 prrofile_purple@"
-      - 🇳🇱 | NL | 336ms | @tel_melli
-      - 🇳🇱 | NL | 623ms | @configraygan تلگراممون
+      - "| null | 99999ms | @configraygan → چنل"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
-      - "| null | 99999ms | تست کیانت"
-      - "| null | 99999ms | @meliproxyy"
-      - "| null | 99999ms | @vasl_bashim"
-      - "| null | 99999ms | @configraygan |"
-      - "| null | 99999ms | test-test"
-      - "| null | 99999ms | @V2icy"
-      - "| null | 99999ms | @filembad 3"
-      - "| null | 99999ms | @filembad 4"
-      - "| null | 99999ms | @proxy_kafee"
-      - "| null | 99999ms | @vasl_bashim 2"
-      - "| null | 99999ms | Kia_net"
-      - "| null | 99999ms | تلگرام : @Vpn_Sky"
-      - "| null | 99999ms | 🔥 Telegram: @wiki_tajrobe"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
-      - "| null | 99999ms | برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩"
-      - "| null | 99999ms | @ByGFW"
-      - "| null | 99999ms | @configraygan تلگراممون"
-      - "| null | 99999ms | @configraygan → چنل"
-      - "| null | 99999ms | @filembad 5"
-      - "| null | 99999ms | @filembad 6"
       - "| null | 99999ms | @vasl_bashim Psiphon"
-      - "| null | 99999ms | @vasl_bashim 3"
+      - "| null | 99999ms | @vasl_bashim"
       - "| null | 99999ms | 💚 hamedvpns ❤️"
       - "| null | 99999ms | @tel_melli"
       - "| null | 99999ms | 🐧 @SizVpn"
+      - "| null | 99999ms | @filembad 3"
+      - "| null | 99999ms | @filembad 4"
+      - "| null | 99999ms | @filembad 5"
+      - "| null | 99999ms | @filembad 6"
+      - "| KZ | 1163ms | [🪸Tel⚡️ @Kia_Net ⚡️"
+      - 🇦🇺 | AU | 1563ms | @vasl_bashim
       - "| null | 99999ms | @filembad 7"
-      - "| null | 99999ms | @filembad 8"
-      - "| null | 99999ms | @filembad 9"
-      - "| null | 99999ms | @filembad 10"
-      - "| KZ | 877ms | [🪸Tel⚡️ @Kia_Net ⚡️"
-      - 🇦🇺 | AU | 2593ms | @vasl_bashim
-      - "| null | 99999ms | @filembad 11"
-      - 🇦🇺 | AU | 3479ms | @v2rayconfigamir 3520
+      - 🇦🇺 | AU | 3487ms | @v2rayconfigamir 3520
       - "| null | 99999ms | 🇦🇺 Join+Telegram:@Farah_VPN 🇦🇺"
-      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 8"
       - "| null | 99999ms | 🇩🇪@FreakConfig"
       - "| null | 99999ms | تلگرام | @configraygan"
-      - "| null | 99999ms | @filembad 13"
+      - "| null | 99999ms | @filembad 9"
       - "| null | 99999ms | @configraygan | تلگرام"
-      - "| null | 99999ms | @configraygan | 2"
+      - "| null | 99999ms | @configraygan |"
       - "| null | 99999ms | @airdrop2033"
       - "| null | 99999ms | @configraygan"
       - "| null | 99999ms | @configraygan A11"
       - "| null | 99999ms | @saministamm || جوین باشید تلگرام"
-      - "| null | 99999ms | @meliproxyy 2"
+      - "| null | 99999ms | @meliproxyy"
       - "| null | 99999ms | open_net_vpn"
       - "| null | 99999ms | @tel_melli 2"
       - "| null | 99999ms | @configraygan 2"
@@ -1159,23 +993,22 @@ proxy-groups:
       - "| null | 99999ms | @configraygan A12"
       - "| null | 99999ms | @configraygan A13"
       - "| null | 99999ms | @configraygan A10"
-      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @Kia_Net"
-      - "| null | 99999ms | @filembad 15"
-      - "| null | 99999ms | @vasl_bashim 4"
+      - "| null | 99999ms | @filembad 11"
+      - "| null | 99999ms | @vasl_bashim 2"
       - "| null | 99999ms | چنل تلگراممون @configraygan"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🪐 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🫟 TelegramID ⌲Express_freevpn"
-      - "| null | 99999ms | @v2rayconfigamir 5155"
-      - "| null | 99999ms | @filembad 16"
-      - "| null | 99999ms | @filembad 17"
+      - 🇺🇸 | US | 4566ms | @v2rayconfigamir 5155
+      - "| null | 99999ms | @filembad 12"
+      - "| null | 99999ms | @filembad 13"
       - "| null | 99999ms | @Kia_net || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | برای کانفیگای بیشتر جوین باشید تلگرام"
       - "| null | 99999ms | @saministamm | چنل تلگرام ما"
       - "| null | 99999ms | @saministamm || چنل تگلراممون 🚀🚀"
-      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️ 2"
+      - "| null | 99999ms | 🪸Tel⚡️ @Kia_Net ⚡️"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🖲️ TelegramID ⌲Express_freevpn"
       - "| null | 99999ms | برای اتصال دائمی جوین شو🦋 TelegramID ⌲Express_freevpn 🪩"
       - "| null | 99999ms | @configraygan 1"
@@ -1186,19 +1019,18 @@ proxy-groups:
       - "| null | 99999ms | @configraygan 2 2"
       - "| null | 99999ms | channel : sobhanaryaa 🦁☀️"
       - "| null | 99999ms | @airdrop2033 2"
-      - "| null | 99999ms | @filembad 19"
-      - "| null | 99999ms | @filembad 20"
-      - "| null | 99999ms | @filembad 21"
-      - "| null | 99999ms | @filembad 22"
-      - "| null | 99999ms | @filembad 23"
+      - "| null | 99999ms | @filembad 14"
+      - "| null | 99999ms | @filembad 15"
+      - "| null | 99999ms | @filembad 16"
+      - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | @saministammتلگرام"
       - "| null | 99999ms | @saministamm"
       - "| null | 99999ms | @saministamm 2"
       - "| null | 99999ms | @saministamm 3"
-      - "| null | 99999ms | @filembad 24"
+      - "| null | 99999ms | @filembad 18"
       - "| null | 99999ms | @saministamm 4"
-      - "| null | 99999ms | @filembad 25"
-      - "| null | 99999ms | @filembad 26"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @filembad 20"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -31,16 +31,17 @@ proxies:
   - {name: 15.188.96.111:22222, server: 15.188.96.111, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.33.171:22222, server: 15.224.33.171, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.171.45:22222, server: 3.127.171.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.127.99.68:22222, server: 3.127.99.68, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.235.19:22222, server: 3.69.235.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.200.241:22222, server: 51.44.200.241, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.98.27:22222, server: 51.44.98.27, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.114.17:22222, server: 52.28.114.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.176.126.9:22222, server: 63.176.126.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.124.201:22222, server: 63.183.124.201, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.93.61:22222, server: 63.183.93.61, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2982", server: ghyu.huangzi.cfd, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 00a9b792-2bb4-437b-9228-565c1c994f1c, network: ws, ws-opts: {path: /9ELnrxvuY6f5UlQSLlXnsEj2y6, headers: {Host: ghyu.huangzi.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4557", server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4416", server: kz-general.vps-m.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0509acee-63e3-4364-95cc-21c601f059be, servername: booking.com, host: booking.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe", server: sw.truetunnel.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b9d4217-e627-46b9-8342-fa5463bdbcde, servername: sw.truetunnel.xyz, host: sw.truetunnel.xyz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VZ45JY_rFdpprcZhHnO_pxs0tm5XFyE7h6Yv_HVbJQg, short-id: fd4f56d0fd822539}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3799", server: 144.31.131.224, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ee2d410-3e64-4c41-a571-3e5d2b5b8982, servername: mold.speedload.online, host: mold.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1756", server: www.speedtest.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 17a7bf97-fef5-4101-a5c5-7c730fabeeee, servername: bpb-worker-panel-h5f.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: bpb-worker-panel-h5f.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxymelimon 2, server: DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1eab4b77-893d-4182-a86a-a213ef23f3af, host: speedtest.net., path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -110,7 +111,7 @@ proxies:
   - {name: "@v2rayconfigamir 1482", server: 45.89.52.207, port: 39651, type: vmess, uuid: ac4c12c5-45f2-4398-a718-9983941ede2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3520", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6, server: 143.204.111.65, port: 80, type: vmess, uuid: 7d969bec-ed21-40ae-8cca-1963e9a61316, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: d34r735owjqb9a.cloudfront.net}}, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "Telegram: @wiki_tajrobe 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@ByGFW", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5155", server: mijuy.1x8.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: mijuy.1x8.indevs.in}}, udp: true, tfo: false}
 proxy-groups:
@@ -145,16 +146,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -224,7 +226,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: ♻️ 自动选择
@@ -259,16 +261,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -338,7 +341,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: 🌍 国外媒体
@@ -373,16 +376,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -452,7 +456,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: 📲 电报信息
@@ -486,16 +490,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -565,7 +570,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: Ⓜ️ 微软服务
@@ -599,16 +604,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -678,7 +684,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: 🍎 苹果服务
@@ -712,16 +718,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -791,7 +798,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
   - name: 🎯 全球直连
@@ -847,16 +854,17 @@ proxy-groups:
       - 15.188.96.111:22222
       - 15.224.33.171:22222
       - 3.127.171.45:22222
+      - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
-      - 63.176.126.9:22222
       - 63.183.124.201:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 2982"
       - "@v2rayconfigamir 4557"
       - "@v2rayconfigamir 4416"
+      - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 1756"
       - proxymelimon 2
@@ -926,7 +934,7 @@ proxy-groups:
       - "@v2rayconfigamir 1482"
       - "@v2rayconfigamir 3520"
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@ 6
-      - "Telegram: @wiki_tajrobe"
+      - "Telegram: @wiki_tajrobe 2"
       - "@ByGFW"
       - "@v2rayconfigamir 5155"
 rules:

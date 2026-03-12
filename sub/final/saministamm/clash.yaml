@@ -465,8 +465,11 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@LoopLine`", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
+  - {name: "@LoopLine", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@saministamm | چنل ما فقط تلگرام`", server: 95.216.238.249, port: 37337, type: ss, cipher: 2022-blake3-aes-256-gcm, password: //LyDYm8vjAErg1pMRZWWquR87izJSDlhhcmEKcLzYo=:wxa2PKbF0/1UrRiBoeWNzaLVFq366HG75IYS+FjU7Oc=, udp: true, tfo: false}
   - {name: 102.37.237.190:443, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
+  - {name: "@LoopLine 2", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "telegram: @saministamm 🌟", server: mandanishop.info, port: 2084, type: ss, cipher: chacha20-ietf-poly1305, password: mmHliN3hFqpjNlYXHsxz5Y, udp: true, tfo: false}
   - {name: "@saministamm | تلگراممون جوین باشید`", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام`", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -530,6 +533,7 @@ proxies:
   - {name: "@saministamm | جوین باشید` 2", server: g2-tun-nl.a1mshop2.xyz, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: ec5d6e60-e7c8-4275-b4bd-ddcb85df1108, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 107.175.134.127:443, server: 107.175.134.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @saministamm - US 198-vless, server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@LoopLine 3", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm`, server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministammبیا تلگرام", server: ch.topspeedarash.com, port: 4354, type: vmess, uuid: b3dbf55e-d87e-4ca1-82d3-83c47e2d5bb5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@V2icy", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -558,8 +562,11 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -623,6 +630,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
@@ -641,8 +649,11 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -706,6 +717,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
@@ -724,8 +736,11 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -789,6 +804,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
@@ -816,8 +832,11 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -881,6 +900,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
@@ -899,8 +919,11 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -964,6 +987,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
@@ -982,8 +1006,11 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@LoopLine`"
+      - "@LoopLine"
       - "@saministamm | چنل ما فقط تلگرام`"
       - 102.37.237.190:443
+      - "@LoopLine 2"
       - "telegram: @saministamm 🌟"
       - "@saministamm | تلگراممون جوین باشید`"
       - "@saministamm | تلگرام`"
@@ -1047,6 +1074,7 @@ proxy-groups:
       - "@saministamm | جوین باشید` 2"
       - 107.175.134.127:443
       - 🇺🇸 @saministamm - US 198-vless
+      - "@LoopLine 3"
       - saministamm`
       - "@saministammبیا تلگرام"
       - "@V2icy"
