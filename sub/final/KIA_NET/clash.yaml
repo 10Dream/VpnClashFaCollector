@@ -465,9 +465,13 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
+  - {name: "@Kia_Net", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
+  - {name: "@Kia_Net 2", server: 107.175.134.127, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==, udp: true, tfo: false}
+  - {name: "@Kia_Net 3", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️`, server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252Fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: "🇫🇷 [Kia_net] vless-FR", server: fsdns.ectunnelvpn.me, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 15cbab96-197e-46a5-9042-073b3980c798, network: ws, ws-opts: {path: /vless, headers: {Host: fsdns.ectunnelvpn.me}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ - 🦠`, server: 85.133.214.67, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f39feb4-3dc2-bb55-3db2-bfe2363c0ab0, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Kia_Net 4", server: 85.133.214.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f39fef1-7887-fe10-78f7-faa773794f24, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️, server: emg5.saipasamandemg5.sbs, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: 231403ff-8615-43d5-ae2d-1935a1900709, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️` 2, server: emg5.saipasamandemg5.sbs, port: 2005, type: vless, tls: true, packet-encoding: xudp, uuid: 231403ff-8615-43d5-ae2d-1935a1900709, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 2, server: 37.202.248.51, port: 3333, type: vless, tls: true, packet-encoding: xudp, uuid: 4087bf26-2272-4300-bf13-15e58cdf8417, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -494,13 +498,19 @@ proxies:
   - {name: "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️", server: 194.37.80.234, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8bcc90ea-7627-4797-b83e-71fafb9ec770, network: ws, ws-opts: {path: /, headers: {Host: dl.vtnet.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️` 4, server: 194.37.80.234, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 8bcc90ea-7627-4797-b83e-71fafb9ec770, network: ws, ws-opts: {path: /, headers: {Host: dl.vtnet.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4", server: 46.38.150.38, port: 22560, type: vless, tls: true, packet-encoding: xudp, uuid: 97fca2a8-1f53-44cd-8753-2d3d261c88ac, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇵🇱 [kia_net] vless-PL`", server: 144.31.2.248, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065, servername: pl.fasti.win, host: pl.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs, short-id: feedbacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🪸Tel⚡️ @Kia_Net ⚡️", server: midorinote.ru, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9, servername: tradingview.com, host: tradingview.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY, short-id: f7aa9e61197d3ac6}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_net |فقط تلگرام داشته باشید", server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 4, server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: موقت`, server: yumyum.spacesystems.shop, port: 20354, type: vless, tls: true, packet-encoding: xudp, uuid: c5389214-cb57-4be4-8e5f-58d0337ff244, host: yumyum.spacesystems.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: kia`, server: yumyum.spacesystems.shop, port: 20354, type: vless, tls: true, packet-encoding: xudp, uuid: c5389214-cb57-4be4-8e5f-58d0337ff244, host: yumyum.spacesystems.shop, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 5, server: e357d4d5-98ce-4658-8c17-85edf0070fbb.hsvc.ir, port: 32061, type: vless, tls: true, packet-encoding: xudp, uuid: cbb6913b-1c5f-45f9-8e5a-bc42f81e5332, host: e357d4d5-98ce-4658-8c17-85edf0070fbb.hsvc.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "`", server: ae.cdn.stun.su, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: eb071647-72a6-46be-8e89-ff3d228d52f6, servername: ae.cdn.stun.su, host: ae.cdn.stun.su, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: xJIswEHrphk8LCn-DyJxw4uypPkouxPgNsfiyjRU-3w, short-id: 41a0b29e95aaea87}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Kia_Net 5", server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Kia_Net 6", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تست کیانت, server: 188.121.119.172, port: 1010, type: vmess, uuid: 3fa06c55-df4b-47de-8ff2-409470338a3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 6, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: Kia_net, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🪸Tel⚡️ @Kia_Net ⚡️ 2", server: 38.107.234.57, port: 80, type: vmess, uuid: 567f4be5-12ab-42e1-b8d9-db6fd1fdd31c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️ 7, server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -519,9 +529,13 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -548,13 +562,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: خودکار (بهترین پینگ) 🤖
@@ -563,9 +583,13 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -592,13 +616,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -607,9 +637,13 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -636,13 +670,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: اتصال پایدار 🔗
@@ -660,9 +700,13 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -689,13 +733,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: توزیع بار (گردشی) 🔁
@@ -704,9 +754,13 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -733,13 +787,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: توزیع بار (موقت) ⏳
@@ -748,9 +808,13 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
+      - "@Kia_Net"
+      - "@Kia_Net 2"
+      - "@Kia_Net 3"
       - Tel⚡️ @Kia_Net ⚡️`
       - 🇫🇷 [Kia_net] vless-FR
       - Tel⚡️ @Kia_Net ⚡️ - 🦠`
+      - "@Kia_Net 4"
       - Tel⚡️ @Kia_Net ⚡️
       - Tel⚡️ @Kia_Net ⚡️` 2
       - Tel⚡️ @Kia_Net ⚡️ 2
@@ -777,13 +841,19 @@ proxy-groups:
       - "[🇩🇪]🪸Tel⚡️ @Kia_Net ⚡️"
       - Tel⚡️ @Kia_Net ⚡️` 4
       - "[🇮🇷]🪸Tel⚡️ @Kia_Net ⚡️ 4"
+      - 🇵🇱 [kia_net] vless-PL`
       - "[🪸Tel⚡️ @Kia_Net ⚡️"
       - "@Kia_net |فقط تلگرام داشته باشید"
       - Tel⚡️ @Kia_Net ⚡️ 4
+      - موقت`
+      - kia`
       - Tel⚡️ @Kia_Net ⚡️ 5
       - "`"
+      - "@Kia_Net 5"
+      - "@Kia_Net 6"
       - تست کیانت
       - Tel⚡️ @Kia_Net ⚡️ 6
+      - Kia_net
       - "[🪸Tel⚡️ @Kia_Net ⚡️ 2"
       - Tel⚡️ @Kia_Net ⚡️ 7
   - name: دانلود منیجر 📥

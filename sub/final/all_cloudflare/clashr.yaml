@@ -6,11 +6,9 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 74@oneclickvpnkeys, server: cf.877774.xyz, port: 2087, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
-  - {name: "@filembad`", server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
   - {name: 34@oneclickvpnkeys, server: mfa.gov.ua, port: 2096, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
   - {name: 65@oneclickvpnkeys, server: www.shopify.com, port: 2053, type: trojan, password: 22367c45-f6c4-4ca8-8d52-d9787d7bbe91, sni: cm22-bgphhh.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: cm22-bgphhh.pages.dev}}, udp: true, tfo: false}
   - {name: 67@oneclickvpnkeys, server: 108.162.198.247, port: 443, type: trojan, password: 823cbccd-3a71-4248-ac3c-3c460de1552d, sni: snll100.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: snll100.pages.dev}}, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 32@oneclickvpnkeys, server: 190.93.244.43, port: 8443, type: trojan, password: Nova-Proxy, sni: small-morning-2668.drusavm.workers.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/?ed", headers: {Host: small-morning-2668.drusavm.workers.dev}}, udp: true, tfo: false}
   - {name: 21@oneclickvpnkeys, server: 104.16.63.239, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 04969b01-ac6a-4056-b5cd-852ccf45f100, network: ws, ws-opts: {path: /, headers: {Host: netherlands.vipserver14.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51@oneclickvpnkeys, server: 162.159.152.17, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 081efe27-f6b8-4f60-aedb-3c9effe9c67d, servername: 80bab3a2.gon-7ye.pages.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: 80bab3a2.gon-7ye.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -21,10 +19,10 @@ proxies:
   - {name: 78@oneclickvpnkeys, server: 104.21.0.128, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72@oneclickvpnkeys, server: 172.67.150.247, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 82@oneclickvpnkeys, server: myserviran.serviran.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 38715482-05f5-4ea0-aebf-60d3b8c71f30, servername: myserviran.serviran.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: myserviran.serviran.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 162.159.152.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 396c904b-4b62-4334-b793-ee25fc0c61cc, servername: pages.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 162.159.152.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 396c904b-4b62-4334-b793-ee25fc0c61cc, servername: pages.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 162.159.152.4, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 396c904b-4b62-4334-b793-ee25fc0c61cc, servername: pages.dev, network: ws, ws-opts: {path: "/eyJqdW5rIjoiTHczMWlhREZIb0ljUDhoaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560", headers: {Host: pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: chatgpt.com:443, server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 2", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b", server: chatgpt.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 425ef0c5-4e79-4aa5-bf9e-b847a0f73601, servername: telegram.vpnazadie.store, network: ws, ws-opts: {path: /vless-tls, headers: {Host: telegram.vpnazadie.store}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -52,28 +50,21 @@ proxies:
   - {name: 90@oneclickvpnkeys`, server: 172.67.187.251, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sant.atira-40.workers.dev, alpn: [http%2F1.1], network: ws, ws-opts: {path: /sni.111000.dynv6.net/, headers: {Host: sant.atira-40.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77@oneclickvpnkeys, server: 172.67.192.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: nameless-heart-02e4.ariya-696.workers.dev, network: ws, ws-opts: {path: /sni.111000.dynv6.net/, headers: {Host: nameless-heart-02e4.ariya-696.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93@oneclickvpnkeys, server: stock.hostmonit.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: empty-dawn-c148.elenac4.workers.dev, network: ws, ws-opts: {path: /sni.111000.dynv6.net/, headers: {Host: empty-dawn-c148.elenac4.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: go.inmobi.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35@oneclickvpnkeys, server: go.inmobi.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 656bb400-3b7a-47e3-94b0-0362f3865072, servername: socks5.revil-time3.workers.dev, network: ws, ws-opts: {path: /socks5://128.140.46.169:13482, headers: {Host: socks5.revil-time3.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: " ", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 6", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 7", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 8", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2096, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 3", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096 3, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2096 2, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 4", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: "/?TELEGRAM-?ed=512", headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 9", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 2", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 10", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096 4, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 11", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2096 3, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 3", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 5", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: chatgpt.com:2096 5, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: chatgpt.com:2096 4, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan 3", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 6", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http/1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 38@oneclickvpnkeys, server: 104.19.151.106, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 73d17f62-d0c0-4c90-903c-a2b3f3806cca, network: ws, ws-opts: {path: /, headers: {Host: fragrant-tooth-a5b7.cajeba6448.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -106,7 +97,6 @@ proxies:
   - {name: "***✅***@AR14N24b 8", server: 104.24.39.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf4c614f-c46d-4db9-b031-62f7e4b85c2c, servername: hex.1tb.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: hex.1tb.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "More : @configraygan", server: 104.24.39.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf4c614f-c46d-4db9-b031-62f7e4b85c2c, servername: hex.1tb.workers.dev, network: ws, ws-opts: {path: ws, headers: {Host: hex.1tb.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: 104.18.2.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 12", server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 31@oneclickvpnkeys, server: 104.18.3.11, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 62@oneclickvpnkeys, server: www.visaeurope.at, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: cb213db5-803d-49dd-a7e2-46d938af0751, network: ws, ws-opts: {path: /, headers: {Host: amiroo-l43dac88-v2.amiroo-d8b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 53@oneclickvpnkeys, server: 104.20.5.134, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: d342d11e-d424-4583-b36e-524ab1f0afa4, network: ws, ws-opts: {path: /PdgTMW8NBNZYo6L23v, headers: {Host: index.0x15.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -127,11 +117,9 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -142,10 +130,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -173,28 +161,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -227,7 +208,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -248,11 +228,9 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -263,10 +241,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -294,28 +272,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -348,7 +319,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -369,11 +339,9 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -384,10 +352,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -415,28 +383,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -469,7 +430,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -489,11 +449,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -504,10 +462,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -535,28 +493,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -589,7 +540,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -609,11 +559,9 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -624,10 +572,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -655,28 +603,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -709,7 +650,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -729,11 +669,9 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -744,10 +682,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -775,28 +713,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -829,7 +760,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys
@@ -871,11 +801,9 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 74@oneclickvpnkeys
-      - "@filembad`"
       - 34@oneclickvpnkeys
       - 65@oneclickvpnkeys
       - 67@oneclickvpnkeys
-      - "@filembad` 2"
       - 32@oneclickvpnkeys
       - 21@oneclickvpnkeys
       - 51@oneclickvpnkeys
@@ -886,10 +814,10 @@ proxy-groups:
       - 78@oneclickvpnkeys
       - 72@oneclickvpnkeys
       - 82@oneclickvpnkeys
-      - "@filembad` 3"
+      - "@filembad`"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - chatgpt.com:443
-      - "@filembad` 4"
+      - "@filembad` 2"
       - "@vasl_bashim"
       - "@configraygan"
       - "***✅***@AR14N24b"
@@ -917,28 +845,21 @@ proxy-groups:
       - 90@oneclickvpnkeys`
       - 77@oneclickvpnkeys
       - 93@oneclickvpnkeys
-      - "@filembad` 5"
       - 35@oneclickvpnkeys
-      - chatgpt.com:2096
       - " "
-      - "@filembad` 6"
       - "@tel_melli"
-      - "@filembad` 7"
-      - chatgpt.com:2096 2
-      - "@filembad` 8"
+      - chatgpt.com:2096
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩 2
       - "***✅***@AR14N24b 3"
-      - chatgpt.com:2096 3
+      - chatgpt.com:2096 2
       - "@configraygan 2"
       - "***✅***@AR14N24b 4"
-      - "@filembad` 9"
       - "@tel_melli 2"
-      - "@filembad` 10"
-      - chatgpt.com:2096 4
-      - "@filembad` 11"
+      - chatgpt.com:2096 3
+      - "@filembad` 3"
       - برای اتصال دائمی جوین شو🗾 TelegramID ⌲Express_freevpn 🪩`
       - "***✅***@AR14N24b 5"
-      - chatgpt.com:2096 5
+      - chatgpt.com:2096 4
       - "@configraygan 3"
       - "***✅***@AR14N24b 6"
       - 38@oneclickvpnkeys
@@ -971,7 +892,6 @@ proxy-groups:
       - "***✅***@AR14N24b 8"
       - "More : @configraygan"
       - 19@oneclickvpnkeys
-      - "@filembad` 12"
       - 31@oneclickvpnkeys
       - 62@oneclickvpnkeys
       - 53@oneclickvpnkeys

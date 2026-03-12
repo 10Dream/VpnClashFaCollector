@@ -466,13 +466,12 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: NetAccount, server: 94.131.123.86, port: 35361, type: ss, cipher: chacha20-ietf-poly1305, password: g0UgfsdXOhn8McpdHpWcmo, udp: true, tfo: false}
+  - {name: NetAccount 2, server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
   - {name: جوین شو تلگرام | @ServalVpn`, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SryLove", server: b1.msjia8844.site, port: 2020, type: vless, tls: true, packet-encoding: xudp, uuid: 2603ae77-ed37-4c7a-af8f-c6b878748c4e, host: b1.msjia8844.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: تلگراممون |V2rayWT_config@`, server: 79.127.40.197, port: 30118, type: vless, tls: true, packet-encoding: xudp, uuid: 2d210fde-7afa-47e0-bfd1-954bd5abd41b, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Nftvici`", server: sdl15.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3899ada4-de68-4ed9-9fae-8745410e4149, host: sdl15.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm`, server: 85.9.125.31, port: 50856, type: vless, tls: true, packet-encoding: xudp, uuid: 5314cf70-802c-4dc7-91cb-b50a597a44b3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: پنل اختصاصی TM 🚀, server: sdl9.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 93afe2a7-84b5-49a7-89d6-61d42067e32f, host: sdl9.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Nftvici | تلگزام`", server: s1.choosename.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cfba2ce4-a114-49e0-8d11-0738dcc26afb, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: c1.msjia8844.site:31532, server: c1.msjia8844.site, port: 31532, type: vless, tls: true, packet-encoding: xudp, uuid: dab667ce-f06a-4533-a369-ee2925ca6ec6, host: c1.msjia8844.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: جوین شو تلگرام | @ServalVpn` 2, server: emg3.saipasamandemg3.sbs, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: f75305e2-de53-4add-acc8-f9308394f5a4, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: test-test, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -494,13 +493,12 @@ proxy-groups:
     type: select
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
@@ -512,13 +510,12 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
@@ -530,13 +527,12 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
@@ -557,13 +553,12 @@ proxy-groups:
     interval: 600
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
@@ -575,13 +570,12 @@ proxy-groups:
     interval: 600
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
@@ -593,13 +587,12 @@ proxy-groups:
     interval: 600
     proxies:
       - "@`"
+      - NetAccount
+      - NetAccount 2
       - جوین شو تلگرام | @ServalVpn`
       - "@SryLove"
-      - تلگراممون |V2rayWT_config@`
-      - "@Nftvici`"
       - saministamm`
       - پنل اختصاصی TM 🚀
-      - "@Nftvici | تلگزام`"
       - c1.msjia8844.site:31532
       - جوین شو تلگرام | @ServalVpn` 2
       - test-test
