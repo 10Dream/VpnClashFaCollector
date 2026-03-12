@@ -25,13 +25,17 @@ proxies:
   - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585 2, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585 3, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: 3963@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 92.242.217.200:2060, server: 92.242.217.200, port: 2060, type: socks5, username: erfan, password: !<str> 147369, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020 2, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.122.212:1088, server: 93.115.122.212, port: 1088, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.101.181.95:55630, server: 94.101.181.95, port: 55630, type: socks5, username: wXYTxkcQIy, password: AojUo8ToDE, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.182.195.60:9090, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9m@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.182.195.60:9090 2, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxy.toolip.io:31115, server: proxy.toolip.io, port: 31115, type: socks5, username: 72d4da2e, password: k1ofdcs7e9mv, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 95.142.229.6:65531, server: 95.142.229.6, port: 65531, type: socks5, username: majid, password: $$Majid$$, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: azir_proxy_ezterar.viramon.net:3389, server: azir_proxy_ezterar.viramon.net, port: 3389, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: azir_proxy_ezterar.viramon.net:53, server: azir_proxy_ezterar.viramon.net, port: 53, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: azir_proxy_ezterar2.viramon.net:8080, server: azir_proxy_ezterar2.viramon.net, port: 8080, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -58,13 +62,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -91,13 +99,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -124,13 +136,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: 📲 电报信息
     type: select
     proxies:
@@ -156,13 +172,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -188,13 +208,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -220,13 +244,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -274,13 +302,17 @@ proxy-groups:
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
       - 87.248.156.106:8585 3
+      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
       - 93.115.122.212:1088
       - 94.101.181.95:55630
       - 94.182.195.60:9090
       - 94.182.195.60:9090 2
-      - proxy.toolip.io:31115
+      - 95.142.229.6:65531
+      - azir_proxy_ezterar.viramon.net:3389
+      - azir_proxy_ezterar.viramon.net:53
+      - azir_proxy_ezterar2.viramon.net:8080
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
