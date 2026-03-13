@@ -466,8 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: 167.86.100.40:11801, server: 167.86.100.40, port: 11801, type: hysteria2, ports: 11801, password: 00a40f88-0900-4c29-9555-cf053a23071b, obfs: salamander, obfs-password: pGBT2RES32Gr7S8DQx, sni: 167.86.100.40, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: 167.86.100.40, port: 11801, type: hysteria2, ports: 11801, password: 00a40f88-0900-4c29-9555-cf053a23071b, obfs: salamander, obfs-password: pGBT2RES32Gr7S8DQx, sni: 167.86.100.40, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim", server: 167.86.100.40, port: 11801, type: hysteria2, ports: 11801, password: 00a40f88-0900-4c29-9555-cf053a23071b, obfs: salamander, obfs-password: pGBT2RES32Gr7S8DQx, sni: 167.86.100.40, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 181.214.99.162:35000, server: 181.214.99.162, port: 35000, type: hysteria2, ports: 35000, password: b4bd0613-ff7c-4f2f-954d-185915e6ddad, obfs: salamander, obfs-password: "%40JavidnamanIran-Javid-SHAH-KingRezaPahlavi", sni: api.kermanshahi.org, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93@oneclickvpnkeys, server: tr.xn--ehqa22b.site, port: 21150, type: hysteria2, ports: 21150, password: bd470fb8-73fd-455b-b8ae-e0fc9f44258b, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13@oneclickvpnkeys, server: 150.241.79.106, port: 1935, type: hysteria2, ports: 1935, password: hysteria2_fastlane_qdx4o19um%3Ae6RGEpPpn2oiHxqlbReEFpJZr09OiVlb, sni: de2.h.fastlanehosting.ru, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87@oneclickvpnkeys, server: 138.124.183.9, port: 1935, type: hysteria2, ports: 1935, password: usa_hysteria2_fastlane_8f058mdni%3AMnvG1G7uEPzQXKinBIOyWPAwICrVq9x4, sni: us1.h.smartaisupport.ru, skip-cert-verify: false, udp: true, tfo: false}
@@ -488,8 +488,8 @@ proxy-groups:
     type: select
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys
@@ -500,8 +500,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys
@@ -512,8 +512,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys
@@ -533,8 +533,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys
@@ -545,8 +545,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys
@@ -557,8 +557,8 @@ proxy-groups:
     interval: 600
     proxies:
       - 167.86.100.40:11801
+      - "@filembad`"
       - "@vasl_bashim"
-      - 181.214.99.162:35000
       - 93@oneclickvpnkeys
       - 13@oneclickvpnkeys
       - 87@oneclickvpnkeys

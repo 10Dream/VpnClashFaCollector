@@ -9,9 +9,9 @@ proxies:
   - {name: 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111, server: 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir, port: 31111, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.122.246.116:21491, server: 109.122.246.116, port: 21491, type: socks5, username: "@rastin0x", password: "@aeronode0", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 171.22.27.147:1080, server: 171.22.27.147, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.121.131.11:443, server: 185.121.131.11, port: 443, type: socks5, username: 1, password: !<str> 11, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.121.119.161:1080, server: 188.121.119.161, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.99.41:9900, server: 188.121.99.41, port: 9900, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.99.41:9900@proxy_kafee, server: 188.121.99.41, port: 9900, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.111:111, server: 2.144.20.111, port: 111, type: socks5, username: YQK6EF5RPl, password: cGJ7YhqrHW, skip-cert-verify: false, udp: true, tfo: false}
@@ -22,8 +22,7 @@ proxies:
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080 2, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 87.248.156.106:8585 2, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 87.248.156.106:8585 3, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: 3963@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.156.106:8585 2, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: 3963@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.242.217.200:2060, server: 92.242.217.200, port: 2060, type: socks5, username: erfan, password: !<str> 147369, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020 2, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
@@ -43,9 +42,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -57,7 +56,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -77,9 +75,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -91,7 +89,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -111,9 +108,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -125,7 +122,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -144,9 +140,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -158,7 +154,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -177,9 +172,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -191,7 +186,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -210,9 +204,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -224,7 +218,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2
@@ -265,9 +258,9 @@ proxy-groups:
       - 0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir:31111
       - 109.122.246.116:21491
       - 127.0.0.1:1080
+      - 127.0.0.1:10808
       - 171.22.27.147:1080
       - 185.121.131.11:443
-      - 188.121.119.161:1080
       - 188.121.99.41:9900
       - 188.121.99.41:9900@proxy_kafee
       - 2.144.20.111:111
@@ -279,7 +272,6 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 87.248.156.106:8585
       - 87.248.156.106:8585 2
-      - 87.248.156.106:8585 3
       - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 93.115.120.74:2020 2

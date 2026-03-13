@@ -45,7 +45,6 @@ proxies:
   - {name: iampedi-vless-cdn-8880-sym32ta4, server: 46.225.61.97, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: a4b53348-294d-43be-8549-93055291de3f, network: ws, ws-opts: {path: /ws, headers: {Host: v.iampedi7.live}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-cdn-8880-sym32ta4`, server: 46.225.61.97, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: a4b53348-294d-43be-8549-93055291de3f, network: ws, ws-opts: {path: /ws, headers: {Host: v.iampedi7.live}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ae_proxy 278`, server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: a78d795d-ab77-49dd-8962-f630115f617c, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@", server: 94.101.177.169, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: b6c07d52-0288-4005-9634-b5d4bd661535, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-reality-xtls-vision-user1-reality`, server: 46.225.54.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bf9f84bf-816e-4ba4-a57a-275e376d829d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: F0igUIrZvkGEFQR06kfIWQ_N5ZVrOLyLyhhjv-XFOB0, short-id: 6d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi7+vless+reality-user1-reality, server: 46.225.61.97, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c770e204-e1b5-4faf-bda8-453ca5c7361d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: IZLevmWclj-I9VbsxirjPBBPt78aylepVwL0G7ihJnQ, short-id: 64c8124789507e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 104 VLESS, server: 104.168.82.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -96,7 +95,6 @@ proxies:
   - {name: "Telegram: @wiki_tajrobe", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Maznet-Psighon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_nps بیا تلگراممون", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "channel : sobhanaryaa 🦁☀️", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm", server: ip3.taravat.net, port: 102, type: vmess, uuid: ceb9b687-772b-4569-b5fa-1be84345d6c7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -144,7 +142,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -195,7 +192,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: ♻️ 自动选择
     type: url-test
@@ -243,7 +239,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -294,7 +289,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🌍 国外媒体
     type: select
@@ -342,7 +336,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -393,7 +386,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 📲 电报信息
     type: select
@@ -440,7 +432,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -491,7 +482,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: Ⓜ️ 微软服务
     type: select
@@ -538,7 +528,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -589,7 +578,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🍎 苹果服务
     type: select
@@ -636,7 +624,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -687,7 +674,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
   - name: 🎯 全球直连
     type: select
@@ -756,7 +742,6 @@ proxy-groups:
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
       - Ae_proxy 278`
-      - "@"
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -807,7 +792,6 @@ proxy-groups:
       - "Telegram: @wiki_tajrobe"
       - "@Maznet-Psighon"
       - "@proxy_nps بیا تلگراممون"
-      - "channel : sobhanaryaa 🦁☀️"
       - "@saministamm"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

@@ -2,6 +2,14 @@ trojan://BxceQaOe@43.198.227.190:50446?security=tls&headerType=none&type=tcp&sni
 trojan://MeaDiUmPlkWbZJ2BON8tz@78.159.131.12:28259?allowInsecure=1&sni=ads.x5.ru#
 trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&host=web.teama.tk&type=ws&sni=web.teama.tk#
 trojan://OVsFRZT5jG@172.67.191.189:443?path=%2F&security=tls&insecure=1&host=web.teama.tk&type=ws&allowInsecure=1&sni=web.teama.tk#
+trojan://SamNet2026SecurePass@104.168.82.83:10425?type=tcp&security=none#
+trojan://SamNet2026SecurePass@107.175.134.127:10421?type=tcp&security=none#
+trojan://SamNet2026SecurePass@107.175.134.148:10424?type=tcp&security=none#
+trojan://SamNet2026SecurePass@142.171.65.106:10422?type=tcp&security=none#
+trojan://SamNet2026SecurePass@192.227.173.38:10426?type=tcp&security=none#
+trojan://SamNet2026SecurePass@198.23.188.165:10427?type=tcp&security=none#
+trojan://SamNet2026SecurePass@198.23.249.154:10420?type=tcp&security=none#
+trojan://SamNet2026SecurePass@23.95.113.104:10423?type=tcp&security=none#
 trojan://ZJU29smXwp@172.67.191.189:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#
 trojan://ZJU29smXwp@172.67.68.87:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=Web2.teama.tk#
 trojan://ZJU29smXwp@45.85.118.0:2053?path=%2F&security=tls&host=k.teama.tk&type=ws&sni=web2.teama.tk#
@@ -11,10 +19,8 @@ trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&host=www.cre
 trojan://humanity@172.67.180.92:443?path=%2Fassignment&security=tls&host=www.multiplydose.com&fp=chrome&type=ws&sni=www.multiplydose.com#
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.creationlong.org&type=ws&sni=www.creationlong.org#
 trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com
+trojan://humanity@www.multiplydose.com:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&type=ws&path=%2Fassignment#
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%25252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#
-trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#
-trojan://opentunnel.net-usa30day@15.204.9.172:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#
 trojan://telegram-id-directvpn@13.36.100.6:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@13.36.204.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
 trojan://telegram-id-directvpn@13.36.29.172:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#
