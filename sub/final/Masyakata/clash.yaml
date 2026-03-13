@@ -490,7 +490,6 @@ proxies:
   - {name: 13.36.100.6:22222, server: 13.36.100.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 2", server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Ae_proxy 146`, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 Reality-RU-109, server: 109.120.189.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3e2d21-f31b-07d0-b418-54cacd0be7c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 Reality-RU-212, server: 212.233.98.113, port: 47013, type: vless, tls: true, packet-encoding: xudp, uuid: 138df692-6fd2-4de0-ad01-3e96078e2dc9, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 143.204.111.65, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1c281f55-761f-4448-8fc9-e1958e49e1fa, network: ws, ws-opts: {path: /wss, headers: {Host: d2a5lr44zte3rb.cloudfront.net}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -506,7 +505,6 @@ proxies:
   - {name: "@filembad` 5", server: 85.133.240.82, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-cdn-8880-sym32ta4, server: 46.225.61.97, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: a4b53348-294d-43be-8549-93055291de3f, network: ws, ws-opts: {path: /ws, headers: {Host: v.iampedi7.live}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-cdn-8880-sym32ta4`, server: 46.225.61.97, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: a4b53348-294d-43be-8549-93055291de3f, network: ws, ws-opts: {path: /ws, headers: {Host: v.iampedi7.live}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Ae_proxy 278`, server: 2.188.241.144, port: 29332, type: vless, tls: true, packet-encoding: xudp, uuid: a78d795d-ab77-49dd-8962-f630115f617c, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-reality-xtls-vision-user1-reality`, server: 46.225.54.75, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: bf9f84bf-816e-4ba4-a57a-275e376d829d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: F0igUIrZvkGEFQR06kfIWQ_N5ZVrOLyLyhhjv-XFOB0, short-id: 6d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi7+vless+reality-user1-reality, server: 46.225.61.97, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: c770e204-e1b5-4faf-bda8-453ca5c7361d, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: IZLevmWclj-I9VbsxirjPBBPt78aylepVwL0G7ihJnQ, short-id: 64c8124789507e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 104 VLESS, server: 104.168.82.83, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -599,7 +597,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -615,7 +612,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -698,7 +694,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -714,7 +709,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -797,7 +791,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -813,7 +806,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -905,7 +897,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -921,7 +912,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -1004,7 +994,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -1020,7 +1009,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS
@@ -1103,7 +1091,6 @@ proxy-groups:
       - 13.36.100.6:22222
       - "@filembad 2"
       - 63.183.120.121:22222
-      - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
       - "@filembad` 2"
@@ -1119,7 +1106,6 @@ proxy-groups:
       - "@filembad` 5"
       - iampedi-vless-cdn-8880-sym32ta4
       - iampedi-vless-cdn-8880-sym32ta4`
-      - Ae_proxy 278`
       - iampedi-vless-reality-xtls-vision-user1-reality`
       - iampedi7+vless+reality-user1-reality
       - 🇺🇸 @SamNet - US 104 VLESS

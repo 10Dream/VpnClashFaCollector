@@ -466,8 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@airdrop2033`", server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033` 2", server: 81.90.29.39, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 44dc6ac1-6126-4627-b889-9792a8188012, servername: academy.nvidia.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@airdrop2033", server: us.zarasite.ir, port: 6531, type: vmess, uuid: 3f2d60fc-512d-4811-b50c-18013e32c162, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -485,8 +483,6 @@ proxy-groups:
     type: select
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -494,8 +490,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -503,8 +497,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -521,8 +513,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -530,8 +520,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -539,8 +527,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@airdrop2033`"
-      - "@airdrop2033` 2"
-      - "@airdrop2033"
   - name: دانلود منیجر 📥
     type: select
     proxies:
