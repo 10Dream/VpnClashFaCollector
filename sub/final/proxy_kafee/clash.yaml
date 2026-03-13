@@ -481,7 +481,6 @@ proxies:
   - {name: "@proxy_kafee 4", server: 85.133.227.13, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee` 4", server: 85.133.240.107, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 5", server: 85.133.240.82, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 87a1f775-f129-4aff-a141-660741dfdb61, servername: www.microsoft.com, host: www.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee |فقط تلگرام داشته باشید`", server: ezterar.popol.cfd, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: af841f76-1d41-4d1d-9752-f5351bbd5e38, network: ws, ws-opts: {path: /, headers: {Host: ezterar.popol.cfd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee4", server: mp.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: b5606754-c9bb-4d17-bec5-eaceae8bc7ac, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee` 5", server: d1.msjia8844.site, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c61c8adb-c674-4e0c-9ccf-d0e674434efe, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee` 6", server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c6b615a8-d901-4eef-82dd-54a44ee9abd9, servername: ajor.hellpresso.ir, network: ws, ws-opts: {path: /, headers: {Host: ajor.hellpresso.ir}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -490,7 +489,6 @@ proxies:
   - {name: "@proxy_kafee.سایفون3`", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee 6", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee3", server: dl4.kendoole.store, port: 443, type: vmess, uuid: 969ecc5d-813b-4d90-ad2f-bf987ccd8999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: soft98.ir}}, udp: true, tfo: false}
-  - {name: "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام", server: snapp.ir.bmi.ir.mobato-mobile.com, port: 80, type: vmess, uuid: 820a9e42-e18d-43e4-859f-d1c2f6b8600a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -523,7 +521,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -532,7 +529,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -555,7 +551,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -564,7 +559,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -587,7 +581,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -596,7 +589,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -628,7 +620,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -637,7 +628,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -660,7 +650,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -669,7 +658,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -692,7 +680,6 @@ proxy-groups:
       - "@proxy_kafee 4"
       - "@proxy_kafee` 4"
       - "@proxy_kafee 5"
-      - "@proxy_kafee |فقط تلگرام داشته باشید`"
       - "@proxy_kafee4"
       - "@proxy_kafee` 5"
       - "@proxy_kafee` 6"
@@ -701,7 +688,6 @@ proxy-groups:
       - "@proxy_kafee.سایفون3`"
       - "@proxy_kafee 6"
       - "@proxy_kafee3"
-      - "@proxy_kafee | برای کانفیگای بیشتر جوین باشید تلگرام"
   - name: دانلود منیجر 📥
     type: select
     proxies:

@@ -465,11 +465,15 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@PewezaVPN (تلگرام)`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)`", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 2", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 3", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 4", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 5", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@PewezaVPN`", server: 95.216.238.249, port: 35153, type: trojan, password: Yr6a2AD8P4, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام)` 2", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام)` 3", server: ez.pubgping.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9d15d7ab-5867-4857-b813-bf1924510bca, host: ez.pubgping.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@PewezaVPN (تلگرام)` 4", server: bl.khakimilad.online, port: 58992, type: vless, tls: true, packet-encoding: xudp, uuid: dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5, host: bl.khakimilad.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 6", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 7", server: ez.pubgping.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9d15d7ab-5867-4857-b813-bf1924510bca, host: ez.pubgping.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@PewezaVPN (تلگرام)` 8", server: bl.khakimilad.online, port: 58992, type: vless, tls: true, packet-encoding: xudp, uuid: dd4f4dec-2cb9-4dcf-b8fc-d88ddaf705a5, host: bl.khakimilad.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)", server: pub.ap20260228.com, port: 64018, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -488,10 +492,14 @@ proxy-groups:
     type: select
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -500,10 +508,14 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -512,10 +524,14 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -533,10 +549,14 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -545,10 +565,14 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -557,10 +581,14 @@ proxy-groups:
     interval: 600
     proxies:
       - "@PewezaVPN (تلگرام)`"
-      - "@PewezaVPN`"
       - "@PewezaVPN (تلگرام)` 2"
       - "@PewezaVPN (تلگرام)` 3"
       - "@PewezaVPN (تلگرام)` 4"
+      - "@PewezaVPN (تلگرام)` 5"
+      - "@PewezaVPN`"
+      - "@PewezaVPN (تلگرام)` 6"
+      - "@PewezaVPN (تلگرام)` 7"
+      - "@PewezaVPN (تلگرام)` 8"
       - "@PewezaVPN (تلگرام)"
   - name: دانلود منیجر 📥
     type: select
