@@ -6,9 +6,19 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "@mohammad_h201 - @MatinSenPaii-pi4yqhi8", server: 144.76.188.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e6b23f2-932b-4a80-a280-44cdf8a86452, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S4-1", server: 212.87.198.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S2-1", server: 212.87.198.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S3-1", server: 212.87.198.109, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S5-1", server: 212.87.198.113, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mohammad_h201 - @MatinSenPaii-fnq8fl7x", server: 144.76.188.130, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 75e13bcc-139b-4fe7-8525-548c8cfca08d, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@mohammad_h201 - @MatinSenPaii-0bj0sl01", server: 144.76.188.140, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ba849385-a780-43a0-b4e7-6ab8a08d3824, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S1-1", server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇹🇷 @MatinSenPaii - Turkey 212-mmm, server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S1-2", server: 212.87.198.108, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S2-2", server: 212.87.198.102, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S3-2", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S4-2", server: 212.87.198.101, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@MatinSenPaii - S5-2", server: 212.87.198.113, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -16,9 +26,19 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -26,9 +46,19 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -36,36 +66,76 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -94,9 +164,19 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
+      - "@MatinSenPaii - S4-1"
+      - "@MatinSenPaii - S2-1"
+      - "@MatinSenPaii - S3-1"
+      - "@MatinSenPaii - S5-1"
       - "@mohammad_h201 - @MatinSenPaii-fnq8fl7x"
       - "@mohammad_h201 - @MatinSenPaii-0bj0sl01"
+      - "@MatinSenPaii - S1-1"
       - 🇹🇷 @MatinSenPaii - Turkey 212-mmm
+      - "@MatinSenPaii - S1-2"
+      - "@MatinSenPaii - S2-2"
+      - "@MatinSenPaii - S3-2"
+      - "@MatinSenPaii - S4-2"
+      - "@MatinSenPaii - S5-2"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

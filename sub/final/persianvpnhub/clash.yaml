@@ -470,7 +470,6 @@ proxies:
   - {name: 🇺🇸 @SamNet - US 23-ss, server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1237", server: 154.205.148.202, port: 11202, type: ss, cipher: chacha20-ietf-poly1305, password: 71807718f593d3e6, udp: true, tfo: false}
   - {name: " ", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: proxymelimon, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3351", server: 172.67.191.189, port: 443, type: trojan, password: OVsFRZT5jG, sni: web.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8335", server: 172.67.191.189, port: 2053, type: trojan, password: ZJU29smXwp, sni: web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: web2.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6784", server: 172.67.68.87, port: 2053, type: trojan, password: ZJU29smXwp, sni: Web2.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Web2.teama.tk}}, udp: true, tfo: false}
@@ -484,27 +483,22 @@ proxies:
   - {name: 13.39.53.66:22222, server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.237.89.75:22222, server: 15.237.89.75, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 3.127.171.45:22222, server: 3.127.171.45, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.127.99.68:22222, server: 3.127.99.68, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.69.235.19:22222, server: 3.69.235.19, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 35.181.222.188:22222, server: 35.181.222.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.200.241:22222, server: 51.44.200.241, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.44.98.27:22222, server: 51.44.98.27, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.28.114.17:22222, server: 52.28.114.17, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 63.183.93.61:22222, server: 63.183.93.61, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9065", server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4557", server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: sw.truetunnel.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b9d4217-e627-46b9-8342-fa5463bdbcde, servername: sw.truetunnel.xyz, host: sw.truetunnel.xyz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VZ45JY_rFdpprcZhHnO_pxs0tm5XFyE7h6Yv_HVbJQg, short-id: fd4f56d0fd822539}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3799", server: 144.31.131.224, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ee2d410-3e64-4c41-a571-3e5d2b5b8982, servername: mold.speedload.online, host: mold.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 2, server: DE-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1eab4b77-893d-4182-a86a-a213ef23f3af, host: speedtest.net., path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 3, server: FI-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1eab4b77-893d-4182-a86a-a213ef23f3af, host: www.google.com., path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 4, server: NL-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1eab4b77-893d-4182-a86a-a213ef23f3af, host: play.google.com., path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 5, server: UK-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 1eab4b77-893d-4182-a86a-a213ef23f3af, host: www.speedtest.net., path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 2, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7046", server: 77.91.74.179, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 309fa273-6579-4cb2-9143-7cad50401eba, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY, short-id: 7cad5040}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9558", server: 37.9.54.51, port: 54448, type: vless, tls: true, packet-encoding: xudp, uuid: 3c14ecf0-9f6f-49c5-b938-0e952ad4a440, servername: io.ozone.ru, host: io.ozone.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 6, server: USA-ComPany-AlphaOmegA-TeaM.AlphaOmegaVIP.IR, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 3e0302d2-c45d-440e-b619-ba69faf185f6, host: google.com., path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 3, server: d1.designister.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ebd01e3-763d-45c9-bfcc-fa220e81bd5f, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🗾 prrofile_purple@, server: 81.90.29.39, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 44dc6ac1-6126-4627-b889-9792a8188012, servername: academy.nvidia.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@GamingConfigs", server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -513,7 +507,7 @@ proxies:
   - {name: "@Gangstersdonotcry", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@wiki_tajrobe", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8537", server: 178.33.161.196, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: proxymelimon 7, server: 188.244.122.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: proxymelimon, server: 188.244.122.138, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: /, headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  3", server: 152.53.51.29, port: 22955, type: vless, tls: true, packet-encoding: xudp, uuid: 63f92f3c-447c-4283-80b9-0af8e164cdad, servername: one-piece.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc}, reality-opts: {public-key: 9Mt_Y8J_qDb1khlieWnhDSAq-kGtLHw6aOKgkAzOMms, short-id: 6ba85179e30d4fc2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  4", server: 104.21.227.134, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1338", server: 94.103.0.31, port: 707, type: vless, tls: true, packet-encoding: xudp, uuid: 6fd23cad-7332-433b-8e9e-2c105ec17a8f, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -581,7 +575,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -595,27 +588,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -624,7 +612,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"
@@ -682,7 +670,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -696,27 +683,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -725,7 +707,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"
@@ -783,7 +765,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -797,27 +778,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -826,7 +802,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"
@@ -893,7 +869,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -907,27 +882,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -936,7 +906,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"
@@ -994,7 +964,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -1008,27 +977,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -1037,7 +1001,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"
@@ -1095,7 +1059,6 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 1237"
       - " "
-      - proxymelimon
       - "@v2rayconfigamir 3351"
       - "@v2rayconfigamir 8335"
       - "@v2rayconfigamir 6784"
@@ -1109,27 +1072,22 @@ proxy-groups:
       - 13.39.53.66:22222
       - 15.237.89.75:22222
       - 18.156.11.33:22222
-      - 3.127.171.45:22222
       - 3.127.99.68:22222
       - 3.69.235.19:22222
       - 35.181.222.188:22222
       - 51.44.200.241:22222
       - 51.44.98.27:22222
       - 52.28.114.17:22222
+      - 63.183.120.121:22222
       - 63.183.93.61:22222
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 4557"
       - "Telegram: @wiki_tajrobe"
       - "@v2rayconfigamir 3799"
-      - proxymelimon 2
-      - proxymelimon 3
-      - proxymelimon 4
-      - proxymelimon 5
       - ⚡Telegram - @prrofile_purple
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 7046"
       - "@v2rayconfigamir 9558"
-      - proxymelimon 6
       - ⚡Telegram - @prrofile_purple 3
       - برای اتصال دائمی جوین شو🗾 prrofile_purple@
       - "@GamingConfigs"
@@ -1138,7 +1096,7 @@ proxy-groups:
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
       - "@v2rayconfigamir 8537"
-      - proxymelimon 7
+      - proxymelimon
       - "  3"
       - "  4"
       - "@v2rayconfigamir 1338"

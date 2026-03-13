@@ -12,6 +12,7 @@ proxies:
   - {name: Telegram:@XtVpnVip, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 3f58cc47-94f6-40d3-8797-1ce66cb0555e, servername: nl13.maxriser.ir, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: nl13.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm`, server: 85.9.125.31, port: 50856, type: vless, tls: true, packet-encoding: xudp, uuid: 5314cf70-802c-4dc7-91cb-b50a597a44b3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: پنل اختصاصی TM 🚀, server: sdl9.shahramv1.site, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 93afe2a7-84b5-49a7-89d6-61d42067e32f, host: sdl9.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: https://t.me/ConfigX2ray`, server: dlc-new1.persianpinggame.com, port: 5101, type: vless, tls: true, packet-encoding: xudp, uuid: b2d5d0d8-1c29-11f1-9350-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: c1.msjia8844.site:31532, server: c1.msjia8844.site, port: 31532, type: vless, tls: true, packet-encoding: xudp, uuid: dab667ce-f06a-4533-a369-ee2925ca6ec6, host: c1.msjia8844.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: test-test, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@SizVpn", server: 3.elabela.top, port: 909, type: vmess, uuid: 0e664d0c-2c8e-481c-8718-da019e553e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3.elabela.top}}, udp: true, tfo: false}
@@ -28,6 +29,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -44,6 +46,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -60,6 +63,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -75,6 +79,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -90,6 +95,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -105,6 +111,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"
@@ -142,6 +149,7 @@ proxy-groups:
       - Telegram:@XtVpnVip
       - saministamm`
       - پنل اختصاصی TM 🚀
+      - https://t.me/ConfigX2ray`
       - c1.msjia8844.site:31532
       - test-test
       - "@SizVpn"

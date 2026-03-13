@@ -486,8 +486,10 @@ proxies:
   - {name: 🇺🇸 @SamNet - US 198-B Trojan, server: 198.23.188.165, port: 10427, type: trojan, password: SamNet2026SecurePass, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 198 Trojan, server: 198.23.249.154, port: 10420, type: trojan, password: SamNet2026SecurePass, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 23 Trojan, server: 23.95.113.104, port: 10423, type: trojan, password: SamNet2026SecurePass, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 7638`", server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
   - {name: 13.36.100.6:22222, server: 13.36.100.6, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 2", server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Ae_proxy 146`, server: finland.dehnavy.ir, port: 39461, type: vless, tls: true, packet-encoding: xudp, uuid: 0195d3b8-8bfa-4c6e-9988-56396952a50a, network: ws, ws-opts: {path: /, headers: {Host: finland.dehnavy.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 Reality-RU-109, server: 109.120.189.87, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0d3e2d21-f31b-07d0-b418-54cacd0be7c4, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇷🇺 Reality-RU-212, server: 212.233.98.113, port: 47013, type: vless, tls: true, packet-encoding: xudp, uuid: 138df692-6fd2-4de0-ad01-3e96078e2dc9, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -593,8 +595,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
@@ -690,8 +694,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
@@ -787,8 +793,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
@@ -893,8 +901,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
@@ -990,8 +1000,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
@@ -1087,8 +1099,10 @@ proxy-groups:
       - 🇺🇸 @SamNet - US 198-B Trojan
       - 🇺🇸 @SamNet - US 198 Trojan
       - 🇺🇸 @SamNet - US 23 Trojan
+      - "@v2rayconfigamir 7638`"
       - 13.36.100.6:22222
       - "@filembad 2"
+      - 63.183.120.121:22222
       - Ae_proxy 146`
       - 🇷🇺 Reality-RU-109
       - 🇷🇺 Reality-RU-212
