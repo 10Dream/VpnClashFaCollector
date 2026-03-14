@@ -475,10 +475,11 @@ proxies:
   - {name: 176.65.242.176:1080, server: 176.65.242.176, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.121.131.11:443, server: 185.121.131.11, port: 443, type: socks5, username: 1, password: !<str> 11, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.121.119.161:1080, server: 188.121.119.161, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.99.41:9900, server: 188.121.99.41, port: 9900, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.121.99.41:9900@proxy_kafee, server: 188.121.99.41, port: 9900, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.30:1080, server: 2.144.2.30, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.111:111, server: 2.144.20.111, port: 111, type: socks5, username: YQK6EF5RPl, password: cGJ7YhqrHW, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.23.246:8080, server: 2.144.23.246, port: 8080, type: socks5, username: "@prOxy_vvpn", password: "@prOxy_vvpn", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.180.29.218:2020, server: 2.180.29.218, port: 2020, type: socks5, username: 2222, password: !<str> 2222, skip-cert-verify: false, udp: true, tfo: false}
@@ -487,9 +488,7 @@ proxies:
   - {name: 87.107.105.184:1080 2, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.242.217.200:2060, server: 92.242.217.200, port: 2060, type: socks5, username: erfan, password: !<str> 147369, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 93.115.120.74:2020 2, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.182.195.60:9090, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9m@proxy_kafee, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.182.195.60:9090 2, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 94.182.195.60:9090, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.142.229.6:65531, server: 95.142.229.6, port: 65531, type: socks5, username: majid, password: $$Majid$$, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.viramon.net:3389, server: azir_proxy_ezterar.viramon.net, port: 3389, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.viramon.net:53, server: azir_proxy_ezterar.viramon.net, port: 53, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
@@ -520,10 +519,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -532,9 +532,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
@@ -555,10 +553,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -567,9 +566,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
@@ -590,10 +587,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -602,9 +600,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
@@ -634,10 +630,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -646,9 +643,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
@@ -669,10 +664,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -681,9 +677,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
@@ -704,10 +698,11 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 185.121.131.11:443
+      - 188.121.119.161:1080
       - 188.121.99.41:9900
-      - 188.121.99.41:9900@proxy_kafee
       - 2.144.2.30:1080
       - 2.144.20.111:111
+      - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.179.186.225:1080
       - 2.180.29.218:2020
@@ -716,9 +711,7 @@ proxy-groups:
       - 87.107.105.184:1080 2
       - 92.242.217.200:2060
       - 93.115.120.74:2020
-      - 93.115.120.74:2020 2
       - 94.182.195.60:9090
-      - 94.182.195.60:9090 2
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53

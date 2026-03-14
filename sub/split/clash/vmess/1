@@ -486,50 +486,19 @@ proxies:
   - {name: 🇺🇸 @SamNet - US 107, server: 107.175.134.127, port: 10411, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 23 VMess, server: 23.95.113.104, port: 10413, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 @SamNet - US 23, server: 23.95.113.104, port: 10413, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad", server: 103.126.226.194, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: 103.126.226.194, network: ws, ws-opts: {path: /vmess, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
-  - {name: "@filembad 2", server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: 15.235.41.200}}, udp: true, tfo: false}
-  - {name: "@filembad 3", server: 45.89.52.207, port: 39651, type: vmess, uuid: ac4c12c5-45f2-4398-a718-9983941ede2b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 4", server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 51.79.102.253, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2}, udp: true, tfo: false}
-  - {name: "@filembad 5", server: 51.79.102.253, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /IOebhLMhl1CTbFHbL95myfRX2, headers: {Host: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 6", server: 54.248.137.148, port: 8686, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}, udp: true, tfo: false}
-  - {name: "@filembad 7", server: 8.218.45.191, port: 443, type: vmess, uuid: ef167986-d154-4409-88b1-757efb6ae823, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1752248946.4u9ma.icu}}, udp: true, tfo: false}
-  - {name: "@filembad 8", server: bnhhy.1ll.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: bnhhy.1ll.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 9", server: bgn.1dd.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: bgn.1dd.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 10", server: gbnh.0nn.ccwu.cc, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: gbnh.0nn.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 11", server: dcvfr546.0ou.ccwu.cc, port: 80, type: vmess, uuid: 8ea1b89f-21d5-49b9-9bcd-1ad9ac39b4ba, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: dcvfr546.0ou.ccwu.cc, network: ws, ws-opts: {path: /y3ME81hpTJWwd4RJBAQ5Ah, headers: {Host: dcvfr546.0ou.ccwu.cc}}, udp: true, tfo: false}
-  - {name: "@filembad 12", server: kwtgm.cmvvb.online, port: 8443, type: vmess, uuid: 16f728ea-d638-4295-a5c7-b41bcea1b04f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kwtgm.cmvvb.online}}, udp: true, tfo: false}
-  - {name: "@filembad 13", server: kwtgm.cmvvb.online, port: 8443, type: vmess, uuid: ef46b74c-b3ef-4633-9818-0af6226c4060, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kwtgm.cmvvb.online}}, udp: true, tfo: false}
-  - {name: "@filembad 14", server: hju.ae1autumn.cc.cd, port: 80, type: vmess, uuid: 13ad36e6-c091-43f2-8505-47d868dd544c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /YsmRouA9ZbxgW4, headers: {Host: hju.ae1autumn.cc.cd}}, udp: true, tfo: false}
-  - {name: "@filembad 15", server: hwtqcp.uhomdex.shop, port: 8443, type: vmess, uuid: b6182347-f6df-47e3-9ac8-d40a792f319e, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: hwtqcp.uhomdex.shop, network: ws, ws-opts: {path: /, headers: {Host: hwtqcp.uhomdex.shop}}, udp: true, tfo: false}
-  - {name: "@filembad 16", server: jnm.1x2.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: jnm.1x2.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 17", server: jjkm.zem.indevs.in, port: 80, type: vmess, uuid: c558328b-eb46-424c-b9e0-574770f0b072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: jjkm.zem.indevs.in, network: ws, ws-opts: {path: /7sOz0p4SzU1D6XNC0BXGtJ, headers: {Host: jjkm.zem.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 18", server: moi9.zem.indevs.in, port: 80, type: vmess, uuid: c558328b-eb46-424c-b9e0-574770f0b072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: moi9.zem.indevs.in, network: ws, ws-opts: {path: /7sOz0p4SzU1D6XNC0BXGtJ, headers: {Host: moi9.zem.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 19", server: moi9.zem.indevs.in, port: 80, type: vmess, uuid: c558328b-eb46-424c-b9e0-574770f0b072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: moi9.zem.indevs.in, network: ws, ws-opts: {path: /7sOz0p4SzU1D6XNC0BXGtJ, headers: {Host: moi9.zem.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 20", server: n1753356361.lie5d.cyou, port: 443, type: vmess, uuid: cdfd9787-dac8-4c1e-9ae5-104e23a9d994, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753356361.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@filembad 21", server: n1761296880.lie5d.cyou, port: 443, type: vmess, uuid: 1effac4a-cdb8-4717-a10c-da97263c802c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296880.lie5d.cyou}}, udp: true, tfo: false}
-  - {name: "@filembad 22", server: nmkiy.1x8.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: nmkiy.1x8.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 23", server: nhj4r.huangshang.site, port: 443, type: vmess, uuid: c558328b-eb46-424c-b9e0-574770f0b072, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /7sOz0p4SzU1D6XNC0BXGtJ, headers: {Host: nhj4r.huangshang.site}}, udp: true, tfo: false}
-  - {name: "@filembad 24", server: planb.mojcn.com, port: 16617, type: vmess, uuid: 38207de1-de96-4f78-867b-7be6b41ef1dd, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com}}, udp: true, tfo: false}
-  - {name: "@filembad 25", server: pub.ap20260228.com, port: 64003, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 26", server: pub.ap20260228.com, port: 64021, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 27", server: pub.ap20260228.com, port: 64097, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 28", server: qde.huangshang.site, port: 443, type: vmess, uuid: c558328b-eb46-424c-b9e0-574770f0b072, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /7sOz0p4SzU1D6XNC0BXGtJ, headers: {Host: qde.huangshang.site}}, udp: true, tfo: false}
-  - {name: "@filembad 29", server: rgt.ae1autumn.dpdns.org, port: 443, type: vmess, uuid: 13ad36e6-c091-43f2-8505-47d868dd544c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /YsmRouA9ZbxgW4, headers: {Host: rgt.ae1autumn.dpdns.org}}, udp: true, tfo: false}
-  - {name: "@filembad 30", server: v2.dabache.top, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: jnm.1x2.indevs.in, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: jnm.1x2.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 31", server: vbh.ae1autumn.cc.cd, port: 80, type: vmess, uuid: 13ad36e6-c091-43f2-8505-47d868dd544c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /YsmRouA9ZbxgW4, headers: {Host: vbh.ae1autumn.cc.cd}}, udp: true, tfo: false}
-  - {name: "@filembad 32", server: yyhju.1x6.indevs.in, port: 80, type: vmess, uuid: 4e45c1b4-9107-45dd-9995-cdf7cbb44d9d, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /iSRWSKUJKNuXvVzsYHmsMrnO, headers: {Host: yyhju.1x6.indevs.in}}, udp: true, tfo: false}
-  - {name: "@filembad 33", server: zdqbk.cmvvb.online, port: 8443, type: vmess, uuid: 849a0032-116e-40e8-bec4-3ee88258c067, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zdqbk.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "@filembad", server: Ezterari.netblocksir.ir, port: 40071, type: vmess, uuid: b6768402-0e5e-4d33-bdc5-973c5734a688, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: Ezterari.netblocksir.ir}}, udp: true, tfo: false}
+  - {name: "@filembad 2", server: kwtgm.cmvvb.online, port: 8443, type: vmess, uuid: bbd8bf1c-3f1a-423b-85c8-8d904030e897, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: kwtgm.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "@filembad 3", server: nqzkb.cmvvb.online, port: 443, type: vmess, uuid: 5017f929-00f3-4244-abb6-c7295ebf0ac3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: nqzkb.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "@filembad 4", server: udtzy.cmvvb.online, port: 443, type: vmess, uuid: 5465afe6-867d-45eb-ab54-7ee945c85c1c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: udtzy.cmvvb.online}}, udp: true, tfo: false}
+  - {name: "@filembad 5", server: udtzy.cmvvb.online, port: 443, type: vmess, uuid: f2bd433f-70d0-470f-b271-1df1794ca955, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: udtzy.cmvvb.online}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4616", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "🇨🇳 [openproxylist.com] vmess-TW", server: pub.ap20260228.com, port: 64018, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 34", server: 103.126.226.194, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
-  - {name: "@filembad 35", server: 47.238.130.197, port: 443, type: vmess, uuid: f267eac3-dfb4-45be-a480-7e1847ca04ab, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753348736.lie5d.cyou}}, udp: true, tfo: false}
+  - {name: "@filembad 6", server: 47.76.254.70, port: 443, type: vmess, uuid: 6ea48dfe-7de2-45dc-9267-d4d9effad9fc, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: n1753101277.4u9ma.icu, network: ws, ws-opts: {path: /, headers: {Host: n1753101277.4u9ma.icu}}, udp: true, tfo: false}
   - {name: "@vasl_bashim", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3520", server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: Join+Telegram:@Farah_VPN 🇦🇺, server: 45.15.185.17, port: 80, type: vmess, uuid: c503a96a-a2f5-4847-a31f-20c17ecf3be4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess/}, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE 2", server: 46.225.61.97, port: 10410, type: vmess, uuid: 1a68dece-4457-4aae-899f-ad825c2da22f, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 36", server: 47.244.120.197, port: 36703, type: vmess, uuid: 45b83519-9c4f-4052-a11b-02e017b636d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "@filembad 37", server: 47.245.42.92, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: "@filembad 7", server: 47.244.120.197, port: 36703, type: vmess, uuid: 45b83519-9c4f-4052-a11b-02e017b636d4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: "/arki?ed=2048", headers: {Host: 47.244.120.197}}, udp: true, tfo: false}
   - {name: "@FreakConfig", server: 57.129.25.22, port: 443, type: vmess, uuid: 03fcc618-b93d-6796-6aed-8a38c975d581, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc, network: ws, ws-opts: {path: /linkvws, headers: {Host: o.metuji.com}}, udp: true, tfo: false}
   - {name: "@configraygan-5iqvp6td", server: 77.42.67.4, port: 443, type: vmess, uuid: a448f0d9-cdb9-42a1-9802-d731998f36ac, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.cloudflare.com, network: ws, ws-opts: {path: /vmess}, udp: true, tfo: false}
   - {name: "@vasl_bashim 2", server: 77.42.67.4, port: 443, type: vmess, uuid: b287165a-afc7-43b6-9aeb-0be9d417ddb3, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.cloudflare.com, network: ws, ws-opts: {path: /vmess}, udp: true, tfo: false}
@@ -538,49 +507,33 @@ proxies:
   - {name: "@configraygan-niqh7si5", server: 77.42.67.4, port: 443, type: vmess, uuid: ff912709-47b8-4e8b-8e42-881e0e4f2cdd, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.cloudflare.com, network: ws, ws-opts: {path: /vmess}, udp: true, tfo: false}
   - {name: "@configraygan-ljspdhzh", server: 77.42.67.4, port: 443, type: vmess, uuid: ffdff7d5-dd33-4c14-801c-a8b2580ce90f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: www.cloudflare.com, network: ws, ws-opts: {path: /vmess}, udp: true, tfo: false}
   - {name: تلگرام | @configraygan, server: 78.157.63.77, port: 80, type: vmess, uuid: e0dd0dde-657d-4a29-a792-c7ef57b34aee, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 8", server: 94.232.247.164, port: 44030, type: vmess, uuid: 22c396a3-95da-4be8-beef-834d17d75784, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 38", server: 103.126.226.194, port: 443, type: vmess, uuid: 8072298f-cd28-4a61-8e05-5879c84b9100, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: neva.azlan.biz.id}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3699", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US", server: 104.168.82.83, port: 10415, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 39", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /lMnsZUN4/, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
-  - {name: "@filembad 40", server: 104.17.77.77, port: 8443, type: vmess, uuid: 60441548-b68e-43b2-8191-e3b884be4b3c, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: v2ray1.dozapp.xyz}}, udp: true, tfo: false}
+  - {name: "@filembad 9", server: 107.175.134.127, port: 10411, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: 107.175.134.148, port: 10414, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 41", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-LU", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩, server: 135.181.35.169, port: 80, type: vmess, uuid: 2aac77de-b3e4-4017-845c-ca1380f2e8d0, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /telegram-id-@privatevpns, headers: {Host: google.com}}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: 142.171.65.106, port: 10412, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad 10", server: 149.104.31.55, port: 443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
+  - {name: "@filembad 11", server: 149.104.31.55, port: 443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "@configraygan تلگراممون", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2340", server: 159.89.29.136, port: 80, type: vmess, uuid: d20d6ede-433c-11ed-b81f-cfd905df9958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: cx.com}}, udp: true, tfo: false}
-  - {name: "@filembad 42", server: 162.19.248.238, port: 550, type: vmess, uuid: ede27a79-b039-490b-932c-495de4b68880, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@meliproxyy", server: 188.121.119.172, port: 2020, type: vmess, uuid: 3fa06c55-df4b-47de-8ff2-409470338a3b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 3", server: 188.121.120.140, port: 21368, type: vmess, uuid: 270081d8-09e7-4b0f-a9e6-90acd2b32072, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan |", server: 188.212.97.117, port: 47857, type: vmess, uuid: 674127ab-45ff-4e72-b6a0-c02fc1642696, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 4", server: 192.227.173.38, port: 10416, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 5", server: 198.23.188.165, port: 10417, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 6", server: 198.23.249.154, port: 10410, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad 43", server: 1qw.ae1autumn.cc.cd, port: 80, type: vmess, uuid: 13ad36e6-c091-43f2-8505-47d868dd544c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: 1qw.ae1autumn.cc.cd, network: ws, ws-opts: {path: /YsmRouA9ZbxgW4, headers: {Host: 1qw.ae1autumn.cc.cd}}, udp: true, tfo: false}
-  - {name: "@filembad 44", server: 212.87.198.102, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8562", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-TR", server: 212.87.198.101, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-TR 2", server: 212.87.198.102, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-TR 3", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-TR 4", server: 212.87.198.113, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کیانت, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram: @wiki_tajrobe", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Tel⚡️ @Kia_Net ⚡️, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Maznet-Psighon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2icy", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2icy 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@i10VPN-Psiphon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_kafee", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 4", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 5", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Kia_net, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: test-test, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: hamedvpns ❤️, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ByGFW", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan تلگراممون 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@configraygan → چنل", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@proxy_nps بیا تلگراممون", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim Psiphon", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vasl_bashim 6", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -623,45 +576,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -670,49 +592,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -745,45 +651,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -792,49 +667,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -867,45 +726,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -914,49 +742,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -998,45 +810,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -1045,49 +826,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1120,45 +885,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -1167,49 +901,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1242,45 +960,14 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@filembad 5"
-      - "@filembad 6"
-      - "@filembad 7"
-      - "@filembad 8"
-      - "@filembad 9"
-      - "@filembad 10"
-      - "@filembad 11"
-      - "@filembad 12"
-      - "@filembad 13"
-      - "@filembad 14"
-      - "@filembad 15"
-      - "@filembad 16"
-      - "@filembad 17"
-      - "@filembad 18"
-      - "@filembad 19"
-      - "@filembad 20"
-      - "@filembad 21"
-      - "@filembad 22"
-      - "@filembad 23"
-      - "@filembad 24"
-      - "@filembad 25"
-      - "@filembad 26"
-      - "@filembad 27"
-      - "@filembad 28"
-      - "@filembad 29"
-      - "@filembad 30"
-      - "@filembad 31"
-      - "@filembad 32"
-      - "@filembad 33"
       - "@v2rayconfigamir 4616"
       - 🇨🇳 [openproxylist.com] vmess-TW
-      - "@filembad 34"
-      - "@filembad 35"
+      - "@filembad 6"
       - "@vasl_bashim"
-      - "@v2rayconfigamir 3520"
       - Join+Telegram:@Farah_VPN 🇦🇺
       - 🇩🇪 [openproxylist.com] vmess-DE
       - 🇩🇪 [openproxylist.com] vmess-DE 2
-      - "@filembad 36"
-      - "@filembad 37"
+      - "@filembad 7"
       - "@FreakConfig"
       - "@configraygan-5iqvp6td"
       - "@vasl_bashim 2"
@@ -1289,49 +976,33 @@ proxy-groups:
       - "@configraygan-niqh7si5"
       - "@configraygan-ljspdhzh"
       - تلگرام | @configraygan
+      - "@filembad 8"
       - "@configraygan"
-      - "@filembad 38"
       - "@v2rayconfigamir 3699"
       - 🇺🇸 [openproxylist.com] vmess-US
-      - "@filembad 39"
-      - "@filembad 40"
+      - "@filembad 9"
       - 🇺🇸 [openproxylist.com] vmess-US 2
-      - "@filembad 41"
+      - "[openproxylist.com] vmess-LU"
       - برای اتصال دائمی جوین شو🍥 TelegramID ⌲Express_freevpn 🪩
       - 🇺🇸 [openproxylist.com] vmess-US 3
+      - "@filembad 10"
+      - "@filembad 11"
       - "@configraygan تلگراممون"
       - "@tel_melli"
       - 🇳🇱 [openproxylist.com] vmess-NL
       - "@v2rayconfigamir 2340"
-      - "@filembad 42"
-      - "@meliproxyy"
-      - "@vasl_bashim 3"
       - "@configraygan |"
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
-      - "@filembad 43"
-      - "@filembad 44"
+      - "@v2rayconfigamir 8562"
+      - "[openproxylist.com] vmess-TR"
+      - "[openproxylist.com] vmess-TR 2"
+      - "[openproxylist.com] vmess-TR 3"
+      - "[openproxylist.com] vmess-TR 4"
       - کیانت
       - "Telegram: @wiki_tajrobe"
       - Tel⚡️ @Kia_Net ⚡️
-      - "@Maznet-Psighon"
-      - "@V2icy"
-      - "@V2icy 2"
-      - "@i10VPN-Psiphon"
-      - "@proxy_kafee"
-      - "@vasl_bashim 4"
-      - "@vasl_bashim 5"
-      - Kia_net
-      - test-test
-      - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩
-      - hamedvpns ❤️
-      - "@ByGFW"
-      - "@configraygan تلگراممون 2"
-      - "@configraygan → چنل"
-      - "@proxy_nps بیا تلگراممون"
-      - "@vasl_bashim Psiphon"
-      - "@vasl_bashim 6"
   - name: دانلود منیجر 📥
     type: select
     proxies:
