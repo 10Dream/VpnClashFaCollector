@@ -471,16 +471,16 @@ proxies:
   - {name: 🇩🇪 de.xn--ehqa22b.site:21312, server: de.xn--ehqa22b.site, port: 21312, type: hysteria2, ports: 21312, password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21846, server: de.xn--ehqa22b.site, port: 21846, type: hysteria2, ports: 21846, password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21846 2, server: de.xn--ehqa22b.site, port: 21846, type: hysteria2, ports: 21846, password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa, obfs: none, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: de.xn--ehqa22b.site, port: 21846, type: hysteria2, ports: 21846, password: 1f3a8f7a-ce7d-4005-81ba-44e03a0022aa, obfs: none, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 USA | TLS, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21087, server: de.xn--ehqa22b.site, port: 21087, type: hysteria2, ports: 21087, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21731, server: tr.xn--ehqa22b.site, port: 21731, type: hysteria2, ports: 21731, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: tr.xn--ehqa22b.site, port: 21731, type: hysteria2, ports: 21731, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21731 2, server: tr.xn--ehqa22b.site, port: 21731, type: hysteria2, ports: 21731, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad`", server: tr.xn--ehqa22b.site, port: 21731, type: hysteria2, ports: 21731, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tr.xn--ehqa22b.site:21731 3, server: tr.xn--ehqa22b.site, port: 21731, type: hysteria2, ports: 21731, password: 3b31792b-59ec-498c-bb1b-a93061d1f0dd, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21314, server: tr.xn--ehqa22b.site, port: 21314, type: hysteria2, ports: 21314, password: 43ddfbea-3378-4780-a01a-e8801a88b547, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21314 2, server: tr.xn--ehqa22b.site, port: 21314, type: hysteria2, ports: 21314, password: 43ddfbea-3378-4780-a01a-e8801a88b547, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tr.xn--ehqa22b.site:21314 3, server: tr.xn--ehqa22b.site, port: 21314, type: hysteria2, ports: 21314, password: 43ddfbea-3378-4780-a01a-e8801a88b547, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21332, server: tr.xn--ehqa22b.site, port: 21332, type: hysteria2, ports: 21332, password: 43ddfbea-3378-4780-a01a-e8801a88b547, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: tr.xn--ehqa22b.site:21332 2, server: tr.xn--ehqa22b.site, port: 21332, type: hysteria2, ports: 21332, password: 43ddfbea-3378-4780-a01a-e8801a88b547, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21051, server: de.xn--ehqa22b.site, port: 21051, type: hysteria2, ports: 21051, password: 46a64503-b76f-45b4-9948-6bac86e8d29e, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21051 2, server: de.xn--ehqa22b.site, port: 21051, type: hysteria2, ports: 21051, password: 46a64503-b76f-45b4-9948-6bac86e8d29e, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇩🇪 de.xn--ehqa22b.site:21927, server: de.xn--ehqa22b.site, port: 21927, type: hysteria2, ports: 21927, password: 46a64503-b76f-45b4-9948-6bac86e8d29e, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
@@ -517,6 +517,7 @@ proxies:
   - {name: 🇩🇪 de.xn--ehqa22b.site:21737, server: de.xn--ehqa22b.site, port: 21737, type: hysteria2, ports: 21737, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: de.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21270, server: tr.xn--ehqa22b.site, port: 21270, type: hysteria2, ports: 21270, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21270 2, server: tr.xn--ehqa22b.site, port: 21270, type: hysteria2, ports: 21270, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tr.xn--ehqa22b.site:21270 3, server: tr.xn--ehqa22b.site, port: 21270, type: hysteria2, ports: 21270, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21677, server: tr.xn--ehqa22b.site, port: 21677, type: hysteria2, ports: 21677, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21677 2, server: tr.xn--ehqa22b.site, port: 21677, type: hysteria2, ports: 21677, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr.xn--ehqa22b.site:21677 3, server: tr.xn--ehqa22b.site, port: 21677, type: hysteria2, ports: 21677, password: e998e2a0-ce11-4475-bf5f-2de6e3dad046, sni: tr.xn--ehqa22b.site, skip-cert-verify: false, udp: true, tfo: false}
@@ -547,16 +548,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -593,6 +594,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3
@@ -613,16 +615,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -659,6 +661,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3
@@ -679,16 +682,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -725,6 +728,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3
@@ -754,16 +758,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -800,6 +804,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3
@@ -820,16 +825,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -866,6 +871,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3
@@ -886,16 +892,16 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21312
       - 🇩🇪 de.xn--ehqa22b.site:21846
       - 🇩🇪 de.xn--ehqa22b.site:21846 2
-      - "@filembad`"
       - 🇺🇸 USA | TLS
       - 🇩🇪 de.xn--ehqa22b.site:21087
       - tr.xn--ehqa22b.site:21731
-      - "@filembad` 2"
       - tr.xn--ehqa22b.site:21731 2
+      - "@filembad`"
+      - tr.xn--ehqa22b.site:21731 3
       - tr.xn--ehqa22b.site:21314
       - tr.xn--ehqa22b.site:21314 2
+      - tr.xn--ehqa22b.site:21314 3
       - tr.xn--ehqa22b.site:21332
-      - tr.xn--ehqa22b.site:21332 2
       - 🇩🇪 de.xn--ehqa22b.site:21051
       - 🇩🇪 de.xn--ehqa22b.site:21051 2
       - 🇩🇪 de.xn--ehqa22b.site:21927
@@ -932,6 +938,7 @@ proxy-groups:
       - 🇩🇪 de.xn--ehqa22b.site:21737
       - tr.xn--ehqa22b.site:21270
       - tr.xn--ehqa22b.site:21270 2
+      - tr.xn--ehqa22b.site:21270 3
       - tr.xn--ehqa22b.site:21677
       - tr.xn--ehqa22b.site:21677 2
       - tr.xn--ehqa22b.site:21677 3

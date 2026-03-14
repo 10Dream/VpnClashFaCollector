@@ -470,7 +470,6 @@ proxies:
   - {name: 144.31.234.82:45356, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
   - {name: 102.37.237.190:443, server: 102.37.237.190, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: RoHaFyD4IpW8W2LC, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 102.37.156.224:443, server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: ss.055.node-for-bigairport.win:29000, server: ss.055.node-for-bigairport.win, port: 29000, type: ss, cipher: chacha20-ietf-poly1305, password: c69374da-2208-4cbd-b81e-cdf88b5e7f53, udp: true, tfo: false}
   - {name: hd117-xjp-jd.huidu51.com:46611, server: hd117-xjp-jd.huidu51.com, port: 46611, type: ss, cipher: chacha20-ietf-poly1305, password: eebfd479-3c1f-46d5-b83d-3ccb3f07bf9a, udp: true, tfo: false}
@@ -489,6 +488,7 @@ proxies:
   - {name: 13.38.214.118:22222, server: 13.38.214.118, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.53.66:22222, server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3g.vles.space:510, server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: xxx.vles.space:9443, server: xxx.vles.space, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: sun1-91.userapi.com, host: sun1-91.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v.as.x10.mx:443, server: v.as.x10.mx, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 07440580-c04f-4025-a84d-e6ff1b140c74, servername: openlist.ikun6.dpdns.org, network: ws, ws-opts: {path: /MY2026, headers: {Host: openlist.ikun6.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -604,6 +604,7 @@ proxies:
   - {name: "[openproxylist.com] vmess-TR 2", server: 212.87.198.102, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-TR 3", server: 212.87.198.109, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-TR 4", server: 212.87.198.113, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-IR", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -625,7 +626,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -644,6 +644,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -759,6 +760,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -770,7 +772,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -789,6 +790,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -904,6 +906,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -915,7 +918,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -934,6 +936,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -1049,6 +1052,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -1069,7 +1073,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -1088,6 +1091,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -1203,6 +1207,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -1214,7 +1219,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -1233,6 +1237,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -1348,6 +1353,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -1359,7 +1365,6 @@ proxy-groups:
       - 144.31.234.82:45356
       - 102.37.237.190:443
       - series-a1.samanehha.co:443
-      - series-a2.samanehha.co:443
       - 102.37.156.224:443
       - ss.055.node-for-bigairport.win:29000
       - hd117-xjp-jd.huidu51.com:46611
@@ -1378,6 +1383,7 @@ proxy-groups:
       - 13.38.214.118:22222
       - 13.39.53.66:22222
       - 18.156.11.33:22222
+      - 52.57.221.181:22222
       - 3g.vles.space:510
       - xxx.vles.space:9443
       - v.as.x10.mx:443
@@ -1493,6 +1499,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-TR 2"
       - "[openproxylist.com] vmess-TR 3"
       - "[openproxylist.com] vmess-TR 4"
+      - "[openproxylist.com] vmess-IR"
   - name: دانلود منیجر 📥
     type: select
     proxies:
