@@ -15,7 +15,6 @@ proxies:
   - {name: 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3, server: Edvard.mh.mygoldiran.com, port: 10, type: vless, tls: true, packet-encoding: xudp, uuid: cc83d674-a2fb-45c9-8dad-b5a2088319bd, network: ws, ws-opts: {path: /wp-content/uploads/user/, headers: {Host: varzesh3.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4, server: 185.143.233.120, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d264493a-9a60-4a3b-a2c7-9cd5f3009b61, servername: alef.ir.oadeflantrogm.realirshop.com, network: ws, ws-opts: {path: "/?ed=443", headers: {Host: alef.ir.oadeflantrogm.realirshop.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`, server: dash.solidnet.fun, port: 25759, type: vless, tls: true, packet-encoding: xudp, uuid: f16069e0-73e6-4e87-96f0-085f7485fc02, host: dash.solidnet.fun, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@SizVpn", server: 3.elabela.top, port: 909, type: vmess, uuid: 0e664d0c-2c8e-481c-8718-da019e553e2c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 3.elabela.top}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -32,7 +31,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -49,7 +47,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -66,7 +63,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -82,7 +78,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -98,7 +93,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -114,7 +108,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -152,7 +145,6 @@ proxy-groups:
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 3
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪 4
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪`
-      - "@SizVpn"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
