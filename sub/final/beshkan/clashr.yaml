@@ -15,12 +15,9 @@ proxies:
   - {name: "  8", server: v1.dabache.top, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  9", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  10", server: 45.82.251.116, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  11", server: 45.82.251.195, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  12", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  13", server: pqh18v7.viripdirect.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  14", server: pqh29v4.globalfymain.com, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  15", server: yesok42v1.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "  16", server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  11", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  12", server: pqh18v7.viripdirect.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "  13", server: yesok42v2.ip4exordir.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "", server: 172.233.229.91, port: 14102, type: vmess, uuid: 27ba87fc-583f-4763-9060-83cf0b9264db, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -41,9 +38,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: ♻️ 自动选择
     type: url-test
@@ -64,9 +58,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: 🌍 国外媒体
     type: select
@@ -87,9 +78,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: 📲 电报信息
     type: select
@@ -109,9 +97,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: Ⓜ️ 微软服务
     type: select
@@ -131,9 +116,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: 🍎 苹果服务
     type: select
@@ -153,9 +135,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
   - name: 🎯 全球直连
     type: select
@@ -197,9 +176,6 @@ proxy-groups:
       - "  11"
       - "  12"
       - "  13"
-      - "  14"
-      - "  15"
-      - "  16"
       - ""
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

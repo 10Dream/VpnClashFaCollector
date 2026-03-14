@@ -6,13 +6,11 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: "@Vpn_Sky`", server: 85.192.41.103, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: تلگراممون |Vpn_Sky@`, server: d1.designister.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3ebd01e3-763d-45c9-bfcc-fa220e81bd5f, servername: www.figma.com, host: www.figma.com, path: /, reality-opts: {public-key: KT7T2Ny_fZP-oU18D5agZeUfe70tc6TIZ2IrlerKeTA, short-id: 8784}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬", server: pro.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 4442f537-1f88-4be3-179b-4bb9fdb1af4a, host: pro.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬`", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: 4442f537-1f88-4be3-179b-4bb9fdb1af4a, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/Vpn_Sky`, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vpn_sky`", server: theboy.ultimatechat.shop, port: 3939, type: vless, tls: true, packet-encoding: xudp, uuid: 9c1c10cd-10fe-42ba-8ee7-7aa16cf0514e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: تلگراممون |Vpn_Sky@, server: 151.243.3.59, port: 15187, type: vless, tls: true, packet-encoding: xudp, uuid: db68fb71-bb12-4fa2-e1e2-52b1e4d42544, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Vpn_Sky` 2", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬 2", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: ea80926a-69fa-c6f5-994c-bcd5ed2ef211, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -22,13 +20,11 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: ♻️ 自动选择
@@ -38,13 +34,11 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: 🌍 国外媒体
@@ -54,13 +48,11 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: 📲 电报信息
@@ -69,13 +61,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: Ⓜ️ 微软服务
@@ -84,13 +74,11 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: 🍎 苹果服务
@@ -99,13 +87,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: 🎯 全球直连
@@ -136,13 +122,11 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - "@Vpn_Sky`"
-      - تلگراممون |Vpn_Sky@`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@vpn_sky`"
-      - تلگراممون |Vpn_Sky@
       - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
 rules:

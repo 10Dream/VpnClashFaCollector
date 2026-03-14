@@ -10,21 +10,15 @@ proxies:
   - {name: "@Capoit` 3", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@Capoit` 4", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: "@DigiHubAI`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@Capoit` 5", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@Capoit` 6", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@Capoit` 5", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@Capoit9`", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@Capoit` 7", server: 85.133.227.160, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: 10e9b430-f616-4106-a364-d7e14bf47efe, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 8", server: 85.133.214.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f39fef1-7887-fe10-78f7-faa773794f24, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 9", server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 6", server: 85.133.227.160, port: 9090, type: vless, tls: true, packet-encoding: xudp, uuid: 10e9b430-f616-4106-a364-d7e14bf47efe, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 7", server: 85.133.214.66, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f39fef1-7887-fe10-78f7-faa773794f24, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 8", server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Capoit", server: str.gamepuzzlecenter.com, port: 21760, type: vless, tls: true, packet-encoding: xudp, uuid: 670d830d-5540-40e8-9cc8-0ef78b091cf5, host: str.gamepuzzlecenter.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 10", server: ir.shomalchat.com, port: 2021, type: vless, tls: true, packet-encoding: xudp, uuid: 6f9c8f91-26fd-480e-bc7c-c29df94d3b6c, host: ir.shomalchat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 11", server: 185.206.231.57, port: 36522, type: vless, tls: true, packet-encoding: xudp, uuid: 86a382d7-2622-4581-a455-599c70679d02, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 12", server: d1.msjia8844.site, port: 2099, type: vless, tls: true, packet-encoding: xudp, uuid: c61c8adb-c674-4e0c-9ccf-d0e674434efe, host: cafeariel.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 13", server: n-g-f-1.m2v2.site, port: 2101, type: vless, tls: true, packet-encoding: xudp, uuid: d429bc6f-570b-457e-88b9-4697e849ae1d, alpn: [h2%2Chttp%2F1.1], host: n-g-f-1.m2v2.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 14", server: 185.26.32.251, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: ec0fecf4-598a-4319-9b1f-b0858a6f0fb3, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 15", server: hamrahiran.sorenashoping.xyz, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: ede52d9c-2ce3-45d8-9f1a-f84ee2857155, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Capoit` 16", server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 9", server: n-g-f-1.m2v2.site, port: 2101, type: vless, tls: true, packet-encoding: xudp, uuid: d429bc6f-570b-457e-88b9-4697e849ae1d, alpn: [h2%2Chttp%2F1.1], host: n-g-f-1.m2v2.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 10", server: hamrahiran.sorenashoping.xyz, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: ede52d9c-2ce3-45d8-9f1a-f84ee2857155, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Capoit` 11", server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
@@ -37,20 +31,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
@@ -63,20 +51,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: 🌍 国外媒体
     type: select
     proxies:
@@ -89,20 +71,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: 📲 电报信息
     type: select
     proxies:
@@ -114,20 +90,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
@@ -139,20 +109,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: 🍎 苹果服务
     type: select
     proxies:
@@ -164,20 +128,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -211,20 +169,14 @@ proxy-groups:
       - "@Capoit` 4"
       - "@DigiHubAI`"
       - "@Capoit` 5"
-      - "@`"
-      - "@Capoit` 6"
       - "@Capoit9`"
+      - "@Capoit` 6"
       - "@Capoit` 7"
       - "@Capoit` 8"
-      - "@Capoit` 9"
       - "@Capoit"
+      - "@Capoit` 9"
       - "@Capoit` 10"
       - "@Capoit` 11"
-      - "@Capoit` 12"
-      - "@Capoit` 13"
-      - "@Capoit` 14"
-      - "@Capoit` 15"
-      - "@Capoit` 16"
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
   - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连

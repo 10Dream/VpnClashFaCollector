@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@`", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: NetAccount, server: 94.131.123.86, port: 35361, type: ss, cipher: chacha20-ietf-poly1305, password: g0UgfsdXOhn8McpdHpWcmo, udp: true, tfo: false}
   - {name: NetAccount 2, server: 85.208.108.20, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v, udp: true, tfo: false}
   - {name: 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪, server: 79.127.40.197, port: 30118, type: vless, tls: true, packet-encoding: xudp, uuid: 2d210fde-7afa-47e0-bfd1-954bd5abd41b, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,7 +490,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪
@@ -507,7 +505,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪
@@ -523,7 +520,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪
@@ -548,7 +544,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪
@@ -564,7 +559,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪
@@ -580,7 +574,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@`"
       - NetAccount
       - NetAccount 2
       - 𝗝𝗼𝗶𝗻 ➠ @Npv_ir | vip | کانال ما 🆔🇩🇪

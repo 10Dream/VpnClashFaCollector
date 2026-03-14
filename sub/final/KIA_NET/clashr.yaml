@@ -50,12 +50,10 @@ proxies:
   - {name: "@KIA_NET چنل‌تلگرم 4", server: 81.90.29.39, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 44dc6ac1-6126-4627-b889-9792a8188012, servername: academy.nvidia.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 342", server: 81.90.29.39, port: 2443, type: vless, tls: true, packet-encoding: xudp, uuid: 44dc6ac1-6126-4627-b889-9792a8188012, servername: academy.nvidia.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: TestChatGRPC}, reality-opts: {public-key: ZMvMtsHKNd39qVM9CuPLMEXUL19ViL4Qqqk1y5mMjko, short-id: a1b2c3d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Dynamic | WS, server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET  پسورد", server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇨🇦]@KIA_NET چنل‌تلگرم`", server: f2.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_Net (تلگرام)", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 5", server: prime.starfast.site, port: 8585, type: vless, tls: true, packet-encoding: xudp, uuid: 5b25b820-16a4-4e03-99da-fc334bf381f6, host: prime.starfast.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 6", server: f3.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5fdc186d-f881-4fc4-9346-1f3d8fae9339, servername: uktkq.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uktkq.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET  پسورد`", server: 116.203.233.255, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 7", server: 178.33.161.196, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[🇩🇪@KIA_NET چنل‌تلگرم", server: decdn4.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: decdn4.suio.me, host: decdn4.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم, server: nlcdn7.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: nlcdn7.suio.me, host: nlcdn7.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -63,7 +61,6 @@ proxies:
   - {name: "@KIA_NET", server: str.gamepuzzlecenter.com, port: 21760, type: vless, tls: true, packet-encoding: xudp, uuid: 670d830d-5540-40e8-9cc8-0ef78b091cf5, host: str.gamepuzzlecenter.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Dynamic | TLS • WS 2, server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 8", server: 185.88.178.178, port: 57924, type: vless, tls: true, packet-encoding: xudp, uuid: 6a70fe11-4dcd-4727-8621-bb8e7a5df4e1, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@KIA_NET  پسورد 2", server: ir.shomalchat.com, port: 2021, type: vless, tls: true, packet-encoding: xudp, uuid: 6f9c8f91-26fd-480e-bc7c-c29df94d3b6c, host: ir.shomalchat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 🩶", server: 158.160.168.74, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 721ee690-040c-49af-af8d-e5aed6237415, servername: rbc.ru, host: rbc.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: L3X1eh1Jq_6PKJ6LlwjgiWq0XNaDOqCVKgIElJ5nkVA, short-id: e0ef3d5c0aacb615}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم 9", server: pro.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 90404b8f-5259-b5a3-fef5-c22025a50de3, host: pro.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@KIA_NET چنل‌تلگرم`", server: pro.vpsino.com, port: 20920, type: vless, tls: true, packet-encoding: xudp, uuid: 90404b8f-5259-b5a3-fef5-c22025a50de3, host: pro.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -87,7 +84,6 @@ proxies:
   - {name: 🇹🇷 Türkiye | WS`, server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Kia_Net 6", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: کیانت, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: Tel⚡️ @Kia_Net ⚡️, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Kia_net, server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -140,12 +136,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -153,7 +147,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -177,7 +170,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: ♻️ 自动选择
     type: url-test
@@ -230,12 +222,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -243,7 +233,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -267,7 +256,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: 🌍 国外媒体
     type: select
@@ -320,12 +308,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -333,7 +319,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -357,7 +342,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: 📲 电报信息
     type: select
@@ -409,12 +393,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -422,7 +404,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -446,7 +427,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: Ⓜ️ 微软服务
     type: select
@@ -498,12 +478,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -511,7 +489,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -535,7 +512,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: 🍎 苹果服务
     type: select
@@ -587,12 +563,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -600,7 +574,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -624,7 +597,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
   - name: 🎯 全球直连
     type: select
@@ -698,12 +670,10 @@ proxy-groups:
       - "@KIA_NET چنل‌تلگرم 4"
       - "@KIA_NET چنل‌تلگرم 342"
       - Dynamic | WS
-      - "@KIA_NET  پسورد"
       - "[🇨🇦]@KIA_NET چنل‌تلگرم`"
       - "@Kia_Net (تلگرام)"
       - "@KIA_NET چنل‌تلگرم 5"
       - "@KIA_NET چنل‌تلگرم 6"
-      - "@KIA_NET  پسورد`"
       - "@KIA_NET چنل‌تلگرم 7"
       - "[🇩🇪@KIA_NET چنل‌تلگرم"
       - 🇳🇱 Netherlands | @KIA_NET چنل‌تلگرم
@@ -711,7 +681,6 @@ proxy-groups:
       - "@KIA_NET"
       - Dynamic | TLS • WS 2
       - "@KIA_NET چنل‌تلگرم 8"
-      - "@KIA_NET  پسورد 2"
       - "@KIA_NET چنل‌تلگرم 🩶"
       - "@KIA_NET چنل‌تلگرم 9"
       - "@KIA_NET چنل‌تلگرم`"
@@ -735,7 +704,6 @@ proxy-groups:
       - 🇹🇷 Türkiye | WS`
       - "@Kia_Net 6"
       - کیانت
-      - Tel⚡️ @Kia_Net ⚡️
       - Kia_net
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

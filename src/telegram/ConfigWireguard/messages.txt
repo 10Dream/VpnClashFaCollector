@@ -1,133 +1,25 @@
 # آرشیو کانال: @ConfigWireguard
-بروزرسانی: 2026-03-14 13:59:48 UTC
+بروزرسانی: 2026-03-14 19:19:43 UTC
 
-### 🕒 2026-03-14 13:26:14 UTC
-For WgTunnel (IPv6 Endpoint) > :/  
-***💙***
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
-PrivateKey = kEuR7TsSyz/TojCuHN+eS+q9QqSYN5IHYnDghSYOGH0=
-DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
-MTU = 1280
-Jc = 4
-Jmin = 40
-Jmax = 70
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-PersistentKeepalive = 30
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = [2606:4700:d1::5e42:d6c2:3b03:63f9]:7152
-[@ConfigWireguard](https://t.me/ConfigWireguard)
- 𓄂𓆃|
-***🗽***
+### 🕒 2026-03-14 17:24:23 UTC
+slipnet://MTd8ZG5zdHR8YXJhc2h2cG5fc29ja3NfMXx0Mi5hcmFzaC5lbWFpbHwxLjAuMC4xOjUzOjAsMS4xLjEuMTo1MzowLDc2Ljc2LjIuMDo1MzowLDc2Ljc2LjEwLjA6NTM6MCwyMjMuNS41LjU6NTM6MCwxLjAuMC4yOjUzOjAsMTg1LjIyOC4xNjkuMTY4OjUzOjAsMTQ5LjExMi4xMTIuMTE6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NTZhM2EzNThiODU2Y2ZkOGUxMTMwZGJmM2E2N2NlYmNkZjAwYjBjOWQxYTc2YTczYmQwNTUxNjc3ZmM5MTIwNnx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8
 
 ---
 
-### 🕒 2026-03-14 13:26:14 UTC
-For WgTunnel (IPv4 Endpoint) > :/  
-***💙***
-[Interface]
-Address = 172.16.0.2/32, 2606:4700:110:846c:e510:bfa1:ea9f:5247/128
-PrivateKey = kEuR7TsSyz/TojCuHN+eS+q9QqSYN5IHYnDghSYOGH0=
-DNS = 1.1.1.1, 1.0.0.1, 8.8.8.8, 8.8.4.4, 2606:4700:4700::1111, 2606:4700:4700::1001
-MTU = 1280
-Jc = 4
-Jmin = 40
-Jmax = 70
-H1 = 1
-H2 = 2
-H3 = 3
-H4 = 4
-[Peer]
-PublicKey = bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=
-PersistentKeepalive = 30
-AllowedIPs = 0.0.0.0/0, ::/0
-Endpoint = 8.35.211.73:1070
-[@ConfigWireguard](https://t.me/ConfigWireguard)
- 𓄂𓆃|
-***🗽***
-
----
-
-### 🕒 2026-03-14 13:26:07 UTC
-For WireGuard :/  
-***💙***
+### 🕒 2026-03-14 17:11:32 UTC
+`udp://93.118.114.23`
  
-Wireguard Google play 
-[https://play.google.com/store/apps/details?id=com.wireguard.android](https://play.google.com/store/apps/details?id=com.wireguard.android)
+`udp://194.225.62.66`
  
+`udp://94.101.130.239`
  
-[@ConfigWireguard](https://t.me/ConfigWireguard)
- 𓄂𓆃|
-***🗽***
-
----
-
-### 🕒 2026-03-14 13:26:07 UTC
-[𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|***🗽***](https://t.me/Paradise_Of_Freedom)
- Warp On Warp for 
-[ [nikaNg](https://github.com/mahsanet/NikaNG/releases)
- , 
-[mahsaNg](https://github.com/GFW-knocker/MahsaNG/releases)
- ]ᵂᵒᵂ
+`udp://93.126.25.10`
  
- {"remarks": "Tel= darkness_427 - WoW", "log": {"loglevel": "warning"}, "dns": {"hosts": {}, "servers": ["https://94.140.14.14/dns-query", {"address": "8.8.8.8", "domains": ["geosite:category-ir", "domain:.ir"], "expectIPs": ["geoip:ir"], "port": 53}], "tag": "dns"}, "inbounds": [{"port": 10808, "protocol": "socks", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "socks-in"}, {"port": 10809, "protocol": "http", "settings": {"auth": "noauth", "udp": true, "userLevel": 8}, "sniffing": {"destOverride": ["http", "tls"], "enabled": true, "routeOnly": true}, "tag": "http-in"}, {"listen": "127.0.0.1", "port": 10853, "protocol": "dokodemo-door", "settings": {"address": "1.1.1.1", "network": "tcp,udp", "port": 53}, "tag": "dns-in"}], "outbounds": [{"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.47.69.31:955", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [2, 185, 72], "secretKey": "kLwz//dvU9UO6tk1d9w6bn3ZsFEmnAOvpoGcBZaOa3I=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "streamSettings": {"sockopt": {"dialerProxy": "warp-ir"}}, "tag": "warp-out"}, {"protocol": "wireguard", "settings": {"address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "mtu": 1300, "peers": [{"endpoint": "8.47.69.31:955", "publicKey": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo="}], "reserved": [52, 192, 82], "secretKey": "kEuR7TsSyz/TojCuHN+eS+q9QqSYN5IHYnDghSYOGH0=", "keepAlive": 10, "wnoise": "quic", "wnoisecount": "10-15", "wpayloadsize": "1-8", "wnoisedelay": "1-3"}, "tag": "warp-ir"}, {"protocol": "dns", "tag": "dns-out"}, {"protocol": "freedom", "settings": {}, "tag": "direct"}, {"protocol": "blackhole", "settings": {"response": {"type": "http"}}, "tag": "block"}], "policy": {"levels": {"8": {"connIdle": 300, "downlinkOnly": 1, "handshake": 4, "uplinkOnly": 1}}, "system": {"statsOutboundUplink": true, "statsOutboundDownlink": true}}, "routing": {"domainStrategy": "IPIfNonMatch", "rules": [{"inboundTag": ["dns-in"], "outboundTag": "dns-out", "type": "field"}, {"ip": ["8.8.8.8"], "outboundTag": "direct", "port": "53", "type": "field"}, {"domain": ["geosite:category-ir", "domain:.ir"], "outboundTag": "direct", "type": "field"}, {"ip": ["geoip:ir", "geoip:private"], "outboundTag": "direct", "type": "field"}, {"domain": ["geosite:category-ads-all", "geosite:category-ads-ir"], "outboundTag": "block", "type": "field"}, {"outboundTag": "warp-out", "type": "field", "network": "tcp,udp"}]}, "stats": {}}
-
----
-
-### 🕒 2026-03-14 13:26:07 UTC
-𝕎𝕚𝕣𝕖𝕘𝕦𝕒𝕣𝕕 ÐΛɌ₭ᑎΞ𐒡𐒡 𓄂𓆃|
-***🗽***
- For 
-[mahsa](https://github.com/GFW-knocker/MahsaNG/releases)
- ng: 
-***💙***
+`udp://37.202.229.103`
  
-ipv4: 
-***😋***
-wireguard://kEuR7TsSyz%2FTojCuHN%2BeS%2Bq9QqSYN5IHYnDghSYOGH0%3D@8.35.211.73:1070?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=52%2C192%2C82#Tel= @darkness_427 wire 
-ipv6: 
-***😋***
-wireguard://kEuR7TsSyz%2FTojCuHN%2BeS%2Bq9QqSYN5IHYnDghSYOGH0%3D@[2606:4700:d1::5e42:d6c2:3b03:63f9]:7152?address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&reserved=52%2C192%2C82#Tel= @darkness_427 wire 
- For 
-[nika](https://github.com/mahsanet/NikaNG/releases)
- ng: 
-***💙***
+`udp://62.60.213.14`
  
-ipv4: 
-***😋***
-wireguard://kEuR7TsSyz%2FTojCuHN%2BeS%2Bq9QqSYN5IHYnDghSYOGH0%3D@8.35.211.73:1070?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=52%2C192%2C82#Tel= @darkness_427 wire 
-ipv6:  
-***😋***
- 
-wireguard://kEuR7TsSyz%2FTojCuHN%2BeS%2Bq9QqSYN5IHYnDghSYOGH0%3D@[2606:4700:d1::5e42:d6c2:3b03:63f9]:7152?wnoise=quic&address=172.16.0.2/32,2606%3A4700%3A110%3A846c%3Ae510%3Abfa1%3Aea9f%3A5247%2F128&keepalive=10&wpayloadsize=1-8&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1-3&wnoisecount=15&mtu=1330&reserved=52%2C192%2C82#Tel= @darkness_427 wire 
-For 
-[hiddify](https://github.com/hiddify/hiddify-next/releases)
- next: 
-***💙***
- 
-{"outbounds": [{"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "kEuR7TsSyz/TojCuHN+eS+q9QqSYN5IHYnDghSYOGH0=", "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "server": "8.35.211.73", "server_port": 1070, "reserved": [52, 192, 82], "mtu": 1330, "fake_packets": "1-3", "fake_packets_size": "10-30", "fake_packets_delay": "10-30", "fake_packets_mode": "m4"}, {"type": "wireguard", "tag": "Tel=@Paradise_Of_Freedom Warp-Main1", "detour": "Tel=@Paradise_Of_Freedom Warp-IR1", "local_address": ["172.16.0.2/32", "2606:4700:110:846c:e510:bfa1:ea9f:5247/128"], "private_key": "kLwz//dvU9UO6tk1d9w6bn3ZsFEmnAOvpoGcBZaOa3I=", "server": "8.47.69.110", "server_port": 3476, "peer_public_key": "bmXOC+F1FxEMF9dyiK2H5/1SUtzH0JuVo51h2wPfgyo=", "reserved": [2, 185, 72], "mtu": 1300, "fake_packets_mode": "m4"}]}
- 
-𝕎𝔸ℝℙᵂᵒᵂ
-warp://162.159.192.17:7152/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://162.159.195.63:3138/?ifp=2-4&ifpm=m6#🆆
-***🅾***
-🆆
-***🗽***
-warp://[2606:4700:d1::5e42:d6c2:3b03:63f9]:7152/?ifp=1-3&ifpm=m4#𓄂𓆃ʷᵃʳᵖ&&detour=warp://[2606:4700:d1::5e42:d6c2:3b03:63f9]:7152/?ifp=2-4&ifpm=m6#🆆
-***🅾***
-🆆
-***🗽***
-MainChannel= 
-[@Paradise_Of_Freedom](https://t.me/Paradise_Of_Freedom)
- 𓄂𓆃 
-Channel= 
-[@ConfigWireguard](https://t.me/ConfigWireguard)
- 
-***🗽***
+`udp://2.188.184.19`
 
 ---
 
@@ -529,39 +421,6 @@ slipnet-enc://ASYieUQgEsFl4bgwm40USupuJZofQVEQG9rdgdpaLKOlxR6ddPc0OId1WA1Hb8pWQw
 ### 🕒 2026-03-11 20:59:29 UTC
 Slipnet
 slipnet-enc://AdUo8Q/Ct8tlkoTancF+me9RsjeBP25F50VMTli1dBW8nVjmglu7q4dzkNE0V66e79G30XUNC5uR3Gnbv0+W2m2yhcqN9c4OI2Ag2P/NTs4n6H/xXpQUEeDGYuBu1TC8bZ0+226jmENqe2C0hKKlxwlhWAfMnyfse30w9sHtUaqYPr13ZujO7NboUq4Q0KPlg1m2TJ6/ui3y2+hTR36O87DlvzWXOclkLu9P5/O961OWfmOumy4b7NV3mzvbk3T21/GEjfjN5jdhr4YDqFiOAXxXRTLnPDq0mm438hfaA1Gji39YtsXRs6X6eU9cmfNai/ZJYZkn3uS7MW9PF63R83LsaJtp1VepCow4AaMph5RSZ3+u9TIeXLNhLh8bWhpNRkyNCSMvbJ0xuiIv2jiZckrqteVG8M7q1je6KgphtKvX7dZ+zGco
-
----
-
-### 🕒 2026-03-11 18:29:49 UTC
-نکوباکس
-
----
-
-### 🕒 2026-03-11 17:38:42 UTC
-**یه متود جدید برای اتصال به سایفون پیدا شده کاملا رایگان**
- 
-***1⃣***
- دانلود و نصب برنامه Psiphon و Nekobox (یا V2rayNg)
-***2⃣***
- وارد برنامه Nekobox میشید سه 
-خط بالا سمت چپ رو میزنید » روی setting میزنید » پنجمین گزینه از بالا service mod رو از VPN به only proxy تغییر بدید ( داخل V2rayNg اخرین گزینه Mode رو بذارید روی proxy only و بالاتر Local Proxy Port بذارید 
-**2080**
-)
-***3⃣***
- وارد برنامه سایفون میشید بخش options رو انتخاب میکنید » proxy settings رو انتخاب میکنید »  تیک گزینه اول و تیم گزینه چهارم رو فعال میکنید » host address رو (
-`127.0.0.1`
-) و port رو روی (
-`2080`
-) تنظیم کنید.
-***4⃣***
- دوباره به بخش Options سایفون برگردید و به بخش VPN setting برید تیک گزینه 4 رو فعال کنید روی select apps بزنید و Nekobox رو انتخاب کنید.
-***5⃣***
- دوباره برید توی نکوباکس و این کانفیگ رو توش اد کنید
-`ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🫟`
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiMjdiYzBiNGZhZDMzZTQ2@148.113.138.47:48704?
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443?
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443
-بهش وصل بشید و دوباره برگردید سایفون و روی اتصال بزنید و منتظر بمونید وصل شه یکم زمان می‌بره
 
 ---
 

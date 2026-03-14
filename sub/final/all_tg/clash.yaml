@@ -478,10 +478,9 @@ proxies:
   - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.121.131.11:443, server: 185.121.131.11, port: 443, type: socks5, username: 1, password: !<str> 11, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.119.161:1080, server: 188.121.119.161, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.121.99.41:9900, server: 188.121.99.41, port: 9900, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.151.134.209:52224, server: 193.151.134.209, port: 52224, type: socks5, username: 1z9rj5lHJy, password: 4EvAep8FHs, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.245:5201, server: 2.144.2.245, port: 5201, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.30:1080, server: 2.144.2.30, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.144.20.111:111, server: 2.144.20.111, port: 111, type: socks5, username: YQK6EF5RPl, password: cGJ7YhqrHW, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.132:12003, server: 2.144.20.132, port: 12003, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.23.246:8080, server: 2.144.23.246, port: 8080, type: socks5, username: "@prOxy_vvpn", password: "@prOxy_vvpn", skip-cert-verify: false, udp: true, tfo: false}
@@ -497,6 +496,7 @@ proxies:
   - {name: azir_proxy_ezterar.viramon.net:3389, server: azir_proxy_ezterar.viramon.net, port: 3389, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.viramon.net:53, server: azir_proxy_ezterar.viramon.net, port: 53, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar2.viramon.net:8080, server: azir_proxy_ezterar2.viramon.net, port: 8080, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -526,10 +526,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -545,6 +544,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -564,10 +564,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -583,6 +582,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -602,10 +602,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -621,6 +620,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -649,10 +649,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -668,6 +667,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -687,10 +687,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -706,6 +705,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -725,10 +725,9 @@ proxy-groups:
       - 176.65.242.179:1080
       - 185.121.131.11:443
       - 188.121.119.161:1080
-      - 188.121.99.41:9900
+      - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.2.30:1080
-      - 2.144.20.111:111
       - 2.144.20.132:12003
       - 2.144.21.81:1080
       - 2.144.23.246:8080
@@ -744,6 +743,7 @@ proxy-groups:
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - tel-pro-2.qcluster.org:4585
   - name: دانلود منیجر 📥
     type: select
     proxies:

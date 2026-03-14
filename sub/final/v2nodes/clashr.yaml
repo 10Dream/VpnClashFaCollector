@@ -5,6 +5,7 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
+  - {name: 171.22.181.186:16570, server: 171.22.181.186, port: 16570, type: ss, cipher: chacha20-ietf-poly1305, password: 67fQXp7Aysaw9G9SvEUtQ7, udp: true, tfo: false}
   - {name: 149.104.71.134:11201, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: 144.31.234.82:45356, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
@@ -36,6 +37,7 @@ proxies:
   - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3g.vles.space:510, server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: porno.vles.space:8443, server: porno.vles.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: xxx.vles.space:9443, server: xxx.vles.space, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: sun1-91.userapi.com, host: sun1-91.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: v.as.x10.mx:443, server: v.as.x10.mx, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 07440580-c04f-4025-a84d-e6ff1b140c74, servername: openlist.ikun6.dpdns.org, network: ws, ws-opts: {path: /MY2026, headers: {Host: openlist.ikun6.dpdns.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: by.telega.store:443, server: by.telega.store, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1401682c-0e47-4eb9-b5ab-98243655be9b, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o, short-id: e31b66be0cd67c8b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -49,6 +51,7 @@ proxies:
   - {name: 78.40.116.242:443, server: 78.40.116.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: se.denditop.site, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇫🇷 fr.denditop.site:443, server: fr.denditop.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: fr.denditop.site, host: fr.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.83.129.31:443, server: 45.83.129.31, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 295ed7cc-3dee-4985-a81e-ecc2b741a1f1, servername: www.microsoft.com, host: www.microsoft.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: mJwq_1b4cJxWmLmeCh-9pmxMIFNUbZ7eayDZXpiA4Qo, short-id: 61e6e3b8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.172.138.224:20882, server: 195.172.138.224, port: 20882, type: vless, tls: true, packet-encoding: xudp, uuid: 2979477a-f96a-45e0-be6b-c24db8af2026, servername: www.tesla.com, host: www.tesla.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: b31oHYKY9-2rPQOsrwvfnImU2GB2BcAc2WryZl5NEA0, short-id: 153d40c36343cd}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.0.65:7443, server: 144.31.0.65, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: fastt.overload.ovh, host: fastt.overload.ovh, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.130.225:8443, server: 144.31.130.225, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: cypr.speedload.online, host: cypr.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.130.36:8443, server: 144.31.130.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: swe.speedload.online, host: swe.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -84,6 +87,7 @@ proxies:
   - {name: nlcdn7.suio.me:443, server: nlcdn7.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: nlcdn7.suio.me, host: nlcdn7.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: plcdn17.suio.me:443, server: plcdn17.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, host: plcdn17.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: secdn14.suio.me:443, server: secdn14.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: secdn14.suio.me, host: secdn14.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 144.31.47.48:8080, server: 144.31.47.48, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 63e21079-30c6-4617-9631-c3638ce4701f, servername: main.tortvpnbot.world, host: main.tortvpnbot.world, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 80.92.205.57:443, server: 80.92.205.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 643a49dc-02c4-424b-8d87-7fa651644075, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: MA_hDjnzRmn4qL60EqyybXYzuE_2Ap8FhJQ82szMDww, short-id: 1434b433}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.172.115.52:443, server: 144.172.115.52, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 671309af-9a2f-4f36-8a64-9112b6129e9d, servername: chedan.jueson.de5.net, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳@WangCai2", headers: {Host: chedan.jueson.de5.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.16.250.22:2096, server: 104.16.250.22, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -126,6 +130,7 @@ proxies:
   - {name: 🇩🇪 node-de1.melonpanel.ir:8443, server: node-de1.melonpanel.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: d895b002-32b9-4b4c-a5f8-3de9eab1c9ef, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Z6QEOugutnMCkDshhYng_x283HVcTcV8nrr4zDxghhI, short-id: b0dcc7de8e60bdb2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 nl.kv.prod.n7.homes:8443, server: nl.kv.prod.n7.homes, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: dc1b85fd-a08e-42d7-ae2b-0a320f3399b7, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:80 2, server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e44c9ff3-5a05-4ee9-b050-b8fbc7c1af04, network: ws, ws-opts: {path: /ed=2560, headers: {Host: turbooserver-roeg-fastly.flinkywoo.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 195.172.138.224:59109, server: 195.172.138.224, port: 59109, type: vless, tls: true, packet-encoding: xudp, uuid: eb24b84d-c60b-45e3-8b7d-15f5f07c5daf, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: SRcPiiNH145UYB1vu3oY1bkyO7kJD4F5YfHA8_TPuiA, short-id: b7a45b7cf5dda507}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: high-speed-test-01.linkpc.net:61234, server: high-speed-test-01.linkpc.net, port: 61234, type: vless, tls: true, packet-encoding: xudp, uuid: ef092640-433a-4f17-99bd-d5d206435606, servername: www.nintendo.com, host: www.nintendo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM, short-id: 9c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.83.245.135:34205, server: 77.83.245.135, port: 34205, type: vless, tls: true, packet-encoding: xudp, uuid: f10d42ee-fa66-42c4-bfd5-b3297c8be760, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 155.117.5.181:443, server: 155.117.5.181, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f62095b5-6e82-43b1-8d79-1358bbeffc62, network: ws, ws-opts: {path: /@FeriVP/@FeriVP/@FeriVP}, skip-cert-verify: false, udp: true, tfo: false}
@@ -154,6 +159,7 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -185,6 +191,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -198,6 +205,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -233,6 +241,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -275,6 +284,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -303,6 +313,7 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -334,6 +345,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -347,6 +359,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -382,6 +395,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -424,6 +438,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -452,6 +467,7 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -483,6 +499,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -496,6 +513,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -531,6 +549,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -573,6 +592,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -600,6 +620,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -631,6 +652,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -644,6 +666,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -679,6 +702,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -721,6 +745,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -748,6 +773,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -779,6 +805,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -792,6 +819,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -827,6 +855,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -869,6 +898,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -896,6 +926,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -927,6 +958,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -940,6 +972,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -975,6 +1008,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -1017,6 +1051,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
@@ -1066,6 +1101,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
+      - 171.22.181.186:16570
       - 149.104.71.134:11201
       - 193.135.174.135:990
       - 144.31.234.82:45356
@@ -1097,6 +1133,7 @@ proxy-groups:
       - 18.156.11.33:22222
       - 52.57.221.181:22222
       - 3g.vles.space:510
+      - porno.vles.space:8443
       - xxx.vles.space:9443
       - v.as.x10.mx:443
       - by.telega.store:443
@@ -1110,6 +1147,7 @@ proxy-groups:
       - 78.40.116.242:443
       - 🇫🇷 fr.denditop.site:443
       - 45.83.129.31:443
+      - 195.172.138.224:20882
       - 144.31.0.65:7443
       - 144.31.130.225:8443
       - 144.31.130.36:8443
@@ -1145,6 +1183,7 @@ proxy-groups:
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
+      - 144.31.47.48:8080
       - 80.92.205.57:443
       - 144.172.115.52:443
       - 104.16.250.22:2096
@@ -1187,6 +1226,7 @@ proxy-groups:
       - 🇩🇪 node-de1.melonpanel.ir:8443
       - 🇳🇱 nl.kv.prod.n7.homes:8443
       - 188.114.98.0:80 2
+      - 195.172.138.224:59109
       - high-speed-test-01.linkpc.net:61234
       - 77.83.245.135:34205
       - 155.117.5.181:443
