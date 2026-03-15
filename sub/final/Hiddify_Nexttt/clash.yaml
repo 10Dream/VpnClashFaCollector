@@ -466,13 +466,10 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@Hiddify_Nexttt", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 2", server: 107.175.134.127, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 3", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 4", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 5", server: 107.175.134.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 6", server: 142.171.65.106, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 7", server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Hiddify_Nexttt 8", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@Hiddify_Nexttt 2", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
+  - {name: "@Hiddify_Nexttt 3", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: "@Hiddify_Nexttt 4", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@Hiddify_Nexttt + Psiphon", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -493,10 +490,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -507,10 +501,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -521,10 +512,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -544,10 +532,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -558,10 +543,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -572,10 +554,7 @@ proxy-groups:
       - "@Hiddify_Nexttt 2"
       - "@Hiddify_Nexttt 3"
       - "@Hiddify_Nexttt 4"
-      - "@Hiddify_Nexttt 5"
-      - "@Hiddify_Nexttt 6"
-      - "@Hiddify_Nexttt 7"
-      - "@Hiddify_Nexttt 8"
+      - "@Hiddify_Nexttt + Psiphon"
   - name: دانلود منیجر 📥
     type: select
     proxies:

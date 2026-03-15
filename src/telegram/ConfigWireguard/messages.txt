@@ -1,5 +1,104 @@
 # آرشیو کانال: @ConfigWireguard
-بروزرسانی: 2026-03-14 19:19:43 UTC
+بروزرسانی: 2026-03-15 05:46:03 UTC
+
+### 🕒 2026-03-14 22:04:31 UTC
+> ↪️ **Forwarded**
+
+***🔧***
+ راهنمای قدم به قدم: SlipNet + V2Ray + سایفون
+مرحله ۱ - SlipNet:
+***▫️***
+گزینه Settings → گزینه Proxy-only mode رو روشن کنید
+***▫️***
+ وصل بشید
+مرحله ۲ - V2Ray:
+***▫️***
+ Settings → Mode رو روی Proxy only بذارید
+***▫️***
+ Config → دکمه + → Add [SOCKS]
+***▫️***
+ address: 
+[127.0.0.1](http://127.0.0.1/)
+***▫️***
+ port: 1080
+***▫️***
+ وصل بشید
+مرحله ۳ - سایفون:
+***▫️***
+ Settings → Connect through an HTTP Proxy 
+***✅***
+***▫️***
+ Host Address: 
+[127.0.0.1](http://127.0.0.1/)
+***▫️***
+ Port: پورت لوکال V2Ray
+***▫️***
+ SlipNet و V2Ray رو تانل نکنید 
+***⚠️***
+***▫️***
+ کشور: هلند 
+***🇳🇱***
+***▫️***
+ وصل بشید
+***✅***
+ حتی با DNS 
+[8.8.8.8](http://8.8.8.8/)
+ هم کار می‌کنه
+امتحان کنید بگین براتون کار میکنه یا نه
+*__*
+_
+این روش برای زمانی هست که فیلترینگ شدید باشه و هیچ چیزی مستقیم وصل نشه. از تونل DNS (dnstt) به عنوان یه پل باریک استفاده می‌کنیم تا سایفون بتونه دست‌دهی اولیه‌اش رو انجام بده.
+مرحله ۱ - SlipNet (dnstt):
+***▫️***
+ برنامه SlipNet رو باز کنید
+***▫️***
+ برید تو Settings
+***▫️***
+ گزینه Proxy-only mode رو روشن کنید (این گزینه پروکسی SOCKS5 رو بدون ساختن تونل VPN فعال می‌کنه)
+***▫️***
+ وصل بشید تا تونل DNS فعال بشه
+مرحله ۲ - V2Ray:
+***▫️***
+ برنامه V2Ray رو باز کنید
+***▫️***
+مود Mode رو روی Proxy only بذارید (تو Settings پایین صفحه)
+***▫️***
+ تو صفحه Config دکمه + بزنید → Add [SOCKS] رو انتخاب کنید
+***▫️***
+ توی تنظیمات SOCKS:
+   - Config:  اسم دلخواه مثل test
+   - address: 
+[127.0.0.1](http://127.0.0.1/)
+   - port: 1080
+***▫️***
+ ذخیره کنید و به این کانفیگ وصل بشید
+***▫️***
+ پورت لوکال V2Ray رو یادداشت کنید (تو Settings → Local proxy port نوشته)
+مرحله ۳ - سایفون (Psiphon):
+***▫️***
+ سایفون رو باز کنید → برید تو Psiphon Settings
+***▫️***
+ گزینه Connect through an HTTP Proxy رو فعال کنید 
+***✅***
+***▫️***
+ Host Address: 
+[127.0.0.1](http://127.0.0.1/)
+***▫️***
+ Port: پورت لوکال V2Ray رو اینجا وارد کنید
+***▫️***
+ 
+***⚠️***
+ مهم: برنامه‌های SlipNet و V2Ray رو تانل نکنید تو سایفون (از لیست اپ‌ها حذفشون کنید)
+***▫️***
+ وصل بشید
+مرحله ۴ - بعد از اتصال:
+***▫️***
+ وقتی سایفون وصل شد، می‌تونید کانفیگ V2Ray رو عوض کنید
+***▫️***
+ حتی اگه قطع هم بشه مشکلی نیست، سایفون خودش مسیرهای جدید رو پیدا می‌کنه
+━━━━━━━━━━━━━━━
+
+---
 
 ### 🕒 2026-03-14 17:24:23 UTC
 slipnet://MTd8ZG5zdHR8YXJhc2h2cG5fc29ja3NfMXx0Mi5hcmFzaC5lbWFpbHwxLjAuMC4xOjUzOjAsMS4xLjEuMTo1MzowLDc2Ljc2LjIuMDo1MzowLDc2Ljc2LjEwLjA6NTM6MCwyMjMuNS41LjU6NTM6MCwxLjAuMC4yOjUzOjAsMTg1LjIyOC4xNjkuMTY4OjUzOjAsMTQ5LjExMi4xMTIuMTE6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NTZhM2EzNThiODU2Y2ZkOGUxMTMwZGJmM2E2N2NlYmNkZjAwYjBjOWQxYTc2YTczYmQwNTUxNjc3ZmM5MTIwNnx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8
@@ -409,18 +508,6 @@ DNSTT
 [82.99.195.82](http://82.99.195.82/)
 [2.144.6.158](http://2.144.6.158/)
 [91.212.252.48](http://91.212.252.48/)
-
----
-
-### 🕒 2026-03-11 21:03:01 UTC
-Slipnet 
-slipnet-enc://ASYieUQgEsFl4bgwm40USupuJZofQVEQG9rdgdpaLKOlxR6ddPc0OId1WA1Hb8pWQwtdyad71eakYQUBctJLCkXMDevOcERdiFz4rW8OgpHNFfJCa+csO+9KI3qm9RJ8X/qcaQuwMEiWt5Ytkrw6KejuFC5rYghppiCqC02eRkCB4BDpiwmTOF96DXiIcQEsk/PBTrFYK5jMj/4caLkwclJrQ0k8cXrazf3j24FezQOx5qaeFrVhra4zIHDvI0unrD5CCyDAyef1Jo/yU7y0wbbFbaXSFNKf8NPvELqypdeKdj9QOLYoWTB9tHn3q9Tonf3VccEhQGJqmn2vThG0aNpeUWuTPzypkP05EWlz20Vcn+ut5phJ/lAEXhsAFvSzJ8es0r0es9Z6Id9WMItafTOuhsD4fJDAVIZBw37gG0ZD2zJzSKHYNJ3vEndz6Hc61X831PycaPatgjmFyvXsC+ONlI1V8ndbmT4BPZXl8lVBvT3+wKkc89ymGA==
-
----
-
-### 🕒 2026-03-11 20:59:29 UTC
-Slipnet
-slipnet-enc://AdUo8Q/Ct8tlkoTancF+me9RsjeBP25F50VMTli1dBW8nVjmglu7q4dzkNE0V66e79G30XUNC5uR3Gnbv0+W2m2yhcqN9c4OI2Ag2P/NTs4n6H/xXpQUEeDGYuBu1TC8bZ0+226jmENqe2C0hKKlxwlhWAfMnyfse30w9sHtUaqYPr13ZujO7NboUq4Q0KPlg1m2TJ6/ui3y2+hTR36O87DlvzWXOclkLu9P5/O961OWfmOumy4b7NV3mzvbk3T21/GEjfjN5jdhr4YDqFiOAXxXRTLnPDq0mm438hfaA1Gji39YtsXRs6X6eU9cmfNai/ZJYZkn3uS7MW9PF63R83LsaJtp1VepCow4AaMph5RSZ3+u9TIeXLNhLh8bWhpNRkyNCSMvbJ0xuiIv2jiZckrqteVG8M7q1je6KgphtKvX7dZ+zGco
 
 ---
 

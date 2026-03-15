@@ -466,56 +466,70 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@LoopLine`", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
+  - {name: "@saministamm-1", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
   - {name: "@LoopLine", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@netmeli1405`", server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@Hddify 4`", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: "@LoopLine 2", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
   - {name: "@Hddify 2`", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@saministamm 9", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
-  - {name: "telegram: @saministamm 🌟", server: mandanishop.info, port: 2084, type: ss, cipher: chacha20-ietf-poly1305, password: mmHliN3hFqpjNlYXHsxz5Y, udp: true, tfo: false}
+  - {name: "@saministamm-3`", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@Hddify 3`", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@saministamm 7", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@saministamm`", server: promax.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 1292f33d-5f7d-7102-61bb-a0df21123b54, host: promax.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm-2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
+  - {name: "@saministamm", server: 103.186.154.254, port: 38388, type: ss, cipher: aes-256-gcm, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@saministamm`", server: 103.186.154.46, port: 38388, type: ss, cipher: aes-256-gcm, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@saministamm 2", server: 103.186.155.106, port: 38388, type: ss, cipher: aes-256-gcm, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@saministamm 3", server: 103.186.155.110, port: 38388, type: ss, cipher: aes-256-gcm, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "@saministamm 4", server: 103.186.155.111, port: 38388, type: ss, cipher: aes-256-gcm, password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV, udp: true, tfo: false}
+  - {name: "تلگرام : @WinstnChannel`", server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
+  - {name: "@saministamm` 2", server: promax.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 1292f33d-5f7d-7102-61bb-a0df21123b54, host: promax.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 5", server: 94.183.232.185, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: Telegram🇨🇳@WangCai2, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "Telegram:", server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm.`", server: 217.198.190.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 22f196a2-cf9c-470d-b310-0ee76a2d433f, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm", server: freedom.divar.codes, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2386dc1c-5550-4d32-a820-e75d50cc43be, servername: freedom.divar.codes, host: freedom.divar.codes, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 2", server: aa.blue-world.fun, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 24108840-6ae5-4700-b6a4-3cc52c99fa23, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 6", server: freedom.divar.codes, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 2386dc1c-5550-4d32-a820-e75d50cc43be, servername: freedom.divar.codes, host: freedom.divar.codes, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 8", server: aa.blue-world.fun, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 24108840-6ae5-4700-b6a4-3cc52c99fa23, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@@saministamm`", server: 47.76.58.59, port: 47464, type: vless, tls: true, packet-encoding: xudp, uuid: 24eb1467-2ef5-4e88-fc1c-7fa6f5adb059, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 3", server: sps1s.shahramv1.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3435f1fd-9383-4ca1-b6e2-98fdfdff23f3, servername: sps1s.shahramv1.site, host: sps1s.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 10", server: sps1s.shahramv1.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3435f1fd-9383-4ca1-b6e2-98fdfdff23f3, servername: sps1s.shahramv1.site, host: sps1s.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm, server: 57.129.49.1, port: 23576, type: vless, tls: true, packet-encoding: xudp, uuid: 48ff2b70-e180-582f-8866-d9a2edeed5f5, servername: fuck.rkn, host: fuck.rkn, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s, short-id: 01}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm | تلگرام جوین باشید`", server: outbounde.iran-mehrbu.ir, port: 16446, type: vless, tls: true, packet-encoding: xudp, uuid: 49bc99e9-305a-4045-a609-a258e8b2b76d, host: outbounde.iran-mehrbu.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 3", server: file4.farsgame.sbs, port: 55004, type: vless, tls: true, packet-encoding: xudp, uuid: 4cbd1d70-1341-4e23-b2d5-64254318c783, network: ws, ws-opts: {path: /, headers: {Host: rubika.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 2, server: 90909.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 553faafb-9d5e-4986-a2ab-450ad9fc6a3f, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 11", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 3, server: fi.shoppizii.ir, port: 769, type: vless, tls: true, packet-encoding: xudp, uuid: 5b78de3c-c0e2-4077-8f0a-cb9669099074, host: myket.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 4", server: farzandeiran.iransalar.top, port: 21531, type: vless, tls: true, packet-encoding: xudp, uuid: 5cc82fdd-847a-4b11-9f91-3d8f35ff9e09, host: farzandeiran.iransalar.top, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 12", server: mak1.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 5f73a92d-c089-5b53-9b99-cd3b0432d207, host: mak1.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 5", server: mak1.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 5f73a92d-c089-5b53-9b99-cd3b0432d207, host: mak1.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 4, server: 45.94.213.171, port: 52107, type: vless, tls: true, packet-encoding: xudp, uuid: 6054cd35-5dfc-48c8-b985-618b2571efa7, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 5, server: sps1s.shahramv1.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 614c6f16-de06-4dc1-8cb5-4e6e594ddb4e, servername: sps1s.shahramv1.site, host: sps1s.shahramv1.site, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ویژه کانال@saministamm, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ویژه…, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 4", server: simcard.parhamm1.ir, port: 5066, type: vless, tls: true, packet-encoding: xudp, uuid: 6cf22f1e-01b0-4f0d-8cbf-c4e275434150, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 13", server: simcard.parhamm1.ir, port: 5066, type: vless, tls: true, packet-encoding: xudp, uuid: 6cf22f1e-01b0-4f0d-8cbf-c4e275434150, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: simcard.parhamm1.ir:5066, server: simcard.parhamm1.ir, port: 5066, type: vless, tls: true, packet-encoding: xudp, uuid: 6cf22f1e-01b0-4f0d-8cbf-c4e275434150, host: speedtest.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | تلگرام", server: 85.133.240.82, port: 35812, type: vless, tls: true, packet-encoding: xudp, uuid: 6e1bdcda-c17f-4a65-9d7c-f03536236541, servername: learn.microsoft.com, host: learn.microsoft.com, path: /, reality-opts: {public-key: LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs, short-id: 82cada35130f1ef2}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 6, server: 104.19.173.68, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7e346122-2ee0-406e-b964-a8ee665f1814, servername: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV, network: ws, ws-opts: {path: /, headers: {Host: paRMis-1Tk63J.PArMiS.WoRkeRs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 7, server: 65.109.208.248, port: 21235, type: vless, tls: true, packet-encoding: xudp, uuid: 7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm` 2", server: ez.pubgping.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9d15d7ab-5867-4857-b813-bf1924510bca, host: ez.pubgping.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm.` 2", server: ne4.nilovip.net.tr, port: 6512, type: vless, tls: true, packet-encoding: xudp, uuid: b130c9b8-5e2f-4f96-9981-f70a8b1163f3, host: soft98.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 6", server: g1-de2-user.a1mshop.ir, port: 14300, type: vless, tls: true, packet-encoding: xudp, uuid: 8164cdb1-5b9b-49e1-83ef-b24a5c4c3ba8, host: aparat.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: wsss.beepn.info:2087, server: wsss.beepn.info, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 9298fb7d-d257-4b52-b9ac-d1fb279e3032, servername: Ws2.beepn.info, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /path, headers: {Host: Ws2.beepn.info}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 7", server: ez.pubgping.com, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: 9d15d7ab-5867-4857-b813-bf1924510bca, host: ez.pubgping.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 8, server: dlc-new1.persianpinggame.com, port: 5101, type: vless, tls: true, packet-encoding: xudp, uuid: b2d5d0d8-1c29-11f1-9350-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: mp.sanflow.ir:921, server: mp.sanflow.ir, port: 921, type: vless, tls: true, packet-encoding: xudp, uuid: b5606754-c9bb-4d17-bec5-eaceae8bc7ac, host: pro30afzar.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "telegram: @saministamm 🌟 2", server: 52.195.208.63, port: 14564, type: vless, tls: true, packet-encoding: xudp, uuid: b60dd651-2d4e-4c15-b2d0-60a76c5cc1a6, servername: www.apple.com, network: grpc, grpc-opts: {grpc-mode: multi, grpc-service-name: mci.ir}, reality-opts: {public-key: PVjuTK9q16H1XvZ1z11UT1ssMqYfm_w6pXhWeLOScT4, short-id: 9e569fc87f8d54}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@saministamm | پینگ نگیرید وصل شید`", server: STAR-17.starz-net.com, port: 2075, type: vless, tls: true, packet-encoding: xudp, uuid: c1e658cc-07d4-47d5-afc6-1fb78a725a75, host: STAR-17.starz-net.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 5", server: 1sofewhite.legendperm.ir, port: 1312, type: vless, tls: true, packet-encoding: xudp, uuid: c8c598e3-4811-4d63-82e0-f1b2fda2b900, host: 1sofewhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 14", server: 1sofewhite.legendperm.ir, port: 1312, type: vless, tls: true, packet-encoding: xudp, uuid: c8c598e3-4811-4d63-82e0-f1b2fda2b900, host: 1sofewhite.legendperm.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: �ministamm | تلگزام, server: s1.choosename.org, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: cfba2ce4-a114-49e0-8d11-0738dcc26afb, host: skyroom.online, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 6", server: theboy.ultimatechat.shop, port: 59811, type: vless, tls: true, packet-encoding: xudp, uuid: d35e4598-7b9d-4d53-8c5a-3244cb6781b1, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 8", server: tr4.rhino.bottm.security-gmp.rhinnoo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: d00a8716-bdfb-440d-9d2c-f6d944a02acd, host: tr4.rhino.bottm.security-gmp.rhinnoo.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 15", server: theboy.ultimatechat.shop, port: 59811, type: vless, tls: true, packet-encoding: xudp, uuid: d35e4598-7b9d-4d53-8c5a-3244cb6781b1, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 9", server: master.hecad.ir, port: 440, type: vless, tls: true, packet-encoding: xudp, uuid: d5444762-dfd5-46f3-a2de-df271a1a16d1, host: master.hecad.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tr2.rhino.bottm.security-gmp.rhinnoo.ir:80, server: tr2.rhino.bottm.security-gmp.rhinnoo.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: e370930f-fa08-474c-b4c2-a6ca7885ecf7, host: tr2.rhino.bottm.security-gmp.rhinnoo.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: saministamm 9, server: 193.151.132.191, port: 21606, type: vless, tls: true, packet-encoding: xudp, uuid: e38f5502-d700-41d1-9874-a4423e99dcff, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: تلگرام ما@saministamm, server: 188.114.98.0, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e4824193-4f54-453b-d037-88368e85ef0e, servername: pqh30v3.carwashipdir.shop, alpn: [h2], network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: saministamm 10, server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.38.143.232:443, server: 46.38.143.232, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ec612eee-5fef-4ca6-b69d-0e2618472e5f, servername: numberland.ir, network: ws, ws-opts: {path: /voip, headers: {Host: numberland.ir}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: saministamm 11, server: hamrahiran.sorenashoping.xyz, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: ede52d9c-2ce3-45d8-9f1a-f84ee2857155, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 107.175.134.127:443, server: 107.175.134.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @saministamm - US 198-vless, server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: saministamm 10, server: hamrahiran.sorenashoping.xyz, port: 44941, type: vless, tls: true, packet-encoding: xudp, uuid: ede52d9c-2ce3-45d8-9f1a-f84ee2857155, host: fast.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 10", server: 94.101.180.154, port: 555, type: vless, tls: true, packet-encoding: xudp, uuid: f0b49383-0623-44e5-a75c-09974e9b7a20, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm` 11", server: s3.333ina.ir, port: 2086, type: vless, tls: true, packet-encoding: xudp, uuid: f66f2e73-da63-4066-93df-45bc5ca9a762, network: ws, ws-opts: {path: /, headers: {Host: bmi.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@LoopLine 3", server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm.` 3", server: 185.213.10.99, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: fbf9b5e2-d4bf-4677-a1c6-4c57ea64e3ed, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: saministamm`, server: star.jeyranim.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: ffe756b3-a5c1-43c6-b1ef-19d216223385, host: star.jeyranim.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@V2icy", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@saministamm 8", server: dl4.kendoole.store, port: 443, type: vmess, uuid: 969ecc5d-813b-4d90-ad2f-bf987ccd8999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: soft98.ir}}, udp: true, tfo: false}
+  - {name: "@saministamm.`", server: 185.213.10.99, port: 2082, type: vless, tls: true, packet-encoding: xudp, uuid: fbf9b5e2-d4bf-4677-a1c6-4c57ea64e3ed, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 16", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@saministamm 17", server: dl4.kendoole.store, port: 443, type: vmess, uuid: 969ecc5d-813b-4d90-ad2f-bf987ccd8999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: soft98.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -533,55 +547,69 @@ proxy-groups:
     type: select
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -589,55 +617,69 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -645,55 +687,69 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -710,55 +766,69 @@ proxy-groups:
     interval: 600
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -766,55 +836,69 @@ proxy-groups:
     interval: 600
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -822,55 +906,69 @@ proxy-groups:
     interval: 600
     proxies:
       - "@LoopLine`"
+      - "@saministamm-1"
       - "@LoopLine"
       - "@netmeli1405`"
       - "@Hddify 4`"
       - "@LoopLine 2"
       - "@Hddify 2`"
       - "@saministamm 9"
-      - "telegram: @saministamm 🌟"
+      - "@saministamm-3`"
       - "@Hddify 3`"
       - "@saministamm 7"
-      - "@saministamm`"
-      - "Telegram:"
-      - "@saministamm.`"
+      - "@saministamm-2"
       - "@saministamm"
+      - "@saministamm`"
       - "@saministamm 2"
-      - "@@saministamm`"
       - "@saministamm 3"
+      - "@saministamm 4"
+      - "تلگرام : @WinstnChannel`"
+      - "@saministamm` 2"
+      - "@saministamm 5"
+      - "Telegram:"
+      - "@saministamm 6"
+      - "@saministamm 8"
+      - "@@saministamm`"
+      - "@saministamm 10"
       - saministamm
+      - "@saministamm | تلگرام جوین باشید`"
+      - "@saministamm` 3"
       - saministamm 2
+      - "@saministamm 11"
       - saministamm 3
+      - "@saministamm` 4"
+      - "@saministamm 12"
+      - "@saministamm` 5"
       - saministamm 4
       - saministamm 5
       - ویژه کانال@saministamm
       - ویژه…
-      - "@saministamm 4"
+      - "@saministamm 13"
       - simcard.parhamm1.ir:5066
       - "@saministamm | تلگرام"
       - saministamm 6
       - saministamm 7
-      - "@saministamm` 2"
-      - "@saministamm.` 2"
+      - "@saministamm` 6"
+      - wsss.beepn.info:2087
+      - "@saministamm` 7"
       - saministamm 8
       - mp.sanflow.ir:921
-      - "telegram: @saministamm 🌟 2"
       - "@saministamm | پینگ نگیرید وصل شید`"
-      - "@saministamm 5"
-      - "@saministamm 6"
+      - "@saministamm 14"
+      - "@saministamm` 8"
+      - "@saministamm 15"
+      - "@saministamm` 9"
       - tr2.rhino.bottm.security-gmp.rhinnoo.ir:80
       - saministamm 9
       - تلگرام ما@saministamm
-      - saministamm 10
       - 46.38.143.232:443
-      - saministamm 11
-      - 107.175.134.127:443
-      - 🇺🇸 @saministamm - US 198-vless
+      - saministamm 10
+      - "@saministamm` 10"
+      - "@saministamm` 11"
       - "@LoopLine 3"
-      - "@saministamm.` 3"
-      - saministamm`
-      - "@V2icy"
-      - "@saministamm 8"
+      - "@saministamm.`"
+      - "@saministamm 16"
+      - "@saministamm 17"
   - name: دانلود منیجر 📥
     type: select
     proxies:

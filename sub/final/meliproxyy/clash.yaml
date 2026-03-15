@@ -466,6 +466,8 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@meliproxyy", server: 102.37.156.224, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: aduB9HGxQHjA2SBMRjkHX6, udp: true, tfo: false}
+  - {name: meliproxyy, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
+  - {name: meliproxyy 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@meliproxyy`", server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy 2", server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@meliproxyy` 2", server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -491,6 +493,8 @@ proxy-groups:
     type: select
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"
@@ -506,6 +510,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"
@@ -521,6 +527,8 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"
@@ -545,6 +553,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"
@@ -560,6 +570,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"
@@ -575,6 +587,8 @@ proxy-groups:
     interval: 600
     proxies:
       - "@meliproxyy"
+      - meliproxyy
+      - meliproxyy 2
       - "@meliproxyy`"
       - "@meliproxyy 2"
       - "@meliproxyy` 2"

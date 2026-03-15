@@ -5,9 +5,6 @@ mode: Rule
 log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
-  - {name: 🇺🇸 @SamNet - US 142-ss, server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 107-ss, server: 107.175.134.127, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: OMJJIS9F5ivrt7s5sb5Nqg==:OMJJIS9F5ivrt7s5sb5Nqg==, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 23-ss, server: 23.95.113.104, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ghVQI4n9i1DV825oWdwbTg==:ghVQI4n9i1DV825oWdwbTg==, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8125", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: "@ServerTel 🌹👑🕊️", server: 147.78.0.182, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5456", server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
@@ -18,6 +15,7 @@ proxies:
   - {name: "@ghalagyann (تلگرام", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥", server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2", server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
+  - {name: �tline_ir, server: irancell.buzzmuzzpanel.online, port: 443, type: trojan, password: "%295%2C9FW.Kk166", sni: 028.eLECtRocEllco-Cf-028.worKErS.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "/eyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ==?ed=2560", headers: {Host: 028.eLECtRocEllco-Cf-028.worKErS.dev}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7638", server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3614", server: 65.109.129.120, port: 80, type: trojan, password: b65cbe72-59e2-4011-a22b-760621b5921f, sni: fl.configasli.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  2", server: www.multiplydose.com, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
@@ -40,11 +38,8 @@ proxies:
   - {name: "@v2rayconfigamir 9065", server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6109", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3499", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 4557", server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxymelimon, server: 18.193.206.143, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  3", server: 37.16.74.19, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 07cd9dbe-21ac-4871-817d-c772687e4b7c, servername: www.ibm.com, host: www.ibm.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU, short-id: 4a5b6c7d}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe", server: sw.truetunnel.xyz, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 0b9d4217-e627-46b9-8342-fa5463bdbcde, servername: sw.truetunnel.xyz, host: sw.truetunnel.xyz, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: VZ45JY_rFdpprcZhHnO_pxs0tm5XFyE7h6Yv_HVbJQg, short-id: fd4f56d0fd822539}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3799", server: 144.31.131.224, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 0ee2d410-3e64-4c41-a571-3e5d2b5b8982, servername: mold.speedload.online, host: mold.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7948", server: 89.185.81.169, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1218c022-dca8-49e5-b7d4-a04f3023db81, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0, short-id: 4e249e62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 2, server: 89.185.81.169, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1218c022-dca8-49e5-b7d4-a04f3023db81, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0, short-id: 4e249e62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9857", server: nr-01.opsvpnvless.ru, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1218c022-dca8-49e5-b7d4-a04f3023db81, servername: stats.vk-portal.net, host: stats.vk-portal.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2ryk_zFs_pzxv-bL9FkOk0Jb5oQw1jAbyXjp6oh96R0, short-id: 4e249e62}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -54,11 +49,19 @@ proxies:
   - {name: "@v2rayconfigamir 6866", server: 89.23.99.224, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1f80b24e-bbdf-4959-abca-3808377a37c3, servername: store.steampowered.com, host: store.steampowered.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM, short-id: 189cfa69}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 3, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 4, server: 188.114.98.0, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: 20d983ca-d7fa-4fc6-a3db-c6f7e56c4629, servername: a4.maxriser.ir, alpn: [h2%2Chttp%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: a4.maxriser.ir}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9616", server: cz.denditop.site, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: cz.denditop.site, host: cz.denditop.site, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 43.154.124.136:26666, server: 43.154.124.136, port: 26666, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: _acme-challenge.443888.xyz, network: ws, ws-opts: {path: /danfeng, headers: {Host: _acme-challenge.443888.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 7801", server: 45.85.93.59, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: k7ryegiaeu.chinam.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: k7ryegiaeu.chinam.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: berovps.masoodbiranvand-230.workers.dev:2053, server: berovps.masoodbiranvand-230.workers.dev, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 266169d9-665f-4fed-b1a8-da29794ee3cd, host: berovps.masoodbiranvand-230.workers.dev, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1726", server: 5.180.47.159, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2c564cf2-2291-4c8a-ad02-d8db601c41f9, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo, short-id: 9edc548e1e284d84}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 5, server: 5.180.47.159, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2c564cf2-2291-4c8a-ad02-d8db601c41f9, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Bg1P8Pv18fdeezfJWpqfUScMYHUUInCgdXsXEWBNBFo, short-id: 9edc548e1e284d84}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 2573", server: 45.148.102.189, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: shve.speedload.online, host: shve.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8558", server: 85.159.229.164, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: irl.speedload.online, host: irl.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.123.39.218:443, server: 93.123.39.218, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3130fccb-e72e-468d-b2ce-0721bb3058c8, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: pOdL1l8cGGg7qnOPAbDcAIVOgA7O8f75XevxeYyaYCg, short-id: cd11af}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 5264", server: 144.31.130.242, port: 8081, type: vless, tls: true, packet-encoding: xudp, uuid: 446879b9-710c-431b-94d0-f6b4c18a528a, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8150", server: 144.31.130.242, port: 8083, type: vless, tls: true, packet-encoding: xudp, uuid: 446879b9-710c-431b-94d0-f6b4c18a528a, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 8738", server: 144.31.130.242, port: 8444, type: vless, tls: true, packet-encoding: xudp, uuid: 446879b9-710c-431b-94d0-f6b4c18a528a, servername: max.ru, host: max.ru, path: /, reality-opts: {public-key: Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw, short-id: 7dbf7d3233971d5c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 162.159.38.119:443, server: 162.159.38.119, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 47702dbb-6607-4d76-80e9-cd75327be3e7, servername: zrf-623.pages.dev, network: ws, ws-opts: {path: /proxyip=sjc.o00o.ooo:443, headers: {Host: zrf-623.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@GamingConfigs", server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 7081", server: 188.114.97.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 532c9a78-307b-4e57-863d-b8d812708308, servername: FreE-azADnet.pagEs.DeV, alpn: [http/1.1], network: ws, ws-opts: {path: "/dkU-cln2-GSPOV-q?ed=2048", headers: {Host: FreE-azADnet.pagEs.DeV}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3791", server: esp.darknet.run, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 54c36460-4710-4c4d-8b58-0be7da081331, servername: esp.darknet.run, host: esp.darknet.run, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: c4t1GVO_dsgxbIp0decz6q_9NO2PMxNg-G1Zk2jsE0U, short-id: a1b223d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -67,6 +70,7 @@ proxies:
   - {name: "@v2rayconfigamir 8714", server: 178.250.243.188, port: 3443, type: vless, tls: true, packet-encoding: xudp, uuid: 5a5ca651-b3e4-425a-96f2-794547041670, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34, short-id: da5f84e85736f625}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Gangstersdonotcry", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@wiki_tajrobe", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: proxymelimon 2, server: 141.94.220.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: t.me/v2Line, headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8537", server: 178.33.161.196, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1929", server: 45.134.21.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 6, server: nlcdn7.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: nlcdn7.suio.me, host: nlcdn7.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -75,16 +79,15 @@ proxies:
   - {name: "  5", server: 172.66.44.211, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-channel%40.networld_vpn-], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  6", server: v1.dabache.top, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 8, server: 85.209.157.37, port: 568, type: vless, tls: true, packet-encoding: xudp, uuid: 6fd23cad-7332-433b-8e9e-2c105ec17a8f, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 1338", server: 94.103.0.31, port: 707, type: vless, tls: true, packet-encoding: xudp, uuid: 6fd23cad-7332-433b-8e9e-2c105ec17a8f, servername: www.amd.com, host: www.amd.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 9, server: cache2.datapull.cc, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 742d2dcb-ab26-4b10-b0a3-2efed2c154fa, servername: addons.mozilla.org, host: addons.mozilla.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: nmdu3rhLXUr8KzGtN_0D4Zc5JS1V8t9S4_iDXvtWk2I, short-id: 7f3d9b2c5e1a8d44}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1051", server: 45.15.178.124, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 75e1fde7-6bf6-48ef-ba43-400e960e185b, network: ws, ws-opts: {path: /vless/}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9668", server: pq-BosniaandHerzegovina1.09vpn.com, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 75e1fde7-6bf6-48ef-ba43-400e960e185b, network: ws, ws-opts: {path: /vless/, headers: {Host: pq-BosniaandHerzegovina1.09vpn.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9916", server: 109.120.189.188, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 7affe6ed-3783-4570-b1c7-c8049a94bb9f, servername: eh.vk.com, host: eh.vk.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: zjv3djnsCKDqP7zZFIrJ9ImzgdPE3zFMCYrOvdWqkEE, short-id: 79}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@kamkarstore", server: 65.109.208.248, port: 21235, type: vless, tls: true, packet-encoding: xudp, uuid: 7e6b66dc-6dbc-4d01-a13e-13d0be4f38ef, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 7162", server: 5.182.36.56, port: 45886, type: vless, tls: true, packet-encoding: xudp, uuid: 8338171d-2ea7-4015-bdea-492f3d5d4e60, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: zJeLZDPHoHMcAzBJh38tSavofNlkBrpADFx9jVVPil0, short-id: 94f9}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  7", server: 151.115.96.243, port: 7242, type: vless, tls: true, packet-encoding: xudp, uuid: 859b7d71-a9fc-4234-8e03-42eb876a170a, servername: modily.net, host: modily.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: jGmjU0vrRXCnIwn0rVatYKf5ihWZhMvqidp2ceY1QAM, short-id: 8c01e365}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8046", server: ip1-fast.tyryqyserver.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 85df0ad4-8818-4aa5-9799-4bb7232de9e0, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: tamamde1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2927", server: ip3-fast.tyryqyserver.ir, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 85df0ad4-8818-4aa5-9799-4bb7232de9e0, network: ws, ws-opts: {path: "/?ed=2052", headers: {Host: tamamde1.global.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9343", server: pl.fastdbn.com, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 8b483e0a-4e76-406d-a36d-c7775f8306ff, servername: google.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: google.com}, reality-opts: {public-key: 12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM, short-id: cdce15b3e2179ce8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 5623", server: 212.233.120.89, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 8be9d4c6-83db-42ab-a541-5cb4a6df0ae0, servername: ads.x5.ru, host: ads.x5.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: r6lN34m1nN-xQZ458j5NPD5xJ3_QBF2bGzY4KJEo4ic, short-id: abbcd128}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  8", server: 45.82.251.208, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "  9", server: pqh18v7.viripdirect.shop, port: 8880, type: vless, tls: true, packet-encoding: xudp, uuid: 8dc7722c-2767-4eea-a28b-2f8daacc07e3, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -97,33 +100,23 @@ proxies:
   - {name: "@v2rayconfigamir 7352", server: 95.164.44.237, port: 49790, type: vless, tls: true, packet-encoding: xudp, uuid: 99210efd-1a49-4085-add3-d1d2e4fdd6c2, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: Xj6-HabAfXfu2dIz1orkRH5rAlbGMs0YMc7Zo4aARlU, short-id: 9d90d7ada8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9782", server: 104.18.41.138, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a39f63e-28c8-4560-af18-b01b9916ef1b, servername: pardazesh-tgws.pages.dev, network: ws, ws-opts: {path: "/?ed=2048", headers: {Host: pardazesh-tgws.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: iampedi-vless-cdn-8880-sym32ta4, server: 46.225.61.97, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: a4b53348-294d-43be-8549-93055291de3f, network: ws, ws-opts: {path: /ws, headers: {Host: v.iampedi7.live}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 1462", server: 91.192.102.43, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a68c90a4-a560-489a-ab4b-d918e78e9dee, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 6520", server: 144.31.130.242, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aa4ea8e1-86ca-4e5e-9e14-824b139870b4, servername: main.tortvpnbot.world, host: main.tortvpnbot.world, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 11, server: fastly3.hamrahflow.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: be2557f7-a0df-4393-b71b-28013847059f, servername: default.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1369", server: cache-08.datapull.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c7a7051e-b2f6-44c9-b51b-474848706f8c, servername: www.ups.com, host: www.ups.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw, short-id: 1b9e5a2c7d3f6480}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.229.108.103:5443, server: 87.229.108.103, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yandex.com, host: yandex.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 12, server: 87.229.108.103, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yandex.com, host: yandex.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4225", server: 84.201.172.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: e01c0af7-f9d0-4ef3-be85-57268c462739, servername: ads.x5.ru, host: ads.x5.ru, path: /, reality-opts: {public-key: us7S6PJWZjvTlU_75tgCnnDdWZ83Wdwp44nNvVEWJ2M, short-id: cd4fe5335832}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 8184", server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: e332f028-d343-5b44-8016-b3130f39e133, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.148.31.0:15855, server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8494", server: 45.148.31.0, port: 15855, type: vless, tls: true, packet-encoding: xudp, uuid: e4fc4761-154f-490e-bbaa-b4fa193f1073, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3081", server: 77.110.119.11, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: e652bcb5-1974-451f-9845-1406b95e8a8d, servername: st.okcdn.ru, host: st.okcdn.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3151", server: 172.64.146.118, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: ecc19b72-2cc8-4690-b23d-960d3e3c6d40, servername: pardazeshvpn-tg24.pages.dev, network: ws, ws-opts: {path: "TELEGRAM-MARAMBASHI/?ed=2048", headers: {Host: pardazeshvpn-tg24.pages.dev}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 107-vless, server: 107.175.134.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 142-vless, server: 142.171.65.106, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 198-vless, server: 198.23.249.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: high-speed-test-01.linkpc.net:61234, server: high-speed-test-01.linkpc.net, port: 61234, type: vless, tls: true, packet-encoding: xudp, uuid: ef092640-433a-4f17-99bd-d5d206435606, servername: www.nintendo.com, host: www.nintendo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: Ck5v8Ja1m7hmsS5ahJaKZr3Z6ARwQWnX15jxDJtLwzM, short-id: 9c}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: Maznet-Psiphon-4, server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 23-vless, server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6205", server: 81.208.170.142, port: 1500, type: vless, tls: true, packet-encoding: xudp, uuid: sGLzG6kUwBpZd73sW0nq, servername: www.ebay.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE, short-id: 775eb6408888248e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 142, server: 142.171.65.106, port: 10412, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 198-vmess, server: 198.23.249.154, port: 8443, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 198, server: 198.23.249.154, port: 10410, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 107, server: 107.175.134.127, port: 10411, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇺🇸 @SamNet - US 23, server: 23.95.113.104, port: 10413, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 4616", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /vvip, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3699", server: 103.224.80.7, port: 2087, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 2340", server: 159.89.29.136, port: 80, type: vmess, uuid: d20d6ede-433c-11ed-b81f-cfd905df9958, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /vmess, headers: {Host: cx.com}}, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8562", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
-  - {name: "Telegram: @wiki_tajrobe 2", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@ByGFW", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 13, server: n1761296877.lie5d.cyou, port: 443, type: vmess, uuid: 1ebfdffa-1a37-4336-8494-f85b36cdf087, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1761296877.lie5d.cyou}}, udp: true, tfo: false}
 proxy-groups:
   - name: 🚀 节点选择
@@ -131,9 +124,6 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -166,11 +156,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -180,11 +167,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -193,6 +188,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -201,16 +197,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -223,33 +218,23 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: ♻️ 自动选择
     type: url-test
@@ -257,9 +242,6 @@ proxy-groups:
     interval: 300
     tolerance: 50
     proxies:
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -292,11 +274,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -306,11 +285,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -319,6 +306,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -327,16 +315,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -349,33 +336,23 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: 🌍 国外媒体
     type: select
@@ -383,9 +360,6 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -418,11 +392,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -432,11 +403,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -445,6 +424,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -453,16 +433,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -475,42 +454,29 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -543,11 +509,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -557,11 +520,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -570,6 +541,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -578,16 +550,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -600,42 +571,29 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -668,11 +626,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -682,11 +637,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -695,6 +658,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -703,16 +667,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -725,42 +688,29 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -793,11 +743,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -807,11 +754,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -820,6 +775,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -828,16 +784,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -850,33 +805,23 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
   - name: 🎯 全球直连
     type: select
@@ -905,9 +850,6 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🇺🇸 @SamNet - US 142-ss
-      - 🇺🇸 @SamNet - US 107-ss
-      - 🇺🇸 @SamNet - US 23-ss
       - "@v2rayconfigamir 8125"
       - "@ServerTel 🌹👑🕊️"
       - "@v2rayconfigamir 5456"
@@ -940,11 +882,8 @@ proxy-groups:
       - "@v2rayconfigamir 9065"
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
-      - "@v2rayconfigamir 4557"
       - proxymelimon
       - "  3"
-      - "Telegram: @wiki_tajrobe"
-      - "@v2rayconfigamir 3799"
       - "@v2rayconfigamir 7948"
       - ⚡Telegram - @prrofile_purple 2
       - "@v2rayconfigamir 9857"
@@ -954,11 +893,19 @@ proxy-groups:
       - "@v2rayconfigamir 6866"
       - ⚡Telegram - @prrofile_purple 3
       - ⚡Telegram - @prrofile_purple 4
+      - "@v2rayconfigamir 9616"
       - 43.154.124.136:26666
+      - "@v2rayconfigamir 7801"
+      - berovps.masoodbiranvand-230.workers.dev:2053
       - "@v2rayconfigamir 1726"
       - ⚡Telegram - @prrofile_purple 5
+      - "@v2rayconfigamir 2573"
       - "@v2rayconfigamir 8558"
       - 93.123.39.218:443
+      - "@v2rayconfigamir 5264"
+      - "@v2rayconfigamir 8150"
+      - "@v2rayconfigamir 8738"
+      - 162.159.38.119:443
       - "@GamingConfigs"
       - "@v2rayconfigamir 7081"
       - "@v2rayconfigamir 3791"
@@ -967,6 +914,7 @@ proxy-groups:
       - "@v2rayconfigamir 8714"
       - "@Gangstersdonotcry"
       - "@wiki_tajrobe"
+      - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
       - ⚡Telegram - @prrofile_purple 6
@@ -975,16 +923,15 @@ proxy-groups:
       - "  5"
       - "  6"
       - ⚡Telegram - @prrofile_purple 8
-      - "@v2rayconfigamir 1338"
       - ⚡Telegram - @prrofile_purple 9
       - "@v2rayconfigamir 1051"
       - "@v2rayconfigamir 9668"
       - "@v2rayconfigamir 9916"
       - "@kamkarstore"
+      - "@v2rayconfigamir 7162"
       - "  7"
       - "@v2rayconfigamir 8046"
       - "@v2rayconfigamir 2927"
-      - "@v2rayconfigamir 9343"
       - "@v2rayconfigamir 5623"
       - "  8"
       - "  9"
@@ -997,33 +944,23 @@ proxy-groups:
       - "@v2rayconfigamir 7352"
       - "@v2rayconfigamir 9782"
       - iampedi-vless-cdn-8880-sym32ta4
+      - "@v2rayconfigamir 1462"
+      - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 11
       - "@v2rayconfigamir 1369"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 12
       - "@v2rayconfigamir 4225"
-      - "@v2rayconfigamir 8184"
       - 45.148.31.0:15855
       - "@v2rayconfigamir 8494"
       - "@v2rayconfigamir 3081"
       - "@v2rayconfigamir 3151"
-      - 🇺🇸 @SamNet - US 107-vless
-      - 🇺🇸 @SamNet - US 142-vless
-      - 🇺🇸 @SamNet - US 198-vless
+      - high-speed-test-01.linkpc.net:61234
       - Maznet-Psiphon-4
-      - 🇺🇸 @SamNet - US 23-vless
-      - "@v2rayconfigamir 6205"
-      - 🇺🇸 @SamNet - US 142
-      - 🇺🇸 @SamNet - US 198-vmess
-      - 🇺🇸 @SamNet - US 198
-      - 🇺🇸 @SamNet - US 107
-      - 🇺🇸 @SamNet - US 23
       - "@v2rayconfigamir 4616"
       - "@v2rayconfigamir 3699"
       - "@v2rayconfigamir 2340"
       - "@v2rayconfigamir 8562"
-      - "Telegram: @wiki_tajrobe 2"
-      - "@ByGFW"
       - ⚡Telegram - @prrofile_purple 13
 rules:
   - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连

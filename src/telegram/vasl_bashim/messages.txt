@@ -1,5 +1,173 @@
 # آرشیو کانال: @vasl_bashim
-بروزرسانی: 2026-03-14 19:31:16 UTC
+بروزرسانی: 2026-03-15 05:57:06 UTC
+
+### 🕒 2026-03-15 05:55:41 UTC
+چون زیاد میپرسین توی دایرکت دوباره گذاشتم
+
+---
+
+### 🕒 2026-03-15 05:55:24 UTC
+**روش سایفون + ویتوری**
+اگر کانفیگ ویتوری دارید (اگر ندارین توی چنل یه تعدادی میزاریم) که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید : 
+وارد ویتوری بشید و برید قسمت تنظیمات
+گزینه پورت پروکسی محلی رو بزارید 2080 یا 10808
+Local proxy port : 2080 or 10808
+آخر صفحه تنظیمات ، اونجا که نوشته تنظیمات بیشتر یه گزینه هست برای انتخاب حالت که به صورت پیش فرض روی vpn قرار داره ، اونو بزارید روی حالت فقط پروکسی
+Mod : proxy only
+حالا ویتوری روشن کنید و برید توی برنامه سایفون 
+برید قسمت گزینه ها ، تنظیمات vpn انتخاب کنید ، عدم تونل برنامه های انتخاب شده رو تیک بزنید ، و زیرش یه گزینه هست برای انتخاب برنامه ، اونو بزنید و برنامه ویتوری از لیست پیدا کنید  و تیک بزنید.
+یک مرحله برگردید عقب و برید قسمت تنظیمات پروکسی توی سایفون
+Proxy settings 
+سه تا گزینه براتون میاد که گزینه اول باید تیک خورده باشه ، بعدش گزینه 
+Use the following settings 
+استفاده از این تنظیمات رو انتخاب کنید
+Host address: 
+[127.0.0.1](http://127.0.0.1/)
+آدرس هاست
+Port : 2080 or 10808
+پورت همون قبلی باید باشه
+در نهایت سایفون روشون کنید ، بعد از یکی دو دقیقه اتصال برقرار میشه.
+طبق گفته ها این روش با کانفیگ های تست بهتر جواب میده.
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 05:26:22 UTC
+vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#%40vasl_bashim  مناسب روش ویتوری + سایفون  @vasl_bashim
+
+---
+
+### 🕒 2026-03-15 05:19:06 UTC
+`vless://f69fb3fd-fec4-8b01-301b-787c7edad2f9@po.jijibiji.online:1010?security=none&encryption=none&host=tv3.ir&headerType=http&type=tcp&sni=57.128.255.3#%40vasl_bashim`
+مناسب 
+[روش ویتوری + سایفون](https://t.me/vasl_bashim/7858)
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 05:06:02 UTC
+`vless://49bc99e9-305a-4045-a609-a258e8b2b76d@outbounde.iran-mehrbu.ir:16446?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim`
+پینگ (tcping) میده
+اول تست کنین اگر خودش وصل شد که اوکیه
+اگر نشد برای سایفون امتحانش کنین
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 05:02:58 UTC
+تست کنین
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 05:01:57 UTC
+اگر ساب دارید و نمیتونید کانفیگ‌هاش رو استخراج کنید، این ربات میتونه بهتون کمک کنه :
+[@SubExtractorIrBot](https://t.me/SubExtractorIrBot)
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 04:39:02 UTC
+یه لیست بلند بالا DNS 
+برای SlipNet به اخرش53: اضافه کنید و از اولش udp:// پاک کنید.مثال:
+[8.8.8.8:53](http://8.8.8.8:53/)
+برای Am tunnel به اولش udp:// اضافه کنید و 53: رو پاک کنید مثال:
+udp://8.8.8.8
+برای ویتوباکس (udp:// و 53: ) رو پاک کنید. مثال:
+[8.8.8.8](http://8.8.8.8/)
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 04:10:04 UTC
+`vmess://eyJhZGQiOiJnc212cG4uZ3NtdnguY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImIxNzM0NWI5LTYyNjYtNDdmMi1hNDczLThjNTdjYmZlOWVmOSIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiNTAwNiIsInBzIjoiQHZhc2xfYmFzaGltIC0gUHNpcGhvbitWMnJheU5HIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==`
+مناسب 
+[روش ویتوری + سایفون](https://t.me/vasl_bashim/7858)
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-15 03:52:26 UTC
+سلام صبحتون بخیر
+
+---
+
+### 🕒 2026-03-14 22:51:11 UTC
+کپی کنید توی npv بزنید:
+`{"remarks":"@vasl_bashim","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"92.114.24.195","port":443,"users":[{"id":"9bc7f7d5-6f0d-47ca-bb80-b1d1be127797","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"ws","security":"tls","wsSettings":{"path":"/no?ed=443","headers":{"Host":"api.meibourse.com"}},"tlsSettings":{"allowInsecure":false,"serverName":"api.meibourse.com","fingerprint":"chrome","show":false}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}`
+﻿
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 22:40:49 UTC
+تست کنین
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 22:25:51 UTC
+`vless://1ad2695a-4bd9-4c88-8b19-ed60ff3c2192@94.182.145.78:60001?security=none&encryption=none&headerType=none&type=tcp#@vasl_bashimvless://5558156d-3a2c-4843-9eb9-06e69ac3a2bf@f2.hamrahconf.ir:8443?path=%2F&security=tls&encryption=none&insecure=0&host=app-core-02.secoxi.site&type=ws&allowInsecure=0&sni=uiuyoyw.secoxi.site#@vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 22:21:36 UTC
+`vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 21:30:48 UTC
+`vless://266169d9-665f-4fed-b1a8-da29794ee3cd@berovps.masoodbiranvand-230.workers.dev:2053?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@vasl_bashimvless://b285bdf6-8972-45a2-c37c-405379f8b458@iran.overdoes.site:15320?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/XIXVPN?ed%3D2560&headerType=http#@vasl_bashimvless://f75305e2-de53-4add-acc8-f9308394f5a4@emg3.saipasamandemg3.sbs:2003?security=none&allowInsecure=0&encryption=none&type=tcp&host=anten.ir&path=/XIXVPN?ed%3D2560&headerType=http#@vasl_bashimvless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&allowInsecure=0&encryption=none&type=tcp&headerType=none#@vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 21:25:09 UTC
+`vless://4cbd1d70-1341-4e23-b2d5-64254318c783@file4.farsgame.sbs:55004?path=%2F&security=none&encryption=none&host=rubika.ir&type=ws#%E2%9A%A1Telegram%20%3D%20%40vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 21:25:01 UTC
+`ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ@142.171.65.106:8388#vasl_bashimss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.62:8080#vasl_bashimss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoYkdycGZ2TnJKc1VtS21QYlIzaVky@tinkered-pennies-puppies.freesocks.work:443#vasl_bashim`
+ ترکیب با سایفون ✓✓
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 21:19:04 UTC
+`trojan://%295%2C9FW.Kk166@irancell.buzzmuzzpanel.online:443?path=%2FeyJqdW5rIjoiU2oxczB0b0tSIiwicHJvdG9jb2wiOiJ0ciIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=028.electrocellco-cf-028.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=028.eLECtRocEllco-Cf-028.worKErS.dev#%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20%40vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 20:21:16 UTC
+تست کنین
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 19:59:37 UTC
+بعضیا با این ورژن به 
+[روش ویتوری + سایفون](https://t.me/vasl_bashim/7858)
+ وصلن
+شمام تست کنین
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
+
+### 🕒 2026-03-14 19:54:21 UTC
+‏وقتی میبینم خانواده با کانفیگ‌های حجمی که براشون خریدم، پست‌ و استوری میذارن اینستاگرام، تازه میفهمم بابام چه حسی داره وقتی توی خونه چراغ‌ها و کولر رو هی خاموش میکنه :))
+
+---
+
+### 🕒 2026-03-14 19:39:33 UTC
+`vless://f8d4581a-6dd4-5f4d-b37d-b994c5ae81b1@104.21.17.104:8880?mode=auto&path=%2Fcompass%2Fcdn%2F%3FI&security=none&encryption=none&host=ci49kfwjrc-57129121185.hediiigate.com&type=xhttp#%E2%9A%A1Telegram%20%3D%20%40vasl_bashimvless://ede52d9c-2ce3-45d8-9f1a-f84ee2857155@hamrahiran.sorenashoping.xyz:44941?security=none&encryption=none&host=fast.com&headerType=http&type=tcp#%E2%9A%A1Telegram%20%3D%20%40vasl_bashimvless://32332baa-3178-4c57-9c17-5f3bcf974bc1@st19.iranian-technology.com:18941?security=none&encryption=none&headerType=none&type=tcp#%E2%9A%A1Telegram%20%3D%20%40vasl_bashim`
+[@vasl_bashim](https://t.me/vasl_bashim)
+
+---
 
 ### 🕒 2026-03-14 19:26:37 UTC
 [#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
@@ -2116,490 +2284,6 @@ Psiphon
 ***⬇️***
 ***⬇️***
 [https://uploadb.me/gn77xjun5mai/Psiphon.apk.html](https://uploadb.me/gn77xjun5mai/Psiphon.apk.html)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 05:51:02 UTC
-بیاین اینجا کسایی که جواب گرفتن با روش ویتوری + سایفون بهتون کمک میکنن شمام اوکی شین
-[https://t.me/vasl_bashim_group](https://t.me/vasl_bashim_group)
-
----
-
-### 🕒 2026-03-12 05:39:21 UTC
-`vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQHZhc2xfYmFzaGltIFBzaXBob24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206Z2hWUUk0bjlpMURWODI1b1dkd2JUZz09OmdoVlFJNG45aTFEVjgyNW9XZHdiVGc9PQ%3D%3D@23.95.113.104:8388#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?path=%2F&security=none&encryption=none&type=ws#%40vasl_bashimss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206QVNNa0N3L1NNQThNelpLOHR2NXZOdz09OkFTTWtDdy9TTUE4TXpaSzh0djV2Tnc9PQ%3D%3D@142.171.65.106:8388#%40vasl_bashim`
-قابل استفاده در روش سایفون + ویتوری
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 05:31:18 UTC
-دوستانی که سایفون + ویتوری وصل شدین به این ارور بر نخوردین ؟
-
----
-
-### 🕒 2026-03-12 05:15:10 UTC
-چون زیاد پرسیدین روششو دوباره گذاشتم
-
----
-
-### 🕒 2026-03-12 05:15:02 UTC
-ترکیب ویتوری + سایفون در اکثر نقاط با نت ایرانسل و مخابرات تست شده و کار می‌کنه 
-اگر کانفیگ ویتوری دارید که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید : 
-وارد ویتوری بشید و برید قسمت تنظیمات
-گزینه پورت پروکسی محلی رو بزارید 2080
-Local proxy port : 2080
-آخر صفحه تنظیمات ، اونجا که نوشته تنظیمات بیشتر یه گزینه هست برای انتخاب حالت که به صورت پیش فرض روی vpn قرار داره ، اونو بزارید روی حالت فقط پروکسی
-Mod : proxy only
-حالا ویتوری روشن کنید و برید توی برنامه سایفون 
-برید قسمت گزینه ها ، تنظیمات vpn انتخاب کنید ، عدم تونل برنامه های انتخاب شده رو تیک بزنید ، و زیرش یه گزینه هست برای انتخاب برنامه ، اونو بزنید و برنامه ویتوری از لیست پیدا کنید  و تیک بزنید.
-یک مرحله برگردید عقب و برید قسمت تنظیمات پروکسی توی سایفون
-Proxy settings 
-سه تا گزینه براتون میاد که گزینه اول باید تیک خورده باشه ، بعدش گزینه 
-Use the following settings 
-استفاده از این تنظیمات رو انتخاب کنید
-Host address: 
-[127.0.0.1](http://127.0.0.1/)
-آدرس هاست
-Port : 2080
-پورت
-در نهایت سایفون روشون کنید ، بعد از یکی دو دقیقه اتصال برقرار میشه.
-این روش در اکثر مناطق با نت ایرانسل و مخابرات تست شده و کار می‌کنه.
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 05:00:07 UTC
-دوستانی که سایفون + ویتوری وصل شدین به این ارور بر نخوردین ؟
-
----
-
-### 🕒 2026-03-12 04:16:17 UTC
-دوستان وضعیت ؟ 
-به چی وصلین به کی وصلین ؟
-با خایمالی وصلین یا کصکشی ؟
-
----
-
-### 🕒 2026-03-12 04:00:28 UTC
-متصل
-[https://t.me/proxy?server=185.60.137.156&port=8443&secret=75f9a8da21406c0db5e92c015368345c](https://t.me/proxy?server=185.60.137.156&port=8443&secret=75f9a8da21406c0db5e92c015368345c)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 03:59:27 UTC
-`vless://b130c9b8-5e2f-4f96-9981-f70a8b1163f3@ne4.nilovip.net.tr:6512?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp#%40vasl_bashimvless://22f196a2-cf9c-470d-b310-0ee76a2d433f@217.198.190.3:443?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#%40vasl_bashim`
-**منطقه ای متصل با سرعت بالا**
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 03:58:07 UTC
-super dns
-[81.12.31.48](http://81.12.31.48/)
-[87.107.137.250](http://87.107.137.250/)
-[94.101.130.239](http://94.101.130.239/)
-[94.183.126.46](http://94.183.126.46/)
-[212.86.72.72](http://212.86.72.72/)
-[212.86.76.69](http://212.86.76.69/)
-[217.144.107.162](http://217.144.107.162/)
-[217.170.251.26](http://217.170.251.26/)
-[2.188.210.13](http://2.188.210.13/)
-[31.24.234.37](http://31.24.234.37/)
-[45.81.18.141](http://45.81.18.141/)
-[45.81.19.13](http://45.81.19.13/)
-[46.245.90.90](http://46.245.90.90/)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 03:40:18 UTC
-`ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06d3hhMlBLYkYwLzFVclJpQm9lV056YUxWRnEzNjZIRzc1SVlTK0ZqVTdPYz0%3D@95.216.238.249:37337#%40vasl_bashim%20Psiphonvmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQHZhc2xfYmFzaGltIFBzaXBob24iLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9`
-**برای استفاده در روش ویتوری + سایفون**
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-12 03:39:46 UTC
-سلام صبحتون بخیر
-
----
-
-### 🕒 2026-03-12 01:03:07 UTC
-> ↪️ **Forwarded**
-
-سایت های زیر رو داشته باشید 
-تا در صورت نیاز استفاده کنید :
-موتور جستجو 
-[https://zarebin.ir](https://zarebin.ir/)
-[https://gerdoo.me](https://gerdoo.me/)
-[https://2059.ir](https://2059.ir/)
-مسیریابی 
-[https://neshan.org](https://neshan.org/)
-[https://balad.ir](https://balad.ir/)
-آپلود فایل 
-[http://www.picofile.com](http://www.picofile.com/)
-[https://abrehamrahi.ir](https://abrehamrahi.ir/)
-[https://uploadkon.ir](https://uploadkon.ir/)
-[https://uupload.ir](https://uupload.ir/)
-رد و بدل کانفیگ بصورت رمزنگاری شده
-[https://pastehub.ir](https://pastehub.ir/)
-[https://pasted.ir](https://pasted.ir/)
-فیلم و سریال
-[cup.theazizi.ir](http://cup.theazizi.ir/)
-[https://f2mc.top](https://f2mc.top/)
-[https://myf2m.org/](https://myf2m.org/)
-[https://serialblog.blog.ir](https://serialblog.blog.ir/)
-[https://dls2.iran-gamecenter-host.com/DonyayeSerial/top_5000_movies.html](https://dls2.iran-gamecenter-host.com/DonyayeSerial/top_5000_movies.html)
-[https://dls2.iran-gamecenter-host.com/DonyayeSerial/top_1000_series.html](https://dls2.iran-gamecenter-host.com/DonyayeSerial/top_1000_series.html)
-موزیک
-[https://aparatmusic.com](https://aparatmusic.com/)
-برنامه و گیم 
-[https://www.downloadha.com](https://www.downloadha.com/)
-[Soft98.ir](http://Soft98.ir/)
-[https://par30games.net](https://par30games.net/)
-[https://gamerha.top](https://gamerha.top/)
-[https://elaymedia.ir](https://elaymedia.ir/)
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-12 00:48:16 UTC
-`vmess://eyJhZGQiOiJkbDYucm9wYXNsYW5kLmlyIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjUxYWU0ZjQxLTNjYWEtNGRiZC04MTM3LTFiYzdiNGU4ZDA3YiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjA0MyIsInBzIjoiQHZhc2xfYmFzaGltIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQHZhc2xfYmFzaGltIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==ss://YWVzLTI1Ni1nY206T3UyZkZ4c2VmR2h3ZU4yUEJkWA%3D%3D@195.230.107.5:10594#%40vasl_bashimvless://619815c6-fce7-4448-b881-4f58d82ce990@h1.msljha8844.site:2020?encryption=none&security=none&type=tcp&headerType=http&host=cafeariel.ir&path=%2F#%40vasl_bashimvless://1cdc6136-1f8f-478b-9450-feeb16b1acd0@85.133.227.102:2053?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%40vasl_bashimss://YWVzLTI1Ni1nY206T3UyZkZ4c2VmR2h3ZU4yUEJkWA%3D%3D@195.230.107.5:10594#%40vasl_bashim`
-برای شب زنده دارن
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 23:54:01 UTC
-Dns
-[2.144.22.69](http://2.144.22.69/)
-[178.252.170.222](http://178.252.170.222/)
-[91.92.214.66](http://91.92.214.66/)
-[217.218.82.102](http://217.218.82.102/)
-[62.220.112.46](http://62.220.112.46/)
-[185.24.253.120](http://185.24.253.120/)
-[185.212.51.144](http://185.212.51.144/)
-[87.107.164.191](http://87.107.164.191/)
-[188.136.174.34](http://188.136.174.34/)
-[212.16.74.198](http://212.16.74.198/)
-[109.201.11.75](http://109.201.11.75/)
-[217.144.106.218](http://217.144.106.218/)
-[185.24.253.48](http://185.24.253.48/)
-[5.202.177.197](http://5.202.177.197/)
-[212.86.72.72](http://212.86.72.72/)
-[94.182.91.211](http://94.182.91.211/)
-[185.129.216.26](http://185.129.216.26/)
-[46.100.5.135](http://46.100.5.135/)
-[80.210.53.97](http://80.210.53.97/)
-[91.92.209.5](http://91.92.209.5/)
-[91.212.252.48](http://91.212.252.48/)
-[95.80.160.180](http://95.80.160.180/)
-[37.75.243.138](http://37.75.243.138/)
-[95.80.160.66:53](http://95.80.160.66:53/)
-[91.92.209.5:53](http://91.92.209.5:53/)
-[91.92.209.194:53](http://91.92.209.194:53/)
-[91.92.208.43:53](http://91.92.208.43:53/)
-[194.225.62.66:53](http://194.225.62.66:53/)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:53:01 UTC
-Dns
-[2.144.20.183](http://2.144.20.183/)
-        |  
-[185.49.84.2](http://185.49.84.2/)
-[188.213.66.140](http://188.213.66.140/)
-   |  
-[91.92.209.167](http://91.92.209.167/)
-[176.65.241.236](http://176.65.241.236/)
-   |  
-[5.202.193.115](http://5.202.193.115/)
-[91.199.27.240](http://91.199.27.240/)
-     |  
-[178.173.149.213](http://178.173.149.213/)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:45:14 UTC
-`vless://c3f6fffd-326e-4508-be28-794bf1b47e5b@35.183.30.109:18945?type=xhttp&encryption=none&path=%2Fggggggg&host=&mode=auto&security=reality&pbk=vtkr4rLzPjXtzQ6gAAydXT4c4RHlKwsz7ZGKqAeOmz4&fp=chrome&sni=www.tesla.com&sid=f11ad641&spx=%2F#%40vasl_bashimvless://3d1dff5f-c660-41d4-a07a-18d3bbd18856@35.183.30.109:28290?type=grpc&encryption=none&serviceName=mci.ir&authority=&mode=multi&security=reality&pbk=4o_3HzqjgptEZTzCR7FMpu565qQ1dlq00T3B37jjrXE&fp=safari&sni=www.tesla.com&sid=63076134&spx=%2F#%40vasl_bashimvless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://42858609-7dfb-40e9-abdc-88da31a50ab7@theboy.ultimatechat.shop:50953?mode=gun&security=none&encryption=none&type=grpc#%40vasl_bashimvless://edb9f37f-b90b-4714-a822-19adcfa53abc@85.133.227.13:35812?security=reality&encryption=none&pbk=LOS87LofEJA0paPzrS2mIFhmTaqkOZC-AUFgNvE1UEs&headerType=none&fp=chrome&type=tcp&sni=www.microsoft.com&sid=82cada35130f1ef2#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&encryption=none&path=%2F&host=&security=none#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:42:00 UTC
-`vless://42858609-7dfb-40e9-abdc-88da31a50ab7@theboy.ultimatechat.shop:50953?mode=gun&security=none&encryption=none&type=grpc#@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:39:29 UTC
-V2Box:
-`vless://ffe756b3-a5c1-43c6-b1ef-19d216223385@star.jeyranim.ir:2053?security=none&encryption=none&headerType=none&type=tcp#vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:15:08 UTC
-> ↪️ **Forwarded**
-
-***🔹***
-ادعای شبکه ای‌بی‌سی‌نیوز: اف‌بی‌آی به ادارات پلیس در کالیفرنیا هشدار داده که ممکن است ایران در تلافی حملات آمریکا، به سواحل غربی ایالات متحده پهپاد انتحاری شلیک کند./فارس
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-11 22:13:05 UTC
-`vless://ffe756b3-a5c1-43c6-b1ef-19d216223385@star.jeyranim.ir:2053?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim`
-حجمش کمه دان نکنین باهاش
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 22:05:37 UTC
-`vmess://eyJhZGQiOiIyMTcuMjE4LjUyLjEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjkzZjEzNGYtN2FkYi00OGMzLWJjZDEtMjUzMmVkYjBiNDc4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxMDQxMCIsInBzIjoiQHZhc2xfYmFzaGltIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==vless://6202b230-417c-4d8e-b624-0f71afa9c75d@57.128.176.82:8443?encryption=none&security=tls&sni=sni.111000.indevs.in&fp=chrome&insecure=1&type=ws&host=sni.111000.indevs.in&path=/?ed=2560#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?path=%2F&security=none&encryption=none&type=ws#%40vasl_bashimvless://65e7f833-78f3-4013-9402-2694b09de74d@tu5.pokerpings.com:2052?security=none&encryption=none&host=filimo.com&headerType=http&type=tcp#%40vasl_bashimvless://1f39fe71-f807-7e90-f877-7a27f3f9cf6e@85.133.214.98:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=none&encryption=none&type=ws#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-﻿
-
----
-
-### 🕒 2026-03-11 22:00:43 UTC
-چند عدد پروکسی متصل :
-[https://t.me/socks?server=171.22.27.147&port=1080](https://t.me/socks?server=171.22.27.147&port=1080)
-[https://t.me/socks?server=2.179.186.225&port=1080](https://t.me/socks?server=2.179.186.225&port=1080)
-[https://t.me/socks?server=46.245.94.249&port=1080](https://t.me/socks?server=46.245.94.249&port=1080)
-[https://t.me/socks?server=87.107.105.184&port=1080](https://t.me/socks?server=87.107.105.184&port=1080)
-[https://t.me/socks?server=2.179.186.225&port=1080](https://t.me/socks?server=2.179.186.225&port=1080)
-[https://t.me/proxy?server=13.220.166.215&port=80&secret=dd104462821249bd7ac519130220c25d09](https://t.me/proxy?server=13.220.166.215&port=80&secret=dd104462821249bd7ac519130220c25d09)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 21:51:50 UTC
-ترکیب ویتوری + سایفون در اکثر نقاط با نت ایرانسل و مخابرات تست شده و کار می‌کنه   اگر کانفیگ ویتوری دارید که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید :   وارد ویتوری بشید و برید قسمت تنظیمات گزینه پورت پروکسی محلی رو بزارید 2080…
-
----
-
-### 🕒 2026-03-11 21:51:04 UTC
-برای اینکه اینجا شلوغ نشه و فقط مختص به کانفیگ و پروکسی باشه چنل اخبار زدیم
-چنل اخبارمونو داشته باشین
-***❤***
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-11 21:49:09 UTC
-`vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@198.23.249.154:443?type=ws&encryption=none&path=%2F&host=&security=none#%40vasl_bashimvless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@142.171.65.106:443?type=ws&encryption=none&path=%2F&host=&security=none#%40vasl_bashimvless://65e7f833-78f3-4013-9402-2694b09de74d@tu5.pokerpings.com:2052?security=&encryption=none&host=filimo.com&headerType=http&type=tcp&path=/XIXVPN?ed=2560#%40vasl_bashimvless://bb2ed970-02f9-47e7-a6b6-9caf3db4f5f9@94.184.6.108:27413?type=tcp&encryption=none&path=%2F&headerType=http&security=none#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@23.95.113.104:443?type=ws&encryption=none&path=%2F&host=&security=none#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 21:28:01 UTC
-`vmess://eyJhZGQiOiI0NS4xNS4xODUuMTciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYzUwM2E5NmEtYTJmNS00ODQ3LWEzMWYtMjBjMTdlY2YzYmU0IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiQHZhc2xfYmFzaGltIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9vless://6ba0d925-8a53-4f11-a7a8-03fd47b88e8c@46.38.150.10:443?security=none&encryption=none&host=aparat.com&headerType=http&type=tcp#%40vasl_bashimvless://0a63e301-2434-4b7c-8f31-a3c766d9ae8f@185.206.231.59:41057?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://47cb5726-b426-1a8c-d83e-9c13c7b90251@pro.vpsino.com:20493?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://231403ff-8615-43d5-ae2d-1935a1900709@emg5.saipasamandemg5.sbs:2005?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=none&encryption=none&type=ws#%40vasl_bashim`
-تست کنین
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 21:20:56 UTC
-vless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?type=ws&encryption=none&path=%2F&host=&security=none#%40vasl_bashim%20-%20Turkey%20212-mmm
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 21:09:39 UTC
-`vless://42858609-7dfb-40e9-abdc-88da31a50ab7@theboy.ultimatechat.shop:50953?mode=gun&security=none&encryption=none&type=grpc#%40vasl_bashimvless://caf8711b-7dd8-4adc-b633-1e6e238100fd@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40vasl_bashimvless://813103c1-1e55-46a5-b086-7f8a59df2877@151.101.65.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40vasl_bashimvless://3eb0dd7d-1c6b-11f1-9350-92000723b4ab@dlc-new2.persianpinggame.com:5102?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%40vasl_bashimvless://3eb0dd7d-1c6b-11f1-9350-92000723b4ab@dlc-new2.persianpinggame.com:5102?security=none&encryption=none&host=filmnet.ir&headerType=http&type=tcp#%40vasl_bashimvless://f91c1cc2-05fe-4efd-ba09-86cb6bec19e3@212.87.198.108:443?path=%2F&security=none&encryption=none&type=ws#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 21:03:55 UTC
-**مثل اینکه همتون وصل بودید فقط من و اونایی که ترور شدن وصل نبودیم.**
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:57:46 UTC
-`vless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashim`
-**منطقه ای وصل میشه**
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:55:21 UTC
-ما یه جنگ خارجی ؛ و یه جنگ خانوادگی و یه جنگ درونی داریم که عملا داریم سه تا جنگ رو هندل میکنم.
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-11 20:50:08 UTC
-وصل باشیم [15].npvt
-
----
-
-### 🕒 2026-03-11 20:48:34 UTC
-**منطقه ای متصلهاگر بهتون downlink بده ینی وصل میشهاشتراک گذاری کنین همه وصل بشن**
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:46:02 UTC
-`vless://9f5c3eb5-de7a-44ab-912e-3b4f64a4bfbd@turkey.dehnavy.ir:36135?security=none&encryption=none&host=skyroom.online%2C%20igap.net%2C%20gharar.ir&headerType=http&type=tcp&path=/XIXVPN?ed=2560#%40vasl_bashimvless://e4e3cf77-6545-57ce-7d7d-31128c5c2b4b@tunn.vpsino.com:2087?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimvless://9c1c10cd-10fe-42ba-8ee7-7aa16cf0514e@theboy.ultimatechat.shop:3939?mode=gun&security=none&encryption=none&type=grpc#%40vasl_bashimvless://1f39fe71-f807-7e90-f877-7a27f3f9cf6e@85.133.214.98:443?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40vasl_bashimss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpSb0hhRnlENElwVzhXMkxD@102.37.237.190:443#%40vasl_bashimvless://231403ff-8615-43d5-ae2d-1935a1900709@emg5.saipasamandemg5.sbs:2005?security=none&encryption=none&host=anten.ir&headerType=http&type=tcp#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:40:18 UTC
-**منطقه ای متصلهاگر بهتون downlink بده ینی وصل میشهاشتراک گذاری کنین همه وصل بشن**
-رمز فایل
-`@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:38:53 UTC
-> ↪️ **Forwarded**
-
-دلار 142
-
----
-
-### 🕒 2026-03-11 20:33:55 UTC
-[https://t.me/vasl_bashim_group](https://t.me/vasl_bashim_group)
- چیزی دارین که وصله بفرستین ملت استفاده کنن
-***❤***
-
----
-
-### 🕒 2026-03-11 20:32:29 UTC
-از اینترنشنال و شبکه شیش زودتر خبرارو بهتون میدیم عشق کنید لطفا
-
----
-
-### 🕒 2026-03-11 20:30:58 UTC
-> ↪️ **Forwarded**
-
-از اینترنشنال و شبکه شیش زودتر خبرارو بهتون میدیم عشق کنید لطفا
-
----
-
-### 🕒 2026-03-11 20:22:25 UTC
-[https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.252&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[https://t.me/proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.245&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:18:53 UTC
-جا داره بازم تکرار کنم حرفامو
-ایرانی عزیزم ساده نباش
-وقتی یکی میاد میگه از یجا خریدم وصله سریع نرین بخرین 
-منم میتونم با اکانت دیگم خودمو تبلیغ کنم یادت باشه
-
----
-
-### 🕒 2026-03-11 20:16:01 UTC
-در بخش PDoQ در فیلترشکن AM Tunnel سرور های زیر تست شده و متصله، پیشنهاد میکنم تست کنید:
-A-
-***🌍***
-ALL WORLD CONNECT
-***🌍***
- 1
-A-
-***🌍***
-ALL WORLD CONNECT
-***🌍***
- 2
-Cuba
-***🇨🇺***
-***🇮🇶***
-IRAQ EARTH LINK
-***1️⃣***
-***🇮🇶***
-IRAQ EARTH LINK
-***2️⃣***
-گاهی ممکنه اتصال تا چند دقیقه طول بکشه که تلگرام وصل بشه، اما برای مواقع ضروری خوبه..
-
----
-
-### 🕒 2026-03-11 20:13:33 UTC
-> ↪️ **Forwarded**
-
-خود ایلان ماسک بفهمه ۱ گیگ استارلینک ۱ میلیون میفروشن جمع میکنه میاد ایران کانفینگ میفروشه
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-11 20:07:03 UTC
-ایپی تمیز cdn امازون 
-→ 
-[143.204.111.65](http://143.204.111.65/)
-ایرانسل و رایتل وصله
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:05:58 UTC
-[https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09](https://t.me/proxy?server=195.254.165.253&port=25565&secret=dd79e344818749bd7ac519130220c25d09)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 20:02:58 UTC
-**منطقه ای متصلهاگر بهتون downlink بده ینی وصل میشهاشتراک گذاری کنین همه وصل بشن**
-رمز فایل
-`@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 19:59:01 UTC
-**منطقه ای متصلهاگر بهتون downlink بده ینی وصل میشهاشتراک گذاری کنین همه وصل بشن**
-رمز فایل
-`@vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 19:58:21 UTC
-باز دارن نتا رو میزنن
-کانفیگ‌ میزارم بفرستین برنامه های ایرانی همه وصل شن
-
----
-
-### 🕒 2026-03-11 19:56:03 UTC
-[https://t.me/proxy?server=185.60.137.156&port=8443&secret=75f9a8da21406c0db5e92c015368345c](https://t.me/proxy?server=185.60.137.156&port=8443&secret=75f9a8da21406c0db5e92c015368345c)
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 19:49:02 UTC
-> ↪️ **Forwarded**
-
-تعداد جنگ هایی که توشون حضور داشتم از تعداد رابطه هام بیشتره
-***✨***
-***🫶🏻***
-[@oskol_nabashim](https://t.me/oskol_nabashim)
-
----
-
-### 🕒 2026-03-11 19:47:01 UTC
-`vless://a9c9aed0-1b90-3552-8dbd-04440612e071@pro.vpsino.com:20920?security=none&encryption=none&headerType=none&type=tcp#%40vasl_bashimss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Ly9MeURZbTh2akFFcmcxcE1SWldXcXVSODdpekpTRGxoaGNtRUtjTHpZbz06c2p3L1V5UmdibmkrV3hpU29HTGUrSVpnU0NQOTZGVnpIb0I3L1dCd2FXMD1AOTUuMjE2LjIzOC4yNDk6MzczMzc=#%40vasl_bashimvless://caf8711b-7dd8-4adc-b633-1e6e238100fd@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40vasl_bashimvless://813103c1-1e55-46a5-b086-7f8a59df2877@151.101.65.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40vasl_bashimvless://caf8711b-7dd8-4adc-b633-1e6e238100fd@151.101.129.194:80?mode=auto&path=%2FTignaliSWithYou&security=none&encryption=none&host=tignaltofan.global.ssl.fastly.net&type=xhttp#%40vasl_bashimss://YWVzLTI1Ni1nY20677%2B9Xg%3D%3D@13.39.53.66:22224#%40vasl_bashim`
-[@vasl_bashim](https://t.me/vasl_bashim)
-
----
-
-### 🕒 2026-03-11 19:41:01 UTC
-ترکیب ویتوری + سایفون در اکثر نقاط با نت ایرانسل و مخابرات تست شده و کار می‌کنه   اگر کانفیگ ویتوری دارید که قطع شده ولی مطمئنید که سرورش روشنه و حجم داره طبق آموزش زیر پیش برید :   وارد ویتوری بشید و برید قسمت تنظیمات گزینه پورت پروکسی محلی رو بزارید 2080…
-
----
-
-### 🕒 2026-03-11 19:35:54 UTC
-مخابرات تست کنین
-[https://t.me/socks?server=0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir&port=31111](https://t.me/socks?server=0e0a9df5-8d5e-4263-aa93-82720cfe14ca.hsvc.ir&port=31111)
 [@vasl_bashim](https://t.me/vasl_bashim)
 
 ---

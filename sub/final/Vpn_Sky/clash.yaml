@@ -470,8 +470,6 @@ proxies:
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬`", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: 4442f537-1f88-4be3-179b-4bb9fdb1af4a, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/Vpn_Sky`, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@vpn_sky`", server: theboy.ultimatechat.shop, port: 3939, type: vless, tls: true, packet-encoding: xudp, uuid: 9c1c10cd-10fe-42ba-8ee7-7aa16cf0514e, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Vpn_Sky` 2", server: tunn.vpsino.com, port: 2087, type: vless, tls: true, packet-encoding: xudp, uuid: e4e3cf77-6545-57ce-7d7d-31128c5c2b4b, host: tunn.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬 2", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: ea80926a-69fa-c6f5-994c-bcd5ed2ef211, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -494,8 +492,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -508,8 +504,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -522,8 +516,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: اتصال پایدار 🔗
     type: url-test
@@ -545,8 +537,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -559,8 +549,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -573,8 +561,6 @@ proxy-groups:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
-      - "@vpn_sky`"
-      - "@Vpn_Sky` 2"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: دانلود منیجر 📥
     type: select
