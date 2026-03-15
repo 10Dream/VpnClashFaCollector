@@ -488,9 +488,9 @@ proxies:
   - {name: 15.188.253.9:22222, server: 15.188.253.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.35.16:22222, server: 15.188.35.16, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.224.41.239:22222, server: 15.224.41.239, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.193.206.143:22222, server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.181.222.188:22222, server: 35.181.222.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22222, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -531,8 +531,6 @@ proxies:
   - {name: "@SPARTAN_YT", server: f1.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 8, server: f2.hamrahconf.ir, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 5558156d-3a2c-4843-9eb9-06e69ac3a2bf, servername: uiuyoyw.secoxi.site, network: ws, ws-opts: {path: /, headers: {Host: uiuyoyw.secoxi.site}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8714", server: 178.250.243.188, port: 3443, type: vless, tls: true, packet-encoding: xudp, uuid: 5a5ca651-b3e4-425a-96f2-794547041670, servername: yandex.ru, host: yandex.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 2Prv1-3tutblsIPl_DhQQp1opFzllqAcSPShoHlmr34, short-id: da5f84e85736f625}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@Gangstersdonotcry", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /, headers: {Host: "%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI"}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@wiki_tajrobe", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxymelimon 2, server: 141.94.220.210, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: t.me/v2Line, headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8537", server: 178.33.161.196, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.indevs.in, network: ws, ws-opts: {path: "/?ed=2560&telegram🇨🇳+@wangcai2", headers: {Host: sni.111000.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1929", server: 45.134.21.8, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d, servername: sni.111000.v6.navy, network: ws, ws-opts: {path: "/?ed=2560&Telegram🇨🇳 @WangCai2", headers: {Host: sni.111000.v6.navy}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -562,7 +560,9 @@ proxies:
   - {name: "@v2rayconfigamir 1462", server: 91.192.102.43, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a68c90a4-a560-489a-ab4b-d918e78e9dee, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6520", server: 144.31.130.242, port: 8080, type: vless, tls: true, packet-encoding: xudp, uuid: aa4ea8e1-86ca-4e5e-9e14-824b139870b4, servername: main.tortvpnbot.world, host: main.tortvpnbot.world, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 14, server: fastly3.hamrahflow.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: be2557f7-a0df-4393-b71b-28013847059f, servername: default.ssl.fastly.net, network: ws, ws-opts: {path: /, headers: {Host: default.ssl.fastly.net}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 2373", server: 144.31.232.241, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c501c66b-c6c2-456b-b604-80393b83d67f, servername: st.ozone.ru, host: st.ozone.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 9ajY_OBOn5CCPnCJTPjxg6J3IWE8uJYAiWQvG9CBGjU, short-id: 00684d2eae2cdd16}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 1369", server: cache-08.datapull.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: c7a7051e-b2f6-44c9-b51b-474848706f8c, servername: www.ups.com, host: www.ups.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: vlr8yVb-r0LM0zYDU8Ye3WWVRURoW_LEDyrrstNHYXw, short-id: 1b9e5a2c7d3f6480}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@v2rayconfigamir 9299", server: 143.20.236.51, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.229.108.103:5443, server: 87.229.108.103, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yandex.com, host: yandex.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ⚡Telegram - @prrofile_purple 15, server: 87.229.108.103, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yandex.com, host: yandex.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 9566", server: 87.229.97.154, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: d65cc14c-f53f-4fe2-b262-97856601319c, servername: yahoo.com, host: yahoo.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg, short-id: c39cc7310a}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -615,9 +615,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -658,8 +658,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -689,7 +687,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"
@@ -732,9 +732,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -775,8 +775,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -806,7 +804,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"
@@ -849,9 +849,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -892,8 +892,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -923,7 +921,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"
@@ -975,9 +975,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -1018,8 +1018,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -1049,7 +1047,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"
@@ -1092,9 +1092,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -1135,8 +1135,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -1166,7 +1164,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"
@@ -1209,9 +1209,9 @@ proxy-groups:
       - 15.188.253.9:22222
       - 15.188.35.16:22222
       - 15.224.41.239:22222
-      - 18.156.11.33:22222
+      - 15.236.174.14:22222
       - 18.193.206.143:22222
-      - 35.181.222.188:22222
+      - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
@@ -1252,8 +1252,6 @@ proxy-groups:
       - "@SPARTAN_YT"
       - ⚡Telegram - @prrofile_purple 8
       - "@v2rayconfigamir 8714"
-      - "@Gangstersdonotcry"
-      - "@wiki_tajrobe"
       - proxymelimon 2
       - "@v2rayconfigamir 8537"
       - "@v2rayconfigamir 1929"
@@ -1283,7 +1281,9 @@ proxy-groups:
       - "@v2rayconfigamir 1462"
       - "@v2rayconfigamir 6520"
       - ⚡Telegram - @prrofile_purple 14
+      - "@v2rayconfigamir 2373"
       - "@v2rayconfigamir 1369"
+      - "@v2rayconfigamir 9299"
       - 87.229.108.103:5443
       - ⚡Telegram - @prrofile_purple 15
       - "@v2rayconfigamir 9566"

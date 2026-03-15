@@ -467,7 +467,6 @@ rule-providers:
 proxies:
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬", server: pro.vpsino.com, port: 20493, type: vless, tls: true, packet-encoding: xudp, uuid: 4442f537-1f88-4be3-179b-4bb9fdb1af4a, host: pro.vpsino.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬`", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: 4442f537-1f88-4be3-179b-4bb9fdb1af4a, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2", server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: https://t.me/Vpn_Sky`, server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 686c62d9-17a7-43c9-a40a-f6747df60a9f, servername: ca.adobe-connect.top, alpn: [http%2F1.1], network: ws, ws-opts: {path: /, headers: {Host: ca.adobe-connect.top}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@𝗩𝗣𝗡_𝗦𝗞𝗬 2", server: pro.vpsino.com, port: 20960, type: vless, tls: true, packet-encoding: xudp, uuid: ea80926a-69fa-c6f5-994c-bcd5ed2ef211, host: nobitex.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
@@ -488,7 +487,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: خودکار (بهترین پینگ) 🤖
@@ -499,7 +497,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: پشتیبان (در صورت قطعی) 🧯
@@ -510,7 +507,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: اتصال پایدار 🔗
@@ -530,7 +526,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: توزیع بار (گردشی) 🔁
@@ -541,7 +536,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: توزیع بار (موقت) ⏳
@@ -552,7 +546,6 @@ proxy-groups:
     proxies:
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬"
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬`"
-      - "@𝗩𝗣𝗡_𝗦𝗞𝗬` 2"
       - https://t.me/Vpn_Sky`
       - "@𝗩𝗣𝗡_𝗦𝗞𝗬 2"
   - name: دانلود منیجر 📥

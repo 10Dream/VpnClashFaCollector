@@ -21,6 +21,7 @@ proxies:
   - {name: "@tel_melli💗", server: viptun2.persianv2.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3898b276-c444-4d61-a563-7e69fc389026, host: viptun2.persianv2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💗2", server: viptun2.persianv2.ir, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3898b276-c444-4d61-a563-7e69fc389026, host: viptun2.persianv2.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 6", server: 103.113.70.21, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 3b9ff760-6b22-467b-a54f-e25a82a40908, servername: yahoo.com, host: yahoo.com, path: /, reality-opts: {public-key: xbbOyx0nk3ch1TczCJvSg-km5ac0NM7MgRbFSLCMXyU, short-id: 8397}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🤍3", server: chatgpt.com, port: 2096, type: vless, tls: true, packet-encoding: xudp, uuid: 3f0f36f5-f091-45c5-88c9-4bcc545b922c, servername: hetz.x-smm.com, network: ws, ws-opts: {path: /45.76.183.217=49292, headers: {Host: hetz.x-smm.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 7", server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜10`", server: outbounde.iran-mehrbu.ir, port: 16446, type: vless, tls: true, packet-encoding: xudp, uuid: 49bc99e9-305a-4045-a609-a258e8b2b76d, host: outbounde.iran-mehrbu.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 8", server: dlc-new9.persianpinggame.com, port: 5109, type: vless, tls: true, packet-encoding: xudp, uuid: 50390dae-1bdb-11f1-9350-92000723b4ab, host: filmnet.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -41,7 +42,10 @@ proxies:
   - {name: "@tel_melli💗4", server: 62.60.198.57, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a72f055b-8929-4947-bbcd-1eb567e1f69e, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜4", server: iran.overdoes.site, port: 15320, type: vless, tls: true, packet-encoding: xudp, uuid: b285bdf6-8972-45a2-c37c-405379f8b458, host: zula.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 12", server: 92.114.24.195, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: b9233171-b534-4bdd-8826-7921c3ac59ac, servername: api.meibourse.com, network: ws, ws-opts: {path: "/no?ed=443", headers: {Host: api.meibourse.com}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🤍4", server: broad-sky-9360.k7uztejf9ief.workers.dev, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: bf710ad2-4a43-4379-aa73-e684f00b6240, servername: broad-sky-9360.k7uztejf9ief.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: broad-sky-9360.k7uztejf9ief.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli 13", server: STAR-17.starz-net.com, port: 2075, type: vless, tls: true, packet-encoding: xudp, uuid: c1e658cc-07d4-47d5-afc6-1fb78a725a75, host: STAR-17.starz-net.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🤍2", server: dvgt.zem.indevs.in, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c558328b-eb46-424c-b9e0-574770f0b072, servername: dvgt.zem.indevs.in, network: ws, ws-opts: {path: /v8clafFSnPXNC0BXGtJ, headers: {Host: dvgt.zem.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@tel_melli🤍", server: rtg.ae1autumn.cc.cd, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: c558328b-eb46-424c-b9e0-574770f0b072, servername: rtg.ae1autumn.cc.cd, network: ws, ws-opts: {path: /v8clafFSnPXNC0BXGtJ, headers: {Host: rtg.ae1autumn.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜7", server: po.jijibiji.online, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: f69fb3fd-fec4-8b01-301b-787c7edad2f9, host: tv3.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜2", server: po.jijibiji.online, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: f69fb3fd-fec4-8b01-301b-787c7edad2f9, servername: 57.128.255.3, host: 57.128.255.3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜6", server: emg3.saipasamandemg3.sbs, port: 2003, type: vless, tls: true, packet-encoding: xudp, uuid: f75305e2-de53-4add-acc8-f9308394f5a4, host: anten.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -73,6 +77,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -93,7 +98,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -125,6 +133,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -145,7 +154,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -177,6 +189,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -197,7 +210,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -228,6 +244,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -248,7 +265,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -279,6 +299,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -299,7 +320,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -330,6 +354,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -350,7 +375,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
@@ -403,6 +431,7 @@ proxy-groups:
       - "@tel_melli💗"
       - "@tel_melli💗2"
       - "@tel_melli 6"
+      - "@tel_melli🤍3"
       - "@tel_melli 7"
       - "@tel_melli💜10`"
       - "@tel_melli 8"
@@ -423,7 +452,10 @@ proxy-groups:
       - "@tel_melli💗4"
       - "@tel_melli💜4"
       - "@tel_melli 12"
+      - "@tel_melli🤍4"
       - "@tel_melli 13"
+      - "@tel_melli🤍2"
+      - "@tel_melli🤍"
       - "@tel_melli💜7"
       - "@tel_melli💜2"
       - "@tel_melli💜6"
