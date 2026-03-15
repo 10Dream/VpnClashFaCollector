@@ -1,5 +1,41 @@
 # آرشیو کانال: @SamnetInternet
-بروزرسانی: 2026-03-15 05:50:08 UTC
+بروزرسانی: 2026-03-15 08:02:40 UTC
+
+### 🕒 2026-03-15 06:08:16 UTC
+***🚀***
+ اپدیت findns v0.2 منتشر شد!
+اسکنر DNS تانل — نسخه جدید با قابلیت‌های اسکن CIDR و تنظیمات پیشرفته
+***✨***
+ تغییرات:
+• 
+***🌐***
+ اسکن CIDR — با فلگ --cidr مستقیم یه رنج IP رو اسکن کنید بدون نیاز به فایل
+• 
+***📡***
+ تنظیم سایز EDNS — با --edns-size سایز بافر DNS رو تنظیم کنید (پیشفرض ۱۲۳۲)
+• 
+***🖥️***
+همچنین  Custom CIDR در TUI — از منوی اینتراکتیو هم میتونید رنج CIDR وارد کنید
+• 
+***🔌***
+ حالت نیمه آفلاین — ۷,۸۵۴ ریزالور ایرانی در باینری اضافه شدن
+• 
+***🔄***
+ فالبک DoH — اگه DNS معمولی بلاک باشه، خودکار از DoH استفاده میشه
+• 
+***📄***
+ خروجی لیست IP — فایل _ips.txt کنار نتایج JSON ساخته میشه
+• 
+***📚***
+ آپدیت مستندات — README و GUIDE فارسی بروزرسانی شدن حتما بخونید برای راهنمای
+***📥***
+ دانلود:
+[https://github.com/SamNet-dev/findns/releases/tag/v0.2](https://github.com/SamNet-dev/findns/releases/tag/v0.2)
+باینری‌های dnstt-client برای ویندوز و لینوکس هم تو ریلیز موجوده 
+***✅***
+تمامی فامیل ها در کامنت اول اپلود شدند.
+
+---
 
 ### 🕒 2026-03-15 04:00:37 UTC
 این DNS سرور ها رو تست کنید 
@@ -382,19 +418,6 @@ aa0153a1cbb9e4555e1a97a0a3bacb4f9583a0229bc58a2e0bfa1ff3bfccd371
 [https://telegra.ph/How-to-work-with-cfray-03-12](https://telegra.ph/How-to-work-with-cfray-03-12)
 اگر دامنه هایی مثل chatgpt در ایران باز شده این برنامه به شما کمک میکنه IP های تمیز رو در بیارید برای کانفیگ هاتون.
 فایل اصلی پروژه و readme به صورت pdf اضافه شدند.
-
----
-
-### 🕒 2026-03-12 05:55:15 UTC
-***📡***
- 3X-UI Panel Setup Guide - All Protocols
-Step-by-step guide to set up a multi-protocol proxy server with 3X-UI. 
-Covers VLESS-WS, VMess-TCP, Shadowsocks, Reality, Trojan, and CDN setup with Cloudflare & AWS CloudFront. 
-Includes subscription server, troubleshooting, and port reference. 
-***🔑***
-***☄***
-English Only - easier to follow steps.
-Modified PDF version is also attached, been created by Pedi one of our great friends in our group.
 
 ---
 

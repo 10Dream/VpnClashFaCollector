@@ -498,6 +498,7 @@ proxies:
   - {name: "@filembad 3", server: dC-2.CeNtRAlnEt.CFD, port: 3001, type: vmess, uuid: 233eeaf7-e80f-4d9c-93f1-a2db5efe1d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 4", server: dC-2.CeNtRAlnEt.CFD, port: 3001, type: vmess, uuid: 233eeaf7-e80f-4d9c-93f1-a2db5efe1d92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@proxy_kafee3", server: dl4.kendoole.store, port: 443, type: vmess, uuid: 969ecc5d-813b-4d90-ad2f-bf987ccd8999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: soft98.ir}}, udp: true, tfo: false}
+  - {name: "@EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad 5", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@vasl_bashim - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@Hiddify_Nexttt + Psiphon", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -515,7 +516,6 @@ proxies:
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4, server: pub.ap20260228.com, port: 64097, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5, server: qvxbtx.uhomdex.shop, port: 443, type: vmess, uuid: 847e9159-9716-4213-97a9-50d5db3fd74a, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: qvxbtx.uhomdex.shop, network: ws, ws-opts: {path: /, headers: {Host: qvxbtx.uhomdex.shop}}, udp: true, tfo: false}
   - {name: برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6, server: qvxbtx.uhomdex.shop, port: 443, type: vmess, uuid: aa333ae8-d538-40e3-a2af-9d79aeb53bef, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: qvxbtx.uhomdex.shop}}, udp: true, tfo: false}
-  - {name: "@saministamm 2", server: dl4.kendoole.store, port: 443, type: vmess, uuid: 969ecc5d-813b-4d90-ad2f-bf987ccd8999, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: soft98.ir}}, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -565,6 +565,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -582,7 +583,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
@@ -622,6 +622,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -639,7 +640,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
@@ -679,6 +679,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -696,7 +697,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -745,6 +745,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -762,7 +763,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
@@ -802,6 +802,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -819,7 +820,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
@@ -859,6 +859,7 @@ proxy-groups:
       - "@filembad 3"
       - "@filembad 4"
       - "@proxy_kafee3"
+      - "@EsTunnel - Psiphon+V2rayNG"
       - "@filembad 5"
       - "@vasl_bashim - Psiphon+V2rayNG"
       - "@Hiddify_Nexttt + Psiphon"
@@ -876,7 +877,6 @@ proxy-groups:
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 4
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 5
       - برای اتصال دائمی جوین شو🦚 TelegramID ⌲Express_freevpn 🪩 6
-      - "@saministamm 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

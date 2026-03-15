@@ -1,5 +1,11 @@
 # آرشیو کانال: @NetAccount
-بروزرسانی: 2026-03-15 05:48:28 UTC
+بروزرسانی: 2026-03-15 08:01:02 UTC
+
+### 🕒 2026-03-15 05:50:12 UTC
+کانفیگ برنامه نت مود
+`nm-dns://o30Ks2tCaXUTYthkY5rNyZpb94XZB/aE9DzOqXds1o0VneuX3hnn+WYbZgM+SYzlOXQsIPOSkgOeh7J2oFNYIkrFbNLuZFNcX2DTbLAmkvK9JPbRWMbZvaEhIYLs4kOJxf/YNT6KJQ02zVDQBFBYTHgrC9AeUOVE0opBl4rlH8vbguiUBqyUG3InDbA9Cky+1BT5O5WPlnQK/I5ZvCnL8drBcmxoNAvYFGo3E7i3X1tB6NJ+ae/7NWQZpYN5pVTc2j3lk8DjWSWZ0cmXCM+/iA==`
+
+---
 
 ### 🕒 2026-03-15 05:22:03 UTC
 {"remarks":"NetAccount","log":{"loglevel":"warning"},"inbounds":[{"tag":"socks","port":10808,"protocol":"socks","settings":{"auth":"noauth","udp":true,"userLevel":8},"sniffing":{"enabled":true,"destOverride":["http","tls"],"routeOnly":false}}],"outbounds":[{"tag":"proxy","protocol":"vless","settings":{"vnext":[{"address":"94.183.241.159","port":22222,"users":[{"id":"5976b860-e481-41e2-b2f2-9f8901bf84a2","level":8,"encryption":"none"}]}]},"streamSettings":{"network":"tcp","tcpSettings":{"header":{"type":"none"}}},"mux":{"enabled":false,"concurrency":-1,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"direct","protocol":"freedom","settings":{"domainStrategy":"UseIP"},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}},{"tag":"block","protocol":"blackhole","settings":{"response":{"type":"http"}},"mux":{"enabled":false,"concurrency":8,"xudpConcurrency":8,"xudpProxyUDP443":""}}],"dns":{"servers":["1.1.1.1"],"hosts":{"domain:googleapis.cn":"googleapis.com","dns.alidns.com":["223.5.5.5","223.6.6.6","2400:3200::1","2400:3200:baba::1"],"one.one.one.one":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"],"dot.pub":["1.12.12.12","120.53.53.53"],"dns.google":["8.8.8.8","8.8.4.4","2001:4860:4860::8888","2001:4860:4860::8844"],"dns.quad9.net":["9.9.9.9","149.112.112.112","2620:fe::fe","2620:fe::9"],"common.dot.dns.yandex.net":["77.88.8.8","77.88.8.1","2a02:6b8::feed:0ff","2a02:6b8:0:1::feed:0ff"]}},"routing":{"domainStrategy":"IPIfNonMatch","rules":[{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"},{"type":"field","ip":["1.1.1.1"],"outboundTag":"proxy","port":"53"},{"type":"field","ip":["223.5.5.5"],"outboundTag":"direct","port":"53"}]}}
@@ -1222,50 +1228,6 @@ IITV HD
 `82.99.195.82`
 `2.144.6.158`
 `91.212.252.48`
-
----
-
-### 🕒 2026-03-12 07:48:55 UTC
-لایو دیشب مراد ویسی عزیز با عنوان آغاز حملات اسراییل به سرکوبگران کف خیابان
-(نسخه صوتی کم حجم شده برای دوستانی که به یوتیوب دسترسی ندارن)
-سعی میکنم از امروز لایو های مراد ویسی رو اینطوری بذارم که همه بتونن استفاده کنن
-[لینک یوتیوب](https://www.youtube.com/watch?v=WgX5dBiW2Q4)
-
----
-
-### 🕒 2026-03-12 07:43:55 UTC
-[#ارسالی](?q=%23%D8%A7%D8%B1%D8%B3%D8%A7%D9%84%DB%8C)
- شرکت پاک چوب شوش رو زدن
-
----
-
-### 🕒 2026-03-12 07:41:48 UTC
-دزفول پایگاه
-
----
-
-### 🕒 2026-03-12 07:16:03 UTC
-کل تهران صدای ریش تراش میاد.
-
----
-
-### 🕒 2026-03-12 06:50:19 UTC
-#ارسالی دزفول زدن ولی هرجا بود انگاری پایگاه نبوده خونه ما رو به رو پایگاس هیچ دودی بلند نشده معلوم نیست کجارو زدن حدقل ۶ انفجار بوده
-
----
-
-### 🕒 2026-03-12 06:43:08 UTC
-صدای چندین انفجار در دزفول و اندیمشک
-
----
-
-### 🕒 2026-03-12 06:41:06 UTC
-صدای انفجار در شوش
-
----
-
-### 🕒 2026-03-12 06:26:06 UTC
-صدای چندین انفجار در دزفول و اندیمشک
 
 ---
 
