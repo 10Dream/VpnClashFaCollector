@@ -465,62 +465,9 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.193.206.143:22222, server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.193.206.143:22222 2, server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 35.181.222.188:22222, server: 35.181.222.188, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[21999] - Telegram : @configraygan", server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b`", server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 54.93.56.163:22222, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad`", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.234.211.66:2087, server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 109.234.211.66:2087 2, server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 109.234.211.66:8443, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b` 2", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 109.234.211.66:8443 2, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 109.234.211.66:8443 3, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: 118.34.36.61:10003, server: 118.34.36.61, port: 10003, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 118.34.36.61, port: 10003, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: 152.53.200.167:8444/, server: 152.53.200.167, port: 8444, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 152.53.200.167, port: 8444, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: 152.53.200.167:8444, server: 152.53.200.167, port: 8444, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 11", server: 152.53.200.167, port: 8444, type: trojan, password: trojan, sni: jflsjlaf.pages.dev, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F", headers: {Host: jflsjlaf.pages.dev}}, udp: true, tfo: false}
-  - {name: "@filembad` 3", server: 193.124.46.134, port: 8441, type: trojan, password: tunnel-astrovpn_official, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: tr-1.stunnel.cc, port: 8441, type: trojan, password: tunnel-astrovpn_official, sni: zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇳🇱 nl-4.tr202507.com:443, server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 12", server: nl-4.tr202507.com, port: 443, type: trojan, password: uThbm8eGmXZ7GKqnWy, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 9065", server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 45.82.14.144:2025, server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 13", server: 45.82.14.144, port: 2025, type: trojan, password: vpn, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 14", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 2, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 6109", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 15", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 3, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 16", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 4, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20460%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 17", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20%5BBy%20EbraSha%5D%20b2n.ir%2Fv2ray-configs%20%7C%20460%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 5, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20By%20EbraSha%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 18", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: "%F0%9F%94%92%20By%20EbraSha%20", skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 80.173.231.254:12420 6, server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 3499", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 19", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 194.150.166.151:52047/, server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 20", server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 194.150.166.151, port: 52047, type: trojan, password: zp630tdUuD, sni: aws.amazon.com, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -537,186 +484,27 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -732,186 +520,27 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 18.156.11.33:22222
-      - 18.193.206.143:22222
       - "***✅***@AR14N24b"
-      - 18.193.206.143:22222 2
-      - "***✅***@AR14N24b 2"
-      - 35.181.222.188:22222
-      - 52.57.221.181:22222
-      - 52.58.248.163:22222
-      - "[21999] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
-      - "***✅***@AR14N24b`"
-      - 54.93.56.163:22222
-      - "@filembad`"
-      - "***✅***@AR14N24b 4"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
-      - 109.234.211.66:2087
-      - "***✅***@AR14N24b 5"
-      - 109.234.211.66:2087 2
-      - "***✅***@AR14N24b 6"
-      - 109.234.211.66:8443
-      - "***✅***@AR14N24b` 2"
-      - 109.234.211.66:8443 2
-      - "@filembad` 2"
-      - "***✅***@AR14N24b 7"
-      - 109.234.211.66:8443 3
-      - "***✅***@AR14N24b 8"
-      - 118.34.36.61:10003
-      - "***✅***@AR14N24b 9"
-      - 152.53.200.167:8444/
-      - "***✅***@AR14N24b 10"
-      - 152.53.200.167:8444
-      - "***✅***@AR14N24b 11"
-      - "@filembad` 3"
-      - "@filembad` 4"
-      - 🇳🇱 nl-4.tr202507.com:443
-      - "***✅***@AR14N24b 12"
-      - "@v2rayconfigamir 9065"
-      - 45.82.14.144:2025
-      - "***✅***@AR14N24b 13"
-      - 80.173.231.254:12420
-      - "***✅***@AR14N24b 14"
-      - 80.173.231.254:12420 2
-      - "@v2rayconfigamir 6109"
-      - "***✅***@AR14N24b 15"
-      - 80.173.231.254:12420 3
-      - "***✅***@AR14N24b 16"
-      - 80.173.231.254:12420 4
-      - "***✅***@AR14N24b 17"
-      - 80.173.231.254:12420 5
-      - "***✅***@AR14N24b 18"
-      - 80.173.231.254:12420 6
-      - "@v2rayconfigamir 3499"
-      - "***✅***@AR14N24b 19"
       - 194.150.166.151:52047/
-      - "***✅***@AR14N24b 20"
+      - "***✅***@AR14N24b 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:

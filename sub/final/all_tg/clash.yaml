@@ -480,6 +480,7 @@ proxies:
   - {name: 193.151.134.209:52224, server: 193.151.134.209, port: 52224, type: socks5, username: 1z9rj5lHJy, password: 4EvAep8FHs, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.245:5201, server: 2.144.2.245, port: 5201, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.132:12003, server: 2.144.20.132, port: 12003, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 2.144.20.19:98, server: 2.144.20.19, port: 98, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.23.246:8080, server: 2.144.23.246, port: 8080, type: socks5, username: "@prOxy_vvpn", password: "@prOxy_vvpn", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.7.51:1082, server: 2.144.7.51, port: 1082, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -489,13 +490,13 @@ proxies:
   - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69978baca7ccb, password: Azir69978baca7ccb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.125.7:1092, server: 79.127.125.7, port: 1092, type: socks5, username: arsh2, password: n*W4cmh6t38, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 92.242.217.200:2060, server: 92.242.217.200, port: 2060, type: socks5, username: erfan, password: !<str> 147369, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 93.115.120.74:2020, server: 93.115.120.74, port: 2020, type: socks5, username: test, password: R@@t#123, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 94.182.195.60:9090, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 95.142.229.6:65531, server: 95.142.229.6, port: 65531, type: socks5, username: majid, password: $$Majid$$, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.viramon.net:3389, server: azir_proxy_ezterar.viramon.net, port: 3389, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.viramon.net:53, server: azir_proxy_ezterar.viramon.net, port: 53, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar2.viramon.net:8080, server: azir_proxy_ezterar2.viramon.net, port: 8080, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: socks.nirvana-smoke.com:53, server: socks.nirvana-smoke.com, port: 53, type: socks5, username: Azir69ab8eb8457af, password: Azir69ab8eb8457af, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -528,6 +529,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -537,13 +539,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -566,6 +568,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -575,13 +578,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -604,6 +607,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -613,13 +617,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: اتصال پایدار 🔗
     type: url-test
@@ -651,6 +655,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -660,13 +665,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -689,6 +694,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -698,13 +704,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -727,6 +733,7 @@ proxy-groups:
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
+      - 2.144.20.19:98
       - 2.144.21.81:1080
       - 2.144.23.246:8080
       - 2.144.7.51:1082
@@ -736,13 +743,13 @@ proxy-groups:
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 92.242.217.200:2060
       - 93.115.120.74:2020
       - 94.182.195.60:9090
       - 95.142.229.6:65531
       - azir_proxy_ezterar.viramon.net:3389
       - azir_proxy_ezterar.viramon.net:53
       - azir_proxy_ezterar2.viramon.net:8080
+      - socks.nirvana-smoke.com:53
       - tel-pro-2.qcluster.org:4585
   - name: دانلود منیجر 📥
     type: select

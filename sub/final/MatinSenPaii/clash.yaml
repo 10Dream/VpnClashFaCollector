@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@mohammad_h201 - @MatinSenPaii-pi4yqhi8", server: 144.76.188.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e6b23f2-932b-4a80-a280-44cdf8a86452, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MatinSenPaii - S4-1", server: 212.87.198.101, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MatinSenPaii - S2-1", server: 212.87.198.102, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@MatinSenPaii - S3-1", server: 212.87.198.109, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 61873e11-536e-45e9-ae5c-a375542bc05b, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
@@ -492,7 +491,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"
@@ -509,7 +507,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"
@@ -526,7 +523,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"
@@ -552,7 +548,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"
@@ -569,7 +564,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"
@@ -586,7 +580,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@mohammad_h201 - @MatinSenPaii-pi4yqhi8"
       - "@MatinSenPaii - S4-1"
       - "@MatinSenPaii - S2-1"
       - "@MatinSenPaii - S3-1"

@@ -467,6 +467,7 @@ rule-providers:
 proxies:
   - {name: 171.22.181.186:16570, server: 171.22.181.186, port: 16570, type: ss, cipher: chacha20-ietf-poly1305, password: 67fQXp7Aysaw9G9SvEUtQ7, udp: true, tfo: false}
   - {name: 149.104.71.134:11201, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
+  - {name: 194.71.130.26:2949, server: 194.71.130.26, port: 2949, type: ss, cipher: chacha20-ietf-poly1305, password: v8NKiSxilGVslodFPWWLR8, udp: true, tfo: false}
   - {name: 193.135.174.135:990, server: 193.135.174.135, port: 990, type: ss, cipher: chacha20-ietf-poly1305, password: ARgvGZywA+gacgGV26Bvmu05+wZmRW/j+AdU+Z8Bt44=, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
@@ -489,10 +490,9 @@ proxies:
   - {name: free-duckling.rooster465.autos:443, server: free-duckling.rooster465.autos, port: 443, type: trojan, password: ZY07256934, skip-cert-verify: false, udp: true, tfo: false}
   - {name: glowing-deer.rooster465.autos:443, server: glowing-deer.rooster465.autos, port: 443, type: trojan, password: ZY07256934, sni: glowing-deer.rooster465.autos, skip-cert-verify: false, udp: true, tfo: false}
   - {name: my01.jsylianjie6.com:45720, server: my01.jsylianjie6.com, port: 45720, type: trojan, password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇨🇳 tw05.stimaysmhy8.com:31500, server: tw05.stimaysmhy8.com, port: 31500, type: trojan, password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37, sni: jsygouer.weixin-baidu-qq.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.238.7.116:6196, server: 54.238.7.116, port: 6196, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.249.53.157:921, server: 54.249.53.157, port: 921, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 13.39.53.66:22222, server: 13.39.53.66, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 13.39.7.170:22222, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.253.9:22222, server: 15.188.253.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -500,6 +500,7 @@ proxies:
   - {name: 3g.vles.space:510, server: 3g.vles.space, port: 510, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: porno.vles.space:8443, server: porno.vles.space, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: cdn.vkvideo.ru, host: cdn.vkvideo.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: xxx.vles.space:9443, server: xxx.vles.space, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 034a8ae2-9565-474c-9e91-c0f3a53326cc, servername: sun1-91.userapi.com, host: sun1-91.userapi.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 fra01.jumperservice.com:19001, server: fra01.jumperservice.com, port: 19001, type: vless, tls: true, packet-encoding: xudp, uuid: 12eac926-c4ec-4040-8fb8-f316e9fc0fd6, servername: www.speedtest.net, host: www.speedtest.net, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: by.telega.store:443, server: by.telega.store, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1401682c-0e47-4eb9-b5ab-98243655be9b, servername: www.apple.com, host: www.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 8WQHCqfqEp4X6Jh0E-Uuvw1Z1b8p_VC3_kN1fwxfB0o, short-id: e31b66be0cd67c8b}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 45.61.140.116:443, server: 45.61.140.116, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: Telegram, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 77.110.119.35:2053, server: 77.110.119.35, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, servername: zgtwylnhh.cc.cd, network: ws, ws-opts: {path: Telegram, headers: {Host: zgtwylnhh.cc.cd}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -509,7 +510,6 @@ proxies:
   - {name: 185.216.71.18:5443, server: 185.216.71.18, port: 5443, type: vless, tls: true, packet-encoding: xudp, uuid: 18f2f9bc-c55b-40c4-a762-0394b2e11fcf, servername: eh.vk.com, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: MNtVuRK9ydQoPjI2vMSkZMUpwAEjH5qq3hr9kTt2CHk, short-id: 3ef8cdbc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.129.119.115:443, server: 57.129.119.115, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 1e97f262-296c-45cf-afc0-6ed86f768013, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: madrid-meow.nethcloud.top:443, server: madrid-meow.nethcloud.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: meow-frankfurt.nethcloud.top:443, server: meow-frankfurt.nethcloud.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ny-meow.nethcloud.top:443, server: ny-meow.nethcloud.top, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 21915536-afb5-4a0c-b047-fcf549d3a173, servername: wikihow.com, host: wikihow.com, path: /, reality-opts: {public-key: 1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ, short-id: 8bd29483ded126b4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 72.56.121.206:443, server: 72.56.121.206, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 249839ff-2a99-4ecb-a81d-b7e4d6c397b8, servername: 5post-gate.x5.ru, host: 5post-gate.x5.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.40.116.242:443, server: 78.40.116.242, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 256c5f48-4908-4255-83d1-c86cb58f22b4, servername: se.denditop.site, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: /}, reality-opts: {public-key: HZiMehwH6sQf4bDkLiXJ0KslpYqz0mNFwBr34-e6RRM, short-id: 9c2378562188c3cb}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -542,7 +542,6 @@ proxies:
   - {name: 🇳🇱 nl2.fastdbn.com:443, server: nl2.fastdbn.com, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 464854c0-d879-433b-8ae2-28bfe19ed08e, servername: cdn-fastly-v6.deb.debian.org, host: cdn-fastly-v6.deb.debian.org, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 12UHjWCU_BNIkRmxt-6QKAuVuSIFzoS2jkN1BIMzGjM, short-id: cdce15b3e2179ce8}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:80, server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.114.98.0:80 2, server: 188.114.98.0, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: 478cc26d-16b3-4fdd-be64-60d5a58c1622, network: ws, ws-opts: {path: /, headers: {Host: tt.andishehparenting.com}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 152.53.200.42:7443, server: 152.53.200.42, port: 7443, type: vless, tls: true, packet-encoding: xudp, uuid: 4ab1088a-9f8a-4fcc-8805-8353a8b3cf44, servername: chat.deepseek.com, host: chat.deepseek.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 5QAO98ot2U7TcGs_f6EEaQjCzNOJLNHqPf6smYsdFVI, short-id: d82fb387}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.56.178.36:8443, server: 2.56.178.36, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 4c9b944f-6637-4cc2-a71c-5213806084ae, servername: www.telegram.com, host: www.telegram.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: uhzhSZ4-Nhon-Hz7z1YGOa0f-wGMblLJmyc7VypN1lI, short-id: f55fb7b095}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.76.188.139:443, server: 144.76.188.139, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 4e6b23f2-932b-4a80-a280-44cdf8a86452, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 90909.sbs:8443, server: 90909.sbs, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 553faafb-9d5e-4986-a2ab-450ad9fc6a3f, servername: dropbox.com, host: dropbox.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -552,7 +551,7 @@ proxies:
   - {name: 31.42.190.76:443, server: 31.42.190.76, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5ac2d3b6-33cc-4442-9c0b-ae3909cabaae, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.53.126:443, server: 172.64.53.126, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 5dc15e15-f285-4a9d-959b-0e4fbdd77b63, servername: powered-by-surena.user68f797c2f3e1b.workers.dev, network: ws, ws-opts: {path: /, headers: {Host: powered-by-surena.user68f797c2f3e1b.workers.dev}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.129.38:443, server: 144.31.129.38, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: alcdn2.suio.me, host: alcdn2.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.2.61:443, server: 144.31.2.61, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: plcdn23.suio.me, host: plcdn23.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: decdn4.suio.me:443, server: decdn4.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: decdn4.suio.me, host: decdn4.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: nlcdn7.suio.me:443, server: nlcdn7.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: nlcdn7.suio.me, host: nlcdn7.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: plcdn17.suio.me:443, server: plcdn17.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, host: plcdn17.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: secdn14.suio.me:443, server: secdn14.suio.me, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 62ad5a48-f452-4868-b7eb-d27df9b3d723, servername: secdn14.suio.me, host: secdn14.suio.me, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -566,17 +565,13 @@ proxies:
   - {name: 77.42.67.4:47141, server: 77.42.67.4, port: 47141, type: vless, tls: true, packet-encoding: xudp, uuid: 8cab5d60-588b-41a4-a915-fc2b279bd277, servername: www.cloudflare.com, host: www.cloudflare.com, path: /, reality-opts: {public-key: 9SwM8eaL5DEVodUUTlUAlv-D92LVg71VB2g-prhVAn0, short-id: f4fa9f410d7134ea}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.55.190.0:50219, server: 162.55.190.0, port: 50219, type: vless, tls: true, packet-encoding: xudp, uuid: 8d893f78-c600-4354-9bc1-5f71ee2e0386, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 5.42.101.136:443, server: 5.42.101.136, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9255dabf-0b0e-4530-b0d3-96c2d675abb3, servername: ee.fasssst.ru, host: ee.fasssst.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: TqJE8kGd1qa1Azh6yQGFW_INCs1al_kiXrERi3xdnRQ, short-id: 631a3d1a2f3933c7}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 103.73.65.187:7000, server: 103.73.65.187, port: 7000, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 139.84.235.99:20205, server: 139.84.235.99, port: 20205, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.gfw.nn.kg, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.nn.kg}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 139.84.235.99:20205 2, server: 139.84.235.99, port: 20205, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.gfw.nn.kg, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.nn.kg}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 151.242.183.219:35457, server: 151.242.183.219, port: 35457, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.ccwu.cc, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 212.80.205.244:8443, server: 212.80.205.244, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.fgfw.ccwu.cc, alpn: [http%2F1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 66.63.168.172:39738, server: 66.63.168.172, port: 39738, type: vless, tls: true, packet-encoding: xudp, uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d, servername: snippet.gfw.nn.kg, alpn: [http/1.1], network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.gfw.nn.kg}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.159.229.121:8443, server: 85.159.229.121, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 9a63b59c-5e54-437a-b7a1-2788780a7c13, servername: retn.net, host: retn.net, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: qBcUlVqkzWxGORpDCj_FcNHACi3mrAYTCZeJyVQa5yU, short-id: 6b374e33af12fd1e}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: s1.eldoradu.ir:2053, server: s1.eldoradu.ir, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 9caafed4-04ba-41b2-9c64-e4ce39a985d6, servername: fz3.sellink.ir, network: ws, ws-opts: {path: /, headers: {Host: fz3.sellink.ir}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.31.214.24:443, server: 144.31.214.24, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 9df02c3b-2f4c-45ff-8300-4c280b207301, servername: fr4.darknet.run, host: fr4.darknet.run, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 6HaGh1HqaHwxHL7-y-Xpi1vj1lsIM_b-jdY7iG5eOFA, short-id: a1b223d4}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.1.238:443, server: 144.31.1.238, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065, servername: pl.fasti.win, host: pl.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs, short-id: feedbacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 144.31.1.42:443, server: 144.31.1.42, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065, servername: pl.fasti.win, host: pl.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs, short-id: feedbacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇸🇬 sg.fasti.win:443, server: sg.fasti.win, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a16bd0e2-ff2e-4e4c-a955-0c684255a065, servername: sg.fasti.win, host: sg.fasti.win, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: -YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs, short-id: feedbacc}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: che-0001-xr.packet-drop-society.net:443, server: che-0001-xr.packet-drop-society.net, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: a1ac8a09-98fd-4c11-acc4-3ab272bd220b, servername: hls-svod.itunes.apple.com, host: hls-svod.itunes.apple.com, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws, short-id: 8453e5fd9af927}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 92.62.251.205:8443, server: 92.62.251.205, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: a68c90a4-a560-489a-ab4b-d918e78e9dee, servername: github.com, host: github.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
@@ -606,6 +601,8 @@ proxies:
   - {name: 107.175.134.127:443, server: 107.175.134.127, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 212.87.198.108:443, server: 212.87.198.108, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 23.95.113.104:443, server: 23.95.113.104, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, network: ws, ws-opts: {path: /}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇬🇧 [openproxylist.com] vmess-GB", server: 82.25.181.162, port: 31992, type: vmess, uuid: d4dac19d-bf0e-4760-ebb3-f150a48dc92b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /f150a48dc92b}, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: cn02.365cloud5878.com, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇨🇳 [openproxylist.com] vmess-TW", server: pub.ap20260228.com, port: 64018, type: vmess, uuid: a739e782-1682-38a5-9153-aad09d779ae9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇩🇪 [openproxylist.com] vmess-DE", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -614,7 +611,6 @@ proxies:
   - {name: "🇺🇸 [openproxylist.com] vmess-US 2", server: 107.175.134.148, port: 10414, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-LU", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 3", server: 142.171.65.106, port: 10412, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 [openproxylist.com] vmess-NL", server: 151.243.3.59, port: 17858, type: vmess, uuid: 488e87ee-074c-4e53-98ea-6392288bdc71, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 4", server: 192.227.173.38, port: 10416, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 5", server: 198.23.188.165, port: 10417, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇺🇸 [openproxylist.com] vmess-US 6", server: 198.23.249.154, port: 10410, type: vmess, uuid: f91c1cc2-05fe-4efd-ba09-86cb6bec19e3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -625,7 +621,7 @@ proxies:
   - {name: "[openproxylist.com] vmess-IR", server: 217.218.52.1, port: 10410, type: vmess, uuid: f93f134f-7adb-48c3-bcd1-2532edb0b478, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇭🇰 [openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "[openproxylist.com] vmess-HU 2", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "🇸🇬 [openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
@@ -645,6 +641,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -667,10 +664,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -678,6 +674,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -687,7 +684,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -720,7 +716,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -730,7 +725,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -744,17 +739,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -784,6 +775,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -792,7 +785,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -803,7 +795,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
@@ -813,6 +805,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -835,10 +828,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -846,6 +838,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -855,7 +848,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -888,7 +880,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -898,7 +889,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -912,17 +903,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -952,6 +939,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -960,7 +949,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -971,7 +959,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
@@ -981,6 +969,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -1003,10 +992,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -1014,6 +1002,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -1023,7 +1012,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -1056,7 +1044,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -1066,7 +1053,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -1080,17 +1067,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -1120,6 +1103,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -1128,7 +1113,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -1139,7 +1123,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: اتصال پایدار 🔗
     type: url-test
@@ -1158,6 +1142,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -1180,10 +1165,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -1191,6 +1175,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -1200,7 +1185,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -1233,7 +1217,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -1243,7 +1226,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -1257,17 +1240,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -1297,6 +1276,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -1305,7 +1286,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -1316,7 +1296,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
@@ -1326,6 +1306,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -1348,10 +1329,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -1359,6 +1339,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -1368,7 +1349,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -1401,7 +1381,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -1411,7 +1390,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -1425,17 +1404,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -1465,6 +1440,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -1473,7 +1450,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -1484,7 +1460,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: توزیع بار (موقت) ⏳
     type: load-balance
@@ -1494,6 +1470,7 @@ proxy-groups:
     proxies:
       - 171.22.181.186:16570
       - 149.104.71.134:11201
+      - 194.71.130.26:2949
       - 193.135.174.135:990
       - series-a1.samanehha.co:443
       - series-a2.samanehha.co:443
@@ -1516,10 +1493,9 @@ proxy-groups:
       - free-duckling.rooster465.autos:443
       - glowing-deer.rooster465.autos:443
       - my01.jsylianjie6.com:45720
-      - 🇨🇳 tw05.stimaysmhy8.com:31500
       - 54.238.7.116:6196
       - 54.249.53.157:921
-      - 13.39.53.66:22222
+      - 13.39.7.170:22222
       - 15.188.253.9:22222
       - 18.156.11.33:22222
       - 52.57.221.181:22222
@@ -1527,6 +1503,7 @@ proxy-groups:
       - 3g.vles.space:510
       - porno.vles.space:8443
       - xxx.vles.space:9443
+      - 🇫🇷 fra01.jumperservice.com:19001
       - by.telega.store:443
       - 45.61.140.116:443
       - 77.110.119.35:2053
@@ -1536,7 +1513,6 @@ proxy-groups:
       - 185.216.71.18:5443
       - 57.129.119.115:443
       - madrid-meow.nethcloud.top:443
-      - meow-frankfurt.nethcloud.top:443
       - ny-meow.nethcloud.top:443
       - 72.56.121.206:443
       - 78.40.116.242:443
@@ -1569,7 +1545,6 @@ proxy-groups:
       - 🇳🇱 nl2.fastdbn.com:443
       - 188.114.98.0:80
       - 188.114.98.0:80 2
-      - 152.53.200.42:7443
       - 2.56.178.36:8443
       - 144.76.188.139:443
       - 90909.sbs:8443
@@ -1579,7 +1554,7 @@ proxy-groups:
       - 31.42.190.76:443
       - 172.64.53.126:443
       - 144.31.129.38:443
-      - 144.31.2.61:443
+      - decdn4.suio.me:443
       - nlcdn7.suio.me:443
       - plcdn17.suio.me:443
       - secdn14.suio.me:443
@@ -1593,17 +1568,13 @@ proxy-groups:
       - 77.42.67.4:47141
       - 162.55.190.0:50219
       - 5.42.101.136:443
-      - 103.73.65.187:7000
       - 139.84.235.99:20205
       - 139.84.235.99:20205 2
       - 151.242.183.219:35457
-      - 212.80.205.244:8443
       - 66.63.168.172:39738
       - 85.159.229.121:8443
       - s1.eldoradu.ir:2053
       - 144.31.214.24:443
-      - 144.31.1.238:443
-      - 144.31.1.42:443
       - 🇸🇬 sg.fasti.win:443
       - che-0001-xr.packet-drop-society.net:443
       - 92.62.251.205:8443
@@ -1633,6 +1604,8 @@ proxy-groups:
       - 107.175.134.127:443
       - 212.87.198.108:443
       - 23.95.113.104:443
+      - 🇬🇧 [openproxylist.com] vmess-GB
+      - "[openproxylist.com] vmess-HU"
       - 🇯🇵 [openproxylist.com] vmess-JP
       - 🇨🇳 [openproxylist.com] vmess-TW
       - 🇩🇪 [openproxylist.com] vmess-DE
@@ -1641,7 +1614,6 @@ proxy-groups:
       - 🇺🇸 [openproxylist.com] vmess-US 2
       - "[openproxylist.com] vmess-LU"
       - 🇺🇸 [openproxylist.com] vmess-US 3
-      - 🇳🇱 [openproxylist.com] vmess-NL
       - 🇺🇸 [openproxylist.com] vmess-US 4
       - 🇺🇸 [openproxylist.com] vmess-US 5
       - 🇺🇸 [openproxylist.com] vmess-US 6
@@ -1652,7 +1624,7 @@ proxy-groups:
       - "[openproxylist.com] vmess-IR"
       - "[openproxylist.com] vmess-AT"
       - 🇭🇰 [openproxylist.com] vmess-HK
-      - "[openproxylist.com] vmess-HU"
+      - "[openproxylist.com] vmess-HU 2"
       - 🇸🇬 [openproxylist.com] vmess-SG
   - name: دانلود منیجر 📥
     type: select
