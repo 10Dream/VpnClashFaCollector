@@ -466,8 +466,6 @@ rule-providers:
     path: ./ruleset/mihSpotify.yaml
 proxies:
   - {name: "@NETAZADI`", server: 193.47.60.186, port: 28687, type: ss, cipher: chacha20-ietf-poly1305, password: yKVMoB3AwiTEznpnoq2FYR, udp: true, tfo: false}
-  - {name: "@v2rayconfigamir 7638`", server: 45.85.118.88, port: 2053, type: trojan, password: ZJU29smXwp, sni: omid.teama.tk, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: omid.teama.tk}}, udp: true, tfo: false}
-  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8558`", server: 85.159.229.164, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 2dd1a15d-1426-413a-a3b8-a645788bc844, servername: irl.speedload.online, host: irl.speedload.online, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs, short-id: a20d3ed244c76426}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 8785`", server: 45.141.234.159, port: 30724, type: vless, tls: true, packet-encoding: xudp, uuid: 54e5a989-5938-43ce-ba58-026ddbfd4d7b, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: KcWxOI6Y2kqFd_cg4bu-hWBZDlsJhT6TyRHhwFAHa0A, short-id: eab8ab08e4d6faa0}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@NETAZADI` 2", server: 5.188.141.239, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 65259548-1d98-0bb8-a7f9-1937927c68e9, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, reality-opts: {public-key: 4CH3o5zOMcFNMbnwXnkAg0FFepmsc0QzhahXkUzb1ik, short-id: d8c6b58bcbb0c323}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -494,8 +492,6 @@ proxy-groups:
     type: select
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"
@@ -512,8 +508,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"
@@ -530,8 +524,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"
@@ -557,8 +549,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"
@@ -575,8 +565,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"
@@ -593,8 +581,6 @@ proxy-groups:
     interval: 600
     proxies:
       - "@NETAZADI`"
-      - "@v2rayconfigamir 7638`"
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 8558`"
       - "@v2rayconfigamir 8785`"
       - "@NETAZADI` 2"

@@ -465,26 +465,24 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: 54.93.56.163:22223, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad`", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@tel_melli💜", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 54.93.56.163:22223 2, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 54.93.56.163:22223, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 2", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.36.148.207:22222, server: 13.36.148.207, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.137.164:22222, server: 13.37.137.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[21956] - Telegram : @configraygan", server: 13.37.137.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 13.37.137.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 13.37.137.164, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.37.37.183:22222, server: 13.37.37.183, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 13.37.37.183, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 3", server: 13.37.37.183, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.38.144.105:22222, server: 13.38.144.105, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 13.38.144.105, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 4", server: 13.38.144.105, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 5", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222 2, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "[22011] - Telegram : @configraygan", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 6", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***🐦‍🔥***-@SPEEDS_VPN", server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222 3, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.188.253.9:22222, server: 15.188.253.9, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -495,9 +493,11 @@ proxies:
   - {name: "@configraygan", server: 15.236.135.208, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad` 3", server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 18.156.11.33:22222, server: 18.156.11.33, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 7", server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.193.206.143:22222, server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 4", server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 8", server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 9", server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222 2, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -510,17 +510,14 @@ proxies:
   - {name: 54.93.56.163:22222, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 12", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22222 2, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 4", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "@filembad` 5", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 13", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 2", server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "***🐦‍🔥***-@SPEEDS_VPN`", server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.234.211.66:2087, server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b` 3", server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "%2F%3FBIA_TELEGRAM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29TM%28%40AZARBAYJAB1%29", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: 109.234.211.66:2087 2, server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 14", server: 109.234.211.66, port: 2087, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: "/?BIA_TELEGRAM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1) TM (@AZARBAYJAB1)", headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: 109.234.211.66:8443, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
-  - {name: "@filembad` 5", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 15", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: 109.234.211.66:8443 2, server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 16", server: 109.234.211.66, port: 8443, type: trojan, password: trojan, sni: store.timimi.dpdns.org, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: store.timimi.dpdns.org}}, udp: true, tfo: false}
@@ -573,26 +570,24 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -603,9 +598,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -618,17 +615,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"
@@ -671,26 +665,24 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -701,9 +693,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -716,17 +710,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"
@@ -769,26 +760,24 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -799,9 +788,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -814,17 +805,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"
@@ -876,26 +864,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -906,9 +892,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -921,17 +909,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"
@@ -974,26 +959,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -1004,9 +987,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -1019,17 +1004,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"
@@ -1072,26 +1054,24 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - 54.93.56.163:22223
-      - "***✅***@AR14N24b"
       - "@filembad`"
       - "@tel_melli💜"
-      - 54.93.56.163:22223 2
+      - 54.93.56.163:22223
       - "@filembad` 2"
-      - "***✅***@AR14N24b 2"
+      - "***✅***@AR14N24b"
       - 13.36.148.207:22222
       - 13.37.137.164:22222
       - "[21956] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 3"
+      - "***✅***@AR14N24b 2"
       - 13.37.37.183:22222
-      - "***✅***@AR14N24b 4"
+      - "***✅***@AR14N24b 3"
       - 13.38.144.105:22222
-      - "***✅***@AR14N24b 5"
+      - "***✅***@AR14N24b 4"
       - 13.39.7.170:22222
-      - "***✅***@AR14N24b 6"
+      - "***✅***@AR14N24b 5"
       - 13.39.7.170:22222 2
       - "[22011] - Telegram : @configraygan"
-      - "***✅***@AR14N24b 7"
+      - "***✅***@AR14N24b 6"
       - "***🐦‍🔥***-@SPEEDS_VPN"
       - 13.39.7.170:22222 3
       - 15.188.253.9:22222
@@ -1102,9 +1082,11 @@ proxy-groups:
       - "@configraygan"
       - 15.236.174.14:22222
       - "@filembad` 3"
-      - "***✅***@AR14N24b 8"
-      - 18.156.11.33:22222
+      - "***✅***@AR14N24b 7"
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
+      - "@filembad` 4"
+      - "***✅***@AR14N24b 8"
       - 3.123.240.134:22222
       - "***✅***@AR14N24b 9"
       - 3.123.240.134:22222 2
@@ -1117,17 +1099,14 @@ proxy-groups:
       - 54.93.56.163:22222
       - "***✅***@AR14N24b 12"
       - 54.93.56.163:22222 2
-      - "@filembad` 4"
+      - "@filembad` 5"
       - "***✅***@AR14N24b 13"
       - "***✅***@AR14N24b` 2"
-      - 63.183.120.121:22222
-      - "***🐦‍🔥***-@SPEEDS_VPN`"
       - 109.234.211.66:2087
       - "***✅***@AR14N24b` 3"
       - 109.234.211.66:2087 2
       - "***✅***@AR14N24b 14"
       - 109.234.211.66:8443
-      - "@filembad` 5"
       - "***✅***@AR14N24b 15"
       - 109.234.211.66:8443 2
       - "***✅***@AR14N24b 16"

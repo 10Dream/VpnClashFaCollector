@@ -465,7 +465,6 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "@KIA_NET چنل‌تلگرم 🙉", server: 198.23.249.154, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: /RikmNRn+3ujJ88RLowDng==:/RikmNRn+3ujJ88RLowDng==, udp: true, tfo: false}
   - {name: "@configraygan", server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
   - {name: 1-hamedvpns, server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
   - {name: 142.171.65.106:8388, server: 142.171.65.106, port: 8388, type: ss, cipher: 2022-blake3-aes-128-gcm, password: ASMkCw/SMA8MzZK8tv5vNw==:ASMkCw/SMA8MzZK8tv5vNw==, udp: true, tfo: false}
@@ -524,7 +523,6 @@ proxies:
   - {name: "***✅***@AR14N24b 22", server: 15.204.77.5, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: 6789cbe864360de7, udp: true, tfo: false}
   - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 23", server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
-  - {name: 148.113.139.160:46534, server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 24", server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
   - {name: 135.125.245.131:20939, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 25", server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
@@ -538,7 +536,6 @@ proxies:
   - {name: "@v2rayconfigamir 8125", server: 38.54.59.38, port: 11204, type: ss, cipher: chacha20-ietf-poly1305, password: 0cdde695873565ee, udp: true, tfo: false}
   - {name: 135.125.219.2:23349, server: 135.125.219.2, port: 23349, type: ss, cipher: chacha20-ietf-poly1305, password: 0b2e39a4642684aa, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 30", server: 135.125.219.2, port: 23349, type: ss, cipher: chacha20-ietf-poly1305, password: 0b2e39a4642684aa, udp: true, tfo: false}
-  - {name: "@KIA_NET چنل‌تلگرم 🙊", server: 217.60.249.112, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 0eC4ZBvStOgQEzTpCYjWN5, udp: true, tfo: false}
   - {name: 212.56.42.202:11291, server: 212.56.42.202, port: 11291, type: ss, cipher: chacha20-ietf-poly1305, password: 108cfe4ef4aea6c5, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 31", server: 212.56.42.202, port: 11291, type: ss, cipher: chacha20-ietf-poly1305, password: 108cfe4ef4aea6c5, udp: true, tfo: false}
   - {name: "@configraygan 2", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
@@ -548,7 +545,6 @@ proxies:
   - {name: "@PewezaVPN (تلگرام)` 2", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: 4, server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
   - {name: "@Capoit` 2", server: 51.89.119.213, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 15b0573830081d01, udp: true, tfo: false}
-  - {name: "@KIA_NET چنل‌تلگرم 🌼", server: 91.106.109.17, port: 48213, type: ss, cipher: chacha20-ietf-poly1305, password: 1a17c1f74cdc51d5, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:14383, server: lm-xx-002.sadaadf--d.com, port: 14383, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 32", server: lm-xx-002.sadaadf--d.com, port: 14383, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
   - {name: lm-xx-002.sadaadf--d.com:10543, server: lm-xx-002.sadaadf--d.com, port: 10543, type: ss, cipher: chacha20-ietf-poly1305, password: 1a931d29-1a0b-4e7a-bcff-d8b0d2fe5722, udp: true, tfo: false}
@@ -696,6 +692,7 @@ proxies:
   - {name: "***✅***@AR14N24b 98", server: 46.250.241.55, port: 45720, type: ss, cipher: chacha20-ietf-poly1305, password: c90d63dc7a6203af, udp: true, tfo: false}
   - {name: 163.171.207.11:29464, server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 99", server: 163.171.207.11, port: 29464, type: ss, cipher: chacha20-ietf-poly1305, password: cb4258dc1b53613c, udp: true, tfo: false}
+  - {name: 11@oneclickvpnkeys, server: 193.29.139.157, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: 193.29.139.227:8080, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 100", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: 62.146.231.199:18701, server: 62.146.231.199, port: 18701, type: ss, cipher: chacha20-ietf-poly1305, password: d0303b8de7b2037e, udp: true, tfo: false}
@@ -708,7 +705,6 @@ proxies:
   - {name: "***✅***@AR14N24b 103", server: 85.239.236.208, port: 28264, type: ss, cipher: chacha20-ietf-poly1305, password: e4c353ae602e1e45, udp: true, tfo: false}
   - {name: 109.199.114.82:25665, server: 109.199.114.82, port: 25665, type: ss, cipher: chacha20-ietf-poly1305, password: eac0d7ad1b6493b3, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 104", server: 109.199.114.82, port: 25665, type: ss, cipher: chacha20-ietf-poly1305, password: eac0d7ad1b6493b3, udp: true, tfo: false}
-  - {name: "@KIA_NET چنل‌تلگرم 🤎", server: hd117-xjp-jd.huidu51.com, port: 46611, type: ss, cipher: chacha20-ietf-poly1305, password: eebfd479-3c1f-46d5-b83d-3ccb3f07bf9a, udp: true, tfo: false}
   - {name: 193.29.139.227:8080 2, server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 105", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true, tfo: false}
   - {name: 212.192.14.226:41968, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
@@ -803,7 +799,6 @@ proxies:
   - {name: "***✅***@AR14N24b 141", server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.101:8080, server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 142", server: 82.38.31.101, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: "@KIA_NET چنل‌تلگرم 🌷", server: 82.38.31.122, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 82.38.31.124:8080, server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 143", server: 82.38.31.124, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 144", server: 82.38.31.148, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -857,6 +852,7 @@ proxies:
   - {name: "***✅***@AR14N24b 160", server: 144.31.130.65, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: pupas-shirting-unsung.freesocks.work:443, server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 161", server: pupas-shirting-unsung.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: p78naCf2EfOlRSLTX0wFVx, udp: true, tfo: false}
+  - {name: 185.212.149.195:55638, server: 185.212.149.195, port: 55638, type: ss, cipher: chacha20-ietf-poly1305, password: qlAaMfSPv2c1Sys925zjWY, udp: true, tfo: false}
   - {name: 103.149.182.79:8388, server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
   - {name: "@filembad` 7", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 162", server: 103.149.182.79, port: 8388, type: ss, cipher: chacha20-ietf, password: asd123456, udp: true, tfo: false}
@@ -1483,7 +1479,6 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -1542,7 +1537,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -1556,7 +1550,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -1566,7 +1559,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -1714,6 +1706,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -1726,7 +1719,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -1821,7 +1813,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -1875,6 +1866,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"
@@ -2491,7 +2483,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -2550,7 +2541,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -2564,7 +2554,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -2574,7 +2563,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -2722,6 +2710,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -2734,7 +2723,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -2829,7 +2817,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -2883,6 +2870,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"
@@ -3499,7 +3487,6 @@ proxy-groups:
     interval: 600
     tolerance: 50
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -3558,7 +3545,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -3572,7 +3558,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -3582,7 +3567,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -3730,6 +3714,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -3742,7 +3727,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -3837,7 +3821,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -3891,6 +3874,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"
@@ -4516,7 +4500,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -4575,7 +4558,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -4589,7 +4571,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -4599,7 +4580,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -4747,6 +4727,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -4759,7 +4740,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -4854,7 +4834,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -4908,6 +4887,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"
@@ -5524,7 +5504,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -5583,7 +5562,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -5597,7 +5575,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -5607,7 +5584,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -5755,6 +5731,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -5767,7 +5744,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -5862,7 +5838,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -5916,6 +5891,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"
@@ -6532,7 +6508,6 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "@KIA_NET چنل‌تلگرم 🙉"
       - "@configraygan"
       - 1-hamedvpns
       - 142.171.65.106:8388
@@ -6591,7 +6566,6 @@ proxy-groups:
       - "***✅***@AR14N24b 22"
       - 57.129.94.79:11206
       - "***✅***@AR14N24b 23"
-      - 148.113.139.160:46534
       - "***✅***@AR14N24b 24"
       - 135.125.245.131:20939
       - "***✅***@AR14N24b 25"
@@ -6605,7 +6579,6 @@ proxy-groups:
       - "@v2rayconfigamir 8125"
       - 135.125.219.2:23349
       - "***✅***@AR14N24b 30"
-      - "@KIA_NET چنل‌تلگرم 🙊"
       - 212.56.42.202:11291
       - "***✅***@AR14N24b 31"
       - "@configraygan 2"
@@ -6615,7 +6588,6 @@ proxy-groups:
       - "@PewezaVPN (تلگرام)` 2"
       - 4
       - "@Capoit` 2"
-      - "@KIA_NET چنل‌تلگرم 🌼"
       - lm-xx-002.sadaadf--d.com:14383
       - "***✅***@AR14N24b 32"
       - lm-xx-002.sadaadf--d.com:10543
@@ -6763,6 +6735,7 @@ proxy-groups:
       - "***✅***@AR14N24b 98"
       - 163.171.207.11:29464
       - "***✅***@AR14N24b 99"
+      - 11@oneclickvpnkeys
       - 193.29.139.227:8080
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
@@ -6775,7 +6748,6 @@ proxy-groups:
       - "***✅***@AR14N24b 103"
       - 109.199.114.82:25665
       - "***✅***@AR14N24b 104"
-      - "@KIA_NET چنل‌تلگرم 🤎"
       - 193.29.139.227:8080 2
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
@@ -6870,7 +6842,6 @@ proxy-groups:
       - "***✅***@AR14N24b 141"
       - 82.38.31.101:8080
       - "***✅***@AR14N24b 142"
-      - "@KIA_NET چنل‌تلگرم 🌷"
       - 82.38.31.124:8080
       - "***✅***@AR14N24b 143"
       - "***✅***@AR14N24b 144"
@@ -6924,6 +6895,7 @@ proxy-groups:
       - "***✅***@AR14N24b 160"
       - pupas-shirting-unsung.freesocks.work:443
       - "***✅***@AR14N24b 161"
+      - 185.212.149.195:55638
       - 103.149.182.79:8388
       - "@filembad` 7"
       - "***✅***@AR14N24b 162"

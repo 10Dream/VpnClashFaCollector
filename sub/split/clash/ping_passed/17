@@ -465,42 +465,34 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL", server: cn02.365cloud5878.com, port: 6009, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM", server: cn02.365cloud5878.com, port: 6039, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE", server: cn02.365cloud5878.com, port: 6027, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG", server: cn02.365cloud5878.com, port: 6050, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR", server: cn02.365cloud5878.com, port: 6022, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA", server: cn02.365cloud5878.com, port: 6016, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH", server: cn02.365cloud5878.com, port: 6041, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL", server: cn02.365cloud5878.com, port: 6037, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES", server: cn02.365cloud5878.com, port: 6031, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR", server: cn02.365cloud5878.com, port: 6018, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB", server: cn02.365cloud5878.com, port: 6014, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR", server: cn02.365cloud5878.com, port: 6021, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR", server: cn02.365cloud5878.com, port: 6046, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE", server: cn02.365cloud5878.com, port: 6026, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS", server: cn02.365cloud5878.com, port: 6042, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT", server: cn02.365cloud5878.com, port: 6024, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL", server: cn02.365cloud5878.com, port: 6028, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP", server: cn02.365cloud5878.com, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
-  - {name: "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT", server: cn02.365cloud5878.com, port: 6030, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL", server: cn02.365cloud5878.com, port: 6036, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO", server: cn02.365cloud5878.com, port: 6044, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU", server: cn02.365cloud5878.com, port: 6017, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK", server: cn02.365cloud5878.com, port: 6045, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR", server: cn02.365cloud5878.com, port: 6032, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW", server: cn02.365cloud5878.com, port: 6002, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR", server: cn02.365cloud5878.com, port: 6007, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI", server: cn02.365cloud5878.com, port: 6040, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV", server: cn02.365cloud5878.com, port: 6047, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK", server: cn02.365cloud5878.com, port: 6049, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY", server: cn02.365cloud5878.com, port: 6010, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL", server: cn02.365cloud5878.com, port: 6035, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ", server: cn02.365cloud5878.com, port: 6034, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES", server: cn02.365cloud5878.com, port: 6031, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR", server: cn02.365cloud5878.com, port: 6018, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB", server: cn02.365cloud5878.com, port: 6014, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR", server: cn02.365cloud5878.com, port: 6021, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR", server: cn02.365cloud5878.com, port: 6046, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE", server: cn02.365cloud5878.com, port: 6026, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS", server: cn02.365cloud5878.com, port: 6042, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT", server: cn02.365cloud5878.com, port: 6024, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL", server: cn02.365cloud5878.com, port: 6028, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP", server: cn02.365cloud5878.com, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280, server: n1753598452.wpg27.xyz, port: 443, type: vmess, uuid: 4f23eb7c-ef2f-43b0-90dd-f2b8a75954a5, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: n1753598452.wpg27.xyz}}, udp: true, tfo: false}
+  - {name: "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT", server: cn02.365cloud5878.com, port: 6030, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL", server: cn02.365cloud5878.com, port: 6036, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO", server: cn02.365cloud5878.com, port: 6044, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU", server: cn02.365cloud5878.com, port: 6017, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK", server: cn02.365cloud5878.com, port: 6045, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR", server: cn02.365cloud5878.com, port: 6032, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW", server: cn02.365cloud5878.com, port: 6002, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR", server: cn02.365cloud5878.com, port: 6007, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI", server: cn02.365cloud5878.com, port: 6040, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV", server: cn02.365cloud5878.com, port: 6047, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK", server: cn02.365cloud5878.com, port: 6049, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY", server: cn02.365cloud5878.com, port: 6010, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL", server: cn02.365cloud5878.com, port: 6035, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ", server: cn02.365cloud5878.com, port: 6034, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad", server: 44.251.110.165, port: 8686, type: vmess, uuid: 1a17b19d-4896-4531-af79-6e91d8ef8228, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, servername: baidu.com, network: ws, ws-opts: {path: /, headers: {Host: end-gfw.com}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 2", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 3", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -511,9 +503,9 @@ proxies:
   - {name: "| null | 99999ms | @filembad 8", server: zzrt.uhomdex.shop, port: 8443, type: vmess, uuid: edb3e961-0b28-4e52-8446-399f3ef03c08, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: zzrt.uhomdex.shop}}, udp: true, tfo: false}
   - {name: "🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB", server: 82.25.181.162, port: 31992, type: vmess, uuid: d4dac19d-bf0e-4760-ebb3-f150a48dc92b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /f150a48dc92b}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 9", server: 15.235.41.200, port: 80, type: vmess, uuid: 58fe1542-5290-40ad-815a-77707a81afe5, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, network: ws, ws-opts: {path: /, headers: {Host: 15.235.41.200}}, udp: true, tfo: false}
-  - {name: "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
+  - {name: "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU", server: 107.189.7.176, port: 53469, type: vmess, uuid: 2d7f32b9-5722-4d12-9325-6a4ef95c78df, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @v2rayconfigamir 8562", server: 198.41.208.172, port: 443, type: vmess, uuid: 20e92881-5fb4-4b05-bc77-57929476dc69, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: sg-gcore-2.sharecentre.online, network: ws, ws-opts: {path: /shirker, headers: {Host: sg-gcore-2.sharecentre.online}}, udp: true, tfo: false}
-  - {name: "| MX | 292ms | 4Nika-13520", server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| MX | 215ms | 4Nika-13520", server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 10", server: 216.238.87.47, port: 27502, type: vmess, uuid: b8155ce4-7e08-4c40-800f-8671312b7124, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 11", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 12", server: 217.218.52.1, port: 10048, type: vmess, uuid: 5959a8d8-984f-4264-8da7-401411b36e1a, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -525,21 +517,32 @@ proxies:
   - {name: "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4", server: 212.87.198.113, port: 51384, type: vmess, uuid: 7e1ebb0d-68c0-4d26-94fd-04d14ca55351, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | 4Nika-13634", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 14", server: 2wsde.12i.ccwu.cc, port: 443, type: vmess, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /WcCs2x2YwawFa6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, udp: true, tfo: false}
-  - {name: 🇩🇪 | DE | 504ms | @tel_melli, server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇩🇪 | DE | 442ms | @tel_melli, server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 15", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @icv2ray", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @icv2ray 2", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 16", server: 68.64.179.210, port: 443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "| null | 99999ms | @filembad 17", server: 94.183.149.127, port: 3911, type: vmess, uuid: 4d48dc13-7c9d-45b4-b9ed-7ecbf15066c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "| null | 99999ms | [21986] - Telegram : @configraygan", server: 94.183.149.127, port: 3911, type: vmess, uuid: 4d48dc13-7c9d-45b4-b9ed-7ecbf15066c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 🇫🇷 | FR | 452ms | 💎@configraygan, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE", server: cn02.365cloud5878.com, port: 6019, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 🇫🇷 | FR | 412ms | 💎@configraygan, server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE", server: cn02.365cloud5878.com, port: 6019, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT", server: cn02.365cloud5878.com, port: 6043, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK", server: cn02.365cloud5878.com, port: 6001, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU", server: cn02.365cloud5878.com, port: 6029, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG", server: cn02.365cloud5878.com, port: 6004, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 18", server: cn02.365cloud5878.com, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 19", server: chatgpt.com, port: 8443, type: vmess, uuid: 39382035-3420-4937-a031-303220393820, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-opts: {path: /ws, headers: {Host: tr-1.stunnel.cc}}, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 20", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @Hiddify_Nexttt + Psiphon", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @filembad 21", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @saministamm", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: b17345b9-6266-47f2-a473-8c57cbfe9ef9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @crayingroom تلگرام", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "| null | 99999ms | @vasl_bashim", server: gsmvpn.gsmvx.com, port: 5006, type: vmess, uuid: ef6e8954-20af-4266-a393-cccffa9db7c4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -556,42 +559,34 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -602,9 +597,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -616,63 +611,66 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -683,9 +681,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -697,63 +695,66 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -764,9 +765,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -778,21 +779,32 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -808,42 +820,34 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -854,9 +858,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -868,63 +872,66 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -935,9 +942,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -949,63 +956,66 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "| AL | 1030ms | 🇦🇱[openproxylist.com] vmess-AL"
-      - "| AM | 955ms | 🇦🇲[openproxylist.com] vmess-AM"
-      - "| BE | 713ms | 🇧🇪[openproxylist.com] vmess-BE"
-      - "| BG | 767ms | 🇧🇬[openproxylist.com] vmess-BG"
-      - "| BR | 1224ms | 🇧🇷[openproxylist.com] vmess-BR"
-      - 🇨🇦 | CA | 424ms | 🇨🇦[openproxylist.com] vmess-CA
-      - "| CH | 704ms | 🇨🇭[openproxylist.com] vmess-CH"
-      - "| CL | 1240ms | 🇨🇱[openproxylist.com] vmess-CL"
-      - 🇪🇸 | ES | 789ms | 🇪🇸[openproxylist.com] vmess-ES
-      - 🇫🇷 | FR | 777ms | 🇫🇷[openproxylist.com] vmess-FR
-      - 🇬🇧 | GB | 689ms | 🇬🇧[openproxylist.com] vmess-GB
-      - "| GR | 908ms | 🇬🇷[openproxylist.com] vmess-GR"
-      - "| HR | 807ms | 🇭🇷[openproxylist.com] vmess-HR"
-      - 🇭🇰 | HK | 4397ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 800ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - "| IE | 693ms | 🇮🇪[openproxylist.com] vmess-IE"
-      - 🇮🇸 | IS | 990ms | 🇮🇸[openproxylist.com] vmess-IS
-      - "| IT | 780ms | 🇮🇹[openproxylist.com] vmess-IT"
-      - "| IL | 948ms | 🇮🇱[openproxylist.com] vmess-IL"
-      - 🇯🇵 | JP | 493ms | 🇯🇵[openproxylist.com] vmess-JP
-      - 🇯🇵 | JP | 2243ms | @v2rayconfigamir 5280
-      - 🇯🇵 | JP | 3213ms | @v2rayconfigamir 9687
-      - "| PT | 785ms | 🇵🇹[openproxylist.com] vmess-PT"
-      - 🇵🇱 | PL | 840ms | 🇵🇱[openproxylist.com] vmess-PL
-      - "| RO | 884ms | 🇷🇴[openproxylist.com] vmess-RO"
-      - 🇷🇺 | RU | 840ms | 🇷🇺[openproxylist.com] vmess-RU
-      - "| SK | 699ms | 🇸🇰[openproxylist.com] vmess-SK"
-      - "| TR | 863ms | 🇹🇷[openproxylist.com] vmess-TR"
-      - 🇨🇳 | TW | 534ms | 🇹🇼[openproxylist.com] vmess-TW
-      - 🇰🇷 | KR | 862ms | 🇰🇷[openproxylist.com] vmess-KR
-      - "| LI | 762ms | 🇱🇮[openproxylist.com] vmess-LI"
-      - "| LV | 712ms | 🇱🇻[openproxylist.com] vmess-LV"
-      - "| MK | 865ms | 🇲🇰[openproxylist.com] vmess-MK"
-      - 🇲🇾 | MY | 899ms | 🇲🇾[openproxylist.com] vmess-MY
-      - 🇳🇱 | NL | 722ms | 🇳🇱[openproxylist.com] vmess-NL
-      - "| NZ | 704ms | 🇳🇿[openproxylist.com] vmess-NZ"
+      - 🇪🇸 | ES | 787ms | 🇪🇸[openproxylist.com] vmess-ES
+      - 🇫🇷 | FR | 768ms | 🇫🇷[openproxylist.com] vmess-FR
+      - 🇬🇧 | GB | 715ms | 🇬🇧[openproxylist.com] vmess-GB
+      - "| GR | 797ms | 🇬🇷[openproxylist.com] vmess-GR"
+      - "| HR | 909ms | 🇭🇷[openproxylist.com] vmess-HR"
+      - 🇭🇰 | HK | 2823ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 787ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - "| IE | 780ms | 🇮🇪[openproxylist.com] vmess-IE"
+      - 🇮🇸 | IS | 941ms | 🇮🇸[openproxylist.com] vmess-IS
+      - "| IT | 812ms | 🇮🇹[openproxylist.com] vmess-IT"
+      - "| IL | 894ms | 🇮🇱[openproxylist.com] vmess-IL"
+      - 🇯🇵 | JP | 447ms | 🇯🇵[openproxylist.com] vmess-JP
+      - 🇯🇵 | JP | 586ms | @v2rayconfigamir 9687
+      - 🇯🇵 | JP | 796ms | @v2rayconfigamir 5280
+      - "| PT | 836ms | 🇵🇹[openproxylist.com] vmess-PT"
+      - 🇵🇱 | PL | 814ms | 🇵🇱[openproxylist.com] vmess-PL
+      - "| RO | 825ms | 🇷🇴[openproxylist.com] vmess-RO"
+      - 🇷🇺 | RU | 949ms | 🇷🇺[openproxylist.com] vmess-RU
+      - "| SK | 798ms | 🇸🇰[openproxylist.com] vmess-SK"
+      - "| TR | 856ms | 🇹🇷[openproxylist.com] vmess-TR"
+      - 🇨🇳 | TW | 454ms | 🇹🇼[openproxylist.com] vmess-TW
+      - 🇰🇷 | KR | 917ms | 🇰🇷[openproxylist.com] vmess-KR
+      - "| LI | 846ms | 🇱🇮[openproxylist.com] vmess-LI"
+      - "| LV | 861ms | 🇱🇻[openproxylist.com] vmess-LV"
+      - "| MK | 917ms | 🇲🇰[openproxylist.com] vmess-MK"
+      - 🇲🇾 | MY | 925ms | 🇲🇾[openproxylist.com] vmess-MY
+      - 🇳🇱 | NL | 753ms | 🇳🇱[openproxylist.com] vmess-NL
+      - "| NZ | 816ms | 🇳🇿[openproxylist.com] vmess-NZ"
       - "| null | 99999ms | @filembad"
       - "| null | 99999ms | @filembad 2"
       - "| null | 99999ms | @filembad 3"
@@ -1016,9 +1026,9 @@ proxy-groups:
       - "| null | 99999ms | @filembad 8"
       - 🇬🇧 | null | 99999ms | 🇬🇧[openproxylist.com] vmess-GB
       - "| null | 99999ms | @filembad 9"
-      - "| CH | 828ms | 🇱🇺[openproxylist.com] vmess-LU"
+      - "| CH | 747ms | 🇱🇺[openproxylist.com] vmess-LU"
       - "| null | 99999ms | @v2rayconfigamir 8562"
-      - "| MX | 292ms | 4Nika-13520"
+      - "| MX | 215ms | 4Nika-13520"
       - "| null | 99999ms | @filembad 10"
       - "| null | 99999ms | @filembad 11"
       - "| null | 99999ms | @filembad 12"
@@ -1030,21 +1040,32 @@ proxy-groups:
       - "| null | 99999ms | 🇹🇷[openproxylist.com] vmess-TR 4"
       - "| null | 99999ms | 4Nika-13634"
       - "| null | 99999ms | @filembad 14"
-      - 🇩🇪 | DE | 504ms | @tel_melli
+      - 🇩🇪 | DE | 442ms | @tel_melli
       - "| null | 99999ms | @filembad 15"
       - "| null | 99999ms | @icv2ray"
       - "| null | 99999ms | @icv2ray 2"
+      - 🇯🇵 | JP | 410ms | 🇯🇵[openproxylist.com] vmess-JP
       - "| null | 99999ms | @filembad 16"
       - "| null | 99999ms | @filembad 17"
       - "| null | 99999ms | [21986] - Telegram : @configraygan"
-      - 🇫🇷 | FR | 452ms | 💎@configraygan
-      - 🇸🇬 | SG | 642ms | 🇸🇬[openproxylist.com] vmess-SG
-      - 🇩🇪 | DE | 1184ms | 🇩🇪[openproxylist.com] vmess-DE
-      - 🇩🇪 | DE | 1156ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇩🇪 | DE | 1104ms | 🇦🇹[openproxylist.com] vmess-AT
-      - 🇭🇰 | HK | 3857ms | 🇭🇰[openproxylist.com] vmess-HK
-      - "| HU | 1273ms | 🇭🇺[openproxylist.com] vmess-HU"
-      - 🇸🇬 | SG | 624ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇫🇷 | FR | 412ms | 💎@configraygan
+      - 🇸🇬 | SG | 581ms | 🇸🇬[openproxylist.com] vmess-SG
+      - 🇩🇪 | DE | 730ms | 🇩🇪[openproxylist.com] vmess-DE
+      - 🇩🇪 | DE | 534ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇩🇪 | DE | 833ms | 🇦🇹[openproxylist.com] vmess-AT
+      - 🇭🇰 | HK | 3811ms | 🇭🇰[openproxylist.com] vmess-HK
+      - "| HU | 756ms | 🇭🇺[openproxylist.com] vmess-HU"
+      - 🇸🇬 | SG | 690ms | 🇸🇬[openproxylist.com] vmess-SG
+      - "| null | 99999ms | @filembad 18"
+      - "| null | 99999ms | @filembad 19"
+      - "| null | 99999ms | @EsTunnel - Psiphon+V2rayNG"
+      - "| null | 99999ms | @filembad 20"
+      - "| null | 99999ms | @vasl_bashim - Psiphon+V2rayNG"
+      - "| null | 99999ms | @Hiddify_Nexttt + Psiphon"
+      - "| null | 99999ms | @filembad 21"
+      - "| null | 99999ms | @saministamm"
+      - "| null | 99999ms | @crayingroom تلگرام"
+      - "| null | 99999ms | @vasl_bashim"
   - name: دانلود منیجر 📥
     type: select
     proxies:

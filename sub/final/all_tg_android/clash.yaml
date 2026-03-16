@@ -468,7 +468,6 @@ proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 109.122.246.116:21491, server: 109.122.246.116, port: 21491, type: socks5, username: "@rastin0x", password: "@aeronode0", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 127.0.0.1:1080 2, server: 127.0.0.1, port: 1080, type: socks5, username: localhost, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808#V2RAYENGLISH, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808 2, server: 127.0.0.1, port: 10808, type: socks5, username: "@sexyboyvpn", password: "@sexyboyvpn", skip-cert-verify: false, udp: true, tfo: false}
@@ -516,7 +515,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -554,7 +552,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -592,7 +589,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -639,7 +635,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -677,7 +672,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2
@@ -715,7 +709,6 @@ proxy-groups:
       - 0.0.0.0:1080
       - 109.122.246.116:21491
       - 127.0.0.1:1080
-      - 127.0.0.1:1080 2
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
       - 127.0.0.1:10808 2

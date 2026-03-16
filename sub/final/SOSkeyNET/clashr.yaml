@@ -36,7 +36,6 @@ proxies:
   - {name: 57.129.95.45:11201 2, server: 57.129.95.45, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 6675cbf62d6a3a4f, udp: true, tfo: false}
   - {name: 15.204.77.5:10011, server: 15.204.77.5, port: 10011, type: ss, cipher: chacha20-ietf-poly1305, password: 6789cbe864360de7, udp: true, tfo: false}
   - {name: 57.129.94.79:11206, server: 57.129.94.79, port: 11206, type: ss, cipher: chacha20-ietf-poly1305, password: 70c455c9f19aa3a5, udp: true, tfo: false}
-  - {name: 148.113.139.160:46534, server: 148.113.139.160, port: 46534, type: ss, cipher: chacha20-ietf-poly1305, password: 7a106afc33eaa261, udp: true, tfo: false}
   - {name: 135.125.245.131:20939, server: 135.125.245.131, port: 20939, type: ss, cipher: chacha20-ietf-poly1305, password: 85d3d8ccba287d3e, udp: true, tfo: false}
   - {name: 51.161.80.138:43178, server: 51.161.80.138, port: 43178, type: ss, cipher: chacha20-ietf-poly1305, password: 92fd8088e482ee00, udp: true, tfo: false}
   - {name: 62.146.231.112:46292, server: 62.146.231.112, port: 46292, type: ss, cipher: chacha20-ietf-poly1305, password: 9e32371ec28c1656, udp: true, tfo: false}
@@ -587,6 +586,7 @@ proxies:
   - {name: 153.121.38.213:34818/, server: 153.121.38.213, port: 34818, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.45.139:4674, server: 153.121.45.139, port: 4674, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.45.139:4937/, server: 153.121.45.139, port: 4937, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 153.121.45.139:4937, server: 153.121.45.139, port: 4937, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.65.107:4019, server: 153.121.65.107, port: 4019, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 153.121.65.107:4019 2, server: 153.121.65.107, port: 4019, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.106.99:3057/, server: 160.16.106.99, port: 3057, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
@@ -613,7 +613,6 @@ proxies:
   - {name: 54.238.7.116:6196/, server: 54.238.7.116, port: 6196, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 57.181.29.108:34818/, server: 57.181.29.108, port: 34818, type: trojan, password: f389ed926e512e15f382dc3804029474, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 160.16.132.38:4674, server: 160.16.132.38, port: 4674, type: trojan, password: f7dbed8b1ca85124e793ba6c0bcfd0db, sni: www.nintendogames.net, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.131.88:443, server: 104.17.131.88, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 104.18.11.110:443, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.18.11.110:443 2, server: 104.18.11.110, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 104.18.32.37:443, server: 104.18.32.37, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
@@ -639,9 +638,8 @@ proxies:
   - {name: 172.64.152.23:443 6, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.gossipglove.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.gossipglove.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443 7, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
   - {name: 172.64.152.23:443 8, server: 172.64.152.23, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
-  - {name: 188.114.96.3:443, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: "%252fassignment", headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 188.114.96.3:443 2, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
-  - {name: 188.114.96.3:443 3, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
+  - {name: 188.114.96.3:443, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.multiplydose.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.multiplydose.com}}, udp: true, tfo: false}
+  - {name: 188.114.96.3:443 2, server: 188.114.96.3, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
   - {name: 188.114.98.0:443, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: 188.114.98.0:443 2, server: 188.114.98.0, port: 443, type: trojan, password: humanity, sni: www.calmlunch.com, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.calmlunch.com}}, udp: true, tfo: false}
   - {name: free1.aattaash.com:443, server: free1.aattaash.com, port: 443, type: trojan, password: humanity, sni: www.creationlong.org, skip-cert-verify: false, network: ws, ws-opts: {path: /assignment, headers: {Host: www.creationlong.org}}, udp: true, tfo: false}
@@ -685,6 +683,7 @@ proxies:
   - {name: 13.39.7.170:22223, server: 13.39.7.170, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22223 2, server: 13.39.7.170, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22223, server: 15.236.174.14, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.236.215:22223, server: 18.194.236.215, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22223 2, server: 3.123.240.134, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22223, server: 54.93.56.163, port: 22223, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -697,6 +696,7 @@ proxies:
   - {name: 13.39.7.170:22222 2, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22222 3, server: 13.39.7.170, port: 22222, type: trojan, password: telegram-id-privatevpns, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222 2, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
@@ -783,6 +783,7 @@ proxies:
   - {name: 13.39.7.170:22224 3, server: 13.39.7.170, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 13.39.7.170:22224 4, server: 13.39.7.170, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22224, server: 15.236.174.14, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.236.215:22224, server: 18.194.236.215, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22224 2, server: 3.123.240.134, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22224, server: 52.58.248.163, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1099,7 +1100,6 @@ proxies:
   - {name: ip.shakhle.ir:2083 2, server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: ip.shakhle.ir:2083 3, server: ip.shakhle.ir, port: 2083, type: vless, tls: true, packet-encoding: xudp, uuid: 260f19e2-41c2-4f0c-870f-ab7e28e72ef6, servername: ipv4.yasharteam.com, alpn: ["h2,http/1.1"], network: ws, ws-opts: {path: /, headers: {Host: ipv4.yasharteam.com}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 185.112.59.4:8446 5, server: 185.112.59.4, port: 8446, type: vless, tls: true, packet-encoding: xudp, uuid: 263bbe5e-aef6-4758-a032-87c050e0070e, servername: max.ru, host: max.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.17.157.2:2053, server: 104.17.157.2, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: snippet.fgfw.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: snippet.fgfw.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 141.94.78.246:8443, server: 141.94.78.246, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: k7ryegiaeu.chinam.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: k7ryegiaeu.chinam.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 144.24.140.37:443, server: 144.24.140.37, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: lirpeuijr.chinav.indevs.in, network: ws, ws-opts: {path: /danfeng, headers: {Host: lirpeuijr.chinav.indevs.in}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 162.19.79.57:2053, server: 162.19.79.57, port: 2053, type: vless, tls: true, packet-encoding: xudp, uuid: 26524cce-d514-4014-a426-365fb266a14d, servername: k7ryegiaeu.chinam.eu.org, network: ws, ws-opts: {path: /danfeng, headers: {Host: k7ryegiaeu.chinam.eu.org}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -1636,10 +1636,7 @@ proxies:
   - {name: 87.120.219.99:55057, server: 87.120.219.99, port: 55057, type: vless, tls: true, packet-encoding: xudp, uuid: 5d837e94-967d-43a8-8e36-440ddfa4fd15, servername: yandex.ru, host: yandex.ru, path: /, reality-opts: {public-key: uSzNQq_GJZGbq4SHtEsqBY93C2acsM-K-QACZC-J6Eo, short-id: aa5f8562357295ff}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 146.185.242.246:8448 16, server: 146.185.242.246, port: 8448, type: vless, tls: true, packet-encoding: xudp, uuid: 5e31cbdd-4e04-46ed-95b1-21e0eccd26c4, servername: api-maps.yandex.ru, host: api-maps.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 84.201.179.202:9443 16, server: 84.201.179.202, port: 9443, type: vless, tls: true, packet-encoding: xudp, uuid: 5e428110-2f3e-437e-befb-e41844b7655b, servername: travel.yandex.ru, host: travel.yandex.ru, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 104.18.42.54:2052, server: 104.18.42.54, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.72.233:2052, server: 104.21.72.233, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 162.159.36.20:2052, server: 162.159.36.20, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 172.64.145.202:2052, server: 172.64.145.202, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.146.153:2052, server: 172.64.146.153, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.146.27:2052, server: 172.64.146.27, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.64.147.165:2052, server: 172.64.147.165, port: 2052, type: vless, tls: true, packet-encoding: xudp, uuid: 5e62ddcf-78c9-4b15-803a-436c8c839ddc, network: ws, ws-opts: {path: /, headers: {Host: oBEDiENt-noiseqJf5ja18yF.wIndLer.CO.UK}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -2420,7 +2417,7 @@ proxies:
   - {name: we.configfast.site:1142, server: we.configfast.site, port: 1142, type: vless, tls: true, packet-encoding: xudp, uuid: ae29791e-b4e7-4a42-bab1-e937a24ab4a1, host: bale.ai%2C+web.splus.ir%2C+igap.net, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 104.21.65.159:80, server: 104.21.65.159, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: 2wsde.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 172.67.191.42:80, server: 172.67.191.42, port: 80, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbnju8.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 188.114.96.3:443 4, server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: dcvbghy7.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbghy7.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 188.114.96.3:443 3, server: 188.114.96.3, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: dcvbghy7.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbghy7.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: bnju8y7.12i.ccwu.cc:443, server: bnju8y7.12i.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: bnju8y7.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: bnju8y7.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: dcvbnju8.12i.ccwu.cc:443, server: dcvbnju8.12i.ccwu.cc, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: ae72f958-c1f6-4fc2-a310-1f007af3d11f, servername: dcvbnju8.12i.ccwu.cc, network: ws, ws-opts: {path: /C6VXG81UQc4XWS6Csfk0uFDF, headers: {Host: dcvbnju8.12i.ccwu.cc}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 51.250.118.241:6443, server: 51.250.118.241, port: 6443, type: vless, tls: true, packet-encoding: xudp, uuid: ae85c7e7-c16f-4075-9d2c-aa697f118550, servername: ads.x5.ru, network: grpc, grpc-opts: {grpc-mode: gun, grpc-service-name: grpc-x5}, reality-opts: {public-key: XqH-gNEL9eJfr1pglaI8WU3OvE654_5duXYBS35UXlM, short-id: abcdef0123456789}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
@@ -2962,6 +2959,7 @@ proxies:
   - {name: vpnstar6.lithiumhost.ir:42874, server: vpnstar6.lithiumhost.ir, port: 42874, type: vless, tls: true, packet-encoding: xudp, uuid: f420ffb5-b53d-4b16-bb96-f39f4dfea020, host: vpnstar6.lithiumhost.ir, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 85.158.110.62:8443, server: 85.158.110.62, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f4d8b865-a620-4e1d-802a-6bcf5a48c49e, servername: google.com, host: google.com, path: /, flow: xtls-rprx-vision, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.218.247.35:8443, server: 37.218.247.35, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f4fec1b0-a67e-4967-b9ea-0bd832b57a4d, servername: sun6-21.userapi.com, host: sun6-21.userapi.com, path: /, reality-opts: {public-key: upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo, short-id: 3ca620a7ed5f3196}, client-fingerprint: random, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: gz1-ts.nixarva.ir:443, server: gz1-ts.nixarva.ir, port: 443, type: vless, tls: true, packet-encoding: xudp, uuid: f675187d-1f65-4ec6-889d-9b99990512ed, host: bale.ai, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: po.jijibiji.online:1010, server: po.jijibiji.online, port: 1010, type: vless, tls: true, packet-encoding: xudp, uuid: f69fb3fd-fec4-8b01-301b-787c7edad2f9, servername: 57.128.255.3, host: 57.128.255.3, path: /, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.42.145.90:8443, server: 188.42.145.90, port: 8443, type: vless, tls: true, packet-encoding: xudp, uuid: f775978b-6e22-41a8-ae5e-5f9779e6745f, servername: juzibaipiao.5112233.xyz, network: ws, ws-opts: {path: /telegram.v2ray_apha.spacefp, headers: {Host: juzibaipiao.5112233.xyz}}, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 37.152.189.165:33189 3, server: 37.152.189.165, port: 33189, type: vless, tls: true, packet-encoding: xudp, uuid: f7b8dd3f-dd9b-4964-9179-83c15464f8cd, host: filimo.com, path: /, skip-cert-verify: false, udp: true, tfo: false}
@@ -3030,7 +3028,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -3581,6 +3578,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -3607,7 +3605,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -3635,7 +3632,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -3679,6 +3675,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -3691,6 +3688,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -3777,6 +3775,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -4093,7 +4092,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -4630,10 +4628,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -5414,7 +5409,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -5956,6 +5951,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -6024,7 +6020,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -6575,6 +6570,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -6601,7 +6597,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -6629,7 +6624,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -6673,6 +6667,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -6685,6 +6680,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -6771,6 +6767,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -7087,7 +7084,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -7624,10 +7620,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -8408,7 +8401,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -8950,6 +8943,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -9018,7 +9012,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -9569,6 +9562,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -9595,7 +9589,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -9623,7 +9616,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -9667,6 +9659,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -9679,6 +9672,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -9765,6 +9759,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -10081,7 +10076,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -10618,10 +10612,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -11402,7 +11393,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -11944,6 +11935,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -12011,7 +12003,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -12562,6 +12553,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -12588,7 +12580,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -12616,7 +12607,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -12660,6 +12650,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -12672,6 +12663,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -12758,6 +12750,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -13074,7 +13067,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -13611,10 +13603,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -14395,7 +14384,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -14937,6 +14926,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -15004,7 +14994,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -15555,6 +15544,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -15581,7 +15571,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -15609,7 +15598,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -15653,6 +15641,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -15665,6 +15654,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -15751,6 +15741,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -16067,7 +16058,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -16604,10 +16594,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -17388,7 +17375,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -17930,6 +17917,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -17997,7 +17985,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -18548,6 +18535,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -18574,7 +18562,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -18602,7 +18589,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -18646,6 +18632,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -18658,6 +18645,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -18744,6 +18732,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -19060,7 +19049,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -19597,10 +19585,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -20381,7 +20366,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -20923,6 +20908,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3
@@ -21012,7 +20998,6 @@ proxy-groups:
       - 57.129.95.45:11201 2
       - 15.204.77.5:10011
       - 57.129.94.79:11206
-      - 148.113.139.160:46534
       - 135.125.245.131:20939
       - 51.161.80.138:43178
       - 62.146.231.112:46292
@@ -21563,6 +21548,7 @@ proxy-groups:
       - 153.121.38.213:34818/
       - 153.121.45.139:4674
       - 153.121.45.139:4937/
+      - 153.121.45.139:4937
       - 153.121.65.107:4019
       - 153.121.65.107:4019 2
       - 160.16.106.99:3057/
@@ -21589,7 +21575,6 @@ proxy-groups:
       - 54.238.7.116:6196/
       - 57.181.29.108:34818/
       - 160.16.132.38:4674
-      - 104.17.131.88:443
       - 104.18.11.110:443
       - 104.18.11.110:443 2
       - 104.18.32.37:443
@@ -21617,7 +21602,6 @@ proxy-groups:
       - 172.64.152.23:443 8
       - 188.114.96.3:443
       - 188.114.96.3:443 2
-      - 188.114.96.3:443 3
       - 188.114.98.0:443
       - 188.114.98.0:443 2
       - free1.aattaash.com:443
@@ -21661,6 +21645,7 @@ proxy-groups:
       - 13.39.7.170:22223
       - 13.39.7.170:22223 2
       - 15.236.174.14:22223
+      - 18.194.236.215:22223
       - 3.123.240.134:22223
       - 3.123.240.134:22223 2
       - 54.93.56.163:22223
@@ -21673,6 +21658,7 @@ proxy-groups:
       - 13.39.7.170:22222 2
       - 13.39.7.170:22222 3
       - 15.236.174.14:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 3.123.240.134:22222 2
       - 52.58.248.163:22222
@@ -21759,6 +21745,7 @@ proxy-groups:
       - 13.39.7.170:22224 3
       - 13.39.7.170:22224 4
       - 15.236.174.14:22224
+      - 18.194.236.215:22224
       - 3.123.240.134:22224
       - 3.123.240.134:22224 2
       - 52.58.248.163:22224
@@ -22075,7 +22062,6 @@ proxy-groups:
       - ip.shakhle.ir:2083 2
       - ip.shakhle.ir:2083 3
       - 185.112.59.4:8446 5
-      - 104.17.157.2:2053
       - 141.94.78.246:8443
       - 144.24.140.37:443
       - 162.19.79.57:2053
@@ -22612,10 +22598,7 @@ proxy-groups:
       - 87.120.219.99:55057
       - 146.185.242.246:8448 16
       - 84.201.179.202:9443 16
-      - 104.18.42.54:2052
       - 104.21.72.233:2052
-      - 162.159.36.20:2052
-      - 172.64.145.202:2052
       - 172.64.146.153:2052
       - 172.64.146.27:2052
       - 172.64.147.165:2052
@@ -23396,7 +23379,7 @@ proxy-groups:
       - we.configfast.site:1142
       - 104.21.65.159:80
       - 172.67.191.42:80
-      - 188.114.96.3:443 4
+      - 188.114.96.3:443 3
       - bnju8y7.12i.ccwu.cc:443
       - dcvbnju8.12i.ccwu.cc:443
       - 51.250.118.241:6443
@@ -23938,6 +23921,7 @@ proxy-groups:
       - vpnstar6.lithiumhost.ir:42874
       - 85.158.110.62:8443
       - 37.218.247.35:8443
+      - gz1-ts.nixarva.ir:443
       - po.jijibiji.online:1010
       - 188.42.145.90:8443
       - 37.152.189.165:33189 3

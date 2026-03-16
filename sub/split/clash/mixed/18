@@ -467,6 +467,7 @@ rule-providers:
 proxies:
   - {name: "@tel_melli", server: 46.225.54.75, port: 10410, type: vmess, uuid: 0654d64d-08bf-43e5-ad44-18a7d1a8d6f7, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@icv2ray", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: "🇯🇵 [openproxylist.com] vmess-JP", server: 5.34.216.149, port: 6003, type: vmess, uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@filembad", server: 68.64.179.210, port: 443, type: vmess, uuid: 462d9694-62b5-4781-a287-61a422b920e8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, servername: mn1ray.jagoanvip.xyz, network: ws, ws-opts: {path: /, headers: {Host: mn1ray.jagoanvip.xyz}}, udp: true, tfo: false}
   - {name: "[21986] - Telegram : @configraygan", server: 94.183.149.127, port: 3911, type: vmess, uuid: 4d48dc13-7c9d-45b4-b9ed-7ecbf15066c1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@configraygan", server: 94.232.247.165, port: 45653, type: vmess, uuid: 9e91d19a-c73f-4276-adbc-b337c374259c, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false, udp: true, tfo: false}
@@ -533,6 +534,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"
@@ -589,6 +591,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"
@@ -645,6 +648,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"
@@ -710,6 +714,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"
@@ -766,6 +771,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"
@@ -822,6 +828,7 @@ proxy-groups:
     proxies:
       - "@tel_melli"
       - "@icv2ray"
+      - 🇯🇵 [openproxylist.com] vmess-JP
       - "@filembad"
       - "[21986] - Telegram : @configraygan"
       - "@configraygan"

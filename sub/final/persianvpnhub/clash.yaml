@@ -491,11 +491,11 @@ proxies:
   - {name: 15.224.41.239:22222, server: 15.224.41.239, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 15.236.174.14:22222, server: 15.236.174.14, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 18.193.206.143:22222, server: 18.193.206.143, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 18.194.236.215:22222, server: 18.194.236.215, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 3.123.240.134:22222, server: 3.123.240.134, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.57.221.181:22222, server: 52.57.221.181, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 52.58.248.163:22222, server: 52.58.248.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 54.93.56.163:22222, server: 54.93.56.163, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 63.183.120.121:22222, server: 63.183.120.121, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 6109", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
   - {name: "@v2rayconfigamir 3499", server: 80.173.231.254, port: 12420, type: trojan, password: wp9IsiY82uQhcmgNC1eoBM, sni: www.semanticstaplegun.click, skip-cert-verify: false, udp: true, tfo: false}
   - {name: proxymelimon, server: 18.193.206.143, port: 22224, type: vless, tls: true, packet-encoding: xudp, uuid: 05519058-d2ac-4f28-9e4a-2b2a1386749e, servername: trojan.burgerip.co.uk, network: ws, ws-opts: {path: /telegram-channel-vlessconfig, headers: {Host: trojan.burgerip.co.uk}}, skip-cert-verify: false, udp: true, tfo: false}
@@ -621,11 +621,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
@@ -741,11 +741,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
@@ -861,11 +861,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
@@ -990,11 +990,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
@@ -1110,11 +1110,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
@@ -1230,11 +1230,11 @@ proxy-groups:
       - 15.224.41.239:22222
       - 15.236.174.14:22222
       - 18.193.206.143:22222
+      - 18.194.236.215:22222
       - 3.123.240.134:22222
       - 52.57.221.181:22222
       - 52.58.248.163:22222
       - 54.93.56.163:22222
-      - 63.183.120.121:22222
       - "@v2rayconfigamir 6109"
       - "@v2rayconfigamir 3499"
       - proxymelimon
