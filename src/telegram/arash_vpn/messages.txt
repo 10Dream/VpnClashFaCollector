@@ -1,10 +1,16 @@
 # آرشیو کانال: @arash_vpn
-بروزرسانی: 2026-03-15 19:26:22 UTC
+بروزرسانی: 2026-03-16 06:07:51 UTC
+
+### 🕒 2026-03-15 23:51:30 UTC
+slipnet://MTd8c2F5ZWRuc3xhcmFzaF92cG5fbm9penx6Mi5hcmFzaC5lbWFpbHwyMjMuNS41LjU6NTM6MCwyMjMuNi42LjY6NTM6MCwxLjEuMS4zOjUzOjAsOC44LjguODo1MzowfDB8NTAwMHxiYnJ8MTA4MHwxMjcuMC4wLjF8MHxkMzkwYTFhNmY1N2Y1ZDI1YjQ3ODhhOTU0ZGM3YmU5NTUxOGIzZGM0YzUxYWUyNzMyYzliOTYxMzZlYTRjZDAzfHx8MHx8fDIyfDB8MTI3LjAuMC4xfDB8fHVkcHxwYXNzd29yZHx8fHwwfDQ0M3x8fDB8fDB8MHx8MHw=
+
+---
 
 ### 🕒 2026-03-15 00:24:38 UTC
 نویز دی ان اس:
 `slipnet://MTZ8c2F5ZWRuc3xhcmFzaHx6MS5hcmFzaC5lbWFpbHw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDdhOTNlOWRlMzU5OTc0NjA5NTdlMmM1OTAwMjcwZmY3YzI1NTU5NGNmMDZjM2MxZTY3M2QxNzBiMWQ1MWZlMGJ8fHx8fHx8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8MHw0NDN8fHx8MHx8MHwwfA==`
-طول پکت رو میتونین کم کنین احتمال وصل شدن بیشتر میشه ولی سرعت حتی کمتر هم میشه
+query size 
+رو تو تنظیمات میتونین کم کنین احتمال وصل شدن بیشتر میشه ولی سرعت حتی کمتر هم میشه
 
 ---
 
@@ -13,11 +19,6 @@
 ۱. دوستانی که vpn میفروشید کماکان نباید تبلیغات کنید وگرنه بن میشید.
 ۲. اعضای کانال میتونن تجربشون رو در مورد خرید به بقیه بگن. 
 ۳. با هم مهربون باشید هر گونه بد رفتاری با همدیگه رو زود بن میکنیم.
-
----
-
-### 🕒 2026-03-14 18:04:35 UTC
-بچه ببینین این روش براتون جواب میده ترکیب سایفون و و v2ray
 
 ---
 
@@ -90,116 +91,8 @@ Select app ( مثلا telegram و ...)
 
 ---
 
-### 🕒 2026-03-14 00:08:32 UTC
-> ↪️ **Forwarded**
-
-راهنمای  اتصال به اینترنت آزاد با HTTP Injector (آیفون)
-گام اول: نصب برنامه
-وارد App Store بشید، برنامه HTTP Injector رو جستجو کنید و اون رو دانلود کنید (لوگوی برنامه یک موشک سفید در پس‌زمینه آبی است).
-گام دوم: تنظیم نوع اتصال (Tunnel Type)
-برنامه رو باز کنید.
-در صفحه اصلی، روی بخش Tunnel Type (آیکون فلش/پیکان) ضربه بزنید.
-در لیستی که باز میشه، نوع تونل رو روی DNSTT تنظیم کنید.
-دکمه Save (ذخیره) رو بزنید تا به صفحه اصلی برگردید.
-گام سوم: وارد کردن نام کاربری و رمز عبور
-در صفحه اصلی، روی آیکون چرخ‌دنده (Settings) در گوشه صفحه ضربه بزنید.
-وارد بخش SSH/SOCKS Settings بشید.
-اطلاعات زیر رو با دقت و بدون فاصله (Space) اضافه وارد کنید:
-Username (نام کاربری): arash
-Password (رمز عبور): arash
-به منوی قبلی برگردید.
-گام چهارم: تنظیمات سرور و DNS (بسیار مهم)
-در همون صفحه تنظیمات، این بار وارد بخش DNSTT Settings بشید.
-در قسمت Name Server (یا NS)، آدرس زیر رو دقیقاً به همین شکل وارد کنید (دقت کنید که کلمه http:// رو ننویسید):
-[t1.arash.email](http://t1.arash.email/)
-در قسمت Public Key، این کد طولانی رو کپی و جای‌گذاری کنید:
-eef1b34767c4615cfb576829cdfc61fd149b29de02208d08926d3dc2bd2a5859
-در قسمت DNS Resolver، باید آدرس یک سرور دی‌ان‌اس عمومی رو وارد کنید. پیشنهاد ما این آدرس است:
-[93.118.114.23:53](http://93.118.114.23:53/)
-کار تمام است! به صفحه اصلی برنامه برگردید.
-گام پنجم: روشن کردن فیلترشکن
-حالا فقط کافیست روی دکمه بزرگ Start در پایین یا وسط صفحه ضربه بزنید.
-اگر اولین بار است که از برنامه استفاده می‌کنید، آیفون از شما اجازه می‌خواد که پروفایل VPN رو بسازه. روی Allow کلیک کنید و رمز گوشی (یا Face ID) رو بزنید.
-چند ثانیه صبر کنید تا کلمه Connected روی صفحه ظاهر بشه.
-***💡***
- نکته مهم برای اتصال بهتر: این روش برای عبور از شدیدترین محدودیت‌ها طراحی شده. اگر متصل نشد یا سرعت اولیه کم بود، یک بار گوشی رو روی حالت پرواز (Airplane Mode) بذارید، چند ثانیه صبر کنید، از حالت پرواز خارج بشید و دوباره دکمه Start رو بزنید.
-
----
-
-### 🕒 2026-03-13 20:06:49 UTC
-دوستانی که وصل شدین میتونین یه اسکرین رکورد درست کنین من بذارم تو کانال؟ پی وی بدین بهم.
-خدا عمرتون بده. ایشالا تو شادی هاتون جبران کنیم 
-***😘***
-***😘***
-***❤️***
-***❤️***
-
----
-
-### 🕒 2026-03-13 17:49:37 UTC
-slipnet://MTd8ZG5zdHR8YXJhc2h2cG5fc29ja3NfMXx0Mi5hcmFzaC5lbWFpbHwxLjAuMC4xOjUzOjAsMS4xLjEuMTo1MzowLDc2Ljc2LjIuMDo1MzowLDc2Ljc2LjEwLjA6NTM6MCwyMjMuNS41LjU6NTM6MCwxLjAuMC4yOjUzOjAsMTg1LjIyOC4xNjkuMTY4OjUzOjAsMTQ5LjExMi4xMTIuMTE6NTM6MHwwfDUwMDB8YmJyfDEwODB8M…
-
----
-
 ### 🕒 2026-03-13 17:49:11 UTC
 slipnet://MTd8ZG5zdHR8YXJhc2h2cG5fc29ja3NfMXx0Mi5hcmFzaC5lbWFpbHwxLjAuMC4xOjUzOjAsMS4xLjEuMTo1MzowLDc2Ljc2LjIuMDo1MzowLDc2Ljc2LjEwLjA6NTM6MCwyMjMuNS41LjU6NTM6MCwxLjAuMC4yOjUzOjAsMTg1LjIyOC4xNjkuMTY4OjUzOjAsMTQ5LjExMi4xMTIuMTE6NTM6MHwwfDUwMDB8YmJyfDEwODB8MTI3LjAuMC4xfDB8NTZhM2EzNThiODU2Y2ZkOGUxMTMwZGJmM2E2N2NlYmNkZjAwYjBjOWQxYTc2YTczYmQwNTUxNjc3ZmM5MTIwNnx8fDB8fHwyMnwwfDEyNy4wLjAuMXwwfHx1ZHB8cGFzc3dvcmR8fHx8MHw0NDN8fHwwfHwwfDB8fDB8
-
----
-
-### 🕒 2026-03-13 13:12:10 UTC
-عزیزان خیلیا میپرسن که چجوری میشه سرور ساخت یا چرا سرور ساختم کار نمیکنه. گفتم کلی اینجا جواب بدم به همه کمک کنه.
-دلیل فنیش اینه که تمام آی پی های خارجی بسته هستش بجز موارد خاص.
-طبیعتاً وقتی سرور شما موارد خاص نباشه که ۹۹.۹۹٪ نیست، کار نمیکنه.
-
----
-
-### 🕒 2026-03-13 04:10:07 UTC
-یه سرور دیگه با ssh برای اینجکتور و آیفون
-Nameserver: 
-`t1.arash.email`
-Public key:
-`eef1b34767c4615cfb576829cdfc61fd149b29de02208d08926d3dc2bd2a5859`
-SSH:
-Username: 
-`arash`
-Password: 
-`arash`
-
----
-
-### 🕒 2026-03-13 02:36:40 UTC
-بچه ها این کانفیگ اسلیپ نت رو میذارم بچه هایی که واردین خودتون اسکن کنین ریزالور در بیارین. دوستانی که با dnstt کار نکردین لطفا تو گروه بپرسین.  slipnet://MTd8ZG5zdHR8YXJhc2h2cG58dC5hcmFzaC5lbWFpbHw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDAy…
-
----
-
-### 🕒 2026-03-13 02:24:57 UTC
-بچه ها این کانفیگ اسلیپ نت رو میذارم بچه هایی که واردین خودتون اسکن کنین ریزالور در بیارین. دوستانی که با dnstt کار نکردین لطفا تو گروه بپرسین.
-`slipnet://MTd8ZG5zdHR8YXJhc2h2cG58dC5hcmFzaC5lbWFpbHw4LjguOC44OjUzOjB8MHw1MDAwfGJicnwxMDgwfDEyNy4wLjAuMXwwfDAyMGI0NDYxMWJmYzdlNmE2N2RhZjgyYjk0YzEwZDFhMTlmZDY4ZWI5NDA1NmM4M2NlZDAyMmU4MzlhYWVkNTR8fHwwfHx8MjJ8MHwxMjcuMC4wLjF8MHx8dWRwfHBhc3N3b3JkfHx8fDB8NDQzfHx8MHx8MHwwfHwwfA==`
-
----
-
-### 🕒 2026-03-13 00:10:25 UTC
-vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com&path=%2F&security=none&type=ws#arash_vpn
-
----
-
-### 🕒 2026-03-12 20:43:07 UTC
-بعضی اینترنت ها قطع شدن همراه هنوز وصله
-
----
-
-### 🕒 2026-03-12 20:05:10 UTC
-وصل شین موقتا ربات نمیخواد
-
----
-
-### 🕒 2026-03-12 19:49:16 UTC
-وصل شین موقتا ربات نمیخواد
-
----
-
-### 🕒 2026-03-12 19:49:04 UTC
-`vless://478cc26d-16b3-4fdd-be64-60d5a58c1622@188.114.98.0:80?host=tt.andishehparenting.com&path=%2F&security=none&type=ws#arash_vpn`
 
 ---
 

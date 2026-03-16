@@ -473,7 +473,6 @@ proxies:
   - {name: "@filembad`", server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇺🇸 USA | TLS, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 75.127.13.83:47974 3, server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: "@filembad` 2", server: 75.127.13.83, port: 47974, type: hysteria2, ports: 47974, password: 2c833c5d-cbcc-4afb-89ba-d17dc39db6f0, sni: www.bing.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 19@oneclickvpnkeys, server: uk01.nekocloud.top, port: 65001, type: hysteria2, ports: 65001, password: 86bfdc9d-64b0-447b-9316-2e3cc8712690, obfs: salamander, obfs-password: YxNSWNJUQkeKDiPc, sni: buylite.music.apple.com, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands | TLS • Salamander, server: 206.71.158.23, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 🇳🇱 Netherlands | TLS • Salamander 2, server: gavazn.lnmarketplace.net, port: 45000, type: hysteria2, ports: 45000, password: Telegram--%3E%40Ln2Ray, obfs: salamander, obfs-password: Telegram--%3E%40Ln2Ray, sni: gavazn.55994421.xyz, skip-cert-verify: false, udp: true, tfo: false}
@@ -513,7 +512,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2
@@ -543,7 +541,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2
@@ -573,7 +570,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2
@@ -612,7 +608,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2
@@ -642,7 +637,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2
@@ -672,7 +666,6 @@ proxy-groups:
       - "@filembad`"
       - 🇺🇸 USA | TLS
       - 75.127.13.83:47974 3
-      - "@filembad` 2"
       - 19@oneclickvpnkeys
       - 🇳🇱 Netherlands | TLS • Salamander
       - 🇳🇱 Netherlands | TLS • Salamander 2

@@ -465,28 +465,10 @@ rule-providers:
     interval: 86400
     path: ./ruleset/mihSpotify.yaml
 proxies:
-  - {name: "***✅***@AR14N24b", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
-  - {name: "@filembad`", server: 151.101.129.140, port: 80, type: ss, cipher: aes-256-gcm, password: noftaki, udp: true, tfo: false}
-  - {name: 94.72.127.55:80, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 2", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 94.72.127.55:80 2, server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 3", server: 94.72.127.55, port: 80, type: ss, cipher: aes-256-gcm, password: wlJSF0fC8uqB5Gm5, udp: true, tfo: false}
-  - {name: 149.102.149.207:80, server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 4", server: 149.102.149.207, port: 80, type: ss, cipher: aes-256-gcm, password: umWwoQJEJGf74SLe, udp: true, tfo: false}
-  - {name: 154.53.57.143:80, server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 5", server: 154.53.57.143, port: 80, type: ss, cipher: aes-256-gcm, password: uwmRUOVM5ljNAtPj, udp: true, tfo: false}
-  - {name: 50.62.88.16:443, server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 6", server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: 50.62.88.16:443 2, server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥", server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 7", server: 50.62.88.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: 69.84.182.16:443, server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2", server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 8", server: 69.84.182.16, port: 443, type: ss, cipher: none, password: 14b02e2a-8930-4afb-8412-ea4a4954ca5b, udp: true, tfo: false}
   - {name: 172.105.199.111:8080, server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 9", server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b", server: 172.105.199.111, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
   - {name: 68.183.227.4:8080, server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
-  - {name: "***✅***@AR14N24b 10", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
+  - {name: "***✅***@AR14N24b 2", server: 68.183.227.4, port: 8080, type: ss, cipher: rc4-md5, password: 14fFPrbezE3HDZzsMOr6, udp: true, tfo: false}
 proxy-groups:
   - name: نوع انتخاب پروکسی 🔀
     type: select
@@ -503,84 +485,30 @@ proxy-groups:
   - name: دستی 🤏🏻
     type: select
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: خودکار (بهترین پینگ) 🤖
     type: url-test
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     tolerance: 50
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: پشتیبان (در صورت قطعی) 🧯
     type: fallback
     url: https://www.gstatic.com/generate_204
     interval: 600
     tolerance: 50
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: اتصال پایدار 🔗
     type: url-test
     url: https://cp.cloudflare.com/generate_204
@@ -596,84 +524,30 @@ proxy-groups:
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: توزیع بار (گردشی) 🔁
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: توزیع بار (موقت) ⏳
     type: load-balance
     strategy: consistent-hashing
     url: https://api.v2fly.org/checkConnection.svgz
     interval: 600
     proxies:
-      - "***✅***@AR14N24b"
-      - "@filembad`"
-      - 94.72.127.55:80
-      - "***✅***@AR14N24b 2"
-      - 94.72.127.55:80 2
-      - "***✅***@AR14N24b 3"
-      - 149.102.149.207:80
-      - "***✅***@AR14N24b 4"
-      - 154.53.57.143:80
-      - "***✅***@AR14N24b 5"
-      - 50.62.88.16:443
-      - "***✅***@AR14N24b 6"
-      - 50.62.88.16:443 2
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥"
-      - "***✅***@AR14N24b 7"
-      - 69.84.182.16:443
-      - "@TeleProxyTeleحتما داخل کانال تلگرام باشید🔥🐦‍🔥 2"
-      - "***✅***@AR14N24b 8"
       - 172.105.199.111:8080
-      - "***✅***@AR14N24b 9"
+      - "***✅***@AR14N24b"
       - 68.183.227.4:8080
-      - "***✅***@AR14N24b 10"
+      - "***✅***@AR14N24b 2"
   - name: دانلود منیجر 📥
     type: select
     proxies:
