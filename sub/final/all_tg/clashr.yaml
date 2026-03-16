@@ -6,7 +6,6 @@ log-level: info
 external-controller: 127.0.0.1:9090
 proxies:
   - {name: 0.0.0.0:1080, server: 0.0.0.0, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 109.122.246.116:21491, server: 109.122.246.116, port: 21491, type: socks5, username: "@rastin0x", password: "@aeronode0", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:1080, server: 127.0.0.1, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 127.0.0.1:10808#V2RAYENGLISH, server: 127.0.0.1, port: 10808, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
@@ -15,24 +14,20 @@ proxies:
   - {name: 176.65.242.176:1080, server: 176.65.242.176, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 176.65.242.179:1080, server: 176.65.242.179, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 188.121.119.161:1080, server: 188.121.119.161, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 193.111.236.173:8844, server: 193.111.236.173, port: 8844, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 193.151.134.209:52224, server: 193.151.134.209, port: 52224, type: socks5, username: 1z9rj5lHJy, password: 4EvAep8FHs, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.2.245:5201, server: 2.144.2.245, port: 5201, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.132:12003, server: 2.144.20.132, port: 12003, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.20.19:98, server: 2.144.20.19, port: 98, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.21.81:1080, server: 2.144.21.81, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.144.23.246:8080, server: 2.144.23.246, port: 8080, type: socks5, username: "@prOxy_vvpn", password: "@prOxy_vvpn", skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.144.7.51:1082, server: 2.144.7.51, port: 1082, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 2.179.186.225:1080, server: 2.179.186.225, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 2.180.29.218:2020, server: 2.180.29.218, port: 2020, type: socks5, username: 2222, password: !<str> 2222, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 46.245.94.249:1080, server: 46.245.94.249, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 78.157.50.36:3389, server: 78.157.50.36, port: 3389, type: socks5, username: Azir69978baca7ccb, password: Azir69978baca7ccb, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 79.127.125.7:1092, server: 79.127.125.7, port: 1092, type: socks5, username: arsh2, password: n*W4cmh6t38, skip-cert-verify: false, udp: true, tfo: false}
   - {name: 87.107.105.184:1080, server: 87.107.105.184, port: 1080, type: socks5, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: 94.182.195.60:9090, server: 94.182.195.60, port: 9090, type: socks5, username: devops, password: Xz6Txmacjnb2wJBs9Wkp7x209v7Y9maINCtBDApM, skip-cert-verify: false, udp: true, tfo: false}
+  - {name: 87.248.156.106:8585, server: 87.248.156.106, port: 8585, type: socks5, username: rez, password: !<str> 3963, skip-cert-verify: false, udp: true, tfo: false}
   - {name: azir_proxy_ezterar.moonvira.com:53, server: azir_proxy_ezterar.moonvira.com, port: 53, type: socks5, username: 3068245_test, password: 3068245_test, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: azir_proxy_ezterar.viramon.net:3389, server: azir_proxy_ezterar.viramon.net, port: 3389, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: azir_proxy_ezterar.viramon.net:53, server: azir_proxy_ezterar.viramon.net, port: 53, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
-  - {name: azir_proxy_ezterar2.viramon.net:8080, server: azir_proxy_ezterar2.viramon.net, port: 8080, type: socks5, username: 5373183958_test, password: 5373183958_test, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks.nirvana-smoke.com:53, server: socks.nirvana-smoke.com, port: 53, type: socks5, username: Azir69ab8eb8457af, password: Azir69ab8eb8457af, skip-cert-verify: false, udp: true, tfo: false}
   - {name: socks3.nirvana-smoke.com:3389, server: socks3.nirvana-smoke.com, port: 3389, type: socks5, username: Azir69b4e54121aad, password: Azir69b4e54121aad, skip-cert-verify: false, udp: true, tfo: false}
   - {name: tel-pro-2.qcluster.org:4585, server: tel-pro-2.qcluster.org, port: 4585, type: socks5, username: TMN_General, password: GN843MQ1EX38VY48V1F2, skip-cert-verify: false, udp: true, tfo: false}
@@ -43,7 +38,6 @@ proxy-groups:
       - ♻️ 自动选择
       - DIRECT
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -52,24 +46,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -80,7 +70,6 @@ proxy-groups:
     tolerance: 50
     proxies:
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -89,24 +78,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -117,7 +102,6 @@ proxy-groups:
       - ♻️ 自动选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -126,24 +110,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -153,7 +133,6 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -162,24 +141,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -189,7 +164,6 @@ proxy-groups:
       - 🎯 全球直连
       - 🚀 节点选择
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -198,24 +172,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -225,7 +195,6 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -234,24 +203,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585
@@ -283,7 +248,6 @@ proxy-groups:
       - 🎯 全球直连
       - ♻️ 自动选择
       - 0.0.0.0:1080
-      - 109.122.246.116:21491
       - 127.0.0.1:1080
       - 127.0.0.1:10808
       - 127.0.0.1:10808#V2RAYENGLISH
@@ -292,24 +256,20 @@ proxy-groups:
       - 176.65.242.176:1080
       - 176.65.242.179:1080
       - 188.121.119.161:1080
+      - 193.111.236.173:8844
       - 193.151.134.209:52224
       - 2.144.2.245:5201
       - 2.144.20.132:12003
       - 2.144.20.19:98
       - 2.144.21.81:1080
-      - 2.144.23.246:8080
       - 2.144.7.51:1082
       - 2.179.186.225:1080
-      - 2.180.29.218:2020
       - 46.245.94.249:1080
       - 78.157.50.36:3389
       - 79.127.125.7:1092
       - 87.107.105.184:1080
-      - 94.182.195.60:9090
+      - 87.248.156.106:8585
       - azir_proxy_ezterar.moonvira.com:53
-      - azir_proxy_ezterar.viramon.net:3389
-      - azir_proxy_ezterar.viramon.net:53
-      - azir_proxy_ezterar2.viramon.net:8080
       - socks.nirvana-smoke.com:53
       - socks3.nirvana-smoke.com:3389
       - tel-pro-2.qcluster.org:4585

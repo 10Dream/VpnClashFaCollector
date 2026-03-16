@@ -97,7 +97,6 @@ proxies:
   - {name: 100@oneclickvpnkeys, server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 34", server: 149.104.71.134, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: 1e68d4bd002437ab, udp: true, tfo: false}
   - {name: admin.c1.havij.co:443, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
-  - {name: 31@oneclickvpnkeys, server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 35", server: admin.c1.havij.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: 1kVr0KATIJI7mwOF, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 36", server: portal.ninemakeda.cfd, port: 43669, type: ss, cipher: chacha20-ietf-poly1305, password: 23sUrwRcTBEAvxLS6VM6Aay57KQbws1upDAxr7Btf4hXu4gaUQW4BPbComjJjStM2JqJLDwVkteXL8V33k8eWkZR4UB8intz, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 37", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: 27BEHEQe68MwwhgusnZkLFvPTpqnU2Uwqsw9uSz2Wo3bQ56sfUW47SiZv1FETJzSJep4vtwJzMxQYrYxogE9FGbi31PVGcYS, udp: true, tfo: false}
@@ -174,12 +173,10 @@ proxies:
   - {name: "***✅***@AR14N24b 71", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: BpFieMT6SobpqRiKFefvYu7eXk99XfCeWfjpntzSh81FfMx9R7rJW6LTmzH78StTEhCd7w32ZMxbGJZS98gpn1ozr9jAbMoa, udp: true, tfo: false}
   - {name: 45.12.109.198:24604, server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 72", server: 45.12.109.198, port: 24604, type: ss, cipher: chacha20-ietf-poly1305, password: Cikn5gPJtNZqurNBPspEDz, udp: true, tfo: false}
-  - {name: 32@oneclickvpnkeys, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
   - {name: 144.31.234.82:45356, server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 73", server: 144.31.234.82, port: 45356, type: ss, cipher: chacha20-ietf-poly1305, password: EDTfh0zLmD5dfg03sQYFcp, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 74", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 75", server: mx2.drawnrisha.one, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: FjgGNNHQiELzxXmaHRxxtQbxDDvGXFxYdTbYe91JKZsjvKLHoY9rn9ruYE45377WjtU3m4kmXQZDXiHBJsgVfhmpawEoGvq9, udp: true, tfo: false}
-  - {name: 42@oneclickvpnkeys, server: 5.181.2.76, port: 36608, type: ss, cipher: chacha20-ietf-poly1305, password: JOZ5Mb3nJCmmoKhd8Cc9aC, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 76", server: media.mothyleela.cfd, port: 40521, type: ss, cipher: chacha20-ietf-poly1305, password: LYW2w9fwdrwj2qC9NyTBuBNKQJUvkKnCp9UxVnFW6LqeSpiCcnzV1cMohBUnCCWBkjkp83rV9wWeYQQqUZwMuYu1YyCt17tW, udp: true, tfo: false}
   - {name: 185.176.221.72:24637, server: 185.176.221.72, port: 24637, type: ss, cipher: chacha20-ietf-poly1305, password: MholStyHL7DhrewKbpQa20, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 77", server: 194.87.216.140, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: P5BTMb7UDDGaKG-4Q8_QvZ3m_GscUp8m, udp: true, tfo: false}
@@ -196,11 +193,9 @@ proxies:
   - {name: 51.132.226.113:443, server: 51.132.226.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 82", server: 51.132.226.113, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a1.samanehha.co:443, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
-  - {name: 40@oneclickvpnkeys, server: series-a1.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 83", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: W74XFALLLuw6m5IA, udp: true, tfo: false}
   - {name: 45.80.231.75:31019, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
-  - {name: 49@oneclickvpnkeys, server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 84", server: 45.80.231.75, port: 31019, type: ss, cipher: chacha20-ietf-poly1305, password: XN6Xf0ZqwDeFrt39TQraen, udp: true, tfo: false}
   - {name: 102.133.165.160:16233, server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 85", server: 102.133.165.160, port: 16233, type: ss, cipher: chacha20-ietf-poly1305, password: Xsy8Ox4yOV3xLlpxtjzs3X, udp: true, tfo: false}
@@ -237,8 +232,6 @@ proxies:
   - {name: "***✅***@AR14N24b 100", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: cvII85TrW6n0OGyfpHVS1u, udp: true, tfo: false}
   - {name: 62.146.231.199:18701, server: 62.146.231.199, port: 18701, type: ss, cipher: chacha20-ietf-poly1305, password: d0303b8de7b2037e, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 101", server: 62.146.231.199, port: 18701, type: ss, cipher: chacha20-ietf-poly1305, password: d0303b8de7b2037e, udp: true, tfo: false}
-  - {name: 45@oneclickvpnkeys`, server: 38.244.136.233, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t, udp: true, tfo: false}
-  - {name: 66@oneclickvpnkeys, server: promo18v.bystrivpn.ru, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: dAHM1pm8ag7KdlrUylQi6t, udp: true, tfo: false}
   - {name: 15.204.74.40:11201, server: 15.204.74.40, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e4be13eac9f8e36e, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 102", server: 15.204.74.40, port: 11201, type: ss, cipher: chacha20-ietf-poly1305, password: e4be13eac9f8e36e, udp: true, tfo: false}
   - {name: 85.239.236.208:28264, server: 85.239.236.208, port: 28264, type: ss, cipher: chacha20-ietf-poly1305, password: e4c353ae602e1e45, udp: true, tfo: false}
@@ -249,7 +242,7 @@ proxies:
   - {name: "***✅***@AR14N24b 105", server: 193.29.139.227, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: fbx1Fw7mENCd7vZMvorQZ5, udp: true, tfo: false}
   - {name: 212.192.14.226:41968, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
   - {name: "[21965] - Telegram : @configraygan", server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
-  - {name: 49@oneclickvpnkeys 2, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
+  - {name: 49@oneclickvpnkeys, server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 106", server: 212.192.14.226, port: 41968, type: ss, cipher: chacha20-ietf-poly1305, password: gC7aQv9DsENaVfKzTPDKYV, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: tinkered-pennies-puppies.freesocks.work:443 2, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
@@ -258,7 +251,6 @@ proxies:
   - {name: "@filembad` 5", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@vasl_bashim 5", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
-  - {name: 61@oneclickvpnkeys 2, server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@PewezaVPN (تلگرام)` 3", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "@ghalagyann (تلگرام)", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 107", server: tinkered-pennies-puppies.freesocks.work, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: hbGrpfvNrJsUmKmPbR3iY2, udp: true, tfo: false}
@@ -329,10 +321,7 @@ proxies:
   - {name: 57.129.140.88:8388, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: " ", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 138", server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
-  - {name: 34@oneclickvpnkeys, server: 57.129.140.88, port: 8388, type: ss, cipher: chacha20-ietf-poly1305, password: k1v5g9FefdoO, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 139", server: 185.5.38.111, port: 55988, type: ss, cipher: chacha20-ietf-poly1305, password: k7xW6N5SAVpgeqi1wd7s7yxD7S8PxaehUM5W8apHrQi3pSoDRXScoAPk8SVa4mKbvRjrgENU3dUgzTgp9T3rrXinaDe4CXYk, udp: true, tfo: false}
-  - {name: "@configraygan G7", server: 3.1.195.148, port: 8316, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
-  - {name: "@configraygan G8", server: 3.112.130.53, port: 8319, type: ss, cipher: chacha20-ietf-poly1305, password: ljqdalu13.., udp: true, tfo: false}
   - {name: series-a2.samanehha.co:443 2, server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 140", server: series-a2.samanehha.co, port: 443, type: ss, cipher: chacha20-ietf-poly1305, password: mps3FwmDjLrWaOVg, udp: true, tfo: false}
   - {name: 193.29.139.251:8080, server: 193.29.139.251, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -357,7 +346,6 @@ proxies:
   - {name: "@saministamm-2", server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: meliproxyy 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: vasl_bashim 2, server: 82.38.31.62, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan, server: 82.38.31.89, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.151:8080, server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 146", server: 193.29.139.151, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
   - {name: 193.29.139.152:8080, server: 193.29.139.152, port: 8080, type: ss, cipher: chacha20-ietf-poly1305, password: oZIoA69Q8yhcQV8ka3Pa3A, udp: true, tfo: false}
@@ -383,9 +371,7 @@ proxies:
   - {name: 147.45.49.163:9443, server: 147.45.49.163, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 158", server: 147.45.49.163, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 144.31.130.129:9443, server: 144.31.130.129, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
-  - {name: 37@oneclickvpnkeys, server: 144.31.130.129, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 144.31.130.99:9443, server: 144.31.130.99, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
-  - {name: 38@oneclickvpnkeys, server: 144.31.130.99, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 55@oneclickvpnkeys, server: 144.31.130.99, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 159", server: 144.31.130.99, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
   - {name: 144.31.130.65:9443, server: 144.31.130.65, port: 9443, type: ss, cipher: chacha20-ietf-poly1305, password: p1R3hJEWeQJGJL42SaYy22CC21uFt_0y, udp: true, tfo: false}
@@ -977,7 +963,6 @@ proxies:
   - {name: "***🐦‍🔥***-@SPEEDS_VPN 6", server: chatgpt.com, port: 443, type: ss, cipher: aes-256-gcm, password: mm, udp: true, tfo: false}
   - {name: "@filembad` 14", server: 104.17.148.22, port: 2082, type: ss, cipher: aes-256-gcm, password: mmmn, udp: true, tfo: false}
   - {name: "@filembad` 15", server: us.nitroo-tech.ru, port: 443, type: ss, cipher: aes-256-gcm, password: mjn, udp: true, tfo: false}
-  - {name: ⚡Telegram - @configraygan 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: 154.38.176.7:80, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: "***✅***@AR14N24b 407", server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
   - {name: 154.38.176.7:80 2, server: 154.38.176.7, port: 80, type: ss, cipher: aes-256-gcm, password: nKeE2ZFWVaE4DyjR, udp: true, tfo: false}
@@ -1101,7 +1086,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -1178,12 +1162,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -1200,11 +1182,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -1241,8 +1221,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -1253,7 +1231,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -1262,7 +1240,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -1333,10 +1310,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -1361,7 +1335,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -1387,9 +1360,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -1981,7 +1952,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -2105,7 +2075,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -2182,12 +2151,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -2204,11 +2171,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -2245,8 +2210,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -2257,7 +2220,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -2266,7 +2229,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -2337,10 +2299,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -2365,7 +2324,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -2391,9 +2349,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -2985,7 +2941,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -3109,7 +3064,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -3186,12 +3140,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -3208,11 +3160,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -3249,8 +3199,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -3261,7 +3209,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -3270,7 +3218,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -3341,10 +3288,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -3369,7 +3313,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -3395,9 +3338,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -3989,7 +3930,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -4112,7 +4052,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -4189,12 +4128,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -4211,11 +4148,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -4252,8 +4187,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -4264,7 +4197,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -4273,7 +4206,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -4344,10 +4276,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -4372,7 +4301,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -4398,9 +4326,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -4992,7 +4918,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -5115,7 +5040,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -5192,12 +5116,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -5214,11 +5136,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -5255,8 +5175,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -5267,7 +5185,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -5276,7 +5194,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -5347,10 +5264,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -5375,7 +5289,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -5401,9 +5314,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -5995,7 +5906,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -6118,7 +6028,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -6195,12 +6104,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -6217,11 +6124,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -6258,8 +6163,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -6270,7 +6173,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -6279,7 +6182,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -6350,10 +6252,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -6378,7 +6277,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -6404,9 +6302,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -6998,7 +6894,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
@@ -7143,7 +7038,6 @@ proxy-groups:
       - 100@oneclickvpnkeys
       - "***✅***@AR14N24b 34"
       - admin.c1.havij.co:443
-      - 31@oneclickvpnkeys
       - "***✅***@AR14N24b 35"
       - "***✅***@AR14N24b 36"
       - "***✅***@AR14N24b 37"
@@ -7220,12 +7114,10 @@ proxy-groups:
       - "***✅***@AR14N24b 71"
       - 45.12.109.198:24604
       - "***✅***@AR14N24b 72"
-      - 32@oneclickvpnkeys
       - 144.31.234.82:45356
       - "***✅***@AR14N24b 73"
       - "***✅***@AR14N24b 74"
       - "***✅***@AR14N24b 75"
-      - 42@oneclickvpnkeys
       - "***✅***@AR14N24b 76"
       - 185.176.221.72:24637
       - "***✅***@AR14N24b 77"
@@ -7242,11 +7134,9 @@ proxy-groups:
       - 51.132.226.113:443
       - "***✅***@AR14N24b 82"
       - series-a1.samanehha.co:443
-      - 40@oneclickvpnkeys
       - series-a2.samanehha.co:443
       - "***✅***@AR14N24b 83"
       - 45.80.231.75:31019
-      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 84"
       - 102.133.165.160:16233
       - "***✅***@AR14N24b 85"
@@ -7283,8 +7173,6 @@ proxy-groups:
       - "***✅***@AR14N24b 100"
       - 62.146.231.199:18701
       - "***✅***@AR14N24b 101"
-      - 45@oneclickvpnkeys`
-      - 66@oneclickvpnkeys
       - 15.204.74.40:11201
       - "***✅***@AR14N24b 102"
       - 85.239.236.208:28264
@@ -7295,7 +7183,7 @@ proxy-groups:
       - "***✅***@AR14N24b 105"
       - 212.192.14.226:41968
       - "[21965] - Telegram : @configraygan"
-      - 49@oneclickvpnkeys 2
+      - 49@oneclickvpnkeys
       - "***✅***@AR14N24b 106"
       - tinkered-pennies-puppies.freesocks.work:443
       - tinkered-pennies-puppies.freesocks.work:443 2
@@ -7304,7 +7192,6 @@ proxy-groups:
       - "@filembad` 5"
       - "@vasl_bashim 5"
       - 🇺🇸 USA | @KIA_NET چنل‌تلگرم 2
-      - 61@oneclickvpnkeys 2
       - "@PewezaVPN (تلگرام)` 3"
       - "@ghalagyann (تلگرام)"
       - "***✅***@AR14N24b 107"
@@ -7375,10 +7262,7 @@ proxy-groups:
       - 57.129.140.88:8388
       - " "
       - "***✅***@AR14N24b 138"
-      - 34@oneclickvpnkeys
       - "***✅***@AR14N24b 139"
-      - "@configraygan G7"
-      - "@configraygan G8"
       - series-a2.samanehha.co:443 2
       - "***✅***@AR14N24b 140"
       - 193.29.139.251:8080
@@ -7403,7 +7287,6 @@ proxy-groups:
       - "@saministamm-2"
       - meliproxyy 2
       - vasl_bashim 2
-      - ⚡Telegram - @configraygan
       - 193.29.139.151:8080
       - "***✅***@AR14N24b 146"
       - 193.29.139.152:8080
@@ -7429,9 +7312,7 @@ proxy-groups:
       - 147.45.49.163:9443
       - "***✅***@AR14N24b 158"
       - 144.31.130.129:9443
-      - 37@oneclickvpnkeys
       - 144.31.130.99:9443
-      - 38@oneclickvpnkeys
       - 55@oneclickvpnkeys
       - "***✅***@AR14N24b 159"
       - 144.31.130.65:9443
@@ -8023,7 +7904,6 @@ proxy-groups:
       - "***🐦‍🔥***-@SPEEDS_VPN 6"
       - "@filembad` 14"
       - "@filembad` 15"
-      - ⚡Telegram - @configraygan 2
       - 154.38.176.7:80
       - "***✅***@AR14N24b 407"
       - 154.38.176.7:80 2
